@@ -20,16 +20,16 @@ const BioDetail = () => {
   useEffect(() => {
     const fetchData = async () => {
       const { bios, info } = await loadAllData();
-      
-      const foundBio = bios.find(b => b.bio_id === parseInt(bioId));
+
+      const foundBio = bios.find(b => String(b.bio_id) === String(bioId));
       setBio(foundBio);
 
       const bioArticles = info.filter(
-        item => item.bio_id === parseInt(bioId) && item.cat === 'entity'
+        item => String(item.bio_id) === String(bioId) && item.cat === 'entity'
       );
       setArticles(bioArticles);
 
-      const jsonPromises = bioArticles.map(article => 
+      const jsonPromises = bioArticles.map(article =>
         loadArticleJson(article.id)
       );
       const jsons = await Promise.all(jsonPromises);
@@ -64,8 +64,8 @@ const BioDetail = () => {
           )}
         </div>
 
-        <BioViewer 
-          bio={bio} 
+        <BioViewer
+          bio={bio}
           currentTab={currentTab}
           onTabChange={handleTabChange}
         />

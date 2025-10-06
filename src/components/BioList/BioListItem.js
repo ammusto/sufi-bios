@@ -3,14 +3,6 @@ import { Star } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const BioListItem = ({ bio, hasArticles }) => {
-  // DEBUG: Log what we're receiving
-  console.log('BioListItem rendering:', {
-    bio_id: bio.bio_id,
-    name_ar: bio.name_ar,
-    name_lat: bio.name_lat,
-    allKeys: Object.keys(bio)
-  });
-
   return (
     <div className="search-result">
       <Link to={`/bio/${bio.bio_id}`} className="title-link">

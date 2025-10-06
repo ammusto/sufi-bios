@@ -31,7 +31,7 @@ const BioListItem = ({ bio, hasArticles }) => {
           {bio.hilyat && (
             <div className="result-field">
               <span className="field-label">Hilya:</span>
-              <span className="field-value">{bio.hilyat}</span>
+              <span className="field-value">{bio.hilya}</span>
             </div>
           )}
           {bio.sulami && (

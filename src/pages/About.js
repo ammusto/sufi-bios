@@ -18,7 +18,7 @@ const About = () => {
             
             <h4>Ṭabaqāt Works</h4>
             <ul>
-              <li>Ḥilay al-Awliyāʾ</li>
+              <li>Ḥilyat al-Awliyāʾ</li>
               <li>al-Sulamī's Ṭabaqāt al-Ṣūfiyya</li>
               <li>al-Anṣārī's Ṭabaqāt al-Ṣūfiyya</li>
               <li>al-Khumays al-Mawṣilī's Manāqib al-Abrār</li>

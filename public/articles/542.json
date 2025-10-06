@@ -1,0 +1,52 @@
+{
+  "id": "eweb_542",
+  "source": "EIs",
+  "cat": "entity",
+  "link": "https://referenceworks.brill.com/display/entries/ISLO/SIM-05000048.xml",
+  "annotator": "Jeremy",
+  "doi": "https://doi.org/10.1163/1875-9831_isla_SIM_05000048",
+  "title": "al-Būshanjī",
+  "authors": [
+    "Gholam-Ali Arya",
+    "Translated by Muhammad Isa Waley"
+  ],
+  "word_count": "(596 words)",
+  "source_editors": "Wilferd Madelung and Farhad Daftary",
+  "first_online": "17 Jun 2021",
+  "last_updated": "17 Jun 2021",
+  "issn": "1875-9831",
+  "publisher": "Brill",
+  "content": [
+    "Al-Būshanjī was one of the great authorities of his time on both doctrinal exposition and spiritual practice ( muʿāmalāt ). At the same time, the fact that he was devout, ascetic and an adept in the way of futuwwa who felt himself duty-bound to help anyone in need (al-Sulamī, 481; Anṣārī, 421; Jāmī, ed. ʿĀbidī, 230) is borne out by a number of anecdotes related about him (al-Ghazālī, 2/179; al-Qushayrī, 249; ʿAṭṭār, 2/76; Ibn al-Mulaqqin, 254–255; Ibn al-Jawzī, 204).",
+    "On his return to Būshanj from Iraq, al-Būshanjī was accused of being zindīq (ʿAṭṭār, 2/75). As Anṣārī (p. 421) puts it, ‘There may have been some flaws in his doctrinal tenets, or error in his manner of expression.’ This may explain why he moved to Nīsābūr and devoted himself to a life of worship, avoiding contact with people, until his death (Ibn ʿAsākir, 11/840; al-Subkī, 3/344; Ibn al-Mulaqqin, 252). He is said to have kept away from both the Friday prayers and other communal prayers, and to have replied, when reproached on this account: ‘If blessings lie in congregation ( jamāʿa ), well-being ( salāma ) lies in isolation ( ʿuzla )’ (Ibn al-Jawzī, 289; Ibn ʿAsākir, 11/843). Al-Būshanjī died in Nīsābūr. The funeral rites were conducted by his student Abū al-Ḥasan al-ʿAlawī (Ibn ʿAsākir, 11/841; Ibn al-Mulaqqin, 252), and he was buried next to the graves of Ḥamdūn al-Qaṣṣār al-Nīsābūrī (d. 271/884, founder of the Malāmatiyya Sufi order), Abū ʿAlī al-Thaqafī (d. 328/940) (one of the latter’s followers) and ʿAbd Allāh b. Munāzil (4th/10th Sufi and muḥaddith of the Shāfiʿī school) (al-Ḥākim al-Nīsābūrī, 145; Ibn ʿAsākir, 11/840, 841).",
+    "Although al-Būshanjī is not credited with the authorship of any writings, several sayings of his concerning futuwwa , altruism ( muruwwa ) and Sufism are recorded in biographical sources. His best-known dictum is probably: ‘Sufism is a name without a reality. Formerly it was a reality without a name’ (al-Sulamī, 482 Hujwīrī, 59)."
+  ],
+  "bibliography": [
+    "Abū Nuʿaym al-Iṣfahānī, Aḥmad, Ḥilyat al-awliyāʾ (Beirut, 1387/1967)",
+    "Anṣārī Harawī, ʿAbd Allāh, Ṭabaqāt al-Ṣūfiyya , ed. ʿAbd al-Ḥayy Ḥabībī (Kabul, 1341 Sh./1962)",
+    "Āryā, Ghulām ʿAlī, ‘Abū al-Ḥasan Pūshanjī’, GIE , vol. 5, pp. 333–334",
+    "ʿAṭṭār, Farīd al-Dīn, Tadhkirat al-awliyāʾ , ed. Muḥammad Qazwīnī (Tehran, 1336 Sh./1957)",
+    "Ghazālī, Abū Ḥāmid Muḥammad, Kīmiyā-yi saʿādat , ed. Ḥusayn Khadīw-Jam (Tehran, 1361 Sh./1982)",
+    "al-Ḥakīm al-Nīsābūrī, Tārīkh-i Nīshābūr , old Persian translation by Aḥmad Khalīfa Nīshābūrī, ed. Bahman Karīmī (Tehran, 1339 Sh./1960)",
+    "Hujwīrī, ʿAlī, Kashf al-maḥjūb , ed. Maḥmūd ʿĀbidī (Tehran, 1383 Sh./2004)",
+    "Ibn ʿAsākir, ʿAlī, Ta ⁠ ʾrīkh madīnat Dimashq (Amman, n.d.)",
+    "Ibn al-Jawzī, ʿAbd al-Raḥmān, Talbīs Iblīs (Beirut, 1368/1949)",
+    "Ibn al-Mulaqqin, ʿUmar, Ṭabaqāt al-awliyāʾ , ed. Nūr al-Dīn Shurayba (Beirut, 1406/1986)",
+    "Ibn Taghrībirdī, al-Nujūm",
+    "Jāmī, ʿAbd al-Raḥmān, Nafaḥāt al-uns , ed. Maḥmūd ʿĀbidī (Tehran, 1370 Sh./1991)",
+    "ibid., ed. Mahdī Tawḥīdīpūr (Tehran, 1336 Sh./1957)",
+    "Lings, Martin, A Sufi Saint of the Twentieth Century : Shaykh Aḥmad al-ʿAlawī (Cambridge, 2006)",
+    "al-Qushayrī, ʿAbd Karīm, al-Risāla al-Qushayriyya , ed. Maʿrūf Zurayq and ʿAlī ʿAbd al-Ḥamīd al-Balṭajī (Beirut, 1408/1988)",
+    "al-Subkī, ʿAbd al-Wahhāb, Ṭabaqāt al-Shāfiʿiyya al-kubrā , ed. Maḥmūd Muḥammad al-Tanāḥī and ʿAbd al-Fattāḥ Muḥammad al-Ḥulw (Beirut, 1384/1965)",
+    "al-Sulamī, Muḥammad, Ṭabaqāt al-Ṣūfiyya , ed. J. Pedersen (Leiden, 1960), pp. 481–484."
+  ],
+  "metrics": null,
+  "arabic_title": null,
+  "summary": null,
+  "parts": null,
+  "signature": null,
+  "print_details": null,
+  "published": null,
+  "citation": null,
+  "bio_id": 292
+}

@@ -1,0 +1,40 @@
+{
+  "id": "eweb_059",
+  "source": "EI3",
+  "cat": "term",
+  "link": "https://referenceworks.brill.com/display/entries/EI3O/SIM-0261.xml?rskey=xFm6jO&result=1",
+  "annotator": "Antonio",
+  "title": "ʿAzīma and rukhṣa",
+  "authors": [
+    "Marion H. Katz"
+  ],
+  "word_count": "(702 words)",
+  "source_editors": "Kate Fleet, Gudrun Krämer, Denis Matringe, John Nawas, and Devin J. Stewart",
+  "first_online": "01 Dec 2007",
+  "last_updated": "19 Jul 2021",
+  "issn": "1573-3912",
+  "publisher": "Brill",
+  "content": [
+    "ʿAzīm a and \n rukhṣa \n are legal terms referring, respectively, to the application of a commandment in Islamic law in its original force, and to its replacement with a less onerous alternative in cases of need or duress. Literally, rukhṣa means “facilitation” or “alleviation.” As a technical term in the discipline of uṣūl al-fiqh , it refers to a special dispensation from performing an obligatory act or from submitting to a prohibition, as a result of a mitigating circumstance (ʿudhr) . All other cases, in which the divine command remains in full force, are referred to as ʿazīma . Examples of rukhṣa cited by jurists include the dispensation allowing one to eat carrion when in extremity, to break the fast of Ramaḍān when travelling, to consume another’s wealth when under duress, or to wash down food with wine when choking. The category of rukhṣa also includes contracts such as salam (purchase of an item, such as agricultural produce, to be delivered in the future), ijāra (rental or hire, where the object of purchase is usufruct to be enjoyed or labour to be performed), and musāqāt (a contract whereby one party contracts to tend fruit trees for the other party, their owner, in exchange for a share of the fruit). Each of these contracts involves some element that would ordinarily invalidate it (such as the non-existence or indeterminacy of the object of sale) but nevertheless is considered valid under conditions of necessity. Some usages of the term are metaphoric (majāz) . For instance, the Islamic sharīʿa as a whole may be categorised as a rukhṣa, in view of its alleviation of the onerous duties imposed on previous religious communities (cf. Q 2:286).",
+    "An action is properly categorised as rukhṣa only if the obligation or prohibition that it overrides remains in force, although temporarily negated by concrete circumstances; for instance, the rationale for the prohibition of drinking wine (namely, that it causes intoxication) remains, although its consumption is permitted when life is in peril. In contrast, it is not an instance of rukhṣa when the Qurʾān (58:3–4) stipulates that a man can expiate an oath of ẓihār (a form of divorce) by freeing a slave or, if no slave is available, by fasting for two consecutive months, because the requirement to manumit a slave never applies to an individual who does not possess one in the first place. Thus, no existing obligation has been overridden by necessity; there are simply two different commandments that apply in two distinct situations.",
+    "There is a difference of opinion among jurists about the legal statuses that may apply to instances of rukhṣa . Some hold that an action that is obligatory (wājib) cannot be categorised as a rukhṣa , which, by its nature, must be an option to choose a less onerous alternative. According to others, a rukhṣa may be obligatory, such as the consumption of carrion by the starving; commendable (mandūb) , such as shortening the prayers when on a journey; or legally neutral (mubāḥ) , such as breaking a fast while on a journey or engaging in the aforementioned legal contracts. Some scholars, particularly Ḥanafīs, emphasise the religious merit of refusing to avail oneself of a rukhṣa (for instance, by refusing the dispensation that would allow one to renounce Islam verbally under threat of death, choosing martyrdom instead). Extending the meaning of ʿazīma and rukhṣa beyond their technical juristic meaning, the Ṣūfī ʿAbd al-Wahhāb al-Shaʿrānī (d. 973/1565) made these terms the basis for a reinterpretation of the entire sharīʿa as a graded progression of more lenient and more rigorous options appropriate for individuals of varying physical and spiritual capacities, thus harmonising the four Sunnī schools of fiqh and incorporating a Ṣūfī emphasis on progressive levels of religious attainment.",
+    "Print version: 9789004161641, 2007, 2007-3"
+  ],
+  "bibliography": [
+    "al-Sarakhsī, Uṣūl al-Sarakhsī (Hyderabad n.d.), 1:117–24",
+    "al-Ghazālī, al-Mustaṣfā (Beirut n.d.), 1:274–83",
+    "al-Bukhārī, Kashf al-asrār (Istanbul 1308/1890–1), 2:298–328",
+    "al-Isnawī, Nihāyat al-sūl (Cairo 1345/1926), 1:120–31",
+    "al-Shaʿrānī, Kitāb al-mīzān (Beirut 1409/1989), 1:59–80 and passim",
+    "Mohammad Hashim Kamali, Principles of Islamic jurisprudence (Cambridge 1997), 339–40."
+  ],
+  "metrics": null,
+  "arabic_title": null,
+  "summary": null,
+  "parts": null,
+  "signature": null,
+  "print_details": null,
+  "published": null,
+  "citation": null,
+  "bio_id": null
+}

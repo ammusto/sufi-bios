@@ -1,11 +1,11 @@
 import React, { useMemo } from 'react';
 
 const BibliographySection = ({ articleData }) => {
-  // Sort articles by source alphabetically
+  // Filter out nulls first, then sort articles by source alphabetically
   const sortedArticleData = useMemo(() => {
-    return [...articleData].sort((a, b) => 
-      (a.source || '').localeCompare(b.source || '')
-    );
+    return articleData
+      .filter(article => article !== null && article !== undefined)
+      .sort((a, b) => (a.source || '').localeCompare(b.source || ''));
   }, [articleData]);
 
   // Flatten all bibliographies with source prefixes
@@ -13,14 +13,28 @@ const BibliographySection = ({ articleData }) => {
     const bibliography = [];
     
     sortedArticleData.forEach(article => {
+      let bibEntries = [];
+      
+      // Case 1: Bibliography at top level (like eweb_066)
       if (article.bibliography && Array.isArray(article.bibliography)) {
-        article.bibliography.forEach(entry => {
-          bibliography.push({
-            source: article.source,
-            entry: entry
-          });
+        bibEntries = article.bibliography;
+      }
+      // Case 2: Bibliography nested in parts array (like eweb_245)
+      else if (article.parts && Array.isArray(article.parts)) {
+        article.parts.forEach(part => {
+          if (part.bibliography && Array.isArray(part.bibliography)) {
+            bibEntries = bibEntries.concat(part.bibliography);
+          }
         });
       }
+      
+      // Add all entries with source prefix
+      bibEntries.forEach(entry => {
+        bibliography.push({
+          source: article.source,
+          entry: entry
+        });
+      });
     });
     
     return bibliography;

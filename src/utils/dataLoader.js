@@ -40,13 +40,17 @@ export const loadArticleJson = async (articleId) => {
     const response = await fetch(`/data/articles/${paddedId}.json`);
     
     if (!response.ok) {
-      throw new Error(`Failed to fetch article ${paddedId}: ${response.statusText}`);
+      // Silently return null for missing files instead of warning
+      return null;
     }
     
     return await response.json();
   } catch (error) {
-    console.error(`Error loading article ${articleId}:`, error);
-    throw error;
+    // Only log actual errors, not missing files
+    if (!error.message.includes('JSON')) {
+      console.error(`Error loading article ${articleId}:`, error);
+    }
+    return null;
   }
 };
 

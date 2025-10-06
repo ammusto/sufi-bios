@@ -3,14 +3,30 @@ import { ExternalLink } from 'lucide-react';
 import { SOURCE_NAMES } from '../../utils/constants';
 
 const ArticlesSection = ({ articles, articleData }) => {
-  // Sort articles alphabetically by source
+  // Filter out null entries first, then sort articles alphabetically by source
   const sortedArticles = useMemo(() => {
-    return [...articles].sort((a, b) => {
-      const sourceA = articleData.find(d => d.id === a.id)?.source || '';
-      const sourceB = articleData.find(d => d.id === b.id)?.source || '';
-      return sourceA.localeCompare(sourceB);
-    });
+    // Create pairs of articles with their data, filtering out nulls
+    const validPairs = articles
+      .map(article => ({
+        article,
+        data: articleData.find(d => d && d.id === article.id)
+      }))
+      .filter(pair => pair.data !== null && pair.data !== undefined);
+    
+    // Sort by source
+    return validPairs
+      .sort((a, b) => {
+        const sourceA = a.data.source || '';
+        const sourceB = b.data.source || '';
+        return sourceA.localeCompare(sourceB);
+      })
+      .map(pair => pair.article);
   }, [articles, articleData]);
+
+  // If no valid articles, don't render the section
+  if (sortedArticles.length === 0) {
+    return null;
+  }
 
   return (
     <div style={{ marginBottom: '30px' }}>
@@ -22,7 +38,7 @@ const ArticlesSection = ({ articles, articleData }) => {
         padding: '20px'
       }}>
         {sortedArticles.map(article => {
-          const data = articleData.find(d => d.id === article.id);
+          const data = articleData.find(d => d && d.id === article.id);
           if (!data) return null;
 
           const sourceName = SOURCE_NAMES[data.source] || data.source;

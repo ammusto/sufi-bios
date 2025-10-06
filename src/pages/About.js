@@ -11,43 +11,33 @@ const About = () => {
             
             <p>
               This database provides access to biographical information about Sufi figures
-              from multiple tabaqat (biographical dictionary) sources and modern encyclopedia entries.
+              from multiple biographical dictionaries and modern encyclopedia entries.
             </p>
-
-            <h3>Features</h3>
-            <ul>
-              <li>Browse biographies with Arabic names and transliterations</li>
-              <li>Search with automatic Arabic/Persian character normalization</li>
-              <li>View original tabaqat pages from six classical sources</li>
-              <li>Access modern encyclopedia articles about each figure</li>
-              <li>Combined bibliographies from multiple sources</li>
-            </ul>
 
             <h3>Sources</h3>
             
-            <h4>Tabaqat Works</h4>
+            <h4>Ṭabaqāt Works</h4>
             <ul>
-              <li>Hilya al-Awliya</li>
-              <li>Sulami's Tabaqat al-Sufiyya</li>
-              <li>Ansari's Tabaqat al-Sufiyya</li>
-              <li>Manaqib</li>
-              <li>Attar's Tadhkirat al-Awliya</li>
-              <li>Jami's Nafahat al-Uns</li>
+              <li>Ḥilay al-Awliyāʾ</li>
+              <li>al-Sulamī's Ṭabaqāt al-Ṣūfiyya</li>
+              <li>al-Anṣārī's Ṭabaqāt al-Ṣūfiyya</li>
+              <li>al-Khumays al-Mawṣilī's Manāqib al-Abrār</li>
+              <li>al-Aṭṭār's Tadhkirat al-Awliyāʾ</li>
+              <li>Jāmī's Nafaḥāt al-Uns</li>
             </ul>
 
             <h4>Modern Encyclopedias</h4>
             <ul>
               <li>Encyclopaedia of Islam (2nd & 3rd editions)</li>
               <li>Encyclopaedia Iranica</li>
-              <li>Dānešnāma-ye Bozorg-e Eslāmī</li>
+              <li>Dānishnāma-yi Buzurg-i Islāmī</li>
               <li>Türkiye Diyanet Vakfı İslâm Ansiklopedisi</li>
             </ul>
 
             <h3>How to Use</h3>
             <p>
               Use the search bar to find figures by their Arabic name or transliteration.
-              The search automatically normalizes Arabic and Persian characters, so you don't
-              need to worry about different forms of alif, ya, kaf, etc.
+              The search automatically normalizes Arabic and Persian characters.
             </p>
             <p>
               Entries marked with a star have additional encyclopedia articles available.

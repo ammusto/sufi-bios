@@ -21,7 +21,7 @@ const About = () => {
               <li>Ḥilyat al-Awliyāʾ</li>
               <li>al-Sulamī's Ṭabaqāt al-Ṣūfiyya</li>
               <li>al-Anṣārī's Ṭabaqāt al-Ṣūfiyya</li>
-              <li>al-Khumays al-Mawṣilī's Manāqib al-Abrār</li>
+              <li>al-Khamīs al-Mawṣilī's Manāqib al-Abrār</li>
               <li>al-Aṭṭār's Tadhkirat al-Awliyāʾ</li>
               <li>Jāmī's Nafaḥāt al-Uns</li>
             </ul>

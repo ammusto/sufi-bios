@@ -3,7 +3,6 @@ import { Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import About from './pages/About';
 import BioDetail from './components/BioDetail/BioDetail';
-import Network from './pages/Network';
 
 function App() {
   return (
@@ -11,8 +10,6 @@ function App() {
       <Route path="/" element={<Home />} />
       <Route path="/about" element={<About />} />
       <Route path="/bio/:bioId" element={<BioDetail />} />
-      <Route path="/network" element={<Network />} />
-      <Route path="/network/:source" element={<Network />} />
     </Routes>
   );
 }

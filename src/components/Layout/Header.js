@@ -14,9 +14,6 @@ const Header = () => {
           <ul className="flex">
             <li><Link to="/">Browse Bios</Link></li>
             <li><Link to="/about">About</Link></li>
-            <li><Link to="/network">Network</Link></li>
-            <li><Link to="/network-simple">Network</Link></li>
-
           </ul>
         </nav>
       </div>

@@ -1,0 +1,277 @@
+{
+  "bio_id": "425",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "320",
+    "full_text": "مَاتَ أَبُو عَمْرو سنة عشْرين وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "دمشق",
+      "context": "nisba",
+      "full_text": "الدِّمَشْقِي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ مُحَمَّد بن عبد الله",
+          "person_id": 306,
+          "canonical_name": "أبو بكر الرّازيّ محمّد بن عبد الله"
+        },
+        {
+          "name": "أَبَا عَمْرو الدِّمَشْقِي",
+          "person_id": 474,
+          "canonical_name": "أبو عمرو الدّمشقي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ مُحَمَّد بن عبد الله يَقُول سَمِعت أَبَا عَمْرو الدِّمَشْقِي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم عبد الله بن مُحَمَّد الشَّامي",
+          "person_id": 290,
+          "canonical_name": "أبو القاسم عبد الله بن محمّد الشّامي"
+        },
+        {
+          "name": "أَبَا عَمْرو الدِّمَشْقِي",
+          "person_id": 474,
+          "canonical_name": "أبو عمرو الدّمشقي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْقَاسِم عبد الله بن مُحَمَّد الشَّامي يَقُول سَمِعت أَبَا عَمْرو الدِّمَشْقِي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 1072,
+          "canonical_name": "منصور بن عبد الله"
+        },
+        {
+          "name": "أَبُو عَمْرو الدِّمَشْقِي",
+          "person_id": 474,
+          "canonical_name": "أبو عمرو الدّمشقي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول قَالَ أَبُو عَمْرو الدِّمَشْقِي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "أَبَا عَمْرو الدِّمَشْقِي",
+          "person_id": 474,
+          "canonical_name": "أبو عمرو الدّمشقي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت أَبَا عَمْرو الدِّمَشْقِي وَسُئِلَ عَن حَدِيث النَّبِي ﷺ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "أَبَا عَمْرو الدِّمَشْقِي",
+          "person_id": 474,
+          "canonical_name": "أبو عمرو الدّمشقي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عَمْرو",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "أَحْمد بن عَليّ",
+          "person_id": 551,
+          "canonical_name": "أحمد بن عليّ"
+        },
+        {
+          "name": "أَبَا الْخَيْر الديلمي",
+          "person_id": 222,
+          "canonical_name": "أبو الخير الديلمي"
+        },
+        {
+          "name": "أَبُو عَمْرو الدِّمَشْقِي",
+          "person_id": 474,
+          "canonical_name": "أبو عمرو الدّمشقي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول سَمِعت أَحْمد بن عَليّ يَقُول سَمِعت أَبَا الْخَيْر الديلمي يَقُول قَالَ أَبُو عَمْرو الدِّمَشْقِي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "أَحْمد بن عَليّ",
+          "person_id": 551,
+          "canonical_name": "أحمد بن عليّ"
+        },
+        {
+          "name": "أَبَا الْخَيْر الديلمي",
+          "person_id": 222,
+          "canonical_name": "أبو الخير الديلمي"
+        },
+        {
+          "name": "أَبُو عَمْرو الدِّمَشْقِي",
+          "person_id": 474,
+          "canonical_name": "أبو عمرو الدّمشقي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عَمْرو",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "أَحْمد بن عَليّ",
+          "person_id": 551,
+          "canonical_name": "أحمد بن عليّ"
+        },
+        {
+          "name": "أَبَا الْخَيْر الديلمي",
+          "person_id": 222,
+          "canonical_name": "أبو الخير الديلمي"
+        },
+        {
+          "name": "أَبُو عَمْرو الدِّمَشْقِي",
+          "person_id": 474,
+          "canonical_name": "أبو عمرو الدّمشقي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عَمْرو",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "أَبَا عَمْرو الدِّمَشْقِي",
+          "person_id": 474,
+          "canonical_name": "أبو عمرو الدّمشقي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت أَبَا عَمْرو الدِّمَشْقِي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "أَبَا عَمْرو الدِّمَشْقِي",
+          "person_id": 474,
+          "canonical_name": "أبو عمرو الدّمشقي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عَمْرو الدِّمَشْقِي",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أَبَا عبد الله بن الْجلاء",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَا عبد الله بن الْجلاء",
+        "person_id": 416,
+        "canonical_name": "أبو عبد الله بن الجلاء"
+      },
+      {
+        "name": "أَصْحَاب ذِي النُّون الْمصْرِيّ",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وَأَصْحَاب ذِي النُّون الْمصْرِيّ",
+        "person_id": 581,
+        "canonical_name": "أصحاب ذو النون المصريّ"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَبَا بكر الرَّازِيّ مُحَمَّد بن عبد الله",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ مُحَمَّد بن عبد الله يَقُول",
+      "person_id": 306,
+      "canonical_name": "أبو بكر الرّازيّ محمّد بن عبد الله"
+    },
+    {
+      "name": "أَبَا الْقَاسِم عبد الله بن مُحَمَّد الشَّامي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْقَاسِم عبد الله بن مُحَمَّد الشَّامي يَقُول",
+      "person_id": 290,
+      "canonical_name": "أبو القاسم عبد الله بن محمّد الشّامي"
+    },
+    {
+      "name": "مَنْصُور بن عبد الله",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول",
+      "person_id": 1072,
+      "canonical_name": "منصور بن عبد الله"
+    },
+    {
+      "name": "أَبَا بكر الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول",
+      "person_id": 305,
+      "canonical_name": "أبو بكر الرّازيّ"
+    },
+    {
+      "name": "أَبَا الْخَيْر الديلمي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْخَيْر الديلمي يَقُول",
+      "person_id": 222,
+      "canonical_name": "أبو الخير الديلمي"
+    }
+  ]
+}

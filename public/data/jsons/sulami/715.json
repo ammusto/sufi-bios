@@ -1,0 +1,913 @@
+{
+  "bio_id": "715",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "270",
+    "full_text": "توفّي سنة سبعين وَمِائَتَيْنِ وَيُقَال سنة سبع وَسِتِّينَ وَالله أعلم",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "نيسابور",
+      "context": "nisba",
+      "full_text": "النَّيْسَابُورِي"
+    },
+    {
+      "place": "كورداباذ",
+      "context": "lived",
+      "full_text": "وَهُوَ من أهل قَرْيَة يُقَال لَهَا كورداباذ على بَاب مَدِينَة نيسابور إِذا خرجت إِلَى بُخَارى"
+    },
+    {
+      "place": "بغداد",
+      "context": "visited",
+      "full_text": "لما أَرَادَ أَبُو حَفْص الْخُرُوج من بَغْدَاد"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبُو عُثْمَان بن إِسْمَاعِيل",
+          "person_id": 434,
+          "canonical_name": "أبو عثمان بن إسماعيل"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قَالَ أَبُو عُثْمَان بن إِسْمَاعِيل سَأَلت أستاذي أَبَا حَفْص عمر بن سَلمَة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي عَمْرو بن حمدَان",
+          "person_id": 478,
+          "canonical_name": "أبو عمرو بن حمدان"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        },
+        {
+          "name": "أَبُو حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قَرَأت بِخَط أبي عَمْرو بن حمدَان قَالَ سَمِعت أبي يَقُول قَالَ أَبُو حَفْص",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي عَمْرو بن حمدَان",
+          "person_id": 478,
+          "canonical_name": "أبو عمرو بن حمدان"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        },
+        {
+          "name": "مخمش الْجلاب",
+          "person_id": 1053,
+          "canonical_name": "مخمش الجلاب"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ مخمش الْجلاب",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي عَمْرو بن حمدَان",
+          "person_id": 478,
+          "canonical_name": "أبو عمرو بن حمدان"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        },
+        {
+          "name": "مخمش الْجلاب",
+          "person_id": 1053,
+          "canonical_name": "مخمش الجلاب"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ مرّة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي عَمْرو بن حمدَان",
+          "person_id": 478,
+          "canonical_name": "أبو عمرو بن حمدان"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        },
+        {
+          "name": "أَبُو حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَكَانَ أَبُو حَفْص يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي عَمْرو بن حمدَان",
+          "person_id": 478,
+          "canonical_name": "أبو عمرو بن حمدان"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        },
+        {
+          "name": "مُحَمَّد بن بَحر الشجيني",
+          "person_id": 978,
+          "canonical_name": "محمّد بن بحر الشجيني"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ مُحَمَّد بن بَحر الشجيني أَخُو زَكَرِيَّا",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي عَمْرو بن حمدَان",
+          "person_id": 478,
+          "canonical_name": "أبو عمرو بن حمدان"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        },
+        {
+          "name": "أَبُو حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ قَالَ أَبُو حَفْص",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي عَمْرو بن حمدَان",
+          "person_id": 478,
+          "canonical_name": "أبو عمرو بن حمدان"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        },
+        {
+          "name": "أَبُو حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو حَفْص",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جدي ﵀",
+          "person_id": 476,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت جدي ﵀ يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الرَّحْمَن بن الْحُسَيْن الصُّوفِي",
+          "person_id": 737,
+          "canonical_name": "عبد الرّحمن بن الحسين الصّوفي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الرَّحْمَن بن الْحُسَيْن الصُّوفِي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الرَّحْمَن",
+          "person_id": 737,
+          "canonical_name": "عبد الرّحمن بن الحسين الصّوفي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت عبد الرَّحْمَن يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        },
+        {
+          "name": "أَبَا الْعَبَّاس الدينَوَرِي",
+          "person_id": 231,
+          "canonical_name": "أبو العبّاس الدينوري"
+        },
+        {
+          "name": "أَبُو حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أبي يَقُول سَمِعت أَبَا الْعَبَّاس الدينَوَرِي يَقُول قَالَ أَبُو حَفْص",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد بن حمدَان",
+          "person_id": 970,
+          "canonical_name": "محمّد بن أحمد بن حمدان"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        },
+        {
+          "name": "أَبَا حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّد بن أَحْمد بن حمدَان يَقُول سَمِعت أبي يَقُول سَمِعت أَبَا حَفْص يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا أَحْمَد بن عِيسَى",
+          "person_id": 296,
+          "canonical_name": "أبو أحمد بن عيسى"
+        },
+        {
+          "name": "مَحْفُوظ بن مَحْمُود",
+          "person_id": 925,
+          "canonical_name": "محفوظ بن محمود"
+        },
+        {
+          "name": "أَبَا حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا أَحْمد بن عِيسَى يَقُول سَمِعت مَحْفُوظ بن مَحْمُود يَقُول سَمِعت أَبَا حَفْص يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا أَحْمَد بن عِيسَى",
+          "person_id": 296,
+          "canonical_name": "أبو أحمد بن عيسى"
+        },
+        {
+          "name": "مَحْفُوظ بن مَحْمُود",
+          "person_id": 925,
+          "canonical_name": "محفوظ بن محمود"
+        },
+        {
+          "name": "رجل",
+          "person_id": 658,
+          "canonical_name": "رجل"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ رجل لأبي حَفْص",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا أَحْمَد بن عِيسَى",
+          "person_id": 296,
+          "canonical_name": "أبو أحمد بن عيسى"
+        },
+        {
+          "name": "مَحْفُوظ بن مَحْمُود",
+          "person_id": 925,
+          "canonical_name": "محفوظ بن محمود"
+        },
+        {
+          "name": "أَبُو حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو حَفْص حرست قلبِي عشْرين سنة ثمَّ حرسني قلبِي عشْرين سنة ثمَّ وَردت حَالَة صرنا فِيهَا محروسين جَمِيعًا",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا أَحْمَد بن عِيسَى",
+          "person_id": 296,
+          "canonical_name": "أبو أحمد بن عيسى"
+        },
+        {
+          "name": "مَحْفُوظ بن مَحْمُود",
+          "person_id": 925,
+          "canonical_name": "محفوظ بن محمود"
+        },
+        {
+          "name": "أَبُو حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو حَفْص من تجرع كأس الشوق يهيم هياما لَا يفِيق إِلَّا عِنْد الْمُشَاهدَة واللقاء",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا أَحْمَد بن عِيسَى",
+          "person_id": 296,
+          "canonical_name": "أبو أحمد بن عيسى"
+        },
+        {
+          "name": "مَحْفُوظ بن مَحْمُود",
+          "person_id": 925,
+          "canonical_name": "محفوظ بن محمود"
+        },
+        {
+          "name": "أَبُو حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو حَفْص إِذا رَأَيْت الْمُحب سَاكِنا هادئا فَاعْلَم أَنه وَردت عَلَيْهِ غَفلَة فَإِن الْحبّ لَا يتْرك صَاحبه يهدأ بل يزعجه فِي الدنو والبعد واللقاء والحجاب",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا أَحْمَد بن عِيسَى",
+          "person_id": 296,
+          "canonical_name": "أبو أحمد بن عيسى"
+        },
+        {
+          "name": "مَحْفُوظ بن مَحْمُود",
+          "person_id": 925,
+          "canonical_name": "محفوظ بن محمود"
+        },
+        {
+          "name": "أَبُو حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو حَفْص التصوف كُله آدَاب لكل وَقت أدب وَلكُل مقَام أدب فَمن لزم آدَاب الْأَوْقَات بلغ مبلغ الرِّجَال وَمن ضيع الْآدَاب فَهُوَ بعيد من حَيْثُ يظنّ الْقرب ومردود من حَيْثُ يَرْجُو الْقبُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَمْرو بن حمدَان",
+          "person_id": 478,
+          "canonical_name": "أبو عمرو بن حمدان"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        },
+        {
+          "name": "أَبُو حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا عَمْرو بن حمدَان يَقُول وجدت فِي كتاب أبي قَالَ أَبُو حَفْص",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو عُثْمَان الْحِيرِي النَّيْسَابُورِي",
+          "person_id": 432,
+          "canonical_name": "أبو عثمان الحيري النّيسابوري"
+        },
+        {
+          "name": "أبي حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَذكر أَبُو عُثْمَان الْحِيرِي النَّيْسَابُورِي عَن أبي حَفْص أَنه قَالَ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا الْحسن بن مقسم",
+          "person_id": 198,
+          "canonical_name": "أبو الحسن بن مقسم"
+        },
+        {
+          "name": "أَبَا مُحَمَّد المرتعش",
+          "person_id": 120,
+          "canonical_name": "المرتعش"
+        },
+        {
+          "name": "أَبَا حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت ابا الْحسن بن مقسم بِبَغْدَاد يَقُول سَمِعت أَبَا مُحَمَّد المرتعش يَقُول سَمِعت أَبَا حَفْص يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا الْحسن بن مقسم",
+          "person_id": 198,
+          "canonical_name": "أبو الحسن بن مقسم"
+        },
+        {
+          "name": "أَبَا مُحَمَّد المرتعش",
+          "person_id": 120,
+          "canonical_name": "المرتعش"
+        },
+        {
+          "name": "أَبُو حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ أَبُو حَفْص عَن قَول الله ﷿ ﴿وعاشروهن بِالْمَعْرُوفِ﴾ [النِّسَاء ١٩] قَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا الْحسن بن مقسم",
+          "person_id": 198,
+          "canonical_name": "أبو الحسن بن مقسم"
+        },
+        {
+          "name": "أَبَا مُحَمَّد المرتعش",
+          "person_id": 120,
+          "canonical_name": "المرتعش"
+        },
+        {
+          "name": "أَبُو حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ أَبُو حَفْص عَن الْبُخْل فَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا الْحسن بن مقسم",
+          "person_id": 198,
+          "canonical_name": "أبو الحسن بن مقسم"
+        },
+        {
+          "name": "أَبَا مُحَمَّد المرتعش",
+          "person_id": 120,
+          "canonical_name": "المرتعش"
+        },
+        {
+          "name": "أَبُو حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ أَيْضا من الْوَلِيّ فَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا الْحسن بن مقسم",
+          "person_id": 198,
+          "canonical_name": "أبو الحسن بن مقسم"
+        },
+        {
+          "name": "أَبَا مُحَمَّد المرتعش",
+          "person_id": 120,
+          "canonical_name": "المرتعش"
+        },
+        {
+          "name": "أَبُو حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو حَفْص مَا ظَهرت حَالَة عالية إِلَّا من مُلَازمَة أصل صَحِيح",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا الْحسن بن مقسم",
+          "person_id": 198,
+          "canonical_name": "أبو الحسن بن مقسم"
+        },
+        {
+          "name": "أَبَا مُحَمَّد المرتعش",
+          "person_id": 120,
+          "canonical_name": "المرتعش"
+        },
+        {
+          "name": "أَبُو حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ سُئِلَ عَن أَحْكَام الْفقر وآدابها على الْفُقَرَاء فَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا الْحسن بن مقسم",
+          "person_id": 198,
+          "canonical_name": "أبو الحسن بن مقسم"
+        },
+        {
+          "name": "أَبَا مُحَمَّد المرتعش",
+          "person_id": 120,
+          "canonical_name": "المرتعش"
+        },
+        {
+          "name": "أَبُو حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ أَبُو حَفْص من الْعَاقِل فَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا الْحسن بن مقسم",
+          "person_id": 198,
+          "canonical_name": "أبو الحسن بن مقسم"
+        },
+        {
+          "name": "أَبَا مُحَمَّد المرتعش",
+          "person_id": 120,
+          "canonical_name": "المرتعش"
+        },
+        {
+          "name": "أَبُو حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ سُئِلَ أَبُو حَفْص عَن الْعُبُودِيَّة فَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا الْحسن بن مقسم",
+          "person_id": 198,
+          "canonical_name": "أبو الحسن بن مقسم"
+        },
+        {
+          "name": "أَبَا مُحَمَّد المرتعش",
+          "person_id": 120,
+          "canonical_name": "المرتعش"
+        },
+        {
+          "name": "أَبُو حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو حَفْص من رأى فضل الله عَلَيْهِ فِي كل حَال أَرْجُو أَلا يهْلك",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا الْحسن بن مقسم",
+          "person_id": 198,
+          "canonical_name": "أبو الحسن بن مقسم"
+        },
+        {
+          "name": "أَبَا مُحَمَّد المرتعش",
+          "person_id": 120,
+          "canonical_name": "المرتعش"
+        },
+        {
+          "name": "أَبُو حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو حَفْص لَا تكن عبادتك لِرَبِّك سَببا لِأَن تكون معبودا",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن بن مقسم",
+          "person_id": 198,
+          "canonical_name": "أبو الحسن بن مقسم"
+        },
+        {
+          "name": "المرتعش",
+          "person_id": 120,
+          "canonical_name": "المرتعش"
+        },
+        {
+          "name": "أَبَا حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحسن بن مقسم يَقُول سَمِعت المرتعش يَقُول سَمِعت أَبَا حَفْص يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن بن مقسم",
+          "person_id": 198,
+          "canonical_name": "أبو الحسن بن مقسم"
+        },
+        {
+          "name": "المرتعش",
+          "person_id": 120,
+          "canonical_name": "المرتعش"
+        },
+        {
+          "name": "أَبُو حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو حَفْص حسن أدب الظَّاهِر عنوان حسن أدب الْبَاطِن لِأَن النَّبِي ﷺ (قَالَ لَو خشع قلبه لخشعت جوارحه)",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن بن مقسم",
+          "person_id": 198,
+          "canonical_name": "أبو الحسن بن مقسم"
+        },
+        {
+          "name": "المرتعش",
+          "person_id": 120,
+          "canonical_name": "المرتعش"
+        },
+        {
+          "name": "أَبُو حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ سُئِلَ أَبُو حَفْص مَا الْبِدْعَة فَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن بن مقسم",
+          "person_id": 198,
+          "canonical_name": "أبو الحسن بن مقسم"
+        },
+        {
+          "name": "المرتعش",
+          "person_id": 120,
+          "canonical_name": "المرتعش"
+        },
+        {
+          "name": "أَبُو حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ أَبُو حَفْص من الرِّجَال فَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن بن مقسم",
+          "person_id": 198,
+          "canonical_name": "أبو الحسن بن مقسم"
+        },
+        {
+          "name": "المرتعش",
+          "person_id": 120,
+          "canonical_name": "المرتعش"
+        },
+        {
+          "name": "أَبُو حَفْص",
+          "person_id": 360,
+          "canonical_name": "أبو حفص النّيسابوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو حَفْص الإيثار أَن تقدم حظوظ الإخوان على حظك فِي أَمر آخرتك ودنياك",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "عبيد الله بن مهْدي الأبيوردي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب عبيد الله بن مهْدي الأبيوردي",
+        "person_id": 813,
+        "canonical_name": "عبيد الله بن مهدي الأبيوردي"
+      },
+      {
+        "name": "عليا النصراباذي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب عبيد الله بن مهْدي الأبيوردي وعليا النصراباذي",
+        "person_id": 876,
+        "canonical_name": "عليا النصرأبوذي"
+      },
+      {
+        "name": "أَحْمد بن خضرويه الْبَلْخِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "رافق",
+        "full_text": "ورافق أَحْمد بن خضرويه الْبَلْخِي",
+        "person_id": 542,
+        "canonical_name": "أحمد بن خضرويه البلخي"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَبُو عُثْمَان بن إِسْمَاعِيل",
+      "relationship_type": "interlocutor",
+      "context": "سَأَلت أستاذي أَبَا حَفْص",
+      "full_text": "قَالَ أَبُو عُثْمَان بن إِسْمَاعِيل سَأَلت أستاذي أَبَا حَفْص عمر بن سَلمَة",
+      "person_id": 434,
+      "canonical_name": "أبو عثمان بن إسماعيل"
+    },
+    {
+      "name": "أبي",
+      "relationship_type": "narrator",
+      "full_text": "قَالَ سَمِعت أبي يَقُول",
+      "person_id": 525,
+      "canonical_name": "أبي"
+    },
+    {
+      "name": "مخمش الْجلاب",
+      "relationship_type": "narrator",
+      "full_text": "قَالَ وَقَالَ مخمش الْجلاب",
+      "person_id": 1053,
+      "canonical_name": "مخمش الجلاب"
+    },
+    {
+      "name": "مُحَمَّد بن بَحر الشجيني",
+      "relationship_type": "narrator",
+      "full_text": "قَالَ وَقَالَ مُحَمَّد بن بَحر الشجيني أَخُو زَكَرِيَّا",
+      "person_id": 978,
+      "canonical_name": "محمّد بن بحر الشجيني"
+    },
+    {
+      "name": "جدي ﵀",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت جدي ﵀ يَقُول",
+      "person_id": 476,
+      "canonical_name": "أبو عمرو إسماعيل بن نجيد"
+    },
+    {
+      "name": "عبد الرَّحْمَن بن الْحُسَيْن الصُّوفِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت عبد الرَّحْمَن بن الْحُسَيْن الصُّوفِي يَقُول",
+      "person_id": 737,
+      "canonical_name": "عبد الرّحمن بن الحسين الصّوفي"
+    },
+    {
+      "name": "مَشَايِخ بَغْدَاد",
+      "relationship_type": "questioner",
+      "full_text": "بَلغنِي أَن مَشَايِخ بَغْدَاد اجْتَمعُوا عِنْد أبي حَفْص وسألوه عَن الفتوة",
+      "person_id": 1059,
+      "canonical_name": "مشايخ بغداد"
+    },
+    {
+      "name": "الْجُنَيْد",
+      "relationship_type": "interlocutor",
+      "full_text": "فَقَالَ الْجُنَيْد الفتوة إِسْقَاط الرُّؤْيَة وَترك النِّسْبَة",
+      "person_id": 36,
+      "canonical_name": "الجنيد"
+    },
+    {
+      "name": "بَعضهم",
+      "relationship_type": "questioner",
+      "full_text": "قَالَ لَهُ بَعضهم دلنا على الفتوة مَا هِيَ",
+      "person_id": 600,
+      "canonical_name": "بعضهم"
+    },
+    {
+      "name": "أَبَا الْعَبَّاس الدينَوَرِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْعَبَّاس الدينَوَرِي يَقُول",
+      "person_id": 231,
+      "canonical_name": "أبو العبّاس الدينوري"
+    },
+    {
+      "name": "مَحْفُوظ بن مَحْمُود",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مَحْفُوظ بن مَحْمُود يَقُول",
+      "person_id": 925,
+      "canonical_name": "محفوظ بن محمود"
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "full_text": "قَالَ وَقَالَ رجل لأبي حَفْص",
+      "person_id": 658,
+      "canonical_name": "رجل"
+    },
+    {
+      "name": "أَبُو عُثْمَان الْحِيرِي النَّيْسَابُورِي",
+      "relationship_type": "narrator",
+      "full_text": "وَذكر أَبُو عُثْمَان الْحِيرِي النَّيْسَابُورِي عَن أبي حَفْص",
+      "person_id": 432,
+      "canonical_name": "أبو عثمان الحيري النّيسابوري"
+    },
+    {
+      "name": "أَبَا مُحَمَّد المرتعش",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا مُحَمَّد المرتعش يَقُول",
+      "person_id": 120,
+      "canonical_name": "المرتعش"
+    },
+    {
+      "name": "الفتيان",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "شيعه من بهَا من الْمَشَايِخ والفتيان",
+      "person_id": 104,
+      "canonical_name": "الفتيان"
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "bio_id": "156",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "367",
+    "full_text": "وَمَات سنة سبع وَسِتِّينَ وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "نصراباذ",
+      "context": "nisba",
+      "full_text": "النصراباذي"
+    },
+    {
+      "place": "نيسابور",
+      "context": "nisba",
+      "full_text": "نيسابوري الأَصْل والمنشأ والمولد"
+    },
+    {
+      "place": "نيسابور",
+      "context": "born",
+      "full_text": "نيسابوري الأَصْل والمنشأ والمولد"
+    },
+    {
+      "place": "نيسابور",
+      "context": "lived",
+      "full_text": "أَقَامَ بنيسابور"
+    },
+    {
+      "place": "مَكَّة",
+      "context": "visited",
+      "full_text": "خرج فِي آخر عمره إِلَى مَكَّة"
+    },
+    {
+      "place": "الْحرم",
+      "context": "lived",
+      "full_text": "وَأقَام بِالْحرم مجاورا"
+    },
+    {
+      "place": "خُرَاسَان",
+      "context": "mentioned",
+      "full_text": "شيخ خُرَاسَان فِي وقته"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "إِبْرَاهِيم بن مُحَمَّد بن محمويه النصراباذي الصُّوفِي",
+          "person_id": 160,
+          "canonical_name": "إبراهيم بن محمّد بن محمويه النصرأبوذي الصّوفي"
+        },
+        {
+          "name": "أَحْمد ابْن مُحَمَّد بن فضَالة الطوسي",
+          "person_id": 530,
+          "canonical_name": "أحمد ابن محمّد بن فضالة الطوسي"
+        },
+        {
+          "name": "أَحْمد بن ثَقِيف",
+          "person_id": 537,
+          "canonical_name": "أحمد بن ثقيف"
+        },
+        {
+          "name": "حَفْص بن يحيى",
+          "person_id": 637,
+          "canonical_name": "حفص بن يحيى"
+        },
+        {
+          "name": "خَارِجَة بن مُصعب",
+          "person_id": 641,
+          "canonical_name": "خارجة بن مصعب"
+        },
+        {
+          "name": "أَيُّوب",
+          "person_id": 585,
+          "canonical_name": "أيّوب"
+        },
+        {
+          "name": "يحيى بن أبي كثير",
+          "person_id": 1104,
+          "canonical_name": "يحيى بن أبي كثير"
+        },
+        {
+          "name": "فَاطِمَة بنت قيس",
+          "person_id": 909,
+          "canonical_name": "فاطمة بنت قيس"
+        },
+        {
+          "name": "النَّبِي ﷺ",
+          "person_id": 128,
+          "canonical_name": "النّبي ﷺ"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حَدثنَا إِبْرَاهِيم بن مُحَمَّد بن محمويه النصراباذي الصُّوفِي قَالَ حَدثنَا أَحْمد\nابْن مُحَمَّد بن فضَالة الطوسي قَالَ حَدثنَا أَحْمد بن ثَقِيف قَالَ حَدثنَا حَفْص بن يحيى عَن خَارِجَة بن مُصعب عَن أَيُّوب عَن يحيى بن أبي كثير عَن فَاطِمَة بنت قيس عَن النَّبِي ﷺ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم النصراباذي",
+          "person_id": 281,
+          "canonical_name": "أبو القاسم النصرأبوذي"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سَمِعت أَبَا الْقَاسِم النصراباذي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "النصراباذي",
+          "person_id": 129,
+          "canonical_name": "النصرأبوذي"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت النصراباذي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم النصراباذي",
+          "person_id": 281,
+          "canonical_name": "أبو القاسم النصرأبوذي"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا الْقَاسِم النصراباذي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم النصراباذي",
+          "person_id": 281,
+          "canonical_name": "أبو القاسم النصرأبوذي"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا الْقَاسِم النصراباذي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "النصراباذي",
+          "person_id": 129,
+          "canonical_name": "النصرأبوذي"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت النصراباذي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "النصراباذي",
+          "person_id": 129,
+          "canonical_name": "النصرأبوذي"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت النصراباذي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "النصراباذي",
+          "person_id": 129,
+          "canonical_name": "النصرأبوذي"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت النصراباذي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم",
+          "person_id": 272,
+          "canonical_name": "أبو القاسم"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا الْقَاسِم وَسُئِلَ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم",
+          "person_id": 272,
+          "canonical_name": "أبو القاسم"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا الْقَاسِم وَقيل لَهُ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم النصراباذي",
+          "person_id": 281,
+          "canonical_name": "أبو القاسم النصرأبوذي"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سَمِعت أَبَا الْقَاسِم النصراباذي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "النصراباذي",
+          "person_id": 129,
+          "canonical_name": "النصرأبوذي"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وسمعته يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "النصراباذي",
+          "person_id": 129,
+          "canonical_name": "النصرأبوذي"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وسمعته يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم النصراباذي",
+          "person_id": 281,
+          "canonical_name": "أبو القاسم النصرأبوذي"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا الْقَاسِم النصراباذي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم",
+          "person_id": 272,
+          "canonical_name": "أبو القاسم"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا الْقَاسِم يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم",
+          "person_id": 272,
+          "canonical_name": "أبو القاسم"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا الْقَاسِم يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم",
+          "person_id": 272,
+          "canonical_name": "أبو القاسم"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا الْقَاسِم يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم النصراباذي",
+          "person_id": 281,
+          "canonical_name": "أبو القاسم النصرأبوذي"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا الْقَاسِم النصراباذي يَقُول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أَبَا بكر الشبلي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب",
+        "full_text": "وَصَحب أَبَا بكر الشبلي",
+        "person_id": 309,
+        "canonical_name": "أبو بكر الشبلي"
+      },
+      {
+        "name": "أَبا عَليّ الرُّوذَبَارِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب",
+        "full_text": "وَأَبا عَليّ الرُّوذَبَارِي",
+        "person_id": 448,
+        "canonical_name": "أبو عليّ الرّوذباري"
+      },
+      {
+        "name": "أَبا مُحَمَّد المرتعش",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب",
+        "full_text": "وَأَبا مُحَمَّد المرتعش",
+        "person_id": 120,
+        "canonical_name": "المرتعش"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَبَا الْقَاسِم النصراباذي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْقَاسِم النصراباذي يَقُول",
+      "person_id": 281,
+      "canonical_name": "أبو القاسم النصرأبوذي"
+    }
+  ]
+}

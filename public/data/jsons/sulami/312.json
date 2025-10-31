@@ -1,0 +1,347 @@
+{
+  "bio_id": "312",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "<320",
+    "full_text": "مَاتَ قبل الْعشْرين وثلاثمائة",
+    "certainty": "approximate"
+  },
+  "geographical_locations": [
+    {
+      "place": "نيسابور",
+      "context": "lived",
+      "full_text": "وَهُوَ من كبار مَشَايِخ نيسابور"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 335,
+          "canonical_name": "أبو بكر محمّد بن أحمد بن إبراهيم"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن الْوراق",
+          "person_id": 212,
+          "canonical_name": "أبو الحسين الوراق"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم يَقُول سَمِعت أَبَا الْحُسَيْن الْوراق يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 335,
+          "canonical_name": "أبو بكر محمّد بن أحمد بن إبراهيم"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن الْوراق",
+          "person_id": 212,
+          "canonical_name": "أبو الحسين الوراق"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 335,
+          "canonical_name": "أبو بكر محمّد بن أحمد بن إبراهيم"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن الْوراق",
+          "person_id": 212,
+          "canonical_name": "أبو الحسين الوراق"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْحُسَيْن",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 335,
+          "canonical_name": "أبو بكر محمّد بن أحمد بن إبراهيم"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن الْوراق",
+          "person_id": 212,
+          "canonical_name": "أبو الحسين الوراق"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْحُسَيْن",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 335,
+          "canonical_name": "أبو بكر محمّد بن أحمد بن إبراهيم"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن الْوراق",
+          "person_id": 212,
+          "canonical_name": "أبو الحسين الوراق"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا الْحُسَيْن يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 335,
+          "canonical_name": "أبو بكر محمّد بن أحمد بن إبراهيم"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن الْوراق",
+          "person_id": 212,
+          "canonical_name": "أبو الحسين الوراق"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا الْحُسَيْن يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 335,
+          "canonical_name": "أبو بكر محمّد بن أحمد بن إبراهيم"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن الْوراق",
+          "person_id": 212,
+          "canonical_name": "أبو الحسين الوراق"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا الْحُسَيْن يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 335,
+          "canonical_name": "أبو بكر محمّد بن أحمد بن إبراهيم"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن الْوراق",
+          "person_id": 212,
+          "canonical_name": "أبو الحسين الوراق"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا الْحُسَيْن يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 335,
+          "canonical_name": "أبو بكر محمّد بن أحمد بن إبراهيم"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن الْوراق",
+          "person_id": 212,
+          "canonical_name": "أبو الحسين الوراق"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 335,
+          "canonical_name": "أبو بكر محمّد بن أحمد بن إبراهيم"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن الْوراق",
+          "person_id": 212,
+          "canonical_name": "أبو الحسين الوراق"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 335,
+          "canonical_name": "أبو بكر محمّد بن أحمد بن إبراهيم"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن الْوراق",
+          "person_id": 212,
+          "canonical_name": "أبو الحسين الوراق"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 335,
+          "canonical_name": "أبو بكر محمّد بن أحمد بن إبراهيم"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن الْوراق",
+          "person_id": 212,
+          "canonical_name": "أبو الحسين الوراق"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 335,
+          "canonical_name": "أبو بكر محمّد بن أحمد بن إبراهيم"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن الْوراق",
+          "person_id": 212,
+          "canonical_name": "أبو الحسين الوراق"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 335,
+          "canonical_name": "أبو بكر محمّد بن أحمد بن إبراهيم"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن الْوراق",
+          "person_id": 212,
+          "canonical_name": "أبو الحسين الوراق"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 335,
+          "canonical_name": "أبو بكر محمّد بن أحمد بن إبراهيم"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن الْوراق",
+          "person_id": 212,
+          "canonical_name": "أبو الحسين الوراق"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 335,
+          "canonical_name": "أبو بكر محمّد بن أحمد بن إبراهيم"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن الْوراق",
+          "person_id": 212,
+          "canonical_name": "أبو الحسين الوراق"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 335,
+          "canonical_name": "أبو بكر محمّد بن أحمد بن إبراهيم"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن الْوراق",
+          "person_id": 212,
+          "canonical_name": "أبو الحسين الوراق"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْحُسَيْن",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 335,
+          "canonical_name": "أبو بكر محمّد بن أحمد بن إبراهيم"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن الْوراق",
+          "person_id": 212,
+          "canonical_name": "أبو الحسين الوراق"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْحُسَيْن",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أبي عُثْمَان",
+        "relationship_type": "peer",
+        "relationship_phrase": "من قدماء أَصْحَاب",
+        "full_text": "وَمن قدماء أَصْحَاب أبي عُثْمَان",
+        "person_id": 427,
+        "canonical_name": "أبو عثمان"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَبَا بكر مُحَمَّד بن أَحْمد بن إِبْرَاهِيم",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم يَقُول",
+      "person_id": 332,
+      "canonical_name": "أبو بكر محمّד بن أحمد بن إبراهيم"
+    }
+  ]
+}

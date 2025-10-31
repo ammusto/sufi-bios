@@ -1,0 +1,417 @@
+{
+  "bio_id": "26",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "371",
+    "full_text": "مَاتَ سنة إِحْدَى وَسبعين وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "شيراز",
+      "context": "lived",
+      "full_text": "الْمُقِيم بشيراز"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبُو عبد الله مُحَمَّد بن خَفِيف",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        },
+        {
+          "name": "أَحْمد بن سمْعَان",
+          "person_id": 545,
+          "canonical_name": "أحمد بن سمعان"
+        },
+        {
+          "name": "الْفضل بن حَمَّاد",
+          "person_id": 107,
+          "canonical_name": "الفضل بن حمّاد"
+        },
+        {
+          "name": "عبد الْكَرِيم بن معالي بن عمرَان",
+          "person_id": 746,
+          "canonical_name": "عبد الكريم بن معالي بن عمران"
+        },
+        {
+          "name": "صَالح بن مُوسَى الطلحي",
+          "person_id": 718,
+          "canonical_name": "صالح بن موسى الطلحي"
+        },
+        {
+          "name": "أبي حَازِم",
+          "person_id": 359,
+          "canonical_name": "أبو حازم"
+        },
+        {
+          "name": "سهل بن سعد",
+          "person_id": 705,
+          "canonical_name": "سهل بن سعد"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا أَبُو عبد الله مُحَمَّد بن خَفِيف إجَازَة قَالَ حَدثنَا أَحْمد بن سمْعَان قَالَ حَدثنَا الْفضل بن حَمَّاد قَالَ حَدثنَا عبد الْكَرِيم بن معالي بن عمرَان قَالَ حَدثنَا صَالح بن مُوسَى الطلحي عَن أبي حَازِم عَن سهل بن سعد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو عبد الله مُحَمَّد بن خَفِيف",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد ابْن شَاذ هُرْمُز",
+          "person_id": 959,
+          "canonical_name": "محمّد بن أحمد ابن شاذ هرمز"
+        },
+        {
+          "name": "زيد بن أخزم",
+          "person_id": 677,
+          "canonical_name": "زيد بن أخزم"
+        },
+        {
+          "name": "أبي دَاوُد",
+          "person_id": 365,
+          "canonical_name": "أبو داود"
+        },
+        {
+          "name": "شُعْبَة",
+          "person_id": 712,
+          "canonical_name": "شعبة"
+        },
+        {
+          "name": "عبد الله بن دِينَار",
+          "person_id": 764,
+          "canonical_name": "عبد الله بن دينار"
+        },
+        {
+          "name": "ابْن عمر",
+          "person_id": 20,
+          "canonical_name": "ابن عمر"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَأخْبرنَا أَبُو عبد الله مُحَمَّد بن خَفِيف إجَازَة قَالَ أخبرنَا مُحَمَّد بن أَحْمد ابْن شَاذ هُرْمُز قَالَ حَدثنَا زيد بن أخزم عَن أبي دَاوُد عَن شُعْبَة عَن عبد الله بن دِينَار عَن ابْن عمر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن خَفِيف",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أَخْبرنِي مُحَمَّد بن خَفِيف إجَازَة أَنه سُئِلَ عَن التصوف فَقَالَ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابْن خَفِيف",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ ابْن خَفِيف",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن خَفِيف",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ مُحَمَّد بن خَفِيف",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابْن خَفِيف",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ ابْن خَفِيف",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابْن خَفِيف",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ ابْن خَفِيف",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن خَفِيف",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ مُحَمَّد بن خَفِيف",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن خَفِيف",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ مُحَمَّد بن خَفِيف",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن خَفِيف",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ مُحَمَّد بن خَفِيف",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن خَفِيف",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ مُحَمَّد بن خَفِيف",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو عبد الله مُحَمَّد بن خَفِيف",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو عبد الله مُحَمَّد بن خَفِيف",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو عبد الله",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو عبد الله",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو عبد الله",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو عبد الله",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو عبد الله بن خَفِيف",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو عبد الله بن خَفِيف",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو عبد الله",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو عبد الله",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو عبد الله",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو عبد الله",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو عبد الله مُحَمَّد بن خَفِيف",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسُئِلَ أَبُو عبد الله مُحَمَّد بن خَفِيف عَن الْقرب فَقَالَ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو عبد الله",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو عبد الله",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو عبد الله",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو عبد الله",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو عبد الله",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو عبد الله",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن خَفِيف",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسُئِلَ مُحَمَّد بن خَفِيف",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو عبد الله مُحَمَّد بن خَفِيف",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وكل هَذِه الحكايات أخبرنيه أَبُو عبد الله مُحَمَّد بن خَفِيف ﵁ إجَازَة لي بِخَطِّهِ",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "رويما",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب رويما",
+        "person_id": 672,
+        "canonical_name": "رويم بن أحمد"
+      },
+      {
+        "name": "الجريري",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب رويما والجريري",
+        "person_id": 35,
+        "canonical_name": "الجريري"
+      },
+      {
+        "name": "أَبا الْعَبَّاس بن عَطاء",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب ... وَأَبا الْعَبَّاس بن عَطاء",
+        "person_id": 18,
+        "canonical_name": "ابن عطاء الآدمي"
+      },
+      {
+        "name": "طاهرا الْمَقْدِسِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب ... وطاهرا الْمَقْدِسِي",
+        "person_id": 722,
+        "canonical_name": "طاهر المقدسي"
+      },
+      {
+        "name": "أَبا عَمْرو الدِّمَشْقِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب ... وَأَبا عَمْرو الدِّمَشْقِي",
+        "person_id": 474,
+        "canonical_name": "أبو عمرو الدّمشقي"
+      },
+      {
+        "name": "الْحُسَيْن بن مَنْصُور",
+        "relationship_type": "peer",
+        "relationship_phrase": "لقي",
+        "full_text": "وَلَقي الْحُسَيْن بن مَنْصُور",
+        "person_id": 68,
+        "canonical_name": "الحسين بن منصور"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "بعض أَصْحَابنَا",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "قدم علينا بعض أَصْحَابنَا فاعتل وَكَانَت بِهِ عِلّة الْبَطن",
+      "person_id": 594,
+      "canonical_name": "بعض أصحابنا"
+    }
+  ]
+}

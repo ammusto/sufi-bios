@@ -1,0 +1,706 @@
+{
+  "bio_id": "229",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "243",
+    "full_text": "مَاتَ بِبَغْدَاد سنة ثَلَاث وَأَرْبَعين وَمِائَتَيْنِ",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "الْبَصْرَة",
+      "context": "born",
+      "full_text": "وَهُوَ من أهل الْبَصْرَة"
+    },
+    {
+      "place": "بَغْدَاد",
+      "context": "died",
+      "full_text": "مَاتَ بِبَغْدَاد"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن عمر بن أَحْمد الْحَافِظ",
+          "person_id": 864,
+          "canonical_name": "عليّ بن عمر بن أحمد الحافظ"
+        },
+        {
+          "name": "أَحْمد بن الْقَاسِم أَخُو أبي اللَّيْث",
+          "person_id": 534,
+          "canonical_name": "أحمد بن القاسم أخو أبي اللّيث"
+        },
+        {
+          "name": "الْحَارِث بن أَسد الْعَنزي المحاسبي",
+          "person_id": 38,
+          "canonical_name": "الحارث بن اسد المحاسبي"
+        },
+        {
+          "name": "يزِيد بن هَارُون",
+          "person_id": 1113,
+          "canonical_name": "يزيد بن هارون"
+        },
+        {
+          "name": "شُعْبَة",
+          "person_id": 712,
+          "canonical_name": "شعبة"
+        },
+        {
+          "name": "الْقَاسِم بن أبي بزَّة",
+          "person_id": 112,
+          "canonical_name": "القاسم بن أبي بزّة"
+        },
+        {
+          "name": "عَطاء الكيخاراني",
+          "person_id": 819,
+          "canonical_name": "عطاء الكيخاراني"
+        },
+        {
+          "name": "أم الدَّرْدَاء",
+          "person_id": 582,
+          "canonical_name": "أم الدّرداء"
+        },
+        {
+          "name": "أبي الدَّرْدَاء",
+          "person_id": 223,
+          "canonical_name": "أبو الدّرداء"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حَدثنَا عَليّ بن عمر بن أَحْمد الْحَافِظ قَالَ حَدثنَا أَحْمد بن الْقَاسِم أَخُو أبي اللَّيْث حَدثنَا الْحَارِث بن أَسد الْعَنزي المحاسبي حَدثنَا يزِيد بن هَارُون حَدثنَا شُعْبَة عَن الْقَاسِم بن أبي بزَّة عَن عَطاء الكيخاراني عَن أم الدَّرْدَاء عَن أبي الدَّرْدَاء",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 338,
+          "canonical_name": "أبو بكر محمّد بن عبد الله الرّازيّ"
+        },
+        {
+          "name": "أَبَا عمر لأنماطي",
+          "person_id": 464,
+          "canonical_name": "أبو عمر لأنماطي"
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 36,
+          "canonical_name": "الجنيد"
+        },
+        {
+          "name": "الْحَارِث المحاسبي",
+          "person_id": 38,
+          "canonical_name": "الحارث بن اسد المحاسبي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ يَقُول سَمِعت أَبَا عمر لأنماطي يَقُول سَمِعت الْجُنَيْد يَقُول سَمِعت الْحَارِث المحاسبي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الْأنمَاطِي",
+          "person_id": 33,
+          "canonical_name": "الأنماطي"
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 36,
+          "canonical_name": "الجنيد"
+        },
+        {
+          "name": "الْحَارِث المحاسبي",
+          "person_id": 38,
+          "canonical_name": "الحارث بن اسد المحاسبي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "الْأنمَاطِي يَقُول سَمِعت الْجُنَيْد يَقُول سَمِعت الْحَارِث المحاسبي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الْأنمَاطِي",
+          "person_id": 33,
+          "canonical_name": "الأنماطي"
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 36,
+          "canonical_name": "الجنيد"
+        },
+        {
+          "name": "الْحَارِث المحاسبي",
+          "person_id": 38,
+          "canonical_name": "الحارث بن اسد المحاسبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْحَارِث",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "الْخُلْدِيِّ",
+          "person_id": 622,
+          "canonical_name": "جعفر بن محمّد الخلديّ"
+        },
+        {
+          "name": "أَبَا عُثْمَان الْبَلَدِي",
+          "person_id": 429,
+          "canonical_name": "أبو عثمان البلدي"
+        },
+        {
+          "name": "حَارِث المحاسبي",
+          "person_id": 38,
+          "canonical_name": "الحارث بن اسد المحاسبي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الله بن عَليّ الطوسي يَقُول سَمِعت الْخُلْدِيِّ يَقُول سَمِعت أَبَا عُثْمَان الْبَلَدِي يَقُول بَلغنِي عَن حَارِث المحاسبي أَنه قَالَ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "الْخُلْدِيِّ",
+          "person_id": 622,
+          "canonical_name": "جعفر بن محمّد الخلديّ"
+        },
+        {
+          "name": "أَبَا عُثْمَان الْبَلَدِي",
+          "person_id": 429,
+          "canonical_name": "أبو عثمان البلدي"
+        },
+        {
+          "name": "حَارِث المحاسبي",
+          "person_id": 38,
+          "canonical_name": "الحارث بن اسد المحاسبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْحَارِث",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "الْخُلْدِيِّ",
+          "person_id": 622,
+          "canonical_name": "جعفر بن محمّد الخلديّ"
+        },
+        {
+          "name": "أَبَا عُثْمَان الْبَلَدِي",
+          "person_id": 429,
+          "canonical_name": "أبو عثمان البلدي"
+        },
+        {
+          "name": "حَارِث المحاسبي",
+          "person_id": 38,
+          "canonical_name": "الحارث بن اسد المحاسبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْحَارِث",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "الْخُلْدِيِّ",
+          "person_id": 622,
+          "canonical_name": "جعفر بن محمّد الخلديّ"
+        },
+        {
+          "name": "أَبَا عُثْمَان الْبَلَدِي",
+          "person_id": 429,
+          "canonical_name": "أبو عثمان البلدي"
+        },
+        {
+          "name": "حَارِث المحاسبي",
+          "person_id": 38,
+          "canonical_name": "الحارث بن اسد المحاسبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْحَارِث",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "الْخُلْدِيِّ",
+          "person_id": 622,
+          "canonical_name": "جعفر بن محمّد الخلديّ"
+        },
+        {
+          "name": "أَبَا عُثْمَان الْبَلَدِي",
+          "person_id": 429,
+          "canonical_name": "أبو عثمان البلدي"
+        },
+        {
+          "name": "حَارِث المحاسبي",
+          "person_id": 38,
+          "canonical_name": "الحارث بن اسد المحاسبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْحَارِث",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "الْخُلْدِيِّ",
+          "person_id": 622,
+          "canonical_name": "جعفر بن محمّد الخلديّ"
+        },
+        {
+          "name": "أَبَا عُثْمَان الْبَلَدِي",
+          "person_id": 429,
+          "canonical_name": "أبو عثمان البلدي"
+        },
+        {
+          "name": "حَارِث المحاسبي",
+          "person_id": 38,
+          "canonical_name": "الحارث بن اسد المحاسبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْحَارِث",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "الْخُلْدِيِّ",
+          "person_id": 622,
+          "canonical_name": "جعفر بن محمّد الخلديّ"
+        },
+        {
+          "name": "أَبَا عُثْمَان الْبَلَدِي",
+          "person_id": 429,
+          "canonical_name": "أبو عثمان البلدي"
+        },
+        {
+          "name": "حَارِث المحاسبي",
+          "person_id": 38,
+          "canonical_name": "الحارث بن اسد المحاسبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْحَارِث",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "الْخُلْدِيِّ",
+          "person_id": 622,
+          "canonical_name": "جعفر بن محمّد الخلديّ"
+        },
+        {
+          "name": "أَبَا عُثْمَان الْبَلَدِي",
+          "person_id": 429,
+          "canonical_name": "أبو عثمان البلدي"
+        },
+        {
+          "name": "حَارِث المحاسبي",
+          "person_id": 38,
+          "canonical_name": "الحارث بن اسد المحاسبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ الْحَارِث",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "الْخُلْدِيِّ",
+          "person_id": 622,
+          "canonical_name": "جعفر بن محمّد الخلديّ"
+        },
+        {
+          "name": "أَبَا عُثْمَان الْبَلَدِي",
+          "person_id": 429,
+          "canonical_name": "أبو عثمان البلدي"
+        },
+        {
+          "name": "حَارِث المحاسبي",
+          "person_id": 38,
+          "canonical_name": "الحارث بن اسد المحاسبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْحَارِث",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "الْخُلْدِيِّ",
+          "person_id": 622,
+          "canonical_name": "جعفر بن محمّد الخلديّ"
+        },
+        {
+          "name": "أَبَا عُثْمَان الْبَلَدِي",
+          "person_id": 429,
+          "canonical_name": "أبو عثمان البلدي"
+        },
+        {
+          "name": "حَارِث المحاسبي",
+          "person_id": 38,
+          "canonical_name": "الحارث بن اسد المحاسبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْحَارِث",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "الْخُلْدِيِّ",
+          "person_id": 622,
+          "canonical_name": "جعفر بن محمّد الخلديّ"
+        },
+        {
+          "name": "أَبَا عُثْمَان الْبَلَدِي",
+          "person_id": 429,
+          "canonical_name": "أبو عثمان البلدي"
+        },
+        {
+          "name": "حَارِث المحاسبي",
+          "person_id": 38,
+          "canonical_name": "الحارث بن اسد المحاسبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْحَارِث",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "الْخُلْدِيِّ",
+          "person_id": 622,
+          "canonical_name": "جعفر بن محمّد الخلديّ"
+        },
+        {
+          "name": "أَبَا عُثْمَان الْبَلَدِي",
+          "person_id": 429,
+          "canonical_name": "أبو عثمان البلدي"
+        },
+        {
+          "name": "حَارِث المحاسبي",
+          "person_id": 38,
+          "canonical_name": "الحارث بن اسد المحاسبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْحَارِث",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "الْخُلْدِيِّ",
+          "person_id": 622,
+          "canonical_name": "جعفر بن محمّد الخلديّ"
+        },
+        {
+          "name": "أَبَا عُثْمَان الْبَلَدِي",
+          "person_id": 429,
+          "canonical_name": "أبو عثمان البلدي"
+        },
+        {
+          "name": "حَارِث المحاسبي",
+          "person_id": 38,
+          "canonical_name": "الحارث بن اسد المحاسبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْحَارِث",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "الْخُلْدِيِّ",
+          "person_id": 622,
+          "canonical_name": "جعفر بن محمّد الخلديّ"
+        },
+        {
+          "name": "أَبَا عُثْمَان الْبَلَدِي",
+          "person_id": 429,
+          "canonical_name": "أبو عثمان البلدي"
+        },
+        {
+          "name": "حَارِث المحاسبي",
+          "person_id": 38,
+          "canonical_name": "الحارث بن اسد المحاسبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْحَارِث",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "الْخُلْدِيِّ",
+          "person_id": 622,
+          "canonical_name": "جعفر بن محمّد الخلديّ"
+        },
+        {
+          "name": "أَبَا عُثْمَان الْبَلَدِي",
+          "person_id": 429,
+          "canonical_name": "أبو عثمان البلدي"
+        },
+        {
+          "name": "حَارِث المحاسبي",
+          "person_id": 38,
+          "canonical_name": "الحارث بن اسد المحاسبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْحَارِث",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "الْخُلْدِيِّ",
+          "person_id": 622,
+          "canonical_name": "جعفر بن محمّد الخلديّ"
+        },
+        {
+          "name": "أَبَا عُثْمَان الْبَلَدِي",
+          "person_id": 429,
+          "canonical_name": "أبو عثمان البلدي"
+        },
+        {
+          "name": "حَارِث المحاسبي",
+          "person_id": 38,
+          "canonical_name": "الحارث بن اسد المحاسبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْحَارِث",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 338,
+          "canonical_name": "أبو بكر محمّد بن عبد الله الرّازيّ"
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 429,
+          "canonical_name": "أبو عثمان البلدي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ يَقُول سَمِعت أَبَا عُثْمَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 338,
+          "canonical_name": "أبو بكر محمّد بن عبد الله الرّازيّ"
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 429,
+          "canonical_name": "أبو عثمان البلدي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ الْحَارِث",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 338,
+          "canonical_name": "أبو بكر محمّد بن عبد الله الرّازيّ"
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 429,
+          "canonical_name": "أبو عثمان البلدي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْحَارِث",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 338,
+          "canonical_name": "أبو بكر محمّد بن عبد الله الرّازيّ"
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 429,
+          "canonical_name": "أبو عثمان البلدي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْحَارِث",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 338,
+          "canonical_name": "أبو بكر محمّد بن عبد الله الرّازيّ"
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 429,
+          "canonical_name": "أبو عثمان البلدي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْحَارِث",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أَحْمد بن الْقَاسِم أَخُو أبي اللَّيْث",
+      "relationship_type": "narrator",
+      "full_text": "قَالَ حَدثنَا أَحْمد بن الْقَاسِم أَخُو أبي اللَّيْث حَدثنَا الْحَارِث بن أَسد الْعَنزي المحاسبي",
+      "person_id": 534,
+      "canonical_name": "أحمد بن القاسم أخو أبي اللّيث"
+    },
+    {
+      "name": "الْجُنَيْد",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت الْجُنَيْد يَقُول سَمِعت الْحَارِث المحاسبي يَقُول",
+      "person_id": 36,
+      "canonical_name": "الجنيد"
+    },
+    {
+      "name": "أَبَا عُثْمَان الْبَلَدِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا عُثْمَان الْبَلَدِي يَقُول بَلغنِي عَن حَارِث المحاسبي",
+      "person_id": 429,
+      "canonical_name": "أبو عثمان البلدي"
+    },
+    {
+      "name": "أَبَا عُثْمَان",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا عُثْمَان يَقُول",
+      "person_id": 429,
+      "canonical_name": "أبو عثمان البلدي"
+    },
+    {
+      "name": "قَوَّال",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "منشد",
+      "full_text": "أنْشد قَوَّال بَين يَدي الْحَارِث المحاسبي هَذِه الأبيات",
+      "person_id": 918,
+      "canonical_name": "قوّال"
+    }
+  ]
+}

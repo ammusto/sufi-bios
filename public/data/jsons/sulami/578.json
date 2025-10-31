@@ -1,0 +1,566 @@
+{
+  "bio_id": "578",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "303",
+    "full_text": "مَاتَ سنة ثَلَاث وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "lived",
+      "full_text": "من أهل بَغْدَاد"
+    },
+    {
+      "place": "بغداد",
+      "context": "mentioned",
+      "full_text": "بِبَغْدَاد"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "رُوَيْم بن أَحْمد الصُّوفِي",
+          "person_id": 672,
+          "canonical_name": "رويم بن أحمد"
+        },
+        {
+          "name": "يزِيد بن سِنَان الْبَصْرِيّ",
+          "person_id": 1112,
+          "canonical_name": "يزيد بن سنان البصريّ"
+        },
+        {
+          "name": "صَفْوَان بن عِيسَى",
+          "person_id": 720,
+          "canonical_name": "صفوان بن عيسى"
+        },
+        {
+          "name": "سُوَيْد أَبُو حَاتِم",
+          "person_id": 708,
+          "canonical_name": "سويد أبو حاتم"
+        },
+        {
+          "name": "قَتَادَة",
+          "person_id": 914,
+          "canonical_name": "قتادة"
+        },
+        {
+          "name": "أنس بن مَالك",
+          "person_id": 583,
+          "canonical_name": "أنس بن مالك"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثت عَن رُوَيْم بن أَحْمد الصُّوفِي بِبَغْدَاد قَالَ حَدثنَا يزِيد بن سِنَان الْبَصْرِيّ حَدثنَا صَفْوَان بن عِيسَى حَدثنَا سُوَيْد أَبُو حَاتِم عَن قَتَادَة عَن أنس بن مَالك",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله بن عبد الْعَزِيز بن شَاذان",
+          "person_id": 1009,
+          "canonical_name": "محمّد بن عبد الله بن عبد العزيز بن شاذان"
+        },
+        {
+          "name": "رويما",
+          "person_id": 672,
+          "canonical_name": "رويم بن أحمد"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّد بن عبد الله بن عبد الْعَزِيز بن شَاذان يَقُول سَمِعت رويما",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّداً",
+          "person_id": 1009,
+          "canonical_name": "محمّد بن عبد الله بن عبد العزيز بن شاذان"
+        },
+        {
+          "name": "رُوَيْم بن أَحْمد",
+          "person_id": 672,
+          "canonical_name": "رويم بن أحمد"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت مُحَمَّدًا يَقُول سَمِعت رُوَيْم بن أَحْمد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّداً",
+          "person_id": 1009,
+          "canonical_name": "محمّد بن عبد الله بن عبد العزيز بن شاذان"
+        },
+        {
+          "name": "رُوَيْم بن أَحْمد",
+          "person_id": 672,
+          "canonical_name": "رويم بن أحمد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ رُوَيْم بن أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّداً",
+          "person_id": 1009,
+          "canonical_name": "محمّد بن عبد الله بن عبد العزيز بن شاذان"
+        },
+        {
+          "name": "رُوَيْم بن أَحْمد",
+          "person_id": 672,
+          "canonical_name": "رويم بن أحمد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ رُوَيْم",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّداً",
+          "person_id": 1009,
+          "canonical_name": "محمّد بن عبد الله بن عبد العزيز بن شاذان"
+        },
+        {
+          "name": "رُوَيْم بن أَحْمد",
+          "person_id": 672,
+          "canonical_name": "رويم بن أحمد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقيل لَهُ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّداً",
+          "person_id": 1009,
+          "canonical_name": "محمّد بن عبد الله بن عبد العزيز بن شاذان"
+        },
+        {
+          "name": "رُوَيْم بن أَحْمد",
+          "person_id": 672,
+          "canonical_name": "رويم بن أحمد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ رُوَيْم",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّداً",
+          "person_id": 1009,
+          "canonical_name": "محمّد بن عبد الله بن عبد العزيز بن شاذان"
+        },
+        {
+          "name": "رُوَيْم بن أَحْمد",
+          "person_id": 672,
+          "canonical_name": "رويم بن أحمد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ رُوَيْم",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّداً",
+          "person_id": 1009,
+          "canonical_name": "محمّد بن عبد الله بن عبد العزيز بن شاذان"
+        },
+        {
+          "name": "رُوَيْم بن أَحْمد",
+          "person_id": 672,
+          "canonical_name": "رويم بن أحمد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ رُوَيْم",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّداً",
+          "person_id": 1009,
+          "canonical_name": "محمّد بن عبد الله بن عبد العزيز بن شاذان"
+        },
+        {
+          "name": "رُوَيْم بن أَحْمد",
+          "person_id": 672,
+          "canonical_name": "رويم بن أحمد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ رُوَيْم",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "الْحُسَيْن بن يحيى الشَّافِعِي",
+          "person_id": 70,
+          "canonical_name": "الحسين بن يحيى الشّافعي"
+        },
+        {
+          "name": "جَعْفَر بن مُحَمَّد الْخَواص",
+          "person_id": 623,
+          "canonical_name": "جعفر بن محمّد الخواص"
+        },
+        {
+          "name": "رويما",
+          "person_id": 672,
+          "canonical_name": "رويم بن أحمد"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت الْحُسَيْن بن يحيى الشَّافِعِي يَقُول سَمِعت جَعْفَر بن مُحَمَّد الْخَواص يَقُول سَمِعت رويما",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الْحُسَيْن بن يحيى الشَّافِعِي",
+          "person_id": 70,
+          "canonical_name": "الحسين بن يحيى الشّافعي"
+        },
+        {
+          "name": "جَعْفَر بن مُحَمَّد الْخَواص",
+          "person_id": 623,
+          "canonical_name": "جعفر بن محمّد الخواص"
+        },
+        {
+          "name": "رويما",
+          "person_id": 672,
+          "canonical_name": "رويم بن أحمد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ رُوَيْم",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن بكر",
+          "person_id": 799,
+          "canonical_name": "عبد الواحد بن بكر"
+        },
+        {
+          "name": "مُحَمَّد بن خَفِيف",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        },
+        {
+          "name": "رُوَيْم بن أَحْمد",
+          "person_id": 672,
+          "canonical_name": "رويم بن أحمد"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الْوَاحِد بن بكر يَقُول سَمِعت مُحَمَّد بن خَفِيف يَقُول سَأَلت رُوَيْم بن أَحْمد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 159,
+          "canonical_name": "إبراهيم بن فاتك"
+        },
+        {
+          "name": "رُوَيْم",
+          "person_id": 672,
+          "canonical_name": "رويم بن أحمد"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول سَمِعت إِبْرَاهِيم بن فاتك يَقُول قَالَ رُوَيْم",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 159,
+          "canonical_name": "إبراهيم بن فاتك"
+        },
+        {
+          "name": "رُوَيْم",
+          "person_id": 672,
+          "canonical_name": "رويم بن أحمد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ رُوَيْم",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 159,
+          "canonical_name": "إبراهيم بن فاتك"
+        },
+        {
+          "name": "رُوَيْم",
+          "person_id": 672,
+          "canonical_name": "رويم بن أحمد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ رُوَيْم",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 159,
+          "canonical_name": "إبراهيم بن فاتك"
+        },
+        {
+          "name": "رُوَيْم",
+          "person_id": 672,
+          "canonical_name": "رويم بن أحمد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ رُوَيْم",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 159,
+          "canonical_name": "إبراهيم بن فاتك"
+        },
+        {
+          "name": "رُوَيْم",
+          "person_id": 672,
+          "canonical_name": "رويم بن أحمد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ رُوَيْم",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 159,
+          "canonical_name": "إبراهيم بن فاتك"
+        },
+        {
+          "name": "رُوَيْم",
+          "person_id": 672,
+          "canonical_name": "رويم بن أحمد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ عَن الْمحبَّة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 159,
+          "canonical_name": "إبراهيم بن فاتك"
+        },
+        {
+          "name": "رُوَيْم",
+          "person_id": 672,
+          "canonical_name": "رويم بن أحمد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ رُوَيْم",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 159,
+          "canonical_name": "إبراهيم بن فاتك"
+        },
+        {
+          "name": "رُوَيْم",
+          "person_id": 672,
+          "canonical_name": "رويم بن أحمد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقيل لَهُ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 159,
+          "canonical_name": "إبراهيم بن فاتك"
+        },
+        {
+          "name": "رُوَيْم",
+          "person_id": 672,
+          "canonical_name": "رويم بن أحمد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ رُوَيْم",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 159,
+          "canonical_name": "إبراهيم بن فاتك"
+        },
+        {
+          "name": "رُوَيْم",
+          "person_id": 672,
+          "canonical_name": "رويم بن أحمد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ رُوَيْم",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "إِدْرِيس ابْن عبد الْكَرِيم الْحداد",
+        "relationship_type": "student_of",
+        "relationship_phrase": "قَرَأَ على",
+        "full_text": "وَكَانَ مقرئا فَقَرَأَ على إِدْرِيس ابْن عبد الْكَرِيم الْحداد",
+        "person_id": 163,
+        "canonical_name": "إدريس ابن عبد الكريم الحداد"
+      },
+      {
+        "name": "دَاوُد الْأَصْبَهَانِيّ",
+        "relationship_type": "student_of",
+        "relationship_phrase": "على مَذْهَب",
+        "full_text": "وَكَانَ فَقِيها على مَذْهَب دَاوُد الْأَصْبَهَانِيّ",
+        "person_id": 652,
+        "canonical_name": "داود الأصبهانيّ"
+      },
+      {
+        "name": "يزِيد بن سِنَان الْبَصْرِيّ",
+        "relationship_type": "student_of",
+        "relationship_phrase": "قَالَ حَدثنَا",
+        "full_text": "قَالَ حَدثنَا يزِيد بن سِنَان الْبَصْرِيّ",
+        "person_id": 1112,
+        "canonical_name": "يزيد بن سنان البصريّ"
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "مُحَمَّد بن عبد الله بن عبد الْعَزِيز بن شَاذان",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مُحَمَّد بن عبد الله بن عبد الْعَزِيز بن شَاذان يَقُول",
+      "person_id": 1009,
+      "canonical_name": "محمّد بن عبد الله بن عبد العزيز بن شاذان"
+    },
+    {
+      "name": "مُحَمَّداً",
+      "relationship_type": "narrator",
+      "full_text": "وَسمعت مُحَمَّدًا يَقُول",
+      "person_id": 1009,
+      "canonical_name": "محمّد بن عبد الله بن عبد العزيز بن شاذان"
+    },
+    {
+      "name": "جَعْفَر بن مُحَمَّد الْخَواص",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت جَعْفَر بن مُحَمَّد الْخَواص يَقُول",
+      "person_id": 623,
+      "canonical_name": "جعفر بن محمّد الخواص"
+    },
+    {
+      "name": "مُحَمَّد بن خَفِيف",
+      "relationship_type": "questioner",
+      "full_text": "سَأَلت رُوَيْم بن أَحْمد فَقلت لَهُ أوصني",
+      "person_id": 15,
+      "canonical_name": "ابن خفيف"
+    },
+    {
+      "name": "إِبْرَاهِيم بن فاتك",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت إِبْرَاهِيم بن فاتك يَقُول",
+      "person_id": 159,
+      "canonical_name": "إبراهيم بن فاتك"
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "bio_id": "98",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "311",
+    "full_text": "وَمَات أَبُو جَعْفَر سنة إِحْدَى عشرَة وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "نيسابور",
+      "context": "lived",
+      "full_text": "من كبار مَشَايِخ نيسابور"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد بن حمدَان",
+          "person_id": 970,
+          "canonical_name": "محمّد بن أحمد بن حمدان"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        },
+        {
+          "name": "أَبُو الْأَزْهَر",
+          "person_id": 181,
+          "canonical_name": "أبو الأزهر"
+        },
+        {
+          "name": "أَسْبَاط",
+          "person_id": 578,
+          "canonical_name": "أسباط"
+        },
+        {
+          "name": "الشَّيْبَانِيّ",
+          "person_id": 84,
+          "canonical_name": "الشّيبانيّ"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا مُحَمَّد بن أَحْمد بن حمدَان حَدثنَا أبي حَدثنَا أَبُو الْأَزْهَر حَدثنَا أَسْبَاط عَن الشَّيْبَانِيّ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد بن حمدَان أَبَا عَمْرو",
+          "person_id": 971,
+          "canonical_name": "محمّد بن أحمد بن حمدان أبو عمرو"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّد بن أَحْمد بن حمدَان أَبَا عَمْرو يَقُول سَمِعت أبي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد بن حمدَان أَبَا عَمْرو",
+          "person_id": 971,
+          "canonical_name": "محمّد بن أحمد بن حمدان أبو عمرو"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد بن حمدَان أَبَا عَمْرو",
+          "person_id": 971,
+          "canonical_name": "محمّد بن أحمد بن حمدان أبو عمرو"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّד بن أَحْمد بن حمدَان أَبَا عَمْرو",
+          "person_id": 971,
+          "canonical_name": "محمّد بن أحمد بن حمدان أبو عمرو"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد بن حمدَان أَبَا عَمْرو",
+          "person_id": 971,
+          "canonical_name": "محمّد بن أحمد بن حمدان أبو عمرو"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد بن حمدَان أَبَا عَمْرو",
+          "person_id": 971,
+          "canonical_name": "محمّد بن أحمد بن حمدان أبو عمرو"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد بن حمدَان أَبَا عَمْرو",
+          "person_id": 971,
+          "canonical_name": "محمّد بن أحمد بن حمدان أبو عمرو"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَمْرو",
+          "person_id": 470,
+          "canonical_name": "أبو عمرو"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا عَمْرو يَقُول قَالَ أبي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَمْرو",
+          "person_id": 470,
+          "canonical_name": "أبو عمرو"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَمْرو",
+          "person_id": 470,
+          "canonical_name": "أبو عمرو"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَمْرو",
+          "person_id": 470,
+          "canonical_name": "أبو عمرو"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَمْرو",
+          "person_id": 470,
+          "canonical_name": "أبو عمرو"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أَبَا عُثْمَان",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَا عُثْمَان",
+        "person_id": 427,
+        "canonical_name": "أبو عثمان"
+      },
+      {
+        "name": "أَبَا حَفْص",
+        "relationship_type": "peer",
+        "relationship_phrase": "لقي",
+        "full_text": "وَلَقي أَبَا حَفْص",
+        "person_id": 360,
+        "canonical_name": "أبو حفص النّيسابوري"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "مُحَمَّد بن أَحْمد بن حمدَان أَبَا عَمْرو",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مُحَمَّد بن أَحْمد بن حمدَان أَبَا عَمْرو يَقُول",
+      "person_id": 971,
+      "canonical_name": "محمّد بن أحمد بن حمدان أبو عمرو"
+    }
+  ]
+}

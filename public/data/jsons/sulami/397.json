@@ -1,0 +1,358 @@
+{
+  "bio_id": "397",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "289",
+    "full_text": "توفّي سنة تسع وَثَمَانِينَ وَمِائَتَيْنِ",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "الْبَغْدَادِيّ"
+    },
+    {
+      "place": "البصرة",
+      "context": "visited",
+      "full_text": "وَدخل الْبَصْرَة مرَارًا"
+    },
+    {
+      "place": "بِلَاد الرّوم",
+      "context": "visited",
+      "full_text": "خرجت من بِلَاد الرّوم"
+    },
+    {
+      "place": "مَكَّة",
+      "context": "visited",
+      "full_text": "وافى أَبُو حَمْزَة من مَكَّة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله الطَّبَرِيّ",
+          "person_id": 339,
+          "canonical_name": "أبو بكر محمّد بن عبد الله الطّبريّ"
+        },
+        {
+          "name": "إِبْرَاهِيم بن عَليّ المريدي",
+          "person_id": 158,
+          "canonical_name": "إبراهيم بن عليّ المريدي"
+        },
+        {
+          "name": "أَبَا حَمْزَة",
+          "person_id": 362,
+          "canonical_name": "أبو حمزة"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله الطَّبَرِيّ قَالَ سَمِعت إِبْرَاهِيم بن عَليّ المريدي قَالَ سَمِعت أَبَا حَمْزَة يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر",
+          "person_id": 300,
+          "canonical_name": "أبو بكر"
+        },
+        {
+          "name": "أَبَا إِسْحَاق بن الْأَعْمَش",
+          "person_id": 293,
+          "canonical_name": "أبو إسحاق بن الأعمش"
+        },
+        {
+          "name": "رجل",
+          "person_id": 658,
+          "canonical_name": "رجل"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر يَقُول سَمِعت أَبَا إِسْحَاق بن الْأَعْمَش قَالَ قَالَ رجل لي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر",
+          "person_id": 300,
+          "canonical_name": "أبو بكر"
+        },
+        {
+          "name": "خيرا النساج",
+          "person_id": 650,
+          "canonical_name": "خيرا النساج"
+        },
+        {
+          "name": "أَبَا حَمْزَة",
+          "person_id": 362,
+          "canonical_name": "أبو حمزة"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت أَبَا بكر يَقُول سَمِعت خيرا النساج يَقُول سَمِعت أَبَا حَمْزَة يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر",
+          "person_id": 300,
+          "canonical_name": "أبو بكر"
+        },
+        {
+          "name": "خيرا النساج",
+          "person_id": 650,
+          "canonical_name": "خيرا النساج"
+        },
+        {
+          "name": "أَبَا حَمْزَة",
+          "person_id": 362,
+          "canonical_name": "أبو حمزة"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا حَمْزَة يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر",
+          "person_id": 300,
+          "canonical_name": "أبو بكر"
+        },
+        {
+          "name": "خيرا النساج",
+          "person_id": 650,
+          "canonical_name": "خيرا النساج"
+        },
+        {
+          "name": "أَبَا حَمْزَة",
+          "person_id": 362,
+          "canonical_name": "أبو حمزة"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا حَمْزَة يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "نصر بن أبي نصر",
+          "person_id": 1084,
+          "canonical_name": "نصر بن أبي نصر العطّار"
+        },
+        {
+          "name": "مُحَمَّد بن عبد الله بن المتأنق الْبَغْدَادِيّ",
+          "person_id": 1004,
+          "canonical_name": "محمّد بن عبد الله بن المتأنق البغداديّ"
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 36,
+          "canonical_name": "الجنيد"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت نصر بن أبي نصر يَقُول سَمِعت مُحَمَّد بن عبد الله بن المتأنق الْبَغْدَادِيّ يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "نصر بن أبي نصر",
+          "person_id": 1084,
+          "canonical_name": "نصر بن أبي نصر العطّار"
+        },
+        {
+          "name": "مُحَمَّد بن عبد الله بن المتأنق الْبَغْدَادِيّ",
+          "person_id": 1004,
+          "canonical_name": "محمّد بن عبد الله بن المتأنق البغداديّ"
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 36,
+          "canonical_name": "الجنيد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا حَمْزَة يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "نصر بن أبي نصر",
+          "person_id": 1084,
+          "canonical_name": "نصر بن أبي نصر العطّار"
+        },
+        {
+          "name": "مُحَمَّد بن عبد الله بن المتأنق الْبَغْدَادِيّ",
+          "person_id": 1004,
+          "canonical_name": "محمّد بن عبد الله بن المتأنق البغداديّ"
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 36,
+          "canonical_name": "الجنيد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا حَمْزَة يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "نصر بن أبي نصر",
+          "person_id": 1084,
+          "canonical_name": "نصر بن أبي نصر العطّار"
+        },
+        {
+          "name": "مُحَمَّد بن عبد الله بن المتأنق الْبَغْدَادِيّ",
+          "person_id": 1004,
+          "canonical_name": "محمّد بن عبد الله بن المتأنق البغداديّ"
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 36,
+          "canonical_name": "الجنيد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا حَمْزَة يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "نصر بن أبي نصر",
+          "person_id": 1084,
+          "canonical_name": "نصر بن أبي نصر العطّار"
+        },
+        {
+          "name": "مُحَمَّد بن عبد الله بن المتأنق الْبَغْدَادِيّ",
+          "person_id": 1004,
+          "canonical_name": "محمّد بن عبد الله بن المتأنق البغداديّ"
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 36,
+          "canonical_name": "الجنيد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا حَمْزَة يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "نصر بن أبي نصر",
+          "person_id": 1084,
+          "canonical_name": "نصر بن أبي نصر العطّار"
+        },
+        {
+          "name": "مُحَمَّد بن عبد الله بن المتأنق الْبَغْدَادِيّ",
+          "person_id": 1004,
+          "canonical_name": "محمّد بن عبد الله بن المتأنق البغداديّ"
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 36,
+          "canonical_name": "الجنيد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا حَمْزَة يَقُول",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "حسن المسوحي",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ينتمي إلى",
+        "full_text": "وَكَانَ ينتمي إِلَى حسن المسوحي",
+        "person_id": 635,
+        "canonical_name": "حسن المسوحي"
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "السّري بن الْمُغلس السَّقطِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب السّري بن الْمُغلس السَّقطِي وبشرا الحافي",
+        "person_id": 78,
+        "canonical_name": "السّري السّقطي"
+      },
+      {
+        "name": "بشرا الحافي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب السّري بن الْمُغلس السَّقطِي وبشرا الحافي",
+        "person_id": 587,
+        "canonical_name": "بشر بن الحارث"
+      },
+      {
+        "name": "أبي تُرَاب النخشبي",
+        "relationship_type": "peer",
+        "relationship_phrase": "من رُفَقَاء",
+        "full_text": "وَكَانَ من رُفَقَاء أبي تُرَاب النخشبي فِي أَسْفَاره",
+        "person_id": 347,
+        "canonical_name": "أبو تراب النخشبي"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "إِبْرَاهِيم بن عَليّ المريدي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت إِبْرَاهِيم بن عَليّ المريدي قَالَ سَمِعت أَبَا حَمْزَة يَقُول",
+      "person_id": 158,
+      "canonical_name": "إبراهيم بن عليّ المريدي"
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "full_text": "قَالَ رجل لي سَأَلت أَبَا حَمْزَة",
+      "person_id": 658,
+      "canonical_name": "رجل"
+    },
+    {
+      "name": "خيرا النساج",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت خيرا النساج يَقُول سَمِعت أَبَا حَمْزَة يَقُول",
+      "person_id": 650,
+      "canonical_name": "خيرا النساج"
+    },
+    {
+      "name": "الْجُنَيْد",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت الْجُنَيْد يَقُول",
+      "person_id": 36,
+      "canonical_name": "الجنيد"
+    },
+    {
+      "name": "أَحْمد بن حَنْبَل",
+      "relationship_type": "interlocutor",
+      "full_text": "وَكَانَ أَحْمد بن حَنْبَل إِذا جرى فِي مَجْلِسه شَيْء من كَلَام الْقَوْم يَقُول لأبي حَمْزَة مَا تَقول فِيهَا يَا صوفي",
+      "person_id": 541,
+      "canonical_name": "أحمد بن حنبل"
+    },
+    {
+      "name": "رَاهِب",
+      "relationship_type": "interlocutor",
+      "full_text": "فوقفت على رَاهِب فَقلت لَهُ عنْدك من خبر من قد مضى قَالَ نعم",
+      "person_id": 657,
+      "canonical_name": "راهب"
+    }
+  ]
+}

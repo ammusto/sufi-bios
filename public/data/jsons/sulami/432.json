@@ -1,0 +1,339 @@
+{
+  "bio_id": "432",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "353",
+    "full_text": "مَاتَ سنة ثَلَاث وَخمسين وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "الري",
+      "context": "nisba",
+      "full_text": "الرَّازِيّ"
+    },
+    {
+      "place": "نيسابور",
+      "context": "born",
+      "full_text": "رازي الاصل ومولده ومنشأه بنيسابور"
+    },
+    {
+      "place": "نيسابور",
+      "context": "lived",
+      "full_text": "رازي الاصل ومولده ومنشأه بنيسابور"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله الرَّحْمَن بن مُحَمَّد بن عبد الله بن عبد الرَّحْمَن الرَّازِيّ الصُّوفِي",
+          "person_id": 754,
+          "canonical_name": "عبد الله الرّحمن بن محمّد بن عبد الله بن عبد الرّحمن الرّازيّ الصّوفي"
+        },
+        {
+          "name": "يحيى بن أَحْمد بن جبلة",
+          "person_id": 1105,
+          "canonical_name": "يحيى بن أحمد بن جبلة"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        },
+        {
+          "name": "سُلَيْمَان بن حَرْب",
+          "person_id": 701,
+          "canonical_name": "سليمان بن حرب"
+        },
+        {
+          "name": "شُعْبَة",
+          "person_id": 712,
+          "canonical_name": "شعبة"
+        },
+        {
+          "name": "أَيُّوب",
+          "person_id": 585,
+          "canonical_name": "أيّوب"
+        },
+        {
+          "name": "أبي قلَابَة",
+          "person_id": 485,
+          "canonical_name": "أبو قلابة"
+        },
+        {
+          "name": "أنس ﵁",
+          "person_id": 583,
+          "canonical_name": "أنس بن مالك"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا عبد الله الرَّحْمَن بن مُحَمَّد بن عبد الله بن عبد الرَّحْمَن الرَّازِيّ الصُّوفِي قَالَ حَدثنَا يحيى بن أَحْمد بن جبلة قَالَ حَدثنَا أبي قَالَ حَدثنَا سُلَيْمَان بن حَرْب قَالَ حَدثنَا شُعْبَة عَن أَيُّوب عَن أبي قلَابَة عَن أنس ﵁",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ بن جمشاد الصَّائِغ",
+          "person_id": 453,
+          "canonical_name": "أبو عليّ بن جمشاد الصّائغ"
+        },
+        {
+          "name": "عبد الله الرَّازِيّ",
+          "person_id": 753,
+          "canonical_name": "عبد الله الرّازيّ"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا عَليّ بن جمشاد الصَّائِغ يَقُول سَمِعت عبد الله الرَّازِيّ يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد الْمعلم",
+          "person_id": 782,
+          "canonical_name": "عبد الله بن محمّد المعلم"
+        },
+        {
+          "name": "عبد الله الرَّازِيّ",
+          "person_id": 753,
+          "canonical_name": "عبد الله الرّازيّ"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الله بن مُحَمَّد الْمعلم يَقُول سَمِعت عبد الله الرَّازِيّ يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر مُحَمَّد بن أَحْمد",
+          "person_id": 506,
+          "canonical_name": "أبو نصر محمّد بن محمّد بن حامد"
+        },
+        {
+          "name": "عبد الله الرَّازِيّ",
+          "person_id": 753,
+          "canonical_name": "عبد الله الرّازيّ"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا نصر مُحَمَّد بن أَحْمد يَقُول سَمِعت عبد الله الرَّازِيّ يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر مُحَمَّد بن أَحْمد",
+          "person_id": 506,
+          "canonical_name": "أبو نصر محمّد بن محمّد بن حامد"
+        },
+        {
+          "name": "عبد الله الرَّازِيّ",
+          "person_id": 753,
+          "canonical_name": "عبد الله الرّازيّ"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ عبد الله",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر مُحَمَّد بن أَحْمد",
+          "person_id": 506,
+          "canonical_name": "أبو نصر محمّد بن محمّد بن حامد"
+        },
+        {
+          "name": "عبد الله الرَّازِيّ",
+          "person_id": 753,
+          "canonical_name": "عبد الله الرّازيّ"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ عبد الله الرَّازِيّ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد الْمعلم",
+          "person_id": 782,
+          "canonical_name": "عبد الله بن محمّد المعلم"
+        },
+        {
+          "name": "عبد الله الرَّازِيّ",
+          "person_id": 753,
+          "canonical_name": "عبد الله الرّازيّ"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الله بن مُحَمَّد الْمعلم يَقُول سَمِعت عبد الله الرَّازِيّ يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد الْمعلم",
+          "person_id": 782,
+          "canonical_name": "عبد الله بن محمّد المعلم"
+        },
+        {
+          "name": "عبد الله الرَّازِيّ",
+          "person_id": 753,
+          "canonical_name": "عبد الله الرّازيّ"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت عبد الله الرَّازِيّ يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد الْمعلم",
+          "person_id": 782,
+          "canonical_name": "عبد الله بن محمّد المعلم"
+        },
+        {
+          "name": "عبد الله الرَّازِيّ",
+          "person_id": 753,
+          "canonical_name": "عبد الله الرّازيّ"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت عبد الله الرَّازِيّ يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر الْحَرَّانِي",
+          "person_id": 502,
+          "canonical_name": "أبو نصر الحرّاني"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا نصر الْحَرَّانِي يَقُول قلت لعبد الله الرَّازِيّ عَلمنِي دُعَاء أَدْعُو بِهِ",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "الْجُنَيْد بن مُحَمَّد",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب الْجُنَيْد بن مُحَمَّد",
+        "person_id": 36,
+        "canonical_name": "الجنيد"
+      },
+      {
+        "name": "أَبا عُثْمَان",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبا عُثْمَان",
+        "person_id": 427,
+        "canonical_name": "أبو عثمان"
+      },
+      {
+        "name": "مُحَمّد بن الْفضل",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب مُحَمّد بن الْفضل",
+        "person_id": 947,
+        "canonical_name": "محمّد بن الفضل"
+      },
+      {
+        "name": "رويم ا",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب رويما",
+        "person_id": 672,
+        "canonical_name": "رويم بن أحمد"
+      },
+      {
+        "name": "سمنون",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب سمنون",
+        "person_id": 703,
+        "canonical_name": "سمنون"
+      },
+      {
+        "name": "يوسف بن الْحسن",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب يوسف بن الْحسن",
+        "person_id": 1118,
+        "canonical_name": "يوسف بن الحسن"
+      },
+      {
+        "name": "أَبا عَليّ الْجوزجَاني",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبا عَليّ الْجوزجَاني",
+        "person_id": 444,
+        "canonical_name": "أبو عليّ الجوزجاني"
+      },
+      {
+        "name": "مُحَمّد بن حَامِد",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب مُحَمّد بن حَامِد",
+        "person_id": 984,
+        "canonical_name": "محمّد بن حامد"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَبَا عَليّ بن جمشاد الصَّائِغ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا عَليّ بن جمشاد الصَّائِغ يَقُول",
+      "person_id": 453,
+      "canonical_name": "أبو عليّ بن جمشاد الصّائغ"
+    },
+    {
+      "name": "عبد الله بن مُحَمَّد الْمعلم",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت عبد الله بن مُحَمَّد الْمعلم يَقُول",
+      "person_id": 782,
+      "canonical_name": "عبد الله بن محمّد المعلم"
+    },
+    {
+      "name": "أَبَا نصر مُحَمَّد بن أَحْمد",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا نصر مُحَمَّد بن أَحْمد يَقُول",
+      "person_id": 506,
+      "canonical_name": "أبو نصر محمّد بن محمّد بن حامد"
+    },
+    {
+      "name": "أنس ﵁",
+      "relationship_type": "narrator",
+      "full_text": "عَن أنس ﵁",
+      "person_id": 583,
+      "canonical_name": "أنس بن مالك"
+    },
+    {
+      "name": "أَبَا نصر الْحَرَّانِي",
+      "relationship_type": "interlocutor",
+      "context": "questioner",
+      "full_text": "قلت لعبد الله الرَّازِيّ عَلمنِي دُعَاء أَدْعُو بِهِ",
+      "person_id": 502,
+      "canonical_name": "أبو نصر الحرّاني"
+    },
+    {
+      "name": "بَعض العارفين",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "respondent",
+      "full_text": "قيل لبَعض العارفين مَا الَّذِي حبب إِلَيْك الْخلْوَة وَنفى عَنْك الْغَفْلَة قَالَ وثبة الأكياس من فخ الدُّنْيَا",
+      "person_id": 589,
+      "canonical_name": "بعض العارفين"
+    }
+  ]
+}

@@ -1,0 +1,715 @@
+{
+  "bio_id": "847",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "304",
+    "full_text": "مَاتَ يُوسُف سنة أَربع وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "الرّيّ",
+      "context": "nisba",
+      "full_text": "الرَّازِيّ"
+    },
+    {
+      "place": "الرّيّ",
+      "context": "lived",
+      "full_text": "شيخ الرّيّ"
+    },
+    {
+      "place": "الْجِبَال",
+      "context": "mentioned",
+      "full_text": "وَالْجِبَال فِي وقته"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَطاء",
+          "person_id": 773,
+          "canonical_name": "عبد الله بن عطاء"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سَمِعت عبد الله بن عَطاء يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو نصر عبد الله بن عَليّ الطوسي",
+          "person_id": 505,
+          "canonical_name": "أبو نصر عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد بن الْحُسَيْن الرَّاوِي",
+          "person_id": 967,
+          "canonical_name": "محمّد بن أحمد بن الحسين الرّاوي"
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حَدثنَا أَبُو نصر عبد الله بن عَليّ الطوسي قَالَ حَدثنَا مُحَمَّد بن أَحْمد بن الْحُسَيْن الرَّاوِي يَقُول سَمِعت يُوسُف بن الْحُسَيْن يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        },
+        {
+          "name": "بعض رُفَقَائِي",
+          "person_id": 598,
+          "canonical_name": "بعض رفقائي"
+        },
+        {
+          "name": "أبي بكر بن دَاوُد الْأَصْبَهَانِيّ",
+          "person_id": 324,
+          "canonical_name": "أبو بكر بن داود الأصبهانيّ"
+        },
+        {
+          "name": "أَبِيه",
+          "person_id": 526,
+          "canonical_name": "أبيه"
+        },
+        {
+          "name": "سُوَيْد بن سعيد",
+          "person_id": 709,
+          "canonical_name": "سويد بن سعيد"
+        },
+        {
+          "name": "عَليّ بن مسْهر",
+          "person_id": 871,
+          "canonical_name": "عليّ بن مسهر"
+        },
+        {
+          "name": "أبي يحيى القَتَّات",
+          "person_id": 513,
+          "canonical_name": "أبو يحيى القتّات"
+        },
+        {
+          "name": "مُجَاهِد",
+          "person_id": 923,
+          "canonical_name": "مجاهد"
+        },
+        {
+          "name": "ابْن عَبَّاس",
+          "person_id": 17,
+          "canonical_name": "ابن عبّاس"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حَدثنِي بعض رُفَقَائِي عَن أبي بكر بن دَاوُد الْأَصْبَهَانِيّ عَن أَبِيه عَن سُوَيْد بن سعيد عَن عَليّ بن مسْهر عَن أبي يحيى القَتَّات عَن مُجَاهِد عَن ابْن عَبَّاس",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله",
+          "person_id": 747,
+          "canonical_name": "عبد الله"
+        },
+        {
+          "name": "مُحَمَّد",
+          "person_id": 967,
+          "canonical_name": "محمّد بن أحمد بن الحسين الرّاوي"
+        },
+        {
+          "name": "يُوسُف",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَأخْبرنَا عبد الله قَالَ حَدثنَا مُحَمَّد حَدثنَا يُوسُف",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "يُوسُف",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        },
+        {
+          "name": "عبد الله بن حَاضر",
+          "person_id": 761,
+          "canonical_name": "عبد الله بن حاضر"
+        },
+        {
+          "name": "أَحْمد بن حَنْبَل",
+          "person_id": 541,
+          "canonical_name": "أحمد بن حنبل"
+        },
+        {
+          "name": "روح",
+          "person_id": 670,
+          "canonical_name": "روح"
+        },
+        {
+          "name": "سعيد",
+          "person_id": 683,
+          "canonical_name": "سعيد"
+        },
+        {
+          "name": "قَتَادَة",
+          "person_id": 914,
+          "canonical_name": "قتادة"
+        },
+        {
+          "name": "أنس",
+          "person_id": 583,
+          "canonical_name": "أنس بن مالك"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حَدثنَا عبد الله بن حَاضر حَدثنَا أَحْمد بن حَنْبَل حَدثنَا روح عَن سعيد عَن قَتَادَة عَن أنس",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
+          "person_id": 356,
+          "canonical_name": "أبو جعفر محمّد بن أحمد الرّازيّ"
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الله بن عَليّ الطوسي يَقُول سَمِعت أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ يَقُول سَمِعت يُوسُف بن الْحُسَيْن يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
+          "person_id": 356,
+          "canonical_name": "أبو جعفر محمّد بن أحمد الرّازيّ"
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ يُوسُف من ذكر الله بِحَقِيقَة ذكره نسى ذكر غَيره",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
+          "person_id": 356,
+          "canonical_name": "أبو جعفر محمّد بن أحمد الرّازيّ"
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ رجل ليوسف دلَّنِي على طَرِيق الْمعرفَة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
+          "person_id": 356,
+          "canonical_name": "أبو جعفر محمّد بن أحمد الرّازيّ"
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ يُوسُف إِذا رَأَيْت الله قد أقامك لطلب شَيْء وَهُوَ يمنعك ذَلِك فَاعْلَم أَنَّك معذب",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
+          "person_id": 356,
+          "canonical_name": "أبو جعفر محمّد بن أحمد الرّازيّ"
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ يُوسُف بِمَاذَا يقطع الطَّرِيق إِلَى الله",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
+          "person_id": 356,
+          "canonical_name": "أبو جعفر محمّد بن أحمد الرّازيّ"
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ يُوسُف يتَوَلَّد الْإِعْجَاب بِالْعَمَلِ من نِسْيَان رُؤْيَة الْمِنَّة فِيمَا يجْرِي الله لَك من الطَّاعَات",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
+          "person_id": 356,
+          "canonical_name": "أبو جعفر محمّد بن أحمد الرّازيّ"
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ يُوسُف خفَّة الْمعدة من الشَّهَوَات والفضول قُوَّة على الْعِبَادَة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
+          "person_id": 356,
+          "canonical_name": "أبو جعفر محمّد بن أحمد الرّازيّ"
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ يُوسُف عَن الْفَقِير الصَّادِق",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
+          "person_id": 356,
+          "canonical_name": "أبو جعفر محمّد بن أحمد الرّازيّ"
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ يُوسُف من تفتت عذاره وَانْقطع حزامه وساح فِي مفاوز المخاطرات",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
+          "person_id": 356,
+          "canonical_name": "أبو جعفر محمّد بن أحمد الرّازيّ"
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ يُوسُف أَرغب النَّاس فِي الدُّنْيَا أَكْثَرهم ذما لَهَا عِنْد أبنائها",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
+          "person_id": 356,
+          "canonical_name": "أبو جعفر محمّد بن أحمد الرّازيّ"
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ يُوسُف اصل الْعقل الصمت وباطن الْعقل كتمان السِّرّ وَظَاهر الْعقل الِاقْتِدَاء بِالسنةِ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
+          "person_id": 356,
+          "canonical_name": "أبو جعفر محمّد بن أحمد الرّازيّ"
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ يُوسُف كل مَا رَأَيْتُمُونِي أَفعلهُ فافعلوه إِلَّا صُحْبَة الْأَحْدَاث",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
+          "person_id": 356,
+          "canonical_name": "أبو جعفر محمّد بن أحمد الرّازيّ"
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ يُوسُف أذلّ النَّاس الْفَقِير الطموع والمحب لمحبوبه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
+          "person_id": 356,
+          "canonical_name": "أبو جعفر محمّد بن أحمد الرّازيّ"
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ يُوسُف الْخَيْر كُله فِي بَيت ومفتاحه التَّوَاضُع وَالشَّر كُله فِي بَيت ومفتاحه التكبر",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
+          "person_id": 356,
+          "canonical_name": "أبو جعفر محمّد بن أحمد الرّازيّ"
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ يُوسُف بالأدب تفهم الْعلم وبالعلم يَصح لَك الْعَمَل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان",
+          "person_id": 341,
+          "canonical_name": "أبو بكر محمّد بن عبد الله بن شاذان"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان",
+          "person_id": 341,
+          "canonical_name": "أبو بكر محمّد بن عبد الله بن شاذان"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ يُوسُف إِن عين الْهوى عوراء",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول قَالَ يُوسُف بن الْحُسَيْن",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ يُوسُف لَوْلَا أَنِّي مستعبد بترك الذُّنُوب لأحببت أَن أَلْقَاهُ بذنوب الْعباد أجمع",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ يُوسُف نظرت فِي آفَات الْخلق فَعرفت من أَيْن أَتَوا",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ يُوسُف عَاهَدت رَبِّي أَكثر من مائَة مرّة أَلا أصحب حَدثا",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ يُوسُف فِي الدُّنْيَا طغيانان طغيان الْعلم وطغيان المَال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1119,
+          "canonical_name": "يوسف بن الحسين"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ يُوسُف عَن قَول النَّبِي ﷺ (أَرحْنَا بهَا يَا بِلَال)",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "ذَا النُّون الْمصْرِيّ",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب ذَا النُّون الْمصْرِيّ",
+        "person_id": 656,
+        "canonical_name": "ذو النون المصريّ"
+      },
+      {
+        "name": "أَبا تُرَاب النخشبي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب ذَا النُّون الْمصْرِيّ وَأَبا تُرَاب النخشبي",
+        "person_id": 347,
+        "canonical_name": "أبو تراب النخشبي"
+      },
+      {
+        "name": "أَبَا سعيد الخراز",
+        "relationship_type": "peer",
+        "relationship_phrase": "رافق",
+        "full_text": "ورافق أَبَا سعيد الخراز فِي بعض أَسْفَاره",
+        "person_id": 376,
+        "canonical_name": "أبو سعيد الخراز"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "مُحَمَّد بن أَحْمد بن الْحُسَيْن الرَّاوِي",
+      "relationship_type": "narrator",
+      "full_text": "يَقُول سَمِعت يُوسُف بن الْحُسَيْن يَقُول",
+      "person_id": 967,
+      "canonical_name": "محمّد بن أحمد بن الحسين الرّاوي"
+    },
+    {
+      "name": "مُحَمَّد",
+      "relationship_type": "narrator",
+      "full_text": "حَدثنَا يُوسُف",
+      "person_id": 967,
+      "canonical_name": "محمّد بن أحمد بن الحسين الرّاوي"
+    },
+    {
+      "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "يَقُول سَمِعت يُوسُف بن الْحُسَيْن يَقُول",
+      "person_id": 356,
+      "canonical_name": "أبو جعفر محمّد بن أحمد الرّازيّ"
+    },
+    {
+      "name": "أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان",
+      "relationship_type": "narrator",
+      "full_text": "يَقُول بَلغنِي أَن يُوسُف بن الْحُسَيْن كَانَ يَقُول",
+      "person_id": 341,
+      "canonical_name": "أبو بكر محمّد بن عبد الله بن شاذان"
+    },
+    {
+      "name": "أَبَا بكر الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "يَقُول قَالَ يُوسُف بن الْحُسَيْن",
+      "person_id": 305,
+      "canonical_name": "أبو بكر الرّازيّ"
+    },
+    {
+      "name": "عبد الله بن عَطاء",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت عبد الله بن عَطاء يَقُول",
+      "person_id": 773,
+      "canonical_name": "عبد الله بن عطاء"
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "full_text": "قَالَ وَقَالَ رجل ليوسف دلَّنِي على طَرِيق الْمعرفَة",
+      "person_id": 658,
+      "canonical_name": "رجل"
+    }
+  ]
+}

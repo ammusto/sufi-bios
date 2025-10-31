@@ -1,0 +1,538 @@
+{
+  "bio_id": "340",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "~310",
+    "full_text": "مَاتَ سنة تسع وثلاثمائة أَو إِحْدَى عشرَة وثلاثمائة",
+    "certainty": "approximate"
+  },
+  "geographical_locations": [
+    {
+      "place": "الْمَدِينَة",
+      "context": "mentioned",
+      "full_text": "قَالَ قدم رَسُول الله ﷺ الْمَدِينَة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن أَحْمد بن مُحَمَّد بن مقسم الْمُقْرِئ",
+          "person_id": 194,
+          "canonical_name": "أبو الحسن أحمد بن محمّد بن مقسم المقرئ"
+        },
+        {
+          "name": "ابْن مَرْوَان النهاوندي",
+          "person_id": 26,
+          "canonical_name": "ابن مروان النهاوندي"
+        },
+        {
+          "name": "أَبَا سعيد الخراز",
+          "person_id": 376,
+          "canonical_name": "أبو سعيد الخراز"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحسن أَحْمد بن مُحَمَّد بن مقسم الْمُقْرِئ يَقُول سَمِعت ابْن مَرْوَان النهاوندي يَقُول سَمِعت أَبَا سعيد الخراز يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن أَحْمد الْهَاشِمِي",
+          "person_id": 798,
+          "canonical_name": "عبد الواحد بن أحمد الهاشمي"
+        },
+        {
+          "name": "أَبُو نعيم أَحْمد ابْن عبد الله بن أَحْمد",
+          "person_id": 507,
+          "canonical_name": "أبو نعيم أحمد ابن عبد الله بن أحمد"
+        },
+        {
+          "name": "مُحَمَّد بن عَليّ بن حُبَيْش الْمُقْرِئ الصُّوفِي",
+          "person_id": 1027,
+          "canonical_name": "محمّد بن عليّ بن حبيش المقرئ الصّوفي"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس أَحْمد بن مُحَمَّد بن سهل بن عَطاء",
+          "person_id": 18,
+          "canonical_name": "ابن عطاء الآدمي"
+        },
+        {
+          "name": "يُوسُف بن مُوسَى",
+          "person_id": 1125,
+          "canonical_name": "يوسف بن موسى"
+        },
+        {
+          "name": "هَاشم بن الْقَاسِم",
+          "person_id": 1089,
+          "canonical_name": "هاشم بن القاسم"
+        },
+        {
+          "name": "عبد الآخر بن دِينَار",
+          "person_id": 734,
+          "canonical_name": "عبد الآخر بن دينار"
+        },
+        {
+          "name": "زيد بن أسلم",
+          "person_id": 678,
+          "canonical_name": "زيد بن أسلم"
+        },
+        {
+          "name": "عَطاء بن يسَار",
+          "person_id": 821,
+          "canonical_name": "عطاء بن يسار"
+        },
+        {
+          "name": "أبي وَاقد اللَّيْثِيّ",
+          "person_id": 511,
+          "canonical_name": "أبو واقد اللّيثيّ"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا عبد الْوَاحِد بن أَحْمد الْهَاشِمِي بِبَغْدَاد قَالَ حَدثنَا أَبُو نعيم أَحْمد ابْن عبد الله بن أَحْمد حَدثنَا مُحَمَّد بن عَليّ بن حُبَيْش الْمُقْرِئ الصُّوفِي حَدثنَا أَبُو الْعَبَّاس أَحْمد بن مُحَمَّد بن سهل بن عَطاء حَدثنَا يُوسُف بن مُوسَى حَدثنَا هَاشم بن الْقَاسِم حَدثنَا عبد الآخر بن دِينَار عَن زيد بن أسلم عَن عَطاء بن يسَار عَن أبي وَاقد اللَّيْثِيّ قَالَ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ العكبري",
+          "person_id": 778,
+          "canonical_name": "عبد الله بن عليّ العكبري"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الله بن عَليّ العكبري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن بكر",
+          "person_id": 799,
+          "canonical_name": "عبد الواحد بن بكر"
+        },
+        {
+          "name": "مُحَمَّد بن عبد الْعَزِيز",
+          "person_id": 997,
+          "canonical_name": "محمّد بن عبد العزيز"
+        },
+        {
+          "name": "أَبَا الْعَبَّاس بن عَطاء",
+          "person_id": 18,
+          "canonical_name": "ابن عطاء الآدمي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الْوَاحِد بن بكر يَقُول سَمِعت مُحَمَّد بن عبد الْعَزِيز يَقُول سَمِعت أَبَا الْعَبَّاس بن عَطاء يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "أَبَا الْعَبَّاس بن عَطاء",
+          "person_id": 18,
+          "canonical_name": "ابن عطاء الآدمي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت أَبَا الْعَبَّاس بن عَطاء يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا سعيد عبد الله بن مُحَمَّد بن عبد الْوَهَّاب الْقرشِي",
+          "person_id": 382,
+          "canonical_name": "أبو سعيد عبد الله بن محمّد بن عبد الوهّاب القرشي"
+        },
+        {
+          "name": "أَبَا الْعَبَّاس بن عَطاء",
+          "person_id": 18,
+          "canonical_name": "ابن عطاء الآدمي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا سعيد عبد الله بن مُحَمَّد بن عبد الْوَهَّاب الْقرشِي يَقُول سَمِعت أَبَا الْعَبَّاس بن عَطاء يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "أَبَا الْعَبَّاس بن عَطاء",
+          "person_id": 18,
+          "canonical_name": "ابن عطاء الآدمي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت أَبَا الْعَبَّاس بن عَطاء يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "الْعَبَّاس بن عَطاء",
+          "person_id": 100,
+          "canonical_name": "العبّاس بن عطاء"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول سَمِعت الْعَبَّاس بن عَطاء يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "ابْن عَطاء",
+          "person_id": 18,
+          "canonical_name": "ابن عطاء الآدمي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وسمعته يَقُول سَمِعت ابْن عَطاء",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن",
+          "person_id": 206,
+          "canonical_name": "أبو الحسين"
+        },
+        {
+          "name": "ابْن عَطاء",
+          "person_id": 18,
+          "canonical_name": "ابن عطاء الآدمي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت أَبَا الْحُسَيْن يَقُول سَمِعت ابْن عَطاء يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن",
+          "person_id": 206,
+          "canonical_name": "أبو الحسين"
+        },
+        {
+          "name": "أَبَا الْعَبَّاس بن عَطاء",
+          "person_id": 18,
+          "canonical_name": "ابن عطاء الآدمي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قَالَ وَسمعت أَبَا الْعَبَّاس بن عَطاء يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن",
+          "person_id": 206,
+          "canonical_name": "أبو الحسين"
+        },
+        {
+          "name": "أَبَا الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت أَبَا الْحُسَيْن يَقُول سَمِعت أَبَا الْعَبَّاس يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن",
+          "person_id": 206,
+          "canonical_name": "أبو الحسين"
+        },
+        {
+          "name": "أَبَا الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْعَبَّاس بن عَطاء",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "أَبَا الْعَبَّاس بن عَطاء",
+          "person_id": 18,
+          "canonical_name": "ابن عطاء الآدمي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت أَبَا الْعَبَّاس بن عَطاء ينشد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر",
+          "person_id": 300,
+          "canonical_name": "أبو بكر"
+        },
+        {
+          "name": "ابْن عَطاء",
+          "person_id": 18,
+          "canonical_name": "ابن عطاء الآدمي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت أَبَا بكر يَقُول سَمِعت ابْن عَطاء يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن بكر الورثاني",
+          "person_id": 800,
+          "canonical_name": "عبد الواحد بن بكر الورثاني"
+        },
+        {
+          "name": "أَبُو عَليّ النهاوندي",
+          "person_id": 451,
+          "canonical_name": "أبو عليّ النهاوندي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أَنْشدني عبد الْوَاحِد بن بكر الورثاني قَالَ أَنْشدني أَبُو عَليّ النهاوندي لأبي الْعَبَّاس بن عَطاء",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن عَليّ بن جَعْفَر",
+          "person_id": 554,
+          "canonical_name": "أحمد بن عليّ بن جعفر"
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 159,
+          "canonical_name": "إبراهيم بن فاتك"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَحْمد بن عَليّ بن جَعْفَر يَقُول أَنْشدني إِبْرَاهِيم بن فاتك لِابْنِ عَطاء",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "ابْن عَطاء",
+          "person_id": 18,
+          "canonical_name": "ابن عطاء الآدمي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول سَمِعت ابْن عَطاء يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "ابْن عَطاء",
+          "person_id": 18,
+          "canonical_name": "ابن عطاء الآدمي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ ابْن عَطاء",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "ابْن عَطاء",
+          "person_id": 18,
+          "canonical_name": "ابن عطاء الآدمي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ ابْن عَطاء",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "ابْن عَطاء",
+          "person_id": 18,
+          "canonical_name": "ابن عطاء الآدمي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ ابْن عَطاء",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "ابْن عَطاء",
+          "person_id": 18,
+          "canonical_name": "ابن عطاء الآدمي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ ابْن عَطاء",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "ابْن عَطاء",
+          "person_id": 18,
+          "canonical_name": "ابن عطاء الآدمي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْعَبَّاس بن عَطاء",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "ابْن عَطاء",
+          "person_id": 18,
+          "canonical_name": "ابن عطاء الآدمي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْعَبَّاس بن عَطاء",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "إِبْرَاهِيم المارستاني",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب إِبْرَاهِيم المارستاني والجنيد بن مُحَمَّد",
+        "person_id": 144,
+        "canonical_name": "إبراهيم المارستاني"
+      },
+      {
+        "name": "الجنيد بن مُحَمَّد",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب إِبْرَاهِيم المارستاني والجنيد بن مُحَمَّد",
+        "person_id": 36,
+        "canonical_name": "الجنيد"
+      },
+      {
+        "name": "أَبُو سعيد الخراز",
+        "relationship_type": "peer",
+        "relationship_phrase": "يعظم شأنه",
+        "full_text": "كَانَ أَبُو سعيد الخراز يعظم شَأْنه",
+        "person_id": 376,
+        "canonical_name": "أبو سعيد الخراز"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "مُحَمَّد بن عَليّ بن حُبَيْش الْمُقْرِئ الصُّوفِي",
+      "relationship_type": "narrator",
+      "full_text": "حَدثنَا مُحَمَّد بن عَليّ بن حُبَيْش الْمُقْرِئ الصُّوفِي حَدثنَا أَبُو الْعَبَّاس أَحْمد بن مُحَمَّد بن سهل بن عَطاء",
+      "person_id": 1027,
+      "canonical_name": "محمّد بن عليّ بن حبيش المقرئ الصّوفي"
+    },
+    {
+      "name": "مُحَمَّد بن عبد الْعَزِيز",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مُحَمَّد بن عبد الْعَزِيز يَقُول سَمِعت أَبَا الْعَبَّاس بن عَطاء يَقُول",
+      "person_id": 997,
+      "canonical_name": "محمّد بن عبد العزيز"
+    },
+    {
+      "name": "أَبُو بكر الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت أَبَا الْعَبَّاس بن عَطاء يَقُول",
+      "person_id": 305,
+      "canonical_name": "أبو بكر الرّازيّ"
+    },
+    {
+      "name": "أَبُو سعيد عبد الله بن مُحَمَّد بن عبد الْوَهَّاب الْقرشِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا سعيد عبد الله بن مُحَمَّد بن عبد الْوَهَّاب الْقرشِي يَقُول سَمِعت أَبَا الْعَبَّاس بن عَطاء يَقُول",
+      "person_id": 382,
+      "canonical_name": "أبو سعيد عبد الله بن محمّد بن عبد الوهّاب القرشي"
+    },
+    {
+      "name": "أَبُو الْحُسَيْن الْفَارِسِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول سَمِعت الْعَبَّاس بن عَطاء يَقُول",
+      "person_id": 209,
+      "canonical_name": "أبو الحسين الفارسي"
+    }
+  ]
+}

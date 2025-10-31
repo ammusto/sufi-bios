@@ -1,0 +1,404 @@
+{
+  "bio_id": "123",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "279",
+    "full_text": "مَاتَ سنة تسع وَسبعين وَمِائَتَيْنِ",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "بَغْدَاد",
+      "context": "lived",
+      "full_text": "من أهل بَغْدَاد"
+    },
+    {
+      "place": "بَغْدَاد",
+      "context": "nisba",
+      "full_text": "الْبَغْدَادِيّ"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبُو الْفَتْح يُوسُف بن عمر بن مسرور الزَّاهِد بِبَغْدَاد",
+          "person_id": 256,
+          "canonical_name": "أبو الفتح يوسف بن عمر بن مسرور الزّاهد ببغداد"
+        },
+        {
+          "name": "عَليّ بن مُحَمَّد الْمصْرِيّ",
+          "person_id": 868,
+          "canonical_name": "عليّ بن محمّد المصريّ"
+        },
+        {
+          "name": "أَبُو سعيد أَحْمد بن عِيسَى الخراز الْبَغْدَادِيّ الصُّوفِي",
+          "person_id": 376,
+          "canonical_name": "أبو سعيد الخراز"
+        },
+        {
+          "name": "عبد الله بن إِبْرَاهِيم الْغِفَارِيّ",
+          "person_id": 758,
+          "canonical_name": "عبد الله بن إبراهيم الغفاريّ"
+        },
+        {
+          "name": "جَابر بن سليم",
+          "person_id": 615,
+          "canonical_name": "جابر بن سليم"
+        },
+        {
+          "name": "يحيى ابْن سعيد",
+          "person_id": 1101,
+          "canonical_name": "يحيى ابن سعيد"
+        },
+        {
+          "name": "مُحَمَّد بن إِبْرَاهِيم",
+          "person_id": 952,
+          "canonical_name": "محمّد بن إبراهيم"
+        },
+        {
+          "name": "عَائِشَة ﵂",
+          "person_id": 727,
+          "canonical_name": "عائشة"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا أَبُو الْفَتْح يُوسُف بن عمر بن مسرور الزَّاهِد بِبَغْدَاد قَالَ حَدثنَا عَليّ بن مُحَمَّد الْمصْرِيّ حَدثنَا أَبُو سعيد أَحْمد بن عِيسَى الخراز الْبَغْدَادِيّ الصُّوفِي حَدثنَا عبد الله بن إِبْرَاهِيم الْغِفَارِيّ حَدثنَا جَابر بن سليم عَن يحيى ابْن سعيد عَن مُحَمَّد بن إِبْرَاهِيم عَن عَائِشَة ﵂",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر بن عبد الله الفرغاني",
+          "person_id": 886,
+          "canonical_name": "عمر بن عبد الله الفرغاني"
+        },
+        {
+          "name": "ابْن الْكَاتِب",
+          "person_id": 6,
+          "canonical_name": "ابن الكاتب"
+        },
+        {
+          "name": "ابا سعيد الخراز",
+          "person_id": 376,
+          "canonical_name": "أبو سعيد الخراز"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عمر بن عبد الله الفرغاني يَقُول سَمِعت ابْن الْكَاتِب يَقُول سَمِعت ابا سعيد الخراز يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "أَبَا بكر الزقاق",
+          "person_id": 307,
+          "canonical_name": "أبو بكر الزقاق"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت أَبَا بكر الزقاق يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن مُحَمَّد بن يَعْقُوب الْهَرَوِيّ",
+          "person_id": 572,
+          "canonical_name": "أحمد بن محمّد بن يعقوب الهرويّ"
+        },
+        {
+          "name": "أَحْمد بن عَطاء",
+          "person_id": 549,
+          "canonical_name": "أحمد بن عطاء"
+        },
+        {
+          "name": "أَبُو صَالح",
+          "person_id": 389,
+          "canonical_name": "أبو صالح"
+        },
+        {
+          "name": "أَبُو سعيد الخراز",
+          "person_id": 376,
+          "canonical_name": "أبو سعيد الخراز"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حَدثنَا أَحْمد بن مُحَمَّد بن يَعْقُوب الْهَرَوِيّ قَالَ حَدثنِي أَحْمد بن عَطاء قَالَ حَدثنِي أَبُو صَالح قَالَ قَالَ أَبُو سعيد الخراز",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "أَبَا مُحَمَّد الْجريرِي",
+          "person_id": 488,
+          "canonical_name": "أبو محمّد الجريري"
+        },
+        {
+          "name": "أَبَا سعيد الخراز",
+          "person_id": 376,
+          "canonical_name": "أبو سعيد الخراز"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول سَمِعت أَبَا مُحَمَّد الْجريرِي يَقُول سَمِعت أَبَا سعيد الخراز يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "نصر بن أبي نصر",
+          "person_id": 1084,
+          "canonical_name": "نصر بن أبي نصر العطّار"
+        },
+        {
+          "name": "قاسما غُلَام الزقاق",
+          "person_id": 913,
+          "canonical_name": "قاسما غلام الزقاق"
+        },
+        {
+          "name": "أَبَا سعيد السكرِي",
+          "person_id": 378,
+          "canonical_name": "أبو سعيد السكري"
+        },
+        {
+          "name": "أَبَا سعيد الخراز",
+          "person_id": 376,
+          "canonical_name": "أبو سعيد الخراز"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت نصر بن أبي نصر يَقُول سَمِعت قاسما غُلَام الزقاق يَقُول سَمِعت أَبَا سعيد السكرِي يَقُول سَمِعت أَبَا سعيد الخراز يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "نصرا",
+          "person_id": 1084,
+          "canonical_name": "نصر بن أبي نصر العطّار"
+        },
+        {
+          "name": "أَبَا الطّيب بن فرخان",
+          "person_id": 226,
+          "canonical_name": "أبو الطّيب بن فرخان"
+        },
+        {
+          "name": "أَبَا مُحَمَّد الْجريرِي",
+          "person_id": 488,
+          "canonical_name": "أبو محمّد الجريري"
+        },
+        {
+          "name": "أَبَا سعيد الخراز",
+          "person_id": 376,
+          "canonical_name": "أبو سعيد الخراز"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت نصرا يَقُول سَمِعت أَبَا الطّيب بن فرخان يَقُول سَمِعت أَبَا مُحَمَّد الْجريرِي يَقُول سَمِعت أَبَا سعيد الخراز يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن عَليّ بن جَعْفَر",
+          "person_id": 554,
+          "canonical_name": "أحمد بن عليّ بن جعفر"
+        },
+        {
+          "name": "مُحَمَّد بن عَليّ الكتاني",
+          "person_id": 1022,
+          "canonical_name": "محمّد بن عليّ الكتاني"
+        },
+        {
+          "name": "أَبَا سعيد الخراز",
+          "person_id": 376,
+          "canonical_name": "أبو سعيد الخراز"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَحْمد بن عَليّ بن جَعْفَر يَقُول سَمِعت مُحَمَّد بن عَليّ الكتاني يَقُول سَمِعت أَبَا سعيد الخراز يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن عَليّ بن جَعْفَر",
+          "person_id": 554,
+          "canonical_name": "أحمد بن عليّ بن جعفر"
+        },
+        {
+          "name": "مُحَمَّد بن عَليّ الكتاني",
+          "person_id": 1022,
+          "canonical_name": "محمّد بن عليّ الكتاني"
+        },
+        {
+          "name": "أَبَا سعيد الخراز",
+          "person_id": 376,
+          "canonical_name": "أبو سعيد الخراز"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو سعيد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عبد الله الرَّازِيّ",
+          "person_id": 404,
+          "canonical_name": "أبو عبد الله الرّازيّ"
+        },
+        {
+          "name": "أَبَا الْعَبَّاس الصياد بِمصْر",
+          "person_id": 234,
+          "canonical_name": "أبو العبّاس الصياد بمصر"
+        },
+        {
+          "name": "أَبَا سعيد الخراز",
+          "person_id": 376,
+          "canonical_name": "أبو سعيد الخراز"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا عبد الله الرَّازِيّ يَقُول سَمِعت أَبَا الْعَبَّاس الصياد بِمصْر يَقُول سَمِعت أَبَا سعيد الخراز يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن عبد الله",
+          "person_id": 857,
+          "canonical_name": "عليّ بن عبد الله"
+        },
+        {
+          "name": "أَبَا الْعَبَّاس الطَّحَّان",
+          "person_id": 235,
+          "canonical_name": "أبو العبّاس الطّحّان"
+        },
+        {
+          "name": "أَبُو سعيد الخراز",
+          "person_id": 376,
+          "canonical_name": "أبو سعيد الخراز"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عَليّ بن عبد الله يَقُول سَمِعت أَبَا الْعَبَّاس الطَّحَّان يَقُول قَالَ أَبُو سعيد الخراز",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "ذَا النُّون الْمصْرِيّ",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب ذَا النُّون الْمصْرِيّ وَأَبا عبد الله النباجي وَأَبا عبيد البسري",
+        "person_id": 656,
+        "canonical_name": "ذو النون المصريّ"
+      },
+      {
+        "name": "أَبا عبد الله النباجي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب ذَا النُّون الْمصْرِيّ وَأَبا عبد الله النباجي وَأَبا عبيد البسري",
+        "person_id": 415,
+        "canonical_name": "أبو عبد الله النباجي"
+      },
+      {
+        "name": "أَبا عبيد البسري",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب ذَا النُّون الْمصْرِيّ وَأَبا عبد الله النباجي وَأَبا عبيد البسري",
+        "person_id": 425,
+        "canonical_name": "أبو عبيد البسري"
+      },
+      {
+        "name": "سريا السَّقطِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب أَيْضا",
+        "full_text": "وَصَحب أَيْضا سريا السَّقطِي وَبشر بن الْحَارِث",
+        "person_id": 78,
+        "canonical_name": "السّري السّقطي"
+      },
+      {
+        "name": "بشر بن الْحَارِث",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب أَيْضا",
+        "full_text": "وَصَحب أَيْضا سريا السَّقطِي وَبشر بن الْحَارِث",
+        "person_id": 587,
+        "canonical_name": "بشر بن الحارث"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "ابْن الْكَاتِب",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "سَمِعت ابْن الْكَاتِب يَقُول سَمِعت ابا سعيد الخراز يَقُول",
+      "person_id": 6,
+      "canonical_name": "ابن الكاتب"
+    },
+    {
+      "name": "أَبُو صَالح",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "قَالَ حَدثنِي أَبُو صَالح قَالَ قَالَ أَبُو سعيد الخراز",
+      "person_id": 389,
+      "canonical_name": "أبو صالح"
+    },
+    {
+      "name": "أَبَا مُحَمَّد الْجريرِي",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "سَمِعت أَبَا مُحَمَّد الْجريرِي يَقُول سَمِعت أَبَا سعيد الخراز يَقُول",
+      "person_id": 488,
+      "canonical_name": "أبو محمّد الجريري"
+    },
+    {
+      "name": "أَبَا سعيد السكرِي",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "سَمِعت أَبَا سعيد السكرِي يَقُول سَمِعت أَبَا سعيد الخراز يَقُول",
+      "person_id": 378,
+      "canonical_name": "أبو سعيد السكري"
+    },
+    {
+      "name": "مُحَمَّد بن عَليّ الكتاني",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "سَمِعت مُحَمَّد بن عَليّ الكتاني يَقُول سَمِعت أَبَا سعيد الخراز يَقُول",
+      "person_id": 1022,
+      "canonical_name": "محمّد بن عليّ الكتاني"
+    },
+    {
+      "name": "أَبَا الْعَبَّاس الصياد بِمصْر",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "سَمِعت أَبَا الْعَبَّاس الصياد بِمصْر يَقُول سَمِعت أَبَا سعيد الخراز يَقُول",
+      "person_id": 234,
+      "canonical_name": "أبو العبّاس الصياد بمصر"
+    },
+    {
+      "name": "أَبَا الْعَبَّاس الطَّحَّان",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "سَمِعت أَبَا الْعَبَّاس الطَّحَّان يَقُول قَالَ أَبُو سعيد الخراز",
+      "person_id": 235,
+      "canonical_name": "أبو العبّاس الطّحّان"
+    }
+  ]
+}

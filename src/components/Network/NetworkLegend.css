@@ -1,0 +1,259 @@
+.network-legend {
+  position: absolute;
+  background: rgba(255, 255, 255, 0.95);
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  z-index: 100;
+  min-width: 180px;
+  max-width: 250px;
+  transition: all 0.3s ease;
+}
+
+/* Position variants */
+.network-legend.top-right {
+  top: 70px;
+  right: 10px;
+}
+
+.network-legend.top-left {
+  top: 70px;
+  left: 10px;
+}
+
+.network-legend.bottom-right {
+  bottom: 10px;
+  right: 10px;
+}
+
+.network-legend.bottom-left {
+  bottom: 10px;
+  left: 10px;
+}
+
+/* Collapsed state */
+.network-legend.collapsed {
+  min-width: auto;
+}
+
+/* Header */
+.legend-header {
+  padding: 8px 12px;
+  border-bottom: 1px solid #e0e0e0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  user-select: none;
+  font-size: 13px;
+  font-weight: 600;
+  color: #333;
+}
+
+.legend-header:hover {
+  background: #f8f9fa;
+}
+
+.network-legend.collapsed .legend-header {
+  border-bottom: none;
+}
+
+/* Content */
+.legend-content {
+  padding: 10px;
+}
+
+/* Sections */
+.legend-section {
+  margin-bottom: 15px;
+}
+
+.legend-section:last-child {
+  margin-bottom: 0;
+}
+
+.legend-title {
+  font-size: 11px;
+  font-weight: 600;
+  color: #666;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 8px;
+}
+
+/* Items */
+.legend-items {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  color: #333;
+}
+
+/* Node styles */
+.legend-node {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  border: 2px solid;
+  flex-shrink: 0;
+}
+
+.legend-node.sulami {
+  background-color: #51cf66;
+  border-color: #40c057;
+}
+
+.legend-node.ansari {
+  background-color: #ff8787;
+  border-color: #fa5252;
+}
+
+.legend-node.hilya {
+  background-color: #69db7c;
+  border-color: #51cf66;
+}
+
+.legend-node.multiple {
+  background: linear-gradient(90deg, #51cf66 33%, #ff8787 33%, #ff8787 66%, #69db7c 66%);
+  border-color: #666;
+}
+
+/* Edge styles */
+.legend-edge {
+  width: 30px;
+  height: 2px;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.legend-edge.teacher {
+  background-color: #4c6ef5;
+}
+
+.legend-edge.teacher::after {
+  content: '';
+  position: absolute;
+  right: -4px;
+  top: -3px;
+  width: 0;
+  height: 0;
+  border-left: 6px solid #4c6ef5;
+  border-top: 4px solid transparent;
+  border-bottom: 4px solid transparent;
+}
+
+.legend-edge.companion {
+  background-color: #15aabf;
+}
+
+.legend-edge.isnad {
+  background-image: repeating-linear-gradient(
+    90deg,
+    #fab005,
+    #fab005 4px,
+    transparent 4px,
+    transparent 8px
+  );
+}
+
+.legend-edge.associate {
+  background-image: repeating-linear-gradient(
+    90deg,
+    #ae3ec9,
+    #ae3ec9 2px,
+    transparent 2px,
+    transparent 4px
+  );
+}
+
+/* Size demonstration */
+.size-demo {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.size-node {
+  border-radius: 50%;
+  background-color: #666;
+  border: 2px solid #444;
+}
+
+.size-node.small {
+  width: 10px;
+  height: 10px;
+}
+
+.size-node.medium {
+  width: 14px;
+  height: 14px;
+}
+
+.size-node.large {
+  width: 18px;
+  height: 18px;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+  .network-legend {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    top: auto;
+    left: auto;
+    max-width: 200px;
+  }
+
+  .network-legend.top-right,
+  .network-legend.top-left,
+  .network-legend.bottom-left {
+    bottom: 10px;
+    right: 10px;
+    top: auto;
+    left: auto;
+  }
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  .network-legend {
+    background: rgba(26, 26, 26, 0.95);
+    border-color: #333;
+  }
+
+  .legend-header {
+    color: #f0f0f0;
+    border-color: #333;
+  }
+
+  .legend-header:hover {
+    background: #2a2a2a;
+  }
+
+  .legend-title {
+    color: #999;
+  }
+
+  .legend-item {
+    color: #f0f0f0;
+  }
+
+  .legend-node.multiple {
+    border-color: #999;
+  }
+}
+
+/* Print styles */
+@media print {
+  .network-legend {
+    display: none;
+  }
+}

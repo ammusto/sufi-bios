@@ -1,0 +1,438 @@
+{
+  "bio_id": "431",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "311",
+    "full_text": "مَاتَ سنة إِحْدَى عشرَة وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "mentioned",
+      "full_text": "سَمِعت أَبَا الْحسن بن مقسم يذكر ذَلِك بِبَغْدَاد"
+    },
+    {
+      "place": "بغداد",
+      "context": "mentioned",
+      "full_text": "سَمِعت أَبَا مُحَمَّد الرَّاسِبِي بِبَغْدَاد يَقُول"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبَا بكر مُحَمَّد بن دَاوُد الدقي",
+          "person_id": 304,
+          "canonical_name": "أبو بكر الدقي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "كَذَلِك سَمِعت عبد الله بن عَليّ الطوسي يَقُول سَمِعت أَبَا بكر مُحَمَّد بن دَاوُد الدقي يذكر ذَلِك",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن أَحْمد الْبَغْدَادِيّ",
+          "person_id": 759,
+          "canonical_name": "عبد الله بن أحمد البغداديّ"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن السيرواني",
+          "person_id": 208,
+          "canonical_name": "أبو الحسين السيرواني"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت عبد الله بن أَحْمد الْبَغْدَادِيّ يَقُول سَمِعت أَبَا الْحُسَيْن السيرواني يَقُول اسْم الْجريرِي الْحسن بن مُحَمَّد وَيُقَال إِن اسْمه عبد الله بن يحيى وَلَا يَصح هَذَا",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن بن مقسم",
+          "person_id": 198,
+          "canonical_name": "أبو الحسن بن مقسم"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سَمِعت أَبَا الْحسن بن مقسم يذكر ذَلِك بِبَغْدَاد وَأسْندَ الحَدِيث",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن مُحَمَّد الْقزْوِينِي الصُّوفِي",
+          "person_id": 867,
+          "canonical_name": "عليّ بن محمّد القزويني الصّوفي"
+        },
+        {
+          "name": "أَحْمد بن نصر بن عَليّ الْقزْوِينِي",
+          "person_id": 576,
+          "canonical_name": "أحمد بن نصر بن عليّ القزويني"
+        },
+        {
+          "name": "أَبُو مُحَمَّد الْجريرِي الصُّوفِي",
+          "person_id": 488,
+          "canonical_name": "أبو محمّد الجريري"
+        },
+        {
+          "name": "أَحْمد بن مُحَمَّد بن شَاكر",
+          "person_id": 564,
+          "canonical_name": "أحمد بن محمّد بن شاكر"
+        },
+        {
+          "name": "نصر بن عَليّ",
+          "person_id": 1086,
+          "canonical_name": "نصر بن عليّ"
+        },
+        {
+          "name": "عبد الْأَعْلَى",
+          "person_id": 732,
+          "canonical_name": "عبد الأعلى"
+        },
+        {
+          "name": "عبيد الله بن عمر",
+          "person_id": 811,
+          "canonical_name": "عبيد الله بن عمر"
+        },
+        {
+          "name": "نَافِع",
+          "person_id": 1081,
+          "canonical_name": "نافع"
+        },
+        {
+          "name": "ابْن عمر",
+          "person_id": 20,
+          "canonical_name": "ابن عمر"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا عَليّ بن مُحَمَّد الْقزْوِينِي الصُّوفِي قَالَ حَدثنَا أَحْمد بن نصر بن عَليّ الْقزْوِينِي قَالَ أَخْبرنِي أَبُو مُحَمَّد الْجريرِي الصُّوفِي حَدثنَا أَحْمد بن مُحَمَّد بن\nشَاكر حَدثنَا نصر بن عَليّ حَدثنَا عبد الْأَعْلَى قَالَ حَدثنَا عبيد الله بن عمر عَن نَافِع عَن ابْن عمر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن مُحَمَّد بن شَاكر",
+          "person_id": 564,
+          "canonical_name": "أحمد بن محمّد بن شاكر"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قَالَ أَحْمد بن مُحَمَّد بن شَاكر كَانَ مَعنا فِي الْمَسْجِد إِبْرَاهِيم بن أورمة الإصبهاني فَقَالَ لنصر بن عَليّ يَا أَبَا عَمْرو لَا يحدث بِهِ فَإِنَّهُ لَيْسَ لَهُ أصل فَلَا أَدْرِي أحديث أم لَا",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر عبد الله بن عَليّ السراج",
+          "person_id": 504,
+          "canonical_name": "أبو نصر عبد الله بن عليّ السراج"
+        },
+        {
+          "name": "أَبُو الطّيب العكي",
+          "person_id": 225,
+          "canonical_name": "أبو الطّيب العكي"
+        },
+        {
+          "name": "أبي مُحَمَّد الْجريرِي",
+          "person_id": 488,
+          "canonical_name": "أبو محمّد الجريري"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا نصر عبد الله بن عَليّ السراج قَالَ أَخْبرنِي أَبُو الطّيب العكي عَن أبي مُحَمَّد الْجريرِي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا مُحَمَّد الرَّاسِبِي",
+          "person_id": 489,
+          "canonical_name": "أبو محمّد الرّاسبي"
+        },
+        {
+          "name": "أَبَا مُحَمَّد الْجريرِي",
+          "person_id": 488,
+          "canonical_name": "أبو محمّد الجريري"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا مُحَمَّد الرَّاسِبِي بِبَغْدَاد يَقُول سَمِعت أَبَا مُحَمَّد الْجريرِي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "أَبَا مُحَمَّد الْجريرِي",
+          "person_id": 488,
+          "canonical_name": "أبو محمّد الجريري"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت أَبَا مُحَمَّد الْجريرِي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعيد الثغري",
+          "person_id": 851,
+          "canonical_name": "عليّ بن سعيد الثغري"
+        },
+        {
+          "name": "أَحْمد بن عَطاء",
+          "person_id": 549,
+          "canonical_name": "أحمد بن عطاء"
+        },
+        {
+          "name": "ابا صَالح",
+          "person_id": 389,
+          "canonical_name": "أبو صالح"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عَليّ بن سعيد الثغري يَقُول سَمِعت أَحْمد بن عَطاء يَقُول سَمِعت\nابا صَالح يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعيد الثغري",
+          "person_id": 851,
+          "canonical_name": "عليّ بن سعيد الثغري"
+        },
+        {
+          "name": "أَحْمد بن عَطاء",
+          "person_id": 549,
+          "canonical_name": "أحمد بن عطاء"
+        },
+        {
+          "name": "ابا صَالح",
+          "person_id": 389,
+          "canonical_name": "أبو صالح"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "أَبَا مُحَمَّد الْجريرِي",
+          "person_id": 488,
+          "canonical_name": "أبو محمّد الجريري"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول سَمِعت أَبَا مُحَمَّد الْجريرِي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن",
+          "person_id": 206,
+          "canonical_name": "أبو الحسين"
+        },
+        {
+          "name": "أَبَا مُحَمَّد",
+          "person_id": 488,
+          "canonical_name": "أبو محمّد الجريري"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت أَبَا الْحُسَيْن يَقُول سَمِعت أَبَا مُحَمَّد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن",
+          "person_id": 206,
+          "canonical_name": "أبو الحسين"
+        },
+        {
+          "name": "أَبَا مُحَمَّد",
+          "person_id": 488,
+          "canonical_name": "أبو محمّد الجريري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن",
+          "person_id": 206,
+          "canonical_name": "أبو الحسين"
+        },
+        {
+          "name": "أَبَا مُحَمَّد",
+          "person_id": 488,
+          "canonical_name": "أبو محمّد الجريري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن",
+          "person_id": 206,
+          "canonical_name": "أبو الحسين"
+        },
+        {
+          "name": "أَبَا مُحَمَّد",
+          "person_id": 488,
+          "canonical_name": "أبو محمّد الجريري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن",
+          "person_id": 206,
+          "canonical_name": "أبو الحسين"
+        },
+        {
+          "name": "أَبَا مُحَمَّد",
+          "person_id": 488,
+          "canonical_name": "أبو محمّد الجريري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن",
+          "person_id": 206,
+          "canonical_name": "أبو الحسين"
+        },
+        {
+          "name": "أَبَا مُحَمَّد",
+          "person_id": 488,
+          "canonical_name": "أبو محمّد الجريري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله الطَّبَرِيّ",
+          "person_id": 339,
+          "canonical_name": "أبو بكر محمّد بن عبد الله الطّبريّ"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله الطَّبَرِيّ يَقُول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "الْجُنَيْد",
+        "relationship_type": "peer",
+        "relationship_phrase": "من كبار أَصْحَاب",
+        "full_text": "وَكَانَ من كبار أَصْحَاب الْجُنَيْد",
+        "person_id": 36,
+        "canonical_name": "الجنيد"
+      },
+      {
+        "name": "سهل بن عبد الله التسترِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب",
+        "full_text": "وَصَحب أَيْضا سهل بن عبد الله التسترِي",
+        "person_id": 706,
+        "canonical_name": "سهل بن عبد الله التستري"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَحْمد بن نصر بن عَليّ الْقزْوِينِي",
+      "relationship_type": "narrator",
+      "full_text": "قَالَ حَدثنَا أَحْمد بن نصر بن عَليّ الْقزْوِينِي قَالَ أَخْبرنِي أَبُو مُحَمَّد الْجريرِي",
+      "person_id": 576,
+      "canonical_name": "أحمد بن نصر بن عليّ القزويني"
+    },
+    {
+      "name": "أَبُو الطّيب العكي",
+      "relationship_type": "narrator",
+      "full_text": "قَالَ أَخْبرنِي أَبُو الطّيب العكي عَن أبي مُحَمَّد الْجريرِي",
+      "person_id": 225,
+      "canonical_name": "أبو الطّيب العكي"
+    },
+    {
+      "name": "ابا صَالح",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت\nابا صَالح يَقُول قيل لأبي مُحَمَّد الْجريرِي",
+      "person_id": 389,
+      "canonical_name": "أبو صالح"
+    },
+    {
+      "name": "أَبَا مُحَمَّد الرَّاسِبِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا مُحَمَّد الرَّاسِبِي بِبَغْدَاد يَقُول سَمِعت أَبَا مُحَمَّد الْجريرِي يَقُول",
+      "person_id": 489,
+      "canonical_name": "أبو محمّد الرّاسبي"
+    },
+    {
+      "name": "أَبَا بكر الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت أَبَا مُحَمَّد الْجريرِي",
+      "person_id": 305,
+      "canonical_name": "أبو بكر الرّازيّ"
+    },
+    {
+      "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول سَمِعت أَبَا مُحَمَّد الْجريرِي يَقُول",
+      "person_id": 209,
+      "canonical_name": "أبو الحسين الفارسي"
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "questioner",
+      "full_text": "قَالَ رجل لأبي مُحَمَّد الْجريرِي",
+      "person_id": 658,
+      "canonical_name": "رجل"
+    }
+  ]
+}

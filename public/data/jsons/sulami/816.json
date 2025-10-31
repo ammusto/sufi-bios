@@ -1,0 +1,323 @@
+{
+  "bio_id": "816",
+  "source": "sulami",
+  "death_date": null,
+  "geographical_locations": [
+    {
+      "place": "مرو",
+      "context": "lived",
+      "full_text": "من أهل مرو"
+    },
+    {
+      "place": "دندانقان",
+      "context": "born",
+      "full_text": "وَأَصله مِنْهَا من قَرْيَة يُقَال لَهَا دندانقان"
+    },
+    {
+      "place": "أبيورد",
+      "context": "lived",
+      "full_text": "وَيُقَال إِنَّه من أهل أبيورد"
+    },
+    {
+      "place": "بوشنج",
+      "context": "lived",
+      "full_text": "وَيُقَال إِنَّه من أهل بوشنج"
+    },
+    {
+      "place": "الْبَصْرَةِ",
+      "context": "lived",
+      "full_text": "أَقَامَ بِالْبَصْرَةِ"
+    },
+    {
+      "place": "بغداد",
+      "context": "visited",
+      "full_text": "بِبَغْدَاد فِي رحبة أَبِيه"
+    },
+    {
+      "place": "الْمَدِينَة",
+      "context": "mentioned",
+      "full_text": "من الْمَدِينَة"
+    },
+    {
+      "place": "مَكَّة",
+      "context": "mentioned",
+      "full_text": "مَكَّة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس أَحْمد بن سعيد المعداني",
+          "person_id": 239,
+          "canonical_name": "أبو العبّاس أحمد بن سعيد المعداني"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "كَذَلِك سَمِعت أَبَا الْعَبَّاس أَحْمد بن سعيد المعداني يذكر ذَلِك",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو الْفضل الشَّافِعِي الأخباري",
+          "person_id": 264,
+          "canonical_name": "أبو الفضل الشّافعي الأخباري"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "كَذَلِك ذكره لي أَبُو الْفضل الشَّافِعِي الأخباري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن الْعَبَّاس العصمي",
+          "person_id": 945,
+          "canonical_name": "محمّد بن العبّاس العصمي"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "كَذَلِك ذكره لي مُحَمَّد بن الْعَبَّاس العصمي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جدي إِسْمَاعِيل بن نجيد السّلمِيّ",
+          "person_id": 476,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد"
+        },
+        {
+          "name": "أَبُو عبد الله مُحَمَّد ابْن إِبْرَاهِيم بن سعيد الْعَبْدي",
+          "person_id": 420,
+          "canonical_name": "أبو عبد الله محمّد ابن إبراهيم بن سعيد العبدي"
+        },
+        {
+          "name": "سليم بن مَنْصُور بن عمار",
+          "person_id": 699,
+          "canonical_name": "سليم بن منصور بن عمار"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        },
+        {
+          "name": "الْمُنْكَدر بن مُحَمَّد بن الْمُنْكَدر",
+          "person_id": 126,
+          "canonical_name": "المنكدر بن محمّد بن المنكدر"
+        },
+        {
+          "name": "أَبِيه",
+          "person_id": 526,
+          "canonical_name": "أبيه"
+        },
+        {
+          "name": "جَابر ﵁",
+          "person_id": 614,
+          "canonical_name": "جابر"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا جدي إِسْمَاعِيل بن نجيد السّلمِيّ قَالَ حَدثنَا أَبُو عبد الله مُحَمَّد ابْن إِبْرَاهِيم بن سعيد الْعَبْدي حَدثنَا سليم بن مَنْصُور بن عمار بِبَغْدَاد فِي رحبة أَبِيه حَدثنَا أبي عَن الْمُنْكَدر بن مُحَمَّد بن الْمُنْكَدر عَن أَبِيه عَن جَابر ﵁",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عمار",
+          "person_id": 1076,
+          "canonical_name": "منصور بن عمار"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قَالَ مَنْصُور بن عمار",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور",
+          "person_id": 1076,
+          "canonical_name": "منصور بن عمار"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ مَنْصُور",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور",
+          "person_id": 1076,
+          "canonical_name": "منصور بن عمار"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ مَنْصُور",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور",
+          "person_id": 1076,
+          "canonical_name": "منصور بن عمار"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ مَنْصُور",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور",
+          "person_id": 1076,
+          "canonical_name": "منصور بن عمار"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ مَنْصُور",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور",
+          "person_id": 1076,
+          "canonical_name": "منصور بن عمار"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ مَنْصُور",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور",
+          "person_id": 1076,
+          "canonical_name": "منصور بن عمار"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ مَنْصُور",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور",
+          "person_id": 1076,
+          "canonical_name": "منصور بن عمار"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ مَنْصُور",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور",
+          "person_id": 1076,
+          "canonical_name": "منصور بن عمار"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ مَنْصُور",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور",
+          "person_id": 1076,
+          "canonical_name": "منصور بن عمار"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ مَنْصُور",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عمار",
+          "person_id": 1076,
+          "canonical_name": "منصور بن عمار"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ مَنْصُور بن عمار",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور",
+          "person_id": 1076,
+          "canonical_name": "منصور بن عمار"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ مَنْصُور",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "سليم بن مَنْصُور بن عمار",
+      "relationship_type": "narrator",
+      "context": "direct",
+      "full_text": "حَدثنَا سليم بن مَنْصُور بن عمار بِبَغْدَاد فِي رحبة أَبِيه",
+      "person_id": 699,
+      "canonical_name": "سليم بن منصور بن عمار"
+    },
+    {
+      "name": "أَبَا الْعَبَّاس أَحْمد بن سعيد المعداني",
+      "relationship_type": "narrator",
+      "full_text": "كَذَلِك سَمِعت أَبَا الْعَبَّاس أَحْمد بن سعيد المعداني يذكر ذَلِك",
+      "person_id": 239,
+      "canonical_name": "أبو العبّاس أحمد بن سعيد المعداني"
+    },
+    {
+      "name": "أَبُو الْفضل الشَّافِعِي الأخباري",
+      "relationship_type": "narrator",
+      "full_text": "كَذَلِك ذكره لي أَبُو الْفضل الشَّافِعِي الأخباري",
+      "person_id": 264,
+      "canonical_name": "أبو الفضل الشّافعي الأخباري"
+    },
+    {
+      "name": "مُحَمَّد بن الْعَبَّاس العصمي",
+      "relationship_type": "narrator",
+      "full_text": "كَذَلِك ذكره لي مُحَمَّد بن الْعَبَّاس العصمي",
+      "person_id": 945,
+      "canonical_name": "محمّد بن العبّاس العصمي"
+    },
+    {
+      "name": "رجل عصى بعد تَوْبَته",
+      "relationship_type": "interlocutor",
+      "context": "addressee",
+      "full_text": "وَقَالَ مَنْصُور لرجل عصى بعد تَوْبَته",
+      "person_id": 659,
+      "canonical_name": "رجل عصى بعد توبته"
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "interlocutor",
+      "context": "addressee",
+      "full_text": "وَقَالَ مَنْصُور لرجل اترك نهمة الدُّنْيَا",
+      "person_id": 658,
+      "canonical_name": "رجل"
+    }
+  ]
+}

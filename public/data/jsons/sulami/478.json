@@ -1,0 +1,473 @@
+{
+  "bio_id": "478",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "359",
+    "full_text": "مَاتَ سنة تسع وَخمسين وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "نيسابور",
+      "context": "lived",
+      "full_text": "من جلة مَشَايِخ نيسابور"
+    },
+    {
+      "place": "نيسابور",
+      "context": "visited",
+      "full_text": "صحب بنيسابور أَبَا عُثْمَان ومحفوظا"
+    },
+    {
+      "place": "سمرقند",
+      "context": "visited",
+      "full_text": "وبسمرقند مُحَمَّد بن الْفضل"
+    },
+    {
+      "place": "بلخ",
+      "context": "visited",
+      "full_text": "وببلخ مُحَمَّد بن حَامِد"
+    },
+    {
+      "place": "جوزجان",
+      "context": "visited",
+      "full_text": "وبجوزجان أَبَا عَليّ"
+    },
+    {
+      "place": "الري",
+      "context": "visited",
+      "full_text": "وبالري يُوسُف بن الْحُسَيْن"
+    },
+    {
+      "place": "بغداد",
+      "context": "visited",
+      "full_text": "وببغداد الْجُنَيْد بن مُحَمَّد ورويما وسمنون وَأَبا الْعَبَّاس بن عَطاء وَأَبا مُحَمَّد الْجريرِي"
+    },
+    {
+      "place": "الشام",
+      "context": "visited",
+      "full_text": "وبالشام طَاهِرا الْمَقْدِسِي وَأَبا عبد الله ابْن الْجلاء وَأَبا عَمْرو والدمشقي"
+    },
+    {
+      "place": "مصر",
+      "context": "visited",
+      "full_text": "وبمصر أَبَا بكر الْمصْرِيّ والزقاق وَأَبا عَليّ الرُّوذَبَارِي"
+    },
+    {
+      "place": "دمشق",
+      "context": "visited",
+      "full_text": "دخلت بِدِمَشْق على أبي عبد الله بن الْجلاء"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن بنْدَار",
+          "person_id": 845,
+          "canonical_name": "عليّ بن بندار"
+        },
+        {
+          "name": "دَاوُد بن سُلَيْمَان بن خُزَيْمَة",
+          "person_id": 655,
+          "canonical_name": "داود بن سليمان بن خزيمة"
+        },
+        {
+          "name": "عبد الله بن عبد الرَّحْمَن السَّمرقَنْدِي",
+          "person_id": 768,
+          "canonical_name": "عبد الله بن عبد الرّحمن السّمرقندي"
+        },
+        {
+          "name": "يحيى بن حسان",
+          "person_id": 1107,
+          "canonical_name": "يحيى بن حسان"
+        },
+        {
+          "name": "سُلَيْمَان بن بِلَال",
+          "person_id": 700,
+          "canonical_name": "سليمان بن بلال"
+        },
+        {
+          "name": "هِشَام بن عُرْوَة",
+          "person_id": 1094,
+          "canonical_name": "هشام بن عروة"
+        },
+        {
+          "name": "عَائِشَة",
+          "person_id": 727,
+          "canonical_name": "عائشة"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا عَليّ بن بنْدَار قَالَ حَدثنَا دَاوُد بن سُلَيْمَان بن خُزَيْمَة قَالَ حَدثنَا عبد الله بن عبد الرَّحْمَن السَّمرقَنْدِي قَالَ حَدثنَا يحيى بن حسان قَالَ حَدثنَا\nسُلَيْمَان بن بِلَال عَن هِشَام بن عُرْوَة عَن عَائِشَة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن بنْدَار",
+          "person_id": 845,
+          "canonical_name": "عليّ بن بندار"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سَمِعت عَليّ بن بنْدَار يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر الطوسي",
+          "person_id": 505,
+          "canonical_name": "أبو نصر عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "عَليّ بن بنْدَار",
+          "person_id": 845,
+          "canonical_name": "عليّ بن بندار"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا نصر الطوسي قَالَ سَأَلت عَليّ بن بنْدَار",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر الطوسي",
+          "person_id": 505,
+          "canonical_name": "أبو نصر عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "عَليّ بن بنْدَار",
+          "person_id": 845,
+          "canonical_name": "عليّ بن بندار"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ عَليّ بن بنْدَار",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابْنه أَبَا الْقَاسِم",
+          "person_id": 30,
+          "canonical_name": "ابنه أبو القاسم"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سَمِعت ابْنه أَبَا الْقَاسِم يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابْنه أَبَا الْقَاسِم",
+          "person_id": 30,
+          "canonical_name": "ابنه أبو القاسم"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابْنه أَبَا الْقَاسِم",
+          "person_id": 30,
+          "canonical_name": "ابنه أبو القاسم"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَكَانَ يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابْنه أَبَا الْقَاسِم",
+          "person_id": 30,
+          "canonical_name": "ابنه أبو القاسم"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَرَأى مرّة فِي يَدي كتابا فَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر الطوسي",
+          "person_id": 505,
+          "canonical_name": "أبو نصر عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "عَليّ بن بنْدَار",
+          "person_id": 845,
+          "canonical_name": "عليّ بن بندار"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا نصر الطوسي يَقُول سَمِعت عَليّ بن بنْدَار يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن بنْدَار",
+          "person_id": 845,
+          "canonical_name": "عليّ بن بندار"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سَمِعت عَليّ بن بنْدَار يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن بنْدَار",
+          "person_id": 845,
+          "canonical_name": "عليّ بن بندار"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت عَليّ بن بنْدَار يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابْنه أَبَا الْقَاسِم",
+          "person_id": 30,
+          "canonical_name": "ابنه أبو القاسم"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت ابْنه أَبَا الْقَاسِم يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابْنه أَبَا الْقَاسِم",
+          "person_id": 30,
+          "canonical_name": "ابنه أبو القاسم"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ لِبَعض أَصْحَابه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابْنه أَبَا الْقَاسِم",
+          "person_id": 30,
+          "canonical_name": "ابنه أبو القاسم"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أَبَا عُثْمَان",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب بنيسابور أَبَا عُثْمَان ومحفوظا",
+        "person_id": 427,
+        "canonical_name": "أبو عثمان"
+      },
+      {
+        "name": "محفوظا",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب بنيسابور أَبَا عُثْمَان ومحفوظا",
+        "person_id": 924,
+        "canonical_name": "محفوظ"
+      },
+      {
+        "name": "مُحَمَّد بن الْفضل",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وبسمرقند مُحَمَّد بن الْفضل",
+        "person_id": 947,
+        "canonical_name": "محمّد بن الفضل"
+      },
+      {
+        "name": "مُحَمَّد بن حَامِد",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وببلخ مُحَمَّد بن حَامِد",
+        "person_id": 984,
+        "canonical_name": "محمّد بن حامد"
+      },
+      {
+        "name": "أَبَا عَليّ",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وبجوزجان أَبَا عَليّ",
+        "person_id": 448,
+        "canonical_name": "أبو عليّ الرّوذباري"
+      },
+      {
+        "name": "يُوسُف بن الْحُسَيْن",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وبالري يُوسُف بن الْحُسَيْن",
+        "person_id": 1119,
+        "canonical_name": "يوسف بن الحسين"
+      },
+      {
+        "name": "الْجُنَيْد بن مُحَمَّد",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وببغداد الْجُنَيْد بن مُحَمَّد ورويما وسمنون وَأَبا الْعَبَّاس بن عَطاء وَأَبا مُحَمَّد الْجريرِي",
+        "person_id": 36,
+        "canonical_name": "الجنيد"
+      },
+      {
+        "name": "رويما",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وببغداد الْجُنَيْد بن مُحَمَّد ورويما وسمنون وَأَبا الْعَبَّاس بن عَطاء وَأَبا مُحَمَّد الْجريرِي",
+        "person_id": 672,
+        "canonical_name": "رويم بن أحمد"
+      },
+      {
+        "name": "سمنون",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وببغداد الْجُنَيْد بن مُحَمَّد ورويما وسمنون وَأَبا الْعَبَّاس بن عَطاء وَأَبا مُحَمَّد الْجريرِي",
+        "person_id": 703,
+        "canonical_name": "سمنون"
+      },
+      {
+        "name": "أَبا الْعَبَّاس بن عَطاء",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وببغداد الْجُنَيْد بن مُحَمَّد ورويما وسمنون وَأَبا الْعَبَّاس بن عَطاء وَأَبا مُحَمَّد الْجريرِي",
+        "person_id": 18,
+        "canonical_name": "ابن عطاء الآدمي"
+      },
+      {
+        "name": "أَبا مُحَمَّد الْجريرِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وببغداد الْجُنَيْد بن مُحَمَّد ورويما وسمنون وَأَبا الْعَبَّاس بن عَطاء وَأَبا مُحَمَّد الْجريرِي",
+        "person_id": 488,
+        "canonical_name": "أبو محمّد الجريري"
+      },
+      {
+        "name": "طَاهِرا الْمَقْدِسِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وبالشام طَاهِرا الْمَقْدِسِي وَأَبا عبد الله ابْن الْجلاء وَأَبا عَمْرو والدمشقي",
+        "person_id": 722,
+        "canonical_name": "طاهر المقدسي"
+      },
+      {
+        "name": "أَبا عبد الله ابْن الْجلاء",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وبالشام طَاهِرا الْمَقْدِسِي وَأَبا عبد الله ابْن الْجلاء وَأَبا عَمْرو والدمشقي",
+        "person_id": 399,
+        "canonical_name": "أبو عبد الله ابن الجلاء"
+      },
+      {
+        "name": "أَبا عَمْرو والدمشقي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وبالشام طَاهِرا الْمَقْدِسِي وَأَبا عبد الله ابْن الْجلاء وَأَبا عَمْرو والدمشقي",
+        "person_id": 483,
+        "canonical_name": "أبو عمرو والدمشقي"
+      },
+      {
+        "name": "أَبَا بكر الْمصْرِيّ",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وبمصر أَبَا بكر الْمصْرِيّ والزقاق وَأَبا عَليّ الرُّوذَبَارِي",
+        "person_id": 316,
+        "canonical_name": "أبو بكر المصريّ"
+      },
+      {
+        "name": "الزقاق",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وبمصر أَبَا بكر الْمصْرِيّ والزقاق وَأَبا عَليّ الرُّوذَبَارِي",
+        "person_id": 76,
+        "canonical_name": "الزقاق"
+      },
+      {
+        "name": "أَبا عَليّ الرُّوذَبَارِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وبمصر أَبَا بكر الْمصْرِيّ والزقاق وَأَبا عَليّ الرُّوذَبَارِي",
+        "person_id": 448,
+        "canonical_name": "أبو عليّ الرّوذباري"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "عَائِشَة",
+      "relationship_type": "narrator",
+      "full_text": "عَن عَائِشَة",
+      "person_id": 727,
+      "canonical_name": "عائشة"
+    },
+    {
+      "name": "أَبَا نصر الطوسي",
+      "relationship_type": "questioner",
+      "context": "سَأَلت",
+      "full_text": "سَمِعت أَبَا نصر الطوسي قَالَ سَأَلت عَليّ بن بنْدَار",
+      "person_id": 505,
+      "canonical_name": "أبو نصر عبد الله بن عليّ الطوسي"
+    },
+    {
+      "name": "ابْنه أَبَا الْقَاسِم",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت ابْنه أَبَا الْقَاسِم يَقُول",
+      "person_id": 30,
+      "canonical_name": "ابنه أبو القاسم"
+    },
+    {
+      "name": "أبي عبد الله بن الْجلاء",
+      "relationship_type": "interlocutor",
+      "context": "dialogue",
+      "full_text": "دخلت بِدِمَشْق على أبي عبد الله بن الْجلاء",
+      "person_id": 416,
+      "canonical_name": "أبو عبد الله بن الجلاء"
+    },
+    {
+      "name": "ابْن جوصاء",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "visited",
+      "full_text": "ذهبت إِلَى ابْن جوصاء وكتبت عَنهُ الحَدِيث",
+      "person_id": 13,
+      "canonical_name": "ابن جوصاء"
+    },
+    {
+      "name": "أَبَا عبد الله مُحَمَّد بن خَفِيف",
+      "relationship_type": "interlocutor",
+      "context": "dialogue",
+      "full_text": "كنت يَوْمًا أماشي أَبَا عبد الله مُحَمَّد بن خَفِيف فَقَالَ لي",
+      "person_id": 15,
+      "canonical_name": "ابن خفيف"
+    },
+    {
+      "name": "لِبَعض أَصْحَابه",
+      "relationship_type": "interlocutor",
+      "full_text": "قَالَ وَقَالَ لِبَعض أَصْحَابه إِلَى أَيْن",
+      "person_id": 920,
+      "canonical_name": "لبعض أصحابه"
+    }
+  ]
+}

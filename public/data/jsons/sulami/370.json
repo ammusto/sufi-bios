@@ -1,0 +1,414 @@
+{
+  "bio_id": "370",
+  "source": "sulami",
+  "death_date": null,
+  "geographical_locations": [
+    {
+      "place": "الرقة",
+      "context": "lived",
+      "full_text": "من كبار مَشَايِخ الرقة وفتيانهم"
+    },
+    {
+      "place": "الرقة",
+      "context": "mentioned",
+      "full_text": "بالرقة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "نصر بن مُحَمَّد بن أَحْمد بن يَعْقُوب الْعَطَّار",
+          "person_id": 1087,
+          "canonical_name": "نصر بن محمّد بن أحمد بن يعقوب العطّار"
+        },
+        {
+          "name": "إِبْرَاهِيم بن المولد",
+          "person_id": 149,
+          "canonical_name": "إبراهيم بن المولد"
+        },
+        {
+          "name": "مُحَمَّد بن يُوسُف",
+          "person_id": 1050,
+          "canonical_name": "محمّد بن يوسف"
+        },
+        {
+          "name": "سلمَان بن الْعَبَّاس بن الْوَلِيد الْحِمصِي",
+          "person_id": 696,
+          "canonical_name": "سلمان بن العبّاس بن الوليد الحمصي"
+        },
+        {
+          "name": "عبد الرَّحْمَن بن أَيُّوب بن سعيد السكونِي",
+          "person_id": 739,
+          "canonical_name": "عبد الرّحمن بن أيّوب بن سعيد السكوني"
+        },
+        {
+          "name": "العطاف بن خَالِد",
+          "person_id": 103,
+          "canonical_name": "العطاف بن خالد"
+        },
+        {
+          "name": "نَافِع",
+          "person_id": 1081,
+          "canonical_name": "نافع"
+        },
+        {
+          "name": "ابْن عمر",
+          "person_id": 20,
+          "canonical_name": "ابن عمر"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا نصر بن مُحَمَّد بن أَحْمد بن يَعْقُوب الْعَطَّار بطوس قَالَ حَدثنَا إِبْرَاهِيم بن المولد الصُّوفِي بالرقة قَالَ حَدثنَا مُحَمَّد بن يُوسُف بِدِمَشْق قَالَ حَدثنَا سلمَان بن الْعَبَّاس بن الْوَلِيد الْحِمصِي قَالَ حَدثنَا عبد الرَّحْمَن بن أَيُّوب بن سعيد السكونِي قَالَ حَدثنَا العطاف بن خَالِد عَن نَافِع عَن ابْن\nعمر ﵁",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعد",
+          "person_id": 849,
+          "canonical_name": "عليّ بن سعد"
+        },
+        {
+          "name": "أَحْمد بن عَطاء",
+          "person_id": 549,
+          "canonical_name": "أحمد بن عطاء"
+        },
+        {
+          "name": "إِبْرَاهِيم ابْن المولد",
+          "person_id": 136,
+          "canonical_name": "إبراهيم ابن المولد"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عَليّ بن سعد يَقُول سَمِعت أَحْمد بن عَطاء يَقُول سَمِعت إِبْرَاهِيم ابْن المولد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعد",
+          "person_id": 849,
+          "canonical_name": "عليّ بن سعد"
+        },
+        {
+          "name": "أَحْمد بن عَطاء",
+          "person_id": 549,
+          "canonical_name": "أحمد بن عطاء"
+        },
+        {
+          "name": "إِبْرَاهِيم ابْن المولد",
+          "person_id": 136,
+          "canonical_name": "إبراهيم ابن المولد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت إِبْرَاهِيم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعد",
+          "person_id": 849,
+          "canonical_name": "عليّ بن سعد"
+        },
+        {
+          "name": "أَحْمد بن عَطاء",
+          "person_id": 549,
+          "canonical_name": "أحمد بن عطاء"
+        },
+        {
+          "name": "إِبْرَاهِيم ابْن المولد",
+          "person_id": 136,
+          "canonical_name": "إبراهيم ابن المولد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت إِبْرَاهِيم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعد",
+          "person_id": 849,
+          "canonical_name": "عليّ بن سعد"
+        },
+        {
+          "name": "أَحْمد بن عَطاء",
+          "person_id": 549,
+          "canonical_name": "أحمد بن عطاء"
+        },
+        {
+          "name": "إِبْرَاهِيم ابْن المولد",
+          "person_id": 136,
+          "canonical_name": "إبراهيم ابن المولد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت إِبْرَاهِيم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعد",
+          "person_id": 849,
+          "canonical_name": "عليّ بن سعد"
+        },
+        {
+          "name": "أَحْمد بن عَطاء",
+          "person_id": 549,
+          "canonical_name": "أحمد بن عطاء"
+        },
+        {
+          "name": "إِبْرَاهِيم ابْن المولد",
+          "person_id": 136,
+          "canonical_name": "إبراهيم ابن المولد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت إِبْرَاهِيم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعد",
+          "person_id": 849,
+          "canonical_name": "عليّ بن سعد"
+        },
+        {
+          "name": "أَحْمد بن عَطاء",
+          "person_id": 549,
+          "canonical_name": "أحمد بن عطاء"
+        },
+        {
+          "name": "إِبْرَاهِيم ابْن المولد",
+          "person_id": 136,
+          "canonical_name": "إبراهيم ابن المولد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت إِبْرَاهِيم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعد",
+          "person_id": 849,
+          "canonical_name": "عليّ بن سعد"
+        },
+        {
+          "name": "أَحْمد بن عَطاء",
+          "person_id": 549,
+          "canonical_name": "أحمد بن عطاء"
+        },
+        {
+          "name": "إِبْرَاهِيم ابْن المولد",
+          "person_id": 136,
+          "canonical_name": "إبراهيم ابن المولد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت إِبْرَاهِيم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 1072,
+          "canonical_name": "منصور بن عبد الله"
+        },
+        {
+          "name": "إِبْرَاهِيم بن المولد",
+          "person_id": 149,
+          "canonical_name": "إبراهيم بن المولد"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أَنْشدني مَنْصُور بن عبد الله قَالَ أَنْشدني إِبْرَاهِيم بن المولد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعد",
+          "person_id": 849,
+          "canonical_name": "عليّ بن سعد"
+        },
+        {
+          "name": "أَحْمد بن عَطاء",
+          "person_id": 549,
+          "canonical_name": "أحمد بن عطاء"
+        },
+        {
+          "name": "إِبْرَاهِيم ابْن المولد",
+          "person_id": 136,
+          "canonical_name": "إبراهيم ابن المولد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت إِبْرَاهِيم بن المولد يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعد",
+          "person_id": 849,
+          "canonical_name": "عليّ بن سعد"
+        },
+        {
+          "name": "أَحْمد بن عَطاء",
+          "person_id": 549,
+          "canonical_name": "أحمد بن عطاء"
+        },
+        {
+          "name": "إِبْرَاهِيم ابْن المولد",
+          "person_id": 136,
+          "canonical_name": "إبراهيم ابن المولد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت إِبْرَاهِيم بن المولد يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعد",
+          "person_id": 849,
+          "canonical_name": "عليّ بن سعد"
+        },
+        {
+          "name": "أَحْمد بن عَطاء",
+          "person_id": 549,
+          "canonical_name": "أحمد بن عطاء"
+        },
+        {
+          "name": "إِبْرَاهِيم ابْن المولد",
+          "person_id": 136,
+          "canonical_name": "إبراهيم ابن المولد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت إِبْرَاهِيم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعد",
+          "person_id": 849,
+          "canonical_name": "عليّ بن سعد"
+        },
+        {
+          "name": "أَحْمد بن عَطاء",
+          "person_id": 549,
+          "canonical_name": "أحمد بن عطاء"
+        },
+        {
+          "name": "إِبْرَاهِيم ابْن المولد",
+          "person_id": 136,
+          "canonical_name": "إبراهيم ابن المولد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت إِبْرَاهِيم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعد",
+          "person_id": 849,
+          "canonical_name": "عليّ بن سعد"
+        },
+        {
+          "name": "أَحْمد بن عَطاء",
+          "person_id": 549,
+          "canonical_name": "أحمد بن عطاء"
+        },
+        {
+          "name": "إِبْرَاهِيم ابْن المولد",
+          "person_id": 136,
+          "canonical_name": "إبراهيم ابن المولد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت إِبْرَاهِيم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعد",
+          "person_id": 849,
+          "canonical_name": "عليّ بن سعد"
+        },
+        {
+          "name": "أَحْمد بن عَطاء",
+          "person_id": 549,
+          "canonical_name": "أحمد بن عطاء"
+        },
+        {
+          "name": "إِبْرَاهِيم ابْن المولد",
+          "person_id": 136,
+          "canonical_name": "إبراهيم ابن المولد"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت إِبْرَاهِيم يَقُول",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أَبَا عبد الله بن الْجلاء الدِّمَشْقِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "من كبار مَشَايِخ الرقة وفتيانهم صحب أَبَا عبد الله بن الْجلاء الدِّمَشْقِي وَإِبْرَاهِيم بن دَاوُد الْقصار الرقي",
+        "person_id": 416,
+        "canonical_name": "أبو عبد الله بن الجلاء"
+      },
+      {
+        "name": "إِبْرَاهِيم بن دَاوُد الْقصار الرقي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "من كبار مَشَايِخ الرقة وفتيانهم صحب أَبَا عبد الله بن الْجلاء الدِّمَشْقِي وَإِبْرَاهِيم بن دَاوُد الْقصار الرقي",
+        "person_id": 143,
+        "canonical_name": "إبراهيم القصار"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "نصر بن مُحَمَّد بن أَحْمد بن يَعْقُوب الْعَطَّار",
+      "relationship_type": "narrator",
+      "full_text": "أخبرنَا نصر بن مُحَمَّد بن أَحْمد بن يَعْقُوب الْعَطَّار بطوس قَالَ حَدثنَا إِبْرَاهِيم بن المولد الصُّوفِي بالرقة",
+      "person_id": 1087,
+      "canonical_name": "نصر بن محمّد بن أحمد بن يعقوب العطّار"
+    },
+    {
+      "name": "أَحْمد بن عَطاء",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَحْمد بن عَطاء يَقُول سَمِعت إِبْرَاهِيم ابْن المولد يَقُول",
+      "person_id": 549,
+      "canonical_name": "أحمد بن عطاء"
+    },
+    {
+      "name": "مَنْصُور بن عبد الله",
+      "relationship_type": "narrator",
+      "full_text": "أَنْشدني مَنْصُور بن عبد الله قَالَ أَنْشدني إِبْرَاهِيم بن المولد",
+      "person_id": 1072,
+      "canonical_name": "منصور بن عبد الله"
+    }
+  ]
+}

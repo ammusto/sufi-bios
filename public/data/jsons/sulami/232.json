@@ -1,0 +1,548 @@
+{
+  "bio_id": "232",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "309",
+    "full_text": "قتل بِبَغْدَاد بِبَاب الطاق يَوْم الثُّلَاثَاء لست بَقينَ من ذِي الْقعدَة سنة\nتسع وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "بَيْضَاء فَارس",
+      "context": "born",
+      "full_text": "وَهُوَ من أهل بَيْضَاء فَارس"
+    },
+    {
+      "place": "واسط",
+      "context": "lived",
+      "full_text": "وَنَشَأ بواسط"
+    },
+    {
+      "place": "العراق",
+      "context": "lived",
+      "full_text": "وَنَشَأ بواسط وَالْعراق"
+    },
+    {
+      "place": "بغداد",
+      "context": "died",
+      "full_text": "قتل بِبَغْدَاد بِبَاب الطاق يَوْم الثُّلَاثَاء لست بَقينَ من ذِي الْقعدَة سنة\nتسع وثلاثمائة"
+    },
+    {
+      "place": "بَاب الطاق",
+      "context": "mentioned",
+      "full_text": "قتل بِبَغْدَاد بِبَاب الطاق"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن خَفِيف",
+          "person_id": 15,
+          "canonical_name": "ابن خفيف"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "حَتَّى قَالَ مُحَمَّد بن خَفِيف",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن بكر",
+          "person_id": 799,
+          "canonical_name": "عبد الواحد بن بكر"
+        },
+        {
+          "name": "أَحْمد بن فَارس",
+          "person_id": 555,
+          "canonical_name": "أحمد بن فارس"
+        },
+        {
+          "name": "الْحُسَيْن بن مَنْصُور",
+          "person_id": 68,
+          "canonical_name": "الحسين بن منصور"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الْوَاحِد بن بكر يَقُول سَمِعت أَحْمد بن فَارس يَقُول سَمِعت الْحُسَيْن بن مَنْصُور يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن بكر",
+          "person_id": 799,
+          "canonical_name": "عبد الواحد بن بكر"
+        },
+        {
+          "name": "أَحْمد بن فَارس",
+          "person_id": 555,
+          "canonical_name": "أحمد بن فارس"
+        },
+        {
+          "name": "الْحُسَيْن بن مَنْصُور",
+          "person_id": 68,
+          "canonical_name": "الحسين بن منصور"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَكَانَ الحلاج يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن بكر",
+          "person_id": 799,
+          "canonical_name": "عبد الواحد بن بكر"
+        },
+        {
+          "name": "أَحْمد بن فَارس",
+          "person_id": 555,
+          "canonical_name": "أحمد بن فارس"
+        },
+        {
+          "name": "الْحُسَيْن بن مَنْصُور",
+          "person_id": 68,
+          "canonical_name": "الحسين بن منصور"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت الحلاج يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد",
+          "person_id": 799,
+          "canonical_name": "عبد الواحد بن بكر"
+        },
+        {
+          "name": "أَحْمد بن فَارس",
+          "person_id": 555,
+          "canonical_name": "أحمد بن فارس"
+        },
+        {
+          "name": "الْحُسَيْن ابْن مَنْصُور",
+          "person_id": 56,
+          "canonical_name": "الحسين ابن منصور"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت عبد الْوَاحِد يَقُول سَمِعت أَحْمد بن فَارس يَقُول سَمِعت الْحُسَيْن ابْن مَنْصُور يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد",
+          "person_id": 799,
+          "canonical_name": "عبد الواحد بن بكر"
+        },
+        {
+          "name": "أَحْمد بن فَارس",
+          "person_id": 555,
+          "canonical_name": "أحمد بن فارس"
+        },
+        {
+          "name": "الْحُسَيْن ابْن مَنْصُور",
+          "person_id": 56,
+          "canonical_name": "الحسين ابن منصور"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت الْحُسَيْن يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد",
+          "person_id": 799,
+          "canonical_name": "عبد الواحد بن بكر"
+        },
+        {
+          "name": "أَحْمد بن فَارس",
+          "person_id": 555,
+          "canonical_name": "أحمد بن فارس"
+        },
+        {
+          "name": "الْحُسَيْن ابْن مَنْصُور",
+          "person_id": 56,
+          "canonical_name": "الحسين ابن منصور"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت الْحُسَيْن يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد",
+          "person_id": 799,
+          "canonical_name": "عبد الواحد بن بكر"
+        },
+        {
+          "name": "أَحْمد بن فَارس",
+          "person_id": 555,
+          "canonical_name": "أحمد بن فارس"
+        },
+        {
+          "name": "الْحُسَيْن ابْن مَنْصُور",
+          "person_id": 56,
+          "canonical_name": "الحسين ابن منصور"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ الْحُسَيْن",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 209,
+          "canonical_name": "أبو الحسين الفارسي"
+        },
+        {
+          "name": "ابْن فاتك",
+          "person_id": 22,
+          "canonical_name": "ابن فاتك"
+        },
+        {
+          "name": "الحسين بن مَنْصُور",
+          "person_id": 68,
+          "canonical_name": "الحسين بن منصور"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي قَالَ أَنْشدني ابْن فاتك للحسين بن مَنْصُور",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد السياري",
+          "person_id": 796,
+          "canonical_name": "عبد الواحد السياري"
+        },
+        {
+          "name": "فَارِسًا الْبَغْدَادِيّ",
+          "person_id": 907,
+          "canonical_name": "فارس البغداديّ"
+        },
+        {
+          "name": "الْحُسَيْن بن مَنْصُور",
+          "person_id": 68,
+          "canonical_name": "الحسين بن منصور"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الْوَاحِد السياري يَقُول سَمِعت فَارِسًا الْبَغْدَادِيّ يَقُول سَأَلت الْحُسَيْن بن مَنْصُور",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد السياري",
+          "person_id": 796,
+          "canonical_name": "عبد الواحد السياري"
+        },
+        {
+          "name": "فَارِسًا الْبَغْدَادِيّ",
+          "person_id": 907,
+          "canonical_name": "فارس البغداديّ"
+        },
+        {
+          "name": "الْحُسَيْن بن مَنْصُور",
+          "person_id": 68,
+          "canonical_name": "الحسين بن منصور"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ سَمِعت الْحُسَيْن بن مَنْصُور يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن مُحَمَّد بن غَالب",
+          "person_id": 1039,
+          "canonical_name": "محمّد بن محمّد بن غالب"
+        },
+        {
+          "name": "الْحُسَيْن بن مَنْصُور",
+          "person_id": 68,
+          "canonical_name": "الحسين بن منصور"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّد بن مُحَمَّد بن غَالب يَقُول قَالَ الْحُسَيْن بن مَنْصُور",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن مُحَمَّد بن غَالب",
+          "person_id": 1039,
+          "canonical_name": "محمّد بن محمّد بن غالب"
+        },
+        {
+          "name": "الْحُسَيْن بن مَنْصُور",
+          "person_id": 68,
+          "canonical_name": "الحسين بن منصور"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ سَمِعت الْحُسَيْن بن مَنْصُور يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن مُحَمَّد بن غَالب",
+          "person_id": 1039,
+          "canonical_name": "محمّد بن محمّد بن غالب"
+        },
+        {
+          "name": "الْحُسَيْن بن مَنْصُور",
+          "person_id": 68,
+          "canonical_name": "الحسين بن منصور"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ سَمِعت الْحُسَيْن بن مَنْصُور يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن مُحَمَّد بن غَالب",
+          "person_id": 1039,
+          "canonical_name": "محمّد بن محمّد بن غالب"
+        },
+        {
+          "name": "الْحُسَيْن بن مَنْصُور",
+          "person_id": 68,
+          "canonical_name": "الحسين بن منصور"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ سَمِعت الْحُسَيْن بن مَنْصُور يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن مُحَمَّد بن غَالب",
+          "person_id": 1039,
+          "canonical_name": "محمّد بن محمّد بن غالب"
+        },
+        {
+          "name": "الْحُسَيْن بن مَنْصُور",
+          "person_id": 68,
+          "canonical_name": "الحسين بن منصور"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ سَمِعت الْحُسَيْن بن مَنْصُور يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن مُحَمَّد بن غَالب",
+          "person_id": 1039,
+          "canonical_name": "محمّد بن محمّد بن غالب"
+        },
+        {
+          "name": "الْحُسَيْن بن مَنْصُور",
+          "person_id": 68,
+          "canonical_name": "الحسين بن منصور"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ أنشدت للحسين بن مَنْصُور",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن مُحَمَّد بن غَالب",
+          "person_id": 1039,
+          "canonical_name": "محمّد بن محمّد بن غالب"
+        },
+        {
+          "name": "الْحُسَيْن بن مَنْصُور",
+          "person_id": 68,
+          "canonical_name": "الحسين بن منصور"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ سَمِعت الْحُسَيْن بن مَنْصُور يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن مُحَمَّد بن غَالب",
+          "person_id": 1039,
+          "canonical_name": "محمّد بن محمّد بن غالب"
+        },
+        {
+          "name": "الْحُسَيْن بن مَنْصُور",
+          "person_id": 68,
+          "canonical_name": "الحسين بن منصور"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ سَمِعت الْحُسَيْن بن مَنْصُور يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن مُحَمَّد بن غَالب",
+          "person_id": 1039,
+          "canonical_name": "محمّد بن محمّد بن غالب"
+        },
+        {
+          "name": "الْحُسَيْن بن مَنْصُور",
+          "person_id": 68,
+          "canonical_name": "الحسين بن منصور"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ سَمِعت الْحُسَيْن بن مَنْصُور يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن مُحَمَّد بن غَالب",
+          "person_id": 1039,
+          "canonical_name": "محمّد بن محمّد بن غالب"
+        },
+        {
+          "name": "الْحُسَيْن بن مَنْصُور",
+          "person_id": 68,
+          "canonical_name": "الحسين بن منصور"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ سَمِعت الْحُسَيْن بن مَنْصُور يَقُول",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "الْجُنَيْد",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب",
+        "full_text": "وَصَحب الْجُنَيْد وَأَبا الْحُسَيْن النوري وعمرا الْمَكِّيّ والفوطي وَغَيرهم",
+        "person_id": 36,
+        "canonical_name": "الجنيد"
+      },
+      {
+        "name": "أَبا الْحُسَيْن النوري",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب",
+        "full_text": "وَصَحب الْجُنَيْد وَأَبا الْحُسَيْن النوري وعمرا الْمَكِّيّ والفوطي وَغَيرهم",
+        "person_id": 211,
+        "canonical_name": "أبو الحسين النوري"
+      },
+      {
+        "name": "عمرا الْمَكِّيّ",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب",
+        "full_text": "وَصَحب الْجُنَيْد وَأَبا الْحُسَيْن النوري وعمرا الْمَكِّيّ والفوطي وَغَيرهم",
+        "person_id": 891,
+        "canonical_name": "عمرا المكّيّ"
+      },
+      {
+        "name": "الفوطي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب",
+        "full_text": "وَصَحب الْجُنَيْد وَأَبا الْحُسَيْن النوري وعمرا الْمَكِّيّ والفوطي وَغَيرهم",
+        "person_id": 111,
+        "canonical_name": "الفوطي"
+      },
+      {
+        "name": "أَبُو الْعَبَّاس بن عَطاء",
+        "relationship_type": "peer",
+        "relationship_phrase": "قَبله من جُمْلَتهمْ",
+        "full_text": "وَقَبله من جُمْلَتهمْ أَبُو الْعَبَّاس بن عَطاء وَأَبُو عبد الله مُحَمَّد بن خَفِيف وَأَبُو الْقَاسِم إِبْرَاهِيم بن مُحَمَّد النصراباذي وأثنوا عَلَيْهِ وصححوا لَهُ حَاله وحكوا عَنهُ كَلَامه وجعلوه أحد الْمُحَقِّقين",
+        "person_id": 18,
+        "canonical_name": "ابن عطاء الآدمي"
+      },
+      {
+        "name": "أَبُو عبد الله مُحَمَّد بن خَفِيف",
+        "relationship_type": "peer",
+        "relationship_phrase": "قَبله من جُمْلَتهمْ",
+        "full_text": "وَقَبله من جُمْلَتهمْ أَبُو الْعَبَّاس بن عَطاء وَأَبُو عبد الله مُحَمَّد بن خَفِيف وَأَبُو الْقَاسِم إِبْرَاهِيم بن مُحَمَّد النصراباذي وأثنوا عَلَيْهِ وصححوا لَهُ حَاله وحكوا عَنهُ كَلَامه وجعلوه أحد الْمُحَقِّقين",
+        "person_id": 15,
+        "canonical_name": "ابن خفيف"
+      },
+      {
+        "name": "أَبُو الْقَاسِم إِبْرَاهِيم بن مُحَمَّد النصراباذي",
+        "relationship_type": "peer",
+        "relationship_phrase": "قَبله من جُمْلَتهمْ",
+        "full_text": "وَقَبله من جُمْلَتهمْ أَبُو الْعَبَّاس بن عَطاء وَأَبُو عبد الله مُحَمَّد بن خَفِيف وَأَبُو الْقَاسِم إِبْرَاهِيم بن مُحَمَّد النصراباذي وأثنوا عَلَيْهِ وصححوا لَهُ حَاله وحكوا عَنهُ كَلَامه وجعلوه أحد الْمُحَقِّقين",
+        "person_id": 283,
+        "canonical_name": "أبو القاسم إبراهيم بن محمّد النصرأبوذي"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَحْمد بن فَارس",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَحْمد بن فَارس يَقُول",
+      "person_id": 555,
+      "canonical_name": "أحمد بن فارس"
+    },
+    {
+      "name": "ابْن فاتك",
+      "relationship_type": "narrator",
+      "full_text": "أَنْشدني ابْن فاتك للحسين بن مَنْصُور",
+      "person_id": 22,
+      "canonical_name": "ابن فاتك"
+    },
+    {
+      "name": "فَارِسًا الْبَغْدَادِيّ",
+      "relationship_type": "questioner",
+      "context": "سَأَلت الْحُسَيْن بن مَنْصُور",
+      "full_text": "سَمِعت فَارِسًا الْبَغْدَادِيّ يَقُول سَأَلت الْحُسَيْن بن مَنْصُور",
+      "person_id": 907,
+      "canonical_name": "فارس البغداديّ"
+    },
+    {
+      "name": "مُحَمَّد بن مُحَمَّد بن غَالب",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مُحَمَّد بن مُحَمَّد بن غَالب يَقُول",
+      "person_id": 1039,
+      "canonical_name": "محمّد بن محمّد بن غالب"
+    },
+    {
+      "name": "مُحَمَّد بن خَفِيف",
+      "relationship_type": "narrator",
+      "full_text": "قَالَ مُحَمَّد بن خَفِيف",
+      "person_id": 15,
+      "canonical_name": "ابن خفيف"
+    },
+    {
+      "name": "رجل من أَصْحَاب الجبائي",
+      "relationship_type": "interlocutor",
+      "context": "لرجل من أَصْحَاب الجبائي",
+      "full_text": "وَبِه قَالَ سَمِعت الْحُسَيْن بن مَنْصُور يَقُول لرجل من أَصْحَاب الجبائي",
+      "person_id": 663,
+      "canonical_name": "رجل من أصحاب الجبائي"
+    }
+  ]
+}

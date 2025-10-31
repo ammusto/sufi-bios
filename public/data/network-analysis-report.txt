@@ -1,0 +1,43 @@
+SUFI NETWORKS - NETWORK ANALYSIS REPORT
+============================================================
+
+NETWORK STRUCTURE
+----------------------------------------
+Nodes: 2,903
+Edges: 3,647
+Density: 0.0004
+Average degree: 2.51
+Clustering coefficient: 0.0260
+
+KEY FIGURES
+----------------------------------------
+Top 10 by total degree:
+  1. إبراهيم بن أدهم (degree: 0)
+  2. أبو الحسن الصائغ الدينوري (degree: 0)
+  3. أبو العباس أحمد بن عطاء الآدمي (degree: 0)
+  4. أبو القاسم الجنيد بن محمد (degree: 0)
+  5. أبو جعفر الشوماني (degree: 0)
+  6. أبو جعفر الصيدلاني (degree: 0)
+  7. شيخ الاسلام (degree: 0)
+  8. أبو حفص الحداد النيسابوري (degree: 0)
+  9. أبو عثمان سعيد بن إسماعيل الحيري (degree: 0)
+  10. محفوظ (degree: 0)
+
+Top 10 by betweenness centrality:
+  1. محمد بن الحسين (betweenness: 0.0769)
+  2. أبي (betweenness: 0.0750)
+  3. أحمد بن أبي الحواري (betweenness: 0.0438)
+  4. جعفر بن محمد (betweenness: 0.0407)
+  5. عبيد الله بن عثمان بن يحيى (betweenness: 0.0334)
+  6. أبو العباس بن مسروق (betweenness: 0.0285)
+  7. أبو عمرو عثمان بن محمد العثماني (betweenness: 0.0276)
+  8. أبو القاسم الجنيد بن محمد (betweenness: 0.0273)
+  9. أبوه (betweenness: 0.0268)
+  10. محمد بن إبراهيم (betweenness: 0.0222)
+
+TEMPORAL ANALYSIS
+----------------------------------------
+People with death dates: 1180
+Date range: 42-399 AH
+Generations identified: 12
+

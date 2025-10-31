@@ -1,0 +1,331 @@
+{
+  "bio_id": "564",
+  "source": "sulami",
+  "death_date": null,
+  "geographical_locations": [
+    {
+      "place": "سامرا",
+      "context": "born",
+      "full_text": "كَانَ أَصله من سامرا"
+    },
+    {
+      "place": "بغداد",
+      "context": "lived",
+      "full_text": "وَأقَام بِبَغْدَاد"
+    },
+    {
+      "place": "سامرا",
+      "context": "nisba",
+      "full_text": "السامري"
+    },
+    {
+      "place": "الكوفة",
+      "context": "visited",
+      "full_text": "على بَاب الْكُوفَة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن الْقزْوِينِي",
+          "person_id": 192,
+          "canonical_name": "أبو الحسن القزويني"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن الْمَالِكِي",
+          "person_id": 210,
+          "canonical_name": "أبو الحسين المالكي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحسن الْقزْوِينِي يَقُول سَمِعت أَبَا الْحُسَيْن الْمَالِكِي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بعض أَصْحَابنَا",
+          "person_id": 594,
+          "canonical_name": "بعض أصحابنا"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَأَخْبرنِي بعض أَصْحَابنَا",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "خيرا النساج",
+          "person_id": 650,
+          "canonical_name": "خيرا النساج"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت خيرا النساج يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "خيرا النساج",
+          "person_id": 650,
+          "canonical_name": "خيرا النساج"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ خير النساج",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "خيرا النساج",
+          "person_id": 650,
+          "canonical_name": "خيرا النساج"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ خير",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "خيرا النساج",
+          "person_id": 650,
+          "canonical_name": "خيرا النساج"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ خير",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "خيرا النساج",
+          "person_id": 650,
+          "canonical_name": "خيرا النساج"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ خير",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "خيرا النساج",
+          "person_id": 650,
+          "canonical_name": "خيرا النساج"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ خير",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "خيرا النساج",
+          "person_id": 650,
+          "canonical_name": "خيرا النساج"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ خير",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "خيرا النساج",
+          "person_id": 650,
+          "canonical_name": "خيرا النساج"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ خير",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "خيرا النساج",
+          "person_id": 650,
+          "canonical_name": "خيرا النساج"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ خير",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "خيرا النساج",
+          "person_id": 650,
+          "canonical_name": "خيرا النساج"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ خير",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "خيرا النساج",
+          "person_id": 650,
+          "canonical_name": "خيرا النساج"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ خير",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "السّري السَّقطِي",
+        "relationship_type": "student_of",
+        "relationship_phrase": "سَأَلَ",
+        "full_text": "وَسَأَلَ السّري السَّقطِي عَن مسَائِل",
+        "person_id": 78,
+        "canonical_name": "السّري السّقطي"
+      }
+    ],
+    "students": [
+      {
+        "name": "إِبْرَاهِيم الْخَواص",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "تاب في مجلسه",
+        "full_text": "وَكَانَ إِبْرَاهِيم الْخَواص تَابَ فِي مَجْلِسه",
+        "person_id": 140,
+        "canonical_name": "إبراهيم الخواص"
+      },
+      {
+        "name": "الشبلي",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "تاب في مجلسه",
+        "full_text": "وَكَذَلِكَ الشبلي تَابَ فِي مَجْلِسه",
+        "person_id": 309,
+        "canonical_name": "أبو بكر الشبلي"
+      }
+    ],
+    "companions": [
+      {
+        "name": "أَبَا حَمْزَة الْبَغْدَادِيّ",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَا حَمْزَة الْبَغْدَادِيّ",
+        "person_id": 363,
+        "canonical_name": "أبو حمزة البغداديّ"
+      },
+      {
+        "name": "النوري",
+        "relationship_type": "peer",
+        "relationship_phrase": "من أقران",
+        "full_text": "وَكَانَ من أَقْرَان النوري وطبقته",
+        "person_id": 131,
+        "canonical_name": "النوري"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَبَا الْحُسَيْن الْمَالِكِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْمَالِكِي يَقُول",
+      "person_id": 210,
+      "canonical_name": "أبو الحسين المالكي"
+    },
+    {
+      "name": "بعض أَصْحَابنَا",
+      "relationship_type": "narrator",
+      "full_text": "وَأَخْبرنِي بعض أَصْحَابنَا",
+      "person_id": 594,
+      "canonical_name": "بعض أصحابنا"
+    },
+    {
+      "name": "أَبَا بكر الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول",
+      "person_id": 305,
+      "canonical_name": "أبو بكر الرّازيّ"
+    },
+    {
+      "name": "من حضر موت خير النساج",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "respondent",
+      "full_text": "سَأَلت من حضر موت خير النساج عَن أمره",
+      "person_id": 1069,
+      "canonical_name": "من حضر موت خير النساج"
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "interlocutor",
+      "full_text": "فَأَخذه رجل على بَاب الْكُوفَة",
+      "person_id": 658,
+      "canonical_name": "رجل"
+    }
+  ]
+}

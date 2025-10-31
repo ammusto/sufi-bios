@@ -1,0 +1,347 @@
+{
+  "bio_id": "815",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "~299",
+    "full_text": "ذكر أَبُو زرْعَة أَنه مَاتَ سنة تسع وَتِسْعين وَمِائَتَيْنِ إِن كَانَ حفظه",
+    "certainty": "approximate"
+  },
+  "geographical_locations": [
+    {
+      "place": "دينَوَر",
+      "context": "nisba",
+      "full_text": "الدينَوَرِي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبُو زرْعَة",
+          "person_id": 370,
+          "canonical_name": "أبو زرعة"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "ذكر أَبُو زرْعَة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "ممشاذ",
+          "person_id": 1068,
+          "canonical_name": "ممشاذ الدينوري"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت ابا بكر الرَّازِيّ يَقُول سَمِعت ممشاذ يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "ممشاذ",
+          "person_id": 1068,
+          "canonical_name": "ممشاذ الدينوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ ممشاذ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "ممشاذ",
+          "person_id": 1068,
+          "canonical_name": "ممشاذ الدينوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ ممشاذ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "فَارس الدينَوَرِي",
+          "person_id": 908,
+          "canonical_name": "فارس الدينوري"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت فَارس الدينَوَرِي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "فَارس الدينَوَرِي",
+          "person_id": 908,
+          "canonical_name": "فارس الدينوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ ممشاذ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "فَارس الدينَوَرِي",
+          "person_id": 908,
+          "canonical_name": "فارس الدينوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ ممشاذ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "ممشاذ",
+          "person_id": 1068,
+          "canonical_name": "ممشاذ الدينوري"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت ابا بكر الرَّازِيّ يَقُول سَمِعت ممشاذ يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "ممشاذ",
+          "person_id": 1068,
+          "canonical_name": "ممشاذ الدينوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ ممشاذ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "ممشاذ",
+          "person_id": 1068,
+          "canonical_name": "ممشاذ الدينوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ ممشاذ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "ممشاذ",
+          "person_id": 1068,
+          "canonical_name": "ممشاذ الدينوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ ممشاذ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "ممشاذ",
+          "person_id": 1068,
+          "canonical_name": "ممشاذ الدينوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ ممشاذ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "ممشاذ",
+          "person_id": 1068,
+          "canonical_name": "ممشاذ الدينوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ ممشاذ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "ممشاذ",
+          "person_id": 1068,
+          "canonical_name": "ممشاذ الدينوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ ممشاذ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "ممشاذ",
+          "person_id": 1068,
+          "canonical_name": "ممشاذ الدينوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ ممشاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "ممشاذ",
+          "person_id": 1068,
+          "canonical_name": "ممشاذ الدينوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ سُئِلَ ممشاذ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "ممشاذ",
+          "person_id": 1068,
+          "canonical_name": "ممشاذ الدينوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ ممشاذ",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "يحيى الْجلاء",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب يحيى الْجلاء وَمن فَوْقه من الْمَشَايِخ",
+        "person_id": 1102,
+        "canonical_name": "يحيى الجلاء"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "ابا بكر الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت ابا بكر الرَّازِيّ يَقُول",
+      "person_id": 305,
+      "canonical_name": "أبو بكر الرّازيّ"
+    },
+    {
+      "name": "فَارس الدينَوَرِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت فَارس الدينَوَرِي يَقُول",
+      "person_id": 908,
+      "canonical_name": "فارس الدينوري"
+    },
+    {
+      "name": "أَبُو زرْعَة",
+      "relationship_type": "narrator",
+      "full_text": "ذكر أَبُو زرْعَة",
+      "person_id": 370,
+      "canonical_name": "أبو زرعة"
+    },
+    {
+      "name": "شَيخا",
+      "relationship_type": "interlocutor",
+      "context": "travel_anecdote",
+      "full_text": "رَأَيْت فِي بعض أسفاري شَيخا توسمت فِيهِ الْخَيْر فَقلت يَا سَيِّدي كلمة تزودني بهَا فَقَالَ",
+      "person_id": 714,
+      "canonical_name": "شيخ"
+    }
+  ]
+}

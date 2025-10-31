@@ -1,0 +1,240 @@
+{
+  "bio_id": "313",
+  "source": "sulami",
+  "death_date": null,
+  "geographical_locations": [
+    {
+      "place": "مصر",
+      "context": "lived",
+      "full_text": "وَهُوَ من جلة مَشَايِخ مصر"
+    },
+    {
+      "place": "التيه",
+      "context": "died",
+      "full_text": "مَاتَ فِي التيه"
+    },
+    {
+      "place": "النّيل",
+      "context": "visited",
+      "full_text": "وأَنا على شط النّيل"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان المغربي",
+          "person_id": 433,
+          "canonical_name": "أبو عثمان المغربي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا عُثْمَان المغربي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو عُثْمَان",
+          "person_id": 427,
+          "canonical_name": "أبو عثمان"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَحكى أَبُو عُثْمَان أَيْضا قَالَ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله",
+          "person_id": 337,
+          "canonical_name": "أبو بكر محمّد بن عبد الله"
+        },
+        {
+          "name": "أَبَا بكر الزقاق",
+          "person_id": 307,
+          "canonical_name": "أبو بكر الزقاق"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن بن بنان",
+          "person_id": 213,
+          "canonical_name": "أبو الحسين بن بنان"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله يَقُول سَمِعت أَبَا بكر الزقاق يَقُول سَمِعت أَبَا الْحُسَيْن بن بنان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله",
+          "person_id": 337,
+          "canonical_name": "أبو بكر محمّد بن عبد الله"
+        },
+        {
+          "name": "أَبَا بكر الزقاق",
+          "person_id": 307,
+          "canonical_name": "أبو بكر الزقاق"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن بن بنان",
+          "person_id": 213,
+          "canonical_name": "أبو الحسين بن بنان"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْحُسَيْن",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله",
+          "person_id": 337,
+          "canonical_name": "أبو بكر محمّد بن عبد الله"
+        },
+        {
+          "name": "أَبَا بكر الزقاق",
+          "person_id": 307,
+          "canonical_name": "أبو بكر الزقاق"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن بن بنان",
+          "person_id": 213,
+          "canonical_name": "أبو الحسين بن بنان"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْحُسَيْن",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله",
+          "person_id": 337,
+          "canonical_name": "أبو بكر محمّد بن عبد الله"
+        },
+        {
+          "name": "أَبَا بكر الزقاق",
+          "person_id": 307,
+          "canonical_name": "أبو بكر الزقاق"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن بن بنان",
+          "person_id": 213,
+          "canonical_name": "أبو الحسين بن بنان"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْحُسَيْن",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله",
+          "person_id": 337,
+          "canonical_name": "أبو بكر محمّد بن عبد الله"
+        },
+        {
+          "name": "أَبَا بكر الزقاق",
+          "person_id": 307,
+          "canonical_name": "أبو بكر الزقاق"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن بن بنان",
+          "person_id": 213,
+          "canonical_name": "أبو الحسين بن بنان"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْحُسَيْن",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله",
+          "person_id": 337,
+          "canonical_name": "أبو بكر محمّد بن عبد الله"
+        },
+        {
+          "name": "أَبَا بكر الزقاق",
+          "person_id": 307,
+          "canonical_name": "أبو بكر الزقاق"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن بن بنان",
+          "person_id": 213,
+          "canonical_name": "أبو الحسين بن بنان"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا الْحُسَيْن يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله",
+          "person_id": 337,
+          "canonical_name": "أبو بكر محمّد بن عبد الله"
+        },
+        {
+          "name": "أَبَا بكر الزقاق",
+          "person_id": 307,
+          "canonical_name": "أبو بكر الزقاق"
+        },
+        {
+          "name": "أَبَا الْحُسَيْن بن بنان",
+          "person_id": 213,
+          "canonical_name": "أبو الحسين بن بنان"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا الْحُسَيْن يَقُول",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "أَبَا سعيد الخراز",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَا سعيد الخراز",
+        "person_id": 376,
+        "canonical_name": "أبو سعيد الخراز"
+      },
+      {
+        "name": "أَبَا سعيد الخراز",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ينتمي إلى",
+        "full_text": "وَإِلَيْهِ ينتمي",
+        "person_id": 376,
+        "canonical_name": "أبو سعيد الخراز"
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أَبَا عُثْمَان المغربي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا عُثْمَان المغربي يَقُول",
+      "person_id": 433,
+      "canonical_name": "أبو عثمان المغربي"
+    },
+    {
+      "name": "أَبَا بكر الزقاق",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر الزقاق يَقُول",
+      "person_id": 307,
+      "canonical_name": "أبو بكر الزقاق"
+    }
+  ]
+}

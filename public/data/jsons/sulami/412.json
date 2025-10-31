@@ -1,0 +1,328 @@
+{
+  "bio_id": "412",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "~350",
+    "full_text": "مَاتَ بعد الْخمسين وثلاثمائة",
+    "certainty": "approximate"
+  },
+  "geographical_locations": [
+    {
+      "place": "طوس",
+      "context": "lived",
+      "full_text": "كَانَ من جلة مَشَايِخ طوس"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبَا نَاصِر الطوسي",
+          "person_id": 500,
+          "canonical_name": "أبو ناصر الطوسي"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سَمِعت أَبَا نَاصِر الطوسي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر الطوسي",
+          "person_id": 505,
+          "canonical_name": "أبو نصر عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبَا عبد الله التروغبذي",
+          "person_id": 400,
+          "canonical_name": "أبو عبد الله التروغبذي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا نصر الطوسي يَقُول سَمِعت أَبَا عبد الله التروغبذي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو نصر",
+          "person_id": 505,
+          "canonical_name": "أبو نصر عبد الله بن عليّ الطوسي"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قَالَ أَبُو نصر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر الطوسي",
+          "person_id": 505,
+          "canonical_name": "أبو نصر عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبَا عبد الله التروغبذي",
+          "person_id": 400,
+          "canonical_name": "أبو عبد الله التروغبذي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَقَالَ أَبُو عبد الله التروغبذي",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر الطوسي",
+          "person_id": 505,
+          "canonical_name": "أبو نصر عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبَا عبد الله التروغبذي",
+          "person_id": 400,
+          "canonical_name": "أبو عبد الله التروغبذي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقيل لأبي عبد الله التروغبذي",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر الطوسي",
+          "person_id": 505,
+          "canonical_name": "أبو نصر عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبَا عبد الله التروغبذي",
+          "person_id": 400,
+          "canonical_name": "أبو عبد الله التروغبذي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ التروغبذي",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر الطوسي",
+          "person_id": 505,
+          "canonical_name": "أبو نصر عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبَا عبد الله التروغبذي",
+          "person_id": 400,
+          "canonical_name": "أبو عبد الله التروغبذي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ التروغبذي",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر الطوسي",
+          "person_id": 505,
+          "canonical_name": "أبو نصر عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبَا عبد الله التروغبذي",
+          "person_id": 400,
+          "canonical_name": "أبو عبد الله التروغبذي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عبد الله التروغبذي",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر الطوسي",
+          "person_id": 505,
+          "canonical_name": "أبو نصر عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبَا عبد الله التروغبذي",
+          "person_id": 400,
+          "canonical_name": "أبو عبد الله التروغبذي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عبد الله",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "نصر بن أبي نصر الْعَطَّار",
+          "person_id": 1084,
+          "canonical_name": "نصر بن أبي نصر العطّار"
+        },
+        {
+          "name": "أَبَا عبد الله التروغبذي",
+          "person_id": 400,
+          "canonical_name": "أبو عبد الله التروغبذي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت نصر بن أبي نصر الْعَطَّار يَقُول سَمِعت أَبَا عبد الله التروغبذي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "نصر بن أبي نصر الْعَطَّار",
+          "person_id": 1084,
+          "canonical_name": "نصر بن أبي نصر العطّار"
+        },
+        {
+          "name": "أَبَا عبد الله التروغبذي",
+          "person_id": 400,
+          "canonical_name": "أبو عبد الله التروغبذي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسَأَلته عَن الصُّوفِي والزاهد فَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا الْفضل الْعَطَّار",
+          "person_id": 267,
+          "canonical_name": "أبو الفضل العطّار"
+        },
+        {
+          "name": "أَبَا عبد الله",
+          "person_id": 400,
+          "canonical_name": "أبو عبد الله التروغبذي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت ابا الْفضل الْعَطَّار يَقُول سَمِعت أَبَا عبد الله يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا الْفضل الْعَطَّار",
+          "person_id": 267,
+          "canonical_name": "أبو الفضل العطّار"
+        },
+        {
+          "name": "أَبَا عبد الله",
+          "person_id": 400,
+          "canonical_name": "أبو عبد الله التروغبذي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا الْفضل الْعَطَّار",
+          "person_id": 267,
+          "canonical_name": "أبو الفضل العطّار"
+        },
+        {
+          "name": "أَبَا عبد الله",
+          "person_id": 400,
+          "canonical_name": "أبو عبد الله التروغبذي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا الْفضل الْعَطَّار",
+          "person_id": 267,
+          "canonical_name": "أبو الفضل العطّار"
+        },
+        {
+          "name": "أَبَا عبد الله",
+          "person_id": 400,
+          "canonical_name": "أبو عبد الله التروغبذي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عبد الله التروغبذي",
+          "person_id": 400,
+          "canonical_name": "أبو عبد الله التروغبذي"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قَالَ وَسمعت أَبَا عبد الله التروغبذي يَقُول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أَبَا عُثْمَان الْحِيرِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَا عُثْمَان الْحِيرِي",
+        "person_id": 431,
+        "canonical_name": "أبو عثمان الحيري"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَبَا نَاصِر الطوسي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا نَاصِر الطوسي يَقُول",
+      "person_id": 500,
+      "canonical_name": "أبو ناصر الطوسي"
+    },
+    {
+      "name": "أَبَا نصر الطوسي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا نصر الطوسي يَقُول سَمِعت أَبَا عبد الله التروغبذي يَقُول",
+      "person_id": 505,
+      "canonical_name": "أبو نصر عبد الله بن عليّ الطوسي"
+    },
+    {
+      "name": "أَبُو نصر",
+      "relationship_type": "narrator",
+      "full_text": "قَالَ أَبُو نصر",
+      "person_id": 505,
+      "canonical_name": "أبو نصر عبد الله بن عليّ الطوسي"
+    },
+    {
+      "name": "نصر بن أبي نصر الْعَطَّار",
+      "relationship_type": "questioner",
+      "context": "سَأَلته",
+      "full_text": "قَالَ وَسَأَلته عَن الصُّوفِي والزاهد فَقَالَ",
+      "person_id": 1084,
+      "canonical_name": "نصر بن أبي نصر العطّار"
+    },
+    {
+      "name": "ابا الْفضل الْعَطَّار",
+      "relationship_type": "narrator",
+      "context": "قَالَ لي",
+      "full_text": "وسمعته يَقُول قَالَ لي أَبُو عبد الله إياك والتمييز فِي الْخدمَة فَإِن أَرْبَاب التَّمْيِيز قد مضوا اخدم الْكل ليحصل لَك المُرَاد وَلَا يفوتك الْمَقْصُود",
+      "person_id": 267,
+      "canonical_name": "أبو الفضل العطّار"
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "bio_id": "398",
+  "source": "sulami",
+  "death_date": null,
+  "geographical_locations": [
+    {
+      "place": "خراسان",
+      "context": "nisba",
+      "full_text": "الْخُرَاسَانِي"
+    },
+    {
+      "place": "نيسابور",
+      "context": "born",
+      "full_text": "أَصله من نيسابور"
+    },
+    {
+      "place": "ملقاباذ",
+      "context": "born",
+      "full_text": "من محلّة ملقاباذ"
+    },
+    {
+      "place": "بغداد",
+      "context": "visited",
+      "full_text": "صحب مَشَايِخ بَغْدَاد"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس الْبَغْدَادِيّ",
+          "person_id": 229,
+          "canonical_name": "أبو العبّاس البغداديّ"
+        },
+        {
+          "name": "أَبَا جَعْفَر الفرغاني",
+          "person_id": 353,
+          "canonical_name": "أبو جعفر الفرغاني"
+        },
+        {
+          "name": "أَبُو حَمْزَة الْخُرَاسَانِي",
+          "person_id": 364,
+          "canonical_name": "أبو حمزة الخراساني"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْعَبَّاس الْبَغْدَادِيّ يَقُول سَمِعت أَبَا جَعْفَر الفرغاني يَقُول قَالَ أَبُو حَمْزَة الْخُرَاسَانِي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس الْبَغْدَادِيّ",
+          "person_id": 229,
+          "canonical_name": "أبو العبّاس البغداديّ"
+        },
+        {
+          "name": "أَبَا جَعْفَر الفرغاني",
+          "person_id": 353,
+          "canonical_name": "أبو جعفر الفرغاني"
+        },
+        {
+          "name": "أَبُو حَمْزَة الْخُرَاسَانِي",
+          "person_id": 364,
+          "canonical_name": "أبو حمزة الخراساني"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس الْبَغْدَادِيّ",
+          "person_id": 229,
+          "canonical_name": "أبو العبّاس البغداديّ"
+        },
+        {
+          "name": "أَبَا جَعْفَر الفرغاني",
+          "person_id": 353,
+          "canonical_name": "أبو جعفر الفرغاني"
+        },
+        {
+          "name": "أَبُو حَمْزَة الْخُرَاسَانِي",
+          "person_id": 364,
+          "canonical_name": "أبو حمزة الخراساني"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس الْبَغْدَادِيّ",
+          "person_id": 229,
+          "canonical_name": "أبو العبّاس البغداديّ"
+        },
+        {
+          "name": "أَبَا جَعْفَر الفرغاني",
+          "person_id": 353,
+          "canonical_name": "أبو جعفر الفرغاني"
+        },
+        {
+          "name": "أَبُو حَمْزَة الْخُرَاسَانِي",
+          "person_id": 364,
+          "canonical_name": "أبو حمزة الخراساني"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس الْبَغْدَادِيّ",
+          "person_id": 229,
+          "canonical_name": "أبو العبّاس البغداديّ"
+        },
+        {
+          "name": "أَبَا جَعْفَر الفرغاني",
+          "person_id": 353,
+          "canonical_name": "أبو جعفر الفرغاني"
+        },
+        {
+          "name": "أَبُو حَمْزَة الْخُرَاسَانِي",
+          "person_id": 364,
+          "canonical_name": "أبو حمزة الخراساني"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس الْبَغْدَادِيّ",
+          "person_id": 229,
+          "canonical_name": "أبو العبّاس البغداديّ"
+        },
+        {
+          "name": "أَبَا جَعْفَر الفرغاني",
+          "person_id": 353,
+          "canonical_name": "أبو جعفر الفرغاني"
+        },
+        {
+          "name": "أَبُو حَمْزَة الْخُرَاسَانِي",
+          "person_id": 364,
+          "canonical_name": "أبو حمزة الخراساني"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        },
+        {
+          "name": "أَبَا جَعْفَر الفرغاني",
+          "person_id": 353,
+          "canonical_name": "أبو جعفر الفرغاني"
+        },
+        {
+          "name": "أَبُو حَمْزَة",
+          "person_id": 364,
+          "canonical_name": "أبو حمزة الخراساني"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْعَبَّاس يَقُول سَمِعت أَبَا جَعْفَر الفرغاني يَقُول قَالَ أَبُو حَمْزَة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        },
+        {
+          "name": "أَبَا جَعْفَر الفرغاني",
+          "person_id": 353,
+          "canonical_name": "أبو جعفر الفرغاني"
+        },
+        {
+          "name": "أَبُو حَمْزَة",
+          "person_id": 364,
+          "canonical_name": "أبو حمزة الخراساني"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        },
+        {
+          "name": "أَبَا جَعْفَر الفرغاني",
+          "person_id": 353,
+          "canonical_name": "أبو جعفر الفرغاني"
+        },
+        {
+          "name": "أَبُو حَمْزَة",
+          "person_id": 364,
+          "canonical_name": "أبو حمزة الخراساني"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        },
+        {
+          "name": "أَبَا جَعْفَر الفرغاني",
+          "person_id": 353,
+          "canonical_name": "أبو جعفر الفرغاني"
+        },
+        {
+          "name": "أَبُو حَمْزَة",
+          "person_id": 364,
+          "canonical_name": "أبو حمزة الخراساني"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        },
+        {
+          "name": "أَبَا جَعْفَر الفرغاني",
+          "person_id": 353,
+          "canonical_name": "أبو جعفر الفرغاني"
+        },
+        {
+          "name": "أَبُو حَمْزَة",
+          "person_id": 364,
+          "canonical_name": "أبو حمزة الخراساني"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        },
+        {
+          "name": "أَبَا جَعْفَر الفرغاني",
+          "person_id": 353,
+          "canonical_name": "أبو جعفر الفرغاني"
+        },
+        {
+          "name": "أَبُو حَمْزَة",
+          "person_id": 364,
+          "canonical_name": "أبو حمزة الخراساني"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "الْجُنَيْد",
+        "relationship_type": "peer",
+        "relationship_phrase": "من أَقْرَان",
+        "full_text": "وَهُوَ من أَقْرَان الْجُنَيْد",
+        "person_id": 36,
+        "canonical_name": "الجنيد"
+      },
+      {
+        "name": "أبي تُرَاب النخشبي",
+        "relationship_type": "peer",
+        "relationship_phrase": "سَافر مَعَ",
+        "full_text": "سَافر مَعَ أبي تُرَاب النخشبي وَأبي سعيد الخراز",
+        "person_id": 347,
+        "canonical_name": "أبو تراب النخشبي"
+      },
+      {
+        "name": "أبي سعيد الخراز",
+        "relationship_type": "peer",
+        "relationship_phrase": "سَافر مَعَ",
+        "full_text": "سَافر مَعَ أبي تُرَاب النخشبي وَأبي سعيد الخراز",
+        "person_id": 376,
+        "canonical_name": "أبو سعيد الخراز"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَبَا جَعْفَر الفرغاني",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا جَعْفَر الفرغاني يَقُول",
+      "person_id": 353,
+      "canonical_name": "أبو جعفر الفرغاني"
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "full_text": "وَبِهَذَا الْإِسْنَاد سَمِعت أَبَا حَمْزَة وَقد سَأَلَهُ رجل فَقَالَ أوصني",
+      "person_id": 658,
+      "canonical_name": "رجل"
+    },
+    {
+      "name": "بَعض أَصْحَابه",
+      "relationship_type": "interlocutor",
+      "full_text": "قَالَ أَبُو حَمْزَة لبَعض أَصْحَابه",
+      "person_id": 595,
+      "canonical_name": "بعض أصحابه"
+    },
+    {
+      "name": "ابْن الرُّومِي",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "وَمَا أحسن مَا قَالَ ابْن الرُّومِي",
+      "person_id": 2,
+      "canonical_name": "ابن الرّومي"
+    }
+  ]
+}

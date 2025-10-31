@@ -1,0 +1,206 @@
+{
+  "bio_id": "414",
+  "source": "sulami",
+  "death_date": null,
+  "geographical_locations": [
+    {
+      "place": "سجْز",
+      "context": "nisba",
+      "full_text": "السجْزِي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد الْفراء",
+          "person_id": 964,
+          "canonical_name": "محمّد بن أحمد الفراء"
+        },
+        {
+          "name": "أَبُو عبد الله السجْزِي",
+          "person_id": 407,
+          "canonical_name": "أبو عبد الله السجزي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّد بن أَحْمد الْفراء يَقُول قَالَ أَبُو عبد الله السجْزِي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّדًا",
+          "person_id": 964,
+          "canonical_name": "محمّد بن أحمد الفراء"
+        },
+        {
+          "name": "أَبُو عبد الله",
+          "person_id": 407,
+          "canonical_name": "أبو عبد الله السجزي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت مُحَمَّدًا يَقُول قَالَ أَبُو عبد الله",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جدي",
+          "person_id": 476,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت جدي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جدي",
+          "person_id": 476,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد"
+        },
+        {
+          "name": "أَبَا عبد الله",
+          "person_id": 407,
+          "canonical_name": "أبو عبد الله السجزي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت جدي يَقُول سَمِعت أَبَا عبد الله يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جدي",
+          "person_id": 476,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد"
+        },
+        {
+          "name": "أَبَا عبد الله",
+          "person_id": 407,
+          "canonical_name": "أبو عبد الله السجزي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا عبد الله يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جدي",
+          "person_id": 476,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد"
+        },
+        {
+          "name": "أَبَا عبد الله",
+          "person_id": 407,
+          "canonical_name": "أبو عبد الله السجزي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا عبد الله يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جدي",
+          "person_id": 476,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد"
+        },
+        {
+          "name": "أَبَا عبد الله",
+          "person_id": 407,
+          "canonical_name": "أبو عبد الله السجزي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا عبد الله يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جدي",
+          "person_id": 476,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد"
+        },
+        {
+          "name": "أَبَا عبد الله",
+          "person_id": 407,
+          "canonical_name": "أبو عبد الله السجزي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا عبد الله يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جدي",
+          "person_id": 476,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد"
+        },
+        {
+          "name": "أَبَا عبد الله",
+          "person_id": 407,
+          "canonical_name": "أبو عبد الله السجزي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا عبد الله",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أَبَا حَفْص",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَا حَفْص",
+        "person_id": 360,
+        "canonical_name": "أبو حفص النّيسابوري"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "مُحَمَّد بن أَحْمد الْفراء",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مُحَمَّد بن أَحْمد الْفراء يَقُول",
+      "person_id": 964,
+      "canonical_name": "محمّد بن أحمد الفراء"
+    },
+    {
+      "name": "مُحَمَّدًا",
+      "relationship_type": "narrator",
+      "full_text": "وَسمعت مُحَمَّدًا يَقُول",
+      "person_id": 964,
+      "canonical_name": "محمّد بن أحمد الفراء"
+    },
+    {
+      "name": "جدي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت جدي يَقُول",
+      "person_id": 476,
+      "canonical_name": "أبو عمرو إسماعيل بن نجيد"
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "full_text": "دخل رجل على أبي عبد الله السجْزِي فَقَالَ لَهُ معي دِينَار أُرِيد أَن أدفعه إِلَيْك فَمَا ترى",
+      "person_id": 658,
+      "canonical_name": "رجل"
+    }
+  ]
+}

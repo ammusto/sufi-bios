@@ -1,0 +1,319 @@
+{
+  "bio_id": "360",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "~>340",
+    "full_text": "وَمَات بهَا بعد الْأَرْبَعين وثلاثمائة",
+    "certainty": "approximate"
+  },
+  "geographical_locations": [
+    {
+      "place": "دينور",
+      "context": "nisba",
+      "full_text": "الدينَوَرِي"
+    },
+    {
+      "place": "نيسابور",
+      "context": "visited",
+      "full_text": "ورد نيسابور"
+    },
+    {
+      "place": "نيسابور",
+      "context": "lived",
+      "full_text": "وَأقَام بهَا مُدَّة"
+    },
+    {
+      "place": "سمرقند",
+      "context": "visited",
+      "full_text": "ثمَّ رَحل من نيسابور إِلَى سَمَرْقَنْد"
+    },
+    {
+      "place": "سمرقند",
+      "context": "died",
+      "full_text": "وَمَات بهَا"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 335,
+          "canonical_name": "أبو بكر محمّد بن أحمد بن إبراهيم"
+        },
+        {
+          "name": "أبي الْعَبَّاس الدينَوَرِي",
+          "person_id": 231,
+          "canonical_name": "أبو العبّاس الدينوري"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم يَقُول دخلت على أبي الْعَبَّاس الدينَوَرِي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 335,
+          "canonical_name": "أبو بكر محمّد بن أحمد بن إبراهيم"
+        },
+        {
+          "name": "أبي الْعَبَّاس الدينَوَرِي",
+          "person_id": 231,
+          "canonical_name": "أبو العبّاس الدينوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وسمعته يَقُول قَالَ أَبُو الْعَبَّاس الدينَوَرِي",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 777,
+          "canonical_name": "عبد الله بن عليّ الطوسي"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس الدينَوَرِي",
+          "person_id": 231,
+          "canonical_name": "أبو العبّاس الدينوري"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الله بن عَليّ الطوسي يَقُول قَالَ أَبُو الْعَبَّاس الدينَوَرِي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد الْمعلم",
+          "person_id": 782,
+          "canonical_name": "عبد الله بن محمّد المعلم"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس الدينَوَرِي",
+          "person_id": 231,
+          "canonical_name": "أبو العبّاس الدينوري"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَرَأَيْت بِخَط عبد الله بن مُحَمَّد الْمعلم قَالَ أَبُو الْعَبَّاس الدينَوَرِي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد الْمعلم",
+          "person_id": 782,
+          "canonical_name": "عبد الله بن محمّد المعلم"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس الدينَوَرِي",
+          "person_id": 231,
+          "canonical_name": "أبو العبّاس الدينوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ أَبُو الْعَبَّاس الدينَوَرِي",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد الْمعلم",
+          "person_id": 782,
+          "canonical_name": "عبد الله بن محمّد المعلم"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس الدينَوَرِي",
+          "person_id": 231,
+          "canonical_name": "أبو العبّاس الدينوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ أَبُو الْعَبَّاس الدينَوَرِي",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد الْمعلم",
+          "person_id": 782,
+          "canonical_name": "عبد الله بن محمّد المعلم"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس الدينَوَرِي",
+          "person_id": 231,
+          "canonical_name": "أبو العبّاس الدينوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ أَبُو الْعَبَّاس الدينَوَرِي",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد الْمعلم",
+          "person_id": 782,
+          "canonical_name": "عبد الله بن محمّد المعلم"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس الدينَوَرِي",
+          "person_id": 231,
+          "canonical_name": "أبو العبّاس الدينوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ أَبُو الْعَبَّاس الدينَوَرِي",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي ﵀",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس الدينَوَرِي",
+          "person_id": 231,
+          "canonical_name": "أبو العبّاس الدينوري"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَرَأَيْت بِخَط أبي ﵀ قَالَ أَبُو الْعَبَّاس الدينَوَرِي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي ﵀",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس الدينَوَرِي",
+          "person_id": 231,
+          "canonical_name": "أبو العبّاس الدينوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ أَبُو الْعَبَّاس الدينَوَرِي",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي ﵀",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس الدينَوَرِي",
+          "person_id": 231,
+          "canonical_name": "أبو العبّاس الدينوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ أَبُو الْعَبَّاس",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي ﵀",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس الدينَوَرِي",
+          "person_id": 231,
+          "canonical_name": "أبو العبّاس الدينوري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ أَبُو الْعَبَّاس",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "يُوسُف بن الْحُسَيْن",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب يُوسُف بن الْحُسَيْن",
+        "person_id": 1119,
+        "canonical_name": "يوسف بن الحسين"
+      },
+      {
+        "name": "عبد الله الخراز",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب ... وَعبد الله الخراز",
+        "person_id": 751,
+        "canonical_name": "عبد الله الخراز"
+      },
+      {
+        "name": "أَبا مُحَمَّد الْجريرِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب ... وَأَبا مُحَمَّد الْجريرِي",
+        "person_id": 488,
+        "canonical_name": "أبو محمّد الجريري"
+      },
+      {
+        "name": "أَبا الْعَبَّاس بن عَطاء",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب ... وَأَبا الْعَبَّاس بن عَطاء",
+        "person_id": 18,
+        "canonical_name": "ابن عطاء الآدمي"
+      },
+      {
+        "name": "رويما",
+        "relationship_type": "peer",
+        "relationship_phrase": "لقي",
+        "full_text": "وَلَقي رويما",
+        "person_id": 672,
+        "canonical_name": "رويم بن أحمد"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+      "relationship_type": "narrator",
+      "context": "questioner",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم يَقُول",
+      "person_id": 335,
+      "canonical_name": "أبو بكر محمّد بن أحمد بن إبراهيم"
+    },
+    {
+      "name": "عبد الله بن عَليّ الطوسي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت عبد الله بن عَليّ الطوسي يَقُول",
+      "person_id": 777,
+      "canonical_name": "عبد الله بن عليّ الطوسي"
+    },
+    {
+      "name": "عبد الله بن مُحَمَّد الْمعلم",
+      "relationship_type": "narrator",
+      "full_text": "وَرَأَيْت بِخَط عبد الله بن مُحَمَّد الْمعلم",
+      "person_id": 782,
+      "canonical_name": "عبد الله بن محمّد المعلم"
+    },
+    {
+      "name": "أبي ﵀",
+      "relationship_type": "narrator",
+      "full_text": "وَرَأَيْت بِخَط أبي ﵀",
+      "person_id": 525,
+      "canonical_name": "أبي"
+    }
+  ]
+}

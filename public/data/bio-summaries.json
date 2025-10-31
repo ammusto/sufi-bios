@@ -1,0 +1,5741 @@
+{
+  "112": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "328",
+        "full_text": "سَمِعت أبي ﵀ يَقُول مَاتَ أَبُو عَليّ سنة ثَمَان وَعشْرين وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 7
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "328",
+        "full_text": "سنه ثمان و عشرین برفته و ثلثلمائه.",
+        "certainty": "definite"
+      },
+      "places": [
+        "نشاپور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "123": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "279",
+        "full_text": "مَاتَ سنة تسع وَسبعين وَمِائَتَيْنِ",
+        "certainty": "definite"
+      },
+      "places": [
+        "بَغْدَاد",
+        "بَغْدَاد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 12
+    },
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "بغداد",
+        "بغداد",
+        "مصر",
+        "مصر",
+        "مکه",
+        "مسجد حرام",
+        "عرفات",
+        "مصر",
+        "مصر"
+      ],
+      "has_isnads": true,
+      "relationship_count": 25
+    }
+  },
+  "138": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "دينور",
+        "وادي الْقرى",
+        "دينور",
+        "دينور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    },
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "دینور",
+        "وادی قری",
+        "دینور",
+        "دینور",
+        "وادی قری"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "139": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "البصرة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    },
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "بصره",
+        "بصره"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "156": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "367",
+        "full_text": "وَمَات سنة سبع وَسِتِّينَ وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "نصراباذ",
+        "نيسابور",
+        "نيسابور",
+        "نيسابور",
+        "مَكَّة",
+        "الْحرم",
+        "خُرَاسَان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "373",
+        "full_text": "بنشاپور برفت در سنه ثلث و سبعین و ثلثمائه.",
+        "certainty": "definite"
+      },
+      "places": [
+        "مغرب",
+        "قیروان",
+        "مکه",
+        "نیشاپور",
+        "نیشاپور",
+        "نیشاپور",
+        "نیشاپور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 10
+    }
+  },
+  "176": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "366",
+        "full_text": "مَاتَ سنة سِتّ وَسِتِّينَ وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "السّلمِيّ",
+        "مرو"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "365",
+        "full_text": "او برفته در سنه ست او خمس و ستین و ثلثمائه فی ربیع الاول",
+        "certainty": "definite"
+      },
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 8
+    }
+  },
+  "182": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "367",
+        "full_text": "وَمَات بهَا سنة سبع وَسِتِّينَ وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "بَغْدَاد",
+        "الشَّام",
+        "بَغْدَاد",
+        "بَغْدَاد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "367",
+        "full_text": "در سنهٔ سبع و ستین و ثلثمائه.",
+        "certainty": "definite"
+      },
+      "places": [
+        "بغداد",
+        "شام",
+        "بغداد",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "228": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "297",
+        "full_text": "توفّي سنة سبع وَتِسْعين وَمِائَتَيْنِ يَوْم نيروز الْخَلِيفَة يَوْم السبت وَقيل توفّي فِي آخر سَاعَة من يَوْم الْجُمُعَة وَدفن يَوْم السبت",
+        "certainty": "definite"
+      },
+      "places": [
+        "نهاوند",
+        "العراق",
+        "العراق",
+        "بَغْدَاد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 23
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "297",
+        "full_text": "در سنه سبع و تسعین مائتین برفته از دنیا، و پسر وی برو نمازکرده، روز نیمروز خلیفه روز شنبه وگویندکی آخر روز آدینه برفت، و روز شنبه دفن کردند.",
+        "certainty": "definite"
+      },
+      "places": [
+        "نهاوند",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 24
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "بغداد",
+        "مكة",
+        "مكة",
+        "البادية",
+        "المغرب",
+        "خراسان",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 64
+    }
+  },
+  "229": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "243",
+        "full_text": "مَاتَ بِبَغْدَاد سنة ثَلَاث وَأَرْبَعين وَمِائَتَيْنِ",
+        "certainty": "definite"
+      },
+      "places": [
+        "الْبَصْرَة",
+        "بَغْدَاد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "243",
+        "full_text": "ببغداد برفته از دنیا در سنه ثلث و اربعین و مائتین پس احمد حنبل بدو سال.",
+        "certainty": "definite"
+      },
+      "places": [
+        "بصره",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 10
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "باب الطاق"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    }
+  },
+  "23": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "~340s",
+        "full_text": "مَاتَ سنة نَيف وَأَرْبَعين وثلاثمائة",
+        "certainty": "approximate"
+      },
+      "places": [
+        "مصر"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": null,
+        "full_text": "در سنه نیف و اربعین و ثلثمائه برفته از دنیا وگویند سنه ست و خمسین و اللّه اعلم.",
+        "certainty": null
+      },
+      "places": [
+        "مصر",
+        "مصر"
+      ],
+      "has_isnads": true,
+      "relationship_count": 9
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "مصر"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "232": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "309",
+        "full_text": "قتل بِبَغْدَاد بِبَاب الطاق يَوْم الثُّلَاثَاء لست بَقينَ من ذِي الْقعدَة سنة\nتسع وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "بَيْضَاء فَارس",
+        "واسط",
+        "العراق",
+        "بغداد",
+        "بَاب الطاق"
+      ],
+      "has_isnads": true,
+      "relationship_count": 13
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "309",
+        "full_text": "روز سه شنبه شش روز مانده باشد از ذی القعده سنه تسع و ثلثمائه، بباب الطاق برند ببغداد، دست وی برند و پای وی ببرند و چشم وی برکشند، و نگوسار بردارکنند و بسوزند و خاک وی بباد بردهند.",
+        "certainty": "definite"
+      },
+      "places": [
+        "بیضاء",
+        "بیضاء",
+        "واسط",
+        "عراق",
+        "خراسان",
+        "مرو",
+        "باب الطاق",
+        "بغداد",
+        "شام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 34
+    }
+  },
+  "236": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "251",
+        "full_text": "مَاتَ سري السَّقطِي سنة إِحْدَى وَخمسين وَمِائَتَيْنِ",
+        "certainty": "definite"
+      },
+      "places": [
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 8
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "253",
+        "full_text": "بامداد روز سه شنبه برفته سیوم ماه رمضان سنه ثلث و خمسین و مائتین",
+        "certainty": "definite"
+      },
+      "places": [
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 10
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "مكة",
+        "طرسوس",
+        "طرسوس",
+        "الثغر",
+        "حلب"
+      ],
+      "has_isnads": true,
+      "relationship_count": 33
+    }
+  },
+  "243": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "187",
+        "full_text": "مَاتَ فِي الْمحرم سنة سبع وَثَمَانِينَ وَمِائَة",
+        "certainty": "definite"
+      },
+      "places": [
+        "مرو",
+        "فندين",
+        "سمرقند",
+        "أبيورد",
+        "الْكُوفَة",
+        "بخاري"
+      ],
+      "has_isnads": true,
+      "relationship_count": 9
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "187",
+        "full_text": "وفات وی در محرم بوده، سنه سبع و ثانین و مائه",
+        "certainty": "definite"
+      },
+      "places": [
+        "کوفه",
+        "کوفه",
+        "مکه",
+        "خراسان",
+        "مرو",
+        "فندین",
+        "سمرقند",
+        "باورد",
+        "بخارا"
+      ],
+      "has_isnads": true,
+      "relationship_count": 16
+    }
+  },
+  "245": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "342",
+        "full_text": "توفّي سنة اثْنَتَيْنِ وَأَرْبَعين وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "مرو"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "340",
+        "full_text": "درسنه و اربعین برفته و ثلثمائه",
+        "certainty": "definite"
+      },
+      "places": [
+        "مرو",
+        "مرو"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    },
+    "hilya": {
+      "death_date": {
+        "year_hijri": "42",
+        "full_text": "توفي سنة اثنين وأربعين",
+        "certainty": "definite"
+      },
+      "places": [
+        "مرو"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "25": {
+    "sulami": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 10
+    },
+    "ansari": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 7
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 13
+    }
+  },
+  "251": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "328",
+        "full_text": "مَاتَ بِبَغْدَاد سنة ثَمَان وَعشْرين وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "نيسابور",
+        "محلّة الْحيرَة",
+        "بغداد",
+        "مسجد الشونيزية",
+        "بغداد",
+        "المسجد الجامع"
+      ],
+      "has_isnads": true,
+      "relationship_count": 13
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "328",
+        "full_text": "و آنجا برفته در سنه ثمان و عشرین و ثلثمائه.",
+        "certainty": "definite"
+      },
+      "places": [
+        "نیشاپور",
+        "محلهٔ حیره",
+        "بغداد",
+        "مسجد شو نیزیه",
+        "بغداد",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "26": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "371",
+        "full_text": "مَاتَ سنة إِحْدَى وَسبعين وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "شيراز"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "371",
+        "full_text": "در سنهٔ احدی و سبعین و ثلث مائه برفته.",
+        "certainty": "definite"
+      },
+      "places": [
+        "شیراز",
+        "شیراز"
+      ],
+      "has_isnads": true,
+      "relationship_count": 25
+    },
+    "hilya": {
+      "death_date": {
+        "year_hijri": "371",
+        "full_text": "توفي سنة إحدى وسبعين وثلاثمائة.",
+        "certainty": "definite"
+      },
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "267": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "326",
+        "full_text": "توفّي سنة سِتّ وَعشْرين وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "الرقة",
+        "الشَّام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "268": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "291",
+        "full_text": "مَاتَ فِي جَامع الرّيّ سنة إِحْدَى وَتِسْعين وَمِائَتَيْنِ إِن صَحَّ",
+        "certainty": null
+      },
+      "places": [
+        "الرّيّ",
+        "الرّيّ"
+      ],
+      "has_isnads": true,
+      "relationship_count": 13
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "~291",
+        "full_text": "در قدیم در سنه احدی و تسعین و مائتین ار درست شود.",
+        "certainty": "approximate"
+      },
+      "places": [
+        "عسکر",
+        "بغداد",
+        "دینور",
+        "ری",
+        "طبرک",
+        "تل تویه",
+        "کوه توبه"
+      ],
+      "has_isnads": true,
+      "relationship_count": 19
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "مكة",
+        "الربذة",
+        "القادسية",
+        "البحر",
+        "الساحل",
+        "الحاجر",
+        "المدينة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 11
+    }
+  },
+  "274": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "بَلخ",
+        "مَكَّة",
+        "الشَّام",
+        "الشَّام",
+        "الإسكندرية",
+        "الْكُوفَة",
+        "مَكَّة",
+        "الْبَارِدَة",
+        "الْبَادِيَة",
+        "خُرَاسَان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 17
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": null,
+        "full_text": "و بشام برفت از دنیا",
+        "certainty": null
+      },
+      "places": [
+        "بلخ",
+        "بلخ",
+        "مکه",
+        "شام",
+        "شام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 16
+    }
+  },
+  "277": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "قرميسين",
+        "قرميسين"
+      ],
+      "has_isnads": true,
+      "relationship_count": 8
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "337",
+        "full_text": "در سنه سبع و ثلثین و ثلثمائه برفته از دنیا",
+        "certainty": "definite"
+      },
+      "places": [
+        "قرمیسین",
+        "کرمانشاه",
+        "کرمانشاهان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "قرميسين"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "29": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "~330",
+        "full_text": "مَاتَ قرب الثَّلَاثِينَ وثلاثمائة",
+        "certainty": "approximate"
+      },
+      "places": [
+        "أبهر",
+        "الجبل",
+        "الكعبة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 12
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "330",
+        "full_text": "در سنه ثلثین و ثلثمائه برفته از دنیا.",
+        "certainty": "definite"
+      },
+      "places": [
+        "ابهر",
+        "جبل"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "أبهر"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "292": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "348",
+        "full_text": "مَاتَ سنة ثَمَان وَأَرْبَعين وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "بوشنج",
+        "خُرَاسَان",
+        "العراق",
+        "الشام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 12
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "348",
+        "full_text": "در سنة ثمان و اربعین و ثلثمائه برفته",
+        "certainty": "definite"
+      },
+      "places": [
+        "بوشنج",
+        "پوشنگ",
+        "نشاپور",
+        "عراق",
+        "شام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 8
+    },
+    "hilya": {
+      "death_date": {
+        "year_hijri": "348",
+        "full_text": "توفي سنة ثمان وأربعين وثلاثمائة.",
+        "certainty": "definite"
+      },
+      "places": [
+        "بوسنج",
+        "نيسابور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "295": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "328",
+        "full_text": "توفّي سنة ثَمَان وَعشْرين وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "بَغْدَاد",
+        "مَكَّة",
+        "مَكَّة",
+        "التَّنْعِيمِ",
+        "مَكَّة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "299": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "فارس",
+        "فارس"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "أصبهان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 12
+    }
+  },
+  "301": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "371",
+        "full_text": "مَاتَ بِبَغْدَاد فِي يَوْم الْجُمُعَة فِي ذِي الْحجَّة سنة إِحْدَى وَسبعين وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "البصرة",
+        "بغداد",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "371",
+        "full_text": "ببغداد برفته روز آدینه در ماه ذیالحجه سنه احدی و سبعین و ثلثمائه.",
+        "certainty": "definite"
+      },
+      "places": [
+        "بصره",
+        "بصره",
+        "بغداد",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 15
+    }
+  },
+  "312": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "<320",
+        "full_text": "مَاتَ قبل الْعشْرين وثلاثمائة",
+        "certainty": "approximate"
+      },
+      "places": [
+        "نيسابور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "<320",
+        "full_text": "مات قبل العشرین و ثلثمائه.",
+        "certainty": "approximate"
+      },
+      "places": [
+        "نشاپور"
+      ],
+      "has_isnads": false,
+      "relationship_count": 1
+    }
+  },
+  "313": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "مصر",
+        "التيه",
+        "النّيل"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    },
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "مصر",
+        "تیه"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "مصر",
+        "التيه",
+        "مكة",
+        "نيسابور",
+        "النيل",
+        "الفرات"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "314": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "330",
+        "full_text": "توفّي بِمصْر سنة ثَلَاثِينَ وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "دينور",
+        "مصر",
+        "مصر",
+        "مصر"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "324": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "~340",
+        "full_text": "مَاتَ سنة نَيف وَأَرْبَعين وثلاثمائة",
+        "certainty": "approximate"
+      },
+      "places": [
+        "الْمغرب",
+        "التينات",
+        "مَدِينَة رَسُول الله ﷺ"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "~345",
+        "full_text": "در سنه نیف و اربعین و ثلثمائه برفته از دنیا",
+        "certainty": "approximate"
+      },
+      "places": [
+        "تینات",
+        "تینات",
+        "تینات"
+      ],
+      "has_isnads": true,
+      "relationship_count": 8
+    },
+    "hilya": {
+      "death_date": {
+        "year_hijri": "~340",
+        "full_text": "توفى بعد الأربعين.",
+        "certainty": "approximate"
+      },
+      "places": [
+        "تيتان",
+        "جبل الكام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "338": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "373",
+        "full_text": "وَمَات بهَا سنة ثَلَاث وَسبعين وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "المغرب",
+        "قيروان",
+        "كركنت",
+        "الْحرم",
+        "نيسابور",
+        "نيسابور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    },
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "دینور",
+        "نشاپور",
+        "نشاپور",
+        "ترمذ",
+        "سمرقند"
+      ],
+      "has_isnads": true,
+      "relationship_count": 9
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "دينور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "340": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "~310",
+        "full_text": "مَاتَ سنة تسع وثلاثمائة أَو إِحْدَى عشرَة وثلاثمائة",
+        "certainty": "approximate"
+      },
+      "places": [
+        "الْمَدِينَة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 8
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "~309",
+        "full_text": "بسبب حلاج کشته شده فی ذی القعده سنه تسع و ثلثمائه. وگفتندکی سنه احدی عشره فی خلاقة القاهر باللهّ.",
+        "certainty": "approximate"
+      },
+      "places": [
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 10
+    }
+  },
+  "360": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "~>340",
+        "full_text": "وَمَات بهَا بعد الْأَرْبَعين وثلاثمائة",
+        "certainty": "approximate"
+      },
+      "places": [
+        "دينور",
+        "نيسابور",
+        "نيسابور",
+        "سمرقند",
+        "سمرقند"
+      ],
+      "has_isnads": true,
+      "relationship_count": 9
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "367",
+        "full_text": "تا برفت در سنه سبع و ستین و ثلثمائه فی ربیع الاول.",
+        "certainty": "definite"
+      },
+      "places": [
+        "نصر آباد",
+        "نشاپور",
+        "نشاپور",
+        "مکه",
+        "مکه",
+        "مکه"
+      ],
+      "has_isnads": true,
+      "relationship_count": 14
+    }
+  },
+  "370": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "الرقة",
+        "الرقة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "376": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "334",
+        "full_text": "مَات فِي ذِي الْحجَّة سنة أَربع وَثَلَاثِينَ وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "خراسان",
+        "بغداد",
+        "بغداد",
+        "أسروشنة",
+        "سامرا",
+        "بغداد",
+        "مَقْبرَة الخيزران"
+      ],
+      "has_isnads": true,
+      "relationship_count": 17
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "334",
+        "full_text": "در سنه اربع و ثلثین و ثلثمائه برفته از دنیا در ماه ذی الحجه فی سنة التی خلع المستکفی باللّه ثم استخلف المطیع للّه",
+        "certainty": "definite"
+      },
+      "places": [
+        "مصر",
+        "بغداد",
+        "بغداد",
+        "اسرو شنه",
+        "سامره"
+      ],
+      "has_isnads": true,
+      "relationship_count": 11
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "عرفة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 24
+    }
+  },
+  "377": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "~341",
+        "full_text": "وَمَات بهَا بعد سنة أَرْبَعِينَ وثلاثمائة",
+        "certainty": "approximate"
+      },
+      "places": [
+        "طمستان",
+        "فارس",
+        "نيسابور",
+        "نيسابور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "340",
+        "full_text": "و آنجا برفته در سنه اربعین و ثلثمائه.",
+        "certainty": "definite"
+      },
+      "places": [
+        "طمستان",
+        "بنشاپور",
+        "پارس",
+        "بنشاپور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    },
+    "hilya": {
+      "death_date": {
+        "year_hijri": "340",
+        "full_text": "وتوفي بها سنة أربعين وثلاثمائة.",
+        "certainty": "definite"
+      },
+      "places": [
+        "طمستان",
+        "أصبهان",
+        "نيسابور",
+        "نيسابور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "378": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "322",
+        "full_text": "مَاتَ سنة اثْنَتَيْنِ وَعشْرين وثلاثمائة كَذَلِك ذكره لي أَبُو عبد الله الْحُسَيْن ابْن مُحَمَّد بن جَعْفَر الرَّازِيّ",
+        "certainty": "definite"
+      },
+      "places": [
+        "بَغْدَاد",
+        "مَكَّة",
+        "مَكَّة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 12
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "322",
+        "full_text": "و آنجا برفته در سنه اثنین و عشرین و ثلثمائه دران سال که عبدالواحد صبهانی برفته",
+        "certainty": "definite"
+      },
+      "places": [
+        "بغداد",
+        "مکه",
+        "مکه",
+        "صنعا",
+        "یمن"
+      ],
+      "has_isnads": true,
+      "relationship_count": 17
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "بغداد",
+        "مكة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    }
+  },
+  "379": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "~320",
+        "full_text": "وَمَات بهَا بعد الْعشْرين وثلاثمائة",
+        "certainty": "approximate"
+      },
+      "places": [
+        "واسط",
+        "فرغانة",
+        "خُرَاسَان",
+        "مرو",
+        "مرو",
+        "أبيورد",
+        "مرو",
+        "العراق",
+        "مرو"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "<320",
+        "full_text": "بمرو برفته پیش از سنه عشرین و ثلثمائه",
+        "certainty": "approximate"
+      },
+      "places": [
+        "واسط",
+        "خراسان",
+        "فرغانه",
+        "عراق",
+        "مرو",
+        "مرو",
+        "بنشاپور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 11
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "واسط",
+        "خراسان",
+        "مرو"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    }
+  },
+  "380": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "ترمذ",
+        "بلخ",
+        "بلخ",
+        "درب النسْوَة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 13
+    },
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "ترمذ",
+        "ترمذ",
+        "ترمذ",
+        "بلخ"
+      ],
+      "has_isnads": true,
+      "relationship_count": 15
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "بلخ"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "381": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "ترمذ",
+        "خراسان",
+        "بلخ"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "382": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "~350",
+        "full_text": "مَاتَ بعد الْخمسين وثلاثمائة",
+        "certainty": "approximate"
+      },
+      "places": [
+        "دينور",
+        "الشام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 9
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "359",
+        "full_text": "سنه تسع و خمسین و ثلثمائه برفت از دنیا.",
+        "certainty": "definite"
+      },
+      "places": [
+        "دمشق",
+        "دینور",
+        "شام",
+        "نصیبین",
+        "بادیه"
+      ],
+      "has_isnads": true,
+      "relationship_count": 13
+    }
+  },
+  "384": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "<360",
+        "full_text": "مَاتَ قبل السِّتين وثلاثمائة",
+        "certainty": "approximate"
+      },
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "385": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "370",
+        "full_text": "مَاتَ سنة سبعين وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "نيسابور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "370",
+        "full_text": "در سنه سبعین و ثلثمائه برفته از دنیا",
+        "certainty": "definite"
+      },
+      "places": [
+        "نشاپور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 10
+    }
+  },
+  "388": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "245",
+        "full_text": "توفّي فِي الْبَادِيَة قيل نهشته السبَاع سنة خمس وَأَرْبَعين وَمِائَتَيْنِ",
+        "certainty": "definite"
+      },
+      "places": [
+        "نخشب",
+        "الْبَادِيَة",
+        "الْبَادِيَة",
+        "خُرَاسَان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 9
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "245",
+        "full_text": "در سنه خمس و اربعین و مائتین",
+        "certainty": "definite"
+      },
+      "places": [
+        "نخشب",
+        "خراسان",
+        "بادیه"
+      ],
+      "has_isnads": true,
+      "relationship_count": 8
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "نخشب",
+        "أصبهان",
+        "مكة",
+        "الحجاز",
+        "البادية",
+        "البصرة",
+        "النباج",
+        "بين مكة والمدينة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 25
+    }
+  },
+  "397": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "289",
+        "full_text": "توفّي سنة تسع وَثَمَانِينَ وَمِائَتَيْنِ",
+        "certainty": "definite"
+      },
+      "places": [
+        "بغداد",
+        "البصرة",
+        "بِلَاد الرّوم",
+        "مَكَّة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 10
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "289",
+        "full_text": "پیش از جنید و بوحمزه خراسانی ٭ برفته در سنه تسع و ثمانین و مائتین",
+        "certainty": "definite"
+      },
+      "places": [
+        "بغداد",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 18
+    }
+  },
+  "398": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "خراسان",
+        "نيسابور",
+        "ملقاباذ",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "290",
+        "full_text": "در سنة تسعین و ماتین برفت از دنیا",
+        "certainty": "definite"
+      },
+      "places": [
+        "خراسان",
+        "نشاپور",
+        "ملقاباد",
+        "گوزگان",
+        "عراق",
+        "ری"
+      ],
+      "has_isnads": true,
+      "relationship_count": 9
+    }
+  },
+  "400": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "341",
+        "full_text": "مَاتَ سنة إِحْدَى وَأَرْبَعين وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "البصرة",
+        "مَكَّة",
+        "مَكَّة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 12
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "340/341",
+        "full_text": "و بانجا برفت در\nسنه اربعین او احدی و اربعین «وثلثمائه» فی سنة التی توفی ابوعلی\nالمشتولی.",
+        "certainty": "approximate"
+      },
+      "places": [
+        "غزه",
+        "بصره",
+        "مکه",
+        "مکه"
+      ],
+      "has_isnads": true,
+      "relationship_count": 9
+    },
+    "hilya": {
+      "death_date": {
+        "year_hijri": "341",
+        "full_text": "توفي سنة إحدى وأربعين وثلاثمائة.",
+        "certainty": "definite"
+      },
+      "places": [
+        "البصرة",
+        "مكة",
+        "مكة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "404": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "215",
+        "full_text": "مَاتَ أَبُو سُلَيْمَان سنة خمس عشرَة وَمِائَتَيْنِ",
+        "certainty": "definite"
+      },
+      "places": [
+        "داريا",
+        "داريا",
+        "دمشق",
+        "الشَّام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "215",
+        "full_text": "و در سنه خمس عشر و مائتین برفته.",
+        "certainty": "definite"
+      },
+      "places": [
+        "داریا",
+        "شام",
+        "عراق",
+        "داریا",
+        "دمشق"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "410": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "بَغْدَاد",
+        "الرملة",
+        "دمشق",
+        "الشَّام",
+        "الشَّام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 10
+    },
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "بغداد",
+        "رمله",
+        "الوشق",
+        "شام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 12
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "بغداد",
+        "الرملة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    }
+  },
+  "412": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "~350",
+        "full_text": "مَاتَ بعد الْخمسين وثلاثمائة",
+        "certainty": "approximate"
+      },
+      "places": [
+        "طوس"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "~350",
+        "full_text": "پس از سنه خمسین و ثلثمائه برفته از دنیا.",
+        "certainty": "approximate"
+      },
+      "places": [
+        "تروغبد",
+        "طوس"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "413": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "369",
+        "full_text": "مَاتَ بصور فِي ذِي الْحجَّة سنة تسع وَسِتِّينَ وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "الرُّوذَبَارِي",
+        "صور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "399",
+        "full_text": "به صور مرده در ماه ذیالحجه سنه تسع و تسعین و ثلثمائه",
+        "certainty": "definite"
+      },
+      "places": [
+        "رودبار",
+        "صور",
+        "صور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 16
+    }
+  },
+  "414": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "سجْز"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    },
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "سجستان",
+        "خراسان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "سجستان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "415": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "البصرة",
+        "السوس",
+        "السوس"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "416": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "299",
+        "full_text": "مَاتَ سنة تسع وَسبعين وَمِائَتَيْنِ وَقيل تسع وَتِسْعين وَهَذَا أصح إِن شَاءَ الله",
+        "certainty": "definite"
+      },
+      "places": [
+        "المغرب",
+        "جبل طور سيناء"
+      ],
+      "has_isnads": true,
+      "relationship_count": 8
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "المغرب",
+        "جبل طور سينا"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "418": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "الرّيّ",
+        "نيسابور",
+        "مَكَّة",
+        "خُرَاسَان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 18
+    }
+  },
+  "419": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "298",
+        "full_text": "مَاتَ أَبُو عُثْمَان بنيسابور سنة ثَمَان وَتِسْعين وَمِائَتَيْنِ",
+        "certainty": "definite"
+      },
+      "places": [
+        "حير",
+        "نيسابور",
+        "الرّيّ",
+        "نيسابور",
+        "نيسابور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 13
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "298",
+        "full_text": "در سنه ثمان و تسعین ومائتین برفت ازدنیا فی ربیع الاول.",
+        "certainty": "definite"
+      },
+      "places": [
+        "حیر",
+        "نیشابور",
+        "ری",
+        "نیشابور",
+        "نیشابور"
+      ],
+      "has_isnads": false,
+      "relationship_count": 5
+    }
+  },
+  "421": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "جوزجان",
+        "خُرَاسَان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    },
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "جوزجان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "جورجان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "422": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "322",
+        "full_text": "توفّي سنة اثْنَتَيْنِ وَعشْرين وثلاثمائة كَذَلِك ذكره لي الْحُسَيْن بن أَحْمد الرَّازِيّ وَأسْندَ الحَدِيث",
+        "certainty": "definite"
+      },
+      "places": [
+        "بَغْدَاد",
+        "مصر",
+        "مصر",
+        "الشَّام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 21
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "~323",
+        "full_text": "در سنه اثنی و عشرین و ثلثلمائه. وگویندکی سنه ثلث و عشرین.",
+        "certainty": "approximate"
+      },
+      "places": [
+        "رودبار",
+        "مصر",
+        "بغداد",
+        "مصر",
+        "مصر",
+        "شام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 13
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "بغداد",
+        "مصر",
+        "مصر"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "425": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "320",
+        "full_text": "مَاتَ أَبُو عَمْرو سنة عشْرين وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "دمشق"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "320",
+        "full_text": "در سنه عشرین برفته و\nثلثمائه،",
+        "certainty": "definite"
+      },
+      "places": [
+        "دمشق",
+        "شام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "دمشق"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "426": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "348",
+        "full_text": "توفّي بِمَكَّة سنة ثَمَان وَأَرْبَعين وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "نيسابور",
+        "مَكَّة",
+        "مَكَّة",
+        "مَكَّة",
+        "مَكَّة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 12
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "348",
+        "full_text": "در مکه برفته در سنه ثمان و اربعین و ثلثمائه.",
+        "certainty": "definite"
+      },
+      "places": [
+        "نشاپور",
+        "مکه",
+        "مکه"
+      ],
+      "has_isnads": true,
+      "relationship_count": 13
+    },
+    "hilya": {
+      "death_date": {
+        "year_hijri": "348",
+        "full_text": "توفي سنة ثمان وأربعين وثلاثمائة.",
+        "certainty": "definite"
+      },
+      "places": [
+        "نيسابور",
+        "مكة",
+        "الحرم"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "431": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "311",
+        "full_text": "مَاتَ سنة إِحْدَى عشرَة وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "بغداد",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 9
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "432": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "353",
+        "full_text": "مَاتَ سنة ثَلَاث وَخمسين وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "الري",
+        "نيسابور",
+        "نيسابور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 14
+    }
+  },
+  "435": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "بسطَام",
+        "بسطَام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "261",
+        "full_text": "وفات وی\nدر سنه احدی و ستین و مائتین بود «و نیز گفتند که در سنه اربع و مائتین،\nولیکن در سنه احدی و ستین در ستر است».",
+        "certainty": "definite"
+      },
+      "places": [
+        "بسطام",
+        "بسطام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 34
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "بسطام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 13
+    }
+  },
+  "437": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "330",
+        "full_text": "مَاتَ سنة ثَلَاثِينَ وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "الْحرم",
+        "الْحرم"
+      ],
+      "has_isnads": true,
+      "relationship_count": 9
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "330",
+        "full_text": "و آنجا برفته در سنه ثلثین و ثلثمائه.",
+        "certainty": "definite"
+      },
+      "places": [
+        "نهر جوری",
+        "مکه",
+        "مکه"
+      ],
+      "has_isnads": true,
+      "relationship_count": 9
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "نهرجور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "439": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "295",
+        "full_text": "توفّي سنة خمس وَتِسْعين وَمِائَتَيْنِ",
+        "certainty": "definite"
+      },
+      "places": [
+        "بغداد",
+        "بغداد",
+        "بغداد",
+        "خراسان",
+        "هراة",
+        "مرو الروذ",
+        "بغشور",
+        "بغداد",
+        "الْكُوفَة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 14
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "295",
+        "full_text": "سی سال یک سفرکرده بود، پیش از جنید برفته! سنه خمس و تسعین و مائتین «و جنید در سنه سبع.»",
+        "certainty": "definite"
+      },
+      "places": [
+        "بغداد",
+        "بغشور",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 23
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "بغ",
+        "الرقة",
+        "بغداد",
+        "مكة",
+        "الحرم"
+      ],
+      "has_isnads": true,
+      "relationship_count": 25
+    }
+  },
+  "440": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "240",
+        "full_text": "توفّي سنة أَرْبَعِينَ وَمِائَتَيْنِ",
+        "certainty": "definite"
+      },
+      "places": [
+        "بلخ",
+        "خُرَاسَان",
+        "نيسابور",
+        "مَكَّة",
+        "بسطَام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 10
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "240",
+        "full_text": "در سنه اربعین و\nمائتین برفته از دنیا",
+        "certainty": "definite"
+      },
+      "places": [
+        "بلخ",
+        "بلخ",
+        "خراسان",
+        "نشا بور",
+        "بسطام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 8
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "بلخ",
+        "خراسان",
+        "مرو",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "442": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "230",
+        "full_text": "مَاتَ أَحْمد سنة ثَلَاثِينَ وَمِائَتَيْنِ",
+        "certainty": "definite"
+      },
+      "places": [
+        "دمشق"
+      ],
+      "has_isnads": true,
+      "relationship_count": 11
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "دير حرملة",
+        "الفرات",
+        "مكة",
+        "بلاد الشام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 75
+    }
+  },
+  "443": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "بغداد",
+        "طرسوس",
+        "العراق"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    },
+    "ansari": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": false,
+      "relationship_count": 0
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "بغداد",
+        "طرسوس",
+        "الروم"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "446": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "أنطاكية"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    },
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "انطاکیه"
+      ],
+      "has_isnads": true,
+      "relationship_count": 8
+    }
+  },
+  "451": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "299",
+        "full_text": "توفّي بِبَغْدَاد سنة تسع وَتِسْعين وَمِائَتَيْنِ",
+        "certainty": "definite"
+      },
+      "places": [
+        "طوس",
+        "بَغْدَاد",
+        "بَغْدَاد",
+        "بَغْدَاد",
+        "بَغْدَاد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 9
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "299",
+        "full_text": "نام وی احمد بن مسروق الطوسی سکن ببغداد و مات بها، در سنه تسع و تسعین و مائتین «وگفتندکه در صفر سنه ثمان و تسعین» واللّه اعلم،",
+        "certainty": "definite"
+      },
+      "places": [
+        "طوس",
+        "بغداد",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "طوس",
+        "بغداد",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 14
+    }
+  },
+  "470": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "227",
+        "full_text": "مَاتَ بشر بن الْحَارِث يَوْم الْأَرْبَعَاء لعشر خلون من الْمحرم سنة سبع وَعشْرين وَمِائَتَيْنِ",
+        "certainty": "definite"
+      },
+      "places": [
+        "مرو",
+        "بكرد",
+        "مابرسام",
+        "بَغْدَاد",
+        "بَغْدَاد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 14
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "220",
+        "full_text": "روز چهارشنبه ده روزگذشته از محرم سنه و عشرین و مائتین",
+        "certainty": "definite"
+      },
+      "places": [
+        "مرو",
+        "کرد آواد",
+        "بغداد",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 9
+    }
+  },
+  "476": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "316",
+        "full_text": "وبهَا مَاتَ فِي شهر رَمَضَان سنة سِتّ عشرَة وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "واسط",
+        "مصر",
+        "مصر",
+        "مصر"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "316",
+        "full_text": "آنجا برفت از دنیا در ماه رمضان سنه ست عشرة و ثلثمائه.",
+        "certainty": "definite"
+      },
+      "places": [
+        "مصر",
+        "واسط",
+        "مصر",
+        "مصر",
+        "تیه بنیاسرائیل"
+      ],
+      "has_isnads": true,
+      "relationship_count": 8
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "بغداد",
+        "واسط",
+        "مصر",
+        "تبوك"
+      ],
+      "has_isnads": true,
+      "relationship_count": 11
+    }
+  },
+  "478": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "359",
+        "full_text": "مَاتَ سنة تسع وَخمسين وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "نيسابور",
+        "نيسابور",
+        "سمرقند",
+        "بلخ",
+        "جوزجان",
+        "الري",
+        "بغداد",
+        "الشام",
+        "مصر",
+        "دمشق"
+      ],
+      "has_isnads": true,
+      "relationship_count": 24
+    },
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "نشاپور",
+        "نشاپور",
+        "سمرقند",
+        "بلخ",
+        "گوز گانان",
+        "ری",
+        "بغداد",
+        "شام",
+        "دمشق",
+        "مصر"
+      ],
+      "has_isnads": true,
+      "relationship_count": 35
+    },
+    "hilya": {
+      "death_date": {
+        "year_hijri": "353",
+        "full_text": "توفي سنة ثلاث وخمسين وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "495": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "348",
+        "full_text": "وَتُوفِّي بِبَغْدَاد سنة ثَمَان وَأَرْبَعين وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "بغداد",
+        "بغداد",
+        "بغداد",
+        "بغداد",
+        "الشونيزية",
+        "الشونيزية"
+      ],
+      "has_isnads": true,
+      "relationship_count": 15
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "348",
+        "full_text": "ایذ ببغداد برفته در ثمان و اربعین و ثلثمائه",
+        "certainty": "definite"
+      },
+      "places": [
+        "بغداد",
+        "بغداد",
+        "شو نیزیه"
+      ],
+      "has_isnads": true,
+      "relationship_count": 12
+    },
+    "hilya": {
+      "death_date": {
+        "year_hijri": "348",
+        "full_text": "توفي سنة ثمان وأربعين وثلاثمائة.",
+        "certainty": "definite"
+      },
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "505": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "237",
+        "full_text": "مَاتَ بواشجرد عِنْد رِبَاط يُقَال لَهُ رَأس سروند على جبل فَوق واشجرد سنة سبع وَثَلَاثِينَ وَمِائَتَيْنِ",
+        "certainty": "definite"
+      },
+      "places": [
+        "خُرَاسَان",
+        "بَلخ",
+        "واشجرد",
+        "رَأس سروند"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    }
+  },
+  "524": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "271",
+        "full_text": "توفّي أَبُو صَالح حمدون سنة إِحْدَى وَسبعين وَمِائَتَيْنِ بنيسابور وَدفن فِي مَقْبرَة الْحيرَة وَأسْندَ الحَدِيث",
+        "certainty": "definite"
+      },
+      "places": [
+        "نيسابور",
+        "نيسابور",
+        "مَقْبرَة الْحيرَة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 11
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "271",
+        "full_text": "در سنه احدی و سبعین و مائتین برفت از دنیا بنشاپور",
+        "certainty": "definite"
+      },
+      "places": [
+        "نیشاپور",
+        "نیشاپور",
+        "نیشاپور",
+        "حیره"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "نيسابور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "564": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "سامرا",
+        "بغداد",
+        "سامرا",
+        "الكوفة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 10
+    },
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "بغداد",
+        "کوفه"
+      ],
+      "has_isnads": true,
+      "relationship_count": 12
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "سامرا",
+        "بغداد",
+        "الدجلة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 8
+    }
+  },
+  "570": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "245",
+        "full_text": "توفّي سنة خمس وَأَرْبَعين وَمِائَتَيْنِ",
+        "certainty": "definite"
+      },
+      "places": [
+        "مصر",
+        "أخميم"
+      ],
+      "has_isnads": true,
+      "relationship_count": 9
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "245|248",
+        "full_text": "توفی ذوالنون فی ذی القعده سنه خمس و اربعین، و یقال سنه ثمان و اربعین و مأتین فی سنة التی مات فیها ابوتراب النخشبی٭",
+        "certainty": "approximate"
+      },
+      "places": [
+        "مصر",
+        "اخمیم",
+        "مغرب",
+        "بغداد",
+        "مصر",
+        "نیل"
+      ],
+      "has_isnads": true,
+      "relationship_count": 20
+    }
+  },
+  "578": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "303",
+        "full_text": "مَاتَ سنة ثَلَاث وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "بغداد",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 8
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "303",
+        "full_text": "در سنه ثلث و ثلثمائه برفت از دنیا.",
+        "certainty": "definite"
+      },
+      "places": [
+        "بغداد",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 16
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "603": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "العرَاق",
+        "بَيْت الْمُقَدّس",
+        "الدجلة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 13
+    },
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "البصرة",
+        "بغداد",
+        "بيت المقدس",
+        "المدائن",
+        "قبر سلمان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 8
+    }
+  },
+  "605": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "283",
+        "full_text": "توفّي سنة ثَلَاث وَثَمَانِينَ وَقيل سنة ثَلَاث وَتِسْعين وَمِائَتَيْنِ وأظن أَن ثَلَاثًا وَثَمَانِينَ أصح وَالله أعلم",
+        "certainty": "definite"
+      },
+      "places": [
+        "تستر",
+        "مكة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 13
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "283",
+        "full_text": "اما پیش از جنید برفته از دنیا، فی المحرم سنه ثلاث و ثمانین و مائتین گفتند: کی سنه ثلاث و سبعین و مائتین در ستر است",
+        "certainty": "definite"
+      },
+      "places": [
+        "تستر",
+        "بصره"
+      ],
+      "has_isnads": true,
+      "relationship_count": 18
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "تستر",
+        "الحرم",
+        "تستر",
+        "الأهواز"
+      ],
+      "has_isnads": true,
+      "relationship_count": 34
+    }
+  },
+  "614": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "<300",
+        "full_text": "وَمَات قبل الثلاثمائة",
+        "certainty": "approximate"
+      },
+      "places": [
+        "كرمان",
+        "نيسابور",
+        "مرو",
+        "اصطخر"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": null,
+        "full_text": "شاه پس از باحفص برفته از دنیا گویند: مات بعد سنة سبعین و مائتین. وگویند. توفی قبل الثلثمائه.",
+        "certainty": "approximate"
+      },
+      "places": [
+        "کرمان",
+        "کرمان",
+        "مرو",
+        "نیشاپور",
+        "نیشاپور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 12
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "كرمان",
+        "كرمان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 9
+    }
+  },
+  "622": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "بَلخ",
+        "خُرَاسَان",
+        "خُرَاسَان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "640": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "بيت المقدس",
+        "الشام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    },
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "قدس",
+        "شام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "القدس",
+        "عسقلان",
+        "غزة",
+        "ساحل البحر"
+      ],
+      "has_isnads": true,
+      "relationship_count": 8
+    }
+  },
+  "658": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "~310",
+        "full_text": "مَاتَ قبل الْعشْر وثلاثمائة",
+        "certainty": "approximate"
+      },
+      "places": [
+        "الريّ",
+        "الريّ",
+        "الحرم"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "661": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "أنطاكية",
+        "الْكُوفَة",
+        "أنطاكية",
+        "أذنة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 12
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "أنطاكية"
+      ],
+      "has_isnads": true,
+      "relationship_count": 15
+    }
+  },
+  "665": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "329",
+        "full_text": "مَاتَ بنيسابور سنة تسع وَعشْرين وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "نيسابور",
+        "نيسابور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    }
+  },
+  "697": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "أَصْبَهَان",
+        "أَصْبَهَان",
+        "مَكَّة",
+        "مَكَّة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 10
+    },
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "اصفهان",
+        "سپاهان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 13
+    }
+  },
+  "702": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "353",
+        "full_text": "مَاتَ سنة ثَلَاث وَخمسين وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "شيراز",
+        "أرجان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "353",
+        "full_text": "در سنه ثلث و خمسین و ثلثمائه برفته",
+        "certainty": "definite"
+      },
+      "places": [
+        "ارگان",
+        "شیراز",
+        "ارگان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 11
+    }
+  },
+  "713": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "~303/304",
+        "full_text": "مَاتَ سنة ثَلَاث أَو أَربع وثلاثمائة بنيسابور",
+        "certainty": "approximate"
+      },
+      "places": [
+        "نيسابور",
+        "نيسابور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 8
+    }
+  },
+  "715": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "270",
+        "full_text": "توفّي سنة سبعين وَمِائَتَيْنِ وَيُقَال سنة سبع وَسِتِّينَ وَالله أعلم",
+        "certainty": "definite"
+      },
+      "places": [
+        "نيسابور",
+        "كورداباذ",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 18
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": null,
+        "full_text": "مات ابوحفص فی سنة اربع و ستین و مائتین. وگفتهاند در سنه سبع و سبعین درآن سال که احمد بن عبداللّه الخجستانی را بکشتند و گفتندکی در سنه تسع و ستین رفته، و پیشینه بیشترگفتهاند و اللهّ اعلم فی وفاته اختلاف»",
+        "certainty": null
+      },
+      "places": [
+        "نیشابور",
+        "نیشابور",
+        "کورداباد",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 18
+    },
+    "hilya": {
+      "death_date": {
+        "year_hijri": "267",
+        "full_text": "توفي سنة سبع، وقيل أربع وستين ومائتين.",
+        "certainty": null
+      },
+      "places": [
+        "نيسابور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 12
+    }
+  },
+  "716": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "291",
+        "full_text": "مَاتَ بِبَغْدَاد سنة إِحْدَى وَتِسْعين وَمِائَتَيْنِ وَيُقَال سبع وَتِسْعين وَالْأول أصح",
+        "certainty": "definite"
+      },
+      "places": [
+        "مكة",
+        "بغداد",
+        "أصفهان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 11
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "297",
+        "full_text": "در نیمهٔ سال برفته با جنید در سنه سبع و تسعین و مائتین",
+        "certainty": "definite"
+      },
+      "places": [
+        "مکه",
+        "یمن",
+        "مکه",
+        "جده",
+        "جده"
+      ],
+      "has_isnads": true,
+      "relationship_count": 10
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "مكة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "770": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "319",
+        "full_text": "وَبهَا مَاتَ سنة تسع عشرَة وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "بلخ",
+        "سمرقند",
+        "بلخ",
+        "سمرقند",
+        "سمرقند"
+      ],
+      "has_isnads": true,
+      "relationship_count": 8
+    },
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "بلخ",
+        "سمرقند",
+        "بلخ",
+        "شهرکرد",
+        "سمرقند",
+        "نشاپور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "بلخ",
+        "سمرقند",
+        "سمرقند"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "783": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "ترمذ",
+        "خُرَاسَان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    },
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "ترمذ"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "ترمذ"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    }
+  },
+  "784": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "نسا",
+        "نسا",
+        "بيسمة",
+        "نيسابور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "نسا"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "807": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "قرميسين",
+        "الْجَبَل"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    },
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "کرمانشاه",
+        "جبل"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "810": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "الكرخ",
+        "بغداد",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "200",
+        "full_text": "در سنه مائتین برفت از دنیا",
+        "certainty": "definite"
+      },
+      "places": [
+        "کرخ",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 8
+    }
+  },
+  "815": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "~299",
+        "full_text": "ذكر أَبُو زرْعَة أَنه مَاتَ سنة تسع وَتِسْعين وَمِائَتَيْنِ إِن كَانَ حفظه",
+        "certainty": "approximate"
+      },
+      "places": [
+        "دينَوَر"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "299",
+        "full_text": "گفتهاند: که در سنه تسع و تسعین و مائتین برفت از دنیا، دران سالکه بوالحرث اولاسی٭ برفت از دنیا و بوالعباس مسروق و بوحمزهٔ بغدادی٭ ار درست شود.",
+        "certainty": null
+      },
+      "places": [
+        "دینور",
+        "عراق"
+      ],
+      "has_isnads": true,
+      "relationship_count": 14
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "دينور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "816": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "مرو",
+        "دندانقان",
+        "أبيورد",
+        "بوشنج",
+        "الْبَصْرَةِ",
+        "بغداد",
+        "الْمَدِينَة",
+        "مَكَّة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "844": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "258",
+        "full_text": "وَمَات بهَا سنة ثَمَان وَخمسين وَمِائَتَيْنِ",
+        "certainty": "definite"
+      },
+      "places": [
+        "الري",
+        "خُرَاسَان",
+        "بَلخ",
+        "نيسابور",
+        "نيسابور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 11
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "258",
+        "full_text": "در سنه ثمان و خمسین و مائین",
+        "certainty": "definite"
+      },
+      "places": [
+        "ری",
+        "نیشاپور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "847": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "304",
+        "full_text": "مَاتَ يُوسُف سنة أَربع وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "الرّيّ",
+        "الرّيّ",
+        "الْجِبَال"
+      ],
+      "has_isnads": true,
+      "relationship_count": 10
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "303",
+        "full_text": "در سنه ثلاث و ثلثمائه برفته از دنیا",
+        "certainty": "definite"
+      },
+      "places": [
+        "ری",
+        "ری",
+        "بغداد",
+        "مصر",
+        "جبال",
+        "دجله"
+      ],
+      "has_isnads": true,
+      "relationship_count": 11
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الري",
+        "الري"
+      ],
+      "has_isnads": true,
+      "relationship_count": 27
+    }
+  },
+  "96": {
+    "sulami": {
+      "death_date": null,
+      "places": [
+        "أرمية"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    },
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "ارمیه"
+      ],
+      "has_isnads": true,
+      "relationship_count": 11
+    }
+  },
+  "98": {
+    "sulami": {
+      "death_date": {
+        "year_hijri": "311",
+        "full_text": "وَمَات أَبُو جَعْفَر سنة إِحْدَى عشرَة وثلاثمائة",
+        "certainty": "definite"
+      },
+      "places": [
+        "نيسابور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    },
+    "ansari": {
+      "death_date": {
+        "year_hijri": "311",
+        "full_text": "در سنه احدی عشرة و ثلثمائه برفته از دنیا.",
+        "certainty": "definite"
+      },
+      "places": [
+        "نشاپور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 26
+    }
+  },
+  "100": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 10
+    }
+  },
+  "107": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "نسا",
+        "نسا",
+        "نسا",
+        "نشاپور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "109": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "یزد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 14
+    }
+  },
+  "122": {
+    "ansari": {
+      "death_date": {
+        "year_hijri": "312",
+        "full_text": "در سنه اثنی عشرة ثلثمائه.",
+        "certainty": "definite"
+      },
+      "places": [
+        "جریر"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "13": {
+    "ansari": {
+      "death_date": {
+        "year_hijri": "326",
+        "full_text": "در سنه ست و عشرین و ثلثمائه برفت از دنیا،",
+        "certainty": "definite"
+      },
+      "places": [
+        "رقه",
+        "شام",
+        "پل منیج"
+      ],
+      "has_isnads": true,
+      "relationship_count": 12
+    }
+  },
+  "135": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "همدان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 9
+    }
+  },
+  "136": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "موصل"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "140": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "عبادان",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 8
+    }
+  },
+  "141": {
+    "ansari": {
+      "death_date": {
+        "year_hijri": "366",
+        "full_text": "در سنه ست و ستین و ثلثمائه برفته از دنیا.",
+        "certainty": "definite"
+      },
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 10
+    }
+  },
+  "142": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "نباج"
+      ],
+      "has_isnads": true,
+      "relationship_count": 13
+    }
+  },
+  "171_علی بن احمد الحنظلی": {
+    "ansari": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 19
+    }
+  },
+  "172_فصل فیالمعرفة والتوحید": {
+    "ansari": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 28
+    }
+  },
+  "173_مناجات": {
+    "ansari": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 29
+    }
+  },
+  "175": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "اندلس"
+      ],
+      "has_isnads": true,
+      "relationship_count": 8
+    }
+  },
+  "193": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "مکه"
+      ],
+      "has_isnads": true,
+      "relationship_count": 11
+    }
+  },
+  "197": {
+    "ansari": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "199": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "سوس",
+        "بغداد",
+        "بصره"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "200": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 0
+    }
+  },
+  "203": {
+    "ansari": {
+      "death_date": {
+        "year_hijri": "~207",
+        "full_text": "در روزگار سنه سبع و مائتین برفته، یا پس آن باندک.",
+        "certainty": "approximate"
+      },
+      "places": [
+        "بصره",
+        "مسجد شونیزیه"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "21": {
+    "ansari": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "24": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "272": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "مرو"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "273": {
+    "ansari": {
+      "death_date": {
+        "year_hijri": "342",
+        "full_text": "در سنه اثنین و اربعین و ثلثمائه برفته از دنیا.",
+        "certainty": "definite"
+      },
+      "places": [
+        "رقه",
+        "راس العین"
+      ],
+      "has_isnads": true,
+      "relationship_count": 18
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "275": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "أولاس",
+        "الساحل",
+        "البحر",
+        "اللكام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "293": {
+    "ansari": {
+      "death_date": {
+        "year_hijri": "331",
+        "full_text": "از دنیا نیمهٔ رجب، سنه احدی و ثلثین.",
+        "certainty": "definite"
+      },
+      "places": [
+        "دینور",
+        "مصر",
+        "مصر"
+      ],
+      "has_isnads": true,
+      "relationship_count": 8
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "دينور",
+        "مصر"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "305": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "سیروان",
+        "مصر",
+        "مکه",
+        "مکه"
+      ],
+      "has_isnads": true,
+      "relationship_count": 29
+    }
+  },
+  "316": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "همدان",
+        "مکه",
+        "مکه"
+      ],
+      "has_isnads": true,
+      "relationship_count": 14
+    }
+  },
+  "317": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "پارس",
+        "بصره"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "318": {
+    "ansari": {
+      "death_date": {
+        "year_hijri": "320",
+        "full_text": "در سنه عشرین و ثلثمائه برفته",
+        "certainty": "definite"
+      },
+      "places": [
+        "بغداد",
+        "ری"
+      ],
+      "has_isnads": true,
+      "relationship_count": 12
+    }
+  },
+  "343": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "سهرورد",
+        "مکه",
+        "منا"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    }
+  },
+  "358": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "آمل",
+        "آمل"
+      ],
+      "has_isnads": true,
+      "relationship_count": 9
+    }
+  },
+  "363": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "ترمذ",
+        "ترمذ"
+      ],
+      "has_isnads": true,
+      "relationship_count": 19
+    }
+  },
+  "371": {
+    "ansari": {
+      "death_date": {
+        "year_hijri": "290",
+        "full_text": "فیالتاریخ: حج ابواحمد القلانسی سنه تسعین و مائتین و مات بمکه بعدالظرف الحج بقلیل.",
+        "certainty": "definite"
+      },
+      "places": [
+        "بغداد",
+        "مرو",
+        "مکه"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "البصرة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "375": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "مصر",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "مكة",
+        "مكة",
+        "عسفان",
+        "مكة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "40": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "بصره",
+        "بشوش",
+        "بشوش",
+        "بصره"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "409": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "بصره"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "البصرة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "42": {
+    "ansari": {
+      "death_date": {
+        "year_hijri": "328",
+        "full_text": "و آنجا برفته در سنه ثمان و عشرین و ثلثمائه",
+        "certainty": "definite"
+      },
+      "places": [
+        "مکه",
+        "مکه",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 9
+    }
+  },
+  "434": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "شام",
+        "کوفه"
+      ],
+      "has_isnads": true,
+      "relationship_count": 14
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 7
+    }
+  },
+  "465": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "بغداد"
+      ],
+      "has_isnads": false,
+      "relationship_count": 1
+    }
+  },
+  "466": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "میدانی",
+        "نصیبین"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "48": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "باور",
+        "باورد",
+        "نشاپور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "49": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "بردع"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "496": {
+    "ansari": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "50": {
+    "ansari": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 25
+    }
+  },
+  "51": {
+    "ansari": {
+      "death_date": {
+        "year_hijri": "306",
+        "full_text": "در سنه ست و ثلثمائه برفته از دنیا",
+        "certainty": "definite"
+      },
+      "places": [
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "512": {
+    "ansari": {
+      "death_date": {
+        "year_hijri": ">300",
+        "full_text": "استاذنا حسن المسوحی مات بعد الثلثمائه",
+        "certainty": "approximate"
+      },
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 10
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "52": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "نسا",
+        "نسا",
+        "مصر",
+        "مکه"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    }
+  },
+  "523": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    }
+  },
+  "525": {
+    "ansari": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "53": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "نهاوند"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "592": {
+    "ansari": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": false,
+      "relationship_count": 1
+    }
+  },
+  "619": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "بلخ",
+        "مسجد حرام",
+        "مقام ابراهیم"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "631": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "مکه",
+        "شام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "641": {
+    "ansari": {
+      "death_date": {
+        "year_hijri": "302",
+        "full_text": "مات سنه اثنین و ثلثمائة",
+        "certainty": "definite"
+      },
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "647": {
+    "ansari": {
+      "death_date": {
+        "year_hijri": "288",
+        "full_text": "و عباس حمزه در سنه ثمان و ثمانین و مائتین برفته از دنیا در ماه ربیع الاول پیش از جنید.",
+        "certainty": "definite"
+      },
+      "places": [
+        "نیشابور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "648": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "رمله",
+        "شام",
+        "شام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "649": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "653": {
+    "ansari": {
+      "death_date": {
+        "year_hijri": "~310",
+        "full_text": "بیش از عشر و ثلثمائه برفت از دنیا.",
+        "certainty": "approximate"
+      },
+      "places": [
+        "ری",
+        "مکه"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "654": {
+    "ansari": {
+      "death_date": {
+        "year_hijri": "~329-330",
+        "full_text": "در سنه تسع و عشرین او ثلثین و ثلثمائه برفت «از دنیا»",
+        "certainty": "approximate"
+      },
+      "places": [
+        "نشاپور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 13
+    }
+  },
+  "655": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "باورد"
+      ],
+      "has_isnads": false,
+      "relationship_count": 3
+    }
+  },
+  "670": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "مصر"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "672": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "بصره"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "678": {
+    "ansari": {
+      "death_date": {
+        "year_hijri": "350",
+        "full_text": "در سنه و خمسین و ثلمائه از دنیا برفت.",
+        "certainty": "definite"
+      },
+      "places": [
+        "ری",
+        "نشاپور",
+        "نشاپور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 14
+    }
+  },
+  "686": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "بصره"
+      ],
+      "has_isnads": true,
+      "relationship_count": 12
+    }
+  },
+  "694": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "بغداد",
+        "عراق"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "عرفات",
+        "المزدلفة",
+        "البريد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "703": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "اصفهان",
+        "اصفهان",
+        "اصفهان",
+        "بصره",
+        "بصره"
+      ],
+      "has_isnads": true,
+      "relationship_count": 10
+    }
+  },
+  "704": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "حیره",
+        "نشابور",
+        "نشاپور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "761": {
+    "ansari": {
+      "death_date": {
+        "year_hijri": "304",
+        "full_text": "در قدیم برفته در اربع و ثلثمائه",
+        "certainty": "definite"
+      },
+      "places": [
+        "نشاپور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "نيسابور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "767": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "ترمذ",
+        "خراسان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "777": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 8
+    }
+  },
+  "79": {
+    "ansari": {
+      "death_date": {
+        "year_hijri": "374",
+        "full_text": "المقیم بالحرم و مات بها فی سنه اربع و سبعین و ثلثمائه",
+        "certainty": "definite"
+      },
+      "places": [
+        "طرسوس",
+        "حرم",
+        "مکه",
+        "مکه",
+        "مکه"
+      ],
+      "has_isnads": true,
+      "relationship_count": 16
+    }
+  },
+  "791": {
+    "ansari": {
+      "death_date": {
+        "year_hijri": "86",
+        "full_text": "توفی سنه ست و ثمانین.",
+        "certainty": "definite"
+      },
+      "places": [
+        "اصفهان",
+        "صباهان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    },
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "826": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "مغرب",
+        "مغرب",
+        "مغرب"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "86": {
+    "ansari": {
+      "death_date": null,
+      "places": [
+        "دینور",
+        "قهستان عراق",
+        "دینور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "89_لابیبکر الوراق رحمه اللّه": {
+    "ansari": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "94": {
+    "ansari": {
+      "death_date": {
+        "year_hijri": "386",
+        "full_text": "توفی بدمشق فی ذی الحجه سنه ست و ثمانین و ثلثمائه.",
+        "certainty": "definite"
+      },
+      "places": [
+        "سوس",
+        "شام",
+        "رمله",
+        "دمشق"
+      ],
+      "has_isnads": true,
+      "relationship_count": 11
+    }
+  },
+  "227": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "230": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الحفري",
+        "مسجد الحفري",
+        "نصيبين"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "231": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 7
+    }
+  },
+  "233": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "اليمن",
+        "البحر"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "234": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "البحر"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "235": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الديلم"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "237": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "جبل لبنان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "238": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "239": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "طامد",
+        "مكة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 8
+    }
+  },
+  "240": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "241": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "مصر"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "242": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 8
+    }
+  },
+  "244": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "246": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الشام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "247": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "قرميسين",
+        "الجبل"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "248": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "249": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "البادية"
+      ],
+      "has_isnads": true,
+      "relationship_count": 9
+    }
+  },
+  "250": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "252": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "أصبهان",
+        "المدينة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "269": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "270": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "المغرب"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "271": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "هراة",
+        "قزوين",
+        "هراة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "276": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "سمرقند",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "278": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "286": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "31": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "32": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الثغور"
+      ],
+      "has_isnads": false,
+      "relationship_count": 0
+    }
+  },
+  "348": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "361": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "بغداد",
+        "مسجد الشونيزية"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "366": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "367": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "368": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "369": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الرقة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "372": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "373": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "البادية"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "374": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "أبهر"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "383": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "386": {
+    "hilya": {
+      "death_date": {
+        "year_hijri": "245",
+        "full_text": "توفي بالبادية ونهشته السباع سنة خمس وأربعين ومائتين.",
+        "certainty": "definite"
+      },
+      "places": [
+        "نخشب",
+        "البادية",
+        "عرفات",
+        "جمع"
+      ],
+      "has_isnads": true,
+      "relationship_count": 16
+    }
+  },
+  "387": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الرملة",
+        "مكة",
+        "تبوك",
+        "الرملة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "389": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "البادية"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "390": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الفريانى"
+      ],
+      "has_isnads": true,
+      "relationship_count": 8
+    }
+  },
+  "391": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الحرم",
+        "مكة",
+        "البادية",
+        "الربذة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "392": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الحرم"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "393": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "القادسية",
+        "المغيثة",
+        "القرعاء",
+        "المدينة",
+        "مكة",
+        "منى",
+        "عرفات",
+        "مسجد الخيف",
+        "المقام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "394": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "بغداد",
+        "باب المحول",
+        "باب المحول"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "395": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الكوفة",
+        "بغداد",
+        "براثا"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    }
+  },
+  "399": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "401": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الشام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "402": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "406": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "براثى",
+        "براثى",
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "407": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "براثا"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "408": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 0
+    }
+  },
+  "411": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "حضرموت"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "417": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "البصرة"
+      ],
+      "has_isnads": false,
+      "relationship_count": 2
+    }
+  },
+  "420": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": false,
+      "relationship_count": 0
+    }
+  },
+  "423": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "427": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "مرو"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "428": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الشام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "429": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الطفاوي"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "430": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الطفاوي"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "433": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "بغداد",
+        "الكرخ"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "436": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "438": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الشام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "441": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "حمص"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "444": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "445": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "447": {
+    "hilya": {
+      "death_date": {
+        "year_hijri": "359",
+        "full_text": "توفي بصور سنة تسع وخمسين وثلاثمائة.",
+        "certainty": "definite"
+      },
+      "places": [
+        "روذبار",
+        "صور"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "448": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 10
+    }
+  },
+  "449": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "450": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 8
+    }
+  },
+  "452": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "بغداد"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "453": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "ثقيف"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "455": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "459": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "467": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 0
+    }
+  },
+  "471": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "بيت المقدس"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "473": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "طبرستان",
+        "الشام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "489": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الرحبة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "506": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "508": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "526": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "530": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "البصرة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "532": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "533": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "بالكام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "563": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "565": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "بلخ",
+        "الصادر",
+        "بلخ",
+        "الكوفة",
+        "مكة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    }
+  },
+  "567": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "نصيبين"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "574": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الجرواني"
+      ],
+      "has_isnads": false,
+      "relationship_count": 0
+    }
+  },
+  "581": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "586": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "البابي",
+        "البصرة",
+        "أصبهان",
+        "البصرة",
+        "البصرة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 16
+    }
+  },
+  "588": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الموصل"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "594": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "595": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الري",
+        "منى"
+      ],
+      "has_isnads": true,
+      "relationship_count": 18
+    }
+  },
+  "596": {
+    "hilya": {
+      "death_date": {
+        "year_hijri": "298",
+        "full_text": "وتوفي بها سنة ثمان وتسعين ومائتين",
+        "certainty": "definite"
+      },
+      "places": [
+        "الحيرة",
+        "الري",
+        "نيسابور",
+        "نيسابور",
+        "نيسابور",
+        "مقبرة الحيرة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 12
+    }
+  },
+  "597": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "حلب",
+        "دمشق"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "601": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "604": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الأنبار"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "606": {
+    "hilya": {
+      "death_date": {
+        "year_hijri": "276",
+        "full_text": "توفي سنة ست وسبعين ومائتين",
+        "certainty": "definite"
+      },
+      "places": [
+        "الأسفهرديري",
+        "أصبهان",
+        "الشام",
+        "الثغر",
+        "مصر"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    }
+  },
+  "609": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "نباج"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "616": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "617": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "البصرة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "618": {
+    "hilya": {
+      "death_date": {
+        "year_hijri": "235",
+        "full_text": "توفي سنة خمس وثلاثين ومائتين.",
+        "certainty": "definite"
+      },
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 9
+    }
+  },
+  "634": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "636": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "646": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "مسيلة"
+      ],
+      "has_isnads": false,
+      "relationship_count": 2
+    }
+  },
+  "650": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "مسجد التوبة",
+        "باب الشام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "656": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الري"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "660": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "المدينة",
+        "الثغر"
+      ],
+      "has_isnads": true,
+      "relationship_count": 7
+    }
+  },
+  "662": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "سنديلة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "663": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "674": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "676": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "681": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الكوفة",
+        "الكوفة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "683": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "اليمن"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "685": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "أصبهان",
+        "أصبهان"
+      ],
+      "has_isnads": false,
+      "relationship_count": 3
+    }
+  },
+  "690": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "جرجان",
+        "عبادان",
+        "بغداد",
+        "لكام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "691": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "692": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "فارس"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "693": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "695": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "696": {
+    "hilya": {
+      "death_date": {
+        "year_hijri": "225",
+        "full_text": "توفي سنة خمس وعشرين ومائتين.",
+        "certainty": "definite"
+      },
+      "places": [
+        "مكة",
+        "مكة",
+        "جبل طور سينا"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "698": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "حلب"
+      ],
+      "has_isnads": true,
+      "relationship_count": 9
+    }
+  },
+  "699": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "لكام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "710": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الكوفة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "711": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "مكة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "736": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "بغداد",
+        "الكعبة",
+        "دار يحيى البرمكي"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "740": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الديلم",
+        "بخارى"
+      ],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "744": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "755": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "759": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "مسجد الخيف"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "764": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "تكريت",
+        "موصل"
+      ],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "765": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "768": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "769": {
+    "hilya": {
+      "death_date": {
+        "year_hijri": "284",
+        "full_text": "فمات بها سنة أربع وثمانين ومائتين.",
+        "certainty": "definite"
+      },
+      "places": [
+        "ودنكان",
+        "طرسوس",
+        "طرسوس"
+      ],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "771": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "أصبهان"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "772": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "المدينة"
+      ],
+      "has_isnads": false,
+      "relationship_count": 1
+    }
+  },
+  "773": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "بغداد",
+        "طرسوس",
+        "باب الشام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 9
+    }
+  },
+  "774": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الكوفة"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "775": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "780": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "781": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "785": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "المغرب",
+        "مصر"
+      ],
+      "has_isnads": true,
+      "relationship_count": 12
+    }
+  },
+  "787": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 3
+    }
+  },
+  "788": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "789": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "طوس"
+      ],
+      "has_isnads": true,
+      "relationship_count": 12
+    }
+  },
+  "790": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الرملة",
+        "بغداد",
+        "مكة",
+        "الشام",
+        "بيت المقدس"
+      ],
+      "has_isnads": true,
+      "relationship_count": 9
+    }
+  },
+  "802": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "المغرب"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "803": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "804": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 5
+    }
+  },
+  "805": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "812": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "813": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "دير الخلق"
+      ],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "817": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 2
+    }
+  },
+  "818": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "832": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 4
+    }
+  },
+  "839": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الشام"
+      ],
+      "has_isnads": true,
+      "relationship_count": 6
+    }
+  },
+  "842": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "845": {
+    "hilya": {
+      "death_date": null,
+      "places": [],
+      "has_isnads": true,
+      "relationship_count": 1
+    }
+  },
+  "884": {
+    "hilya": {
+      "death_date": null,
+      "places": [
+        "الري"
+      ],
+      "has_isnads": true,
+      "relationship_count": 21
+    }
+  }
+}

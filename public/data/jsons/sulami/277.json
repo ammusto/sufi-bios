@@ -1,0 +1,454 @@
+{
+  "bio_id": "277",
+  "source": "sulami",
+  "death_date": null,
+  "geographical_locations": [
+    {
+      "place": "قرميسين",
+      "context": "nisba",
+      "full_text": "القرميسيني"
+    },
+    {
+      "place": "قرميسين",
+      "context": "lived",
+      "full_text": "بقرميسين"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد الْمعلم",
+          "person_id": 782,
+          "canonical_name": "عبد الله بن محمّد المعلم"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الله بن مُحَمَّد الْمعلم يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الشَّيْخ أَبُو زيد مُحَمَّد بن أَحْمد الْفَقِيه الْمروزِي",
+          "person_id": 91,
+          "canonical_name": "الشّيخ أبو زيد محمّد بن أحمد الفقيه المروزي"
+        },
+        {
+          "name": "إِبْرَاهِيم ابْن شَيبَان الزَّاهِد بقرميسين",
+          "person_id": 137,
+          "canonical_name": "إبراهيم ابن شيبان الزّاهد بقرميسين"
+        },
+        {
+          "name": "عَليّ بن الْحسن بن أبي الْغمر",
+          "person_id": 832,
+          "canonical_name": "عليّ بن الحسن بن أبي الغمر"
+        },
+        {
+          "name": "مَنْصُور بن أبي مُزَاحم",
+          "person_id": 1071,
+          "canonical_name": "منصور بن أبي مزاحم"
+        },
+        {
+          "name": "أَبُو شيبَة",
+          "person_id": 388,
+          "canonical_name": "أبو شيبة"
+        },
+        {
+          "name": "الحكم",
+          "person_id": 71,
+          "canonical_name": "الحكم"
+        },
+        {
+          "name": "مقسم",
+          "person_id": 1067,
+          "canonical_name": "مقسم"
+        },
+        {
+          "name": "ابْن عَبَّاس",
+          "person_id": 17,
+          "canonical_name": "ابن عبّاس"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حَدثنَا الشَّيْخ أَبُو زيد مُحَمَّد بن أَحْمد الْفَقِيه الْمروزِي قَالَ حَدثنَا إِبْرَاهِيم ابْن شَيبَان الزَّاهِد بقرميسين قَالَ حَدثنَا عَليّ بن الْحسن بن أبي الْغمر قَالَ حَدثنَا مَنْصُور بن أبي مُزَاحم قَالَ حَدثنَا أَبُو شيبَة عَن الحكم عَن مقسم عَن ابْن عَبَّاس قَالَ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الشَّيْخ أَبَا زيد",
+          "person_id": 89,
+          "canonical_name": "الشّيخ أبو زيد"
+        },
+        {
+          "name": "إِبْرَاهِيم بن شَيبَان",
+          "person_id": 156,
+          "canonical_name": "إبراهيم بن شيبان"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت الشَّيْخ أَبَا زيد يَقُول سَمِعت إِبْرَاهِيم بن شَيبَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "إِبْرَاهِيم",
+          "person_id": 134,
+          "canonical_name": "إبراهيم"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول يَقُول سَمِعت إِبْرَاهِيم يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "إِبْرَاهِيم",
+          "person_id": 134,
+          "canonical_name": "إبراهيم"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت إِبْرَاهِيم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "إِبْرَاهِيم",
+          "person_id": 134,
+          "canonical_name": "إبراهيم"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت إِبْرَاهِيم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "إِبْرَاهِيم",
+          "person_id": 134,
+          "canonical_name": "إبراهيم"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت إِبْرَاهِيم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "إِبْرَاهِيم",
+          "person_id": 134,
+          "canonical_name": "إبراهيم"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته مرّة أُخْرَى يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "إِبْرَاهِيم",
+          "person_id": 134,
+          "canonical_name": "إبراهيم"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته مرّة يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "إِبْرَاهِيم",
+          "person_id": 134,
+          "canonical_name": "إبراهيم"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته مرّة أُخْرَى يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "إِبْرَاهِيم بن شَيبَان",
+          "person_id": 156,
+          "canonical_name": "إبراهيم بن شيبان"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت إِبْرَاهِيم بن شَيبَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 305,
+          "canonical_name": "أبو بكر الرّازيّ"
+        },
+        {
+          "name": "إِبْرَاهِيم بن شَيبَان",
+          "person_id": 156,
+          "canonical_name": "إبراهيم بن شيبان"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت إِبْرَاهِيم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ مُحَمَّد بن إِبْرَاهِيم القصري",
+          "person_id": 458,
+          "canonical_name": "أبو عليّ محمّد بن إبراهيم القصري"
+        },
+        {
+          "name": "إِسْحَاق بن إِبْرَاهِيم بن شَيبَان",
+          "person_id": 167,
+          "canonical_name": "إسحاق بن إبراهيم بن شيبان"
+        },
+        {
+          "name": "إِبْرَاهِيم بن شَيبَان",
+          "person_id": 156,
+          "canonical_name": "إبراهيم بن شيبان"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا عَليّ مُحَمَّد بن إِبْرَاهِيم القصري يَقُول سَمِعت إِسْحَاق بن إِبْرَاهِيم بن شَيبَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ مُحَمَّد بن إِبْرَاهِيم القصري",
+          "person_id": 458,
+          "canonical_name": "أبو عليّ محمّد بن إبراهيم القصري"
+        },
+        {
+          "name": "إِسْحَاق بن إِبْرَاهِيم بن شَيبَان",
+          "person_id": 167,
+          "canonical_name": "إسحاق بن إبراهيم بن شيبان"
+        },
+        {
+          "name": "إِبْرَاهِيم بن شَيبَان",
+          "person_id": 156,
+          "canonical_name": "إبراهيم بن شيبان"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت إِسْحَاق يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ مُحَمَّد بن إِبْرَاهِيم القصري",
+          "person_id": 458,
+          "canonical_name": "أبو عليّ محمّد بن إبراهيم القصري"
+        },
+        {
+          "name": "إِسْحَاق بن إِبْرَاهِيم بن شَيبَان",
+          "person_id": 167,
+          "canonical_name": "إسحاق بن إبراهيم بن شيبان"
+        },
+        {
+          "name": "إِبْرَاهِيم بن شَيبَان",
+          "person_id": 156,
+          "canonical_name": "إبراهيم بن شيبان"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت إِسْحَاق يَقُول سَمِعت أبي يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ مُحَمَّد بن إِبْرَاهِيم القصري",
+          "person_id": 458,
+          "canonical_name": "أبو عليّ محمّد بن إبراهيم القصري"
+        },
+        {
+          "name": "إِسْحَاق بن إِبْرَاهِيم بن شَيبَان",
+          "person_id": 167,
+          "canonical_name": "إسحاق بن إبراهيم بن شيبان"
+        },
+        {
+          "name": "إِبْرَاهِيم بن شَيبَان",
+          "person_id": 156,
+          "canonical_name": "إبراهيم بن شيبان"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت إِبْرَاهِيم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "الشَّيْخ أَبَا زيد الْفَقِيه",
+          "person_id": 90,
+          "canonical_name": "الشّيخ أبو زيد الفقيه"
+        },
+        {
+          "name": "إِبْرَاهِيم بن شَيبَان",
+          "person_id": 156,
+          "canonical_name": "إبراهيم بن شيبان"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت الشَّيْخ أَبَا زيد الْفَقِيه يَقُول سَمِعت إِبْرَاهِيم بن شَيبَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الشَّيْخ أَبَا زيد الْفَقِيه",
+          "person_id": 90,
+          "canonical_name": "الشّيخ أبو زيد الفقيه"
+        },
+        {
+          "name": "إِبْرَاهِيم بن شَيبَان",
+          "person_id": 156,
+          "canonical_name": "إبراهيم بن شيبان"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت إِبْرَاهِيم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "الشَّيْخ أَبَا زيد الْفَقِيه",
+          "person_id": 90,
+          "canonical_name": "الشّيخ أبو زيد الفقيه"
+        },
+        {
+          "name": "إِبْرَاهِيم بن شَيبَان",
+          "person_id": 156,
+          "canonical_name": "إبراهيم بن شيبان"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت إِبْرَاهِيم يَقُول",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أَبَا عبد الله المغربي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَا عبد الله المغربي وَإِبْرَاهِيم الْخَواص",
+        "person_id": 413,
+        "canonical_name": "أبو عبد الله المغربي"
+      },
+      {
+        "name": "إِبْرَاهِيم الْخَواص",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَا عبد الله المغربي وَإِبْرَاهِيم الْخَواص",
+        "person_id": 140,
+        "canonical_name": "إبراهيم الخواص"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "الشَّيْخ أَبُو زيد مُحَمَّد بن أَحْمد الْفَقِيه الْمروزِي",
+      "relationship_type": "narrator",
+      "full_text": "حَدثنَا الشَّيْخ أَبُو زيد مُحَمَّد بن أَحْمد الْفَقِيه الْمروزِي",
+      "person_id": 91,
+      "canonical_name": "الشّيخ أبو زيد محمّد بن أحمد الفقيه المروزي"
+    },
+    {
+      "name": "الشَّيْخ أَبَا زيد",
+      "relationship_type": "narrator",
+      "full_text": "وَسمعت الشَّيْخ أَبَا زيد يَقُول سَمِعت إِبْرَاهِيم بن شَيبَان يَقُول",
+      "person_id": 89,
+      "canonical_name": "الشّيخ أبو زيد"
+    },
+    {
+      "name": "أَبَا بكر الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول يَقُول سَمِعت إِبْرَاهِيم يَقُول",
+      "person_id": 305,
+      "canonical_name": "أبو بكر الرّازيّ"
+    },
+    {
+      "name": "إِسْحَاق بن إِبْرَاهِيم بن شَيبَان",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت إِسْحَاق بن إِبْرَاهِيم بن شَيبَان يَقُول قَالَ لي أبي",
+      "person_id": 167,
+      "canonical_name": "إسحاق بن إبراهيم بن شيبان"
+    },
+    {
+      "name": "الشَّيْخ أَبَا زيد الْفَقِيه",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت الشَّيْخ أَبَا زيد الْفَقِيه يَقُول سَمِعت إِبْرَاهِيم بن شَيبَان يَقُول",
+      "person_id": 90,
+      "canonical_name": "الشّيخ أبو زيد الفقيه"
+    },
+    {
+      "name": "عبد الله بن مُحَمَّد بن منَازِل",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "سُئِلَ عَن إِبْرَاهِيم بن شَيبَان",
+      "full_text": "سُئِلَ عبد الله بن مُحَمَّد بن منَازِل عَن إِبْرَاهِيم بن شَيبَان فَقَالَ إِبْرَاهِيم حجَّة الله تَعَالَى على الْفُقَرَاء وَأهل الْآدَاب والمعاملات وَأسْندَ الحَدِيث",
+      "person_id": 790,
+      "canonical_name": "عبد الله بن محمّد بن منازل"
+    }
+  ]
+}

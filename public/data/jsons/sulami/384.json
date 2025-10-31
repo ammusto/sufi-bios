@@ -1,0 +1,147 @@
+{
+  "bio_id": "384",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "<360",
+    "full_text": "مَاتَ قبل السِّتين وثلاثمائة",
+    "certainty": "approximate"
+  },
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد بن جَعْفَر الشبهي",
+          "person_id": 969,
+          "canonical_name": "محمّد بن أحمد بن جعفر الشبهي"
+        },
+        {
+          "name": "جَعْفَر بن أبي نصر الْحَافِظ",
+          "person_id": 619,
+          "canonical_name": "جعفر بن أبي نصر الحافظ"
+        },
+        {
+          "name": "عبد الْوَارِث بن عبد الصَّمد",
+          "person_id": 807,
+          "canonical_name": "عبد الوارث بن عبد الصّمد"
+        },
+        {
+          "name": "أبي",
+          "person_id": 525,
+          "canonical_name": "أبي"
+        },
+        {
+          "name": "مُحَمَّد بن ثَابت الْبنانِيّ",
+          "person_id": 980,
+          "canonical_name": "محمّد بن ثابت البنانيّ"
+        },
+        {
+          "name": "ثَابت الْبنانِيّ",
+          "person_id": 612,
+          "canonical_name": "ثابت البنانيّ"
+        },
+        {
+          "name": "أنس ﵁",
+          "person_id": 583,
+          "canonical_name": "أنس بن مالك"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا مُحَمَّد بن أَحْمد بن جَعْفَر الشبهي قَالَ حَدثنَا جَعْفَر بن أبي نصر الْحَافِظ قَالَ حَدثنَا عبد الْوَارِث بن عبد الصَّمد قَالَ حَدثنَا أبي قَالَ حَدثنَا مُحَمَّد بن ثَابت الْبنانِيّ عَن ثَابت الْبنانِيّ عَن أنس ﵁",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد بن جَعْفَر الشبهي",
+          "person_id": 969,
+          "canonical_name": "محمّد بن أحمد بن جعفر الشبهي"
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سَمِعت مُحَمَّد بن أَحْمد بن جَعْفَر الشبهي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن الخباز",
+          "person_id": 187,
+          "canonical_name": "أبو الحسن الخباز"
+        },
+        {
+          "name": "مُحَمَّدًا الشبهي",
+          "person_id": 926,
+          "canonical_name": "محمّدًا الشبهي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحسن الخباز يَقُول سَمِعت مُحَمَّدًا الشبهي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن",
+          "person_id": 184,
+          "canonical_name": "أبو الحسن"
+        },
+        {
+          "name": "أَبَا بكر الشبهي",
+          "person_id": 310,
+          "canonical_name": "أبو بكر الشبهي"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت أَبَا الْحسن يَقُول سَمِعت أَبَا بكر الشبهي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن",
+          "person_id": 184,
+          "canonical_name": "أبو الحسن"
+        },
+        {
+          "name": "أَبَا بكر الشبهي",
+          "person_id": 310,
+          "canonical_name": "أبو بكر الشبهي"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أَبَا عُثْمَان الْحِيرِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَا عُثْمَان الْحِيرِي",
+        "person_id": 431,
+        "canonical_name": "أبو عثمان الحيري"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَبَا الْحسن الخباز",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْحسن الخباز يَقُول",
+      "person_id": 187,
+      "canonical_name": "أبو الحسن الخباز"
+    },
+    {
+      "name": "بعض أَصْحَابه",
+      "relationship_type": "interlocutor",
+      "full_text": "وَدخل عَلَيْهِ بعض أَصْحَابه فَقَالَ أَنا إِذا مشيت فِي السُّوق يَقُول النَّاس انْظُرُوا إِلَى خشوع هَذَا الْمُنَافِق",
+      "person_id": 595,
+      "canonical_name": "بعض أصحابه"
+    }
+  ]
+}

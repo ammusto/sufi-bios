@@ -1,0 +1,574 @@
+{
+  "bio_id": "245",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "342",
+    "full_text": "توفّي سنة اثْنَتَيْنِ وَأَرْبَعين وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "مرو",
+      "context": "lived",
+      "full_text": "كَانَ من أهل مرو"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ السياري",
+          "person_id": 802,
+          "canonical_name": "عبد الواحد بن عليّ السياري"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس الْقَاسِم بن الْقَاسِم السياري",
+          "person_id": 237,
+          "canonical_name": "أبو العبّاس القاسم بن القاسم السياري"
+        },
+        {
+          "name": "أَبُو الموجه مُحَمَّد بن عَمْرو بن الموجه",
+          "person_id": 291,
+          "canonical_name": "أبو الموجه محمّد بن عمرو بن الموجه"
+        },
+        {
+          "name": "عبد الله بن عُثْمَان",
+          "person_id": 770,
+          "canonical_name": "عبد الله بن عثمان"
+        },
+        {
+          "name": "أبي حَمْزَة",
+          "person_id": 362,
+          "canonical_name": "أبو حمزة"
+        },
+        {
+          "name": "الْأَعْمَش",
+          "person_id": 32,
+          "canonical_name": "الأعمش"
+        },
+        {
+          "name": "أبي صَالح",
+          "person_id": 389,
+          "canonical_name": "أبو صالح"
+        },
+        {
+          "name": "أبي هُرَيْرَة",
+          "person_id": 509,
+          "canonical_name": "أبو هريرة"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا عبد الْوَاحِد بن عَليّ السياري قَالَ حَدثنَا أَبُو الْعَبَّاس الْقَاسِم بن الْقَاسِم السياري حَدثنَا أَبُو الموجه مُحَمَّد بن عَمْرو بن الموجه أخبرنَا عبد الله بن عُثْمَان قَالَ قَرَأت على أبي حَمْزَة عَن الْأَعْمَش عَن أبي صَالح عَن أبي هُرَيْرَة ﵁ قَالَ قَالَ رَسُول الله ﷺ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ",
+          "person_id": 801,
+          "canonical_name": "عبد الواحد بن عليّ"
+        },
+        {
+          "name": "خَالِي أَبُو الْعَبَّاس",
+          "person_id": 643,
+          "canonical_name": "خالي أبو العبّاس"
+        },
+        {
+          "name": "أَحْمد بن عباد بن سُلَيْمَان",
+          "person_id": 547,
+          "canonical_name": "أحمد بن عباد بن سليمان"
+        },
+        {
+          "name": "مُحَمَّد بن عُبَيْدَة النافقاني",
+          "person_id": 1015,
+          "canonical_name": "محمّد بن عبيدة النافقاني"
+        },
+        {
+          "name": "عبد الله بن عبيد بن العامري",
+          "person_id": 769,
+          "canonical_name": "عبد الله بن عبيد بن العامري"
+        },
+        {
+          "name": "سُورَة بن شَدَّاد الزَّاهِد",
+          "person_id": 707,
+          "canonical_name": "سورة بن شدّاد الزّاهد"
+        },
+        {
+          "name": "سُفْيَان الثَّوْريّ",
+          "person_id": 692,
+          "canonical_name": "سفيان الثّوريّ"
+        },
+        {
+          "name": "إِبْرَاهِيم بن أدهم",
+          "person_id": 152,
+          "canonical_name": "إبراهيم بن أدهم"
+        },
+        {
+          "name": "مُوسَى بن يزِيد",
+          "person_id": 1080,
+          "canonical_name": "موسى بن يزيد"
+        },
+        {
+          "name": "أويس الْقَرنِي",
+          "person_id": 584,
+          "canonical_name": "أويس القرني"
+        },
+        {
+          "name": "عَليّ بن أبي طَالب",
+          "person_id": 840,
+          "canonical_name": "عليّ بن أبي طالب"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَأخْبرنَا عبد الْوَاحِد بن عَليّ قَالَ أخبرنَا خَالِي أَبُو الْعَبَّاس قَالَ حَدثنَا أَحْمد بن عباد بن سُلَيْمَان وَكَانَ من الزهاد قَالَ حَدثنَا مُحَمَّد بن عُبَيْدَة النافقاني قَالَ حَدثنَا عبد الله بن عبيد بن العامري حَدثنَا سُورَة بن شَدَّاد الزَّاهِد عَن سُفْيَان الثَّوْريّ عَن إِبْرَاهِيم بن أدهم عَن مُوسَى بن يزِيد عَن أويس الْقَرنِي عَن عَليّ بن أبي طَالب كرم الله وَجهه قَالَ قَالَ رَسُول الله ﷺ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ السياري",
+          "person_id": 802,
+          "canonical_name": "عبد الواحد بن عليّ السياري"
+        },
+        {
+          "name": "خَالِي أَبَا الْعَبَّاس السياري",
+          "person_id": 644,
+          "canonical_name": "خالي أبو العبّاس السياري"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الْوَاحِد بن عَليّ السياري يَقُول سَمِعت خَالِي أَبَا الْعَبَّاس السياري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ السياري",
+          "person_id": 802,
+          "canonical_name": "عبد الواحد بن عليّ السياري"
+        },
+        {
+          "name": "خَالِي أَبَا الْعَبَّاس السياري",
+          "person_id": 644,
+          "canonical_name": "خالي أبو العبّاس السياري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَوْمًا",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ السياري",
+          "person_id": 802,
+          "canonical_name": "عبد الواحد بن عليّ السياري"
+        },
+        {
+          "name": "خَالِي أَبَا الْعَبَّاس السياري",
+          "person_id": 644,
+          "canonical_name": "خالي أبو العبّاس السياري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْعَبَّاس",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ",
+          "person_id": 801,
+          "canonical_name": "عبد الواحد بن عليّ"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الْوَاحِد بن عَليّ قَالَ سُئِلَ أَبُو الْعَبَّاس عَن الْمعرفَة فَقَالَ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ",
+          "person_id": 801,
+          "canonical_name": "عبد الواحد بن عليّ"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْعَبَّاس ايضا",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ",
+          "person_id": 801,
+          "canonical_name": "عبد الواحد بن عليّ"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْعَبَّاس مَا التذ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ",
+          "person_id": 801,
+          "canonical_name": "عبد الواحد بن عليّ"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْعَبَّاس من عرف الله",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ",
+          "person_id": 801,
+          "canonical_name": "عبد الواحد بن عليّ"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْعَبَّاس مَا نطق أحد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ",
+          "person_id": 801,
+          "canonical_name": "عبد الواحد بن عليّ"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْعَبَّاس الْحق إِذا لاحظ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ",
+          "person_id": 801,
+          "canonical_name": "عبد الواحد بن عليّ"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْعَبَّاس من حفظ قلبه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ",
+          "person_id": 801,
+          "canonical_name": "عبد الواحد بن عليّ"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ قَالَ أَبُو الْعَبَّاس",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ",
+          "person_id": 801,
+          "canonical_name": "عبد الواحد بن عليّ"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ أَبُو الْعَبَّاس عَن قَوْله تَعَالَى ﴿وألزمهم كلمة التَّقْوَى وَكَانُوا أَحَق بهَا وَأَهْلهَا﴾ الْفَتْح ٢٦ فَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ",
+          "person_id": 801,
+          "canonical_name": "عبد الواحد بن عليّ"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْعَبَّاس مَا استقام إِيمَان عبد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ",
+          "person_id": 801,
+          "canonical_name": "عبد الواحد بن عليّ"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْعَبَّاس حسوس قصرت",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ",
+          "person_id": 801,
+          "canonical_name": "عبد الواحد بن عليّ"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْعَبَّاس ظلم الأطماع",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ",
+          "person_id": 801,
+          "canonical_name": "عبد الواحد بن عليّ"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الْوَاحِد بن عَليّ يَقُول قَالَ أَبُو الْعَبَّاس",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ",
+          "person_id": 801,
+          "canonical_name": "عبد الواحد بن عليّ"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا الْعَبَّاس يَقُول فِي قَوْله تَعَالَى ﴿كل يَوْم هُوَ فِي شَأْن﴾ الرَّحْمَن ٢٩ قَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ",
+          "person_id": 801,
+          "canonical_name": "عبد الواحد بن عليّ"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ لَهُ رجل أوصني فَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ",
+          "person_id": 801,
+          "canonical_name": "عبد الواحد بن عليّ"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْعَبَّاس لِبَاس الْهِدَايَة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ",
+          "person_id": 801,
+          "canonical_name": "عبد الواحد بن عليّ"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْعَبَّاس قيل لبَعض الْحُكَمَاء",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ",
+          "person_id": 801,
+          "canonical_name": "عبد الواحد بن عليّ"
+        },
+        {
+          "name": "أَبُو الْعَبَّاس",
+          "person_id": 227,
+          "canonical_name": "أبو العبّاس"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْعَبَّاس من دقق النّظر",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ السياري",
+          "person_id": 802,
+          "canonical_name": "عبد الواحد بن عليّ السياري"
+        },
+        {
+          "name": "أَبَا الْعَبَّاس السياري",
+          "person_id": 233,
+          "canonical_name": "أبو العبّاس السياري"
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الْوَاحِد بن عَليّ السياري يَقُول سَمِعت أَبَا الْعَبَّاس السياري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ السياري",
+          "person_id": 802,
+          "canonical_name": "عبد الواحد بن عليّ السياري"
+        },
+        {
+          "name": "أَبَا الْعَبَّاس السياري",
+          "person_id": 233,
+          "canonical_name": "أبو العبّاس السياري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا الْعَبَّاس السياري يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن عَليّ السياري",
+          "person_id": 802,
+          "canonical_name": "عبد الواحد بن عليّ السياري"
+        },
+        {
+          "name": "أَبَا الْعَبَّاس السياري",
+          "person_id": 233,
+          "canonical_name": "أبو العبّاس السياري"
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَكَثِيرًا مَا كَانَ أَبُو الْعَبَّاس ينشد هذَيْن الْبَيْتَيْنِ",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "أَبَا بكر مُحَمَّد بن مُوسَى الفرغاني الوَاسِطِيّ",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَا بكر مُحَمَّد بن مُوسَى الفرغاني الوَاسِطِيّ",
+        "person_id": 318,
+        "canonical_name": "أبو بكر الواسطيّ"
+      },
+      {
+        "name": "أَبَا بكر مُحَمَّد بن مُوسَى الفرغاني الوَاسِطِيّ",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ينتمي",
+        "full_text": "وَإِلَيْهِ ينتمي فِي عُلُوم هَذِه الطَّائِفَة",
+        "person_id": 318,
+        "canonical_name": "أبو بكر الواسطيّ"
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "عبد الْوَاحِد بن عَليّ السياري",
+      "relationship_type": "narrator",
+      "full_text": "أخبرنَا عبد الْوَاحِد بن عَليّ السياري قَالَ حَدثنَا أَبُو الْعَبَّاس الْقَاسِم بن الْقَاسِم السياري",
+      "person_id": 802,
+      "canonical_name": "عبد الواحد بن عليّ السياري"
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "context": "أوصني",
+      "full_text": "قَالَ وَقَالَ لَهُ رجل أوصني فَقَالَ",
+      "person_id": 658,
+      "canonical_name": "رجل"
+    }
+  ]
+}

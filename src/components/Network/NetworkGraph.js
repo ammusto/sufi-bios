@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState, useCallback } from 'react';
+import React, { useEffect, useRef, useState, useCallback, useMemo } from 'react';
 import cytoscape from 'cytoscape';
 import fcose from 'cytoscape-fcose';
 import cola from 'cytoscape-cola';
@@ -9,6 +9,9 @@ import './NetworkGraph.css';
 cytoscape.use(fcose);
 cytoscape.use(cola);
 
+// Cache for layout positions
+const layoutCache = new Map();
+
 const NetworkGraph = ({ 
   elements, 
   onNodeSelect, 
@@ -17,17 +20,22 @@ const NetworkGraph = ({
   height = '600px',
   showStats = true,
   highlightNode = null,
-  styleConfig = {}
+  metrics = null
 }) => {
   const containerRef = useRef(null);
   const cyRef = useRef(null);
   const [stats, setStats] = useState(null);
-  const [selectedNode, setSelectedNode] = useState(null);
-  const [selectedEdge, setSelectedEdge] = useState(null);
   const [isLoading, setIsLoading] = useState(true);
+  const [layoutProgress, setLayoutProgress] = useState(0);
 
-  // Default styles
-  const defaultStyle = [
+  // Generate cache key for current element set
+  const cacheKey = useMemo(() => {
+    if (!elements) return null;
+    return `${elements.nodes.length}-${elements.edges.length}-${layout}`;
+  }, [elements, layout]);
+
+  // Optimized styles with edge aggregation support
+  const cytoscapeStyle = useMemo(() => [
     // Node styles
     {
       selector: 'node',
@@ -40,10 +48,18 @@ const NetworkGraph = ({
         'color': '#fff',
         'text-outline-width': 2,
         'text-outline-color': '#666',
-        'width': 30,
-        'height': 30,
         'border-width': 2,
-        'border-color': '#666'
+        'border-color': '#666',
+        // Use fixed size initially, can enhance later
+        'width': 30,
+        'height': 30
+      }
+    },
+    {
+      selector: 'node[width]',
+      style: {
+        'width': 'data(width)',
+        'height': 'data(height)'
       }
     },
     {
@@ -52,18 +68,48 @@ const NetworkGraph = ({
         'background-color': '#ff6b6b',
         'border-color': '#ff6b6b',
         'border-width': 3,
-        'width': 40,
-        'height': 40
+        'z-index': 999
+      }
+    },
+    // Edge styles
+    {
+      selector: 'edge',
+      style: {
+        'curve-style': 'bezier',
+        'target-arrow-shape': 'triangle',
+        'width': 2,
+        'line-color': '#ccc',
+        'target-arrow-color': '#ccc',
+        'opacity': 0.6
       }
     },
     {
-      selector: 'node.highlighted',
+      selector: 'edge[width]',
       style: {
-        'background-color': '#4dabf7',
-        'border-color': '#339af0',
-        'border-width': 3,
-        'width': 40,
-        'height': 40
+        'width': 'data(width)'
+      }
+    },
+    {
+      selector: 'edge[opacity]',
+      style: {
+        'opacity': 'data(opacity)'
+      }
+    },
+    {
+      selector: 'edge[color]',
+      style: {
+        'line-color': 'data(color)',
+        'target-arrow-color': 'data(color)'
+      }
+    },
+    {
+      selector: 'edge[label]',
+      style: {
+        'label': 'data(label)',
+        'font-size': '10px',
+        'text-background-color': 'white',
+        'text-background-opacity': 0.8,
+        'text-background-padding': 2
       }
     },
     // Source-specific node colors
@@ -87,177 +133,111 @@ const NetworkGraph = ({
         'background-color': '#69db7c',
         'border-color': '#51cf66'
       }
-    },
-    // Edge styles
-    {
-      selector: 'edge',
-      style: {
-        'width': 2,
-        'line-color': '#ccc',
-        'target-arrow-color': '#ccc',
-        'target-arrow-shape': 'triangle',
-        'curve-style': 'bezier',
-        'opacity': 0.7
-      }
-    },
-    {
-      selector: 'edge:selected',
-      style: {
-        'width': 4,
-        'line-color': '#ff6b6b',
-        'target-arrow-color': '#ff6b6b',
-        'opacity': 1
-      }
-    },
-    // Relationship type styles
-    {
-      selector: 'edge.teacher_student',
-      style: {
-        'line-color': '#4c6ef5',
-        'target-arrow-color': '#4c6ef5'
-      }
-    },
-    {
-      selector: 'edge.companion',
-      style: {
-        'line-color': '#15aabf',
-        'target-arrow-color': '#15aabf',
-        'target-arrow-shape': 'none'
-      }
-    },
-    {
-      selector: 'edge.isnad_transmission',
-      style: {
-        'line-color': '#fab005',
-        'target-arrow-color': '#fab005',
-        'line-style': 'dashed'
-      }
-    },
-    {
-      selector: 'edge.associate',
-      style: {
-        'line-color': '#ae3ec9',
-        'target-arrow-color': '#ae3ec9',
-        'target-arrow-shape': 'none',
-        'line-style': 'dotted'
-      }
-    },
-    // Hover effects
-    {
-      selector: 'node.hover',
-      style: {
-        'background-color': '#ffd43b',
-        'border-color': '#fab005',
-        'z-index': 999
-      }
-    },
-    {
-      selector: 'edge.hover',
-      style: {
-        'line-color': '#ff6b6b',
-        'width': 3,
-        'z-index': 999
-      }
     }
-  ];
+  ], []);
 
-  // Layout configurations
-  const layoutConfigs = {
+  // Optimized layout configurations
+  const layoutConfigs = useMemo(() => ({
     fcose: {
       name: 'fcose',
-      quality: 'default',
-      randomize: true,
-      animate: true,
-      animationDuration: 1000,
-      animationEasing: 'ease-out',
+      quality: 'default', // Use 'default' instead of 'proof' for faster layout
+      randomize: !layoutCache.has(cacheKey),
+      animate: false, // No animation for initial layout
       fit: true,
       padding: 50,
-      nodeDimensionsIncludeLabels: true,
+      nodeDimensionsIncludeLabels: false,
       uniformNodeDimensions: false,
       packComponents: true,
+      // Simplified force settings for better performance
       nodeRepulsion: 4500,
       idealEdgeLength: 50,
       edgeElasticity: 0.45,
       nestingFactor: 0.1,
       gravity: 0.25,
-      numIter: 2500,
+      numIter: 1000, // Reduced iterations for faster initial layout
       tile: true,
       tilingPaddingVertical: 10,
       tilingPaddingHorizontal: 10,
-      gravityRangeCompound: 1.5,
-      gravityCompound: 1.0,
-      stop: function() { setIsLoading(false); }
+      stop: function() { 
+        setIsLoading(false);
+        setLayoutProgress(100);
+        // Cache the layout
+        if (cyRef.current && cacheKey) {
+          const positions = {};
+          cyRef.current.nodes().forEach(node => {
+            positions[node.id()] = node.position();
+          });
+          layoutCache.set(cacheKey, positions);
+          console.log(`Cached layout for ${cacheKey}`);
+        }
+      }
     },
-    cola: {
-      name: 'cola',
-      animate: true,
-      randomize: false,
+    cose: {
+      name: 'cose',
+      animate: false,
+      randomize: true,
       fit: true,
       padding: 50,
-      nodeSpacing: 50,
-      edgeLength: 100,
-      maxSimulationTime: 4000,
-      stop: function() { setIsLoading(false); }
+      nodeRepulsion: 400000,
+      idealEdgeLength: 100,
+      edgeElasticity: 100,
+      nestingFactor: 5,
+      gravity: 80,
+      numIter: 1000,
+      initialTemp: 200,
+      coolingFactor: 0.95,
+      minTemp: 1.0,
+      stop: function() {
+        setIsLoading(false);
+        setLayoutProgress(100);
+      }
     },
-    circle: {
-      name: 'circle',
+    preset: {
+      name: 'preset',
+      positions: layoutCache.get(cacheKey) || undefined,
+      animate: true,
+      animationDuration: 500,
       fit: true,
       padding: 50,
-      animate: true,
-      animationDuration: 1000,
-      radius: undefined,
-      startAngle: 3 / 2 * Math.PI,
-      sweep: undefined,
-      clockwise: true,
-      sort: undefined,
-      stop: function() { setIsLoading(false); }
-    },
-    concentric: {
-      name: 'concentric',
-      fit: true,
-      padding: 50,
-      animate: true,
-      animationDuration: 1000,
-      concentric: function(node) {
-        return node.degree();
-      },
-      levelWidth: function() {
-        return 2;
-      },
-      stop: function() { setIsLoading(false); }
-    },
-    breadthfirst: {
-      name: 'breadthfirst',
-      fit: true,
-      directed: false,
-      padding: 50,
-      circle: false,
-      grid: false,
-      spacingFactor: 1.25,
-      animate: true,
-      animationDuration: 1000,
-      stop: function() { setIsLoading(false); }
+      stop: function() { 
+        setIsLoading(false);
+        setLayoutProgress(100);
+      }
     }
-  };
+  }), [cacheKey]);
 
   // Initialize Cytoscape
   useEffect(() => {
-    if (!containerRef.current || !elements) return;
+    if (!containerRef.current || !elements || elements.nodes.length === 0) return;
 
+    console.log(`Initializing Cytoscape with ${elements.nodes.length} nodes, ${elements.edges.length} edges`);
     setIsLoading(true);
+    setLayoutProgress(0);
+
+    // Check if we have cached positions
+    const hasCache = layoutCache.has(cacheKey);
+    if (hasCache) {
+      console.log('Using cached layout positions');
+    }
 
     // Create Cytoscape instance
     const cy = cytoscape({
       container: containerRef.current,
       elements: [...elements.nodes, ...elements.edges],
-      style: [...defaultStyle, ...(styleConfig.styles || [])],
-      layout: layoutConfigs[layout] || layoutConfigs.fcose,
+      style: cytoscapeStyle,
+      // Use cached layout if available
+      layout: hasCache ? layoutConfigs.preset : layoutConfigs[layout],
       minZoom: 0.1,
       maxZoom: 3,
       wheelSensitivity: 0.2,
       boxSelectionEnabled: true,
       autounselectify: false,
-      selectionType: 'single'
+      selectionType: 'single',
+      // Performance optimizations
+      textureOnViewport: true,
+      motionBlur: true,
+      motionBlurOpacity: 0.2,
+      pixelRatio: 'auto'
     });
 
     cyRef.current = cy;
@@ -265,8 +245,6 @@ const NetworkGraph = ({
     // Event handlers
     cy.on('tap', 'node', (evt) => {
       const node = evt.target;
-      setSelectedNode(node.data());
-      setSelectedEdge(null);
       if (onNodeSelect) {
         onNodeSelect(node.data());
       }
@@ -274,51 +252,33 @@ const NetworkGraph = ({
 
     cy.on('tap', 'edge', (evt) => {
       const edge = evt.target;
-      setSelectedEdge(edge.data());
-      setSelectedNode(null);
       if (onEdgeSelect) {
         onEdgeSelect(edge.data());
       }
     });
 
-    cy.on('tap', (evt) => {
-      if (evt.target === cy) {
-        setSelectedNode(null);
-        setSelectedEdge(null);
-      }
-    });
-
-    // Hover effects
-    cy.on('mouseover', 'node', (evt) => {
-      evt.target.addClass('hover');
-      containerRef.current.style.cursor = 'pointer';
-    });
-
-    cy.on('mouseout', 'node', (evt) => {
-      evt.target.removeClass('hover');
-      containerRef.current.style.cursor = 'default';
-    });
-
-    cy.on('mouseover', 'edge', (evt) => {
-      evt.target.addClass('hover');
-      containerRef.current.style.cursor = 'pointer';
-    });
-
-    cy.on('mouseout', 'edge', (evt) => {
-      evt.target.removeClass('hover');
-      containerRef.current.style.cursor = 'default';
-    });
-
     // Calculate stats
-    if (showStats) {
-      const networkStats = calculateNetworkStats(elements);
+    if (showStats && metrics) {
+      const networkStats = calculateNetworkStats(elements, metrics);
       setStats(networkStats);
+    }
+
+    // Layout progress tracking
+    if (!hasCache) {
+      const progressInterval = setInterval(() => {
+        setLayoutProgress(prev => Math.min(prev + 10, 90));
+      }, 200);
+
+      cy.one('layoutstop', () => {
+        clearInterval(progressInterval);
+        setLayoutProgress(100);
+      });
     }
 
     return () => {
       cy.destroy();
     };
-  }, [elements, layout, onNodeSelect, onEdgeSelect, showStats, styleConfig]);
+  }, [elements, layout, onNodeSelect, onEdgeSelect, showStats, cytoscapeStyle, layoutConfigs, cacheKey, metrics]);
 
   // Handle highlighting
   useEffect(() => {
@@ -349,7 +309,7 @@ const NetworkGraph = ({
     setIsLoading(true);
     const layoutConfig = layoutConfigs[newLayout] || layoutConfigs.fcose;
     cyRef.current.layout(layoutConfig).run();
-  }, []);
+  }, [layoutConfigs]);
 
   const fitView = useCallback(() => {
     if (!cyRef.current) return;
@@ -361,28 +321,24 @@ const NetworkGraph = ({
     cyRef.current.reset();
   }, []);
 
-  const exportImage = useCallback(() => {
-    if (!cyRef.current) return;
-    
-    const png64 = cyRef.current.png({
-      output: 'blob',
-      bg: 'white',
-      scale: 2
-    });
-    
-    // Create download link
-    const link = document.createElement('a');
-    link.href = URL.createObjectURL(png64);
-    link.download = 'network-graph.png';
-    link.click();
-  }, []);
+  const clearCache = useCallback(() => {
+    layoutCache.clear();
+    console.log('Layout cache cleared');
+    if (cyRef.current) {
+      setIsLoading(true);
+      cyRef.current.layout(layoutConfigs[layout]).run();
+    }
+  }, [layout, layoutConfigs]);
 
   return (
     <div className="network-graph-container">
       {isLoading && (
         <div className="network-loading">
           <div className="loading-spinner"></div>
-          <div>Rendering network...</div>
+          <div>Calculating layout... {layoutProgress}%</div>
+          <div className="loading-progress">
+            <div className="loading-progress-bar" style={{ width: `${layoutProgress}%` }}></div>
+          </div>
         </div>
       )}
       
@@ -391,17 +347,15 @@ const NetworkGraph = ({
           <label>Layout:</label>
           <select onChange={(e) => changeLayout(e.target.value)} defaultValue={layout}>
             <option value="fcose">Force-Directed (fcose)</option>
-            <option value="cola">Cola</option>
-            <option value="circle">Circle</option>
-            <option value="concentric">Concentric</option>
-            <option value="breadthfirst">Breadth-First</option>
+            <option value="cose">Force-Directed (cose)</option>
+            <option value="preset">Cached</option>
           </select>
         </div>
         
         <div className="control-buttons">
           <button onClick={fitView}>Fit View</button>
           <button onClick={resetView}>Reset</button>
-          <button onClick={exportImage}>Export Image</button>
+          <button onClick={clearCache}>Clear Cache</button>
         </div>
       </div>
 
@@ -422,49 +376,17 @@ const NetworkGraph = ({
             <span className="stat-value">{stats.edgeCount}</span>
           </div>
           <div className="stat">
-            <span className="stat-label">Density:</span>
-            <span className="stat-value">{stats.density.toFixed(4)}</span>
+            <span className="stat-label">Total Connections:</span>
+            <span className="stat-value">{stats.totalConnections}</span>
+          </div>
+          <div className="stat">
+            <span className="stat-label">Max per Edge:</span>
+            <span className="stat-value">{stats.maxConnections}</span>
           </div>
           <div className="stat">
             <span className="stat-label">Avg Degree:</span>
             <span className="stat-value">{stats.avgDegree.toFixed(2)}</span>
           </div>
-        </div>
-      )}
-
-      {selectedNode && (
-        <div className="selection-info">
-          <h4>Selected Node</h4>
-          <div className="info-item">
-            <strong>Name:</strong> {selectedNode.label}
-          </div>
-          {selectedNode.deathDate && (
-            <div className="info-item">
-              <strong>Death:</strong> {selectedNode.deathDate.year_hijri} AH
-            </div>
-          )}
-          {selectedNode.sources && selectedNode.sources.length > 0 && (
-            <div className="info-item">
-              <strong>Sources:</strong> {selectedNode.sources.join(', ')}
-            </div>
-          )}
-        </div>
-      )}
-
-      {selectedEdge && (
-        <div className="selection-info">
-          <h4>Selected Edge</h4>
-          <div className="info-item">
-            <strong>Type:</strong> {selectedEdge.type}
-          </div>
-          <div className="info-item">
-            <strong>Source Text:</strong> {selectedEdge.textSource}
-          </div>
-          {selectedEdge.context && (
-            <div className="info-item">
-              <strong>Context:</strong> {selectedEdge.context}
-            </div>
-          )}
         </div>
       )}
     </div>

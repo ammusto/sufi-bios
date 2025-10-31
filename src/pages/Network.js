@@ -5,13 +5,13 @@ import {
   NetworkGraph, 
   NetworkFilters, 
   NetworkStats,
-  NetworkLegend,
+  NetworkLegend
+} from '../components/Network';
+import { 
   loadNetworkData,
   buildCytoscapeElements,
-  getEgoNetwork,
-  getBioNetwork,
-  getTransmissionNetwork
-} from '../components/Network';
+  getEgoNetwork
+} from '../utils/networkDataLoader';
 import Loading from '../components/common/Loading';
 import './Network.css';
 
@@ -19,11 +19,7 @@ const Network = () => {
   const [searchParams, setSearchParams] = useSearchParams();
   
   // Data states
-  const [registry, setRegistry] = useState(null);
-  const [relationships, setRelationships] = useState(null);
-  const [metrics, setMetrics] = useState(null);
-  const [keyFigures, setKeyFigures] = useState(null);
-  const [temporal, setTemporal] = useState(null);
+  const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   const dataLoadedRef = useRef(false);
@@ -32,7 +28,7 @@ const Network = () => {
   const [elements, setElements] = useState({ nodes: [], edges: [] });
   const [filters, setFilters] = useState({});
   const [selectedNode, setSelectedNode] = useState(null);
-  const [viewType, setViewType] = useState(searchParams.get('view') || 'full');
+  const [viewType, setViewType] = useState(searchParams.get('view') || 'top');
   const [layout, setLayout] = useState('fcose');
   const [showFilters, setShowFilters] = useState(true);
   const [showStats, setShowStats] = useState(true);
@@ -48,22 +44,19 @@ const Network = () => {
         setLoading(true);
         console.log('Loading network data...');
         
-        // Load core data
-        const data = await loadNetworkData('full');
+        // Load all data with optimized loader
+        const loadedData = await loadNetworkData();
         
-        if (!data.registry || !data.relationships) {
+        if (!loadedData.registry || !loadedData.relationships) {
           throw new Error('Core network data is missing');
         }
         
-        console.log('Loaded registry:', Object.keys(data.registry).length, 'people');
-        console.log('Loaded relationships:', data.relationships.edges.length, 'edges');
+        console.log('Loaded registry:', Object.keys(loadedData.registry).length, 'people');
+        console.log('Loaded relationships:', loadedData.relationships.edges.length, 'edges');
+        console.log('Loaded network index:', loadedData.networkIndex ? 'Yes' : 'No');
+        console.log('Loaded metrics:', loadedData.metrics ? 'Yes' : 'No');
         
-        setRegistry(data.registry);
-        setRelationships(data.relationships);
-        setMetrics(data.metrics || null);
-        setKeyFigures(data.keyFigures || null);
-        setTemporal(data.temporal || null);
-        
+        setData(loadedData);
         setError(null);
       } catch (err) {
         console.error('Failed to load network data:', err);
@@ -78,152 +71,82 @@ const Network = () => {
 
   // Build network elements based on view type and filters
   useEffect(() => {
-    if (!registry || !relationships) return;
+    if (!data) return;
 
     let newElements = { nodes: [], edges: [] };
     
     // Get view parameters from URL
     const personId = searchParams.get('person');
-    const bioId = searchParams.get('bio');
     const source = searchParams.get('source');
     const degree = parseInt(searchParams.get('degree')) || 1;
 
     switch (viewType) {
       case 'ego':
         if (personId) {
-          newElements = getEgoNetwork(personId, registry, relationships, degree);
-        }
-        break;
-        
-      case 'bio':
-        if (bioId) {
-          newElements = getBioNetwork(bioId, registry, relationships);
-        }
-        break;
-        
-      case 'transmission':
-        if (personId) {
-          newElements = getTransmissionNetwork(personId, registry, relationships);
+          newElements = getEgoNetwork(
+            personId, 
+            data.registry, 
+            data.networkIndex,
+            data.relationships, 
+            data.metrics,
+            degree
+          );
         }
         break;
         
       case 'source':
-        newElements = buildCytoscapeElements(registry, relationships, {
-          filterSource: source || 'sulami',
-          maxNodes: 500
-        });
+        newElements = buildCytoscapeElements(
+          data.registry, 
+          data.relationships,
+          data.networkIndex,
+          data.metrics,
+          {
+            sources: [source || 'sulami']
+          }
+        );
+        break;
+        
+      case 'top':
+        // Show top 500 most connected nodes
+        newElements = buildCytoscapeElements(
+          data.registry, 
+          data.relationships,
+          data.networkIndex,
+          data.metrics,
+          {
+            maxNodes: 500
+          }
+        );
+        break;
+        
+      case 'top1000':
+        // Show top 1000 most connected nodes
+        newElements = buildCytoscapeElements(
+          data.registry, 
+          data.relationships,
+          data.networkIndex,
+          data.metrics,
+          {
+            maxNodes: 1000
+          }
+        );
         break;
         
       case 'full':
       default:
-        // For full network, limit initial nodes for performance
-        newElements = buildCytoscapeElements(registry, relationships, {
-          maxNodes: showFilters ? null : 300
-        });
+        // Full network with all nodes
+        newElements = buildCytoscapeElements(
+          data.registry, 
+          data.relationships,
+          data.networkIndex,
+          data.metrics,
+          filters
+        );
         break;
     }
 
-    // Apply filters
-    if (filters && Object.keys(filters).length > 0) {
-      newElements = applyFilters(newElements, filters);
-    }
-
     setElements(newElements);
-  }, [registry, relationships, viewType, filters, searchParams, showFilters]);
-
-  // Apply filters to elements
-  const applyFilters = useCallback((elements, filters) => {
-    let filteredNodes = [...elements.nodes];
-    let filteredEdges = [...elements.edges];
-
-    // Search filter
-    if (filters.searchTerm) {
-      const searchLower = filters.searchTerm.toLowerCase();
-      filteredNodes = filteredNodes.filter(node => 
-        node.data.label?.toLowerCase().includes(searchLower) ||
-        node.data.variants?.some(v => v.toLowerCase().includes(searchLower))
-      );
-      
-      // Keep only edges between filtered nodes
-      const nodeIds = new Set(filteredNodes.map(n => n.data.id));
-      filteredEdges = filteredEdges.filter(edge => 
-        nodeIds.has(edge.data.source) && nodeIds.has(edge.data.target)
-      );
-    }
-
-    // Source filter
-    if (filters.sources && filters.sources.length > 0) {
-      filteredNodes = filteredNodes.filter(node =>
-        node.data.sources?.some(s => filters.sources.includes(s))
-      );
-      
-      const nodeIds = new Set(filteredNodes.map(n => n.data.id));
-      filteredEdges = filteredEdges.filter(edge =>
-        nodeIds.has(edge.data.source) && nodeIds.has(edge.data.target)
-      );
-    }
-
-    // Relationship type filter
-    if (filters.relationshipTypes && filters.relationshipTypes.length > 0) {
-      filteredEdges = filteredEdges.filter(edge =>
-        filters.relationshipTypes.includes(edge.data.type)
-      );
-    }
-
-    // Date range filter
-    if (filters.dateRange?.min || filters.dateRange?.max) {
-      filteredNodes = filteredNodes.filter(node => {
-        if (!node.data.deathDate?.year_hijri) return false;
-        const year = parseInt(node.data.deathDate.year_hijri);
-        const minOk = !filters.dateRange.min || year >= filters.dateRange.min;
-        const maxOk = !filters.dateRange.max || year <= filters.dateRange.max;
-        return minOk && maxOk;
-      });
-      
-      const nodeIds = new Set(filteredNodes.map(n => n.data.id));
-      filteredEdges = filteredEdges.filter(edge =>
-        nodeIds.has(edge.data.source) && nodeIds.has(edge.data.target)
-      );
-    }
-
-    // Has death date filter
-    if (filters.hasDeathDate !== null && filters.hasDeathDate !== undefined) {
-      filteredNodes = filteredNodes.filter(node =>
-        filters.hasDeathDate 
-          ? node.data.deathDate?.year_hijri 
-          : !node.data.deathDate?.year_hijri
-      );
-      
-      const nodeIds = new Set(filteredNodes.map(n => n.data.id));
-      filteredEdges = filteredEdges.filter(edge =>
-        nodeIds.has(edge.data.source) && nodeIds.has(edge.data.target)
-      );
-    }
-
-    // Minimum degree filter
-    if (filters.minDegree > 0) {
-      const degrees = {};
-      filteredNodes.forEach(node => {
-        degrees[node.data.id] = 0;
-      });
-      
-      filteredEdges.forEach(edge => {
-        if (degrees[edge.data.source] !== undefined) degrees[edge.data.source]++;
-        if (degrees[edge.data.target] !== undefined) degrees[edge.data.target]++;
-      });
-      
-      filteredNodes = filteredNodes.filter(node =>
-        degrees[node.data.id] >= filters.minDegree
-      );
-      
-      const nodeIds = new Set(filteredNodes.map(n => n.data.id));
-      filteredEdges = filteredEdges.filter(edge =>
-        nodeIds.has(edge.data.source) && nodeIds.has(edge.data.target)
-      );
-    }
-
-    return { nodes: filteredNodes, edges: filteredEdges };
-  }, []);
+  }, [data, viewType, filters, searchParams]);
 
   // Handle node selection
   const handleNodeSelect = useCallback((nodeData) => {
@@ -242,6 +165,11 @@ const Network = () => {
     params.set('view', newView);
     setSearchParams(params);
   }, [searchParams, setSearchParams]);
+
+  // Handle filter changes
+  const handleFiltersChange = useCallback((newFilters) => {
+    setFilters(newFilters);
+  }, []);
 
   if (loading) {
     return (
@@ -270,11 +198,11 @@ const Network = () => {
           <h1>Sufi Networks Visualization</h1>
           <div className="view-selector">
             <select value={viewType} onChange={(e) => handleViewChange(e.target.value)}>
-              <option value="full">Full Network</option>
+              <option value="top">Top 500 Nodes (Recommended)</option>
+              <option value="top1000">Top 1000 Nodes</option>
+              <option value="full">Full Network (2900+ nodes)</option>
               <option value="source">By Source</option>
               <option value="ego">Ego Network</option>
-              <option value="bio">Biography Network</option>
-              <option value="transmission">Transmission Network</option>
             </select>
             
             <div className="toggle-buttons">
@@ -300,9 +228,9 @@ const Network = () => {
           {showFilters && (
             <div className="network-sidebar left">
               <NetworkFilters
-                registry={registry}
-                relationships={relationships}
-                onFiltersChange={setFilters}
+                registry={data.registry}
+                relationships={data.relationships}
+                onFiltersChange={handleFiltersChange}
                 showAdvanced={true}
               />
             </div>
@@ -317,11 +245,12 @@ const Network = () => {
               height="600px"
               showStats={false}
               highlightNode={selectedNode}
+              metrics={data.metrics}
             />
             <NetworkLegend
               showSources={true}
               showRelationships={true}
-              showMetrics={metrics !== null}
+              showMetrics={true}
               position="top-right"
             />
           </div>
@@ -330,11 +259,11 @@ const Network = () => {
           {showStats && (
             <div className="network-sidebar right">
               <NetworkStats
-                registry={registry}
-                relationships={relationships}
-                metrics={metrics}
-                keyFigures={keyFigures}
-                temporal={temporal}
+                registry={data.registry}
+                relationships={data.relationships}
+                metrics={data.metrics}
+                keyFigures={data.keyFigures}
+                temporal={data.temporal}
                 currentFilters={filters}
                 selectedPerson={selectedNode}
               />
@@ -345,7 +274,10 @@ const Network = () => {
         {/* Network summary */}
         <div className="network-summary">
           <p>
-            Showing {elements.nodes.length} people and {elements.edges.length} relationships
+            Showing {elements.nodes.length} people and {elements.edges.length} unique connections
+            {elements.edges.reduce((sum, e) => sum + (e.data.weight || 1), 0) > elements.edges.length && 
+              ` (${elements.edges.reduce((sum, e) => sum + (e.data.weight || 1), 0)} total relationships)`
+            }
             {filters.searchTerm && ` matching "${filters.searchTerm}"`}
           </p>
         </div>

@@ -1,133 +1,36 @@
-import { SOURCE_NAMES } from './constants';
 import { perfStart, perfEnd, perfMemory } from './performanceMonitor';
 
 /**
- * Load network data from static JSON files
+ * Optimized Network Data Loader
+ * Properly uses pre-computed indices and aggregates edges for performance
  */
-export const loadNetworkData = async (dataType = 'full') => {
+
+/**
+ * Load network data efficiently using all pre-computed indices
+ */
+export const loadNetworkData = async () => {
   try {
     const baseUrl = process.env.PUBLIC_URL || '';
     
-    console.log('Starting to load network data, type:', dataType);
+    console.log('Loading optimized network data...');
     perfStart('loadNetworkData');
     
-    // Always load these core files
-    perfStart('loadCoreFiles');
-    const corePromises = [
-      fetch(`${baseUrl}/data/names-registry.json`)
-        .then(r => {
-          if (!r.ok) throw new Error(`Failed to load names-registry.json: ${r.status}`);
-          return r.json();
-        }),
-      fetch(`${baseUrl}/data/relationships.json`)
-        .then(r => {
-          if (!r.ok) throw new Error(`Failed to load relationships.json: ${r.status}`);
-          return r.json();
-        }),
-      fetch(`${baseUrl}/data/network-index.json`)
-        .then(r => {
-          if (!r.ok) {
-            console.warn('network-index.json not found, continuing without it');
-            return null;
-          }
-          return r.json();
-        })
-        .catch(() => {
-          console.warn('network-index.json not found, continuing without it');
-          return null;
-        })
-    ];
-
-    const [registry, relationships, networkIndex] = await Promise.all(corePromises);
-    perfEnd('loadCoreFiles');
+    // Load ALL files in parallel - we need them all
+    const [registry, relationships, networkIndex, nodeMetrics] = await Promise.all([
+      fetch(`${baseUrl}/data/names-registry.json`).then(r => r.json()),
+      fetch(`${baseUrl}/data/relationships.json`).then(r => r.json()),
+      fetch(`${baseUrl}/data/network-index.json`).then(r => r.json()),
+      fetch(`${baseUrl}/data/node-metrics.json`).then(r => r.json())
+    ]);
     
-    console.log(`Loaded core data: ${Object.keys(registry || {}).length} people, ${relationships?.edges?.length || 0} edges`);
-    perfMemory();
-
-    // Initialize optional data
-    let metrics = null;
-    let communities = null;
-    let temporal = null;
-    let places = null;
-    let keyFigures = null;
-
-    // Load optional files only if requested and don't let them block
-    if (dataType === 'full' || dataType === 'metrics') {
-      perfStart('loadOptionalFiles');
-      
-      // Load each optional file separately to avoid blocking on any one
-      const optionalPromises = [];
-      
-      optionalPromises.push(
-        fetch(`${baseUrl}/data/node-metrics.json`)
-          .then(r => r.ok ? r.json() : null)
-          .catch(() => {
-            console.log('node-metrics.json not found');
-            return null;
-          })
-      );
-      
-      optionalPromises.push(
-        fetch(`${baseUrl}/data/communities.json`)
-          .then(r => r.ok ? r.json() : null)
-          .catch(() => {
-            console.log('communities.json not found');
-            return null;
-          })
-      );
-      
-      optionalPromises.push(
-        fetch(`${baseUrl}/data/temporal-analysis.json`)
-          .then(r => r.ok ? r.json() : null)
-          .catch(() => {
-            console.log('temporal-analysis.json not found');
-            return null;
-          })
-      );
-      
-      optionalPromises.push(
-        fetch(`${baseUrl}/data/key-figures.json`)
-          .then(r => r.ok ? r.json() : null)
-          .catch(() => {
-            console.log('key-figures.json not found');
-            return null;
-          })
-      );
-
-      // Wait for all optional files but don't fail if any are missing
-      const optionalResults = await Promise.allSettled(optionalPromises);
-      
-      metrics = optionalResults[0].status === 'fulfilled' ? optionalResults[0].value : null;
-      communities = optionalResults[1].status === 'fulfilled' ? optionalResults[1].value : null;
-      temporal = optionalResults[2].status === 'fulfilled' ? optionalResults[2].value : null;
-      keyFigures = optionalResults[3].status === 'fulfilled' ? optionalResults[3].value : null;
-      
-      perfEnd('loadOptionalFiles');
-    }
-
-    if (dataType === 'geographic') {
-      perfStart('loadGeographic');
-      try {
-        places = await fetch(`${baseUrl}/data/places.json`)
-          .then(r => r.ok ? r.json() : null);
-      } catch {
-        console.log('places.json not found');
-      }
-      perfEnd('loadGeographic');
-    }
-
     perfEnd('loadNetworkData');
-    console.log('Successfully loaded network data');
+    console.log(`Loaded: ${Object.keys(registry).length} people, ${relationships.edges.length} edges, ${relationships.isnad_chains.length} isnads`);
     
     return {
       registry,
       relationships,
       networkIndex,
-      metrics,
-      communities,
-      temporal,
-      keyFigures,
-      places
+      metrics: nodeMetrics
     };
   } catch (error) {
     perfEnd('loadNetworkData');
@@ -137,175 +40,206 @@ export const loadNetworkData = async (dataType = 'full') => {
 };
 
 /**
- * Convert our data format to Cytoscape elements
+ * Build Cytoscape elements with proper edge aggregation
+ * Uses pre-computed indices and prevents duplicate edges
  */
-export const buildCytoscapeElements = (registry, relationships, options = {}) => {
+export const buildCytoscapeElements = (registry, relationships, networkIndex, metrics, options = {}) => {
   const {
-    filterSource = null,
-    filterBioId = null,
-    filterPersonId = null,
     maxNodes = null,
-    includedNodeIds = null,
-    relationshipTypes = null
+    minDegree = 0,
+    sources = null
   } = options;
 
-  console.log('Building Cytoscape elements with options:', options);
-
-  const nodes = [];
-  const edges = [];
-  const nodeSet = new Set();
+  perfStart('buildCytoscapeElements');
+  console.log('Building optimized Cytoscape elements...');
   
-  // If we have a specific set of nodes to include, use only those
-  if (includedNodeIds && includedNodeIds.size > 0) {
-    // Add only specified nodes
-    for (const personId of includedNodeIds) {
-      const personData = registry[personId];
-      if (!personData) continue;
-      
-      nodeSet.add(personId);
-      nodes.push({
-        data: {
-          id: personId,
-          label: personData.canonical || `Person ${personId}`,
-          arabicName: personData.canonical,
-          variants: personData.variants || [],
-          sources: personData.sources || [],
-          deathDate: personData.death_date,
-          places: personData.places || [],
-          bioIds: personData.bio_ids || []
-        },
-        classes: personData.sources?.join(' ') || ''
-      });
-    }
-  } else {
-    // Build nodes from registry with filters
-    let nodeCount = 0;
-    for (const [personId, personData] of Object.entries(registry)) {
-      // Apply filters
-      if (filterSource && !personData.sources?.includes(filterSource)) continue;
-      if (filterPersonId && personId !== filterPersonId) continue;
-      
-      // Check max nodes limit
-      if (maxNodes && nodeCount >= maxNodes) break;
-      
-      nodeSet.add(personId);
-      nodeCount++;
-      
-      nodes.push({
-        data: {
-          id: personId,
-          label: personData.canonical || `Person ${personId}`,
-          arabicName: personData.canonical,
-          variants: personData.variants || [],
-          sources: personData.sources || [],
-          deathDate: personData.death_date,
-          places: personData.places || [],
-          bioIds: personData.bio_ids || []
-        },
-        classes: personData.sources?.join(' ') || ''
-      });
-    }
+  // Build nodes using metrics for sizing
+  const nodes = [];
+  const nodeSet = new Set();
+  let nodeCount = 0;
+  
+  // Sort by degree if we need to limit nodes (show most connected first)
+  const sortedPersonIds = Object.keys(registry).sort((a, b) => {
+    const degreeA = metrics[a]?.total_degree || 0;
+    const degreeB = metrics[b]?.total_degree || 0;
+    return degreeB - degreeA;
+  });
+
+  for (const personId of sortedPersonIds) {
+    const personData = registry[personId];
+    const personMetrics = metrics[personId] || {};
+    
+    // Apply filters
+    if (personMetrics.total_degree < minDegree) continue;
+    if (sources && !personData.sources?.some(s => sources.includes(s))) continue;
+    if (maxNodes && nodeCount >= maxNodes) break;
+    
+    nodeSet.add(personId);
+    nodeCount++;
+    
+    // Use metrics for visual properties
+    const nodeSize = Math.min(50, 20 + Math.log(personMetrics.total_degree + 1) * 5);
+    
+    nodes.push({
+      data: {
+        id: personId,
+        label: personData.canonical || `Person ${personId}`,
+        arabicName: personData.canonical,
+        variants: personData.variants || [],
+        sources: personData.sources || [],
+        deathDate: personData.death_date,
+        // Add metrics to node data
+        degree: personMetrics.total_degree || 0,
+        betweenness: personMetrics.betweenness || 0,
+        pagerank: personMetrics.pagerank || 0,
+        // Add visual properties as data attributes
+        width: nodeSize,
+        height: nodeSize
+      },
+      classes: personData.sources?.join(' ') || ''
+    });
   }
 
   console.log(`Created ${nodes.length} nodes`);
 
-  // Build edges from relationships
-  let edgeId = 0;
-  let edgeCount = 0;
-  const maxEdges = maxNodes ? maxNodes * 10 : 10000; // Limit edges for performance
+  // Build aggregated edges
+  perfStart('buildEdges');
+  const edgeMap = new Map(); // Key: "source-target", Value: edge data
+  const edges = [];
   
+  // Helper to create edge key (always smaller ID first for consistency)
+  const makeEdgeKey = (source, target) => {
+    const s = String(source);
+    const t = String(target);
+    return s < t ? `${s}-${t}` : `${t}-${s}`;
+  };
+
   // Process direct relationships
   for (const edge of relationships.edges) {
-    if (edgeCount >= maxEdges) break;
-    
     const source = String(edge.source);
     const target = String(edge.target);
     
-    // Skip if source node not in our set
-    if (!nodeSet.has(source)) continue;
+    // Skip if nodes not in our filtered set
+    if (!nodeSet.has(source) || !nodeSet.has(target)) continue;
     
-    // Check if target is a person ID
-    if (nodeSet.has(target)) {
-      // Direct person-to-person edge
-      if (relationshipTypes && !relationshipTypes.includes(edge.type)) continue;
-      if (filterSource && edge.text_source !== filterSource) continue;
-      
-      edges.push({
-        data: {
-          id: `e${edgeId++}`,
-          source: source,
-          target: target,
-          type: edge.type || 'unknown',
-          textSource: edge.text_source,
-          bioId: edge.bio_id,
-          context: edge.context || ''
-        },
-        classes: `${edge.type || 'unknown'} ${edge.text_source || ''}`
+    const key = makeEdgeKey(source, target);
+    
+    if (!edgeMap.has(key)) {
+      edgeMap.set(key, {
+        source: source < target ? source : target,
+        target: source < target ? target : source,
+        count: 0,
+        types: new Set(),
+        sources: new Set(),
+        contexts: []
       });
-      edgeCount++;
     }
+    
+    const edgeData = edgeMap.get(key);
+    edgeData.count++;
+    edgeData.types.add(edge.type || 'unknown');
+    if (edge.text_source) edgeData.sources.add(edge.text_source);
+    if (edge.context) edgeData.contexts.push(edge.context);
   }
 
-  // Process isnad chains (limit to prevent performance issues)
-  let chainCount = 0;
-  const maxChains = maxNodes ? Math.min(100, relationships.isnad_chains.length) : relationships.isnad_chains.length;
-  
-  for (let i = 0; i < Math.min(maxChains, relationships.isnad_chains.length); i++) {
-    const chain = relationships.isnad_chains[i];
+  // Process isnad chains - just count connections, don't create duplicates
+  for (const chain of relationships.isnad_chains) {
+    const chainNodes = chain.chain.map(String);
     
-    // Apply filters
-    if (filterSource && chain.text_source !== filterSource) continue;
-    if (filterBioId && chain.bio_id !== filterBioId) continue;
-    
-    // Create edges between consecutive people in chain
-    for (let j = 0; j < chain.chain.length - 1; j++) {
-      if (edgeCount >= maxEdges) break;
+    // For each consecutive pair in the chain
+    for (let i = 0; i < chainNodes.length - 1; i++) {
+      const source = chainNodes[i];
+      const target = chainNodes[i + 1];
       
-      const source = String(chain.chain[j]);
-      const target = String(chain.chain[j + 1]);
-      
+      // Skip if nodes not in our filtered set
       if (!nodeSet.has(source) || !nodeSet.has(target)) continue;
       
-      edges.push({
-        data: {
-          id: `e${edgeId++}`,
-          source: source,
-          target: target,
-          type: 'isnad_transmission',
-          textSource: chain.text_source,
-          bioId: chain.bio_id,
-          chainId: chain.id,
-          chainType: chain.type
-        },
-        classes: `isnad ${chain.text_source || ''}`
-      });
-      edgeCount++;
+      const key = makeEdgeKey(source, target);
+      
+      if (!edgeMap.has(key)) {
+        edgeMap.set(key, {
+          source: source < target ? source : target,
+          target: source < target ? target : source,
+          count: 0,
+          types: new Set(),
+          sources: new Set(),
+          contexts: []
+        });
+      }
+      
+      const edgeData = edgeMap.get(key);
+      edgeData.count++;
+      edgeData.types.add('isnad_transmission');
+      if (chain.text_source) edgeData.sources.add(chain.text_source);
     }
-    
-    chainCount++;
-    if (chainCount >= maxChains) break;
   }
 
-  console.log(`Created ${edges.length} edges`);
+  // Convert edge map to Cytoscape edges with proper visual encoding
+  let edgeId = 0;
+  for (const [key, edgeData] of edgeMap.entries()) {
+    // Calculate edge width based on count (logarithmic scale)
+    const edgeWidth = Math.min(10, 1 + Math.log(edgeData.count) * 1.5);
+    const edgeOpacity = Math.min(1, 0.3 + edgeData.count * 0.1);
+    
+    // Determine primary type for styling
+    const primaryType = edgeData.types.has('teacher_student') ? 'teacher_student' :
+                        edgeData.types.has('companion') ? 'companion' :
+                        edgeData.types.has('isnad_transmission') ? 'isnad_transmission' :
+                        Array.from(edgeData.types)[0];
+    
+    // Determine edge color based on type
+    const edgeColor = primaryType === 'teacher_student' ? '#4c6ef5' :
+                      primaryType === 'companion' ? '#15aabf' :
+                      primaryType === 'isnad_transmission' ? '#fab005' :
+                      '#999';
+    
+    edges.push({
+      data: {
+        id: `e${edgeId++}`,
+        source: edgeData.source,
+        target: edgeData.target,
+        weight: edgeData.count,
+        types: Array.from(edgeData.types),
+        sources: Array.from(edgeData.sources),
+        label: edgeData.count > 1 ? `×${edgeData.count}` : '',
+        // Add the visual properties as data attributes
+        width: edgeWidth,
+        opacity: edgeOpacity,
+        color: edgeColor
+      },
+      classes: `${primaryType} aggregated`
+    });
+  }
+
+  perfEnd('buildEdges');
+  console.log(`Created ${edges.length} aggregated edges from ${edgeMap.size} unique connections`);
+  perfMemory();
+  perfEnd('buildCytoscapeElements');
 
   return { nodes, edges };
 };
 
 /**
- * Get ego network for a specific person
+ * Get ego network using network index
  */
-export const getEgoNetwork = (personId, registry, relationships, degree = 1) => {
+export const getEgoNetwork = (personId, registry, networkIndex, relationships, metrics, degree = 1) => {
+  perfStart('getEgoNetwork');
+  
   const includedNodes = new Set([String(personId)]);
-  const visitedNodes = new Set();
   const queue = [{ id: String(personId), level: 0 }];
+  const visited = new Set();
 
   while (queue.length > 0) {
     const { id, level } = queue.shift();
     
-    if (visitedNodes.has(id) || level >= degree) continue;
-    visitedNodes.add(id);
+    if (visited.has(id) || level >= degree) continue;
+    visited.add(id);
 
-    // Find all edges involving this person
+    // Use network index for fast lookup
+    const personIndex = networkIndex.by_person[id];
+    if (!personIndex) continue;
+
+    // Get connected people from relationships
     for (const edge of relationships.edges) {
       const source = String(edge.source);
       const target = String(edge.target);
@@ -315,150 +249,62 @@ export const getEgoNetwork = (personId, registry, relationships, degree = 1) => 
         if (level + 1 < degree) {
           queue.push({ id: target, level: level + 1 });
         }
-      }
-      
-      if (target === id && !includedNodes.has(source)) {
+      } else if (target === id && !includedNodes.has(source)) {
         includedNodes.add(source);
         if (level + 1 < degree) {
           queue.push({ id: source, level: level + 1 });
         }
       }
     }
+  }
 
-    // Also check isnad chains
-    for (const chain of relationships.isnad_chains) {
-      const chainIds = chain.chain.map(String);
-      const idx = chainIds.indexOf(id);
-      
-      if (idx !== -1) {
-        // Add neighbors in chain
-        if (idx > 0 && !includedNodes.has(chainIds[idx - 1])) {
-          includedNodes.add(chainIds[idx - 1]);
-          if (level + 1 < degree) {
-            queue.push({ id: chainIds[idx - 1], level: level + 1 });
-          }
-        }
-        if (idx < chainIds.length - 1 && !includedNodes.has(chainIds[idx + 1])) {
-          includedNodes.add(chainIds[idx + 1]);
-          if (level + 1 < degree) {
-            queue.push({ id: chainIds[idx + 1], level: level + 1 });
-          }
-        }
-      }
+  // Build elements for ego network
+  const filteredRegistry = {};
+  for (const id of includedNodes) {
+    if (registry[id]) {
+      filteredRegistry[id] = registry[id];
     }
   }
 
-  return buildCytoscapeElements(registry, relationships, { includedNodeIds: includedNodes });
+  perfEnd('getEgoNetwork');
+  return buildCytoscapeElements(filteredRegistry, relationships, networkIndex, metrics);
 };
 
 /**
- * Get network for a specific bio
+ * Calculate network statistics efficiently
  */
-export const getBioNetwork = (bioId, registry, relationships) => {
-  // Find all people mentioned in this biography
-  const includedNodes = new Set();
-  
-  // Add people directly related to this bio
-  for (const edge of relationships.edges) {
-    if (edge.bio_id === bioId) {
-      includedNodes.add(String(edge.source));
-      includedNodes.add(String(edge.target));
-    }
-  }
-
-  // Add people in isnad chains for this bio
-  for (const chain of relationships.isnad_chains) {
-    if (chain.bio_id === bioId) {
-      chain.chain.forEach(id => includedNodes.add(String(id)));
-    }
-  }
-
-  // Find the main person of this biography
-  const mainPerson = Object.entries(registry).find(([id, data]) => 
-    data.bio_ids?.includes(bioId)
-  );
-  
-  if (mainPerson) {
-    includedNodes.add(mainPerson[0]);
-  }
-
-  return buildCytoscapeElements(registry, relationships, { includedNodeIds: includedNodes });
-};
-
-/**
- * Get transmission network for a person (all isnads they appear in)
- */
-export const getTransmissionNetwork = (personId, registry, relationships) => {
-  const includedNodes = new Set([String(personId)]);
-  const relevantChains = [];
-
-  // Find all chains containing this person
-  for (const chain of relationships.isnad_chains) {
-    if (chain.chain.map(String).includes(String(personId))) {
-      relevantChains.push(chain);
-      chain.chain.forEach(id => includedNodes.add(String(id)));
-    }
-  }
-
-  const elements = buildCytoscapeElements(registry, relationships, { includedNodeIds: includedNodes });
-  
-  // Add chain metadata to elements
-  elements.chains = relevantChains;
-  
-  return elements;
-};
-
-/**
- * Calculate network statistics
- */
-export const calculateNetworkStats = (elements) => {
+export const calculateNetworkStats = (elements, metrics) => {
   const stats = {
     nodeCount: elements.nodes.length,
     edgeCount: elements.edges.length,
-    density: 0,
+    totalConnections: 0,
     avgDegree: 0,
-    sources: new Set(),
-    relationshipTypes: new Set(),
-    dateRange: { min: null, max: null }
+    density: 0,
+    maxConnections: 0,
+    avgConnections: 0
   };
+
+  // Sum up total connections (weights)
+  elements.edges.forEach(edge => {
+    stats.totalConnections += edge.data.weight || 1;
+    stats.maxConnections = Math.max(stats.maxConnections, edge.data.weight || 1);
+  });
+
+  // Calculate average connections per edge
+  stats.avgConnections = stats.edgeCount > 0 ? stats.totalConnections / stats.edgeCount : 0;
 
   // Calculate density
   if (stats.nodeCount > 1) {
-    const possibleEdges = stats.nodeCount * (stats.nodeCount - 1);
+    const possibleEdges = stats.nodeCount * (stats.nodeCount - 1) / 2;
     stats.density = stats.edgeCount / possibleEdges;
   }
 
-  // Calculate average degree and collect metadata
-  const degrees = {};
+  // Calculate average degree from node data
+  let totalDegree = 0;
   elements.nodes.forEach(node => {
-    degrees[node.data.id] = 0;
-    node.data.sources?.forEach(s => stats.sources.add(s));
-    
-    // Track date range
-    if (node.data.deathDate?.year_hijri) {
-      const year = parseInt(node.data.deathDate.year_hijri);
-      if (!stats.dateRange.min || year < stats.dateRange.min) {
-        stats.dateRange.min = year;
-      }
-      if (!stats.dateRange.max || year > stats.dateRange.max) {
-        stats.dateRange.max = year;
-      }
-    }
+    totalDegree += node.data.degree || 0;
   });
-
-  elements.edges.forEach(edge => {
-    degrees[edge.data.source]++;
-    degrees[edge.data.target]++;
-    stats.relationshipTypes.add(edge.data.type);
-  });
-
-  const degreeValues = Object.values(degrees);
-  if (degreeValues.length > 0) {
-    stats.avgDegree = degreeValues.reduce((a, b) => a + b, 0) / degreeValues.length;
-  }
-
-  stats.sources = Array.from(stats.sources);
-  stats.relationshipTypes = Array.from(stats.relationshipTypes);
+  stats.avgDegree = stats.nodeCount > 0 ? totalDegree / stats.nodeCount : 0;
 
   return stats;
 };

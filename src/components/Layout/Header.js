@@ -13,6 +13,7 @@ const Header = () => {
         <nav>
           <ul className="flex">
             <li><Link to="/">Browse Bios</Link></li>
+            <li><Link to="/network">Network Graph</Link></li>
             <li><Link to="/about">About</Link></li>
           </ul>
         </nav>

@@ -1,14 +1,30 @@
 {
-  "generated": "2025-10-31T13:49:54.352972",
-  "total_people": 2903,
-  "total_edges": 3460,
-  "total_isnads": 4512,
-  "total_places": 302,
+  "generated": "2025-10-31T16:37:02.741744",
+  "statistics": {
+    "total_people": 2903,
+    "total_unique_chains": 1956,
+    "total_chain_occurrences": 4512,
+    "total_biographies": 324,
+    "total_edges": 3647,
+    "total_transmissions": 7065
+  },
   "sources": [
     "sulami",
     "ansari",
     "hilya"
   ],
-  "has_layout": true,
-  "layout_algorithm": "spring"
+  "files": [
+    "names-registry.json",
+    "isnad-chains.json",
+    "edge-registry.json",
+    "transmission-graph.json",
+    "person-networks.json",
+    "bio-networks.json",
+    "network-metrics.json",
+    "view-transmission_full.json",
+    "view-transmission_sulami.json",
+    "view-transmission_ansari.json",
+    "view-transmission_hilya.json"
+  ],
+  "total_size_kb": 35147.3
 }

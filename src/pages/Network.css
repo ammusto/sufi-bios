@@ -1,0 +1,363 @@
+html {
+    height:100vh;
+}
+.network-visualization {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background: #f5f5f5;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+/* Controls Bar */
+.controls {
+  display: flex;
+  gap: 20px;
+  padding: 15px;
+  background: white;
+  border-bottom: 1px solid #e0e0e0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.controls > div {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.controls label {
+  font-size: 14px;
+  font-weight: 500;
+  color: #333;
+}
+
+.controls select,
+.controls input[type="text"] {
+  padding: 6px 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+  background: white;
+  min-width: 150px;
+}
+
+.controls input[type="range"] {
+  width: 100px;
+}
+
+.degree-selector span {
+  font-weight: 600;
+  color: #2196F3;
+  min-width: 20px;
+  text-align: center;
+}
+
+/* Main Visualization Container */
+.visualization-container {
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+  background: white;
+  margin: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.visualization-container svg {
+  cursor: move;
+}
+
+/* Network Elements */
+.nodes circle {
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.nodes circle:hover {
+  stroke: #333;
+  stroke-width: 2px;
+  filter: brightness(0.9);
+}
+
+.links line {
+  pointer-events: none;
+}
+
+.labels text {
+  pointer-events: none;
+  font-size: 10px;
+  fill: #666;
+  text-shadow: 0 0 3px white, 0 0 3px white, 0 0 3px white;
+}
+
+/* Tooltip */
+.network-tooltip {
+  position: absolute;
+  text-align: left;
+  padding: 10px;
+  font-size: 12px;
+  background: rgba(0, 0, 0, 0.9);
+  color: white;
+  border-radius: 4px;
+  pointer-events: none;
+  z-index: 1000;
+  max-width: 300px;
+  line-height: 1.4;
+}
+
+.network-tooltip strong {
+  font-size: 13px;
+  display: block;
+  margin-bottom: 5px;
+  color: #61dafb;
+}
+
+.network-tooltip em {
+  color: #ffd700;
+}
+
+/* Stats Panel */
+.stats-panel {
+  position: absolute;
+  right: 30px;
+  top: 90px;
+  width: 300px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  padding: 20px;
+  max-height: calc(100vh - 120px);
+  overflow-y: auto;
+  z-index: 100;
+}
+
+.stats-panel h3 {
+  margin: 0 0 15px 0;
+  font-size: 18px;
+  color: #333;
+  border-bottom: 2px solid #2196F3;
+  padding-bottom: 10px;
+}
+
+.stats-content p {
+  margin: 8px 0;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.stats-content strong {
+  color: #555;
+  font-weight: 600;
+}
+
+.stats-content em {
+  color: #2196F3;
+}
+
+.metrics {
+  margin-top: 15px;
+  padding-top: 15px;
+  border-top: 1px solid #e0e0e0;
+}
+
+.metrics h4 {
+  font-size: 15px;
+  margin: 0 0 10px 0;
+  color: #666;
+}
+
+.stats-panel button {
+  margin-top: 15px;
+  width: 100%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.stats-panel button:hover {
+  background: #1976D2;
+}
+
+/* Loading State */
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 18px;
+  color: #666;
+}
+
+/* Legend */
+.legend {
+  position: absolute;
+  left: 30px;
+  bottom: 30px;
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  font-size: 12px;
+}
+
+.legend-title {
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 5px 0;
+}
+
+.legend-color {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+}
+
+/* View-specific styles */
+.network-visualization[data-view="transmitter"] .nodes circle.source-node {
+  stroke: #ff6b6b;
+  stroke-width: 3px;
+}
+
+.network-visualization[data-view="transmitter"] .nodes circle.from-node {
+  fill: #4ecdc4;
+}
+
+.network-visualization[data-view="transmitter"] .nodes circle.to-node {
+  fill: #f7b731;
+}
+
+.network-visualization[data-view="bio-transmission"] .nodes circle.bio-subject {
+  r: 25;
+  fill: #5f27cd;
+  stroke: white;
+  stroke-width: 3px;
+}
+
+.network-visualization[data-view="bio-transmission"] .nodes circle.degree-1 {
+  fill: #00d2d3;
+}
+
+.network-visualization[data-view="bio-transmission"] .nodes circle.degree-2 {
+  fill: #54a0ff;
+}
+
+.network-visualization[data-view="bio-transmission"] .nodes circle.degree-3 {
+  fill: #48dbfb;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .controls > div {
+    justify-content: space-between;
+  }
+  
+  .stats-panel {
+    width: calc(100% - 40px);
+    right: 20px;
+    left: 20px;
+  }
+}
+
+/* Animation for network transitions */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.nodes circle {
+  animation: fadeIn 0.5s ease-out;
+}
+
+/* Custom scrollbar for stats panel */
+.stats-panel::-webkit-scrollbar {
+  width: 6px;
+}
+
+.stats-panel::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.stats-panel::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 3px;
+}
+
+.stats-panel::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* Highlight styles for search results */
+.nodes circle.highlighted {
+  stroke: #ffd700;
+  stroke-width: 3px;
+  filter: drop-shadow(0 0 10px #ffd700);
+}
+
+/* Isnad chain display */
+.isnad-chain-display {
+  margin-top: 15px;
+  padding: 10px;
+  background: #f8f9fa;
+  border-radius: 4px;
+  font-size: 12px;
+}
+
+.isnad-chain-display .chain-item {
+  display: inline-block;
+  padding: 3px 8px;
+  margin: 2px;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}
+
+.isnad-chain-display .chain-arrow {
+  display: inline-block;
+  margin: 0 5px;
+  color: #999;
+}
+
+/* Export button */
+.export-button {
+  position: absolute;
+  right: 30px;
+  bottom: 30px;
+  padding: 10px 20px;
+  background: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.export-button:hover {
+  background: #45a049;
+}

@@ -1,7 +1,15 @@
 import React, { useEffect, useRef, useState } from 'react';
 import * as d3 from 'd3';
 
-const ChainFlowGraph = ({ data, onNodeClick, selectedNode }) => {
+/**
+ * ChainFlowGraph — layered, curved edges, click-only highlighting,
+ * multi-column packing for dense ±1 layers.
+ * 
+ * Edge types:
+ * - Hierarchical (always shown): adjacent level connections (L to L±1)
+ * - Peer (toggleable): same-level OR level-skipping connections
+ */
+const ChainFlowGraph = ({ data, onNodeClick, selectedNode, showPeerConnections = true }) => {
   const svgRef = useRef(null);
   const [dimensions, setDimensions] = useState({ width: 1200, height: 800 });
 
@@ -15,7 +23,14 @@ const ChainFlowGraph = ({ data, onNodeClick, selectedNode }) => {
 
     const g = svg.append('g');
 
-    // defs
+    // Background to capture whitespace clicks
+    g.append('rect')
+      .attr('x', 0).attr('y', 0).attr('width', width).attr('height', height)
+      .attr('fill', 'transparent')
+      .style('pointer-events', 'all')
+      .on('click', () => onNodeClick?.(null));
+
+    // Markers
     const defs = svg.append('defs');
     defs.append('marker')
       .attr('id', 'arrow')
@@ -29,60 +44,88 @@ const ChainFlowGraph = ({ data, onNodeClick, selectedNode }) => {
       .attr('d', 'M0,-5L10,0L0,5')
       .attr('fill', '#999');
 
-    // layout (pure columns, no radial)
-    const layout = calculateSugiyamaLayout(data, width, height);
+    // Layout
+    const layout = calculateLayoutWithFirstLayerColumns(data, width, height);
     const centerId = data.centerPersonId;
 
-    // weighted degrees
+    // Weights and radius scale
     const inW  = new Map(data.nodes.map(n => [n.id, 0]));
     const outW = new Map(data.nodes.map(n => [n.id, 0]));
     data.edges.forEach(e => {
       const w = e.weight ?? 1;
-      if (outW.has(e.source)) outW.set(e.source, outW.get(e.source) + w);
-      if (inW.has(e.target))  inW.set(e.target,  inW.get(e.target)  + w);
+      outW.set(e.source, (outW.get(e.source) ?? 0) + w);
+      inW .set(e.target, (inW .get(e.target) ?? 0) + w);
     });
 
     const weightedDegree = new Map(
       data.nodes.map(n => [n.id, (inW.get(n.id) ?? 0) + (outW.get(n.id) ?? 0)])
     );
 
-    // top 20% thresholds (use 0.9 as in your last snippet)
-    const pct = 0.9;
-    const inP  = (d3.quantile([...inW.values()].sort(d3.ascending), pct)  ?? 0);
-    const outP = (d3.quantile([...outW.values()].sort(d3.ascending), pct) ?? 0);
-
-    // radius scale
-    const degValues = Array.from(weightedDegree.values());
+    const degVals = Array.from(weightedDegree.values());
     const rScale = d3.scaleSqrt()
-      .domain([Math.min(...degValues, 0), Math.max(...degValues, 1)])
+      .domain([Math.min(...degVals, 0), Math.max(...degVals, 1)])
       .range([6, 26]);
 
-    // radii map
-    const radiusOf = buildRadiusMap(data.nodes, centerId, rScale, weightedDegree);
+    const radiusOf = new Map(
+      data.nodes.map(n => {
+        const w = weightedDegree.get(n.id) ?? 0;
+        const r = (n.id === centerId || n.type === 'center') ? Math.max(20, rScale(w)) : rScale(w);
+        return [n.id, r];
+      })
+    );
 
-    // ASSIGN TRACKS TO EDGES
-    const edgesWithTracks = assignEdgeTracks(data.edges, layout, data.nodes);
+    // Adjacency for click-highlighting
+    const neighbors = new Map(data.nodes.map(n => [n.id, new Set()]));
+    data.edges.forEach(e => {
+      neighbors.get(e.source)?.add(e.target);
+      neighbors.get(e.target)?.add(e.source);
+    });
 
-    // EDGES (orthogonal elbows with tracks)
+    // Separate hierarchical edges from peer edges
+    const hierarchicalEdges = [];
+    const peerEdges = [];
+    
+    data.edges.forEach(edge => {
+      const sLayer = layout.layerOf.get(edge.source);
+      const tLayer = layout.layerOf.get(edge.target);
+      
+      if (!Number.isFinite(sLayer) || !Number.isFinite(tLayer)) {
+        hierarchicalEdges.push(edge);
+        return;
+      }
+      
+      const layerDiff = Math.abs(sLayer - tLayer);
+      
+      // Adjacent levels (L to L±1) = hierarchical chain
+      if (layerDiff === 1) {
+        hierarchicalEdges.push(edge);
+      } else {
+        // Same level OR skips levels = peer connection
+        peerEdges.push(edge);
+      }
+    });
+
+    // EDGES
     const edgeLayer = g.append('g').attr('class', 'edges');
     
-    edgeLayer.selectAll('path')
-      .data(edgesWithTracks)
+    // Draw hierarchical edges (always shown)
+    const hierarchicalEdgeSel = edgeLayer.selectAll('path.hierarchical-edge')
+      .data(hierarchicalEdges)
       .enter()
       .append('path')
-      .attr('class', 'chain-edge')
+      .attr('class', 'edge hierarchical-edge')
       .attr('d', d => {
         const s = layout.nodePositions.get(d.source);
         const t = layout.nodePositions.get(d.target);
         if (!s || !t) return '';
         const rs = radiusOf.get(d.source) ?? 6;
         const rt = radiusOf.get(d.target) ?? 6;
-        return orthogonalPath(s, t, rs, rt, { 
-          dxPad: 8, 
-          prefer: 'mid',
-          track: d.track,
-          trackSpacing: 14
-        });
+        const sL = layout.layerOf.get(d.source);
+        const tL = layout.layerOf.get(d.target);
+        const sameLayer = Number.isFinite(sL) && sL === tL;
+        return sameLayer
+          ? peerCurvePath(s, t, rs, rt, { layer: sL })
+          : interLayerCurvePath(s, t, rs, rt);
       })
       .attr('stroke', '#999')
       .attr('stroke-width', 1.6)
@@ -90,13 +133,43 @@ const ChainFlowGraph = ({ data, onNodeClick, selectedNode }) => {
       .attr('fill', 'none')
       .attr('marker-end', 'url(#arrow)');
 
+    // Draw peer edges (toggleable - same level or level-skipping)
+    const peerEdgeSel = edgeLayer.selectAll('path.peer-edge')
+      .data(showPeerConnections ? peerEdges : [])
+      .enter()
+      .append('path')
+      .attr('class', 'edge peer-edge')
+      .attr('d', d => {
+        const s = layout.nodePositions.get(d.source);
+        const t = layout.nodePositions.get(d.target);
+        if (!s || !t) return '';
+        const rs = radiusOf.get(d.source) ?? 6;
+        const rt = radiusOf.get(d.target) ?? 6;
+        const sL = layout.layerOf.get(d.source);
+        const tL = layout.layerOf.get(d.target);
+        const sameLayer = Number.isFinite(sL) && sL === tL;
+        return sameLayer
+          ? peerCurvePath(s, t, rs, rt, { layer: sL })
+          : interLayerCurvePath(s, t, rs, rt);
+      })
+      .attr('stroke', '#FF9800')  // Orange for peer
+      .attr('stroke-width', 1.4)
+      .attr('stroke-opacity', 0.4)
+      .attr('fill', 'none')
+      .attr('stroke-dasharray', '4,2')  // Dashed
+      .attr('marker-end', 'url(#arrow)');
+
+    // Combine for highlighting
+    const allEdges = [...hierarchicalEdgeSel.nodes(), ...peerEdgeSel.nodes()];
+    const edgeSel = d3.selectAll(allEdges);
+
     // NODES
     const nodeLayer = g.append('g').attr('class', 'nodes');
-    const nodeGroups = nodeLayer.selectAll('g.node-group')
+    const nodeSel = nodeLayer.selectAll('g.node')
       .data(data.nodes)
       .enter()
       .append('g')
-      .attr('class', 'node-group')
+      .attr('class', 'node')
       .attr('transform', d => {
         const p = layout.nodePositions.get(d.id);
         return `translate(${p.x}, ${p.y})`;
@@ -107,8 +180,7 @@ const ChainFlowGraph = ({ data, onNodeClick, selectedNode }) => {
         onNodeClick?.(d);
       });
 
-    nodeGroups.append('circle')
-      .attr('class', 'node-circle')
+    nodeSel.append('circle')
       .attr('r', d => radiusOf.get(d.id) ?? 8)
       .attr('fill', d => {
         if (d.type === 'center' || d.id === centerId) return '#FF5722';
@@ -120,7 +192,11 @@ const ChainFlowGraph = ({ data, onNodeClick, selectedNode }) => {
       .attr('stroke', d => selectedNode?.id === d.id ? '#333' : '#fff')
       .attr('stroke-width', d => selectedNode?.id === d.id ? 3 : 2);
 
-    // LABELS (last/above)
+    // LABELS
+    const pct = 0.9;
+    const inP  = d3.quantile([...inW.values()].sort(d3.ascending), pct)  ?? 0;
+    const outP = d3.quantile([...outW.values()].sort(d3.ascending), pct) ?? 0;
+
     const showLabel = d =>
       d.id === centerId ||
       selectedNode?.id === d.id ||
@@ -128,12 +204,11 @@ const ChainFlowGraph = ({ data, onNodeClick, selectedNode }) => {
       (outW.get(d.id) ?? 0) >= outP;
 
     const labelLayer = g.append('g').attr('class', 'labels');
-    
-    labelLayer.selectAll('text.node-label')
+    labelLayer.selectAll('text.label')
       .data(data.nodes.filter(showLabel))
       .enter()
       .append('text')
-      .attr('class', 'node-label')
+      .attr('class', 'label')
       .attr('transform', d => {
         const p = layout.nodePositions.get(d.id);
         return `translate(${p.x}, ${p.y})`;
@@ -148,9 +223,7 @@ const ChainFlowGraph = ({ data, onNodeClick, selectedNode }) => {
       .style('text-shadow', '0 0 3px white, 0 0 3px white, 0 0 5px white')
       .text(d => {
         const name = d.name || '';
-        const base = (d.id === centerId || d.type === 'center')
-          ? name
-          : (name.length > 25 ? name.slice(0, 25) + '…' : name);
+        const base = (d.id === centerId || d.type === 'center') ? name : (name.length > 25 ? name.slice(0, 25) + '…' : name);
         const w = weightedDegree.get(d.id) ?? 0;
         return w > 1 ? `${base} ×${w}` : base;
       });
@@ -165,18 +238,22 @@ const ChainFlowGraph = ({ data, onNodeClick, selectedNode }) => {
       .style('color', 'white')
       .style('padding', '8px')
       .style('border-radius', '4px')
-      .style('font-size', '12px');
+      .style('font-size', '12px')
+      .style('z-index', '1000');
 
-    nodeGroups
+    nodeSel
       .on('mouseenter', (event, d) => {
         const win  = inW.get(d.id)  ?? 0;
         const wout = outW.get(d.id) ?? 0;
         const wtot = weightedDegree.get(d.id) ?? 0;
+        const layer = layout.layerOf.get(d.id);
+        
         tooltip.transition().duration(150).style('opacity', 0.9);
         tooltip.html(`
-          <strong>${d.name || ''}</strong><br/>
-          ${(d.id === centerId || d.type === 'center') ? '<em>Focus Person</em>' : d.isUpstream ? 'Upstream' : d.isDownstream ? 'Downstream' : ''}<br/>
-          ${d.hasId ? `Has biography (#${d.hasId})<br/>` : ''}
+          <strong>${d.name || 'Unknown'}</strong><br/>
+          ${(d.id === centerId || d.type === 'center') ? '<em>Focus Person</em><br/>' : ''}
+          ${Number.isFinite(layer) ? `Layer: ${layer > 0 ? '+' : ''}${layer}<br/>` : ''}
+          ${d.hasId ? `<em>Has biography (#${d.hasId})</em><br/>` : ''}
           Upstream (in): ${win}<br/>
           Downstream (out): ${wout}<br/>
           Weighted total: ${wtot}
@@ -188,14 +265,48 @@ const ChainFlowGraph = ({ data, onNodeClick, selectedNode }) => {
         tooltip.transition().duration(250).style('opacity', 0);
       });
 
-    // ZOOM
+    // CLICK-ONLY HIGHLIGHT
+    const applyHighlight = () => {
+      const activeId = selectedNode?.id || null;
+      if (!activeId) {
+        hierarchicalEdgeSel
+          .attr('stroke-opacity', 0.55)
+          .attr('stroke-width', 1.6);
+        peerEdgeSel
+          .attr('stroke-opacity', 0.4)
+          .attr('stroke-width', 1.4);
+        nodeSel.selectAll('circle').attr('opacity', 1.0);
+        return;
+      }
+
+      const nbrs = neighbors.get(activeId) || new Set();
+      const incident = new Set([...nbrs, activeId]);
+
+      hierarchicalEdgeSel
+        .attr('stroke-opacity', d => (incident.has(d.source) && incident.has(d.target)) ? 0.95 : 0.12)
+        .attr('stroke-width', d => (incident.has(d.source) && incident.has(d.target)) ? 2.6 : 1.1);
+
+      peerEdgeSel
+        .attr('stroke-opacity', d => (incident.has(d.source) && incident.has(d.target)) ? 0.85 : 0.08)
+        .attr('stroke-width', d => (incident.has(d.source) && incident.has(d.target)) ? 2.4 : 1.0);
+
+      nodeSel.selectAll('circle')
+        .attr('opacity', nd => incident.has(nd.id) ? 1.0 : 0.2);
+    };
+    applyHighlight();
+
+    // Zoom
     const zoom = d3.zoom()
       .scaleExtent([0.1, 4])
       .on('zoom', (event) => g.attr('transform', event.transform));
     svg.call(zoom);
 
-    return () => tooltip.remove();
-  }, [data, dimensions, onNodeClick, selectedNode]);
+    // Cleanup
+    return () => {
+      tooltip.remove();
+    };
+
+  }, [data, dimensions, onNodeClick, selectedNode, showPeerConnections]);
 
   useEffect(() => {
     const handleResize = () => {
@@ -209,134 +320,49 @@ const ChainFlowGraph = ({ data, onNodeClick, selectedNode }) => {
     return () => window.removeEventListener('resize', handleResize);
   }, []);
 
-  return (
-    <svg ref={svgRef} className="chain-flow-graph" width="100%" height="100%" />
-  );
+  return <svg ref={svgRef} className="chain-flow-graph" width="100%" height="100%" />;
 };
 
-/* ============================== helpers ============================== */
+/* ============================== curved edge routing ============================== */
 
-function buildRadiusMap(nodes, centerId, rScale, weightedDegree) {
-  const m = new Map();
-  nodes.forEach(n => {
-    const w = weightedDegree.get(n.id) ?? 0;
-    const r = (n.id === centerId || n.type === 'center') ? Math.max(20, rScale(w)) : rScale(w);
-    m.set(n.id, r);
-  });
-  return m;
-}
-
-/**
- * Assign track numbers to edges to prevent overlapping vertical segments
- */
-function assignEdgeTracks(edges, layout, nodes) {
-  // Get layer for each node
-  const nodeLayer = new Map();
-  nodes.forEach(n => {
-    const pos = layout.nodePositions.get(n.id);
-    if (pos) {
-      // Approximate layer based on X position
-      nodeLayer.set(n.id, Math.round(pos.x / 100));
-    }
-  });
-
-  // Group edges by (source_layer, target_layer) pair
-  const groups = new Map();
-  
-  edges.forEach(edge => {
-    const sLayer = nodeLayer.get(edge.source) ?? 0;
-    const tLayer = nodeLayer.get(edge.target) ?? 0;
-    const key = `${sLayer}-${tLayer}`;
-    
-    if (!groups.has(key)) {
-      groups.set(key, []);
-    }
-    groups.get(key).push(edge);
-  });
-
-  // For each group, sort by Y positions and assign tracks
-  const edgesWithTracks = [];
-  
-  groups.forEach((groupEdges, key) => {
-    // Sort by source Y, then target Y
-    groupEdges.sort((a, b) => {
-      const sA = layout.nodePositions.get(a.source);
-      const sB = layout.nodePositions.get(b.source);
-      const tA = layout.nodePositions.get(a.target);
-      const tB = layout.nodePositions.get(b.target);
-      
-      if (!sA || !sB || !tA || !tB) return 0;
-      
-      // Sort by average Y position of source and target
-      const avgA = (sA.y + tA.y) / 2;
-      const avgB = (sB.y + tB.y) / 2;
-      
-      return avgA - avgB;
-    });
-    
-    // Assign track numbers (centered around 0)
-    const numEdges = groupEdges.length;
-    const offset = Math.floor(numEdges / 2);
-    
-    groupEdges.forEach((edge, idx) => {
-      edgesWithTracks.push({
-        ...edge,
-        track: idx - offset
-      });
-    });
-  });
-
-  return edgesWithTracks;
-}
-
-/**
- * Orthogonal elbow path with start/end padded by node radii
- * Now with track offset to prevent overlapping
- */
-function orthogonalPath(s, t, rs, rt, opts = {}) {
-  const { dxPad = 8, prefer = 'mid', track = 0, trackSpacing = 14 } = opts;
-  
+function interLayerCurvePath(s, t, rs, rt) {
   if (!s || !t) return '';
-
-  const dir = Math.sign(t.x - s.x) || 1; // +1 right, -1 left
-  
-  // Start and end points (padded by node radii)
-  const s0 = { x: s.x + dir * (rs + dxPad), y: s.y };
-  const t0 = { x: t.x - dir * (rt + dxPad), y: t.y };
-
-  // Calculate base middle X
-  let mx;
-  if (prefer === 'source') {
-    mx = s0.x + dir * Math.max(40, Math.abs(t0.x - s0.x) * 0.35);
-  } else if (prefer === 'target') {
-    mx = t0.x - dir * Math.max(40, Math.abs(t0.x - s0.x) * 0.35);
-  } else {
-    mx = (s0.x + t0.x) / 2;
-  }
-
-  if (Math.abs(t0.x - s0.x) < 4) {
-    mx = s0.x + dir * 40;
-  }
-
-  // APPLY TRACK OFFSET
-  mx = mx + (dir * track * trackSpacing);
-
-  return `M${s0.x},${s0.y} L${mx},${s0.y} L${mx},${t0.y} L${t0.x},${t0.y}`;
+  const PAD = 8;
+  const dir = Math.sign(t.x - s.x) || 1;
+  const s0 = { x: s.x + dir * (rs + PAD), y: s.y };
+  const t0 = { x: t.x - dir * (rt + PAD), y: t.y };
+  const dx = Math.max(40, Math.abs(t0.x - s0.x) * 0.35);
+  const dy = Math.abs(t0.y - s0.y);
+  const spread = 0.15 * dy;
+  const c1 = { x: s0.x + dir * dx, y: s0.y + (t0.y > s0.y ? +spread : -spread) };
+  const c2 = { x: t0.x - dir * dx, y: t0.y + (t0.y > s0.y ? -spread : +spread) };
+  return `M${s0.x},${s0.y} C${c1.x},${c1.y} ${c2.x},${c2.y} ${t0.x},${t0.y}`;
 }
 
-/* ============================== layout (columns only) ============================== */
+function peerCurvePath(s, t, rs, rt, { layer }) {
+  if (!s || !t) return '';
+  const PAD = 8;
+  const dir = layer >= 0 ? 1 : -1;
+  const s0 = { x: s.x + dir * (rs + PAD), y: s.y };
+  const t0 = { x: t.x + dir * (rt + PAD), y: t.y };
+  const dy = Math.abs(t0.y - s0.y);
+  const dx = 40 + 0.25 * dy;
+  const c1 = { x: s0.x + dir * dx, y: s0.y };
+  const c2 = { x: t0.x + dir * dx, y: t0.y };
+  return `M${s0.x},${s0.y} C${c1.x},${c1.y} ${c2.x},${c2.y} ${t0.x},${t0.y}`;
+}
 
-function calculateSugiyamaLayout(data, width, height) {
+/* ============================== layout ============================== */
+
+function calculateLayoutWithFirstLayerColumns(data, width, height) {
   const { nodes, edges, centerPersonId } = data;
 
-  // adjacency
   const outgoing = new Map(), incoming = new Map();
   nodes.forEach(n => { outgoing.set(n.id, []); incoming.set(n.id, []); });
   edges.forEach(e => { outgoing.get(e.source).push(e.target); incoming.get(e.target).push(e.source); });
 
   const center = centerPersonId;
 
-  // BFS
   const bfs = (start, nbrs) => {
     const dist = new Map(nodes.map(n => [n.id, Infinity]));
     const q = [start]; dist.set(start, 0);
@@ -352,7 +378,6 @@ function calculateSugiyamaLayout(data, width, height) {
   const fwd = bfs(center, outgoing);
   const back = bfs(center, incoming);
 
-  // signed layers
   const layerOf = new Map();
   nodes.forEach(n => {
     if (n.id === center) return layerOf.set(n.id, 0);
@@ -364,139 +389,177 @@ function calculateSugiyamaLayout(data, width, height) {
     else layerOf.set(n.id, 9999);
   });
 
-  // group by layer + seed order
-  const degree = new Map(nodes.map(n => [n.id, incoming.get(n.id).length + outgoing.get(n.id).length]));
   const layers = new Map();
-  
   nodes.forEach(n => {
     const L = layerOf.get(n.id);
     if (!layers.has(L)) layers.set(L, []);
     layers.get(L).push(n.id);
   });
 
+  const nameOf = new Map(nodes.map(n => [n.id, n.name || '']));
+  const degree = new Map(nodes.map(n => [n.id, incoming.get(n.id).length + outgoing.get(n.id).length]));
   for (const [L, arr] of layers.entries()) {
     arr.sort((a,b) => {
       const da = degree.get(a), db = degree.get(b);
       if (db !== da) return db - da;
-      const na = (nodes.find(x=>x.id===a)?.name || '');
-      const nb = (nodes.find(x=>x.id===b)?.name || '');
-      return na.localeCompare(nb, 'en');
+      return nameOf.get(a).localeCompare(nameOf.get(b), 'en');
     });
   }
 
-  const sortedLayers = [...layers.keys()].sort((a,b)=>a-b);
-  const minL = Math.min(...sortedLayers), maxL = Math.max(...sortedLayers);
-
-  // barycenter sweeps for all |L|>=1 (columns everywhere)
-  const baryOrder = (ids, neighborMap, refIdx) =>
-    ids.map(id => {
-      const idxs = (neighborMap.get(id) || [])
-        .map(v => refIdx.get(v))
-        .filter(i => i !== undefined)
-        .sort((a,b)=>a-b);
-      if (!idxs.length) return [id, Number.POSITIVE_INFINITY];
-      const m = idxs.length & 1
-        ? idxs[(idxs.length-1)/2]
-        : (idxs[idxs.length/2-1] + idxs[idxs.length/2]) / 2;
-      return [id, m];
-    }).sort((a,b)=>a[1]-b[1]).map(([id])=>id);
-
-  const iters = 3;
-  for (let it = 0; it < iters; it++) {
-    // Forward sweep (left to right)
-    for (let L = Math.max(1, minL+1); L <= maxL; L++) {
-      if (!layers.has(L) || !layers.has(L-1)) continue;
-      const refIdx = new Map(layers.get(L-1).map((id,i)=>[id,i]));
-      layers.set(L, baryOrder(layers.get(L), incoming, refIdx));
-    }
-    // Backward sweep (right to left)
-    for (let L = Math.min(-1, maxL-1); L >= minL; L--) {
-      if (!layers.has(L) || !layers.has(L+1)) continue;
-      const refIdx = new Map(layers.get(L+1).map((id,i)=>[id,i]));
-      layers.set(L, baryOrder(layers.get(L), outgoing, refIdx));
-    }
-    // Additional sweeps for better convergence
-    for (let L = Math.min(1, maxL-1); L >= minL; L--) {
-      if (!layers.has(L) || !layers.has(L+1)) continue;
-      const refIdx = new Map(layers.get(L+1).map((id,i)=>[id,i]));
-      layers.set(L, baryOrder(layers.get(L), outgoing, refIdx));
-    }
-    for (let L = Math.max(-1, minL+1); L <= maxL; L++) {
-      if (!layers.has(L) || !layers.has(L-1)) continue;
-      const refIdx = new Map(layers.get(L-1).map((id,i)=>[id,i]));
-      layers.set(L, baryOrder(layers.get(L), incoming, refIdx));
-    }
-  }
-
-  // geometry (columns for all layers)
   const W = width, H = height;
   const centerX = W / 2, centerY = H / 2;
   const colPad = 80, baseDx = 160;
-
+  const nodePositions = new Map();
   const nodeY = new Map();
-  nodeY.set(center, centerY);
 
+  nodePositions.set(center, { x: centerX, y: centerY });
+  nodeY.set(center, centerY);
   if (layers.has(0)) {
     const arr0 = layers.get(0);
-    const idx = arr0.indexOf(center);
-    if (idx > 0) { arr0.splice(idx,1); arr0.unshift(center); }
+    const idx0 = arr0.indexOf(center);
+    if (idx0 > 0) { arr0.splice(idx0,1); arr0.unshift(center); }
     if (arr0.length > 1) {
       const vs = 42, start = centerY - ((arr0.length-1)*vs)/2;
-      arr0.forEach((id,i) => { if (id!==center) nodeY.set(id, start + i*vs); });
+      arr0.forEach((id,i) => { if (id !== center) nodeY.set(id, start + i*vs); });
+      arr0.forEach(id => {
+        if (!nodePositions.has(id)) nodePositions.set(id, { x: centerX + 2, y: nodeY.get(id) ?? centerY });
+      });
     }
   }
 
-  const nodePositions = new Map();
-  nodePositions.set(center, { x: centerX, y: centerY });
-  
+  const layer0 = layers.get(0) || [center];
+  const idx0 = new Map(layer0.map((id,i) => [id, i]));
+  const neighborMedianIndex = (id, useIncoming) => {
+    const nbs = (useIncoming ? incoming.get(id) : outgoing.get(id) || [])
+      .filter(v => layerOf.get(v) === 0)
+      .map(v => idx0.get(v))
+      .filter(v => v !== undefined)
+      .sort((a,b)=>a-b);
+    if (!nbs.length) return Number.POSITIVE_INFINITY;
+    return (nbs.length & 1) ? nbs[(nbs.length-1)/2] : (nbs[nbs.length/2-1] + nbs[nbs.length/2]) / 2;
+  };
+
+  const packFirstLayer = (L) => {
+    if (!layers.has(L)) return;
+    const ids = layers.get(L).slice();
+    if (!ids.length) return;
+
+    const side = (L > 0) ? +1 : -1;
+    const useIncoming = (L > 0);
+
+    ids.sort((a,b) => {
+      const ma = neighborMedianIndex(a, useIncoming);
+      const mb = neighborMedianIndex(b, useIncoming);
+      if (ma !== mb) return ma - mb;
+      const da = degree.get(a), db = degree.get(b);
+      if (db !== da) return db - da;
+      return nameOf.get(a).localeCompare(nameOf.get(b), 'en');
+    });
+
+    const rowSpacing = 38;
+    const targetRows = Math.min(24, Math.max(8, Math.floor(0.9 * H / rowSpacing)));
+    const K = Math.max(1, Math.ceil(ids.length / targetRows));
+
+    const baseX = side === 1 ? (centerX + (baseDx + colPad)) : (centerX - (baseDx + colPad));
+    const colGap = 120;
+    const xForCol = (c) => baseX + side * (c * colGap);
+
+    const desiredY = (i) => {
+      const total = (Math.min(ids.length, targetRows) - 1) * rowSpacing;
+      return centerY - total / 2 + (Math.min(i, targetRows - 1) * rowSpacing);
+    };
+
+    const cols = Array.from({ length: K }, () => ({ y: -Infinity, members: [] }));
+    ids.forEach((id, i) => {
+      const wantY = desiredY(i % targetRows);
+      let best = 0, bestScore = Infinity;
+      cols.forEach((c, idx) => {
+        const lastY = (c.members.length ? nodeY.get(c.members[c.members.length - 1]) : -Infinity);
+        const score = Math.abs((isFinite(lastY) ? lastY : wantY) - wantY);
+        if (score < bestScore) { bestScore = score; best = idx; }
+      });
+      cols[best].members.push(id);
+    });
+
+    cols.forEach((c, ci) => {
+      const n = c.members.length;
+      if (!n) return;
+      const total = (n - 1) * rowSpacing;
+      let start = centerY - total / 2;
+      c.members.forEach((id, j) => {
+        const y = start + j * rowSpacing;
+        nodeY.set(id, y);
+        nodePositions.set(id, { x: xForCol(ci), y });
+      });
+    });
+  };
+
+  packFirstLayer(-1);
+  packFirstLayer(+1);
+
+  const verticalSpread = n => Math.max(46, Math.min(110, (H * 0.9) / Math.max(1,n)));
+
+  const placeOuter = (L) => {
+    if (!layers.has(L)) return;
+    const ids = layers.get(L);
+    if (!ids.length) return;
+
+    const x = (L < 0)
+      ? centerX - (Math.abs(L) * baseDx + colPad)
+      : centerX + (Math.abs(L) * baseDx + colPad);
+
+    const nbrLayer = (L > 0) ? L - 1 : L + 1;
+    const refIds = layers.get(nbrLayer) || [];
+    const refIdx = new Map(refIds.map((id,i)=>[id,i]));
+    const neighborMap = (L > 0) ? incoming : outgoing;
+
+    const order = (arr) =>
+      arr.map(id => {
+        const idxs = (neighborMap.get(id) || [])
+          .map(v => refIdx.get(v))
+          .filter(i => i !== undefined)
+          .sort((a,b)=>a-b);
+        if (!idxs.length) return [id, Number.POSITIVE_INFINITY];
+        const m = (idxs.length & 1) ? idxs[(idxs.length-1)/2] : (idxs[idxs.length/2-1] + idxs[idxs.length/2]) / 2;
+        return [id, m];
+      }).sort((a,b)=>a[1]-b[1]).map(([id])=>id);
+
+    const ord = order(ids);
+    const vs = verticalSpread(ord.length);
+    const total = (ord.length - 1) * vs;
+    let start = centerY - total / 2;
+    ord.forEach((id,i) => nodeY.set(id, start + i*vs));
+
+    const lambda = 0.35;
+    ord.forEach(id => {
+      const nbs = (neighborMap.get(id) || []).filter(v => layerOf.get(v) === nbrLayer);
+      const ys = nbs.map(v => nodeY.get(v)).filter(y => y !== undefined).sort((a,b)=>a-b);
+      if (!ys.length) return;
+      const m = (ys.length & 1) ? ys[(ys.length-1)/2] : (ys[ys.length/2-1] + ys[ys.length/2]) / 2;
+      nodeY.set(id, nodeY.get(id)*(1-lambda) + m*lambda);
+    });
+
+    start = centerY - total / 2;
+    ord.forEach((id,i) => {
+      const y = start + i * vs;
+      nodeY.set(id, y);
+      nodePositions.set(id, { x, y });
+    });
+  };
+
+  const layerKeys = [...layers.keys()];
+  const posLayers = layerKeys.filter(L => L > 1).sort((a,b)=>a-b);
+  const negLayers = layerKeys.filter(L => L < -1).sort((a,b)=>b-a);
+  posLayers.forEach(placeOuter);
+  negLayers.forEach(placeOuter);
+
   if (layers.has(0)) {
     layers.get(0).forEach(id => {
       if (!nodePositions.has(id)) nodePositions.set(id, { x: centerX + 2, y: nodeY.get(id) ?? centerY });
     });
   }
 
-  const verticalSpread = n => Math.max(46, Math.min(110, (H * 0.9) / Math.max(1,n)));
-
-  const placeColumn = (ids, L) => {
-    if (!ids.length) return;
-    const distanceFromCenter = Math.abs(L);
-    const x = L < 0
-      ? centerX - (distanceFromCenter * baseDx + colPad)
-      : centerX + (distanceFromCenter * baseDx + colPad);
-
-    const nbrLayer = (L > 0) ? L - 1 : L + 1;
-    const vs = verticalSpread(ids.length);
-    const total = (ids.length - 1) * vs;
-    let start = centerY - total / 2;
-
-    // initial packing
-    ids.forEach((id,i) => nodeY.set(id, start + i*vs));
-
-    // relax toward neighbor medians
-    const lambda = 0.55;
-    ids.forEach(id => {
-      const nbrs = (L > 0 ? incoming.get(id) : outgoing.get(id))
-        .filter(v => (layerOf.get(v) === nbrLayer));
-      const ys = nbrs.map(v => nodeY.get(v)).filter(y => y !== undefined).sort((a,b)=>a-b);
-      if (!ys.length) return;
-      const m = ys.length & 1 ? ys[(ys.length-1)/2] : (ys[ys.length/2-1]+ys[ys.length/2])/2;
-      nodeY.set(id, nodeY.get(id)*(1-lambda) + m*lambda);
-    });
-
-    // re-pack to keep spacing/order deterministically
-    start = centerY - total/2;
-    ids.forEach((id,i) => nodeY.set(id, start + i*vs));
-
-    ids.forEach(id => nodePositions.set(id, { x, y: nodeY.get(id) }));
-  };
-
-  const posLayers = sortedLayers.filter(L => L > 0).sort((a,b)=>a-b);
-  const negLayers = sortedLayers.filter(L => L < 0).sort((a,b)=>b-a);
-  
-  posLayers.forEach(L => placeColumn(layers.get(L), L));
-  negLayers.forEach(L => placeColumn(layers.get(L), L));
-
-  return { nodePositions, layers };
+  return { nodePositions, layers, layerOf, incoming, outgoing };
 }
 
 export default ChainFlowGraph;

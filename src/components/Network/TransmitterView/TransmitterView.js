@@ -8,6 +8,8 @@ import StatsPanel from '../shared/StatsPanel';
  */
 const TransmitterView = ({ personId, data, onViewChange }) => {
   const [selectedNode, setSelectedNode] = useState(null);
+  const [showPeerConnections, setShowPeerConnections] = useState(false); // Default OFF
+  
   const profile = data.profiles[personId];
   
   const chainGraphData = useMemo(() => {
@@ -96,11 +98,27 @@ const TransmitterView = ({ personId, data, onViewChange }) => {
   return (
     <div className="transmitter-view">
       <div className="view-header">
-        <h2>{profile.name}</h2>
-        <div className="view-stats">
-          <span>Total chains: {profile.transmission_activity.total_chains}</span>
-          <span>Unique nodes: {chainGraphData.nodes.length}</span>
-          <span>Unique edges: {chainGraphData.edges.length}</span>
+        <div>
+          <h2>{profile.name}</h2>
+          <div className="view-stats">
+            <span>Total chains: {profile.transmission_activity.total_chains}</span>
+            <span>Unique nodes: {chainGraphData.nodes.length}</span>
+            <span>Unique edges: {chainGraphData.edges.length}</span>
+          </div>
+        </div>
+        
+        <div className="view-controls">
+          <label className="toggle-control">
+            <input
+              type="checkbox"
+              checked={showPeerConnections}
+              onChange={(e) => setShowPeerConnections(e.target.checked)}
+            />
+            <span className="toggle-label">Show Peer Connections</span>
+            <span className="toggle-hint">
+              (same-level & level-skipping edges)
+            </span>
+          </label>
         </div>
       </div>
       
@@ -110,6 +128,7 @@ const TransmitterView = ({ personId, data, onViewChange }) => {
             data={chainGraphData}
             onNodeClick={handleNodeClick}
             selectedNode={selectedNode}
+            showPeerConnections={showPeerConnections}
           />
         </div>
         

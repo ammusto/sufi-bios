@@ -1,0 +1,6733 @@
+{
+  "512": {
+    "bio_id": "512",
+    "name_ar": "حسن المسوحي",
+    "name_lat": "Ḥasan al-Masūḥī",
+    "has_json": [
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "200": {
+    "bio_id": "200",
+    "name_ar": "احمد بن ابراهيم المسوحي",
+    "name_lat": "Aḥmad b. Ibrāhīm al-Masūḥī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "592": {
+    "bio_id": "592",
+    "name_ar": "سعدون مجنون",
+    "name_lat": "Saʿdūn Majnūn",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "340": {
+    "bio_id": "340",
+    "name_ar": "أبو العباس بن عطاء الآدمي",
+    "name_lat": "Abū al-ʿAbbās b. ʿAṭāʾ al-Ādamī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "378": {
+    "bio_id": "378",
+    "name_ar": "أبو بكر الكتاني",
+    "name_lat": "Abū Bakr al-Kattānī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "107": {
+    "bio_id": "107",
+    "name_ar": "ابو جعفر محمد بن علي النسوي",
+    "name_lat": "Abū Jaʿfar Muḥammad b. ʿAlī al-Nasawī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "316": {
+    "bio_id": "316",
+    "name_ar": "أبو الحسين بن جهضم الهمداني",
+    "name_lat": "Abū al-Ḥusayn b. Jahḍam al-Hamadānī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "844": {
+    "bio_id": "844",
+    "name_ar": "يحى بن معاذ",
+    "name_lat": "Yaḥyā b. Muʿādh al-Rāzī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "435": {
+    "bio_id": "435",
+    "name_ar": "أبو يزيد البسطامي",
+    "name_lat": "Abū Yazīd al-Bisṭāmī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "570": {
+    "bio_id": "570",
+    "name_ar": "ذو النون المصري",
+    "name_lat": "Dhū al-Nūn al-Miṣrī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "715": {
+    "bio_id": "715",
+    "name_ar": "عمرو النيسابوري/أبو حفص النيسابوري",
+    "name_lat": "Abū Ḥafṣ al-Naysābūrī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "655": {
+    "bio_id": "655",
+    "name_ar": "عبد اللّه مهدي باوردي",
+    "name_lat": "ʿAbd Allāh Mahdī Bāwardī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "524": {
+    "bio_id": "524",
+    "name_ar": "حمدون بن أحمد",
+    "name_lat": "Ḥamdūn b. Aḥmad al-Qaṣṣār",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "291": {
+    "bio_id": "291",
+    "name_ar": "أبو الحسن الباروسي",
+    "name_lat": "Abū al-Ḥasan al-Bārūsī",
+    "has_json": [],
+    "person_id": null
+  },
+  "816": {
+    "bio_id": "816",
+    "name_ar": "منصور بن عمار",
+    "name_lat": "Manṣūr b. ʿAmmār",
+    "has_json": [
+      "sulami"
+    ],
+    "person_id": null
+  },
+  "446": {
+    "bio_id": "446",
+    "name_ar": "أحمد بن عاصم الأنطاكي",
+    "name_lat": "Aḥmad b. ʿĀṣim al-Anṭākī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "789": {
+    "bio_id": "789",
+    "name_ar": "محمد بن منصور",
+    "name_lat": "Muḥammad b. Manṣūr",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "708": {
+    "bio_id": "708",
+    "name_ar": "علي هكي",
+    "name_lat": "ʿAlī Hikī",
+    "has_json": [],
+    "person_id": null
+  },
+  "791": {
+    "bio_id": "791",
+    "name_ar": "محمد بن يوسف بنا",
+    "name_lat": "Muḥammad b. Yūsuf Bannāʾ",
+    "has_json": [
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "672": {
+    "bio_id": "672",
+    "name_ar": "عبد الواحد بن زيد",
+    "name_lat": "ʿAbd al-Wāḥid b. Zayd",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "605": {
+    "bio_id": "605",
+    "name_ar": "سهل بن عبد الله",
+    "name_lat": "Sahl b. ʿAbd Allāh al-Tustarī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "647": {
+    "bio_id": "647",
+    "name_ar": "عباس بن حمزه نيسابوري",
+    "name_lat": "ʿAbbās b. Ḥamza al-Naysābūrī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "203": {
+    "bio_id": "203",
+    "name_ar": "احمد بن وهب",
+    "name_lat": "Aḥmad b. Wahb",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "649": {
+    "bio_id": "649",
+    "name_ar": "عباس بن يوسفالشكلي",
+    "name_lat": "ʿAbbās b. Yūsuf al-Shaklī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "648": {
+    "bio_id": "648",
+    "name_ar": "عباس بن شاعر الازدي",
+    "name_lat": "ʿAbbās b. al-Shāʿir al-Azdī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "398": {
+    "bio_id": "398",
+    "name_ar": "أبو حمزة أحمد البغدادي",
+    "name_lat": "Abū Ḥamza al-Khurāsānī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "397": {
+    "bio_id": "397",
+    "name_ar": "أبو حمزة البغدادي الخراساني",
+    "name_lat": "Abū Ḥamza al-Baghdādī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "525": {
+    "bio_id": "525",
+    "name_ar": "حمزه بن عبد الله علوي",
+    "name_lat": "Ḥamza b. ʿAbd Allāh ʿAlawī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "619": {
+    "bio_id": "619",
+    "name_ar": "شريف حمزهٔ عقيلي",
+    "name_lat": "Sharīf Ḥamza ʿUqaylī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "123": {
+    "bio_id": "123",
+    "name_ar": "ابو سعيد خراز",
+    "name_lat": "Abū Saʿīd al-Kharrāz",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "403": {
+    "bio_id": "403",
+    "name_ar": "أبو سعيد خراز",
+    "name_lat": "Abū Saʿīd al-Kharrāz",
+    "has_json": [],
+    "person_id": null
+  },
+  "523": {
+    "bio_id": "523",
+    "name_ar": "حماد قرشي",
+    "name_lat": "Ḥammād Qurashī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "172": {
+    "bio_id": "172",
+    "name_ar": "ابو عمر مزدوي",
+    "name_lat": "Abū ʿAmr Mazdawī",
+    "has_json": [],
+    "person_id": null
+  },
+  "175": {
+    "bio_id": "175",
+    "name_ar": "ابو عمروآكاف",
+    "name_lat": "Abū ʿAmr Wākāf",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "439": {
+    "bio_id": "439",
+    "name_ar": "أحمد النوري",
+    "name_lat": "Abū al-Ḥusayn al-Nūrī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "228": {
+    "bio_id": "228",
+    "name_ar": "الجنيد بن محمد الجنيد",
+    "name_lat": "Abū al-Qāsim al-Junayd",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "24": {
+    "bio_id": "24",
+    "name_ar": "ابن الكرنبي",
+    "name_lat": "Ibn al-Karnabī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "50": {
+    "bio_id": "50",
+    "name_ar": "ابو العباس سريج",
+    "name_lat": "Abū al-ʿAbbās Surayj",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "716": {
+    "bio_id": "716",
+    "name_ar": "عمرو بن عثمان المكي",
+    "name_lat": "ʿAmr b. ʿUthmān al-Makkī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "614": {
+    "bio_id": "614",
+    "name_ar": "شاه الكرماني",
+    "name_lat": "Shāh al-Kirmānī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "419": {
+    "bio_id": "419",
+    "name_ar": "أبو عثمان الحيري النيسابوري",
+    "name_lat": "Abū ʿUthmān al-Ḥīrī al-Naysābūrī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "156": {
+    "bio_id": "156",
+    "name_ar": "ابو عثمان مغربي",
+    "name_lat": "Abū ʿUthmān al-Maghribī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "641": {
+    "bio_id": "641",
+    "name_ar": "طلحة نيلي",
+    "name_lat": "Ṭalḥa Nīlī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "451": {
+    "bio_id": "451",
+    "name_ar": "أحمد بن مسروق",
+    "name_lat": "Aḥmad b. Masrūq",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "416": {
+    "bio_id": "416",
+    "name_ar": "أبو عبد الله المغربى",
+    "name_lat": "Abū ʿAbd Allāh al-Maghribī",
+    "has_json": [
+      "sulami",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "431": {
+    "bio_id": "431",
+    "name_ar": "أبو محمد الجريري",
+    "name_lat": "Abū Muḥammad al-Jurayrī",
+    "has_json": [
+      "sulami",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "846": {
+    "bio_id": "846",
+    "name_ar": "يوسف اسباط",
+    "name_lat": "Yūsuf Asbāṭ",
+    "has_json": [],
+    "person_id": null
+  },
+  "142": {
+    "bio_id": "142",
+    "name_ar": "ابو عبد اللّه نباجي",
+    "name_lat": "Abū ʿAbd Allāh al-Nibājī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "460": {
+    "bio_id": "460",
+    "name_ar": "با يعقوب هاشمي",
+    "name_lat": "Abū Yaʿqūb al-Hāshimī",
+    "has_json": [],
+    "person_id": null
+  },
+  "815": {
+    "bio_id": "815",
+    "name_ar": "ممشاد الدينوري",
+    "name_lat": "Mamshād al-Dīnawarī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "284": {
+    "bio_id": "284",
+    "name_ar": "أبو الاسود رامي",
+    "name_lat": "Abū al-Aswad al-Rāmī",
+    "has_json": [],
+    "person_id": null
+  },
+  "515": {
+    "bio_id": "515",
+    "name_ar": "حسن بن علي صموعي",
+    "name_lat": "al-Ḥasan b. ʿAlī Ṣumūʿī",
+    "has_json": [],
+    "person_id": null
+  },
+  "578": {
+    "bio_id": "578",
+    "name_ar": "رويم بن أحمد",
+    "name_lat": "Ruwaym b. Aḥmad al-Baghdādī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "847": {
+    "bio_id": "847",
+    "name_ar": "يوسف الرازي",
+    "name_lat": "Yūsuf b. al-Ḥusayn al-Rāzī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "243": {
+    "bio_id": "243",
+    "name_ar": "الفضيل بن عياض",
+    "name_lat": "al-Fuḍayl b. ʿIyāḍ",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "603": {
+    "bio_id": "603",
+    "name_ar": "سمنون بن حمزة",
+    "name_lat": "Samnūn b. Ḥamza",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "631": {
+    "bio_id": "631",
+    "name_ar": "شيخعرون بنالزنابه",
+    "name_lat": "ʿArūn b. al-Zunāba",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "584": {
+    "bio_id": "584",
+    "name_ar": "زهردن",
+    "name_lat": "Zahardūn",
+    "has_json": [],
+    "person_id": null
+  },
+  "826": {
+    "bio_id": "826",
+    "name_ar": "ميمون مغربي",
+    "name_lat": "Maymūn al-Maghribī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "766": {
+    "bio_id": "766",
+    "name_ar": "محمد بامعتز",
+    "name_lat": "Muḥammad Bāmiʿtaz",
+    "has_json": [],
+    "person_id": null
+  },
+  "686": {
+    "bio_id": "686",
+    "name_ar": "عطاي سليمان",
+    "name_lat": "ʿAṭāʾ Sulaymān",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "810": {
+    "bio_id": "810",
+    "name_ar": "معروف الكرخي",
+    "name_lat": "Maʿrūf al-Karkhī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "697": {
+    "bio_id": "697",
+    "name_ar": "علي بن سهل الإصفهاني",
+    "name_lat": "ʿAlī b. Sahl al-Iṣfahānī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "703": {
+    "bio_id": "703",
+    "name_ar": "علي بن حمزهٔ اصفهاني حلاج",
+    "name_lat": "ʿAlī b. Ḥamza al-Iṣfahānī al-Ḥallāj",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "704": {
+    "bio_id": "704",
+    "name_ar": "علي بن شعيب سقا",
+    "name_lat": "ʿAlī b. Shuʿayb al-Saqqāʾ",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "694": {
+    "bio_id": "694",
+    "name_ar": "علي بن الموفق",
+    "name_lat": "ʿAlī b. al-Muwaffaq",
+    "has_json": [
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "371": {
+    "bio_id": "371",
+    "name_ar": "أبو أحمد القلانسي",
+    "name_lat": "Abū Aḥmad al-Qalānsī",
+    "has_json": [
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "410": {
+    "bio_id": "410",
+    "name_ar": "أبو عبد الله الجلاء",
+    "name_lat": "Abū ʿAbd Allāh b. al-Jallāʾ",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "409": {
+    "bio_id": "409",
+    "name_ar": "أبو عبد الله البصري",
+    "name_lat": "Abū ʿAbd Allāh al-Baṣrī",
+    "has_json": [
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "414": {
+    "bio_id": "414",
+    "name_ar": "أبو عبد الله السجزي",
+    "name_lat": "Abū ʿAbd Allāh al-Sijzī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "136": {
+    "bio_id": "136",
+    "name_ar": "ابو عبد اللّه حصري",
+    "name_lat": "Abū ʿAbd Allāh al-Ḥuṣrī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "21": {
+    "bio_id": "21",
+    "name_ar": "ابن الشرجي",
+    "name_lat": "Ibn al-Sharjī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "478": {
+    "bio_id": "478",
+    "name_ar": "بندار بن الحسن",
+    "name_lat": "Abū al-Ḥasan b. Bundār al-Ṣayrafī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "843": {
+    "bio_id": "843",
+    "name_ar": "وليد بن عبد اللّه سقا",
+    "name_lat": "Walīd b. ʿAbd Allāh al-Saqqāʾ",
+    "has_json": [],
+    "person_id": null
+  },
+  "496": {
+    "bio_id": "496",
+    "name_ar": "جعفر ميرقع",
+    "name_lat": "Jaʿfar Mīrqaʿ",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "770": {
+    "bio_id": "770",
+    "name_ar": "محمد بن الفضل",
+    "name_lat": "Muḥammad b. al-Faḍl al-Balkhī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "783": {
+    "bio_id": "783",
+    "name_ar": "محمد بن علي الترمذي",
+    "name_lat": "Ḥakīm al-Tirmidhī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "140": {
+    "bio_id": "140",
+    "name_ar": "ابو عبد اللّه عباداني",
+    "name_lat": "Abū ʿAbd Allāh ʿAbādānī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "139": {
+    "bio_id": "139",
+    "name_ar": "أبو عبد الله بن سالم البصري",
+    "name_lat": "Abū ʿAbd Allāh b. Sālim al-Baṣrī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "135": {
+    "bio_id": "135",
+    "name_ar": "ابو عبد اللّه جاوباره همداني",
+    "name_lat": "Abū ʿAbd Allāh Jāwbāra al-Hamadānī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "380": {
+    "bio_id": "380",
+    "name_ar": "أبو بكر الوراق",
+    "name_lat": "Abū Bakr al-Warrāq",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "54": {
+    "bio_id": "54",
+    "name_ar": "ابو القاسم حكتم اسخن سمرقندي",
+    "name_lat": "Abū al-Qāsim Ḥakīm Sakhīn al-Samarqandī",
+    "has_json": [],
+    "person_id": null
+  },
+  "840": {
+    "bio_id": "840",
+    "name_ar": "هاشمي سندي",
+    "name_lat": "Hāshimī Sundī",
+    "has_json": [],
+    "person_id": null
+  },
+  "78": {
+    "bio_id": "78",
+    "name_ar": "ابو بكر صندي",
+    "name_lat": "Abū Bakr Ṣaghdī",
+    "has_json": [],
+    "person_id": null
+  },
+  "777": {
+    "bio_id": "777",
+    "name_ar": "محمد بن حسن جوهري",
+    "name_lat": "Muḥammad b. al-Ḥasan al-Jawharī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "86": {
+    "bio_id": "86",
+    "name_ar": "ابو بكر كسائي دينوري",
+    "name_lat": "Abū Bakr Kisāʾī al-Dīnawarī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "25": {
+    "bio_id": "25",
+    "name_ar": "ابن أبي الورد",
+    "name_lat": "Aḥmad b. Abī al-Ward",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "421": {
+    "bio_id": "421",
+    "name_ar": "أبو علي الجورجاني",
+    "name_lat": "Abū ʿAlī al-Jūzjānī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "640": {
+    "bio_id": "640",
+    "name_ar": "طاهر المقدسى",
+    "name_lat": "Ṭāhir al-Maqdisī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "465": {
+    "bio_id": "465",
+    "name_ar": "بايعقوب مزابلي",
+    "name_lat": "Abū Yaʿqūb Mazābilī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "199": {
+    "bio_id": "199",
+    "name_ar": "ابو يعقوب موسي",
+    "name_lat": "Abū Yaʿqūb Mūsā",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "437": {
+    "bio_id": "437",
+    "name_ar": "أبو يعقوب بن محمد النهرجوري",
+    "name_lat": "Abū Yaʿqūb b. Muḥammad al-Nahrajūrī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "466": {
+    "bio_id": "466",
+    "name_ar": "بايعقوب ميداني",
+    "name_lat": "Abū Yaʿqūb Maydānī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "564": {
+    "bio_id": "564",
+    "name_ar": "خير النساج",
+    "name_lat": "Khayr al-Nassāj",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "761": {
+    "bio_id": "761",
+    "name_ar": "محفوظ بن محمود",
+    "name_lat": "Maḥfūẓ b. Maḥmūd",
+    "has_json": [
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "268": {
+    "bio_id": "268",
+    "name_ar": "إبراهيم الخواص",
+    "name_lat": "Abū Isḥāq Ibrāhīm al-Khawwāṣ",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "122": {
+    "bio_id": "122",
+    "name_ar": "ابو سعيد جريري",
+    "name_lat": "Abū Saʿīd al-Jurayrī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "338": {
+    "bio_id": "338",
+    "name_ar": "أبو العباس أحمد الدينوري",
+    "name_lat": "Abū al-ʿAbbās Aḥmad al-Dīnawarī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "245": {
+    "bio_id": "245",
+    "name_ar": "القاسم السياري",
+    "name_lat": "Abū al-ʿAbbās al-Qāsim al-Sayyārī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "48": {
+    "bio_id": "48",
+    "name_ar": "ابو العباس باوردي",
+    "name_lat": "Abū al-ʿAbbās Bāwardī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "49": {
+    "bio_id": "49",
+    "name_ar": "ابو العباس بردعي",
+    "name_lat": "Abū al-ʿAbbās Bardaʿī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "343": {
+    "bio_id": "343",
+    "name_ar": "أبو العباس سهروردي",
+    "name_lat": "Abū al-ʿAbbās Suhrawardī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "53": {
+    "bio_id": "53",
+    "name_ar": "ابو العباس نهاوندي",
+    "name_lat": "Abū al-ʿAbbās Nihāwandī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "52": {
+    "bio_id": "52",
+    "name_ar": "ابو العباس نسائي",
+    "name_lat": "Abū al-ʿAbbās Nasāʾī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "358": {
+    "bio_id": "358",
+    "name_ar": "أبو القاسم قصاب آملي",
+    "name_lat": "Abū al-Qāsim Qaṣṣāb Āmulī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "722": {
+    "bio_id": "722",
+    "name_ar": "فارس حمال",
+    "name_lat": "Fāris al-Ḥammāl",
+    "has_json": [],
+    "person_id": null
+  },
+  "51": {
+    "bio_id": "51",
+    "name_ar": "ابو العباس سريج",
+    "name_lat": "Abū al-ʿAbbās Surayj",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "670": {
+    "bio_id": "670",
+    "name_ar": "عبد المزيز",
+    "name_lat": "ʿAbd al-ʿAzīz",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "272": {
+    "bio_id": "272",
+    "name_ar": "إبراهيم بن السري",
+    "name_lat": "Ibrāhīm b. al-Sarī",
+    "has_json": [
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "232": {
+    "bio_id": "232",
+    "name_ar": "الحسين بن منصور الحلاج",
+    "name_lat": "al-Ḥusayn b. Manṣūr al-Ḥallāj",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "630": {
+    "bio_id": "630",
+    "name_ar": "منصور كاوركلاء",
+    "name_lat": "Manṣūr Kāwurkallāʾ",
+    "has_json": [],
+    "person_id": null
+  },
+  "425": {
+    "bio_id": "425",
+    "name_ar": "أبو عمرو الدمشقي",
+    "name_lat": "Abū ʿAmr al-Dimashqī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "767": {
+    "bio_id": "767",
+    "name_ar": "محمد بن اسماعيل و محمد بن حاسـد ترمذي",
+    "name_lat": "Muḥammad b. Ismāʿīl wa-Muḥammad b. Ḥāsid al-Tirmidhī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "653": {
+    "bio_id": "653",
+    "name_ar": "عبد اللّه بن محمد خراز",
+    "name_lat": "ʿAbd Allāh b. Muḥammad al-Kharrāz",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "476": {
+    "bio_id": "476",
+    "name_ar": "بنان البغدادي",
+    "name_lat": "Banān b. ʿAmr al-Ḥammāl",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "42": {
+    "bio_id": "42",
+    "name_ar": "ابو الحسن مزين صغني",
+    "name_lat": "Abū al-Ḥasan Muzayyin Ṣughrā",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "293": {
+    "bio_id": "293",
+    "name_ar": "أبو الحسن الصائغ",
+    "name_lat": "Abū al-Ḥasan al-Ṣāʾigh",
+    "has_json": [
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "307": {
+    "bio_id": "307",
+    "name_ar": "أبو الحسن عيسيثي",
+    "name_lat": "Abū al-Ḥasan ʿĪsawī",
+    "has_json": [],
+    "person_id": null
+  },
+  "28": {
+    "bio_id": "28",
+    "name_ar": "ابن شمره",
+    "name_lat": "Ibn Shumra",
+    "has_json": [],
+    "person_id": null
+  },
+  "40": {
+    "bio_id": "40",
+    "name_ar": "ابو الحسن سوعلي",
+    "name_lat": "Abū al-Ḥasan Sūʿalī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "13": {
+    "bio_id": "13",
+    "name_ar": "ابراهيم بنداود قصار رقي",
+    "name_lat": "Ibrāhīm b. Dāwūd Qaṣṣār al-Raqqī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "221": {
+    "bio_id": "221",
+    "name_ar": "اسرافيل",
+    "name_lat": "Isrāfīl",
+    "has_json": [],
+    "person_id": null
+  },
+  "100": {
+    "bio_id": "100",
+    "name_ar": "ابو جعفر حفار",
+    "name_lat": "Abū Jaʿfar Ḥaffār",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "104": {
+    "bio_id": "104",
+    "name_ar": "ابو جعفر صيدلاني",
+    "name_lat": "Abū Jaʿfar al-Ṣaydalānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "108": {
+    "bio_id": "108",
+    "name_ar": "ابو جمش قوماني",
+    "name_lat": "Abū Jumash Qūmānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "98": {
+    "bio_id": "98",
+    "name_ar": "ابو جعفر احمد بن حمدان بن علي بن سنان",
+    "name_lat": "Abū Jaʿfar Aḥmad b. Ḥamdān b. ʿAlī b. Sinān",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "106": {
+    "bio_id": "106",
+    "name_ar": "ابو جعفر قرقباني",
+    "name_lat": "Abū Jaʿfar Qarabānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "389": {
+    "bio_id": "389",
+    "name_ar": "أبو جعفر الحداد",
+    "name_lat": "Abū Jaʿfar al-Ḥaddād",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "808": {
+    "bio_id": "808",
+    "name_ar": "معاذ مصري",
+    "name_lat": "Muʿādh al-Miṣrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "393": {
+    "bio_id": "393",
+    "name_ar": "أبو جعفر المجذوم",
+    "name_lat": "Abū Jaʿfar al-Majdhūm",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "312": {
+    "bio_id": "312",
+    "name_ar": "أبو الحسين الوراق النيسابوري",
+    "name_lat": "Abū al-Ḥusayn al-Warrāq al-Naysābūrī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "318": {
+    "bio_id": "318",
+    "name_ar": "أبو الحسين دراج",
+    "name_lat": "Abū al-Ḥusayn al-Darrāj",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "319": {
+    "bio_id": "319",
+    "name_ar": "أبو الحسين سلامي",
+    "name_lat": "Abū al-Ḥusayn al-Salāmī",
+    "has_json": [],
+    "person_id": null
+  },
+  "321": {
+    "bio_id": "321",
+    "name_ar": "أبو الحسين مالكي",
+    "name_lat": "Abū al-Ḥusayn al-Mālikī",
+    "has_json": [],
+    "person_id": null
+  },
+  "404": {
+    "bio_id": "404",
+    "name_ar": "أبو سليمان الداراني",
+    "name_lat": "Abū Sulaymān al-Dārānī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "379": {
+    "bio_id": "379",
+    "name_ar": "أبو بكر الواسطي",
+    "name_lat": "Abū Bakr al-Wāsiṭī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "375": {
+    "bio_id": "375",
+    "name_ar": "أبو بكر الزقاق",
+    "name_lat": "Abū Bakr al-Zaqqāq",
+    "has_json": [
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "74": {
+    "bio_id": "74",
+    "name_ar": "ابو بكر شفاق",
+    "name_lat": "Abū Bakr Shafāq",
+    "has_json": [],
+    "person_id": null
+  },
+  "422": {
+    "bio_id": "422",
+    "name_ar": "أبو علي الروذباري",
+    "name_lat": "Abū ʿAlī al-Rūdhbārī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "376": {
+    "bio_id": "376",
+    "name_ar": "أبو بكر الشبلي",
+    "name_lat": "Abū Bakr al-Shiblī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "112": {
+    "bio_id": "112",
+    "name_ar": "ابو حلي ثقفي",
+    "name_lat": "Abū ʿAlī al-Thaqafī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "23": {
+    "bio_id": "23",
+    "name_ar": "ابن الكاتب",
+    "name_lat": "Abū ʿAlī b. al-Kātib",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "114": {
+    "bio_id": "114",
+    "name_ar": "ابو حلي مشتولي",
+    "name_lat": "Abū ʿAlī Mashtūlī",
+    "has_json": [],
+    "person_id": null
+  },
+  "251": {
+    "bio_id": "251",
+    "name_ar": "عبد الله بن محمد المرتعش",
+    "name_lat": "ʿAbd Allāh b. Muḥammad al-Murtaʿish",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "654": {
+    "bio_id": "654",
+    "name_ar": "عبد اللّه بن محمد منازل",
+    "name_lat": "ʿAbd Allāh b. Muḥammad Manāzil",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "96": {
+    "bio_id": "96",
+    "name_ar": "ابو بكر يزدانيار ارموي",
+    "name_lat": "Abū Bakr Yazdānyār Urmawī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "66": {
+    "bio_id": "66",
+    "name_ar": "ابو بكر پيكندي",
+    "name_lat": "Abū Bakr Pīkandī",
+    "has_json": [],
+    "person_id": null
+  },
+  "29": {
+    "bio_id": "29",
+    "name_ar": "ابن طاهر الأبهري",
+    "name_lat": "Ibn Ṭāhir al-Abharī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "64": {
+    "bio_id": "64",
+    "name_ar": "ابو بكر بن عيسي المطوعي",
+    "name_lat": "Abū Bakr b. ʿĪsā al-Muṭawwaʿī",
+    "has_json": [],
+    "person_id": null
+  },
+  "443": {
+    "bio_id": "443",
+    "name_ar": "أحمد بن أبي سعدان",
+    "name_lat": "Aḥmad b. Abī Saʿdān",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "81": {
+    "bio_id": "81",
+    "name_ar": "ابو بكر عمطوفي",
+    "name_lat": "Abū Bakr ʿUṭūfī",
+    "has_json": [],
+    "person_id": null
+  },
+  "89": {
+    "bio_id": "89",
+    "name_ar": "ابو بكر مصري",
+    "name_lat": "Abū Bakr Miṣrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "324": {
+    "bio_id": "324",
+    "name_ar": "أبو الخير الأقطع",
+    "name_lat": "Abū al-Khayr al-Aqṭaʿ al-Tīnātī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "330": {
+    "bio_id": "330",
+    "name_ar": "أبو الخير مستلادي",
+    "name_lat": "Abū al-Khayr Mustallādī",
+    "has_json": [],
+    "person_id": null
+  },
+  "327": {
+    "bio_id": "327",
+    "name_ar": "أبو الخير شعيبي",
+    "name_lat": "Abū al-Khayr Shuʿaybī",
+    "has_json": [],
+    "person_id": null
+  },
+  "277": {
+    "bio_id": "277",
+    "name_ar": "إبراهيم بن شيبان",
+    "name_lat": "Ibrāhīm b. Shaybān al-Qazzāz",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "273": {
+    "bio_id": "273",
+    "name_ar": "إبراهيم بن أحمد المولد",
+    "name_lat": "Ibrāhīm b. Aḥmad al-Mawlid",
+    "has_json": [
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "17": {
+    "bio_id": "17",
+    "name_ar": "ابراهيم كيلي",
+    "name_lat": "Ibrāhīm Kīlī",
+    "has_json": [],
+    "person_id": null
+  },
+  "807": {
+    "bio_id": "807",
+    "name_ar": "مظفر كرمانشاهي",
+    "name_lat": "Muẓaffar Kirmānshāhī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "20": {
+    "bio_id": "20",
+    "name_ar": "ابراهيم ناژويه",
+    "name_lat": "Ibrāhīm Nāzhawīya",
+    "has_json": [],
+    "person_id": null
+  },
+  "313": {
+    "bio_id": "313",
+    "name_ar": "أبو الحسين بن بنان",
+    "name_lat": "Abū al-Ḥusayn b. Banān",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "317": {
+    "bio_id": "317",
+    "name_ar": "أبو الحسين بن هند پارسي",
+    "name_lat": "Abū al-Ḥusayn b. Hind Fārsī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "784": {
+    "bio_id": "784",
+    "name_ar": "محمد بن عليان",
+    "name_lat": "Muḥammad b. ʿUlyān",
+    "has_json": [
+      "sulami",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "400": {
+    "bio_id": "400",
+    "name_ar": "أبو سعيد الأعرابي",
+    "name_lat": "Abū Saʿīd al-Aʿrābī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "426": {
+    "bio_id": "426",
+    "name_ar": "أبو عمرو الزجاجي",
+    "name_lat": "Abū ʿAmr al-Zajjājī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "495": {
+    "bio_id": "495",
+    "name_ar": "جعفر الخلدي",
+    "name_lat": "Jaʿfar al-Khuldī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "292": {
+    "bio_id": "292",
+    "name_ar": "أبو الحسن البوسنجى",
+    "name_lat": "Abū al-Ḥasan al-Būshanjī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "702": {
+    "bio_id": "702",
+    "name_ar": "أبو الحسن بندار بن الحسين الشيرازي",
+    "name_lat": "Abū al-Ḥasan Bundār al-Shīrāzī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "382": {
+    "bio_id": "382",
+    "name_ar": "أبو بكر بن داود الدقي",
+    "name_lat": "Abū Bakr b. Dāwūd al-Duqqī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "176": {
+    "bio_id": "176",
+    "name_ar": "ابو عمو نجيد",
+    "name_lat": "Abū ʿAmr Nujayd",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "91": {
+    "bio_id": "91",
+    "name_ar": "ابو بكر مفيد",
+    "name_lat": "Abū Bakr Mufīd",
+    "has_json": [],
+    "person_id": null
+  },
+  "84": {
+    "bio_id": "84",
+    "name_ar": "ابو بكر قصري",
+    "name_lat": "Abū Bakr Qaṣrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "93": {
+    "bio_id": "93",
+    "name_ar": "ابو بكر موازنتي",
+    "name_lat": "Abū Bakr Muwāzinatī",
+    "has_json": [],
+    "person_id": null
+  },
+  "85": {
+    "bio_id": "85",
+    "name_ar": "ابو بكر قطيعي حافظ",
+    "name_lat": "Abū Bakr Qaṭīʿī Ḥāfiẓ",
+    "has_json": [],
+    "person_id": null
+  },
+  "92": {
+    "bio_id": "92",
+    "name_ar": "ابو بكر منازلي",
+    "name_lat": "Abū Bakr Manāzilī",
+    "has_json": [],
+    "person_id": null
+  },
+  "377": {
+    "bio_id": "377",
+    "name_ar": "أبو بكر الطمستاني",
+    "name_lat": "Abū Bakr al-Ṭamastānī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "304": {
+    "bio_id": "304",
+    "name_ar": "أبو الحسن سرواني مهين",
+    "name_lat": "Abū al-Ḥasan Sīrwānī Mahīn",
+    "has_json": [],
+    "person_id": null
+  },
+  "678": {
+    "bio_id": "678",
+    "name_ar": "عبيد الله رازي",
+    "name_lat": "ʿUbayd Allāh al-Rāzī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "41": {
+    "bio_id": "41",
+    "name_ar": "ابو الحسن قراقي",
+    "name_lat": "Abū al-Ḥasan Qarāqī",
+    "has_json": [],
+    "person_id": null
+  },
+  "126": {
+    "bio_id": "126",
+    "name_ar": "ابو سليمان خواص",
+    "name_lat": "Abū Sulaymān al-Khawwāṣ",
+    "has_json": [],
+    "person_id": null
+  },
+  "360": {
+    "bio_id": "360",
+    "name_ar": "أبو القاسم نصرآبادي",
+    "name_lat": "Abū al-Qāsim Naṣrābādī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "69": {
+    "bio_id": "69",
+    "name_ar": "ابو بكر رازي بجلي",
+    "name_lat": "Abū Bakr al-Rāzī Bajlī",
+    "has_json": [],
+    "person_id": null
+  },
+  "65": {
+    "bio_id": "65",
+    "name_ar": "ابو بكر پاليودان",
+    "name_lat": "Abū Bakr Pālyūdān",
+    "has_json": [],
+    "person_id": null
+  },
+  "301": {
+    "bio_id": "301",
+    "name_ar": "أبو الحسن حصري",
+    "name_lat": "Abū al-Ḥasan al-Ḥuṣrī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "356": {
+    "bio_id": "356",
+    "name_ar": "أبو القاسم بن سمعون",
+    "name_lat": "Abū al-Qāsim b. Samʿūn LOOK",
+    "has_json": [],
+    "person_id": null
+  },
+  "208": {
+    "bio_id": "208",
+    "name_ar": "احمد حراني",
+    "name_lat": "Aḥmad Ḥarānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "497": {
+    "bio_id": "497",
+    "name_ar": "جهم رقي",
+    "name_lat": "Jahm al-Raqqī",
+    "has_json": [],
+    "person_id": null
+  },
+  "385": {
+    "bio_id": "385",
+    "name_ar": "أبو بكر محمد بن أحمد الفراء",
+    "name_lat": "Abū Bakr Muḥammad b. Aḥmad al-Farrāʾ",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "38": {
+    "bio_id": "38",
+    "name_ar": "ابو الحسن ارموي",
+    "name_lat": "Abū al-Ḥasan Urmawī",
+    "has_json": [],
+    "person_id": null
+  },
+  "384": {
+    "bio_id": "384",
+    "name_ar": "أبو بكر محمد بن أحمد الشبهي",
+    "name_lat": "Abū Bakr Muḥammad b. Aḥmad al-Shabahī",
+    "has_json": [
+      "sulami"
+    ],
+    "person_id": null
+  },
+  "26": {
+    "bio_id": "26",
+    "name_ar": "ابن حفيف",
+    "name_lat": "Abū ʿAbd Allāh b. Khafīf",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "820": {
+    "bio_id": "820",
+    "name_ar": "موسي بن عمران جيرفتي",
+    "name_lat": "Mūsā b.  ʿImrān al-Jīriftī",
+    "has_json": [],
+    "person_id": null
+  },
+  "824": {
+    "bio_id": "824",
+    "name_ar": "ميره",
+    "name_lat": "Mīra",
+    "has_json": [],
+    "person_id": null
+  },
+  "552": {
+    "bio_id": "552",
+    "name_ar": "خواجه عليحسين",
+    "name_lat": "Khwāja ʿAlī Ḥusayn",
+    "has_json": [],
+    "person_id": null
+  },
+  "483": {
+    "bio_id": "483",
+    "name_ar": "بوطالب خزرج بن علي بغـدادي",
+    "name_lat": "Abū Ṭālib al-Khazraj b. ʿAlī al-Baghdādī",
+    "has_json": [],
+    "person_id": null
+  },
+  "412": {
+    "bio_id": "412",
+    "name_ar": "أبو عبد الله الروذباري",
+    "name_lat": "Abū ʿAbd Allāh al-Tarūghabadhī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "413": {
+    "bio_id": "413",
+    "name_ar": "أبو عبد الله الروذباري",
+    "name_lat": "Abū ʿAbd Allāh al-Rūdhbārī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "137": {
+    "bio_id": "137",
+    "name_ar": null,
+    "name_lat": "Abū ʿAbd Allāh Dūnī",
+    "has_json": [],
+    "person_id": null
+  },
+  "134": {
+    "bio_id": "134",
+    "name_ar": "ابو عبد اللّه پاتيك",
+    "name_lat": "Abū ʿAbd Allāh Pātīk",
+    "has_json": [],
+    "person_id": null
+  },
+  "155": {
+    "bio_id": "155",
+    "name_ar": "ابو عبد الله مولي",
+    "name_lat": "Abū ʿAbd Allāh Mawlā",
+    "has_json": [],
+    "person_id": null
+  },
+  "141": {
+    "bio_id": "141",
+    "name_ar": "ابو عبد اللّه مقري",
+    "name_lat": "Abū ʿAbd Allāh Muqriʾ",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "182": {
+    "bio_id": "182",
+    "name_ar": "ابو محمد ناسيي",
+    "name_lat": "Abū Muḥammad Rāsibī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "138": {
+    "bio_id": "138",
+    "name_ar": "ابو عبد اللّه دينوري",
+    "name_lat": "Abū ʿAbd Allāh al-Dīnawarī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "305": {
+    "bio_id": "305",
+    "name_ar": "أبو الحسن سيرواني كهين",
+    "name_lat": "Abū al-Ḥasan Sīrwānī Kuhīn",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "79": {
+    "bio_id": "79",
+    "name_ar": "ابو بكر طرسوسي",
+    "name_lat": "Abū Bakr al-Ṭarsūsī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "94": {
+    "bio_id": "94",
+    "name_ar": "ابو بكر موسي صوفي",
+    "name_lat": "Abū Bakr Mūsā al-Ṣūfī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "77": {
+    "bio_id": "77",
+    "name_ar": "ابو بكر شكين",
+    "name_lat": "Abū Bakr Shakīn",
+    "has_json": [],
+    "person_id": null
+  },
+  "608": {
+    "bio_id": "608",
+    "name_ar": null,
+    "name_lat": "Abū Sahl Ṣaʿlūkī",
+    "has_json": [],
+    "person_id": null
+  },
+  "534": {
+    "bio_id": "534",
+    "name_ar": "خلف مغربي",
+    "name_lat": "Khalaf al-Maghribī",
+    "has_json": [],
+    "person_id": null
+  },
+  "461": {
+    "bio_id": "461",
+    "name_ar": "باب قرقباني",
+    "name_lat": "Bāb Qarabānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "792": {
+    "bio_id": "792",
+    "name_ar": "محمد بوالعباس",
+    "name_lat": "Muḥammad Abū al-ʿAbbās",
+    "has_json": [],
+    "person_id": null
+  },
+  "37": {
+    "bio_id": "37",
+    "name_ar": "ابو الازهر اصطخري",
+    "name_lat": "Abū al-Azhar al-Iṣṭakhrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "170": {
+    "bio_id": "170",
+    "name_ar": "ابو علي منازلي اسم بندادي",
+    "name_lat": "Abū ʿAlī Manāzilī ism Bundādī",
+    "has_json": [],
+    "person_id": null
+  },
+  "68": {
+    "bio_id": "68",
+    "name_ar": "ابو بكر حمزهٔ رازي",
+    "name_lat": "Abū Bakr Ḥamza al-Rāzī",
+    "has_json": [],
+    "person_id": null
+  },
+  "204": {
+    "bio_id": "204",
+    "name_ar": "احمد تجار استاراٰبـادي",
+    "name_lat": "Aḥmad Tijār Istārābādī",
+    "has_json": [],
+    "person_id": null
+  },
+  "88": {
+    "bio_id": "88",
+    "name_ar": "ابو بكر كوهي",
+    "name_lat": "Abū Bakr Kūhī",
+    "has_json": [],
+    "person_id": null
+  },
+  "529": {
+    "bio_id": "529",
+    "name_ar": "خجبهٔ غلام",
+    "name_lat": "Khujba Ghulām",
+    "has_json": [],
+    "person_id": null
+  },
+  "796": {
+    "bio_id": "796",
+    "name_ar": "محمد عبد الله كاذر",
+    "name_lat": "Muḥammad ʿAbd Allāh Kādhir",
+    "has_json": [],
+    "person_id": null
+  },
+  "55": {
+    "bio_id": "55",
+    "name_ar": "ابو أيل شقيق بن ملعة كوفي",
+    "name_lat": "Abū Ayl Shaqīq b. Millaʿa al-Kūfī",
+    "has_json": [],
+    "person_id": null
+  },
+  "753": {
+    "bio_id": "753",
+    "name_ar": "ليث پوشجه",
+    "name_lat": "Layth Pūshja",
+    "has_json": [],
+    "person_id": null
+  },
+  "434": {
+    "bio_id": "434",
+    "name_ar": "أبو هاشم الزاهد",
+    "name_lat": "Abū Hāshim al-Ṣūfī",
+    "has_json": [
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "43": {
+    "bio_id": "43",
+    "name_ar": "ابو الحسين چهشم همـداني",
+    "name_lat": "Abū al-Ḥusayn Chashm al-Hamadānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "46": {
+    "bio_id": "46",
+    "name_ar": "ابو الحسين طلزي",
+    "name_lat": "Abū al-Ḥusayn Ṭalzī",
+    "has_json": [],
+    "person_id": null
+  },
+  "45": {
+    "bio_id": "45",
+    "name_ar": "ابو الحسين سركي",
+    "name_lat": "Abū al-Ḥusayn Sarkī",
+    "has_json": [],
+    "person_id": null
+  },
+  "504": {
+    "bio_id": "504",
+    "name_ar": "جوالكي",
+    "name_lat": "Jūwālkī",
+    "has_json": [],
+    "person_id": null
+  },
+  "39": {
+    "bio_id": "39",
+    "name_ar": "ابو الحسن حداد هروي",
+    "name_lat": "Abū al-Ḥasan Ḥaddād Harawī",
+    "has_json": [],
+    "person_id": null
+  },
+  "363": {
+    "bio_id": "363",
+    "name_ar": "أبو المظفر ترمذي",
+    "name_lat": "Abū al-Muẓaffar al-Tirmidhī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "620": {
+    "bio_id": "620",
+    "name_ar": "شريف حمزهٔ عقيلي",
+    "name_lat": "Sharīf Ḥamza ʿUqaylī",
+    "has_json": [],
+    "person_id": null
+  },
+  "645": {
+    "bio_id": "645",
+    "name_ar": null,
+    "name_lat": "ʿĀrif ʿAyyār",
+    "has_json": [],
+    "person_id": null
+  },
+  "44": {
+    "bio_id": "44",
+    "name_ar": "ابو الحسين سالە به",
+    "name_lat": "Abū al-Ḥusayn Sāla ba",
+    "has_json": [],
+    "person_id": null
+  },
+  "482": {
+    "bio_id": "482",
+    "name_ar": "بوطالب جرجاني",
+    "name_lat": "Abū Ṭālib al-Jurjānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "47": {
+    "bio_id": "47",
+    "name_ar": "ابو الحسين ميو ردوي",
+    "name_lat": "Abū al-Ḥusayn Mayw Radawī",
+    "has_json": [],
+    "person_id": null
+  },
+  "188": {
+    "bio_id": "188",
+    "name_ar": "ابو منصور معمر اصفهـاني",
+    "name_lat": "Abū Manṣūr Mʿamar al-Iṣfahānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "464": {
+    "bio_id": "464",
+    "name_ar": null,
+    "name_lat": "Abū Ḥāmid Duristān",
+    "has_json": [],
+    "person_id": null
+  },
+  "113": {
+    "bio_id": "113",
+    "name_ar": "ابو علي دقاق",
+    "name_lat": "Abū ʿAlī Daqqāq",
+    "has_json": [],
+    "person_id": null
+  },
+  "572": {
+    "bio_id": "572",
+    "name_ar": "رابعۀ عدويه",
+    "name_lat": "Rābiʿa ʿAdawiyya",
+    "has_json": [],
+    "person_id": null
+  },
+  "274": {
+    "bio_id": "274",
+    "name_ar": "إبراهيم بن أدهم",
+    "name_lat": "Ibrāhīm b. Adham",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "15": {
+    "bio_id": "15",
+    "name_ar": "ابراهيم رباطي",
+    "name_lat": "Ibrāhīm Ribāṭī",
+    "has_json": [],
+    "person_id": null
+  },
+  "712": {
+    "bio_id": "712",
+    "name_ar": "عمر بن دراكوفي",
+    "name_lat": "ʿUmar b. Dirākūfī",
+    "has_json": [],
+    "person_id": null
+  },
+  "1": {
+    "bio_id": "1",
+    "name_ar": "ابراهيم اطروش",
+    "name_lat": "Ibrāhīm Aṭrūsh",
+    "has_json": [],
+    "person_id": null
+  },
+  "275": {
+    "bio_id": "275",
+    "name_ar": "إبراهيم بن سعد",
+    "name_lat": "Ibrāhīm b. Saʿd",
+    "has_json": [
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "728": {
+    "bio_id": "728",
+    "name_ar": "فتح موصلي",
+    "name_lat": "Fatḥ al-Mawṣilī",
+    "has_json": [],
+    "person_id": null
+  },
+  "727": {
+    "bio_id": "727",
+    "name_ar": "فتح شغرف",
+    "name_lat": "Fatḥ Shughruf",
+    "has_json": [],
+    "person_id": null
+  },
+  "470": {
+    "bio_id": "470",
+    "name_ar": "بشر الحافي",
+    "name_lat": "Bishr al-Ḥāfī",
+    "has_json": [
+      "sulami",
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "622": {
+    "bio_id": "622",
+    "name_ar": "شقيق البلخي",
+    "name_lat": "Shaqīq al-Balkhī",
+    "has_json": [
+      "sulami"
+    ],
+    "person_id": null
+  },
+  "229": {
+    "bio_id": "229",
+    "name_ar": "الحارث بن أسد المحاسبي",
+    "name_lat": "al-Ḥārith al-Muḥāsibī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "388": {
+    "bio_id": "388",
+    "name_ar": "أبو تراب النخشبي",
+    "name_lat": "Abū Turāb al-Nakhshabī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "109": {
+    "bio_id": "109",
+    "name_ar": "ابو حاتم عطار",
+    "name_lat": "Abū Ḥātim ʿAṭṭār",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "236": {
+    "bio_id": "236",
+    "name_ar": "السري السقطي",
+    "name_lat": "al-Sarī al-Saqaṭī",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "440": {
+    "bio_id": "440",
+    "name_ar": "أحمد بن الخضر/أحمد بن خضرويه",
+    "name_lat": "Aḥmad b. Khaḍrawayh",
+    "has_json": [
+      "sulami",
+      "ansari",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "97": {
+    "bio_id": "97",
+    "name_ar": "ابو ثابت الرازي",
+    "name_lat": "Abū Thābit al-Rāzī",
+    "has_json": [],
+    "person_id": null
+  },
+  "102": {
+    "bio_id": "102",
+    "name_ar": "ابو جعفر ساماني",
+    "name_lat": "Abū Jaʿfar Sāmānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "105": {
+    "bio_id": "105",
+    "name_ar": "ابو جعفر صيدلاني",
+    "name_lat": "Abū Bakr Ṣaydalānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "285": {
+    "bio_id": "285",
+    "name_ar": "أبو الاسود مكي",
+    "name_lat": "Abū al-Aswad Makkī",
+    "has_json": [],
+    "person_id": null
+  },
+  "288": {
+    "bio_id": "288",
+    "name_ar": "أبو الأسود راعي",
+    "name_lat": "Abū al-Aswad Rāʿī",
+    "has_json": [],
+    "person_id": null
+  },
+  "365": {
+    "bio_id": "365",
+    "name_ar": "أبو الوليد احمد بن ابي الرجاء",
+    "name_lat": "Abū al-Walīd Aḥmad b. Abī al-Rajāʾ",
+    "has_json": [],
+    "person_id": null
+  },
+  "503": {
+    "bio_id": "503",
+    "name_ar": "جمال الدين محمد باكلنجار",
+    "name_lat": "Jamāl al-Dīn Muḥammad Bākalanjār",
+    "has_json": [],
+    "person_id": null
+  },
+  "673": {
+    "bio_id": "673",
+    "name_ar": "عبد الواحد بن علي السياري",
+    "name_lat": "ʿAbd al-Wāḥid b. ʿAlī al-Sayyārī",
+    "has_json": [],
+    "person_id": null
+  },
+  "566": {
+    "bio_id": "566",
+    "name_ar": "داود بن احمد داراني",
+    "name_lat": "Dāwūd b. Aḥmad al-Dārānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "405": {
+    "bio_id": "405",
+    "name_ar": "أبو سليمان داود بن نصر الطائى",
+    "name_lat": "Abu Sulayman Dawud b. Nasr al-Tai",
+    "has_json": [],
+    "person_id": null
+  },
+  "8": {
+    "bio_id": "8",
+    "name_ar": "ابراهيم بن سعد العلوي الحسني",
+    "name_lat": "Ibrāhīm b. Saʿd al-ʿAlawī al-Ḥasanī",
+    "has_json": [],
+    "person_id": null
+  },
+  "290": {
+    "bio_id": "290",
+    "name_ar": "أبو الحارث الأولاسي",
+    "name_lat": "Abū al-Ḥārith al-Awlāsī",
+    "has_json": [],
+    "person_id": null
+  },
+  "16": {
+    "bio_id": "16",
+    "name_ar": "ابراهيم ستنبهروي",
+    "name_lat": "Ibrāhīm Stanbahrūwī",
+    "has_json": [],
+    "person_id": null
+  },
+  "3": {
+    "bio_id": "3",
+    "name_ar": "ابراهيم الصياد البغدادي",
+    "name_lat": "Ibrāhīm al-Ṣayyād al-Baghdādī",
+    "has_json": [],
+    "person_id": null
+  },
+  "276": {
+    "bio_id": "276",
+    "name_ar": "إبراهيم بن شماس",
+    "name_lat": "Ibrāhīm b. Shammās",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "5": {
+    "bio_id": "5",
+    "name_ar": "ابراهيم آجري صغير",
+    "name_lat": "Ibrāhīm Ājurrī Ṣaghīr",
+    "has_json": [],
+    "person_id": null
+  },
+  "6": {
+    "bio_id": "6",
+    "name_ar": "ابراهيم آجري كبير",
+    "name_lat": "Ibrāhīm Ājurrī Kabīr",
+    "has_json": [],
+    "person_id": null
+  },
+  "779": {
+    "bio_id": "779",
+    "name_ar": "محمد بن خالد الآجري",
+    "name_lat": "Muḥammad b. Khālid al-Ājurrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "726": {
+    "bio_id": "726",
+    "name_ar": "فتح بن شخرف المروزي",
+    "name_lat": "Fatḥ b. Shakhraf al-Marwazī",
+    "has_json": [],
+    "person_id": null
+  },
+  "473": {
+    "bio_id": "473",
+    "name_ar": "بشير الطبري",
+    "name_lat": "Bashīr al-Ṭabarī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "472": {
+    "bio_id": "472",
+    "name_ar": "بشر طبراني",
+    "name_lat": "Bishr Ṭabarānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "741": {
+    "bio_id": "741",
+    "name_ar": "قاسم حربي",
+    "name_lat": "Qāsim Ḥarbī",
+    "has_json": [],
+    "person_id": null
+  },
+  "565": {
+    "bio_id": "565",
+    "name_ar": "داود البلخي",
+    "name_lat": "Dāwūd al-Balkhī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "387": {
+    "bio_id": "387",
+    "name_ar": "أبو تراب الرملي",
+    "name_lat": "Abū Turāb al-Ramlī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "698": {
+    "bio_id": "698",
+    "name_ar": "علي بن عبد الحميد",
+    "name_lat": "ʿAlī b. ʿAbd al-Ḥamīd",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "99": {
+    "bio_id": "99",
+    "name_ar": "ابو جعفر السماك",
+    "name_lat": "Abū Jaʿfar al-Sammāk",
+    "has_json": [],
+    "person_id": null
+  },
+  "700": {
+    "bio_id": "700",
+    "name_ar": "علي بن الحميد الغضائري",
+    "name_lat": "ʿAlī b. al-Ḥumayd al-Ghaḍāʾirī",
+    "has_json": [],
+    "person_id": null
+  },
+  "166": {
+    "bio_id": "166",
+    "name_ar": "ابو علي سندي",
+    "name_lat": "Abū ʿAlī Sindī",
+    "has_json": [],
+    "person_id": null
+  },
+  "179": {
+    "bio_id": "179",
+    "name_ar": "ابو محمد حداد",
+    "name_lat": "Abū Muḥammad Ḥaddād",
+    "has_json": [],
+    "person_id": null
+  },
+  "184": {
+    "bio_id": "184",
+    "name_ar": "ابو مزاحم شيرازي",
+    "name_lat": "Abū Muzāḥim Shīrāzī",
+    "has_json": [],
+    "person_id": null
+  },
+  "642": {
+    "bio_id": "642",
+    "name_ar": "ظالم بن محمد ",
+    "name_lat": "Ẓālim b. Muḥammad",
+    "has_json": [],
+    "person_id": null
+  },
+  "505": {
+    "bio_id": "505",
+    "name_ar": "حاتم الأصم",
+    "name_lat": "Ḥātim al-Aṣamm",
+    "has_json": [
+      "sulami"
+    ],
+    "person_id": null
+  },
+  "442": {
+    "bio_id": "442",
+    "name_ar": "أحمد بن أبي الحواري",
+    "name_lat": "Aḥmad b. Abī al-Ḥawārī",
+    "has_json": [
+      "sulami",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "661": {
+    "bio_id": "661",
+    "name_ar": "عبد الله بن خبيق",
+    "name_lat": "ʿAbd Allāh b. Khubayyiq al-Antākī",
+    "has_json": [
+      "sulami",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "454": {
+    "bio_id": "454",
+    "name_ar": "أحنف الهمداني",
+    "name_lat": "Aḥnaf al-Hamdānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "128": {
+    "bio_id": "128",
+    "name_ar": "ابو شعيب المقنع",
+    "name_lat": "Abū Shuʿayb al-Muqannaʿ",
+    "has_json": [],
+    "person_id": null
+  },
+  "157": {
+    "bio_id": "157",
+    "name_ar": "ابو عقال بن علوان المغربي",
+    "name_lat": "Abū ʿAqāl b. ʿIlwān al-Maghribī",
+    "has_json": [],
+    "person_id": null
+  },
+  "569": {
+    "bio_id": "569",
+    "name_ar": "ديس الطائفه جندي البغدادي",
+    "name_lat": "Dīs al-Ṭāʾifah Jundī al-Baghdādī",
+    "has_json": [],
+    "person_id": null
+  },
+  "750": {
+    "bio_id": "750",
+    "name_ar": "كهمس بن الحسين الهمداني",
+    "name_lat": "Kahmas b. al-Ḥusayn al-Hamdānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "582": {
+    "bio_id": "582",
+    "name_ar": "زكريابن يحيي الهروي",
+    "name_lat": "Zakarīyā b. Yaḥyā al-Harawī",
+    "has_json": [],
+    "person_id": null
+  },
+  "583": {
+    "bio_id": "583",
+    "name_ar": "زكريابن يدلوه",
+    "name_lat": "Zakarīyā b. Yudluwwah",
+    "has_json": [],
+    "person_id": null
+  },
+  "849": {
+    "bio_id": "849",
+    "name_ar": "يزاد الكبير الهمداني",
+    "name_lat": "Yazād al-Kabīr al-Hamdānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "131": {
+    "bio_id": "131",
+    "name_ar": "ابو طاهر الاخميمي",
+    "name_lat": "Abū Ṭālib al-Akhmīmī",
+    "has_json": [],
+    "person_id": null
+  },
+  "345": {
+    "bio_id": "345",
+    "name_ar": "أبو العباس مورۀ زن بغدادي",
+    "name_lat": "Abū al-ʿAbbās Mūrah Zan Baghdādī",
+    "has_json": [],
+    "person_id": null
+  },
+  "144": {
+    "bio_id": "144",
+    "name_ar": "ابو عبد الله الأنطاكي",
+    "name_lat": "Abū ʿAbd Allāh al-Anṭākī",
+    "has_json": [],
+    "person_id": null
+  },
+  "659": {
+    "bio_id": "659",
+    "name_ar": "عبد الله بن حاضر",
+    "name_lat": "ʿAbd Allāh b. Ḥāḍir",
+    "has_json": [],
+    "person_id": null
+  },
+  "488": {
+    "bio_id": "488",
+    "name_ar": "ثابت الخباز",
+    "name_lat": "Thābit al-Khabbāz",
+    "has_json": [],
+    "person_id": null
+  },
+  "585": {
+    "bio_id": "585",
+    "name_ar": "زهرون المغربي",
+    "name_lat": "Zahrūn al-Maghribī",
+    "has_json": [],
+    "person_id": null
+  },
+  "682": {
+    "bio_id": "682",
+    "name_ar": "عرون بن الوثابه",
+    "name_lat": "ʿUrūn b. al-Waththābah",
+    "has_json": [],
+    "person_id": null
+  },
+  "853": {
+    "bio_id": "853",
+    "name_ar": "يمون المغربي",
+    "name_lat": "Yamūn al-Maghribī",
+    "has_json": [],
+    "person_id": null
+  },
+  "786": {
+    "bio_id": "786",
+    "name_ar": "محمد بن فاذه",
+    "name_lat": "Muḥammad b. Fādhah",
+    "has_json": [],
+    "person_id": null
+  },
+  "248": {
+    "bio_id": "248",
+    "name_ar": "القلانسي",
+    "name_lat": "al-Qalānsī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "607": {
+    "bio_id": "607",
+    "name_ar": "سهل بن علي المروزي",
+    "name_lat": "Sahl b. ʿAlī al-Marwazī",
+    "has_json": [],
+    "person_id": null
+  },
+  "346": {
+    "bio_id": "346",
+    "name_ar": "أبو الغريب الاصفهاني",
+    "name_lat": "Abū al-Gharīb al-Iṣfahānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "361": {
+    "bio_id": "361",
+    "name_ar": "أبو الله عبد خاقان",
+    "name_lat": "Abū Allāh ʿAbd Khāqān",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "701": {
+    "bio_id": "701",
+    "name_ar": "علي بن بكار",
+    "name_lat": "ʿAlī b. Bakkār",
+    "has_json": [],
+    "person_id": null
+  },
+  "411": {
+    "bio_id": "411",
+    "name_ar": "أبو عبد الله الحضرمي",
+    "name_lat": "Abū ʿAbd Allāh al-Ḥaḍramī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "130": {
+    "bio_id": "130",
+    "name_ar": "ابو طالب محمد بن علي بن عطية الحارثي المكي",
+    "name_lat": "Abū Ṭālib Muḥammad b. ʿAlī b. ʿAṭiyya al-Ḥārithī al-Makkī",
+    "has_json": [],
+    "person_id": null
+  },
+  "357": {
+    "bio_id": "357",
+    "name_ar": "أبو القاسم رازي",
+    "name_lat": "Abū al-Qāsim Rāzī",
+    "has_json": [],
+    "person_id": null
+  },
+  "116": {
+    "bio_id": "116",
+    "name_ar": "ابو ذر الترمذي",
+    "name_lat": "Abū Dharr al-Tirmidhī",
+    "has_json": [],
+    "person_id": null
+  },
+  "475": {
+    "bio_id": "475",
+    "name_ar": "بكري سغدي",
+    "name_lat": "Bakrī Sughdī",
+    "has_json": [],
+    "person_id": null
+  },
+  "633": {
+    "bio_id": "633",
+    "name_ar": "صالح بن مكتوم",
+    "name_lat": "Ṣāliḥ b. Maktūm",
+    "has_json": [],
+    "person_id": null
+  },
+  "196": {
+    "bio_id": "196",
+    "name_ar": "ابو يعقوب سوسي",
+    "name_lat": "Abū Yaʿqūb Sūsī",
+    "has_json": [],
+    "person_id": null
+  },
+  "436": {
+    "bio_id": "436",
+    "name_ar": "أبو يعقوب الزيات",
+    "name_lat": "Abū Yaʿqūb al-Zayyāt",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "193": {
+    "bio_id": "193",
+    "name_ar": "ابو يعقوب أقطع",
+    "name_lat": "Abū Yaʿqūb Aqṭaʿ",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "194": {
+    "bio_id": "194",
+    "name_ar": "ابو يعقوب بن يزيزي",
+    "name_lat": "Abū Yaʿqūb b. Yazīzī",
+    "has_json": [],
+    "person_id": null
+  },
+  "198": {
+    "bio_id": "198",
+    "name_ar": "ابو يعقوب مذكوري",
+    "name_lat": "Abū Yaʿqūb Madhkūrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "195": {
+    "bio_id": "195",
+    "name_ar": "ابو يعقوب خراط عسقلاني",
+    "name_lat": "Abū Yaʿqūb Kharrāṭ ʿAsqalānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "197": {
+    "bio_id": "197",
+    "name_ar": "ابو يعقوب كورتي",
+    "name_lat": "Abū Yaʿqūb Kūrtī",
+    "has_json": [
+      "ansari"
+    ],
+    "person_id": null
+  },
+  "760": {
+    "bio_id": "760",
+    "name_ar": "محفوظ بن محمد ",
+    "name_lat": "Maḥfūẓ b. Muḥammad",
+    "has_json": [],
+    "person_id": null
+  },
+  "7": {
+    "bio_id": "7",
+    "name_ar": "ابراهيم بن ثابت",
+    "name_lat": "Ibrāhīm b. Thābit",
+    "has_json": [],
+    "person_id": null
+  },
+  "9": {
+    "bio_id": "9",
+    "name_ar": "ابراهيم بن سيعي",
+    "name_lat": "Ibrāhīm b. ʿĪsā",
+    "has_json": [],
+    "person_id": null
+  },
+  "720": {
+    "bio_id": "720",
+    "name_ar": "غانم بن سعد",
+    "name_lat": "Ghānim b. Saʿd",
+    "has_json": [],
+    "person_id": null
+  },
+  "851": {
+    "bio_id": "851",
+    "name_ar": "غيلان السمرقندي",
+    "name_lat": "Ghaylān al-Samarqandī",
+    "has_json": [],
+    "person_id": null
+  },
+  "852": {
+    "bio_id": "852",
+    "name_ar": "غيلان الموسوس",
+    "name_lat": "Ghaylān al-Muwaswas",
+    "has_json": [],
+    "person_id": null
+  },
+  "129": {
+    "bio_id": "129",
+    "name_ar": "ابو صالح الميزني",
+    "name_lat": "Abū Ṣāliḥ al-Mīzanī",
+    "has_json": [],
+    "person_id": null
+  },
+  "335": {
+    "bio_id": "335",
+    "name_ar": "أبو العباس ارزيزي",
+    "name_lat": "Abū al-ʿAbbās Arzīzī",
+    "has_json": [],
+    "person_id": null
+  },
+  "334": {
+    "bio_id": "334",
+    "name_ar": "أبو العباس احمد بن يحيي الشيرازي",
+    "name_lat": "Abū al-ʿAbbās Aḥmad b. Yaḥyā al-Shīrāzī",
+    "has_json": [],
+    "person_id": null
+  },
+  "217": {
+    "bio_id": "217",
+    "name_ar": "اخي فرج زنجاني",
+    "name_lat": "Akhī Faraj Zanjānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "342": {
+    "bio_id": "342",
+    "name_ar": "أبو العباس حمزة بن محمد ",
+    "name_lat": "Abū al-ʿAbbās Ḥamzah b. Muḥammad",
+    "has_json": [],
+    "person_id": null
+  },
+  "32": {
+    "bio_id": "32",
+    "name_ar": "ابن فاتك",
+    "name_lat": "Ibn Fātik",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "10": {
+    "bio_id": "10",
+    "name_ar": "ابراهيم بن فاتك و ليق احمد بن فاتك",
+    "name_lat": "Ibrāhīm b. Fātik wa līq Aḥmad b. Fātik",
+    "has_json": [],
+    "person_id": null
+  },
+  "671": {
+    "bio_id": "671",
+    "name_ar": "عبد الملك اسكاف",
+    "name_lat": "ʿAbd al-Malik Iskāf",
+    "has_json": [],
+    "person_id": null
+  },
+  "721": {
+    "bio_id": "721",
+    "name_ar": "فارس بن عيسى البغدادي",
+    "name_lat": "Fāris b. ʿĪsā al-Baghdādī",
+    "has_json": [],
+    "person_id": null
+  },
+  "202": {
+    "bio_id": "202",
+    "name_ar": "احمد بن حسين بن منصور الحلاج",
+    "name_lat": "Aḥmad b. Ḥusayn b. Manṣūr al-Ḥallāj",
+    "has_json": [],
+    "person_id": null
+  },
+  "381": {
+    "bio_id": "381",
+    "name_ar": "أبو بكر بن حامد الترمذي",
+    "name_lat": "Abū Bakr b. Ḥāmid al-Tirmidhī",
+    "has_json": [
+      "sulami"
+    ],
+    "person_id": null
+  },
+  "220": {
+    "bio_id": "220",
+    "name_ar": "اسحاق بن ابراهيم الجمال",
+    "name_lat": "Isḥāq b. Ibrāhīm al-Jammāl",
+    "has_json": [],
+    "person_id": null
+  },
+  "477": {
+    "bio_id": "477",
+    "name_ar": "بنان بن عبد الله",
+    "name_lat": "Bunān b. ʿAbd Allāh",
+    "has_json": [],
+    "person_id": null
+  },
+  "629": {
+    "bio_id": "629",
+    "name_ar": "شيبان بن علي",
+    "name_lat": "Shaybān b. ʿAlī",
+    "has_json": [],
+    "person_id": null
+  },
+  "295": {
+    "bio_id": "295",
+    "name_ar": "أبو الحسن المزين",
+    "name_lat": "Abū al-Ḥasan al-Mazīn",
+    "has_json": [
+      "sulami"
+    ],
+    "person_id": null
+  },
+  "415": {
+    "bio_id": "415",
+    "name_ar": "أبو عبد الله الصبيحي",
+    "name_lat": "Abū ʿAbd Allāh al-Ṣubayḥī",
+    "has_json": [
+      "sulami"
+    ],
+    "person_id": null
+  },
+  "311": {
+    "bio_id": "311",
+    "name_ar": "أبو الحسن سيوطي",
+    "name_lat": "Abū al-Ḥasan Suyūṭī",
+    "has_json": [],
+    "person_id": null
+  },
+  "111": {
+    "bio_id": "111",
+    "name_ar": "ابو حامد الأسود المعروف بالزنجي",
+    "name_lat": "Abū Ḥāmid al-Aswad al-Maʿrūf bi-al-Zanjī",
+    "has_json": [],
+    "person_id": null
+  },
+  "300": {
+    "bio_id": "300",
+    "name_ar": "أبو الحسن بن شعرة",
+    "name_lat": "Abū al-Ḥasan b. Shaʿrah",
+    "has_json": [],
+    "person_id": null
+  },
+  "103": {
+    "bio_id": "103",
+    "name_ar": "ابو جعفر سوماني",
+    "name_lat": "Abū Jaʿfar Sūmānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "396": {
+    "bio_id": "396",
+    "name_ar": "أبو جعفر فرغاني",
+    "name_lat": "Abū Jaʿfar Faraghānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "145": {
+    "bio_id": "145",
+    "name_ar": "ابو عبد الله البرقي",
+    "name_lat": "Abū ʿAbd Allāh al-Barqī",
+    "has_json": [],
+    "person_id": null
+  },
+  "101": {
+    "bio_id": "101",
+    "name_ar": "ابو جعفر دامغاني",
+    "name_lat": "Abū Jaʿfar Dāmghānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "469": {
+    "bio_id": "469",
+    "name_ar": "بكير الدراج",
+    "name_lat": "Bukayr al-Darrāj",
+    "has_json": [],
+    "person_id": null
+  },
+  "323": {
+    "bio_id": "323",
+    "name_ar": "أبو الحسين هاشمي",
+    "name_lat": "Abū al-Ḥusayn Hāshimī",
+    "has_json": [],
+    "person_id": null
+  },
+  "70": {
+    "bio_id": "70",
+    "name_ar": "ابو بكر زقاق صغير",
+    "name_lat": "Abū Bakr Zaqqāq Ṣaghīr",
+    "has_json": [],
+    "person_id": null
+  },
+  "75": {
+    "bio_id": "75",
+    "name_ar": "ابو بكر شقاق",
+    "name_lat": "Abū Bakr Shaqqāq",
+    "has_json": [],
+    "person_id": null
+  },
+  "80": {
+    "bio_id": "80",
+    "name_ar": "ابو بكر عطا جحفي",
+    "name_lat": "Abū Bakr ʿAṭā Juḥfī",
+    "has_json": [],
+    "person_id": null
+  },
+  "58": {
+    "bio_id": "58",
+    "name_ar": "ابو بكر الخباز البغدادي",
+    "name_lat": "Abū Bakr al-Khabbāz al-Baghdādī",
+    "has_json": [],
+    "person_id": null
+  },
+  "72": {
+    "bio_id": "72",
+    "name_ar": "ابو بكر سقار",
+    "name_lat": "Abū Bakr Saqqār",
+    "has_json": [],
+    "person_id": null
+  },
+  "73": {
+    "bio_id": "73",
+    "name_ar": "ابو بكر سكاك",
+    "name_lat": "Abū Bakr Sakkāk",
+    "has_json": [],
+    "person_id": null
+  },
+  "60": {
+    "bio_id": "60",
+    "name_ar": "ابو بكر السوسي",
+    "name_lat": "Abū Bakr al-Sūsī",
+    "has_json": [],
+    "person_id": null
+  },
+  "76": {
+    "bio_id": "76",
+    "name_ar": "ابو بكر شكري",
+    "name_lat": "Abū Bakr Shukrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "67": {
+    "bio_id": "67",
+    "name_ar": "ابو بكر جوزقي",
+    "name_lat": "Abū Bakr Jawzaqī",
+    "has_json": [],
+    "person_id": null
+  },
+  "59": {
+    "bio_id": "59",
+    "name_ar": "ابو بكر الرازي",
+    "name_lat": "Abū Bakr al-Rāzī",
+    "has_json": [],
+    "person_id": null
+  },
+  "56": {
+    "bio_id": "56",
+    "name_ar": "ابو بكر اشناني",
+    "name_lat": "Abū Bakr Ushnānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "87": {
+    "bio_id": "87",
+    "name_ar": "ابو بكر كفشري",
+    "name_lat": "Abū Bakr Kafsh-garī",
+    "has_json": [],
+    "person_id": null
+  },
+  "90": {
+    "bio_id": "90",
+    "name_ar": "ابو بكر مغازلي",
+    "name_lat": "Abū Bakr Maghāzilī",
+    "has_json": [],
+    "person_id": null
+  },
+  "95": {
+    "bio_id": "95",
+    "name_ar": "ابو بكر همداني",
+    "name_lat": "Abū Bakr Hamadānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "62": {
+    "bio_id": "62",
+    "name_ar": "ابو بكر بن داود الدينوري",
+    "name_lat": "Abū Bakr b. Dāwūd al-Dīnawarī",
+    "has_json": [],
+    "person_id": null
+  },
+  "162": {
+    "bio_id": "162",
+    "name_ar": "ابو علي خيران",
+    "name_lat": "Abū ʿAlī Khayrān",
+    "has_json": [],
+    "person_id": null
+  },
+  "163": {
+    "bio_id": "163",
+    "name_ar": "ابو علي رازي",
+    "name_lat": "Abū ʿAlī Rāzī",
+    "has_json": [],
+    "person_id": null
+  },
+  "165": {
+    "bio_id": "165",
+    "name_ar": "ابو علي سرجاني",
+    "name_lat": "Abū ʿAlī Sirjānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "656": {
+    "bio_id": "656",
+    "name_ar": "عبد الله الحداد",
+    "name_lat": "ʿAbd Allāh al-Ḥaddād",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "664": {
+    "bio_id": "664",
+    "name_ar": "عبد الله بن عصام المقدسي",
+    "name_lat": "ʿAbd Allāh b. ʿIṣām al-Maqdisī",
+    "has_json": [],
+    "person_id": null
+  },
+  "669": {
+    "bio_id": "669",
+    "name_ar": "عبد الله نباذاني",
+    "name_lat": "ʿAbd Allāh Nabādhānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "325": {
+    "bio_id": "325",
+    "name_ar": "أبو الخير حبشي",
+    "name_lat": "Abū al-Khayr Ḥabashī",
+    "has_json": [],
+    "person_id": null
+  },
+  "328": {
+    "bio_id": "328",
+    "name_ar": "أبو الخير عسقلاني",
+    "name_lat": "Abū al-Khayr ʿAsqalānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "120": {
+    "bio_id": "120",
+    "name_ar": "ابو زيد مرغزي خراساني",
+    "name_lat": "Abū Zayd Marghazī Khurāsānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "326": {
+    "bio_id": "326",
+    "name_ar": "أبو الخير حمصي",
+    "name_lat": "Abū al-Khayr Ḥimṣī",
+    "has_json": [],
+    "person_id": null
+  },
+  "2": {
+    "bio_id": "2",
+    "name_ar": "ابراهيم الجيلي",
+    "name_lat": "Ibrāhīm al-Jīlī",
+    "has_json": [],
+    "person_id": null
+  },
+  "14": {
+    "bio_id": "14",
+    "name_ar": "ابراهيم دهستاني",
+    "name_lat": "Ibrāhīm Dihis̄tānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "19": {
+    "bio_id": "19",
+    "name_ar": "ابراهيم مرغناني",
+    "name_lat": "Ibrāhīm Marghinānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "287": {
+    "bio_id": "287",
+    "name_ar": "أبو الأديان",
+    "name_lat": "Abū al-Adyān",
+    "has_json": [],
+    "person_id": null
+  },
+  "12": {
+    "bio_id": "12",
+    "name_ar": "ابراهيم بن يوسف بن محمد الزجاجي",
+    "name_lat": "Ibrāhīm b. Yūsuf b. Muḥammad al-Zujājī",
+    "has_json": [],
+    "person_id": null
+  },
+  "294": {
+    "bio_id": "294",
+    "name_ar": "أبو الحسن الصوفي الفوشنجي",
+    "name_lat": "Abū al-Ḥasan al-Ṣūfī al-Fūshanjī",
+    "has_json": [],
+    "person_id": null
+  },
+  "174": {
+    "bio_id": "174",
+    "name_ar": "ابو عمرو بن دينجد السلمي",
+    "name_lat": "Abū ʿAmr b. Dīnajad al-Sulamī",
+    "has_json": [],
+    "person_id": null
+  },
+  "432": {
+    "bio_id": "432",
+    "name_ar": "أبو محمد عبد الله بن محمد الشعراني",
+    "name_lat": "Abū Muḥammad ʿAbd Allāh b. Muḥammad al-Shaʿrānī",
+    "has_json": [
+      "sulami"
+    ],
+    "person_id": null
+  },
+  "127": {
+    "bio_id": "127",
+    "name_ar": "ابو سليمان نيلي",
+    "name_lat": "Abū Sulaymān Nīlī",
+    "has_json": [],
+    "person_id": null
+  },
+  "315": {
+    "bio_id": "315",
+    "name_ar": "أبو الحسين القرافي",
+    "name_lat": "Abū al-Ḥusayn al-Qarāfī",
+    "has_json": [],
+    "person_id": null
+  },
+  "82": {
+    "bio_id": "82",
+    "name_ar": "ابو بكر فاليزبان",
+    "name_lat": "Abū Bakr Fālīzbān",
+    "has_json": [],
+    "person_id": null
+  },
+  "190": {
+    "bio_id": "190",
+    "name_ar": "ابو نصر خباز و أبو الحسن سوهان آژن",
+    "name_lat": "Abū Naṣr Khabbāz wa Abū al-Ḥasan Sūhān Āzhan",
+    "has_json": [],
+    "person_id": null
+  },
+  "329": {
+    "bio_id": "329",
+    "name_ar": "أبو الخير مالكي",
+    "name_lat": "Abū al-Khayr Mālikī",
+    "has_json": [],
+    "person_id": null
+  },
+  "61": {
+    "bio_id": "61",
+    "name_ar": "ابو بكر الشعراني",
+    "name_lat": "Abū Bakr al-Shaʿrānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "178": {
+    "bio_id": "178",
+    "name_ar": "ابو محمد العتايدي",
+    "name_lat": "Abū Muḥammad al-ʿAtāyidī",
+    "has_json": [],
+    "person_id": null
+  },
+  "494": {
+    "bio_id": "494",
+    "name_ar": "جعفر الحذا",
+    "name_lat": "Jaʿfar al-Ḥadhdhā",
+    "has_json": [],
+    "person_id": null
+  },
+  "841": {
+    "bio_id": "841",
+    "name_ar": "هشام بن عبدان",
+    "name_lat": "Hishām b. ʿAbdān",
+    "has_json": [],
+    "person_id": null
+  },
+  "429": {
+    "bio_id": "429",
+    "name_ar": "أبو محرز",
+    "name_lat": "Abū Miḥriz",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "651": {
+    "bio_id": "651",
+    "name_ar": "عبد الرحيم اصطخري",
+    "name_lat": "ʿAbd al-Raḥīm Iṣṭakhrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "821": {
+    "bio_id": "821",
+    "name_ar": "مؤمل الجصاص",
+    "name_lat": "Muʾammil al-Jaṣṣāṣ",
+    "has_json": [],
+    "person_id": null
+  },
+  "705": {
+    "bio_id": "705",
+    "name_ar": "علي بن شلوه",
+    "name_lat": "ʿAlī b. Shulūwwah",
+    "has_json": [],
+    "person_id": null
+  },
+  "57": {
+    "bio_id": "57",
+    "name_ar": "ابو بكر الاسكاف",
+    "name_lat": "Abū Bakr al-Iskāf",
+    "has_json": [],
+    "person_id": null
+  },
+  "177": {
+    "bio_id": "177",
+    "name_ar": "ابو محمد الخفاف",
+    "name_lat": "Abū Muḥammad al-Khaffāf",
+    "has_json": [],
+    "person_id": null
+  },
+  "333": {
+    "bio_id": "333",
+    "name_ar": "أبو الضحاك",
+    "name_lat": "Abū al-Ḍaḥḥāk",
+    "has_json": [],
+    "person_id": null
+  },
+  "514": {
+    "bio_id": "514",
+    "name_ar": "حسن بن حمويه و صاحبه ابوجعفر الحرار الاصطخري",
+    "name_lat": "Ḥasan b. Ḥamawayh wa ṣāḥibuh Abū Jaʿfar al-Ḥarrār al-Iṣṭakhrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "657": {
+    "bio_id": "657",
+    "name_ar": "عبد الله القصار",
+    "name_lat": "ʿAbd Allāh al-Qaṣṣār",
+    "has_json": [],
+    "person_id": null
+  },
+  "4": {
+    "bio_id": "4",
+    "name_ar": "ابراهيم المتوكل",
+    "name_lat": "Ibrāhīm al-Mutawakkil",
+    "has_json": [],
+    "person_id": null
+  },
+  "171": {
+    "bio_id": "171",
+    "name_ar": "ابو علي وارجي",
+    "name_lat": "Abū ʿAlī Wārijī",
+    "has_json": [],
+    "person_id": null
+  },
+  "350": {
+    "bio_id": "350",
+    "name_ar": "أبو الفضل جعفر الجعدي",
+    "name_lat": "Abū al-Faḍl Jaʿfar al-Jaʿdī",
+    "has_json": [],
+    "person_id": null
+  },
+  "353": {
+    "bio_id": "353",
+    "name_ar": "أبو القاسم القصري",
+    "name_lat": "Abū al-Qāsim al-Qaṣrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "652": {
+    "bio_id": "652",
+    "name_ar": "عبد العزيز بحراني",
+    "name_lat": "ʿAbd al-ʿAzīz Baḥrānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "302": {
+    "bio_id": "302",
+    "name_ar": "أبو الحسن حكيمي",
+    "name_lat": "Abū al-Ḥasan Ḥakīmī",
+    "has_json": [],
+    "person_id": null
+  },
+  "35": {
+    "bio_id": "35",
+    "name_ar": "ابو اسحاق كازِروني",
+    "name_lat": "Abū Isḥāq Kāzarūnī",
+    "has_json": [],
+    "person_id": null
+  },
+  "161": {
+    "bio_id": "161",
+    "name_ar": "ابو علي حسين بن محمد الأكار",
+    "name_lat": "Abū ʿAlī Ḥusayn b. Muḥammad al-Akkār",
+    "has_json": [],
+    "person_id": null
+  },
+  "576": {
+    "bio_id": "576",
+    "name_ar": "روزبهان بقلي",
+    "name_lat": "Rūzbihān Baqlī",
+    "has_json": [],
+    "person_id": null
+  },
+  "308": {
+    "bio_id": "308",
+    "name_ar": "أبو الحسن كردوه",
+    "name_lat": "Abū al-Ḥasan Kirduwwah",
+    "has_json": [],
+    "person_id": null
+  },
+  "666": {
+    "bio_id": "666",
+    "name_ar": "عبد الله بيلاني",
+    "name_lat": "ʿAbd Allāh Baylānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "825": {
+    "bio_id": "825",
+    "name_ar": null,
+    "name_lat": "Mīra Naysābūrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "152": {
+    "bio_id": "152",
+    "name_ar": "ابو عبد الله مانك",
+    "name_lat": "Abū ʿAbd Allāh Mānik",
+    "has_json": [],
+    "person_id": null
+  },
+  "418": {
+    "bio_id": "418",
+    "name_ar": "أبو عبد الله محمد المقرئ وأبو القاسم جعفر المقرئ",
+    "name_lat": "Abū ʿAbd Allāh Muḥammad al-Muqriʾ wa-Abū al-Qāsim Jaʿfar al-Muqriʾ LOOK",
+    "has_json": [
+      "sulami"
+    ],
+    "person_id": null
+  },
+  "320": {
+    "bio_id": "320",
+    "name_ar": "أبو الحسين طزري",
+    "name_lat": "Abū al-Ḥusayn Ṭuzarī",
+    "has_json": [],
+    "person_id": null
+  },
+  "205": {
+    "bio_id": "205",
+    "name_ar": "احمد جوالگر",
+    "name_lat": "Aḥmad Jawāligar",
+    "has_json": [],
+    "person_id": null
+  },
+  "793": {
+    "bio_id": "793",
+    "name_ar": "محمد ساخري",
+    "name_lat": "Muḥammad Sākharī",
+    "has_json": [],
+    "person_id": null
+  },
+  "253": {
+    "bio_id": "253",
+    "name_ar": "ام چيره سفال فروش",
+    "name_lat": "Umm Chīrah Safāl Furūsh",
+    "has_json": [],
+    "person_id": null
+  },
+  "714": {
+    "bio_id": "714",
+    "name_ar": "عمران ثلثي",
+    "name_lat": "ʿUmrān Thulthī",
+    "has_json": [],
+    "person_id": null
+  },
+  "322": {
+    "bio_id": "322",
+    "name_ar": "أبو الحسين مرو الرودي",
+    "name_lat": "Abū al-Ḥusayn Marw al-Rūdī",
+    "has_json": [],
+    "person_id": null
+  },
+  "191": {
+    "bio_id": "191",
+    "name_ar": "ابو نصر سرّاج",
+    "name_lat": "Abū Naṣr Sarrāj",
+    "has_json": [],
+    "person_id": null
+  },
+  "349": {
+    "bio_id": "349",
+    "name_ar": "أبو الفضل بن الحسن السرخسي",
+    "name_lat": "Abū al-Faḍl b. al-Ḥasan al-Sarakhsī",
+    "has_json": [],
+    "person_id": null
+  },
+  "214": {
+    "bio_id": "214",
+    "name_ar": null,
+    "name_lat": "Aḥmad b. Naṣr",
+    "has_json": [],
+    "person_id": null
+  },
+  "528": {
+    "bio_id": "528",
+    "name_ar": null,
+    "name_lat": "Khālawī Naysābūrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "167": {
+    "bio_id": "167",
+    "name_ar": "ابو علي سياه",
+    "name_lat": "Abū ʿAlī Siyāh",
+    "has_json": [],
+    "person_id": null
+  },
+  "159": {
+    "bio_id": "159",
+    "name_ar": "ابو علي الشبويي المروزي",
+    "name_lat": "Abū ʿAlī al-Shabbūyī al-Marwazī",
+    "has_json": [],
+    "person_id": null
+  },
+  "355": {
+    "bio_id": "355",
+    "name_ar": "أبو القاسم بشر ياسيني",
+    "name_lat": "Abū al-Qāsim Bishr Yāsīnī",
+    "has_json": [],
+    "person_id": null
+  },
+  "752": {
+    "bio_id": "752",
+    "name_ar": "لقمان سرخسي",
+    "name_lat": "Luqmān Sarakhsī",
+    "has_json": [],
+    "person_id": null
+  },
+  "797": {
+    "bio_id": "797",
+    "name_ar": "محمد قصاب الآملي",
+    "name_lat": "Muḥammad Qaṣṣāb al-Āmulī",
+    "has_json": [],
+    "person_id": null
+  },
+  "303": {
+    "bio_id": "303",
+    "name_ar": "أبو الحسن خرقاني",
+    "name_lat": "Abū al-Ḥasan Kharaqānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "146": {
+    "bio_id": "146",
+    "name_ar": "ابو عبد الله الداستاني",
+    "name_lat": "Abū ʿAbd Allāh al-Dāstānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "121": {
+    "bio_id": "121",
+    "name_ar": "ابو سعيد أبو الخير",
+    "name_lat": "Abū Saʿīd Abū al-Khayr",
+    "has_json": [],
+    "person_id": null
+  },
+  "359": {
+    "bio_id": "359",
+    "name_ar": "أبو القاسم كرگاني",
+    "name_lat": "Abū al-Qāsim Gurgānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "558": {
+    "bio_id": "558",
+    "name_ar": "خواجه مظفر بن احمد بن حمدان",
+    "name_lat": "Khwājah Muẓaffar b. Aḥmad b. Ḥamdān",
+    "has_json": [],
+    "person_id": null
+  },
+  "811": {
+    "bio_id": "811",
+    "name_ar": "معشوق طوسي",
+    "name_lat": "Maʿshūq Ṭūsī",
+    "has_json": [],
+    "person_id": null
+  },
+  "262": {
+    "bio_id": "262",
+    "name_ar": "امير علي عبو",
+    "name_lat": "Amīr ʿAlī ʿAbū",
+    "has_json": [],
+    "person_id": null
+  },
+  "133": {
+    "bio_id": "133",
+    "name_ar": "ابو عبد الرحمان السلمي النيسابوري",
+    "name_lat": "Abū ʿAbd al-Raḥmān al-Sulamī al-Naysābūrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "632": {
+    "bio_id": "632",
+    "name_ar": "صاحب كتاب فتوحات مكيه",
+    "name_lat": "Ṣāhib Kitāb Futūḥāt al-Makkiyya",
+    "has_json": [],
+    "person_id": null
+  },
+  "518": {
+    "bio_id": "518",
+    "name_ar": "حسين بن محمد بن موسي السلمي",
+    "name_lat": "Ḥusayn b. Muḥammad b. Mūsā al-Sulamī",
+    "has_json": [],
+    "person_id": null
+  },
+  "352": {
+    "bio_id": "352",
+    "name_ar": "أبو القاسم القشيري",
+    "name_lat": "Abū al-Qāsim al-Qushayrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "344": {
+    "bio_id": "344",
+    "name_ar": "أبو العباس شقاني",
+    "name_lat": "Abū al-ʿAbbās Shaqqānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "351": {
+    "bio_id": "351",
+    "name_ar": "أبو الفضل محمد بن الحسن الختلي",
+    "name_lat": "Abū al-Faḍl Muḥammad b. al-Ḥasan al-Khattalī",
+    "has_json": [],
+    "person_id": null
+  },
+  "706": {
+    "bio_id": "706",
+    "name_ar": "علي بن عثمان بن ابي علي الجلابي الغزنوي",
+    "name_lat": "ʿAlī b. ʿUthmān b. Abī ʿAlī al-Jullābī al-Ghaznawī",
+    "has_json": [],
+    "person_id": null
+  },
+  "539": {
+    "bio_id": "539",
+    "name_ar": "خواجه احمد حمادي سرخسي",
+    "name_lat": "Khwājah Aḥmad Ḥammādī Sarakhsī",
+    "has_json": [],
+    "person_id": null
+  },
+  "219": {
+    "bio_id": "219",
+    "name_ar": "اديب گمندي",
+    "name_lat": "Adīb Gimandī",
+    "has_json": [],
+    "person_id": null
+  },
+  "309": {
+    "bio_id": "309",
+    "name_ar": "أبو الحسن مثني",
+    "name_lat": "Abū al-Ḥasan Muthannī",
+    "has_json": [],
+    "person_id": null
+  },
+  "118": {
+    "bio_id": "118",
+    "name_ar": "ابو زرعه اردبيلي",
+    "name_lat": "Abū Zurʿah Ardabīlī",
+    "has_json": [],
+    "person_id": null
+  },
+  "119": {
+    "bio_id": "119",
+    "name_ar": "ابو زرعۀ رازي",
+    "name_lat": "Abū Zurʿah Rāzī",
+    "has_json": [],
+    "person_id": null
+  },
+  "213": {
+    "bio_id": "213",
+    "name_ar": "احمد نجار استرابادي",
+    "name_lat": "Aḥmad Najjār Astrābādī",
+    "has_json": [],
+    "person_id": null
+  },
+  "148": {
+    "bio_id": "148",
+    "name_ar": "ابو عبد الله المشتهر ببابويي",
+    "name_lat": "Abū ʿAbd Allāh al-Mushtahir bi-Bābūyī",
+    "has_json": [],
+    "person_id": null
+  },
+  "150": {
+    "bio_id": "150",
+    "name_ar": "ابو عبد الله باكو",
+    "name_lat": "Abū ʿAbd Allāh Bākū",
+    "has_json": [],
+    "person_id": null
+  },
+  "34": {
+    "bio_id": "34",
+    "name_ar": "ابو اسحاق شامي",
+    "name_lat": "Abū Isḥāq Shāmī",
+    "has_json": [],
+    "person_id": null
+  },
+  "822": {
+    "bio_id": "822",
+    "name_ar": "مؤمن شيرازي",
+    "name_lat": "Muʾmin Shīrāzī",
+    "has_json": [],
+    "person_id": null
+  },
+  "536": {
+    "bio_id": "536",
+    "name_ar": "خواجه ابواحمد ابدال چشتي",
+    "name_lat": "Khwājah Abū Aḥmad Abdāl Chishtī",
+    "has_json": [],
+    "person_id": null
+  },
+  "555": {
+    "bio_id": "555",
+    "name_ar": "خواجه محمد بن ابي احمد الچشتي",
+    "name_lat": "Khwājah Muḥammad b. Abī Aḥmad al-Chishtī",
+    "has_json": [],
+    "person_id": null
+  },
+  "561": {
+    "bio_id": "561",
+    "name_ar": "خواجه يوسف بن محمد بن سمعان",
+    "name_lat": "Khwājah Yūsuf b. Muḥammad b. Samʿān",
+    "has_json": [],
+    "person_id": null
+  },
+  "559": {
+    "bio_id": "559",
+    "name_ar": "خواجه مودود چشتي",
+    "name_lat": "Khwājah Mawdūd Chishtī",
+    "has_json": [],
+    "person_id": null
+  },
+  "538": {
+    "bio_id": "538",
+    "name_ar": "خواجه احمد بن مودود بن يوسف الچشتي",
+    "name_lat": "Khwājah Aḥmad b. Mawdūd b. Yūsuf al-Chishtī",
+    "has_json": [],
+    "person_id": null
+  },
+  "36": {
+    "bio_id": "36",
+    "name_ar": "ابو اسماعيل عبد الله بن ابي منصور محمد الانصاري الهروي",
+    "name_lat": "Abū Ismāʿīl ʿAbd Allāh b. Abī Manṣūr Muḥammad al-Anṣārī al-Harawī",
+    "has_json": [],
+    "person_id": null
+  },
+  "560": {
+    "bio_id": "560",
+    "name_ar": "خواجه يحيي بن عمار الشيباني",
+    "name_lat": "Khwājah Yaḥyā b. ʿAmmār al-Shaybānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "151": {
+    "bio_id": "151",
+    "name_ar": "ابو عبد الله طاقي",
+    "name_lat": "Abū ʿAbd Allāh Ṭāqī",
+    "has_json": [],
+    "person_id": null
+  },
+  "298": {
+    "bio_id": "298",
+    "name_ar": "أبو الحسن بشري سجزي",
+    "name_lat": "Abū al-Ḥasan Bishrī Sijzī",
+    "has_json": [],
+    "person_id": null
+  },
+  "746": {
+    "bio_id": "746",
+    "name_ar": "كاكا أبو القصري بستي",
+    "name_lat": "Kākā Abū al-Qaṣrī Bustī",
+    "has_json": [],
+    "person_id": null
+  },
+  "187": {
+    "bio_id": "187",
+    "name_ar": "ابو منصور محمد الانصاري",
+    "name_lat": "Abū Manṣūr Muḥammad al-Anṣārī",
+    "has_json": [],
+    "person_id": null
+  },
+  "745": {
+    "bio_id": "745",
+    "name_ar": "كاكا احمد سنبل و برادر يو محمد خورچه",
+    "name_lat": "Kākā Aḥmad Sunbul wa barādar-i ū Muḥammad Khūrchah",
+    "has_json": [],
+    "person_id": null
+  },
+  "185": {
+    "bio_id": "185",
+    "name_ar": "ابو منصور سوخته",
+    "name_lat": "Abū Manṣūr Sūkhtah",
+    "has_json": [],
+    "person_id": null
+  },
+  "206": {
+    "bio_id": "206",
+    "name_ar": "احمد چشتي و برادر يو خواجه اسماعيل چشتي",
+    "name_lat": "Aḥmad Chishtī wa barādar-i ū Khwājah Ismāʿīl Chishtī",
+    "has_json": [],
+    "person_id": null
+  },
+  "125": {
+    "bio_id": "125",
+    "name_ar": "ابو سلمۀ باوردي",
+    "name_lat": "Būsalmah Bāwardī",
+    "has_json": [],
+    "person_id": null
+  },
+  "164": {
+    "bio_id": "164",
+    "name_ar": "ابو علي زرگر",
+    "name_lat": "Abū ʿAlī Zargar",
+    "has_json": [],
+    "person_id": null
+  },
+  "168": {
+    "bio_id": "168",
+    "name_ar": "ابو علي كيال",
+    "name_lat": "Abū ʿAlī Kayyāl",
+    "has_json": [],
+    "person_id": null
+  },
+  "207": {
+    "bio_id": "207",
+    "name_ar": "احمد حاجي",
+    "name_lat": "Aḥmad Ḥājjī",
+    "has_json": [],
+    "person_id": null
+  },
+  "124": {
+    "bio_id": "124",
+    "name_ar": "ابو سعيد معلم",
+    "name_lat": "Abū Saʿīd Muʿallim",
+    "has_json": [],
+    "person_id": null
+  },
+  "160": {
+    "bio_id": "160",
+    "name_ar": "ابو علي بوته گر",
+    "name_lat": "Abū ʿAlī Būtah-gar",
+    "has_json": [],
+    "person_id": null
+  },
+  "186": {
+    "bio_id": "186",
+    "name_ar": "ابو منصور گازر",
+    "name_lat": "Abū Manṣūr Gāzir",
+    "has_json": [],
+    "person_id": null
+  },
+  "192": {
+    "bio_id": "192",
+    "name_ar": "ابو نصر قباني",
+    "name_lat": "Abū Naṣr Qabbānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "222": {
+    "bio_id": "222",
+    "name_ar": "اسماعيل دباس جرفتي",
+    "name_lat": "Ismāʿīl Dabbās Juruftī",
+    "has_json": [],
+    "person_id": null
+  },
+  "224": {
+    "bio_id": "224",
+    "name_ar": "اسماعيل نصرآبادي",
+    "name_lat": "Ismāʿīl Naṣrābādī",
+    "has_json": [],
+    "person_id": null
+  },
+  "762": {
+    "bio_id": "762",
+    "name_ar": "محمد ابوحفص كورتي",
+    "name_lat": "Muḥammad Abū Ḥafṣ Kūrtī",
+    "has_json": [],
+    "person_id": null
+  },
+  "212": {
+    "bio_id": "212",
+    "name_ar": "احمد كوفاني",
+    "name_lat": "Aḥmad Kūfānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "310": {
+    "bio_id": "310",
+    "name_ar": "أبو الحسن نجار",
+    "name_lat": "Abū al-Ḥasan Najjār",
+    "has_json": [],
+    "person_id": null
+  },
+  "717": {
+    "bio_id": "717",
+    "name_ar": "عمو",
+    "name_lat": "ʿAmmū",
+    "has_json": [],
+    "person_id": null
+  },
+  "362": {
+    "bio_id": "362",
+    "name_ar": "أبو الليثي فوشنجي",
+    "name_lat": "Abū al-Laythī Fūshanjī",
+    "has_json": [],
+    "person_id": null
+  },
+  "782": {
+    "bio_id": "782",
+    "name_ar": "محمد بن عبد الله گازر هروي",
+    "name_lat": "Muḥammad b. ʿAbd Allāh Gāzir Harawī",
+    "has_json": [],
+    "person_id": null
+  },
+  "543": {
+    "bio_id": "543",
+    "name_ar": "خواجه خرچه",
+    "name_lat": "Khwājah Khurchah",
+    "has_json": [],
+    "person_id": null
+  },
+  "743": {
+    "bio_id": "743",
+    "name_ar": "قر بنج",
+    "name_lat": "Qurbanj",
+    "has_json": [],
+    "person_id": null
+  },
+  "143": {
+    "bio_id": "143",
+    "name_ar": "ابو عبد الله احمد بن عبد الرحمان بن نصر الماليني",
+    "name_lat": "Abū ʿAbd Allāh Aḥmad b. ʿAbd al-Raḥmān b. Naṣr al-Mālīnī",
+    "has_json": [],
+    "person_id": null
+  },
+  "189": {
+    "bio_id": "189",
+    "name_ar": "ابو نصر بن ابي جعفر بن ابي اسحاق هروي خانچه بادي",
+    "name_lat": "Abū Naṣr b. Abī Jaʿfar b. Abī Isḥāq Harawī Khānchah Bādī",
+    "has_json": [],
+    "person_id": null
+  },
+  "599": {
+    "bio_id": "599",
+    "name_ar": "سلطان مجدالدين طالبه",
+    "name_lat": "Sulṭān Majd al-Dīn Ṭālibah",
+    "has_json": [],
+    "person_id": null
+  },
+  "154": {
+    "bio_id": "154",
+    "name_ar": "ابو عبد الله مختار بن محمد بن احمدالهروي",
+    "name_lat": "Abū ʿAbd Allāh Mukhtār b. Muḥammad b. Aḥmad al-Harawī",
+    "has_json": [],
+    "person_id": null
+  },
+  "117": {
+    "bio_id": "117",
+    "name_ar": "ابو ذر بوزجاني",
+    "name_lat": "Abū Dharr Būzjānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "226": {
+    "bio_id": "226",
+    "name_ar": "الاسلام احمد النامقي الجامي",
+    "name_lat": "Aḥmad-i Jām",
+    "has_json": [],
+    "person_id": null
+  },
+  "132": {
+    "bio_id": "132",
+    "name_ar": "ابو طاهر كرد",
+    "name_lat": "Abū Ṭāhir Kurd",
+    "has_json": [],
+    "person_id": null
+  },
+  "169": {
+    "bio_id": "169",
+    "name_ar": null,
+    "name_lat": "Abū ʿAlī Fārmadī",
+    "has_json": [],
+    "person_id": null
+  },
+  "63": {
+    "bio_id": "63",
+    "name_ar": "ابو بكر بن عبد الله الطوسي النساج",
+    "name_lat": "Abū Bakr b. ʿAbd Allāh al-Ṭūsī al-Nassāj",
+    "has_json": [],
+    "person_id": null
+  },
+  "510": {
+    "bio_id": "510",
+    "name_ar": "حجة الاسلام محمد بن محمد الغزالي الطوسي",
+    "name_lat": "Ḥujjat al-Islām Muḥammad b. Muḥammad al-Ghazālī al-Ṭūsī",
+    "has_json": [],
+    "person_id": null
+  },
+  "211": {
+    "bio_id": "211",
+    "name_ar": "احمد غزالي",
+    "name_lat": "Aḥmad Ghazālī",
+    "has_json": [],
+    "person_id": null
+  },
+  "562": {
+    "bio_id": "562",
+    "name_ar": "خواجه يوسف همداني",
+    "name_lat": "Khwājah Yūsuf Hamadānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "546": {
+    "bio_id": "546",
+    "name_ar": "خواجه عبد الخالق غجدواني",
+    "name_lat": "Khwājah ʿAbd al-Khāliq Ghujduwānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "545": {
+    "bio_id": "545",
+    "name_ar": "خواجه عارف رويگر يوگي",
+    "name_lat": "Khwājah ʿĀrif Rīwigar Yūgī",
+    "has_json": [],
+    "person_id": null
+  },
+  "551": {
+    "bio_id": "551",
+    "name_ar": "خواجه علي راميتني",
+    "name_lat": "Khwājah ʿAlī Rāmītanī",
+    "has_json": [],
+    "person_id": null
+  },
+  "554": {
+    "bio_id": "554",
+    "name_ar": "خواجه محمد باباي سماسيي",
+    "name_lat": "Khwājah Muḥammad Bābā-yi Samāsī",
+    "has_json": [],
+    "person_id": null
+  },
+  "557": {
+    "bio_id": "557",
+    "name_ar": "خواجه محمود انجير فغنوي",
+    "name_lat": "Khwājah Maḥmūd Anjīr Faghnawī",
+    "has_json": [],
+    "person_id": null
+  },
+  "611": {
+    "bio_id": "611",
+    "name_ar": "سيد امير كلال",
+    "name_lat": "Sayyid Amīr Kulāl",
+    "has_json": [],
+    "person_id": null
+  },
+  "535": {
+    "bio_id": "535",
+    "name_ar": "خليل آتا",
+    "name_lat": "Khalīl Ātā",
+    "has_json": [],
+    "person_id": null
+  },
+  "742": {
+    "bio_id": "742",
+    "name_ar": "قثم شيخ",
+    "name_lat": "Qutham Shaykh",
+    "has_json": [],
+    "person_id": null
+  },
+  "541": {
+    "bio_id": "541",
+    "name_ar": "خواجه بهاءالدين نقش بند",
+    "name_lat": "Khwājah Bahāʾ al-Dīn Naqshband",
+    "has_json": [],
+    "person_id": null
+  },
+  "549": {
+    "bio_id": "549",
+    "name_ar": "خواجه علاء الدين عطار",
+    "name_lat": "Khwājah ʿAlāʾ al-Dīn ʿAṭṭār",
+    "has_json": [],
+    "person_id": null
+  },
+  "556": {
+    "bio_id": "556",
+    "name_ar": "خواجه محمد پارسا",
+    "name_lat": "Khwājah Muḥammad Pārsā",
+    "has_json": [],
+    "person_id": null
+  },
+  "537": {
+    "bio_id": "537",
+    "name_ar": "خواجه ابونصر پارسا",
+    "name_lat": "Khwājah Abū Naṣr Pārsā",
+    "has_json": [],
+    "person_id": null
+  },
+  "542": {
+    "bio_id": "542",
+    "name_ar": "خواجه حسن عطار",
+    "name_lat": "Khwājah Ḥasan ʿAṭṭār",
+    "has_json": [],
+    "person_id": null
+  },
+  "677": {
+    "bio_id": "677",
+    "name_ar": "عبيد الله چرخي",
+    "name_lat": "ʿUbayd Allāh Charkhī LOOK maybe yaʿqūb",
+    "has_json": [],
+    "person_id": null
+  },
+  "550": {
+    "bio_id": "550",
+    "name_ar": "خواجه علاءالدين غجدواني",
+    "name_lat": "Khwājah ʿAlāʾ al-Dīn Ghujduwānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "834": {
+    "bio_id": "834",
+    "name_ar": "نظام الدين خاموش",
+    "name_lat": "Niẓām al-Dīn Khāmūsh",
+    "has_json": [],
+    "person_id": null
+  },
+  "547": {
+    "bio_id": "547",
+    "name_ar": "خواجه عبد الله امامي اصفهاني",
+    "name_lat": "Khwājah ʿAbd Allāh Imāmī Iṣfahānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "591": {
+    "bio_id": "591",
+    "name_ar": "سعدالدين كاشغري",
+    "name_lat": "Saʿd al-Dīn Kāshgharī",
+    "has_json": [],
+    "person_id": null
+  },
+  "548": {
+    "bio_id": "548",
+    "name_ar": "خواجه عبيد الله",
+    "name_lat": "Khwājah ʿUbayd Allāh",
+    "has_json": [],
+    "person_id": null
+  },
+  "297": {
+    "bio_id": "297",
+    "name_ar": "أبو الحسن بستي",
+    "name_lat": "Abū al-Ḥasan Bustī",
+    "has_json": [],
+    "person_id": null
+  },
+  "517": {
+    "bio_id": "517",
+    "name_ar": "حسن سكاك سمناني",
+    "name_lat": "Ḥasan Sakkāk Simnānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "719": {
+    "bio_id": "719",
+    "name_ar": "عين القضات همداني",
+    "name_lat": "ʿAyn al-Quḍāt Hamadānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "778": {
+    "bio_id": "778",
+    "name_ar": "محمد بن حمويه الجويني",
+    "name_lat": "Muḥammad b. Ḥamawayh al-Juwaynī",
+    "has_json": [],
+    "person_id": null
+  },
+  "468": {
+    "bio_id": "468",
+    "name_ar": "بركه همداني",
+    "name_lat": "Barakah Hamadānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "729": {
+    "bio_id": "729",
+    "name_ar": "فتحه",
+    "name_lat": "Fatḥah",
+    "has_json": [],
+    "person_id": null
+  },
+  "639": {
+    "bio_id": "639",
+    "name_ar": "ضياءالدين أبو النجيب عبد القاهر السهروردي",
+    "name_lat": "Ḍiyāʾ al-Dīn Abū al-Najīb ʿAbd al-Qāhir al-Suhrawardī",
+    "has_json": [],
+    "person_id": null
+  },
+  "709": {
+    "bio_id": "709",
+    "name_ar": "عمار ياسر",
+    "name_lat": "ʿAmmār Yāsir",
+    "has_json": [],
+    "person_id": null
+  },
+  "223": {
+    "bio_id": "223",
+    "name_ar": "اسماعيل قصري",
+    "name_lat": "Ismāʿīl Qaṣrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "577": {
+    "bio_id": "577",
+    "name_ar": "روزبهان كبير مصري",
+    "name_lat": "Rūzbihān Kabīr Miṣrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "827": {
+    "bio_id": "827",
+    "name_ar": "نجم الدين الكبري",
+    "name_lat": "Najm al-Dīn al-Kubrā",
+    "has_json": [],
+    "person_id": null
+  },
+  "756": {
+    "bio_id": "756",
+    "name_ar": "مجدالدين بغدادي",
+    "name_lat": "Majd al-Dīn Baghdādī",
+    "has_json": [],
+    "person_id": null
+  },
+  "589": {
+    "bio_id": "589",
+    "name_ar": "سعد الدين حموي",
+    "name_lat": "Saʿd al-Dīn Ḥamawī",
+    "has_json": [],
+    "person_id": null
+  },
+  "734": {
+    "bio_id": "734",
+    "name_ar": "فخس الدين باخرزي",
+    "name_lat": "Fakhr al-Dīn Bākharzī",
+    "has_json": [],
+    "person_id": null
+  },
+  "718": {
+    "bio_id": "718",
+    "name_ar": "عين الزمان جمال الدين گيلي",
+    "name_lat": "ʿAyn al-Zamān Jamāl al-Dīn Gīlī",
+    "has_json": [],
+    "person_id": null
+  },
+  "462": {
+    "bio_id": "462",
+    "name_ar": "بابا كمال جندي",
+    "name_lat": "Bābā Kamāl Jandī",
+    "has_json": [],
+    "person_id": null
+  },
+  "540": {
+    "bio_id": "540",
+    "name_ar": "خواجه أبو الوفا خوارزمي",
+    "name_lat": "Khwājah Abū al-Wafāʾ Khwārazmī",
+    "has_json": [],
+    "person_id": null
+  },
+  "575": {
+    "bio_id": "575",
+    "name_ar": "رضي الدين علي لالاء الغزنوي",
+    "name_lat": "Raḍī al-Dīn ʿAlī Lālā al-Ghaznawī",
+    "has_json": [],
+    "person_id": null
+  },
+  "828": {
+    "bio_id": "828",
+    "name_ar": "نجم الدين رازي",
+    "name_lat": "Najm al-Dīn Rāzī",
+    "has_json": [],
+    "person_id": null
+  },
+  "501": {
+    "bio_id": "501",
+    "name_ar": "جمال الدين احمد جورفاني",
+    "name_lat": "Jamāl al-Dīn Aḥmad Jūrfānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "836": {
+    "bio_id": "836",
+    "name_ar": "نورالدين عبد الرحمان اسفرايني قرسقي",
+    "name_lat": "Nūr al-Dīn ʿAbd al-Raḥmān Isfarāyinī Qarasqī",
+    "has_json": [],
+    "person_id": null
+  },
+  "364": {
+    "bio_id": "364",
+    "name_ar": "أبو المكارم ركن الدين علاء الدوله احمد بن محمد البابنكي",
+    "name_lat": "Abū al-Makārim Rukn al-Dīn ʿAlāʾ al-Dawlah Aḥmad b. Muḥammad al-Bābnakī",
+    "has_json": [],
+    "person_id": null
+  },
+  "216": {
+    "bio_id": "216",
+    "name_ar": "اخي علي مصري",
+    "name_lat": "Akhī ʿAlī Miṣrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "830": {
+    "bio_id": "830",
+    "name_ar": "نجم الدين محمد بن محمد الادكاني",
+    "name_lat": "Najm al-Dīn Muḥammad b. Muḥammad al-Adkānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "218": {
+    "bio_id": "218",
+    "name_ar": "اخي محمد دهستاني",
+    "name_lat": "Akhī Muḥammad Dihistānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "261": {
+    "bio_id": "261",
+    "name_ar": "امير سيدس علي بن شهاب بن محمد الهمداني",
+    "name_lat": "Amīr Sayyid-i ʿAlī b. Shihāb b. Muḥammad al-Hamadānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "289": {
+    "bio_id": "289",
+    "name_ar": "أبو البركات تقي الدين علي الدوستي السمناني",
+    "name_lat": "Abū al-Barakāt Taqī al-Dīn ʿAlī al-Dūstī al-Simnānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "463": {
+    "bio_id": "463",
+    "name_ar": "بابا محمود طوسي",
+    "name_lat": "Bābā Maḥmūd Ṭūsī",
+    "has_json": [],
+    "person_id": null
+  },
+  "667": {
+    "bio_id": "667",
+    "name_ar": "عبد الله غرجستاني",
+    "name_lat": "ʿAbd Allāh Gurjistānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "215": {
+    "bio_id": "215",
+    "name_ar": "اخي علي قتلق شاه",
+    "name_lat": "Akhī ʿAlī Qutluq Shāh",
+    "has_json": [],
+    "person_id": null
+  },
+  "507": {
+    "bio_id": "507",
+    "name_ar": "حافظ بهاءالدين عمر ابردهي",
+    "name_lat": "Ḥāfiẓ Bahāʾ al-Dīn ʿUmar Abardahī",
+    "has_json": [],
+    "person_id": null
+  },
+  "730": {
+    "bio_id": "730",
+    "name_ar": "فخر الدين لرستاني",
+    "name_lat": "Fakhr al-Dīn Luristānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "615": {
+    "bio_id": "615",
+    "name_ar": "شاه علي فراهي",
+    "name_lat": "Shāh ʿAlī Farāhī",
+    "has_json": [],
+    "person_id": null
+  },
+  "794": {
+    "bio_id": "794",
+    "name_ar": "محمد شاه فراهي",
+    "name_lat": "Muḥammad Shāh Farāhī",
+    "has_json": [],
+    "person_id": null
+  },
+  "480": {
+    "bio_id": "480",
+    "name_ar": "بهاءالدين عمر",
+    "name_lat": "Bahāʾ al-Dīn ʿUmar",
+    "has_json": [],
+    "person_id": null
+  },
+  "624": {
+    "bio_id": "624",
+    "name_ar": "شمس الدين محمد اسد",
+    "name_lat": "Shams al-Dīn Muḥammad Asad",
+    "has_json": [],
+    "person_id": null
+  },
+  "481": {
+    "bio_id": "481",
+    "name_ar": "بهاءالدين ولد",
+    "name_lat": "Bahāʾ al-Dīn Walad",
+    "has_json": [],
+    "person_id": null
+  },
+  "612": {
+    "bio_id": "612",
+    "name_ar": "سيد برهان الدين محقق",
+    "name_lat": "Sayyid Burhān al-Dīn Muḥaqqiq",
+    "has_json": [],
+    "person_id": null
+  },
+  "499": {
+    "bio_id": "499",
+    "name_ar": "جلال الدين محمد البلخي الرومي",
+    "name_lat": "Jalāl al-Dīn Muḥammad al-Balkhī al-Rūmī",
+    "has_json": [],
+    "person_id": null
+  },
+  "626": {
+    "bio_id": "626",
+    "name_ar": "شمس الدين محمد بن علي بن ملك داد تبريزي",
+    "name_lat": "Shams al-Dīn Muḥammad b. ʿAlī b. Mulk Dād Tabrīzī",
+    "has_json": [],
+    "person_id": null
+  },
+  "600": {
+    "bio_id": "600",
+    "name_ar": "سلطان ولد",
+    "name_lat": "Sulṭān Walad",
+    "has_json": [],
+    "person_id": null
+  },
+  "511": {
+    "bio_id": "511",
+    "name_ar": "حسام الدين حسن بن محمد بن الحسن بن أخي ترك",
+    "name_lat": "Ḥusām al-Dīn Ḥasan b. Muḥammad b. al-Ḥasan b. Akhī Turk",
+    "has_json": [],
+    "person_id": null
+  },
+  "638": {
+    "bio_id": "638",
+    "name_ar": "صلاح الدين فريدون القونوي",
+    "name_lat": "Ṣalāḥ al-Dīn Farīdūn al-Qūnawī",
+    "has_json": [],
+    "person_id": null
+  },
+  "628": {
+    "bio_id": "628",
+    "name_ar": "شهاب الدين سهروردي",
+    "name_lat": "Shihāb al-Dīn Suhrawardī",
+    "has_json": [],
+    "person_id": null
+  },
+  "831": {
+    "bio_id": "831",
+    "name_ar": "نجيب الدين علي بن بزغش الشيرازي",
+    "name_lat": "Najīb al-Dīn ʿAlī b. Buzghush al-Shīrāzī",
+    "has_json": [],
+    "person_id": null
+  },
+  "643": {
+    "bio_id": "643",
+    "name_ar": "ظهير الدين عبد الرحمان بن علي بن بزغش",
+    "name_lat": "Ẓahīr al-Dīn ʿAbd al-Raḥmān b. ʿAlī b. Buzghush",
+    "has_json": [],
+    "person_id": null
+  },
+  "798": {
+    "bio_id": "798",
+    "name_ar": "محمد يمني",
+    "name_lat": "Muḥammad Yamanī",
+    "has_json": [],
+    "person_id": null
+  },
+  "18": {
+    "bio_id": "18",
+    "name_ar": "ابراهيم مجذوب",
+    "name_lat": "Ibrāhīm Majdhūb",
+    "has_json": [],
+    "person_id": null
+  },
+  "502": {
+    "bio_id": "502",
+    "name_ar": "جمال الدين لور",
+    "name_lat": "Jamāl al-Dīn Lūr",
+    "has_json": [],
+    "person_id": null
+  },
+  "623": {
+    "bio_id": "623",
+    "name_ar": "شمس الدين صفي",
+    "name_lat": "Shams al-Dīn Ṣafī",
+    "has_json": [],
+    "person_id": null
+  },
+  "838": {
+    "bio_id": "838",
+    "name_ar": "نورالدين عبد الصمد نطنزي",
+    "name_lat": "Nūr al-Dīn ʿAbd al-Ṣamad Naṭanzī",
+    "has_json": [],
+    "person_id": null
+  },
+  "684": {
+    "bio_id": "684",
+    "name_ar": "عزالدين محمود الكاشي",
+    "name_lat": "ʿIzz al-Dīn Maḥmūd al-Kāshī",
+    "has_json": [],
+    "person_id": null
+  },
+  "748": {
+    "bio_id": "748",
+    "name_ar": "كمال الدين عبد الرزاق الكاشي",
+    "name_lat": "Kamāl al-Dīn ʿAbd al-Razzāq al-Kāshī",
+    "has_json": [],
+    "person_id": null
+  },
+  "837": {
+    "bio_id": "837",
+    "name_ar": "نورالدين عبد الرحمان المصري",
+    "name_lat": "Nūr al-Dīn ʿAbd al-Raḥmān al-Miṣrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "732": {
+    "bio_id": "732",
+    "name_ar": "فخز الدين ابوبكر الخوافي",
+    "name_lat": "Fakhr al-Dīn Abū Bakr al-Khawāfī",
+    "has_json": [],
+    "person_id": null
+  },
+  "263": {
+    "bio_id": "263",
+    "name_ar": "امير قوام الدين سنجاني",
+    "name_lat": "Amīr Qiwām al-Dīn Sinjānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "544": {
+    "bio_id": "544",
+    "name_ar": "خواجه شمس الدين محمد الكوسوئي الجامي",
+    "name_lat": "Khwājah Shams al-Dīn Muḥammad al-Kūsūʾī al-Jāmī",
+    "has_json": [],
+    "person_id": null
+  },
+  "500": {
+    "bio_id": "500",
+    "name_ar": "جلال الدين محمود زاهد مرغابي",
+    "name_lat": "Jalāl al-Dīn Maḥmūd Zāhid Marghābī",
+    "has_json": [],
+    "person_id": null
+  },
+  "498": {
+    "bio_id": "498",
+    "name_ar": "جلال الدين ابو ديزي پوراني",
+    "name_lat": "Jalāl al-Dīn Abū Dīzī Pūrānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "644": {
+    "bio_id": "644",
+    "name_ar": "ظهيرالدين خلوتي",
+    "name_lat": "Ẓahīr al-Dīn Khalwatī",
+    "has_json": [],
+    "person_id": null
+  },
+  "479": {
+    "bio_id": "479",
+    "name_ar": "بهاءالدين زكريا مولتاني",
+    "name_lat": "Bahāʾ al-Dīn Zakarīyā Multānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "833": {
+    "bio_id": "833",
+    "name_ar": "نظام الدين خالدي دهلوي",
+    "name_lat": "Niẓām al-Dīn Khālidī Dihlawī",
+    "has_json": [],
+    "person_id": null
+  },
+  "147": {
+    "bio_id": "147",
+    "name_ar": "ابو عبد الله الصومعي",
+    "name_lat": "Abū ʿAbd Allāh al-Ṣūmaʿī",
+    "has_json": [],
+    "person_id": null
+  },
+  "799": {
+    "bio_id": "799",
+    "name_ar": "محيي الدين عبد القادر الجيلي",
+    "name_lat": "Muḥyī al-Dīn ʿAbd al-Qādir al-Jīlī",
+    "has_json": [],
+    "person_id": null
+  },
+  "733": {
+    "bio_id": "733",
+    "name_ar": "فخز الدين ابوبكر تايبادي",
+    "name_lat": "Fakhr al-Dīn Abū Bakr Tāybādī, or is it Zayn al-Dīn?",
+    "has_json": [],
+    "person_id": null
+  },
+  "522": {
+    "bio_id": "522",
+    "name_ar": "حماد دباس",
+    "name_lat": "Ḥammād Dabbās",
+    "has_json": [],
+    "person_id": null
+  },
+  "637": {
+    "bio_id": "637",
+    "name_ar": "صدقه بغدادي",
+    "name_lat": "Ṣadaqah Baghdādī",
+    "has_json": [],
+    "person_id": null
+  },
+  "735": {
+    "bio_id": "735",
+    "name_ar": "فخس الدين عبد الوهاب",
+    "name_lat": "Fakhr al-Dīn ʿAbd al-Wahhāb",
+    "has_json": [],
+    "person_id": null
+  },
+  "180": {
+    "bio_id": "180",
+    "name_ar": "ابو محمد عبد الرحمان الطفسونجي",
+    "name_lat": "Abū Muḥammad ʿAbd al-Raḥmān al-Ṭafsūnjī",
+    "has_json": [],
+    "person_id": null
+  },
+  "173": {
+    "bio_id": "173",
+    "name_ar": "ابو عمرو الصرفيني",
+    "name_lat": "Abū ʿAmr al-Ṣarfīnī",
+    "has_json": [],
+    "person_id": null
+  },
+  "474": {
+    "bio_id": "474",
+    "name_ar": "بقابن بطو",
+    "name_lat": "Baqā b. Baṭṭū",
+    "has_json": [],
+    "person_id": null
+  },
+  "485": {
+    "bio_id": "485",
+    "name_ar": null,
+    "name_lat": "Quḍayb al-Bān Mawṣilī",
+    "has_json": [],
+    "person_id": null
+  },
+  "332": {
+    "bio_id": "332",
+    "name_ar": "أبو السعود بن الشبل",
+    "name_lat": "Abū al-Suʿūd b. al-Shibl",
+    "has_json": [],
+    "person_id": null
+  },
+  "763": {
+    "bio_id": "763",
+    "name_ar": "محمد الأواني",
+    "name_lat": "Muḥammad al-Awānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "183": {
+    "bio_id": "183",
+    "name_ar": "ابو مدين المغربي",
+    "name_lat": "Abū Madyan al-Maghribī",
+    "has_json": [],
+    "person_id": null
+  },
+  "339": {
+    "bio_id": "339",
+    "name_ar": "أبو العباس بن العريف الصنهاجي الاندلسي",
+    "name_lat": "Abū al-ʿAbbās b. al-ʿArīf al-Ṣanhājī al-Andalusī",
+    "has_json": [],
+    "person_id": null
+  },
+  "331": {
+    "bio_id": "331",
+    "name_ar": "أبو الربيع الكفيف المالقي",
+    "name_lat": "Abū al-Rabīʿ al-Kafīf al-Mālaqī",
+    "has_json": [],
+    "person_id": null
+  },
+  "610": {
+    "bio_id": "610",
+    "name_ar": "سيد احمد بن ابي الحسن الرفاعي",
+    "name_lat": "Sayyid Aḥmad b. Abī al-Ḥasan al-Rifāʿī",
+    "has_json": [],
+    "person_id": null
+  },
+  "680": {
+    "bio_id": "680",
+    "name_ar": "عدي بن مسافر الشامي",
+    "name_lat": "ʿAdī b. Musāfir al-Shāmī",
+    "has_json": [],
+    "person_id": null
+  },
+  "527": {
+    "bio_id": "527",
+    "name_ar": null,
+    "name_lat": "Ḥayāt b. Qays al-Ḥarrānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "153": {
+    "bio_id": "153",
+    "name_ar": "ابو عبد الله محمد بن ابراهيم القرشي الهاشمي",
+    "name_lat": "Abū ʿAbd Allāh Muḥammad b. Ibrāhīm al-Qurashī al-Hāshimī",
+    "has_json": [],
+    "person_id": null
+  },
+  "493": {
+    "bio_id": "493",
+    "name_ar": "جاكير",
+    "name_lat": "Jākīr",
+    "has_json": [],
+    "person_id": null
+  },
+  "306": {
+    "bio_id": "306",
+    "name_ar": "أبو الحسن علي بن حميد الصعيدي",
+    "name_lat": "Abū al-Ḥasan ʿAlī b. Ḥumayd al-Ṣaʿīdī",
+    "has_json": [],
+    "person_id": null
+  },
+  "33": {
+    "bio_id": "33",
+    "name_ar": null,
+    "name_lat": "Abū Isḥāq b. Ṭarīf",
+    "has_json": [],
+    "person_id": null
+  },
+  "22": {
+    "bio_id": "22",
+    "name_ar": "ابن الفارض الحموي المصري",
+    "name_lat": "Ibn al-Fāriḍ al-Ḥamawī al-Miṣrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "11": {
+    "bio_id": "11",
+    "name_ar": "ابراهيم بن معصار الجعبري",
+    "name_lat": "Ibrāhīm b. Miʿṣār al-Jaʿbarī",
+    "has_json": [],
+    "person_id": null
+  },
+  "800": {
+    "bio_id": "800",
+    "name_ar": "محيي الدين محمد بن علي بن العربي",
+    "name_lat": "Muḥyī al-Dīn Muḥammad b. ʿAlī b. al-ʿArabī",
+    "has_json": [],
+    "person_id": null
+  },
+  "635": {
+    "bio_id": "635",
+    "name_ar": "صدر الدين محمد بن اسحاق القونوي",
+    "name_lat": "Ṣadr al-Dīn Muḥammad b. Isḥāq al-Qūnawī",
+    "has_json": [],
+    "person_id": null
+  },
+  "823": {
+    "bio_id": "823",
+    "name_ar": "مؤيد الدين الجندي",
+    "name_lat": "Muʾayyid al-Dīn al-Jandī",
+    "has_json": [],
+    "person_id": null
+  },
+  "593": {
+    "bio_id": "593",
+    "name_ar": "سعدي الدين الفرغاني",
+    "name_lat": "Saʿdī al-Dīn al-Farghānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "819": {
+    "bio_id": "819",
+    "name_ar": "موسي سدراني",
+    "name_lat": "Mūsā Sidrānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "850": {
+    "bio_id": "850",
+    "name_ar": "عيسى هتار يمني",
+    "name_lat": "ʿĪsā Hattār Yamanī",
+    "has_json": [],
+    "person_id": null
+  },
+  "347": {
+    "bio_id": "347",
+    "name_ar": "أبو الغيث جملي اليمني",
+    "name_lat": "Abū al-Ghayth Jumalī al-Yamanī",
+    "has_json": [],
+    "person_id": null
+  },
+  "296": {
+    "bio_id": "296",
+    "name_ar": "أبو الحسن المغربي الشاذلي",
+    "name_lat": "Abū al-Ḥasan al-Maghribī al-Shādhilī",
+    "has_json": [],
+    "person_id": null
+  },
+  "688": {
+    "bio_id": "688",
+    "name_ar": "عفيف الدين التلمساني",
+    "name_lat": "ʿAfīf al-Dīn al-Tilimsānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "337": {
+    "bio_id": "337",
+    "name_ar": "أبو العباس المرسي",
+    "name_lat": "Abū al-ʿAbbās al-Mursī",
+    "has_json": [],
+    "person_id": null
+  },
+  "848": {
+    "bio_id": "848",
+    "name_ar": "ياسين المغربي الحجام الأسود",
+    "name_lat": "Yāsīn al-Maghribī al-Ḥajjām al-Aswad",
+    "has_json": [],
+    "person_id": null
+  },
+  "590": {
+    "bio_id": "590",
+    "name_ar": "سعد حداد و مريديو جوهر",
+    "name_lat": "Saʿd Ḥaddād wa murīd-i ū Jawhar",
+    "has_json": [],
+    "person_id": null
+  },
+  "201": {
+    "bio_id": "201",
+    "name_ar": "احمد بن الجعد و سعيد",
+    "name_lat": "Aḥmad b. al-Jaʿd wa Saʿīd",
+    "has_json": [],
+    "person_id": null
+  },
+  "829": {
+    "bio_id": "829",
+    "name_ar": "نجم الدين عبد الله بن محمد الاصفهاني",
+    "name_lat": "Najm al-Dīn ʿAbd Allāh b. Muḥammad al-Iṣfahānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "553": {
+    "bio_id": "553",
+    "name_ar": "خواجه قطب الدين حييي جامي نيسابوري",
+    "name_lat": "Khwājah Quṭb al-Dīn Ḥayyī Jāmī Naysābūrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "149": {
+    "bio_id": "149",
+    "name_ar": "ابو عبد الله المعروف بابن المطرف الاندلسي",
+    "name_lat": "Abū ʿAbd Allāh al-Maʿrūf bi-Ibn al-Muṭarrif al-Andalusī",
+    "has_json": [],
+    "person_id": null
+  },
+  "181": {
+    "bio_id": "181",
+    "name_ar": "ابو محمد عبد الله المرجاني المغربي",
+    "name_lat": "Abū Muḥammad ʿAbd Allāh al-Marjānī al-Maghribī",
+    "has_json": [],
+    "person_id": null
+  },
+  "602": {
+    "bio_id": "602",
+    "name_ar": "سليمان تركماني موله",
+    "name_lat": "Sulaymān Turkmānī Muwallah",
+    "has_json": [],
+    "person_id": null
+  },
+  "707": {
+    "bio_id": "707",
+    "name_ar": "علي كردي",
+    "name_lat": "ʿAlī Kurdī",
+    "has_json": [],
+    "person_id": null
+  },
+  "814": {
+    "bio_id": "814",
+    "name_ar": "مفرج",
+    "name_lat": "Mufarrij",
+    "has_json": [],
+    "person_id": null
+  },
+  "336": {
+    "bio_id": "336",
+    "name_ar": "أبو العباس الدمنهوري",
+    "name_lat": "Abū al-ʿAbbās al-Damanhūrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "580": {
+    "bio_id": "580",
+    "name_ar": "ريحاني",
+    "name_lat": "Rayḥānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "689": {
+    "bio_id": "689",
+    "name_ar": "علاءالدين الخوارزمي",
+    "name_lat": "ʿAlāʾ al-Dīn al-Khwārazmī",
+    "has_json": [],
+    "person_id": null
+  },
+  "256": {
+    "bio_id": "256",
+    "name_ar": null,
+    "name_lat": "Imām ʿAbd Allāh al-Yāfiʿī al-Yamanī",
+    "has_json": [],
+    "person_id": null
+  },
+  "627": {
+    "bio_id": "627",
+    "name_ar": "شهاب الدين السهروردي المقتول",
+    "name_lat": "Shihāb al-Dīn al-Suhrawardī al-Maqtūl",
+    "has_json": [],
+    "person_id": null
+  },
+  "264": {
+    "bio_id": "264",
+    "name_ar": "اوحد الدين حامد الكرماني",
+    "name_lat": "Awḥad al-Dīn Ḥāmid al-Kirmānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "260": {
+    "bio_id": "260",
+    "name_ar": "امير سيد قاسم تبريزي",
+    "name_lat": "Amīr Sayyid Qāsim Tabrīzī",
+    "has_json": [],
+    "person_id": null
+  },
+  "520": {
+    "bio_id": "520",
+    "name_ar": "حكيم سنايي غزنوي",
+    "name_lat": "Ḥakīm Sanāʾī Ghaznavī",
+    "has_json": [],
+    "person_id": null
+  },
+  "737": {
+    "bio_id": "737",
+    "name_ar": "فريدالدين عطار نيسابوري",
+    "name_lat": "Farīd al-Dīn ʿAṭṭār Naysābūrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "806": {
+    "bio_id": "806",
+    "name_ar": "مشرف الدين مصلح بن عبد الله السعدي الشيرازي",
+    "name_lat": "Mushrif al-Dīn Muṣliḥ b. ʿAbd Allāh al-Saʿdī al-Shīrāzī",
+    "has_json": [],
+    "person_id": null
+  },
+  "731": {
+    "bio_id": "731",
+    "name_ar": "فخرالدين ابراهيم المشتهر بالعراقي",
+    "name_lat": "Fakhr al-Dīn Ibrāhīm al-Mushtahir bi-al-ʿIrāqī",
+    "has_json": [],
+    "person_id": null
+  },
+  "259": {
+    "bio_id": "259",
+    "name_ar": "امير حسيني",
+    "name_lat": "Amīr Ḥusaynī",
+    "has_json": [],
+    "person_id": null
+  },
+  "265": {
+    "bio_id": "265",
+    "name_ar": "اوحدي اصفهاني",
+    "name_lat": "Awḥadī Iṣfahānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "225": {
+    "bio_id": "225",
+    "name_ar": "افضل الدين بديل الحقايقي الخاقاني",
+    "name_lat": "Afḍal al-Dīn Badīl al-Ḥaqāyiqī al-Khāqānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "835": {
+    "bio_id": "835",
+    "name_ar": "نظامي",
+    "name_lat": "Niẓāmī",
+    "has_json": [],
+    "person_id": null
+  },
+  "531": {
+    "bio_id": "531",
+    "name_ar": "خسرو دهلوي",
+    "name_lat": "Khusraw Dihlawī",
+    "has_json": [],
+    "person_id": null
+  },
+  "516": {
+    "bio_id": "516",
+    "name_ar": "حسن دهلوي",
+    "name_lat": "Ḥasan Dihlawī",
+    "has_json": [],
+    "person_id": null
+  },
+  "749": {
+    "bio_id": "749",
+    "name_ar": "كمال خجندي",
+    "name_lat": "Kamāl Khujandī",
+    "has_json": [],
+    "person_id": null
+  },
+  "795": {
+    "bio_id": "795",
+    "name_ar": "محمد شيريني",
+    "name_lat": "Muḥammad Shīrīnī",
+    "has_json": [],
+    "person_id": null
+  },
+  "625": {
+    "bio_id": "625",
+    "name_ar": "شمس الدين محمد الحافظ الشيرازي",
+    "name_lat": "Shams al-Dīn Muḥammad al-Ḥāfiẓ al-Shīrāzī",
+    "has_json": [],
+    "person_id": null
+  },
+  "751": {
+    "bio_id": "751",
+    "name_ar": "لبابة المتعبدة",
+    "name_lat": "Lubābah al-Mutaʿabbidah",
+    "has_json": [],
+    "person_id": null
+  },
+  "801": {
+    "bio_id": "801",
+    "name_ar": "مريم البصريه",
+    "name_lat": "Maryam al-Baṣriyya",
+    "has_json": [],
+    "person_id": null
+  },
+  "579": {
+    "bio_id": "579",
+    "name_ar": "ريحانة والهه",
+    "name_lat": "Rayḥāna Wālihah",
+    "has_json": [],
+    "person_id": null
+  },
+  "621": {
+    "bio_id": "621",
+    "name_ar": "شعوانه",
+    "name_lat": "Shaʿwānah",
+    "has_json": [],
+    "person_id": null
+  },
+  "687": {
+    "bio_id": "687",
+    "name_ar": "عفيرة العابدة",
+    "name_lat": "ʿUfayrah al-ʿĀbidah",
+    "has_json": [],
+    "person_id": null
+  },
+  "809": {
+    "bio_id": "809",
+    "name_ar": "معاذة العدويه",
+    "name_lat": "Muʿādhah al-ʿAdawiyya",
+    "has_json": [],
+    "person_id": null
+  },
+  "571": {
+    "bio_id": "571",
+    "name_ar": "رابعۀ شاميه",
+    "name_lat": "Rābiʿah Shāmiyya",
+    "has_json": [],
+    "person_id": null
+  },
+  "747": {
+    "bio_id": "747",
+    "name_ar": "كرديه",
+    "name_lat": "Kurdiyya",
+    "has_json": [],
+    "person_id": null
+  },
+  "519": {
+    "bio_id": "519",
+    "name_ar": "حفصه بنت سيرين",
+    "name_lat": "Ḥafṣah bint Sīrīn",
+    "has_json": [],
+    "person_id": null
+  },
+  "521": {
+    "bio_id": "521",
+    "name_ar": "حكيمۀ دمشقيه",
+    "name_lat": "Ḥakīmah Dimashqiyya",
+    "has_json": [],
+    "person_id": null
+  },
+  "254": {
+    "bio_id": "254",
+    "name_ar": "ام حسان",
+    "name_lat": "Umm Ḥassān",
+    "has_json": [],
+    "person_id": null
+  },
+  "739": {
+    "bio_id": "739",
+    "name_ar": "فطامۀ نيسابوريه",
+    "name_lat": "Faṭāmah Naysābūriyya",
+    "has_json": [],
+    "person_id": null
+  },
+  "587": {
+    "bio_id": "587",
+    "name_ar": "زيتونه",
+    "name_lat": "Zaytūnah",
+    "has_json": [],
+    "person_id": null
+  },
+  "723": {
+    "bio_id": "723",
+    "name_ar": "فاطمة البردعيه",
+    "name_lat": "Fāṭimah al-Bardaʿiyya",
+    "has_json": [],
+    "person_id": null
+  },
+  "456": {
+    "bio_id": "456",
+    "name_ar": "أم علي",
+    "name_lat": "Umm ʿAlī",
+    "has_json": [],
+    "person_id": null
+  },
+  "457": {
+    "bio_id": "457",
+    "name_ar": "أم محمد ",
+    "name_lat": "Umm Muḥammad Wālidat Abū ʿAbd Allāh b. Khafīf",
+    "has_json": [],
+    "person_id": null
+  },
+  "724": {
+    "bio_id": "724",
+    "name_ar": "فاطمة بنت ابي بكر الكتاني",
+    "name_lat": "Fāṭimah bint Abī Bakr al-Kattānī",
+    "has_json": [],
+    "person_id": null
+  },
+  "738": {
+    "bio_id": "738",
+    "name_ar": "فضة",
+    "name_lat": "Fiḍḍah",
+    "has_json": [],
+    "person_id": null
+  },
+  "487": {
+    "bio_id": "487",
+    "name_ar": "تلميذي سري سقيطي",
+    "name_lat": "Tilmīdhah Sarī Saqīṭī",
+    "has_json": [],
+    "person_id": null
+  },
+  "486": {
+    "bio_id": "486",
+    "name_ar": "تحفه",
+    "name_lat": "Tuḥfah",
+    "has_json": [],
+    "person_id": null
+  },
+  "458": {
+    "bio_id": "458",
+    "name_ar": "أم محمد ",
+    "name_lat": "Umm Muḥammad",
+    "has_json": [],
+    "person_id": null
+  },
+  "484": {
+    "bio_id": "484",
+    "name_ar": "بيبيك مرويه",
+    "name_lat": "Bībayk Marwiyya",
+    "has_json": [],
+    "person_id": null
+  },
+  "568": {
+    "bio_id": "568",
+    "name_ar": "دختر كعب",
+    "name_lat": "Dukhtar Kaʿb",
+    "has_json": [],
+    "person_id": null
+  },
+  "725": {
+    "bio_id": "725",
+    "name_ar": "فاطمة بنت المثني",
+    "name_lat": "Fāṭimah bint al-Muthannā",
+    "has_json": [],
+    "person_id": null
+  },
+  "491": {
+    "bio_id": "491",
+    "name_ar": "جاريۀ سوداء",
+    "name_lat": "Jāriya Sawdāʾ",
+    "has_json": [],
+    "person_id": null
+  },
+  "281": {
+    "bio_id": "281",
+    "name_ar": "إمرأة مجهوله",
+    "name_lat": "Imraʾah majhūlah",
+    "has_json": [],
+    "person_id": null
+  },
+  "282": {
+    "bio_id": "282",
+    "name_ar": "إمرأة مصرية أخري",
+    "name_lat": "Imraʾah Miṣriyya ukhrā",
+    "has_json": [],
+    "person_id": null
+  },
+  "283": {
+    "bio_id": "283",
+    "name_ar": "إمرأة مصريه",
+    "name_lat": "Imraʾah Miṣriyya",
+    "has_json": [],
+    "person_id": null
+  },
+  "492": {
+    "bio_id": "492",
+    "name_ar": "جاريۀ مجهوله",
+    "name_lat": "Jāriya majhūlah",
+    "has_json": [],
+    "person_id": null
+  },
+  "258": {
+    "bio_id": "258",
+    "name_ar": "امرأة اصفهانيه",
+    "name_lat": "Imraʾah Iṣfahāniyya",
+    "has_json": [],
+    "person_id": null
+  },
+  "279": {
+    "bio_id": "279",
+    "name_ar": "إمرأة خوارزميه",
+    "name_lat": "Imraʾah Khwārazmiyya",
+    "has_json": [],
+    "person_id": null
+  },
+  "490": {
+    "bio_id": "490",
+    "name_ar": "جاريۀ حبشيه",
+    "name_lat": "Jāriya Ḥabashiyya",
+    "has_json": [],
+    "person_id": null
+  },
+  "280": {
+    "bio_id": "280",
+    "name_ar": "إمرأة فارسيه",
+    "name_lat": "Imraʾah Fārisiyya",
+    "has_json": [],
+    "person_id": null
+  },
+  "690": {
+    "bio_id": "690",
+    "name_ar": "علي الجرجاني",
+    "name_lat": "ʿAlī al-Jurjānī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "736": {
+    "bio_id": "736",
+    "name_ar": "فديم",
+    "name_lat": "Fadīm",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "618": {
+    "bio_id": "618",
+    "name_ar": "شريح بن يونس",
+    "name_lat": "Sharīḥ b. Yūnus",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "785": {
+    "bio_id": "785",
+    "name_ar": "محمد بن عمرو المغربي",
+    "name_lat": "Muḥammad b. ʿAmr al-Maghribī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "530": {
+    "bio_id": "530",
+    "name_ar": "خزيمة العابد",
+    "name_lat": "Khuzayma al-ʿĀbid",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "441": {
+    "bio_id": "441",
+    "name_ar": "أحمد بن الغمر",
+    "name_lat": "Aḥmad b. al-Ghamr",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "740": {
+    "bio_id": "740",
+    "name_ar": "قادم الديلمي",
+    "name_lat": "Qādim al-Daylamī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "471": {
+    "bio_id": "471",
+    "name_ar": "بشر بن بشار",
+    "name_lat": "Bishr b. Bashshār",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "286": {
+    "bio_id": "286",
+    "name_ar": "أبو الأبيض",
+    "name_lat": "Abū al-Abyaḍ",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "755": {
+    "bio_id": "755",
+    "name_ar": "مجاهد الصوفي",
+    "name_lat": "Mujāhid al-Ṣūfī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "438": {
+    "bio_id": "438",
+    "name_ar": "أحمد الميموني ٤٨٨ - وأحمد الموصلي",
+    "name_lat": "Aḥmad al-Maymūnī - wa-Aḥmad al-Mawṣilī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "683": {
+    "bio_id": "683",
+    "name_ar": "عريف اليماني",
+    "name_lat": "ʿArīf al-Yamānī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "681": {
+    "bio_id": "681",
+    "name_ar": "عرفجة الكوفي",
+    "name_lat": "ʿUrfuja al-Kūfī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "710": {
+    "bio_id": "710",
+    "name_ar": "عمر البجلي",
+    "name_lat": "ʿUmar al-Bajalī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "775": {
+    "bio_id": "775",
+    "name_ar": "محمد بن أبي القاسم",
+    "name_lat": "Muḥammad b. Abī al-Qāsim",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "588": {
+    "bio_id": "588",
+    "name_ar": "سباع الموصلي",
+    "name_lat": "Sibāʿ al-Mawṣilī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "765": {
+    "bio_id": "765",
+    "name_ar": "محمد النميري",
+    "name_lat": "Muḥammad al-Numayrī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "804": {
+    "bio_id": "804",
+    "name_ar": "مسكين الصوفي",
+    "name_lat": "Miskīn al-Ṣūfī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "372": {
+    "bio_id": "372",
+    "name_ar": "أبو أيوب",
+    "name_lat": "Abū Ayyūb",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "408": {
+    "bio_id": "408",
+    "name_ar": "أبو عبد الله البراني",
+    "name_lat": "Abū ʿAbd Allāh al-Barānī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "430": {
+    "bio_id": "430",
+    "name_ar": "أبو محرز الطفاوي",
+    "name_lat": "Abū Miḥriz al-Ṭufāwī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "453": {
+    "bio_id": "453",
+    "name_ar": "أحمد بن موسى الثقفي",
+    "name_lat": "Aḥmad b. Mūsā al-Thaqafī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "230": {
+    "bio_id": "230",
+    "name_ar": "الحسن الحفرى",
+    "name_lat": "al-Ḥasan al-Ḥafarī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "563": {
+    "bio_id": "563",
+    "name_ar": "خيثم العجلى",
+    "name_lat": "Khaytham al-ʿAjlā",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "233": {
+    "bio_id": "233",
+    "name_ar": "الحكم بن أبان",
+    "name_lat": "al-Ḥakam b. Abān",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "506": {
+    "bio_id": "506",
+    "name_ar": "حازم الحنفى",
+    "name_lat": "Ḥāzim al-Ḥanafī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "744": {
+    "bio_id": "744",
+    "name_ar": "قيس بن السكن",
+    "name_lat": "Qays b. al-Sakan",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "368": {
+    "bio_id": "368",
+    "name_ar": "أبو إسحاق التيمي",
+    "name_lat": "Abū Isḥāq al-Taymī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "428": {
+    "bio_id": "428",
+    "name_ar": "أبو كريمة العبدي",
+    "name_lat": "Abū Karīma al-ʿAbdī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "601": {
+    "bio_id": "601",
+    "name_ar": "سليمان بن حيان الأحمر",
+    "name_lat": "Sulaymān b. Ḥayyān al-Aḥmar",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "695": {
+    "bio_id": "695",
+    "name_ar": "علي بن ثابت",
+    "name_lat": "ʿAlī b. Thābit",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "787": {
+    "bio_id": "787",
+    "name_ar": "محمد بن معاوية",
+    "name_lat": "Muḥammad b. Muʿāwiya",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "693": {
+    "bio_id": "693",
+    "name_ar": "علي بن الحسن",
+    "name_lat": "ʿAlī b. al-Ḥasan",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "781": {
+    "bio_id": "781",
+    "name_ar": "محمد بن صالح التيمي",
+    "name_lat": "Muḥammad b. Ṣāliḥ al-Taymī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "812": {
+    "bio_id": "812",
+    "name_ar": "مغيث الأسود",
+    "name_lat": "Mughīth al-Aswad",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "394": {
+    "bio_id": "394",
+    "name_ar": "أبو جعفر المحولي",
+    "name_lat": "Abū Jaʿfar al-Muḥawwalī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "532": {
+    "bio_id": "532",
+    "name_ar": "خطاب العابد",
+    "name_lat": "Khaṭṭāb al-ʿĀbid",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "711": {
+    "bio_id": "711",
+    "name_ar": "عمر الصوفي",
+    "name_lat": "ʿUmar al-Ṣūfī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "237": {
+    "bio_id": "237",
+    "name_ar": "العباس المجنون",
+    "name_lat": "al-ʿAbbās al-Majnūn",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "617": {
+    "bio_id": "617",
+    "name_ar": "شداد المجذوم",
+    "name_lat": "Shaddād al-Majdhūm",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "250": {
+    "bio_id": "250",
+    "name_ar": "الكريم أبو هاشم",
+    "name_lat": "al-Karīm Abū Hāshim",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "401": {
+    "bio_id": "401",
+    "name_ar": "أبو سعيد البراقعي",
+    "name_lat": "Abū Saʿīd al-Barāqiʿī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "586": {
+    "bio_id": "586",
+    "name_ar": "زهير البابي",
+    "name_lat": "Zuhayr al-Bābī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "803": {
+    "bio_id": "803",
+    "name_ar": "مسعود الجهمي",
+    "name_lat": "Masʿūd al-Jahmī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "774": {
+    "bio_id": "774",
+    "name_ar": "محمد بن إسحاق",
+    "name_lat": "Muḥammad b. Isḥāq",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "246": {
+    "bio_id": "246",
+    "name_ar": "القاسم بن محمد ",
+    "name_lat": "al-Qāsim b. Muḥammad",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "234": {
+    "bio_id": "234",
+    "name_ar": "الخادم",
+    "name_lat": "al-Khādim",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "845": {
+    "bio_id": "845",
+    "name_ar": "يزيد بن يزيد",
+    "name_lat": "Yazīd b. Yazīd",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "235": {
+    "bio_id": "235",
+    "name_ar": "الديلمي",
+    "name_lat": "al-Daylamī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "241": {
+    "bio_id": "241",
+    "name_ar": "الفرار",
+    "name_lat": "al-Farrār",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "459": {
+    "bio_id": "459",
+    "name_ar": "أمية بن الصامت",
+    "name_lat": "Umayya b. al-Ṣāmit",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "842": {
+    "bio_id": "842",
+    "name_ar": "هلال بن الوزير",
+    "name_lat": "Hilāl b. al-Wazīr",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "427": {
+    "bio_id": "427",
+    "name_ar": "أبو عمرو المروزي",
+    "name_lat": "Abū ʿAmr al-Marwazī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "759": {
+    "bio_id": "759",
+    "name_ar": "محارب بن حسان",
+    "name_lat": "Muḥārib b. Ḥassān",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "567": {
+    "bio_id": "567",
+    "name_ar": "داود بن هلال",
+    "name_lat": "Dāwūd b. Hilāl",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "238": {
+    "bio_id": "238",
+    "name_ar": "العباس بن المؤمل",
+    "name_lat": "al-ʿAbbās b. al-Muʾammal",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "805": {
+    "bio_id": "805",
+    "name_ar": "مسكين الصوفي",
+    "name_lat": "Miskīn al-Ṣūfī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "813": {
+    "bio_id": "813",
+    "name_ar": "مغيث الأسود",
+    "name_lat": "Mughīth al-Aswad",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "616": {
+    "bio_id": "616",
+    "name_ar": "شبل المدري",
+    "name_lat": "Shibl al-Madrī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "242": {
+    "bio_id": "242",
+    "name_ar": "الفرج بن سعيد",
+    "name_lat": "al-Faraj b. Saʿīd",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "663": {
+    "bio_id": "663",
+    "name_ar": "عبد الله بن دينار",
+    "name_lat": "ʿAbd Allāh b. Dīnār",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "802": {
+    "bio_id": "802",
+    "name_ar": "مساور المغربي",
+    "name_lat": "Misāwar al-Maghribī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "366": {
+    "bio_id": "366",
+    "name_ar": "أبو اليمان",
+    "name_lat": "Abū al-Yamān",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "270": {
+    "bio_id": "270",
+    "name_ar": "إبراهيم المغربي",
+    "name_lat": "Ibrāhīm al-Maghribī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "348": {
+    "bio_id": "348",
+    "name_ar": "أبو الفضل الهاشمي",
+    "name_lat": "Abū al-Faḍl al-Hāshimī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "526": {
+    "bio_id": "526",
+    "name_ar": "حيان الأسود",
+    "name_lat": "Ḥayyān al-Aswad",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "594": {
+    "bio_id": "594",
+    "name_ar": "سعيد الشهيد",
+    "name_lat": "Saʿīd al-Shahīd",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "445": {
+    "bio_id": "445",
+    "name_ar": "أحمد بن روح",
+    "name_lat": "Aḥmad b. Rūḥ",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "489": {
+    "bio_id": "489",
+    "name_ar": "جابر الرحبي",
+    "name_lat": "Jābir al-Raḥabī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "609": {
+    "bio_id": "609",
+    "name_ar": "سيار النباجي",
+    "name_lat": "Sayyār al-Nabājī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "533": {
+    "bio_id": "533",
+    "name_ar": "خفي",
+    "name_lat": "Khafī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "606": {
+    "bio_id": "606",
+    "name_ar": "سهل بن عبد الله بن الفرحان",
+    "name_lat": "Sahl b. ʿAbd Allāh b. al-Farḥān",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "386": {
+    "bio_id": "386",
+    "name_ar": "أبو تراب",
+    "name_lat": "Abū Turāb",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "244": {
+    "bio_id": "244",
+    "name_ar": "القاسم الجريري",
+    "name_lat": "al-Qāsim al-Jurayrīī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "367": {
+    "bio_id": "367",
+    "name_ar": "أبو إسحاق الآجري",
+    "name_lat": "Abū Isḥāq al-Ājurrī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "395": {
+    "bio_id": "395",
+    "name_ar": "أبو جعفر بن الكوفي",
+    "name_lat": "Abū Jaʿfar b. al-Kūfī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "240": {
+    "bio_id": "240",
+    "name_ar": "العباس بن مساحق",
+    "name_lat": "al-ʿAbbās b. Masāḥiq",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "676": {
+    "bio_id": "676",
+    "name_ar": "عبيد الله العمري",
+    "name_lat": "ʿUbayd Allāh al-ʿUmarī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "699": {
+    "bio_id": "699",
+    "name_ar": "علي بن معبد",
+    "name_lat": "ʿAlī b. Maʿbad",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "696": {
+    "bio_id": "696",
+    "name_ar": "علي بن رزين",
+    "name_lat": "ʿAlī b. Razzīn",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "596": {
+    "bio_id": "596",
+    "name_ar": "سعيد بن إسماعيل",
+    "name_lat": "Saʿīd b. Ismāʿīl",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "448": {
+    "bio_id": "448",
+    "name_ar": "أحمد بن عيسى",
+    "name_lat": "Aḥmad b. ʿĪsā",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "790": {
+    "bio_id": "790",
+    "name_ar": "محمد بن يعقوب",
+    "name_lat": "Muḥammad b. Yaʿqūb",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "450": {
+    "bio_id": "450",
+    "name_ar": "أحمد بن محمد بن عطاء",
+    "name_lat": "Aḥmad b. Muḥammad b. ʿAṭāʾ",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "467": {
+    "bio_id": "467",
+    "name_ar": "بدر المغازلي",
+    "name_lat": "Badr al-Maghāzilī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "249": {
+    "bio_id": "249",
+    "name_ar": "القلانسي",
+    "name_lat": "al-Qalānsī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "383": {
+    "bio_id": "383",
+    "name_ar": "أبو بكر بن مسلم",
+    "name_lat": "Abū Bakr b. Muslim",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "373": {
+    "bio_id": "373",
+    "name_ar": "أبو أيوب الحمال",
+    "name_lat": "Abū Ayyūb al-Ḥammāl",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "420": {
+    "bio_id": "420",
+    "name_ar": "أبو عثمان الوراق",
+    "name_lat": "Abū ʿUthmān al-Warrāq",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "636": {
+    "bio_id": "636",
+    "name_ar": "صدقة المقابري",
+    "name_lat": "Ṣadaqa al-Maqābirī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "832": {
+    "bio_id": "832",
+    "name_ar": "نصر الصامت",
+    "name_lat": "Naṣr al-Ṣāmit",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "773": {
+    "bio_id": "773",
+    "name_ar": "محمد بن إبراهيم البغدادي",
+    "name_lat": "Muḥammad b. Ibrāhīm al-Baghdādī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "406": {
+    "bio_id": "406",
+    "name_ar": "أبو شعيب البراثي",
+    "name_lat": "Abū Shuʿayb al-Barāthī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "407": {
+    "bio_id": "407",
+    "name_ar": "أبو عبد الله البراثي",
+    "name_lat": "Abū ʿAbd Allāh al-Barāthī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "269": {
+    "bio_id": "269",
+    "name_ar": "إبراهيم المارستاني",
+    "name_lat": "Ibrāhīm al-Māristānī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "650": {
+    "bio_id": "650",
+    "name_ar": "عبد الرحيم بن عبد الملك",
+    "name_lat": "ʿAbd al-Raḥīm b. ʿAbd al-Malik",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "764": {
+    "bio_id": "764",
+    "name_ar": "محمد السمين",
+    "name_lat": "Muḥammad al-Samīn",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "780": {
+    "bio_id": "780",
+    "name_ar": "محمد بن سعيد القرشي",
+    "name_lat": "Muḥammad b. Saʿīd al-Qurashī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "691": {
+    "bio_id": "691",
+    "name_ar": "علي السامري",
+    "name_lat": "ʿAlī al-Sāmarrī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "391": {
+    "bio_id": "391",
+    "name_ar": "أبو جعفر الكبير وأبو الحسن الصغير",
+    "name_lat": "Abū Jaʿfar al-Kabīr wa-Abū al-Ḥasan al-Ṣaghīr",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "402": {
+    "bio_id": "402",
+    "name_ar": "أبو سعيد القرشي",
+    "name_lat": "Abū Saʿīd al-Qurashī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "392": {
+    "bio_id": "392",
+    "name_ar": "أبو جعفر الكتاني",
+    "name_lat": "Abū Jaʿfar al-Kattānī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "399": {
+    "bio_id": "399",
+    "name_ar": "أبو سالم الدباغ",
+    "name_lat": "Abū Sālim al-Dabbāgh",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "433": {
+    "bio_id": "433",
+    "name_ar": "أبو نصر المحب",
+    "name_lat": "Abū Naṣr al-Muḥibb",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "374": {
+    "bio_id": "374",
+    "name_ar": "أبو بكر الأبهري",
+    "name_lat": "Abū Bakr al-Abharī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "369": {
+    "bio_id": "369",
+    "name_ar": "أبو إسحاق القصار",
+    "name_lat": "Abū Isḥāq al-Qaṣṣār",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "417": {
+    "bio_id": "417",
+    "name_ar": "أبو عبد الله بن بكر",
+    "name_lat": "Abū ʿAbd Allāh b. Bakr",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "30": {
+    "bio_id": "30",
+    "name_ar": "ابن علان",
+    "name_lat": "Abū ʿAbd Allāh al-Khammār b. Allān",
+    "has_json": [],
+    "person_id": null
+  },
+  "31": {
+    "bio_id": "31",
+    "name_ar": "ابن علان",
+    "name_lat": "Ibn ʿAllān",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "423": {
+    "bio_id": "423",
+    "name_ar": "أبو علي الوراق",
+    "name_lat": "Abū ʿAlī al-Warrāq",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "604": {
+    "bio_id": "604",
+    "name_ar": "سهل الأنباري",
+    "name_lat": "Sahl al-Anbārī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "247": {
+    "bio_id": "247",
+    "name_ar": "القرميسيني",
+    "name_lat": "al-Qarmīsīnī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "692": {
+    "bio_id": "692",
+    "name_ar": "علي الفارسي",
+    "name_lat": "ʿAlī al-Fārisī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "231": {
+    "bio_id": "231",
+    "name_ar": "الحسين بن علي بن يزدانيار",
+    "name_lat": "al-Ḥusayn b. ʿAlī b. Yazdānyār",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "597": {
+    "bio_id": "597",
+    "name_ar": "سعيد بن عبد العزيز",
+    "name_lat": "Saʿīd b. ʿAbd al-ʿAzīz",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "447": {
+    "bio_id": "447",
+    "name_ar": "أحمد بن عطاء",
+    "name_lat": "Aḥmad b. ʿAṭāʾ",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "252": {
+    "bio_id": "252",
+    "name_ar": "النعمان بن عبد السلام",
+    "name_lat": "al-Nuʿmān b. ʿAbd al-Salām",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "646": {
+    "bio_id": "646",
+    "name_ar": "عامر بن حمدويه",
+    "name_lat": "ʿĀmir b. Ḥamdawayh",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "685": {
+    "bio_id": "685",
+    "name_ar": "عصام بن يزيد",
+    "name_lat": "ʿIṣām b. Yazīd",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "772": {
+    "bio_id": "772",
+    "name_ar": "محمد بن الوليد",
+    "name_lat": "Muḥammad b. al-Walīd",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "818": {
+    "bio_id": "818",
+    "name_ar": "موسى بن مساور",
+    "name_lat": "Mūsā b. Misāwar",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "634": {
+    "bio_id": "634",
+    "name_ar": "صالح بن مهران",
+    "name_lat": "Ṣāliḥ b. Mihrān",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "771": {
+    "bio_id": "771",
+    "name_ar": "محمد بن النعمان",
+    "name_lat": "Muḥammad b. al-Nuʿmān",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "574": {
+    "bio_id": "574",
+    "name_ar": "رجاء بن صهيب",
+    "name_lat": "Rajāʾ b. Ṣuhayb",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "660": {
+    "bio_id": "660",
+    "name_ar": "عبد الله بن خالد",
+    "name_lat": "ʿAbd Allāh b. Khālid",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "662": {
+    "bio_id": "662",
+    "name_ar": "عبد الله بن داود",
+    "name_lat": "ʿAbd Allāh b. Dāwūd",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "278": {
+    "bio_id": "278",
+    "name_ar": "إبراهيم بن عيسى",
+    "name_lat": "Ibrāhīm b. ʿĪsā",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "674": {
+    "bio_id": "674",
+    "name_ar": "عبد الوهاب الضبي",
+    "name_lat": "ʿAbd al-Wahhāb al-Ḍabbī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "390": {
+    "bio_id": "390",
+    "name_ar": "أبو جعفر الفريانى",
+    "name_lat": "Abū Jaʿfar al-Farīyānī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "455": {
+    "bio_id": "455",
+    "name_ar": "أسيد بن عاصم",
+    "name_lat": "Usayd b. ʿĀṣim",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "508": {
+    "bio_id": "508",
+    "name_ar": "حامد شاذة",
+    "name_lat": "Ḥāmid Shādha",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "449": {
+    "bio_id": "449",
+    "name_ar": "أحمد بن محمد بن إسحاق",
+    "name_lat": "Aḥmad b. Muḥammad b. Isḥāq",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "452": {
+    "bio_id": "452",
+    "name_ar": "أحمد بن مهدى",
+    "name_lat": "Aḥmad b. Mahdī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "817": {
+    "bio_id": "817",
+    "name_ar": "موسى الخزاز",
+    "name_lat": "Mūsā al-Khazzāz",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "239": {
+    "bio_id": "239",
+    "name_ar": "العباس بن إسماعيل",
+    "name_lat": "al-ʿAbbās b. Ismāʿīl",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "788": {
+    "bio_id": "788",
+    "name_ar": "محمد بن معروف العطار",
+    "name_lat": "Muḥammad b. Maʿrūf al-ʿAṭṭār",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "839": {
+    "bio_id": "839",
+    "name_ar": "هارون الراعي",
+    "name_lat": "Hārūn al-Rāʿī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "227": {
+    "bio_id": "227",
+    "name_ar": "الأخوان عبد الله وهمام",
+    "name_lat": "al-Akhawān ʿAbd Allāh wa-Hammām",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "581": {
+    "bio_id": "581",
+    "name_ar": "زكريابن الصلت",
+    "name_lat": "Zakarīyā b. al-Ṣalt",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "769": {
+    "bio_id": "769",
+    "name_ar": "محمد بن الفرج الودنكاني",
+    "name_lat": "Muḥammad b. al-Faraj al-Wadankānī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "299": {
+    "bio_id": "299",
+    "name_ar": "أبو الحسن بن سهل",
+    "name_lat": "Abū al-Ḥasan b. Sahl al-Ṭūsī",
+    "has_json": [
+      "sulami",
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "444": {
+    "bio_id": "444",
+    "name_ar": "أحمد بن جعفر بن هاني",
+    "name_lat": "Aḥmad b. Jaʿfar b. Hānī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "768": {
+    "bio_id": "768",
+    "name_ar": "محمد بن الحسين الخشوعي",
+    "name_lat": "Muḥammad b. al-Ḥusayn al-Khushūʿī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "271": {
+    "bio_id": "271",
+    "name_ar": "إبراهيم الهروي",
+    "name_lat": "Ibrāhīm al-Harawī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "595": {
+    "bio_id": "595",
+    "name_ar": "سعيد بن العباس الرازي",
+    "name_lat": "Saʿīd b. al-ʿAbbās al-Rāzī",
+    "has_json": [
+      "hilya"
+    ],
+    "person_id": null
+  },
+  "27": {
+    "bio_id": "27",
+    "name_ar": "ابن سماك",
+    "name_lat": "Ibn Sammāk",
+    "has_json": [],
+    "person_id": null
+  },
+  "110": {
+    "bio_id": "110",
+    "name_ar": "ابو حازم مكي",
+    "name_lat": "Abū Ḥāzim Makkī",
+    "has_json": [],
+    "person_id": null
+  },
+  "115": {
+    "bio_id": "115",
+    "name_ar": "ابو حنيفه",
+    "name_lat": "Abū Ḥanīfa",
+    "has_json": [],
+    "person_id": null
+  },
+  "209": {
+    "bio_id": "209",
+    "name_ar": "احمد حرب",
+    "name_lat": "Aḥmad Ḥarb",
+    "has_json": [],
+    "person_id": null
+  },
+  "210": {
+    "bio_id": "210",
+    "name_ar": "احمد حنبل",
+    "name_lat": "Aḥmad Ḥanbal",
+    "has_json": [],
+    "person_id": null
+  },
+  "255": {
+    "bio_id": "255",
+    "name_ar": "امام جعفر صادق",
+    "name_lat": "Imām Jaʿfar Ṣādiq",
+    "has_json": [],
+    "person_id": null
+  },
+  "257": {
+    "bio_id": "257",
+    "name_ar": "امام محمّدباقر",
+    "name_lat": "Imām Muḥammad Bāqir",
+    "has_json": [],
+    "person_id": null
+  },
+  "266": {
+    "bio_id": "266",
+    "name_ar": "اويس قرني",
+    "name_lat": "Uways Qaranī",
+    "has_json": [],
+    "person_id": null
+  },
+  "267": {
+    "bio_id": "267",
+    "name_ar": "إبراهيم الأنصاري",
+    "name_lat": "Ibrāhīm al-Anṣārī",
+    "has_json": [
+      "sulami"
+    ],
+    "person_id": null
+  },
+  "314": {
+    "bio_id": "314",
+    "name_ar": "أبو الحسين بن عبد الله الدمشقي",
+    "name_lat": "Abū al-Ḥusayn b. ʿAbd Allāh al-Dimashqī",
+    "has_json": [
+      "sulami"
+    ],
+    "person_id": null
+  },
+  "370": {
+    "bio_id": "370",
+    "name_ar": "أبو إسحاق إبراهيم المولد",
+    "name_lat": "Abū Isḥāq Ibrāhīm al-Muwallad",
+    "has_json": [
+      "sulami"
+    ],
+    "person_id": null
+  },
+  "509": {
+    "bio_id": "509",
+    "name_ar": "حبيب عجمي",
+    "name_lat": "Ḥabīb ʿAjamī",
+    "has_json": [],
+    "person_id": null
+  },
+  "513": {
+    "bio_id": "513",
+    "name_ar": "حسن بصري",
+    "name_lat": "Ḥasan Baṣrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "598": {
+    "bio_id": "598",
+    "name_ar": "سفيان ثوري",
+    "name_lat": "Sufyān Thawrī",
+    "has_json": [],
+    "person_id": null
+  },
+  "613": {
+    "bio_id": "613",
+    "name_ar": "شافعي",
+    "name_lat": "Shāfiʿī",
+    "has_json": [],
+    "person_id": null
+  },
+  "658": {
+    "bio_id": "658",
+    "name_ar": "عبد الله بن أحمد الرازي",
+    "name_lat": "ʿAbd Allāh b. Aḥmad al-Rāzī",
+    "has_json": [
+      "sulami"
+    ],
+    "person_id": null
+  },
+  "665": {
+    "bio_id": "665",
+    "name_ar": "عبد الله بن علي الدمشقي",
+    "name_lat": "ʿAbd Allāh b. ʿAlī al-Dimashqī (1st entry)",
+    "has_json": [
+      "sulami"
+    ],
+    "person_id": null
+  },
+  "668": {
+    "bio_id": "668",
+    "name_ar": "عبد الله مبارك",
+    "name_lat": "ʿAbd Allāh Mubārak",
+    "has_json": [],
+    "person_id": null
+  },
+  "679": {
+    "bio_id": "679",
+    "name_ar": "عتبهٔ بن غلام",
+    "name_lat": "ʿUtba b. Ghulām",
+    "has_json": [],
+    "person_id": null
+  },
+  "713": {
+    "bio_id": "713",
+    "name_ar": "عمر بن واصل النيسابوري",
+    "name_lat": "ʿUmar b. Wāṣil al-Naysābūrī",
+    "has_json": [
+      "sulami"
+    ],
+    "person_id": null
+  },
+  "754": {
+    "bio_id": "754",
+    "name_ar": "مالك دينار",
+    "name_lat": "Mālik Dīnār",
+    "has_json": [],
+    "person_id": null
+  },
+  "757": {
+    "bio_id": "757",
+    "name_ar": "محّدثن واسع",
+    "name_lat": "Muḥaddithān Wāsiʿ",
+    "has_json": [],
+    "person_id": null
+  },
+  "758": {
+    "bio_id": "758",
+    "name_ar": "محّمد بن اسلم",
+    "name_lat": "Muḥammad b. Aslam",
+    "has_json": [],
+    "person_id": null
+  },
+  "776": {
+    "bio_id": "776",
+    "name_ar": "محمد بن أبي القرد",
+    "name_lat": "Muḥammad b. Abī al-Qard",
+    "has_json": [],
+    "person_id": null
+  }
+}

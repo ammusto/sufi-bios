@@ -126,6 +126,7 @@ const TransmitterView = ({ personId, data, onViewChange }) => {
         <div className="graph-area">
           <ChainFlowGraph
             data={chainGraphData}
+            chainDetails={profile.chain_details}
             onNodeClick={handleNodeClick}
             selectedNode={selectedNode}
             showPeerConnections={showPeerConnections}

@@ -5,11 +5,15 @@ import * as d3 from 'd3';
  * ChainFlowGraph — layered, curved edges, click-only highlighting,
  * multi-column packing for dense ±1 layers.
  * 
+ * NOW WITH COMPLETE CHAIN HIGHLIGHTING:
+ * When a node is clicked, highlights ALL nodes and edges in ALL chains
+ * that pass through that node (not just immediate neighbors).
+ * 
  * Edge types:
  * - Hierarchical (always shown): adjacent level connections (L to L±1)
  * - Peer (toggleable): same-level OR level-skipping connections
  */
-const ChainFlowGraph = ({ data, onNodeClick, selectedNode, showPeerConnections = true }) => {
+const ChainFlowGraph = ({ data, chainDetails, onNodeClick, selectedNode, showPeerConnections = true }) => {
   const svgRef = useRef(null);
   const [dimensions, setDimensions] = useState({ width: 1200, height: 800 });
 
@@ -74,12 +78,33 @@ const ChainFlowGraph = ({ data, onNodeClick, selectedNode, showPeerConnections =
       })
     );
 
-    // Adjacency for click-highlighting
-    const neighbors = new Map(data.nodes.map(n => [n.id, new Set()]));
-    data.edges.forEach(e => {
-      neighbors.get(e.source)?.add(e.target);
-      neighbors.get(e.target)?.add(e.source);
-    });
+    // Build chain membership map for complete chain highlighting
+    const nodeToChains = new Map(data.nodes.map(n => [n.id, new Set()]));
+    const chainToNodes = new Map();
+    const chainToEdges = new Map();
+    
+    if (chainDetails) {
+      chainDetails.forEach((detail, chainIdx) => {
+        const { full_chain } = detail;
+        const chainId = `chain_${chainIdx}`;
+        
+        // Track nodes in this chain
+        chainToNodes.set(chainId, new Set(full_chain));
+        
+        // Track edges in this chain
+        const chainEdges = new Set();
+        for (let i = 0; i < full_chain.length - 1; i++) {
+          const edgeKey = `${full_chain[i]}->${full_chain[i + 1]}`;
+          chainEdges.add(edgeKey);
+        }
+        chainToEdges.set(chainId, chainEdges);
+        
+        // Map each node to chains it belongs to
+        full_chain.forEach(nodeId => {
+          nodeToChains.get(nodeId)?.add(chainId);
+        });
+      });
+    }
 
     // Separate hierarchical edges from peer edges
     const hierarchicalEdges = [];
@@ -247,6 +272,7 @@ const ChainFlowGraph = ({ data, onNodeClick, selectedNode, showPeerConnections =
         const wout = outW.get(d.id) ?? 0;
         const wtot = weightedDegree.get(d.id) ?? 0;
         const layer = layout.layerOf.get(d.id);
+        const numChains = nodeToChains.get(d.id)?.size || 0;
         
         tooltip.transition().duration(150).style('opacity', 0.9);
         tooltip.html(`
@@ -256,7 +282,8 @@ const ChainFlowGraph = ({ data, onNodeClick, selectedNode, showPeerConnections =
           ${d.hasId ? `<em>Has biography (#${d.hasId})</em><br/>` : ''}
           Upstream (in): ${win}<br/>
           Downstream (out): ${wout}<br/>
-          Weighted total: ${wtot}
+          Weighted total: ${wtot}<br/>
+          <em>Appears in ${numChains} chain${numChains !== 1 ? 's' : ''}</em>
         `)
           .style('left', (event.pageX + 10) + 'px')
           .style('top', (event.pageY - 28) + 'px');
@@ -265,10 +292,12 @@ const ChainFlowGraph = ({ data, onNodeClick, selectedNode, showPeerConnections =
         tooltip.transition().duration(250).style('opacity', 0);
       });
 
-    // CLICK-ONLY HIGHLIGHT
+    // COMPLETE CHAIN HIGHLIGHTING
+    // When a node is clicked, highlight ALL nodes and edges in ALL chains that contain it
     const applyHighlight = () => {
       const activeId = selectedNode?.id || null;
       if (!activeId) {
+        // No selection - show all at normal opacity
         hierarchicalEdgeSel
           .attr('stroke-opacity', 0.55)
           .attr('stroke-width', 1.6);
@@ -279,19 +308,52 @@ const ChainFlowGraph = ({ data, onNodeClick, selectedNode, showPeerConnections =
         return;
       }
 
-      const nbrs = neighbors.get(activeId) || new Set();
-      const incident = new Set([...nbrs, activeId]);
+      // Get all chains that contain the selected node
+      const selectedChains = nodeToChains.get(activeId) || new Set();
+      
+      // Collect all nodes in those chains
+      const highlightNodes = new Set([activeId]);
+      selectedChains.forEach(chainId => {
+        const nodesInChain = chainToNodes.get(chainId);
+        if (nodesInChain) {
+          nodesInChain.forEach(nodeId => highlightNodes.add(nodeId));
+        }
+      });
+      
+      // Collect all edges in those chains
+      const highlightEdgeKeys = new Set();
+      selectedChains.forEach(chainId => {
+        const edgesInChain = chainToEdges.get(chainId);
+        if (edgesInChain) {
+          edgesInChain.forEach(edgeKey => highlightEdgeKeys.add(edgeKey));
+        }
+      });
 
+      // Highlight hierarchical edges
       hierarchicalEdgeSel
-        .attr('stroke-opacity', d => (incident.has(d.source) && incident.has(d.target)) ? 0.95 : 0.12)
-        .attr('stroke-width', d => (incident.has(d.source) && incident.has(d.target)) ? 2.6 : 1.1);
+        .attr('stroke-opacity', d => {
+          const edgeKey = `${d.source}->${d.target}`;
+          return highlightEdgeKeys.has(edgeKey) ? 0.95 : 0.12;
+        })
+        .attr('stroke-width', d => {
+          const edgeKey = `${d.source}->${d.target}`;
+          return highlightEdgeKeys.has(edgeKey) ? 2.6 : 1.1;
+        });
 
+      // Highlight peer edges
       peerEdgeSel
-        .attr('stroke-opacity', d => (incident.has(d.source) && incident.has(d.target)) ? 0.85 : 0.08)
-        .attr('stroke-width', d => (incident.has(d.source) && incident.has(d.target)) ? 2.4 : 1.0);
+        .attr('stroke-opacity', d => {
+          const edgeKey = `${d.source}->${d.target}`;
+          return highlightEdgeKeys.has(edgeKey) ? 0.85 : 0.08;
+        })
+        .attr('stroke-width', d => {
+          const edgeKey = `${d.source}->${d.target}`;
+          return highlightEdgeKeys.has(edgeKey) ? 2.4 : 1.0;
+        });
 
+      // Highlight nodes
       nodeSel.selectAll('circle')
-        .attr('opacity', nd => incident.has(nd.id) ? 1.0 : 0.2);
+        .attr('opacity', nd => highlightNodes.has(nd.id) ? 1.0 : 0.2);
     };
     applyHighlight();
 
@@ -306,7 +368,7 @@ const ChainFlowGraph = ({ data, onNodeClick, selectedNode, showPeerConnections =
       tooltip.remove();
     };
 
-  }, [data, dimensions, onNodeClick, selectedNode, showPeerConnections]);
+  }, [data, chainDetails, dimensions, onNodeClick, selectedNode, showPeerConnections]);
 
   useEffect(() => {
     const handleResize = () => {
@@ -398,8 +460,11 @@ function calculateLayoutWithFirstLayerColumns(data, width, height) {
 
   const nameOf = new Map(nodes.map(n => [n.id, n.name || '']));
   const degree = new Map(nodes.map(n => [n.id, incoming.get(n.id).length + outgoing.get(n.id).length]));
-  for (const [L, arr] of layers.entries()) {
-    arr.sort((a,b) => {
+  
+  // Initial sort by degree for center layer
+  if (layers.has(0)) {
+    const arr0 = layers.get(0);
+    arr0.sort((a,b) => {
       const da = degree.get(a), db = degree.get(b);
       if (db !== da) return db - da;
       return nameOf.get(a).localeCompare(nameOf.get(b), 'en');
@@ -412,8 +477,11 @@ function calculateLayoutWithFirstLayerColumns(data, width, height) {
   const nodePositions = new Map();
   const nodeY = new Map();
 
+  // Initialize center position
   nodePositions.set(center, { x: centerX, y: centerY });
   nodeY.set(center, centerY);
+  
+  // Place center layer with vertical spacing
   if (layers.has(0)) {
     const arr0 = layers.get(0);
     const idx0 = arr0.indexOf(center);
@@ -427,34 +495,52 @@ function calculateLayoutWithFirstLayerColumns(data, width, height) {
     }
   }
 
-  const layer0 = layers.get(0) || [center];
-  const idx0 = new Map(layer0.map((id,i) => [id, i]));
-  const neighborMedianIndex = (id, useIncoming) => {
-    const nbs = (useIncoming ? incoming.get(id) : outgoing.get(id) || [])
-      .filter(v => layerOf.get(v) === 0)
-      .map(v => idx0.get(v))
-      .filter(v => v !== undefined)
-      .sort((a,b)=>a-b);
-    if (!nbs.length) return Number.POSITIVE_INFINITY;
-    return (nbs.length & 1) ? nbs[(nbs.length-1)/2] : (nbs[nbs.length/2-1] + nbs[nbs.length/2]) / 2;
+  // Helper: calculate barycenter (average Y position of neighbors)
+  const calculateBarycenter = (nodeId, neighborIds) => {
+    const neighborYs = neighborIds
+      .map(nid => nodeY.get(nid))
+      .filter(y => y !== undefined);
+    
+    if (neighborYs.length === 0) return null;
+    return neighborYs.reduce((sum, y) => sum + y, 0) / neighborYs.length;
   };
+
+  // Helper: order layer by barycenter to minimize crossings
+  const orderLayerByBarycenter = (layerIds, neighborMap) => {
+    const barycenters = layerIds.map(id => {
+      const neighbors = neighborMap.get(id) || [];
+      const bc = calculateBarycenter(id, neighbors);
+      return { id, barycenter: bc };
+    });
+
+    // Sort by barycenter (nulls at end)
+    barycenters.sort((a, b) => {
+      if (a.barycenter === null && b.barycenter === null) {
+        // Both have no positioned neighbors, sort by degree then name
+        const da = degree.get(a.id), db = degree.get(b.id);
+        if (db !== da) return db - da;
+        return nameOf.get(a.id).localeCompare(nameOf.get(b.id), 'en');
+      }
+      if (a.barycenter === null) return 1;
+      if (b.barycenter === null) return -1;
+      return a.barycenter - b.barycenter;
+    });
+
+    return barycenters.map(item => item.id);
+  };
+
+  const layer0 = layers.get(0) || [center];
 
   const packFirstLayer = (L) => {
     if (!layers.has(L)) return;
-    const ids = layers.get(L).slice();
+    let ids = layers.get(L).slice();
     if (!ids.length) return;
 
     const side = (L > 0) ? +1 : -1;
-    const useIncoming = (L > 0);
+    const neighborMap = (L > 0) ? incoming : outgoing;
 
-    ids.sort((a,b) => {
-      const ma = neighborMedianIndex(a, useIncoming);
-      const mb = neighborMedianIndex(b, useIncoming);
-      if (ma !== mb) return ma - mb;
-      const da = degree.get(a), db = degree.get(b);
-      if (db !== da) return db - da;
-      return nameOf.get(a).localeCompare(nameOf.get(b), 'en');
-    });
+    // Order by barycenter to minimize crossings
+    ids = orderLayerByBarycenter(ids, neighborMap);
 
     const rowSpacing = 38;
     const targetRows = Math.min(24, Math.max(8, Math.floor(0.9 * H / rowSpacing)));
@@ -464,21 +550,12 @@ function calculateLayoutWithFirstLayerColumns(data, width, height) {
     const colGap = 120;
     const xForCol = (c) => baseX + side * (c * colGap);
 
-    const desiredY = (i) => {
-      const total = (Math.min(ids.length, targetRows) - 1) * rowSpacing;
-      return centerY - total / 2 + (Math.min(i, targetRows - 1) * rowSpacing);
-    };
-
-    const cols = Array.from({ length: K }, () => ({ y: -Infinity, members: [] }));
+    // Assign to columns while trying to keep similar Y positions together
+    const cols = Array.from({ length: K }, () => ({ members: [] }));
+    
     ids.forEach((id, i) => {
-      const wantY = desiredY(i % targetRows);
-      let best = 0, bestScore = Infinity;
-      cols.forEach((c, idx) => {
-        const lastY = (c.members.length ? nodeY.get(c.members[c.members.length - 1]) : -Infinity);
-        const score = Math.abs((isFinite(lastY) ? lastY : wantY) - wantY);
-        if (score < bestScore) { bestScore = score; best = idx; }
-      });
-      cols[best].members.push(id);
+      const colIdx = Math.floor(i / targetRows) % K;
+      cols[colIdx].members.push(id);
     });
 
     cols.forEach((c, ci) => {
@@ -501,46 +578,23 @@ function calculateLayoutWithFirstLayerColumns(data, width, height) {
 
   const placeOuter = (L) => {
     if (!layers.has(L)) return;
-    const ids = layers.get(L);
+    let ids = layers.get(L);
     if (!ids.length) return;
 
     const x = (L < 0)
       ? centerX - (Math.abs(L) * baseDx + colPad)
       : centerX + (Math.abs(L) * baseDx + colPad);
 
-    const nbrLayer = (L > 0) ? L - 1 : L + 1;
-    const refIds = layers.get(nbrLayer) || [];
-    const refIdx = new Map(refIds.map((id,i)=>[id,i]));
     const neighborMap = (L > 0) ? incoming : outgoing;
 
-    const order = (arr) =>
-      arr.map(id => {
-        const idxs = (neighborMap.get(id) || [])
-          .map(v => refIdx.get(v))
-          .filter(i => i !== undefined)
-          .sort((a,b)=>a-b);
-        if (!idxs.length) return [id, Number.POSITIVE_INFINITY];
-        const m = (idxs.length & 1) ? idxs[(idxs.length-1)/2] : (idxs[idxs.length/2-1] + idxs[idxs.length/2]) / 2;
-        return [id, m];
-      }).sort((a,b)=>a[1]-b[1]).map(([id])=>id);
-
-    const ord = order(ids);
-    const vs = verticalSpread(ord.length);
-    const total = (ord.length - 1) * vs;
+    // Order by barycenter to minimize crossings
+    const orderedIds = orderLayerByBarycenter(ids, neighborMap);
+    
+    const vs = verticalSpread(orderedIds.length);
+    const total = (orderedIds.length - 1) * vs;
     let start = centerY - total / 2;
-    ord.forEach((id,i) => nodeY.set(id, start + i*vs));
-
-    const lambda = 0.35;
-    ord.forEach(id => {
-      const nbs = (neighborMap.get(id) || []).filter(v => layerOf.get(v) === nbrLayer);
-      const ys = nbs.map(v => nodeY.get(v)).filter(y => y !== undefined).sort((a,b)=>a-b);
-      if (!ys.length) return;
-      const m = (ys.length & 1) ? ys[(ys.length-1)/2] : (ys[ys.length/2-1] + ys[ys.length/2]) / 2;
-      nodeY.set(id, nodeY.get(id)*(1-lambda) + m*lambda);
-    });
-
-    start = centerY - total / 2;
-    ord.forEach((id,i) => {
+    
+    orderedIds.forEach((id, i) => {
       const y = start + i * vs;
       nodeY.set(id, y);
       nodePositions.set(id, { x, y });
@@ -552,6 +606,56 @@ function calculateLayoutWithFirstLayerColumns(data, width, height) {
   const negLayers = layerKeys.filter(L => L < -1).sort((a,b)=>b-a);
   posLayers.forEach(placeOuter);
   negLayers.forEach(placeOuter);
+
+  // Iterative refinement: multiple passes to minimize crossings
+  const allLayersSorted = layerKeys
+    .filter(L => L !== 0)
+    .sort((a,b) => Math.abs(a) - Math.abs(b));
+  
+  // Do 3 refinement passes
+  for (let pass = 0; pass < 3; pass++) {
+    // Forward pass (from center outward)
+    allLayersSorted.forEach(L => {
+      if (!layers.has(L)) return;
+      const ids = layers.get(L);
+      const neighborMap = (L > 0) ? incoming : outgoing;
+      
+      const orderedIds = orderLayerByBarycenter(ids, neighborMap);
+      
+      // Update Y positions maintaining same vertical spacing
+      const vs = verticalSpread(orderedIds.length);
+      const total = (orderedIds.length - 1) * vs;
+      let start = centerY - total / 2;
+      
+      orderedIds.forEach((id, i) => {
+        const y = start + i * vs;
+        nodeY.set(id, y);
+        const pos = nodePositions.get(id);
+        if (pos) pos.y = y;
+      });
+    });
+    
+    // Backward pass (from outside toward center)
+    allLayersSorted.slice().reverse().forEach(L => {
+      if (!layers.has(L)) return;
+      const ids = layers.get(L);
+      const neighborMap = (L > 0) ? outgoing : incoming;
+      
+      const orderedIds = orderLayerByBarycenter(ids, neighborMap);
+      
+      // Update Y positions maintaining same vertical spacing
+      const vs = verticalSpread(orderedIds.length);
+      const total = (orderedIds.length - 1) * vs;
+      let start = centerY - total / 2;
+      
+      orderedIds.forEach((id, i) => {
+        const y = start + i * vs;
+        nodeY.set(id, y);
+        const pos = nodePositions.get(id);
+        if (pos) pos.y = y;
+      });
+    });
+  }
 
   if (layers.has(0)) {
     layers.get(0).forEach(id => {

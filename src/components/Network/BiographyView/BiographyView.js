@@ -67,6 +67,8 @@ const BiographyView = ({ bioId, data, onViewChange }) => {
       onViewChange('transmitter', String(nodeData.personId));
     } else if (action === 'view-biography' && nodeData.hasId) {
       onViewChange('biography', String(nodeData.hasId));
+    } else if (action === 'view-all-isnads') {
+      onViewChange('view-all-isnads', String(nodeData.personId));
     }
   };
   
@@ -116,7 +118,7 @@ const BiographyView = ({ bioId, data, onViewChange }) => {
           <StatsPanel
             node={selectedNode}
             profile={data.profiles[String(selectedNode.personId)]}
-            chains={data.chains}
+            isnads={data.isnads}
             onClose={() => setSelectedNode(null)}
             onAction={handleNodeAction}
             viewType="biography"

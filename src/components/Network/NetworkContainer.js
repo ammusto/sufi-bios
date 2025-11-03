@@ -3,11 +3,12 @@ import { useSearchParams } from 'react-router-dom';
 import TransmissionView from './TransmissionView/TransmissionView';
 import TransmitterView from './TransmitterView/TransmitterView';
 import BiographyView from './BiographyView/BiographyView';
+import IsnadsListView from './IsnadsListView/IsnadsListView';
 import Loading from '../common/Loading';
 import './NetworkStyles.css';
 
 /**
- * Main container for all three network views
+ * Main container for all network views
  * Manages data loading and view routing
  */
 const NetworkContainer = () => {
@@ -19,6 +20,7 @@ const NetworkContainer = () => {
   // Get current view from URL
   const view = searchParams.get('view') || 'transmission';
   const focusId = searchParams.get('focus');
+  const filterPersonId = searchParams.get('filterPerson'); // For isnads list filtered by person
   
   // Load all data on mount
   useEffect(() => {
@@ -26,8 +28,8 @@ const NetworkContainer = () => {
       try {
         setLoading(true);
         
-        const [chains, profiles, bioNetworks, biosMetadata, metadata] = await Promise.all([
-          fetch('/data/transmission-chains.json').then(r => r.json()),
+        const [isnads, profiles, bioNetworks, biosMetadata, metadata] = await Promise.all([
+          fetch('/data/transmission-isnads.json').then(r => r.json()),
           fetch('/data/person-profiles.json').then(r => r.json()),
           fetch('/data/bio-social-networks.json').then(r => r.json()),
           fetch('/data/bios-metadata.json').then(r => r.json()),
@@ -35,7 +37,7 @@ const NetworkContainer = () => {
         ]);
         
         setData({
-          chains,
+          isnads,
           profiles,
           bioNetworks,
           biosMetadata,
@@ -60,6 +62,17 @@ const NetworkContainer = () => {
     } else {
       params.delete('focus');
     }
+    // Clear filterPerson when changing views
+    params.delete('filterPerson');
+    setSearchParams(params);
+  };
+  
+  const handleViewAllIsnads = (personId = null) => {
+    const params = new URLSearchParams(searchParams);
+    params.set('view', 'isnads-list');
+    if (personId) {
+      params.set('filterPerson', personId);
+    }
     setSearchParams(params);
   };
   
@@ -77,7 +90,7 @@ const NetworkContainer = () => {
             className={`view-tab ${view === 'transmission' ? 'active' : ''}`}
             onClick={() => handleViewChange('transmission')}
           >
-            Transmission Chains
+            Transmission Network
           </button>
           <button
             className={`view-tab ${view === 'transmitter' ? 'active' : ''}`}
@@ -93,6 +106,12 @@ const NetworkContainer = () => {
           >
             Biography Network
           </button>
+          <button
+            className={`view-tab ${view === 'isnads-list' ? 'active' : ''}`}
+            onClick={() => handleViewAllIsnads()}
+          >
+            View All Isnads
+          </button>
         </div>
       </div>
       
@@ -100,7 +119,13 @@ const NetworkContainer = () => {
         {view === 'transmission' && (
           <TransmissionView 
             data={data} 
-            onViewChange={handleViewChange}
+            onViewChange={(action, id) => {
+              if (action === 'view-all-isnads') {
+                handleViewAllIsnads(id);
+              } else {
+                handleViewChange(action, id);
+              }
+            }}
           />
         )}
         
@@ -108,7 +133,13 @@ const NetworkContainer = () => {
           <TransmitterView 
             personId={focusId}
             data={data}
-            onViewChange={handleViewChange}
+            onViewChange={(action, id) => {
+              if (action === 'view-all-isnads') {
+                handleViewAllIsnads(id);
+              } else {
+                handleViewChange(action, id);
+              }
+            }}
           />
         )}
         
@@ -116,6 +147,20 @@ const NetworkContainer = () => {
           <BiographyView 
             bioId={focusId}
             data={data}
+            onViewChange={(action, id) => {
+              if (action === 'view-all-isnads') {
+                handleViewAllIsnads(id);
+              } else {
+                handleViewChange(action, id);
+              }
+            }}
+          />
+        )}
+        
+        {view === 'isnads-list' && (
+          <IsnadsListView
+            data={data}
+            filterPersonId={filterPersonId}
             onViewChange={handleViewChange}
           />
         )}

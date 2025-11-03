@@ -1,0 +1,250 @@
+.isnads-list-view {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background: white;
+}
+
+.isnads-list-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.isnads-list-header h2 {
+  margin: 0;
+  font-size: 24px;
+  color: #333;
+}
+
+.isnads-count {
+  font-size: 14px;
+  color: #666;
+}
+
+.isnads-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 20px;
+  border-bottom: 1px solid #e0e0e0;
+  gap: 20px;
+}
+
+.filter-section {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  flex: 1;
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background: white;
+}
+
+.search-box input {
+  flex: 1;
+  border: none;
+  outline: none;
+  font-size: 14px;
+}
+
+.clear-search {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #999;
+  padding: 2px;
+  display: flex;
+  align-items: center;
+}
+
+.clear-search:hover {
+  color: #333;
+}
+
+.person-filter {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.person-filter label {
+  font-size: 14px;
+  color: #666;
+  white-space: nowrap;
+}
+
+.person-filter select {
+  flex: 1;
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+  background: white;
+  max-width: 400px;
+}
+
+.clear-filters-btn {
+  padding: 8px 16px;
+  background: white;
+  color: #d32f2f;
+  border: 1px solid #d32f2f;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.2s;
+}
+
+.clear-filters-btn:hover {
+  background: #ffebee;
+}
+
+.export-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 20px;
+  background: #2196F3;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  white-space: nowrap;
+  transition: all 0.2s;
+}
+
+.export-btn:hover:not(:disabled) {
+  background: #1976D2;
+}
+
+.export-btn:disabled {
+  background: #ccc;
+  cursor: not-allowed;
+}
+
+.isnads-list-container {
+  flex: 1;
+  overflow: hidden;
+}
+
+.isnad-row {
+  padding: 16px 20px;
+  border-bottom: 1px solid #f0f0f0;
+  transition: background 0.2s;
+}
+
+.isnad-row:hover {
+  background: #f9f9f9;
+}
+
+.isnad-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.isnad-id {
+  font-weight: 600;
+  color: #2196F3;
+  font-size: 14px;
+}
+
+.isnad-meta {
+  font-size: 13px;
+  color: #666;
+}
+
+.bio-link {
+  color: #4CAF50;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.bio-link:hover {
+  color: #388E3C;
+}
+
+.isnad-chain {
+  font-size: 14px;
+  line-height: 1.6;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.person-name {
+  display: inline;
+  color: #2196F3;
+  cursor: pointer;
+  padding: 2px 4px;
+  border-radius: 2px;
+  transition: background 0.2s;
+}
+
+.person-name:hover {
+  background: #e3f2fd;
+  text-decoration: underline;
+}
+
+.has-bio-indicator {
+  color: #FFD700;
+  margin-left: 2px;
+  font-size: 12px;
+}
+
+.chain-arrow {
+  color: #999;
+  margin: 0 4px;
+}
+
+.isnad-text {
+  font-size: 12px;
+  color: #666;
+  font-style: italic;
+  padding: 8px;
+  background: #f9f9f9;
+  border-radius: 3px;
+  margin-top: 8px;
+}
+
+.no-isnads {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  color: #999;
+  font-size: 16px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .isnads-controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .export-btn {
+    width: 100%;
+    justify-content: center;
+  }
+  
+  .person-filter {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .person-filter select {
+    max-width: none;
+  }
+}

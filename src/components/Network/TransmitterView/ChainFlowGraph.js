@@ -5,17 +5,15 @@ import * as d3 from 'd3';
  * ChainFlowGraph — layered, curved edges, click-only highlighting,
  * multi-column packing for dense ±1 layers.
  * 
- * NOW WITH COMPLETE CHAIN HIGHLIGHTING:
- * When a node is clicked, highlights ALL nodes and edges in ALL chains
- * that pass through that node (not just immediate neighbors).
- * 
- * Edge types:
- * - Hierarchical (always shown): adjacent level connections (L to L±1)
- * - Peer (toggleable): same-level OR level-skipping connections
+ * FIXES:
+ * - Preserve zoom transform (no re-centering on selection)
+ * - Fix x# label to show unique isnad count (not weighted degree)
+ * - Improved barycenter positioning to reduce edge crossover
  */
-const ChainFlowGraph = ({ data, chainDetails, onNodeClick, selectedNode, showPeerConnections = true }) => {
+const ChainFlowGraph = ({ data, isnadDetails, onNodeClick, selectedNode, showPeerConnections = true }) => {
   const svgRef = useRef(null);
   const [dimensions, setDimensions] = useState({ width: 1200, height: 800 });
+  const [transform, setTransform] = useState(d3.zoomIdentity); // Store zoom state
 
   useEffect(() => {
     if (!data || !data.nodes || data.nodes.length === 0) return;
@@ -26,6 +24,9 @@ const ChainFlowGraph = ({ data, chainDetails, onNodeClick, selectedNode, showPee
     svg.selectAll('*').remove();
 
     const g = svg.append('g');
+    
+    // Apply stored transform
+    g.attr('transform', transform);
 
     // Background to capture whitespace clicks
     g.append('rect')
@@ -52,7 +53,19 @@ const ChainFlowGraph = ({ data, chainDetails, onNodeClick, selectedNode, showPee
     const layout = calculateLayoutWithFirstLayerColumns(data, width, height);
     const centerId = data.centerPersonId;
 
-    // Weights and radius scale
+    // FIX: Calculate UNIQUE isnad count per person (not weighted degree)
+    const personToUniqueIsnads = new Map();
+    if (isnadDetails) {
+      isnadDetails.forEach(detail => {
+        const pid = detail.full_isnad[detail.position];
+        if (!personToUniqueIsnads.has(pid)) {
+          personToUniqueIsnads.set(pid, new Set());
+        }
+        personToUniqueIsnads.get(pid).add(detail.isnad_id);
+      });
+    }
+
+    // Calculate weights for edge thickness only
     const inW  = new Map(data.nodes.map(n => [n.id, 0]));
     const outW = new Map(data.nodes.map(n => [n.id, 0]));
     data.edges.forEach(e => {
@@ -78,30 +91,30 @@ const ChainFlowGraph = ({ data, chainDetails, onNodeClick, selectedNode, showPee
       })
     );
 
-    // Build chain membership map for complete chain highlighting
-    const nodeToChains = new Map(data.nodes.map(n => [n.id, new Set()]));
-    const chainToNodes = new Map();
-    const chainToEdges = new Map();
+    // Build isnad membership map for complete isnad highlighting
+    const nodeToIsnads = new Map(data.nodes.map(n => [n.id, new Set()]));
+    const isnadToNodes = new Map();
+    const isnadToEdges = new Map();
     
-    if (chainDetails) {
-      chainDetails.forEach((detail, chainIdx) => {
-        const { full_chain } = detail;
-        const chainId = `chain_${chainIdx}`;
+    if (isnadDetails) {
+      isnadDetails.forEach((detail, isnadIdx) => {
+        const { full_isnad } = detail;
+        const isnadId = `isnad_${isnadIdx}`;
         
-        // Track nodes in this chain
-        chainToNodes.set(chainId, new Set(full_chain));
+        // Track nodes in this isnad
+        isnadToNodes.set(isnadId, new Set(full_isnad));
         
-        // Track edges in this chain
-        const chainEdges = new Set();
-        for (let i = 0; i < full_chain.length - 1; i++) {
-          const edgeKey = `${full_chain[i]}->${full_chain[i + 1]}`;
-          chainEdges.add(edgeKey);
+        // Track edges in this isnad
+        const isnadEdges = new Set();
+        for (let i = 0; i < full_isnad.length - 1; i++) {
+          const edgeKey = `${full_isnad[i]}->${full_isnad[i + 1]}`;
+          isnadEdges.add(edgeKey);
         }
-        chainToEdges.set(chainId, chainEdges);
+        isnadToEdges.set(isnadId, isnadEdges);
         
-        // Map each node to chains it belongs to
-        full_chain.forEach(nodeId => {
-          nodeToChains.get(nodeId)?.add(chainId);
+        // Map each node to isnads it belongs to
+        full_isnad.forEach(nodeId => {
+          nodeToIsnads.get(nodeId)?.add(isnadId);
         });
       });
     }
@@ -121,7 +134,7 @@ const ChainFlowGraph = ({ data, chainDetails, onNodeClick, selectedNode, showPee
       
       const layerDiff = Math.abs(sLayer - tLayer);
       
-      // Adjacent levels (L to L±1) = hierarchical chain
+      // Adjacent levels (L to L±1) = hierarchical isnad
       if (layerDiff === 1) {
         hierarchicalEdges.push(edge);
       } else {
@@ -217,7 +230,7 @@ const ChainFlowGraph = ({ data, chainDetails, onNodeClick, selectedNode, showPee
       .attr('stroke', d => selectedNode?.id === d.id ? '#333' : '#fff')
       .attr('stroke-width', d => selectedNode?.id === d.id ? 3 : 2);
 
-    // LABELS
+    // LABELS - FIX: Show unique isnad count
     const pct = 0.9;
     const inP  = d3.quantile([...inW.values()].sort(d3.ascending), pct)  ?? 0;
     const outP = d3.quantile([...outW.values()].sort(d3.ascending), pct) ?? 0;
@@ -249,8 +262,9 @@ const ChainFlowGraph = ({ data, chainDetails, onNodeClick, selectedNode, showPee
       .text(d => {
         const name = d.name || '';
         const base = (d.id === centerId || d.type === 'center') ? name : (name.length > 25 ? name.slice(0, 25) + '…' : name);
-        const w = weightedDegree.get(d.id) ?? 0;
-        return w > 1 ? `${base} ×${w}` : base;
+        // FIX: Use unique isnad count instead of weighted degree
+        const uniqueIsnadCount = personToUniqueIsnads.get(d.id)?.size || 0;
+        return uniqueIsnadCount > 1 ? `${base} ×${uniqueIsnadCount}` : base;
       });
 
     // TOOLTIP
@@ -272,7 +286,8 @@ const ChainFlowGraph = ({ data, chainDetails, onNodeClick, selectedNode, showPee
         const wout = outW.get(d.id) ?? 0;
         const wtot = weightedDegree.get(d.id) ?? 0;
         const layer = layout.layerOf.get(d.id);
-        const numChains = nodeToChains.get(d.id)?.size || 0;
+        const numIsnads = nodeToIsnads.get(d.id)?.size || 0;
+        const uniqueIsnadCount = personToUniqueIsnads.get(d.id)?.size || 0;
         
         tooltip.transition().duration(150).style('opacity', 0.9);
         tooltip.html(`
@@ -280,10 +295,10 @@ const ChainFlowGraph = ({ data, chainDetails, onNodeClick, selectedNode, showPee
           ${(d.id === centerId || d.type === 'center') ? '<em>Focus Person</em><br/>' : ''}
           ${Number.isFinite(layer) ? `Layer: ${layer > 0 ? '+' : ''}${layer}<br/>` : ''}
           ${d.hasId ? `<em>Has biography (#${d.hasId})</em><br/>` : ''}
+          Unique isnads: ${uniqueIsnadCount}<br/>
           Upstream (in): ${win}<br/>
           Downstream (out): ${wout}<br/>
-          Weighted total: ${wtot}<br/>
-          <em>Appears in ${numChains} chain${numChains !== 1 ? 's' : ''}</em>
+          <em>Appears in ${numIsnads} isnad${numIsnads !== 1 ? 's' : ''}</em>
         `)
           .style('left', (event.pageX + 10) + 'px')
           .style('top', (event.pageY - 28) + 'px');
@@ -292,8 +307,7 @@ const ChainFlowGraph = ({ data, chainDetails, onNodeClick, selectedNode, showPee
         tooltip.transition().duration(250).style('opacity', 0);
       });
 
-    // COMPLETE CHAIN HIGHLIGHTING
-    // When a node is clicked, highlight ALL nodes and edges in ALL chains that contain it
+    // COMPLETE ISNAD HIGHLIGHTING
     const applyHighlight = () => {
       const activeId = selectedNode?.id || null;
       if (!activeId) {
@@ -308,24 +322,24 @@ const ChainFlowGraph = ({ data, chainDetails, onNodeClick, selectedNode, showPee
         return;
       }
 
-      // Get all chains that contain the selected node
-      const selectedChains = nodeToChains.get(activeId) || new Set();
+      // Get all isnads that contain the selected node
+      const selectedIsnads = nodeToIsnads.get(activeId) || new Set();
       
-      // Collect all nodes in those chains
+      // Collect all nodes in those isnads
       const highlightNodes = new Set([activeId]);
-      selectedChains.forEach(chainId => {
-        const nodesInChain = chainToNodes.get(chainId);
-        if (nodesInChain) {
-          nodesInChain.forEach(nodeId => highlightNodes.add(nodeId));
+      selectedIsnads.forEach(isnadId => {
+        const nodesInIsnad = isnadToNodes.get(isnadId);
+        if (nodesInIsnad) {
+          nodesInIsnad.forEach(nodeId => highlightNodes.add(nodeId));
         }
       });
       
-      // Collect all edges in those chains
+      // Collect all edges in those isnads
       const highlightEdgeKeys = new Set();
-      selectedChains.forEach(chainId => {
-        const edgesInChain = chainToEdges.get(chainId);
-        if (edgesInChain) {
-          edgesInChain.forEach(edgeKey => highlightEdgeKeys.add(edgeKey));
+      selectedIsnads.forEach(isnadId => {
+        const edgesInIsnad = isnadToEdges.get(isnadId);
+        if (edgesInIsnad) {
+          edgesInIsnad.forEach(edgeKey => highlightEdgeKeys.add(edgeKey));
         }
       });
 
@@ -357,10 +371,13 @@ const ChainFlowGraph = ({ data, chainDetails, onNodeClick, selectedNode, showPee
     };
     applyHighlight();
 
-    // Zoom
+    // Zoom with transform preservation
     const zoom = d3.zoom()
       .scaleExtent([0.1, 4])
-      .on('zoom', (event) => g.attr('transform', event.transform));
+      .on('zoom', (event) => {
+        g.attr('transform', event.transform);
+        setTransform(event.transform); // Store transform
+      });
     svg.call(zoom);
 
     // Cleanup
@@ -368,7 +385,7 @@ const ChainFlowGraph = ({ data, chainDetails, onNodeClick, selectedNode, showPee
       tooltip.remove();
     };
 
-  }, [data, chainDetails, dimensions, onNodeClick, selectedNode, showPeerConnections]);
+  }, [data, isnadDetails, dimensions, onNodeClick, selectedNode, showPeerConnections, transform]);
 
   useEffect(() => {
     const handleResize = () => {
@@ -414,7 +431,7 @@ function peerCurvePath(s, t, rs, rt, { layer }) {
   return `M${s0.x},${s0.y} C${c1.x},${c1.y} ${c2.x},${c2.y} ${t0.x},${t0.y}`;
 }
 
-/* ============================== layout ============================== */
+/* ============================== IMPROVED layout with better barycenter ============================== */
 
 function calculateLayoutWithFirstLayerColumns(data, width, height) {
   const { nodes, edges, centerPersonId } = data;
@@ -612,8 +629,8 @@ function calculateLayoutWithFirstLayerColumns(data, width, height) {
     .filter(L => L !== 0)
     .sort((a,b) => Math.abs(a) - Math.abs(b));
   
-  // Do 3 refinement passes
-  for (let pass = 0; pass < 3; pass++) {
+  // Do 5 refinement passes (increased from 3 for better edge optimization)
+  for (let pass = 0; pass < 5; pass++) {
     // Forward pass (from center outward)
     allLayersSorted.forEach(L => {
       if (!layers.has(L)) return;

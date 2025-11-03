@@ -1,74 +1,144 @@
 import React, { useState, useMemo } from 'react';
 import HierarchicalGraph from './HierarchicalGraph';
 import StatsPanel from '../shared/StatsPanel';
-import ChainsList from './ChainsList';
 
 /**
- * View 1: Transmission Chains
- * Shows hierarchical network of all transmission chains
+ * View 1: Transmission Isnads
+ * Shows aggregated hierarchical network with significant transmitters only
+ * One node per person (aggregated across all isnads)
  */
 const TransmissionView = ({ data, onViewChange }) => {
   const [selectedNode, setSelectedNode] = useState(null);
-  const [sourceFilter, setSourceFilter] = useState('all');
-  const [showChainsList, setShowChainsList] = useState(false);
+  const [sourceFilter, setSourceFilter] = useState('hilya'); // Start with hilya
+  const [minIsnadCount, setMinIsnadCount] = useState(3); // Threshold for showing transmitters
   
-  // Build graph data from chains
+  // Build aggregated graph data from isnads
   const graphData = useMemo(() => {
-    const { chains, profiles } = data;
+    const { isnads, profiles } = data;
     
-    // Filter chains by source if needed
-    const filteredChains = Object.values(chains).filter(chain => {
-      if (sourceFilter === 'all') return true;
-      return chain.sources.includes(sourceFilter);
+    // Filter isnads by source
+    const filteredIsnads = Object.values(isnads).filter(isnad => {
+      return isnad.sources.includes(sourceFilter);
     });
     
-    // Extract all nodes and edges
-    const nodesMap = new Map();
-    const edges = [];
+    // Aggregate: count how many times each person appears across all isnads
+    const personIsnadCounts = new Map(); // person_id -> count
+    const personPositions = new Map(); // person_id -> array of positions
+    const personTexts = new Map(); // person_id -> Set of texts
+    const personHasId = new Map(); // person_id -> has_id
     
-    filteredChains.forEach(chain => {
-      const { sequence, names, has_ids } = chain;
-      
-      // Add nodes
-      sequence.forEach((personId, position) => {
-        const key = `${personId}-${position}`;
+    filteredIsnads.forEach(isnad => {
+      isnad.sequence.forEach((personId, position) => {
+        // Count appearances
+        personIsnadCounts.set(personId, (personIsnadCounts.get(personId) || 0) + isnad.occurrences.length);
         
-        if (!nodesMap.has(key)) {
-          const profile = profiles[String(personId)];
-          
-          nodesMap.set(key, {
-            id: key,
-            personId: personId,
-            position: position,
-            name: names[position] || profile?.name || `Person ${personId}`,
-            hasId: has_ids[position],
-            // For sizing/coloring
-            totalChains: profile?.transmission_activity.total_chains || 0,
-            texts: profile?.transmission_activity.texts || []
-          });
+        // Track positions
+        if (!personPositions.has(personId)) {
+          personPositions.set(personId, []);
+        }
+        // Add position once per unique isnad, not per occurrence
+        personPositions.get(personId).push(position);
+        
+        // Track texts
+        if (!personTexts.has(personId)) {
+          personTexts.set(personId, new Set());
+        }
+        personTexts.get(personId).add(sourceFilter);
+        
+        // Track has_id
+        if (isnad.has_ids[position] && !personHasId.has(personId)) {
+          personHasId.set(personId, isnad.has_ids[position]);
         }
       });
+    });
+    
+    // Filter: only keep people who appear in minIsnadCount+ isnads
+    const significantPeople = new Set(
+      Array.from(personIsnadCounts.entries())
+        .filter(([_, count]) => count >= minIsnadCount)
+        .map(([pid, _]) => pid)
+    );
+    
+    // Build nodes (one per person)
+    const nodesMap = new Map();
+    
+    significantPeople.forEach(personId => {
+      const profile = profiles[String(personId)];
+      const positions = personPositions.get(personId) || [];
       
-      // Add edges
+      // Calculate average position for layering
+      const avgPosition = positions.length > 0 
+        ? positions.reduce((sum, p) => sum + p, 0) / positions.length
+        : 0;
+      
+      nodesMap.set(personId, {
+        id: personId,
+        personId: personId,
+        name: profile?.name || `Person ${personId}`,
+        isnadCount: personIsnadCounts.get(personId) || 0,
+        avgPosition: avgPosition,
+        positions: positions,
+        texts: Array.from(personTexts.get(personId) || []),
+        hasId: personHasId.get(personId)
+      });
+    });
+    
+    // Build edges (aggregated by connection count)
+    const edgesMap = new Map(); // "source->target" -> {source, target, weight, isnadIds}
+    
+    filteredIsnads.forEach(isnad => {
+      const sequence = isnad.sequence;
+      
+      // For each consecutive pair in the isnad
       for (let i = 0; i < sequence.length - 1; i++) {
-        edges.push({
-          source: `${sequence[i]}-${i}`,
-          target: `${sequence[i+1]}-${i+1}`,
-          chainId: chain.chain_id,
-          bioIds: chain.unique_bio_ids,
-          bioCount: chain.unique_bio_ids.length
-        });
+        const source = sequence[i];
+        const target = sequence[i + 1];
+        
+        // Only include edge if both nodes are significant
+        if (!significantPeople.has(source) || !significantPeople.has(target)) {
+          continue;
+        }
+        
+        const edgeKey = `${source}->${target}`;
+        
+        if (!edgesMap.has(edgeKey)) {
+          edgesMap.set(edgeKey, {
+            source: source,
+            target: target,
+            weight: 0,
+            isnadIds: new Set()
+          });
+        }
+        
+        const edge = edgesMap.get(edgeKey);
+        edge.weight += isnad.occurrences.length; // Weight by occurrence count
+        edge.isnadIds.add(isnad.isnad_id);
       }
     });
     
+    // Convert to arrays
+    const nodes = Array.from(nodesMap.values());
+    const edges = Array.from(edgesMap.values()).map(e => ({
+      source: e.source,
+      target: e.target,
+      weight: e.weight,
+      isnadIds: Array.from(e.isnadIds)
+    }));
+    
     return {
-      nodes: Array.from(nodesMap.values()),
+      nodes: nodes,
       edges: edges,
-      chainCount: filteredChains.length
+      isnadCount: filteredIsnads.length,
+      totalNodes: personIsnadCounts.size,
+      filteredCount: significantPeople.size
     };
-  }, [data, sourceFilter]);
+  }, [data, sourceFilter, minIsnadCount]);
   
   const handleNodeClick = (node) => {
+    if (!node) {
+      setSelectedNode(null);
+      return;
+    }
     setSelectedNode(node);
   };
   
@@ -84,56 +154,59 @@ const TransmissionView = ({ data, onViewChange }) => {
     <div className="transmission-view">
       <div className="view-controls">
         <div className="filter-group">
-          <label>Source:</label>
+          <label>Text:</label>
           <select value={sourceFilter} onChange={(e) => setSourceFilter(e.target.value)}>
-            <option value="all">All Sources</option>
+            <option value="hilya">Ḥilya</option>
             <option value="sulami">Al-Sulamī</option>
             <option value="ansari">Al-Anṣārī</option>
-            <option value="hilya">Ḥilya</option>
           </select>
         </div>
         
-        <div className="stats-display">
-          <span>{graphData.chainCount} chains</span>
-          <span>{graphData.nodes.length} positions</span>
+        <div className="filter-group">
+          <label>Min. isnads:</label>
+          <input 
+            type="range" 
+            min="1" 
+            max="20" 
+            value={minIsnadCount}
+            onChange={(e) => setMinIsnadCount(parseInt(e.target.value))}
+            style={{ width: '120px' }}
+          />
+          <span style={{ minWidth: '30px', textAlign: 'center' }}>{minIsnadCount}+</span>
         </div>
         
-        <button 
-          className="toggle-list-btn"
-          onClick={() => setShowChainsList(!showChainsList)}
-        >
-          {showChainsList ? 'Hide' : 'Show'} Chains List
-        </button>
+        <div className="stats-display">
+          <span>{graphData.isnadCount} isnads</span>
+          <span>{graphData.filteredCount} / {graphData.totalNodes} transmitters shown</span>
+        </div>
       </div>
       
       <div className="view-layout">
         <div className="graph-area">
-          <HierarchicalGraph
-            nodes={graphData.nodes}
-            edges={graphData.edges}
-            onNodeClick={handleNodeClick}
-            selectedNode={selectedNode}
-          />
+          {graphData.nodes.length === 0 ? (
+            <div className="no-results">
+              No transmitters meet the threshold. Try lowering the minimum isnad count.
+            </div>
+          ) : (
+            <HierarchicalGraph
+              nodes={graphData.nodes}
+              edges={graphData.edges}
+              isnads={data.isnads}
+              sourceFilter={sourceFilter}
+              onNodeClick={handleNodeClick}
+              selectedNode={selectedNode}
+            />
+          )}
         </div>
         
         {selectedNode && (
           <StatsPanel
             node={selectedNode}
             profile={data.profiles[String(selectedNode.personId)]}
-            chains={data.chains}
+            isnads={data.isnads}
             onClose={() => setSelectedNode(null)}
             onAction={handleNodeAction}
             viewType="transmission"
-          />
-        )}
-        
-        {showChainsList && (
-          <ChainsList
-            chains={Object.values(data.chains).filter(chain => {
-              if (sourceFilter === 'all') return true;
-              return chain.sources.includes(sourceFilter);
-            })}
-            onClose={() => setShowChainsList(false)}
           />
         )}
       </div>

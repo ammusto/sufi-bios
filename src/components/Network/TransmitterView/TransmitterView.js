@@ -4,7 +4,7 @@ import StatsPanel from '../shared/StatsPanel';
 
 /**
  * View 2: Transmitter Focus
- * Shows all chains aggregated with person at center
+ * Shows all isnads aggregated with person at center
  */
 const TransmitterView = ({ personId, data, onViewChange }) => {
   const [selectedNode, setSelectedNode] = useState(null);
@@ -12,13 +12,13 @@ const TransmitterView = ({ personId, data, onViewChange }) => {
   
   const profile = data.profiles[personId];
   
-  const chainGraphData = useMemo(() => {
+  const isnadGraphData = useMemo(() => {
     if (!profile) return null;
     
-    const { chain_details } = profile;
+    const { isnad_details } = profile;
     const centerPersonId = Number(personId);
     
-    // Aggregate all edges from all chains
+    // Aggregate all edges from all isnads
     const nodesMap = new Map();
     const edgesMap = new Map();
     
@@ -31,19 +31,19 @@ const TransmitterView = ({ personId, data, onViewChange }) => {
       hasId: profile.has_id
     });
     
-    // Process each chain
-    chain_details.forEach(detail => {
-      const { full_chain, full_chain_names, position } = detail;
+    // Process each isnad
+    isnad_details.forEach(detail => {
+      const { full_isnad, full_isnad_names, position } = detail;
       
-      // Add all nodes from chain
-      full_chain.forEach((pid, idx) => {
+      // Add all nodes from isnad
+      full_isnad.forEach((pid, idx) => {
         if (!nodesMap.has(pid)) {
           const nodeProfile = data.profiles[String(pid)];
           nodesMap.set(pid, {
             id: pid,
             personId: pid,
             type: pid === centerPersonId ? 'center' : 'other',
-            name: full_chain_names[idx] || nodeProfile?.name || `Person ${pid}`,
+            name: full_isnad_names[idx] || nodeProfile?.name || `Person ${pid}`,
             hasId: nodeProfile?.has_id,
             isUpstream: idx < position,
             isDownstream: idx > position
@@ -51,10 +51,10 @@ const TransmitterView = ({ personId, data, onViewChange }) => {
         }
       });
       
-      // Add all edges from chain
-      for (let i = 0; i < full_chain.length - 1; i++) {
-        const source = full_chain[i];
-        const target = full_chain[i + 1];
+      // Add all edges from isnad
+      for (let i = 0; i < full_isnad.length - 1; i++) {
+        const source = full_isnad[i];
+        const target = full_isnad[i + 1];
         const edgeKey = `${source}->${target}`;
         
         if (!edgesMap.has(edgeKey)) {
@@ -84,6 +84,8 @@ const TransmitterView = ({ personId, data, onViewChange }) => {
       onViewChange('transmitter', String(nodeData.personId));
     } else if (action === 'view-biography' && nodeData.hasId) {
       onViewChange('biography', String(nodeData.hasId));
+    } else if (action === 'view-all-isnads') {
+      onViewChange('view-all-isnads', String(nodeData.personId));
     }
   };
   
@@ -91,8 +93,8 @@ const TransmitterView = ({ personId, data, onViewChange }) => {
     return <div className="error">Person profile not found</div>;
   }
   
-  if (!chainGraphData) {
-    return <div className="error">Could not build chain data</div>;
+  if (!isnadGraphData) {
+    return <div className="error">Could not build isnad data</div>;
   }
   
   return (
@@ -101,9 +103,9 @@ const TransmitterView = ({ personId, data, onViewChange }) => {
         <div>
           <h2>{profile.name}</h2>
           <div className="view-stats">
-            <span>Total chains: {profile.transmission_activity.total_chains}</span>
-            <span>Unique nodes: {chainGraphData.nodes.length}</span>
-            <span>Unique edges: {chainGraphData.edges.length}</span>
+            <span>Total isnads: {profile.transmission_activity.total_isnads}</span>
+            <span>Unique nodes: {isnadGraphData.nodes.length}</span>
+            <span>Unique edges: {isnadGraphData.edges.length}</span>
           </div>
         </div>
         
@@ -125,8 +127,8 @@ const TransmitterView = ({ personId, data, onViewChange }) => {
       <div className="view-content">
         <div className="graph-area">
           <ChainFlowGraph
-            data={chainGraphData}
-            chainDetails={profile.chain_details}
+            data={isnadGraphData}
+            isnadDetails={profile.isnad_details}
             onNodeClick={handleNodeClick}
             selectedNode={selectedNode}
             showPeerConnections={showPeerConnections}
@@ -137,7 +139,7 @@ const TransmitterView = ({ personId, data, onViewChange }) => {
           <StatsPanel
             node={selectedNode}
             profile={data.profiles[String(selectedNode.personId)]}
-            chains={data.chains}
+            isnads={data.isnads}
             onClose={() => setSelectedNode(null)}
             onAction={handleNodeAction}
             viewType="transmitter"

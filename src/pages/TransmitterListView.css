@@ -1,0 +1,167 @@
+.transmitter-list-header {
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #e0e0e0;
+}
+
+.transmitter-list-header h1 {
+  font-size: 28px;
+  margin-bottom: 8px;
+}
+
+.transmitter-list-header .subtitle {
+  font-size: 15px;
+  color: #666;
+}
+
+.transmitter-controls {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  margin-bottom: 25px;
+  padding: 15px;
+  background: white;
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+}
+
+.transmitter-controls .search-box {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 15px;
+  background: #f8f9fa;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
+
+.transmitter-controls .search-box input {
+  flex: 1;
+  border: none;
+  background: transparent;
+  font-size: 15px;
+  outline: none;
+}
+
+.transmitter-controls .sort-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.transmitter-controls .sort-controls label {
+  font-size: 14px;
+  font-weight: 500;
+  color: #555;
+}
+
+.transmitter-controls .sort-controls select {
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+  background: white;
+  cursor: pointer;
+}
+
+.transmitter-table-container {
+  background: white;
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+  overflow: hidden;
+}
+
+.transmitter-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.transmitter-table thead {
+  background: #f8f9fa;
+  border-bottom: 2px solid #e0e0e0;
+}
+
+.transmitter-table th {
+  padding: 15px;
+  text-align: left;
+  font-size: 13px;
+  font-weight: 600;
+  color: #555;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.transmitter-table tbody tr {
+  border-bottom: 1px solid #f0f0f0;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.transmitter-table tbody tr:hover {
+  background-color: #f8f9fa;
+}
+
+.transmitter-table td {
+  padding: 15px;
+  font-size: 14px;
+}
+
+.name-cell {
+  font-weight: 500;
+  color: #333;
+  font-size: 15px;
+}
+
+.id-cell {
+  color: #666;
+  font-family: monospace;
+  font-size: 13px;
+}
+
+.number-cell {
+  font-weight: 600;
+  color: #2196F3;
+  text-align: center;
+}
+
+.texts-cell {
+  color: #666;
+  font-size: 13px;
+}
+
+.bio-cell {
+  text-align: center;
+}
+
+.has-bio-badge {
+  display: inline-block;
+  padding: 4px 10px;
+  background: #FFD700;
+  color: #333;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.no-results {
+  text-align: center;
+  padding: 60px 20px;
+  color: #999;
+  font-size: 16px;
+}
+
+@media (max-width: 768px) {
+  .transmitter-controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .transmitter-table-container {
+    overflow-x: auto;
+  }
+
+  .transmitter-table {
+    min-width: 700px;
+  }
+}

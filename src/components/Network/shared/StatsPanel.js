@@ -1,12 +1,67 @@
 import React from 'react';
 import { X, Download, ArrowRight, BookOpen, List } from 'lucide-react';
-
+import '../NetworkStyles.css';
 /**
  * Stats panel for displaying node/person details
  * Shows transmission activity and action buttons
  */
 const StatsPanel = ({ node, profile, isnads, onClose, onAction, viewType }) => {
-  if (!profile) return null;
+  // Handle case where we only have node data (e.g., from bio transmission network)
+  if (!profile) {
+    return (
+      <div className="stats-panel">
+        <div className="stats-header">
+          <h3>{node.name || 'Unknown'}</h3>
+          <button className="close-btn" onClick={onClose}>
+            <X size={18} />
+          </button>
+        </div>
+        
+        <div className="stats-content">
+          <div className="stats-actions">
+            {node.personId && (
+              <button 
+                className="action-btn primary"
+                onClick={() => onAction('focus-transmitter', node)}
+              >
+                <ArrowRight size={16} />
+                View Transmitter Network
+              </button>
+            )}
+            
+            {node.hasId && (
+              <button 
+                className="action-btn secondary"
+                onClick={() => window.open(`/bio/${node.hasId}`, '_blank')}
+              >
+                <BookOpen size={16} />
+                View Biography
+              </button>
+            )}
+          </div>
+          
+          <div className="stats-section">
+            <h4>Overview</h4>
+            {node.personId && (
+              <div className="stat-item">
+                <span className="label">Person ID:</span>
+                <span className="value">{node.personId}</span>
+              </div>
+            )}
+            {node.hasId && (
+              <div className="stat-item">
+                <span className="label">Biography ID:</span>
+                <span className="value">{node.hasId}</span>
+              </div>
+            )}
+            <p style={{ color: '#666', fontSize: '13px', marginTop: '10px' }}>
+              Load full profile by viewing the transmitter network.
+            </p>
+          </div>
+        </div>
+      </div>
+    );
+  }
   
   const { transmission_activity, isnad_details } = profile;
   

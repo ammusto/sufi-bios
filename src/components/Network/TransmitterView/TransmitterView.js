@@ -132,6 +132,7 @@ const TransmitterView = ({ personId, data, onViewChange }) => {
             onNodeClick={handleNodeClick}
             selectedNode={selectedNode}
             showPeerConnections={showPeerConnections}
+            orientation="left"
           />
         </div>
         

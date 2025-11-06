@@ -69,7 +69,7 @@ const PersonContextDisplay = ({ person }) => {
                     to={`/bio/${person.bioId}`}
                     className="person-link"
                     onClick={(e) => e.stopPropagation()}
-                    target="_blank"
+                        target="_blank"
 
                 >{person.name}
                 </Link>
@@ -84,8 +84,6 @@ const PersonContextDisplay = ({ person }) => {
                                     to={`/bio/${person.bioId}?tab=${src}`}
                                     className="source-link"
                                     onClick={(e) => e.stopPropagation()}
-                                    target="_blank"
-
                                 >
                                     [{getSourceAbbrev(src)}]
                                 </Link>
@@ -104,7 +102,7 @@ const MappingSufis = () => {
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
     const [locationData, setLocationData] = useState([]);
-    const [setBiosData] = useState({});
+    // const [biosData, setBiosData] = useState({});
     const [stats, setStats] = useState({ totalLocations: 0, totalPeople: 0, totalMentions: 0 });
 
     useEffect(() => {
@@ -128,7 +126,6 @@ const MappingSufis = () => {
                 biosJson.forEach(bio => {
                     biosMap[String(bio.bio_id)] = bio.name_lat || bio.name_ar || `Bio ${bio.bio_id}`;
                 });
-                setBiosData(biosMap);
 
                 // Load geographical_locations.xlsx directly
                 const geoResponse = await fetch('/data/geographical_locations.xlsx');
@@ -249,7 +246,7 @@ const MappingSufis = () => {
         };
 
         loadData();
-    }, [setBiosData]);
+    }, []);
 
     if (loading) return <Layout><Loading /></Layout>;
     if (error) return <Layout><div className="error">Error: {error}</div></Layout>;

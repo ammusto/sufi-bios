@@ -104,7 +104,7 @@ const MappingSufis = () => {
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
     const [locationData, setLocationData] = useState([]);
-    const [biosData, setBiosData] = useState({});
+    const [setBiosData] = useState({});
     const [stats, setStats] = useState({ totalLocations: 0, totalPeople: 0, totalMentions: 0 });
 
     useEffect(() => {
@@ -249,7 +249,7 @@ const MappingSufis = () => {
         };
 
         loadData();
-    }, []);
+    }, [setBiosData]);
 
     if (loading) return <Layout><Loading /></Layout>;
     if (error) return <Layout><div className="error">Error: {error}</div></Layout>;

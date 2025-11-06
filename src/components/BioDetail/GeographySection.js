@@ -77,7 +77,7 @@ const GeographySection = ({ bioId, bioName }) => {
   if (!geoData || geoData.locations.length === 0) return null;
 
   const mappableLocations = geoData.locations.filter(loc => loc.has_coords);
-  const unmappableLocations = geoData.locations.filter(loc => !loc.has_coords);
+//   const unmappableLocations = geoData.locations.filter(loc => !loc.has_coords);
 
   // Parse coordinates and prepare markers
   const markers = mappableLocations.map((loc, idx) => {

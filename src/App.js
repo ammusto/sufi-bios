@@ -5,6 +5,7 @@ import About from './pages/About';
 import BioDetail from './components/BioDetail/BioDetail';
 import TransmitterView from './pages/TransmitterView';
 import TransmitterListView from './pages/TransmitterListView';
+import MappingSufis from './pages/MappingSufis';
 import Layout from './components/Layout/Layout';
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <Route path="/bio/:bioId" element={<BioDetail />} />
       <Route path="/transmitters" element={<TransmitterListView />} />
       <Route path="/network" element={<Layout><TransmitterView /></Layout>} />
+      <Route path="/mapping" element={<MappingSufis />} />
     </Routes>
   );
 }

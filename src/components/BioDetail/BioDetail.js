@@ -4,6 +4,7 @@ import Layout from '../Layout/Layout';
 import BioViewer from './BioViewer';
 import ArticlesSection from './ArticlesSection';
 import BibliographySection from './BibliographySection';
+import GeographySection from './GeographySection';
 import TransmissionNetworkSection from './TransmissionNetworkSection';
 import { loadAllData, loadArticleJson } from '../../utils/dataLoader';
 import Loading from '../common/Loading';
@@ -69,6 +70,11 @@ const BioDetail = () => {
           bio={bio}
           currentTab={currentTab}
           onTabChange={handleTabChange}
+        />
+
+        <GeographySection 
+          bioId={bioId}
+          bioName={bio.name_ar || bio.name_lat}
         />
 
         {articles.length > 0 && (

@@ -2,7 +2,7 @@ export const SOURCE_NAMES = {
   'EI3': 'Encyclopaedia of Islam THREE',
   'EI2': 'Encyclopaedia of Islam Second Edition',
   'EIr': 'Encyclopaedia Iranica',
-  'EIs': 'Encyclopedia of Islam (Supplement)',
+  'EIs': 'Encyclopedia Islamica',
   'DMBI': 'Dānešnāma-ye Bozorg-e Eslāmī',
   'DİA': 'Türkiye Diyanet Vakfı İslâm Ansiklopedisi'
 };

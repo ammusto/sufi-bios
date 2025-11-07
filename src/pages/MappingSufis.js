@@ -282,7 +282,7 @@ const MappingSufis = () => {
                                 <Polyline
                                     key={`route-${i}`}
                                     positions={feature.geometry.coordinates.map(([lon, lat]) => [lat, lon])}
-                                    pathOptions={{ color: '#888', weight: 2, opacity: 0.6 }}
+                                    pathOptions={{ color: '#750000ff', weight: 2, opacity: 0.6 }}
                                 />
                             ))}
 

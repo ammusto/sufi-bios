@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
+import { MapContainer, TileLayer, Marker, Popup, Polyline } from 'react-leaflet';
 import { Link } from 'react-router-dom';
 import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
@@ -18,20 +18,13 @@ L.Icon.Default.mergeOptions({
 // Custom marker with number badge
 const createNumberedIcon = (count) => {
     const color = count === 1 ? '#2196F3' : count < 5 ? '#4CAF50' : count < 10 ? '#FF9800' : '#F44336';
-
     return L.divIcon({
         className: 'custom-marker',
         html: `
-      <div style="
-        position: relative;
-        width: 25px;
-        height: 41px;
-      ">
+      <div style="position: relative; width: 25px; height: 41px;">
         <svg width="25" height="41" viewBox="0 0 25 41" xmlns="http://www.w3.org/2000/svg">
           <path d="M12.5 0C5.6 0 0 5.6 0 12.5c0 9.4 12.5 28.5 12.5 28.5S25 21.9 25 12.5C25 5.6 19.4 0 12.5 0z" 
-                fill="${color}" 
-                stroke="#fff" 
-                stroke-width="1.5"/>
+                fill="${color}" stroke="#fff" stroke-width="1.5"/>
         </svg>
         <div style="
           position: absolute;
@@ -44,8 +37,7 @@ const createNumberedIcon = (count) => {
           font-weight: bold;
           pointer-events: none;
         ">${count}</div>
-      </div>
-    `,
+      </div>`,
         iconSize: [25, 41],
         iconAnchor: [12, 41],
         popupAnchor: [1, -34],
@@ -69,9 +61,9 @@ const PersonContextDisplay = ({ person }) => {
                     to={`/bio/${person.bioId}`}
                     className="person-link"
                     onClick={(e) => e.stopPropagation()}
-                        target="_blank"
-
-                >{person.name}
+                    target="_blank"
+                >
+                    {person.name}
                 </Link>
             </strong>
             <div className="person-contexts">
@@ -102,7 +94,7 @@ const MappingSufis = () => {
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
     const [locationData, setLocationData] = useState([]);
-    // const [biosData, setBiosData] = useState({});
+    const [routesData, setRoutesData] = useState([]); // NEW
     const [stats, setStats] = useState({ totalLocations: 0, totalPeople: 0, totalMentions: 0 });
 
     useEffect(() => {
@@ -115,54 +107,45 @@ const MappingSufis = () => {
                 // Load bios.xlsx for name_lat lookups
                 const biosResponse = await fetch('/data/bios.xlsx');
                 if (!biosResponse.ok) throw new Error('Failed to load bios data');
-
                 const biosArrayBuffer = await biosResponse.arrayBuffer();
                 const biosWorkbook = XLSX.read(biosArrayBuffer, { type: 'array' });
                 const biosSheet = biosWorkbook.Sheets[biosWorkbook.SheetNames[0]];
                 const biosJson = XLSX.utils.sheet_to_json(biosSheet);
 
-                // Create bio_id -> name_lat lookup
                 const biosMap = {};
                 biosJson.forEach(bio => {
                     biosMap[String(bio.bio_id)] = bio.name_lat || bio.name_ar || `Bio ${bio.bio_id}`;
                 });
 
-                // Load geographical_locations.xlsx directly
+                // Load geographical_locations.xlsx
                 const geoResponse = await fetch('/data/geographical_locations.xlsx');
                 if (!geoResponse.ok) throw new Error('Failed to load geographical data');
-
                 const geoArrayBuffer = await geoResponse.arrayBuffer();
                 const geoWorkbook = XLSX.read(geoArrayBuffer, { type: 'array' });
                 const geoSheet = geoWorkbook.Sheets[geoWorkbook.SheetNames[0]];
                 const geoJson = XLSX.utils.sheet_to_json(geoSheet);
 
-                // Aggregate by canonical_name
                 const locationMap = new Map();
                 let totalMentions = 0;
 
                 geoJson.forEach(row => {
                     const canonicalName = row.canonical_name;
                     const coords = row.coords;
-
-                    // Skip if canonical_name is None/empty or coords missing/invalid
                     if (!canonicalName || String(canonicalName).trim() === '' ||
                         String(canonicalName).toLowerCase() === 'none') {
                         return;
                     }
-
                     if (!coords || String(coords).trim() === '' ||
                         String(coords).trim() === '?' || String(coords).trim() === 'nan') {
                         return;
                     }
 
                     totalMentions++;
-
                     const bioId = String(row.bio_id);
                     const bioName = biosMap[bioId];
                     if (!bioName) return;
 
                     const key = canonicalName;
-
                     if (!locationMap.has(key)) {
                         locationMap.set(key, {
                             canonical_name: canonicalName,
@@ -174,12 +157,10 @@ const MappingSufis = () => {
                     }
 
                     const entry = locationMap.get(key);
-
-                    // Track per-person, per-context data with sources
                     if (!entry.peopleData.has(bioName)) {
                         entry.peopleData.set(bioName, {
                             bioId: bioId,
-                            contextsMap: new Map() // Map of context -> Set of sources
+                            contextsMap: new Map(),
                         });
                     }
 
@@ -192,50 +173,63 @@ const MappingSufis = () => {
                     }
                     personData.contextsMap.get(context).add(source);
 
-                    if (source) {
-                        entry.allSources.add(source);
-                    }
+                    if (source) entry.allSources.add(source);
                 });
 
-                // Convert to array and parse coordinates
-                const locationsArray = Array.from(locationMap.values()).map(loc => {
-                    const [lat, lng] = loc.coords.split(',').map(s => parseFloat(s.trim()));
+                const locationsArray = Array.from(locationMap.values())
+                    .map(loc => {
+                        const [lat, lng] = loc.coords
+                            .replace(/\u00A0/g, ' ')
+                            .split(',')
+                            .map(s => parseFloat(s.trim()));
+                        if (isNaN(lat) || isNaN(lng)) return null;
 
-                    // Convert peopleData Map to sorted array with consolidated contexts
-                    const peopleArray = Array.from(loc.peopleData.entries())
-                        .map(([name, personData]) => {
-                            // Group sources by context: [{context: "died", sources: ["sulami", "ansari"]}]
-                            const contexts = Array.from(personData.contextsMap.entries())
-                                .sort(([a], [b]) => a.localeCompare(b))
-                                .map(([context, sourcesSet]) => ({
-                                    context,
-                                    sources: Array.from(sourcesSet).sort()
-                                }));
+                        const peopleArray = Array.from(loc.peopleData.entries())
+                            .map(([name, personData]) => {
+                                const contexts = Array.from(personData.contextsMap.entries())
+                                    .sort(([a], [b]) => a.localeCompare(b))
+                                    .map(([context, sourcesSet]) => ({
+                                        context,
+                                        sources: Array.from(sourcesSet).sort(),
+                                    }));
+                                return {
+                                    name,
+                                    bioId: personData.bioId,
+                                    contexts,
+                                };
+                            })
+                            .sort((a, b) => a.name.localeCompare(b.name, 'ar'));
 
-                            return {
-                                name,
-                                bioId: personData.bioId,
-                                contexts
-                            };
-                        })
-                        .sort((a, b) => a.name.localeCompare(b.name, 'ar'));
-
-                    return {
-                        canonical_name: loc.canonical_name,
-                        english_transliteration: loc.english_transliteration,
-                        lat,
-                        lng,
-                        people: peopleArray,
-                        allSources: Array.from(loc.allSources).sort(),
-                    };
-                }).filter(loc => !isNaN(loc.lat) && !isNaN(loc.lng));
+                        return {
+                            canonical_name: loc.canonical_name,
+                            english_transliteration: loc.english_transliteration,
+                            lat,
+                            lng,
+                            people: peopleArray,
+                            allSources: Array.from(loc.allSources).sort(),
+                        };
+                    })
+                    .filter(Boolean);
 
                 setLocationData(locationsArray);
                 setStats({
                     totalLocations: locationsArray.length,
                     totalPeople: new Set(locationsArray.flatMap(l => l.people.map(p => p.name))).size,
-                    totalMentions: totalMentions
+                    totalMentions,
                 });
+
+                // --- NEW: Load sufi_routes.json ---
+                try {
+                    const routeResp = await fetch('/data/sufi_routes.json');
+                    if (routeResp.ok) {
+                        const routeJson = await routeResp.json();
+                        setRoutesData(routeJson.features || []);
+                    } else {
+                        console.warn('No sufi_routes.json found.');
+                    }
+                } catch (rerr) {
+                    console.warn('Error loading sufi_routes.json:', rerr);
+                }
 
             } catch (err) {
                 console.error('Error loading mapping data:', err);
@@ -244,7 +238,6 @@ const MappingSufis = () => {
                 setLoading(false);
             }
         };
-
         loadData();
     }, []);
 
@@ -271,25 +264,29 @@ const MappingSufis = () => {
 
                 {locationData.length === 0 ? (
                     <div className="mapping-empty-state">
-                        <p className="mapping-empty-state-title">
-                            No geographical data available yet.
-                        </p>
+                        <p className="mapping-empty-state-title">No geographical data available yet.</p>
                         <p className="mapping-empty-state-subtitle">
                             Geography JSON files will appear after running the extraction script.
                         </p>
                     </div>
                 ) : (
                     <div className="mapping-map-container">
-                        <MapContainer
-                            center={[30, 50]}
-                            zoom={4}
-                            style={{ height: '700px', width: '100%' }}
-                        >
+                        <MapContainer center={[30, 50]} zoom={4} style={{ height: '700px', width: '100%' }}>
                             <TileLayer
                                 attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
                                 url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png"
                             />
 
+                            {/* NEW: draw route paths */}
+                            {routesData.map((feature, i) => (
+                                <Polyline
+                                    key={`route-${i}`}
+                                    positions={feature.geometry.coordinates.map(([lon, lat]) => [lat, lon])}
+                                    pathOptions={{ color: '#888', weight: 2, opacity: 0.6 }}
+                                />
+                            ))}
+
+                            {/* Existing markers */}
                             {locationData.map((location, idx) => (
                                 <Marker
                                     key={idx}
@@ -301,7 +298,6 @@ const MappingSufis = () => {
                                             <div className="map-popup-title">
                                                 {location.english_transliteration} - {location.canonical_name}
                                             </div>
-
                                             <div className="map-popup-people">
                                                 <strong className="map-popup-people-header">
                                                     People associated with this location ({location.people.length}):
@@ -324,20 +320,16 @@ const MappingSufis = () => {
                     <h3>Legend</h3>
                     <div className="mapping-legend-items">
                         <div className="mapping-legend-item">
-                            <div className="mapping-legend-dot mapping-legend-dot-blue"></div>
-                            <span>1 person</span>
+                            <div className="mapping-legend-dot mapping-legend-dot-blue"></div><span>1 person</span>
                         </div>
                         <div className="mapping-legend-item">
-                            <div className="mapping-legend-dot mapping-legend-dot-green"></div>
-                            <span>2-4 people</span>
+                            <div className="mapping-legend-dot mapping-legend-dot-green"></div><span>2–4 people</span>
                         </div>
                         <div className="mapping-legend-item">
-                            <div className="mapping-legend-dot mapping-legend-dot-orange"></div>
-                            <span>5-9 people</span>
+                            <div className="mapping-legend-dot mapping-legend-dot-orange"></div><span>5–9 people</span>
                         </div>
                         <div className="mapping-legend-item">
-                            <div className="mapping-legend-dot mapping-legend-dot-red"></div>
-                            <span>10+ people</span>
+                            <div className="mapping-legend-dot mapping-legend-dot-red"></div><span>10+ people</span>
                         </div>
                     </div>
                 </div>

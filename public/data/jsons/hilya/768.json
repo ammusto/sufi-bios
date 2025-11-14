@@ -1,0 +1,203 @@
+{
+  "bio_id": "768",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الرحمن بن محمد بن أحمد الواعظ",
+          "person_id": 1075,
+          "canonical_name": "أبو مسلم عبد الرحمن بن محمد بن أحمد الواعظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله محمد بن الحسين الخشوعي",
+          "person_id": 907,
+          "canonical_name": "أبو عبد الله محمد بن الحسين الخشوعي",
+          "has_id": 768,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن أمية",
+          "person_id": 1399,
+          "canonical_name": "جعفر بن أمية",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أيوب الرازي",
+          "person_id": 2322,
+          "canonical_name": "محمد بن أيوب الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الأصمعي",
+          "person_id": 1891,
+          "canonical_name": "عبد الملك بن قريب الأصمعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر بن عياش",
+          "person_id": 675,
+          "canonical_name": "أبو بكر بن عياش",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عاصم بن أبي النجود",
+          "person_id": 1707,
+          "canonical_name": "عاصم بن أبي النجود",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الرحمن بن محمد بن أحمد الواعظ ثنا أبو عبد الله محمد بن الحسين الخشوعي ثنا جعفر بن أمية ثنا محمد بن أيوب الرازي ثنا الأصمعي ثنا أبو بكر بن عياش عن عاصم بن أبي النجود",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو مسلم محمد بن إبراهيم الغزال",
+          "person_id": 1076,
+          "canonical_name": "أبو مسلم محمد بن إبراهيم الغزال",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسين الخشوعي العابد",
+          "person_id": 907,
+          "canonical_name": "أبو عبد الله محمد بن الحسين الخشوعي",
+          "has_id": 768,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين بن عبد الله بن الحسن",
+          "person_id": 118,
+          "canonical_name": "الحسين بن عبد الله بن الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر ابن خلاد",
+          "person_id": 668,
+          "canonical_name": "أبو بكر بن خلاد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يحيى",
+          "person_id": 2623,
+          "canonical_name": "يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبيد الله",
+          "person_id": 1924,
+          "canonical_name": "عبيد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "نافع",
+          "person_id": 2576,
+          "canonical_name": "نافع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "صفية",
+          "person_id": 1690,
+          "canonical_name": "صفية",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بعض أزواج النبي",
+          "person_id": 1335,
+          "canonical_name": "بعض أزواج النبي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "النبي ﷺ",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو مسلم محمد بن إبراهيم الغزال - في داره قراءة عليه - قال حدثني محمد بن الحسين الخشوعي العابد ثنا الحسين بن عبد الله بن الحسن ثنا أبو بكر ابن خلاد ثنا يحيى ثنا عبيد الله عن نافع عن صفية عن بعض أزواج النبي عن\nالنبي ﷺ",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [
+      {
+        "name": "أبو الحسن علي بن أحمد بن المرزبان الأسواري",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "تخرج به",
+        "full_text": "تخرج به جماعة من السباق والرواد. منهم أبو الحسن علي بن أحمد بن المرزبان الأسواري",
+        "person_id": 427,
+        "canonical_name": "أبو الحسن علي بن أحمد بن المرزبان الأسواري",
+        "has_id": NaN
+      },
+      {
+        "name": "سليم بن عبد الله بن المرزبان أبو بكر الواعظ",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "تخرج به",
+        "full_text": "وسليم بن عبد الله بن المرزبان أبو بكر الواعظ",
+        "person_id": 1620,
+        "canonical_name": "سليم بن عبد الله بن المرزبان أبو بكر الواعظ",
+        "has_id": NaN
+      },
+      {
+        "name": "عبد الله بن محمد بن صالح",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "تخرج به",
+        "full_text": "وبعدهما من المذكورين والمشهورين عبد الله بن محمد بن صالح",
+        "person_id": 1872,
+        "canonical_name": "عبد الله بن محمد بن صالح",
+        "has_id": NaN
+      },
+      {
+        "name": "أبو عثمان بن أبي هريرة",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "تخرج به",
+        "full_text": "وأبو عثمان بن أبي هريرة",
+        "person_id": 938,
+        "canonical_name": "أبو عثمان بن أبي هريرة",
+        "has_id": NaN
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "عاصم بن أبي النجود",
+      "relationship_type": "narrator",
+      "context": "last_in_isnad",
+      "full_text": "عن عاصم بن أبي النجود قال",
+      "person_id": 1707,
+      "canonical_name": "عاصم بن أبي النجود",
+      "has_id": NaN
+    },
+    {
+      "name": "النبي ﷺ",
+      "relationship_type": "narrator",
+      "context": "last_in_isnad",
+      "full_text": "عن\nالنبي ﷺ قال",
+      "person_id": 246,
+      "canonical_name": "النبي",
+      "has_id": NaN
+    }
+  ]
+}

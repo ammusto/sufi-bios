@@ -1,0 +1,125 @@
+{
+  "bio_id": "441",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "حمص",
+      "context": "nisba",
+      "full_text": "الحمصي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو بكر الآجري",
+          "person_id": 689,
+          "canonical_name": "أبو بكر محمد بن الحسين الآجري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد العطشي",
+          "person_id": 1861,
+          "canonical_name": "عبد الله بن محمد العطشي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن الجنيد",
+          "person_id": 292,
+          "canonical_name": "إبراهيم بن الجنيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عون بن إبراهيم بن الصلت",
+          "person_id": 2135,
+          "canonical_name": "عون بن إبراهيم بن الصلت",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن الغمر الحمصي",
+          "person_id": 1166,
+          "canonical_name": "أحمد بن الغمر الحمصي",
+          "has_id": 441,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن المبارك الصوري",
+          "person_id": 2259,
+          "canonical_name": "محمد بن المبارك الصوري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو بكر الآجري ثنا عبد الله بن محمد العطشي ثنا إبراهيم بن الجنيد ثنا عون بن إبراهيم بن الصلت قال: حدثني أحمد بن الغمر الحمصي قال: سمعت محمد بن المبارك الصوري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إبراهيم بن الجنيد",
+          "person_id": 292,
+          "canonical_name": "إبراهيم بن الجنيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1166,
+          "canonical_name": "أحمد بن الغمر الحمصي",
+          "has_id": 441,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال إبراهيم بن الجنيد: وأنشدني شيخ من طلبة العلم لبعضهم:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "محمد بن المبارك الصوري",
+      "relationship_type": "narrator",
+      "full_text": "قال: سمعت محمد بن المبارك الصوري",
+      "person_id": 2259,
+      "canonical_name": "محمد بن المبارك الصوري",
+      "has_id": NaN
+    },
+    {
+      "name": "راهب",
+      "relationship_type": "interlocutor",
+      "context": "respondent",
+      "full_text": "قال قلت لراهب: متى يبلغ الرجل حقيقة الأنس بالله؟",
+      "person_id": 1524,
+      "canonical_name": "راهب",
+      "has_id": NaN
+    },
+    {
+      "name": "إبراهيم بن الجنيد",
+      "relationship_type": "narrator",
+      "full_text": "قال إبراهيم بن الجنيد: وأنشدني شيخ من طلبة العلم لبعضهم",
+      "person_id": 292,
+      "canonical_name": "إبراهيم بن الجنيد",
+      "has_id": NaN
+    },
+    {
+      "name": "شيخ من طلبة العلم",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "reciter",
+      "full_text": "وأنشدني شيخ من طلبة العلم لبعضهم",
+      "person_id": 2538,
+      "canonical_name": "من طلبة العلم",
+      "has_id": NaN
+    }
+  ]
+}

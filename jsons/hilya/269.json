@@ -1,0 +1,98 @@
+{
+  "bio_id": "269",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو بكر محمد بن أحمد بن المفيد",
+          "person_id": 647,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عمرو العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الصمد بن محمد الجبلي",
+          "person_id": 1766,
+          "canonical_name": "عبد الصمد بن محمد الجبلي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا بها أبو بكر محمد بن أحمد بن المفيد وحدثنا بها عنه أبو عمرو العثماني ثنا عبد الصمد بن محمد الجبلي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي محمد الجريري",
+          "person_id": 1035,
+          "canonical_name": "أبو محمد الجريري",
+          "has_id": 431,
+          "subj_added": false
+        },
+        {
+          "name": "أبا إسحاق المارستاني",
+          "person_id": 573,
+          "canonical_name": "أبو إسحاق إبراهيم المارستاني",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن بن مقسم يحكي عن أبي محمد الجريري قال سمعت أبا إسحاق المارستاني يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "الجنيد",
+        "relationship_type": "peer",
+        "relationship_phrase": "كان الجنيد له مواخيا",
+        "full_text": "كان الجنيد له مواخيا، وعليه حاميا وحانيا.",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "عبد الصمد بن محمد الجبلي",
+      "relationship_type": "narrator",
+      "full_text": "ثنا عبد الصمد بن محمد الجبلي قال",
+      "person_id": 1766,
+      "canonical_name": "عبد الصمد بن محمد الجبلي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبي محمد الجريري",
+      "relationship_type": "narrator",
+      "full_text": "يحكي عن أبي محمد الجريري قال",
+      "person_id": 1035,
+      "canonical_name": "أبو محمد الجريري",
+      "has_id": 431
+    },
+    {
+      "name": "الخضر ﵇",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "رأيت الخضر ﵇ فعلمنى عشر كلمات - وأحصاها بيده -",
+      "person_id": 145,
+      "canonical_name": "الخضر",
+      "has_id": NaN
+    }
+  ]
+}

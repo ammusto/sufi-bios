@@ -1,0 +1,88 @@
+{
+  "bio_id": "394",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "من أهل بغداد"
+    },
+    {
+      "place": "باب المحول",
+      "context": "lived",
+      "full_text": "سكن باب المحول"
+    },
+    {
+      "place": "باب المحول",
+      "context": "nisba",
+      "full_text": "فنسب إليه"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد بن عمر",
+          "person_id": 2312,
+          "canonical_name": "محمد بن أحمد بن عمر العبدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1046,
+          "canonical_name": "أبو محمد أحمد بن عمر العبدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1855,
+          "canonical_name": "عبد الله بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي ابن أبي مريم",
+          "person_id": 2017,
+          "canonical_name": "علي بن أبي مريم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن أبي حبيب",
+          "person_id": 1809,
+          "canonical_name": "عبد الله بن أبي حبيب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو جعفر المحولي",
+          "person_id": 741,
+          "canonical_name": "أبو جعفر المحولي",
+          "has_id": 394,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن أحمد بن عمر ثنا أبي ثنا عبد الله بن محمد قال: حدثني علي ابن أبي مريم عن عبد الله بن أبي حبيب. قال سمعت أبا جعفر المحولي يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "عبد الله بن أبي حبيب",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت أبا جعفر المحولي يقول",
+      "person_id": 1809,
+      "canonical_name": "عبد الله بن أبي حبيب",
+      "has_id": NaN
+    }
+  ]
+}

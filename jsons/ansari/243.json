@@ -1,0 +1,348 @@
+{
+  "bio_id": "243",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "187",
+    "full_text": "وفات وی در محرم بوده، سنه سبع و ثانین و مائه",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "کوفه",
+      "context": "nisba",
+      "full_text": "الکوفی"
+    },
+    {
+      "place": "کوفه",
+      "context": "born",
+      "full_text": "باصل ازکوفه است"
+    },
+    {
+      "place": "مکه",
+      "context": "lived",
+      "full_text": "در مکه بوده مجاور سالها"
+    },
+    {
+      "place": "خراسان",
+      "context": "born",
+      "full_text": "وگفتهاند باصل از خراسان بوده"
+    },
+    {
+      "place": "مرو",
+      "context": "born",
+      "full_text": "از ناحیت مرو"
+    },
+    {
+      "place": "فندین",
+      "context": "born",
+      "full_text": "از دیه فندین"
+    },
+    {
+      "place": "سمرقند",
+      "context": "born",
+      "full_text": "وی بسمرقندزاده"
+    },
+    {
+      "place": "باورد",
+      "context": "lived",
+      "full_text": "باورد بزرگ شده"
+    },
+    {
+      "place": "بخارا",
+      "context": "born",
+      "full_text": "بخاری اصل است"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "فضیل عیاض",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت قدس اللّه روحه: کی فضیل عیاض گوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "و انشدنا لموحمود الوراق1",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "وهب منبه",
+          "person_id": 2620,
+          "canonical_name": "وهب بن منبه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی وهب منبه از تابعین است حکیم امت وی گوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلامگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وگفت الهی",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "وانشدنا لا بی یزید البسطامی٭",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن سعید الفرنجی",
+          "person_id": 2358,
+          "canonical_name": "محمد بن سعيد الفرنجي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت رضی اللهّ عنه: که محمد بن سعید الفرنجی را پرسیدندکه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت عظم اللّه برکته",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: زراه بن اوفی ٭ قاضی بصره از تابعین است",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که از دوست نشان و از عارف جان:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "یوسف اسباط",
+          "person_id": 2677,
+          "canonical_name": "يوسف بن أسباط",
+          "has_id": 846,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت که اوگفته: کی دوستان او را سه چیز بدادهاند",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی آن سه چیز، این طایفه را بدهدهاندکه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "و انشدنا لمجنون العامری",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: دانی که آن حلاوت و ملاحت از چیست؟",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [
+      {
+        "name": "عبداللّه مبارک",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "از استاذان",
+        "full_text": "از استاذان عبداللّه مبارک",
+        "person_id": 1804,
+        "canonical_name": "عبد الله بن المبارك",
+        "has_id": 668
+      }
+    ],
+    "companions": [
+      {
+        "name": "ثوری",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "از اقران ثوری و مالک",
+        "person_id": 66,
+        "canonical_name": "الثوري",
+        "has_id": NaN
+      },
+      {
+        "name": "مالک",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "از اقران ثوری و مالک",
+        "person_id": 2203,
+        "canonical_name": "مالك",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "direct_narrator",
+      "context": "",
+      "full_text": "شیخ الاسلام گفت قدس اللّه روحه",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "محمود الوراق",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "شعر",
+      "full_text": "و انشدنا لموحمود الوراق1",
+      "person_id": 2482,
+      "canonical_name": "محمود الوراق",
+      "has_id": NaN
+    },
+    {
+      "name": "وهب منبه",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "از تابعین",
+      "full_text": "شیخ الاسلام گفت: کی وهب منبه از تابعین است حکیم امت وی گوید",
+      "person_id": 2620,
+      "canonical_name": "وهب بن منبه",
+      "has_id": NaN
+    },
+    {
+      "name": "ابویزید البسطامی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "شعر",
+      "full_text": "وانشدنا لا بی یزید البسطامی٭",
+      "person_id": 1128,
+      "canonical_name": "أبو يزيد البسطامي",
+      "has_id": 435
+    },
+    {
+      "name": "محمد بن سعید الفرنجی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "در باب «سفله کی است؟» پاسخ داد",
+      "full_text": "شیخ الاسلام گفت رضی اللهّ عنه: که محمد بن سعید الفرنجی را پرسیدندکه سفله کی است؟ گفت: او که اللّه پرستد بر بیم و امید",
+      "person_id": 2358,
+      "canonical_name": "محمد بن سعيد الفرنجي",
+      "has_id": NaN
+    },
+    {
+      "name": "علی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "پسر فضیل عیاض",
+      "full_text": "فضیل عیاض را پسری بود علی نام",
+      "person_id": 1984,
+      "canonical_name": "علي",
+      "has_id": NaN
+    },
+    {
+      "name": "زراه بن اوفی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "قاضی بصره",
+      "full_text": "شیخ الاسلام گفت: زراه بن اوفی ٭ قاضی بصره از تابعین است",
+      "person_id": 1558,
+      "canonical_name": "زراه بن اوفي",
+      "has_id": NaN
+    },
+    {
+      "name": "یوسف اسباط",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "از متقد مانست از ایمه شرعست",
+      "full_text": "یوسف اسباط از متقد مانست از ایمه شرعست و سید در زهد و ورع",
+      "person_id": 2677,
+      "canonical_name": "يوسف بن أسباط",
+      "has_id": 846
+    },
+    {
+      "name": "ذوالنون مصری",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "این سخن گفته پس از وی",
+      "full_text": "و ذوالنون مصری ٭ این سخن گفته پس از وی",
+      "person_id": 1523,
+      "canonical_name": "ذو النون المصري",
+      "has_id": 570
+    },
+    {
+      "name": "مخلد بن حسین",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "هم این سخن گفته",
+      "full_text": "و هم ملاحت گفته مات مخلد بن حسین سنه احدی و تسعین و مائة",
+      "person_id": 2489,
+      "canonical_name": "مخلد بن حسين",
+      "has_id": NaN
+    },
+    {
+      "name": "وکیع بن الجراح",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "معه ذکر وفات یوسف اسباط",
+      "full_text": "مع وکیع بن الجراح و بقیه بن الوید",
+      "person_id": 2618,
+      "canonical_name": "وكيع بن الجراح",
+      "has_id": NaN
+    },
+    {
+      "name": "بقیه بن الوید",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "معه ذکر وفات یوسف اسباط",
+      "full_text": "مع وکیع بن الجراح و بقیه بن الوید",
+      "person_id": 1349,
+      "canonical_name": "بقيه بن الويد",
+      "has_id": NaN
+    },
+    {
+      "name": "مجنون العامری",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "شعر",
+      "full_text": "و انشدنا لمجنون العامری",
+      "person_id": 2210,
+      "canonical_name": "مجنون العامري",
+      "has_id": NaN
+    }
+  ]
+}

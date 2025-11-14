@@ -1,0 +1,121 @@
+{
+  "bio_id": "49",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بردع",
+      "context": "nisba",
+      "full_text": "بردعی"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "احمد بن محمد بن هرون البردعی الصوفی",
+          "person_id": 1265,
+          "canonical_name": "أبو العباس أحمد بن محمد بن هارون البردعي الصوفي",
+          "has_id": 49,
+          "subj_added": false
+        },
+        {
+          "name": "شیخ بوبکر طاهر ابهری",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "از شیخ بوبکر طاهر ابهری حکایت کند",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "احمد بن محمد بن هرون البردعی الصوفی",
+          "person_id": 1265,
+          "canonical_name": "أبو العباس أحمد بن محمد بن هارون البردعي الصوفي",
+          "has_id": 49,
+          "subj_added": false
+        },
+        {
+          "name": "مرتعش",
+          "person_id": 1043,
+          "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
+          "has_id": 251,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "و از مرتعش٭",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "احمد بن محمد بن هرون البردعی الصوفی",
+          "person_id": 1265,
+          "canonical_name": "أبو العباس أحمد بن محمد بن هارون البردعي الصوفي",
+          "has_id": 49,
+          "subj_added": false
+        },
+        {
+          "name": "مرتعش",
+          "person_id": 1043,
+          "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
+          "has_id": 251,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وی گوید: که مرتعش گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "احمد بن محمد بن هرون البردعی الصوفی",
+          "person_id": 1265,
+          "canonical_name": "أبو العباس أحمد بن محمد بن هارون البردعي الصوفي",
+          "has_id": 49,
+          "subj_added": false
+        },
+        {
+          "name": "بوبکر طاهر ابهری",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "و هم وی گوید: که بوبکر طاهر ابهری گوید",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "مرتعش",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "مرتعش گفت هرکه دیدار وی ترا منفعت نکند سخن و علم وی ترا منفعت نکند",
+      "person_id": 1043,
+      "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
+      "has_id": 251
+    },
+    {
+      "name": "شیخ بوبکر طاهر ابهری",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "از شیخ بوبکر طاهر ابهری حکایت کند",
+      "person_id": 686,
+      "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+      "has_id": 29
+    }
+  ]
+}

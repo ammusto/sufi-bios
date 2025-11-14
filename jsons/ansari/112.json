@@ -1,0 +1,74 @@
+{
+  "bio_id": "112",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "328",
+    "full_text": "سنه ثمان و عشرین برفته و ثلثلمائه.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "نشاپور",
+      "context": "lived",
+      "full_text": "بنشاپور عالم بوده در علم شرع و هرفن"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "حفص حداد",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده",
+        "full_text": "باحفص حداد٭ دیده و حمدون گارز",
+        "person_id": 759,
+        "canonical_name": "أبو حفص الحداد النيسابوري",
+        "has_id": 715
+      },
+      {
+        "name": "حمدون گارز",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده",
+        "full_text": "باحفص حداد٭ دیده و حمدون گارز",
+        "person_id": 827,
+        "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+        "has_id": 524
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "بوعثمان حیری",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "praiser",
+      "full_text": "و بوعثمان حیری٭ ویرا نیکوگفتی.",
+      "person_id": 932,
+      "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+      "has_id": 419
+    }
+  ]
+}

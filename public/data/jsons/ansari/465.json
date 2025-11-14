@@ -1,0 +1,29 @@
+{
+  "bio_id": "465",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "بغدادیست"
+    }
+  ],
+  "isnads": [],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "جنید",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "از اقران جنید است",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ]
+  },
+  "associates": []
+}

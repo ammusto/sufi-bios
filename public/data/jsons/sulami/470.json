@@ -1,0 +1,1090 @@
+{
+  "bio_id": "470",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "227",
+    "full_text": "مَاتَ بشر بن الْحَارِث يَوْم الْأَرْبَعَاء لعشر خلون من الْمحرم سنة سبع وَعشْرين وَمِائَتَيْنِ",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "مرو",
+      "context": "born",
+      "full_text": "أَصله من مرو"
+    },
+    {
+      "place": "بكرد",
+      "context": "born",
+      "full_text": "من قَرْيَة بكرد أَو مابرسام"
+    },
+    {
+      "place": "مابرسام",
+      "context": "born",
+      "full_text": "من قَرْيَة بكرد أَو مابرسام"
+    },
+    {
+      "place": "بَغْدَاد",
+      "context": "lived",
+      "full_text": "سكن بَغْدَاد"
+    },
+    {
+      "place": "بَغْدَاد",
+      "context": "died",
+      "full_text": "وَمَات بهَا"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن مَنْصُور النوشري",
+          "person_id": 1272,
+          "canonical_name": "أحمد بن منصور النوشري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن مخلد",
+          "person_id": 33,
+          "canonical_name": "ابن مخلد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الرَّحْمَن بن عَليّ بن خشرم",
+          "person_id": 1751,
+          "canonical_name": "عبد الرحمن بن علي بن خشرم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "كَذَلِك ذكره عبد الرَّحْمَن بن عَليّ بن خشرم فِيمَا أخبرنَا أَحْمد بن مَنْصُور النوشري عَن ابْن مخلد عَنهُ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "يحيى بن أَكْثَم",
+          "person_id": 2637,
+          "canonical_name": "يحيى بن أكثم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قَالَ يحيى بن أَكْثَم قَالَ لي الْمَأْمُون لم يبْق فِي هَذِه الكورة أحد يستحى مِنْهُ غير هَذَا الشَّيْخ بشر بن الْحَارِث",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا مُحَمَّد عبد الله بن أَحْمد بن جَعْفَر",
+          "person_id": 1056,
+          "canonical_name": "أبو محمد عبد الله بن أحمد بن جعفر الشيباني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْعَبَّاس بن عبد الله بن أَحْمد بن عِصَام الْبَغْدَادِيّ",
+          "person_id": 180,
+          "canonical_name": "العباس بن عبد الله بن أحمد بن عصام البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جَعْفَر بن عبد الله بن أَحْمد البرداني",
+          "person_id": 1403,
+          "canonical_name": "جعفر بن عبد الله بن أحمد البرداني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يحيى بن أَكْثَم",
+          "person_id": 2637,
+          "canonical_name": "يحيى بن أكثم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا مُحَمَّد عبد الله بن أَحْمد بن جَعْفَر يَقُول سَمِعت الْعَبَّاس بن عبد الله بن أَحْمد بن عِصَام الْبَغْدَادِيّ يَقُول سَمِعت جَعْفَر بن عبد الله بن أَحْمد البرداني يَقُول قَالَ يحيى بن أَكْثَم هَذَا مَاتَ بشر بن الْحَارِث يَوْم الْأَرْبَعَاء لعشر خلون من الْمحرم سنة سبع وَعشْرين وَمِائَتَيْنِ وَأسْندَ الحَدِيث",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو عَمْرو سعيد بن الْقَاسِم بن الْعَلَاء البرذعي",
+          "person_id": 1019,
+          "canonical_name": "أبو عمرو سعيد بن القاسم بن العلاء البرذعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو طَلْحَة أَحْمد بن مُحَمَّد بن عبد الْكَرِيم",
+          "person_id": 837,
+          "canonical_name": "أبو طلحة أحمد بن محمد بن عبد الكريم القارئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن مُحَمَّد بن أبي الْورْد العابد",
+          "person_id": 2440,
+          "canonical_name": "محمد بن محمد بن أبي الورد العابد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بشر بن الْحَارِث الحافي",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا أَبُو عَمْرو سعيد بن الْقَاسِم بن الْعَلَاء البرذعي أخبرنَا أَبُو طَلْحَة أَحْمد بن مُحَمَّد بن عبد الْكَرِيم أخبرنَا مُحَمَّد بن مُحَمَّد بن أبي الْورْد العابد قَالَ سَمِعت بشر بن الْحَارِث الحافي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبيد الله بن عُثْمَان",
+          "person_id": 1931,
+          "canonical_name": "عبيد الله بن عثمان بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عَمْرو بن السماك",
+          "person_id": 1017,
+          "canonical_name": "أبو عمرو بن السماك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عَمْرو السبيعِي",
+          "person_id": 99,
+          "canonical_name": "الحسن بن عمرو السبيعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بشر بن الْحَارِث",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا عبيد الله بن عُثْمَان قَالَ حَدثنَا أَبُو عَمْرو بن السماك حَدثنَا الْحسن بن عَمْرو السبيعِي قَالَ سَمِعت بشر بن الْحَارِث يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبيد الله بن عُثْمَان",
+          "person_id": 1931,
+          "canonical_name": "عبيد الله بن عثمان بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عَمْرو بن السماك",
+          "person_id": 1017,
+          "canonical_name": "أبو عمرو بن السماك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عَمْرو السبيعِي",
+          "person_id": 99,
+          "canonical_name": "الحسن بن عمرو السبيعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بشر بن الْحَارِث",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده قَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبيد الله بن عُثْمَان",
+          "person_id": 1931,
+          "canonical_name": "عبيد الله بن عثمان بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عَمْرو بن السماك",
+          "person_id": 1017,
+          "canonical_name": "أبو عمرو بن السماك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عَمْرو السبيعِي",
+          "person_id": 99,
+          "canonical_name": "الحسن بن عمرو السبيعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بشر بن الْحَارِث",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبيد الله بن عُثْمَان",
+          "person_id": 1931,
+          "canonical_name": "عبيد الله بن عثمان بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عَمْرو بن السماك",
+          "person_id": 1017,
+          "canonical_name": "أبو عمرو بن السماك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عَمْرو السبيعِي",
+          "person_id": 99,
+          "canonical_name": "الحسن بن عمرو السبيعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بشر بن الْحَارِث",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبيد الله بن عُثْمَان",
+          "person_id": 1931,
+          "canonical_name": "عبيد الله بن عثمان بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عَمْرو بن السماك",
+          "person_id": 1017,
+          "canonical_name": "أبو عمرو بن السماك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عَمْرو السبيعِي",
+          "person_id": 99,
+          "canonical_name": "الحسن بن عمرو السبيعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بشر بن الْحَارِث",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبيد الله بن عُثْمَان",
+          "person_id": 1931,
+          "canonical_name": "عبيد الله بن عثمان بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عَمْرو بن السماك",
+          "person_id": 1017,
+          "canonical_name": "أبو عمرو بن السماك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عَمْرو السبيعِي",
+          "person_id": 99,
+          "canonical_name": "الحسن بن عمرو السبيعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بشر بن الْحَارِث",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبيد الله بن عُثْمَان",
+          "person_id": 1931,
+          "canonical_name": "عبيد الله بن عثمان بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عَمْرو بن السماك",
+          "person_id": 1017,
+          "canonical_name": "أبو عمرو بن السماك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عَمْرو السبيعِي",
+          "person_id": 99,
+          "canonical_name": "الحسن بن عمرو السبيعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بشر بن الْحَارِث",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده قَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو عَبَّاس مُحَمَّد بن الْحسن بن الخشاب",
+          "person_id": 508,
+          "canonical_name": "أبو العباس محمد بن الحسن بن الخشاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن مُحَمَّد بن صَالح",
+          "person_id": 1255,
+          "canonical_name": "أحمد بن محمد بن صالح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبدون",
+          "person_id": 2396,
+          "canonical_name": "محمد بن عبدون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حسن المسوحي",
+          "person_id": 1445,
+          "canonical_name": "حسن المسوحي",
+          "has_id": 512,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حَدثنَا أَبُو عَبَّاس مُحَمَّد بن الْحسن بن الخشاب قَالَ أخبرنَا أَحْمد بن مُحَمَّد بن صَالح قَالَ حَدثنَا مُحَمَّد بن عبدون قَالَ حَدثنَا حسن المسوحي قَالَ رَآنِي بشر بن الْحَارِث يَوْمًا بَارِدًا وَأَنا أرتعد من الْبرد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو عَبَّاس مُحَمَّد بن الْحسن بن الخشاب",
+          "person_id": 508,
+          "canonical_name": "أبو العباس محمد بن الحسن بن الخشاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن مُحَمَّد بن صَالح",
+          "person_id": 1255,
+          "canonical_name": "أحمد بن محمد بن صالح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبدون",
+          "person_id": 2396,
+          "canonical_name": "محمد بن عبدون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حسن المسوحي",
+          "person_id": 1445,
+          "canonical_name": "حسن المسوحي",
+          "has_id": 512,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده قَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو عَبَّاس مُحَمَّد بن الْحسن بن الخشاب",
+          "person_id": 508,
+          "canonical_name": "أبو العباس محمد بن الحسن بن الخشاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن مُحَمَّد بن صَالح",
+          "person_id": 1255,
+          "canonical_name": "أحمد بن محمد بن صالح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبدون",
+          "person_id": 2396,
+          "canonical_name": "محمد بن عبدون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حسن المسوحي",
+          "person_id": 1445,
+          "canonical_name": "حسن المسوحي",
+          "has_id": 512,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبيد الله بن عُثْمَان بن يحيى",
+          "person_id": 1931,
+          "canonical_name": "عبيد الله بن عثمان بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عَمْرو بن السماك",
+          "person_id": 1017,
+          "canonical_name": "أبو عمرو بن السماك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن مُحَمَّد الْفَزارِيّ",
+          "person_id": 1243,
+          "canonical_name": "أحمد بن محمد الفزاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن خبيق",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        },
+        {
+          "name": "بشر",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا عبيد الله بن عُثْمَان بن يحيى حَدثنَا أَبُو عَمْرو بن السماك حَدثنَا أَحْمد بن مُحَمَّد الْفَزارِيّ حَدثنَا عبد الله بن خبيق قَالَ قَالَ بشر أَرْبَعَة رفعهم الله بِطيب الْمطعم وهيب بن الْورْد وَإِبْرَاهِيم بن أدهم ويوسف ابْن أَسْبَاط وَسَالم الْخَواص",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبيد الله بن عُثْمَان",
+          "person_id": 1931,
+          "canonical_name": "عبيد الله بن عثمان بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عَمْرو بن السماك",
+          "person_id": 1017,
+          "canonical_name": "أبو عمرو بن السماك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن حَفْص",
+          "person_id": 2341,
+          "canonical_name": "محمد بن حفص",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْمثنى بن زِيَاد",
+          "person_id": 2260,
+          "canonical_name": "محمد بن المثنى بن زياد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بشرا",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا عبيد الله بن عُثْمَان حَدثنَا أَبُو عَمْرو بن السماك حَدثنَا مُحَمَّد بن حَفْص حَدثنَا مُحَمَّد بن الْمثنى بن زِيَاد قَالَ سَمِعت بشرا يَقُول شاطر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبيد الله",
+          "person_id": 1931,
+          "canonical_name": "عبيد الله بن عثمان بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عَمْرو",
+          "person_id": 1017,
+          "canonical_name": "أبو عمرو بن السماك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْعَبَّاس",
+          "person_id": 2248,
+          "canonical_name": "محمد بن العباس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو بكر ابْن بنت مُعَاوِيَة",
+          "person_id": 667,
+          "canonical_name": "أبو بكر بن بنت معاوية",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن عَفَّان",
+          "person_id": 674,
+          "canonical_name": "أبو بكر بن عفّان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بشر ابْن الْحَارِث",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَأخْبرنَا عبيد الله حَدثنَا أَبُو عَمْرو حَدثنَا مُحَمَّد بن الْعَبَّاس حَدثنَا أَبُو بكر ابْن بنت مُعَاوِيَة قَالَ سَمِعت أَبَا بكر بن عَفَّان قَالَ سَمِعت بشر ابْن الْحَارِث يَقُول إِنِّي لأشتهي الشواء مُنْذُ أَرْبَعِينَ سنة فَمَا صفا لي درهمه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبيد الله",
+          "person_id": 1931,
+          "canonical_name": "عبيد الله بن عثمان بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عَمْرو",
+          "person_id": 1017,
+          "canonical_name": "أبو عمرو بن السماك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر بن سعيد القراطيسي",
+          "person_id": 2099,
+          "canonical_name": "عمر بن سعيد القراطيسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن أبي الدُّنْيَا",
+          "person_id": 10,
+          "canonical_name": "ابن أبي الدنيا",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "رجل",
+          "person_id": 1530,
+          "canonical_name": "رجل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَأخْبرنَا عبيد الله حَدثنَا أَبُو عَمْرو حَدثنَا عمر بن سعيد القراطيسي حَدثنَا ابْن أبي الدُّنْيَا قَالَ قَالَ رجل لبشر لَا أَدْرِي بِأَيّ شَيْء آكل خبزني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبيد الله",
+          "person_id": 1931,
+          "canonical_name": "عبيد الله بن عثمان بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عَمْرو",
+          "person_id": 1017,
+          "canonical_name": "أبو عمرو بن السماك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْقَاسِم بن مُنَبّه",
+          "person_id": 211,
+          "canonical_name": "القاسم بن منبّه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بشرا",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَأخْبرنَا عبيد الله حَدثنَا أَبُو عَمْرو قَالَ قَالَ الْقَاسِم بن مُنَبّه سَمِعت بشرا يَقُول إِن لم تُطِع فَلَا تعص",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبيد الله",
+          "person_id": 1931,
+          "canonical_name": "عبيد الله بن عثمان بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عَمْرو",
+          "person_id": 1017,
+          "canonical_name": "أبو عمرو بن السماك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْقَاسِم بن مُنَبّه",
+          "person_id": 211,
+          "canonical_name": "القاسم بن منبّه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بشرا",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده قَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبيد الله",
+          "person_id": 1931,
+          "canonical_name": "عبيد الله بن عثمان بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عَمْرو",
+          "person_id": 1017,
+          "canonical_name": "أبو عمرو بن السماك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْقَاسِم بن مُنَبّه",
+          "person_id": 211,
+          "canonical_name": "القاسم بن منبّه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بشرا",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ بشر",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن عمر الْحَافِظ",
+          "person_id": 2055,
+          "canonical_name": "علي بن عمر الحافظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا سهل بن زِيَاد",
+          "person_id": 820,
+          "canonical_name": "أبو سهل بن زياد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الْحَرْبِيّ",
+          "person_id": 276,
+          "canonical_name": "إبراهيم الحربي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بشر بن الْحَارِث",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عَليّ بن عمر الْحَافِظ قَالَ سَمِعت أَبَا سهل بن زِيَاد قَالَ قَالَ إِبْرَاهِيم الْحَرْبِيّ سَمِعت بشر بن الْحَارِث يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن عمر الْحَافِظ",
+          "person_id": 2055,
+          "canonical_name": "علي بن عمر الحافظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا سهل بن زِيَاد",
+          "person_id": 820,
+          "canonical_name": "أبو سهل بن زياد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الْحَرْبِيّ",
+          "person_id": 276,
+          "canonical_name": "إبراهيم الحربي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بشر بن الْحَارِث",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن الْحسن الْبَغْدَادِيّ",
+          "person_id": 507,
+          "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَمْرو بن السماك",
+          "person_id": 1017,
+          "canonical_name": "أبو عمرو بن السماك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عَمْرو السبيعِي",
+          "person_id": 99,
+          "canonical_name": "الحسن بن عمرو السبيعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بشرا",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّد بن الْحسن الْبَغْدَادِيّ يَقُول سَمِعت أَبَا عَمْرو بن السماك يَقُول سَمِعت الْحسن بن عَمْرو السبيعِي يَقُول سَمِعت بشرا يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حَمْزَة الْبَزَّار",
+          "person_id": 1476,
+          "canonical_name": "حمزة البزّار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَبَّاس بن دهقان",
+          "person_id": 1721,
+          "canonical_name": "عباس بن دهقان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان يَقُول سَمِعت حَمْزَة الْبَزَّار يَقُول سَمِعت عَبَّاس بن دهقان يَقُول كنت عِنْد بشر وَهُوَ يتَكَلَّم فِي الرِّضَا وَالتَّسْلِيم",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "الفضيل بن عِيَاض",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وَصَحب الفضيل بن عِيَاض",
+        "person_id": 200,
+        "canonical_name": "الفضيل بن عياض",
+        "has_id": 243
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "مُحَمَّد بن مُحَمَّد بن أبي الْورْد العابد",
+      "relationship_type": "narrator",
+      "full_text": "أخبرنَا مُحَمَّد بن مُحَمَّد بن أبي الْورْد العابد قَالَ سَمِعت بشر بن الْحَارِث الحافي يَقُول",
+      "person_id": 2440,
+      "canonical_name": "محمد بن محمد بن أبي الورد العابد",
+      "has_id": NaN
+    },
+    {
+      "name": "الْحسن بن عَمْرو السبيعِي",
+      "relationship_type": "narrator",
+      "full_text": "حَدثنَا الْحسن بن عَمْرو السبيعِي قَالَ سَمِعت بشر بن الْحَارِث يَقُول",
+      "person_id": 99,
+      "canonical_name": "الحسن بن عمرو السبيعي",
+      "has_id": NaN
+    },
+    {
+      "name": "حسن المسوحي",
+      "relationship_type": "narrator",
+      "full_text": "حَدثنَا حسن المسوحي قَالَ رَآنِي بشر بن الْحَارِث يَوْمًا بَارِدًا وَأَنا أرتعد من الْبرد",
+      "person_id": 1445,
+      "canonical_name": "حسن المسوحي",
+      "has_id": 512
+    },
+    {
+      "name": "عبد الله بن خبيق",
+      "relationship_type": "narrator",
+      "full_text": "حَدثنَا عبد الله بن خبيق قَالَ قَالَ بشر أَرْبَعَة رفعهم الله بِطيب الْمطعم",
+      "person_id": 1057,
+      "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+      "has_id": 661
+    },
+    {
+      "name": "مُحَمَّد بن الْمثنى بن زِيَاد",
+      "relationship_type": "narrator",
+      "full_text": "حَدثنَا مُحَمَّد بن الْمثنى بن زِيَاد قَالَ سَمِعت بشرا يَقُول",
+      "person_id": 2260,
+      "canonical_name": "محمد بن المثنى بن زياد",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا بكر بن عَفَّان",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر بن عَفَّان قَالَ سَمِعت بشر ابْن الْحَارِث يَقُول",
+      "person_id": 674,
+      "canonical_name": "أبو بكر بن عفّان",
+      "has_id": NaN
+    },
+    {
+      "name": "ابْن أبي الدُّنْيَا",
+      "relationship_type": "narrator",
+      "full_text": "حَدثنَا ابْن أبي الدُّنْيَا قَالَ قَالَ رجل لبشر لَا أَدْرِي بِأَيّ شَيْء آكل خبزني",
+      "person_id": 10,
+      "canonical_name": "ابن أبي الدنيا",
+      "has_id": NaN
+    },
+    {
+      "name": "الْقَاسِم بن مُنَبّه",
+      "relationship_type": "narrator",
+      "full_text": "قَالَ الْقَاسِم بن مُنَبّه سَمِعت بشرا يَقُول إِن لم تُطِع فَلَا تعص",
+      "person_id": 211,
+      "canonical_name": "القاسم بن منبّه",
+      "has_id": NaN
+    },
+    {
+      "name": "إِبْرَاهِيم الْحَرْبِيّ",
+      "relationship_type": "narrator",
+      "full_text": "قَالَ قَالَ إِبْرَاهِيم الْحَرْبِيّ سَمِعت بشر بن الْحَارِث يَقُول",
+      "person_id": 276,
+      "canonical_name": "إبراهيم الحربي",
+      "has_id": NaN
+    },
+    {
+      "name": "عَبَّاس بن دهقان",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت عَبَّاس بن دهقان يَقُول كنت عِنْد بشر وَهُوَ يتَكَلَّم فِي الرِّضَا وَالتَّسْلِيم",
+      "person_id": 1721,
+      "canonical_name": "عباس بن دهقان",
+      "has_id": NaN
+    },
+    {
+      "name": "يحيى بن أَكْثَم",
+      "relationship_type": "narrator",
+      "full_text": "قَالَ يحيى بن أَكْثَم قَالَ لي الْمَأْمُون لم يبْق فِي هَذِه الكورة أحد يستحى مِنْهُ غير هَذَا الشَّيْخ بشر بن الْحَارِث",
+      "person_id": 2637,
+      "canonical_name": "يحيى بن أكثم",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "full_text": "قَالَ قَالَ رجل لبشر لَا أَدْرِي بِأَيّ شَيْء آكل خبزني",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل من المتصوفة",
+      "relationship_type": "interlocutor",
+      "full_text": "فَإِذا هُوَ بِرَجُل من المتصوفة فَقَالَ لَهُ يَا أَبَا نصر انقبضت عَن أَخذ الْبر من يَد الْخلق لإِقَامَة الجاه",
+      "person_id": 1537,
+      "canonical_name": "رجل من المتصوفة",
+      "has_id": NaN
+    }
+  ]
+}

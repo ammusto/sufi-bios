@@ -1,0 +1,110 @@
+{
+  "bio_id": "230",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "الحفري",
+      "context": "nisba",
+      "full_text": "الحفري"
+    },
+    {
+      "place": "مسجد الحفري",
+      "context": "mentioned",
+      "full_text": "مسجد الحفري"
+    },
+    {
+      "place": "نصيبين",
+      "context": "mentioned",
+      "full_text": "من أهل نصيبين"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد بن جعفر",
+          "person_id": 1868,
+          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن العباس",
+          "person_id": 1864,
+          "canonical_name": "عبد الله بن محمد بن العباس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سلمة ابن شبيب",
+          "person_id": 1614,
+          "canonical_name": "سلمة بن شبيب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن الجنيد",
+          "person_id": 292,
+          "canonical_name": "إبراهيم بن الجنيد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد بن جعفر [ثنا عبد الله بن محمد بن العباس ثنا سلمة ابن شبيب ثنا إبراهيم بن الجنيد]",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد بن جعفر",
+          "person_id": 1868,
+          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "القواريري",
+          "person_id": 217,
+          "canonical_name": "القواريري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عمران التمار",
+          "person_id": 998,
+          "canonical_name": "أبو عمران التمار",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد بن جعفر [ثنا عبد الله بن محمد بن العباس ثنا سلمة ابن شبيب ثنا إبراهيم بن الجنيد] (¬١) ثنا القواريري ثنا أبو عمران التمار",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "إبراهيم بن الجنيد",
+      "relationship_type": "narrator",
+      "full_text": "ثنا إبراهيم بن الجنيد",
+      "person_id": 292,
+      "canonical_name": "إبراهيم بن الجنيد",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو عمران التمار",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أبو عمران التمار قال:",
+      "person_id": 998,
+      "canonical_name": "أبو عمران التمار",
+      "has_id": NaN
+    }
+  ]
+}

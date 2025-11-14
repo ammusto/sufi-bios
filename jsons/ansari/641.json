@@ -1,0 +1,118 @@
+{
+  "bio_id": "641",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "302",
+    "full_text": "مات سنه اثنین و ثلثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "طلحة بن محمد بن الصباح",
+          "person_id": 1702,
+          "canonical_name": "طلحة بن محمد بن الصباح",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "گفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت، که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعثمان نصیبی",
+          "person_id": 937,
+          "canonical_name": "أبو عثمان النصيبي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "اسد نصیبی",
+          "person_id": 48,
+          "canonical_name": "أسد نصيبي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شبلی",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت که بوعثمان نصیبی گفت: که اسد نصیبی گفت که شبلی گفت: که",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "ابی عثمان حیری",
+        "relationship_type": "peer",
+        "relationship_phrase": "من کبار اصحاب",
+        "full_text": "النبلی، کنیه ابومحمد، من کبار اصحاب ابی عثمان حیری٭",
+        "person_id": 932,
+        "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+        "has_id": 419
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت، که",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "بوعثمان نصیبی",
+      "relationship_type": "narrator",
+      "full_text": "بوعثمان نصیبی گفت:",
+      "person_id": 937,
+      "canonical_name": "أبو عثمان النصيبي",
+      "has_id": NaN
+    },
+    {
+      "name": "اسد نصیبی",
+      "relationship_type": "narrator",
+      "full_text": "اسد نصیبی گفت",
+      "person_id": 48,
+      "canonical_name": "أسد نصيبي",
+      "has_id": NaN
+    },
+    {
+      "name": "شبلی",
+      "relationship_type": "narrator",
+      "full_text": "شبلی گفت: که دست بسر با یعقوب میدانی فرود آوردم، درآن وقت بود که بمصر میشدم",
+      "person_id": 628,
+      "canonical_name": "أبو بكر الشبلي",
+      "has_id": 376
+    },
+    {
+      "name": "یعقوب میدانی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "interlocutor",
+      "full_text": "دست بسر با یعقوب میدانی فرود آوردم",
+      "person_id": 2666,
+      "canonical_name": "أبو يعقوب الميداني",
+      "has_id": 466
+    }
+  ]
+}

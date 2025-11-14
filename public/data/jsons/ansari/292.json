@@ -1,0 +1,157 @@
+{
+  "bio_id": "292",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "348",
+    "full_text": "در سنة ثمان و اربعین و ثلثمائه برفته",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "بوشنج",
+      "context": "nisba",
+      "full_text": "البوشنجی"
+    },
+    {
+      "place": "پوشنگ",
+      "context": "mentioned",
+      "full_text": "از\nپوشنگ بوده"
+    },
+    {
+      "place": "نشاپور",
+      "context": "lived",
+      "full_text": "به نشاپور نشسته و جایگاه آنجا داشته"
+    },
+    {
+      "place": "عراق",
+      "context": "visited",
+      "full_text": "بعراق بابوالعباس عطا و جریری صحبت کرده"
+    },
+    {
+      "place": "شام",
+      "context": "visited",
+      "full_text": "بشام طاهر مقدسی و بوعمر دمشقی صحبت کرده"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "لکن شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعثمان مغربی",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوعثمان مغربی گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعثمان مغربی",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "گفت:",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "عثمان حیری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده",
+        "full_text": "باعثمان حیری دیده",
+        "person_id": 932,
+        "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+        "has_id": 419
+      },
+      {
+        "name": "ابوالعباس عطا",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "بعراق بابوالعباس عطا و جریری صحبت کرده",
+        "person_id": 498,
+        "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+        "has_id": 340
+      },
+      {
+        "name": "جریری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "بعراق بابوالعباس عطا و جریری صحبت کرده",
+        "person_id": 1035,
+        "canonical_name": "أبو محمد الجريري",
+        "has_id": 431
+      },
+      {
+        "name": "طاهر مقدسی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "بشام طاهر مقدسی و بوعمر دمشقی صحبت کرده",
+        "person_id": 1696,
+        "canonical_name": "طاهر المقدسي",
+        "has_id": 640
+      },
+      {
+        "name": "بوعمر دمشقی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "بشام طاهر مقدسی و بوعمر دمشقی صحبت کرده",
+        "person_id": 1010,
+        "canonical_name": "أبو عمرو الدمشقي",
+        "has_id": 425
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "شبلی",
+        "relationship_type": "peer",
+        "relationship_phrase": "مسایل گفته",
+        "full_text": "و با شبلی مسایل گفته",
+        "person_id": 628,
+        "canonical_name": "أبو بكر الشبلي",
+        "has_id": 376
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "بوعثمان مغربی",
+      "relationship_type": "narrator",
+      "full_text": "بوعثمان مغربی گوید",
+      "person_id": 942,
+      "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+      "has_id": 156
+    }
+  ]
+}

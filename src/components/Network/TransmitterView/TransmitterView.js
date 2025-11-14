@@ -1,14 +1,13 @@
 import React, { useMemo, useState } from 'react';
 import ChainFlowGraph from './ChainFlowGraph';
 import StatsPanel from '../shared/StatsPanel';
+import NetworkControls from '../shared/NetworkControls';
+import { Download } from 'lucide-react';
 
-/**
- * View 2: Transmitter Focus
- * Shows all isnads aggregated with person at center
- */
 const TransmitterView = ({ personId, data, onViewChange }) => {
   const [selectedNode, setSelectedNode] = useState(null);
-  const [showPeerConnections, setShowPeerConnections] = useState(false); // Default OFF
+  const [showPeerConnections, setShowPeerConnections] = useState(false);
+  const [orientation, setOrientation] = useState('left');
   
   const profile = data.profiles[personId];
   
@@ -18,11 +17,9 @@ const TransmitterView = ({ personId, data, onViewChange }) => {
     const { isnad_details } = profile;
     const centerPersonId = Number(personId);
     
-    // Aggregate all edges from all isnads
     const nodesMap = new Map();
     const edgesMap = new Map();
     
-    // Add center node
     nodesMap.set(centerPersonId, {
       id: centerPersonId,
       personId: centerPersonId,
@@ -31,11 +28,9 @@ const TransmitterView = ({ personId, data, onViewChange }) => {
       hasId: profile.has_id
     });
     
-    // Process each isnad
     isnad_details.forEach(detail => {
       const { full_isnad, full_isnad_names, position } = detail;
       
-      // Add all nodes from isnad
       full_isnad.forEach((pid, idx) => {
         if (!nodesMap.has(pid)) {
           const nodeProfile = data.profiles[String(pid)];
@@ -51,18 +46,13 @@ const TransmitterView = ({ personId, data, onViewChange }) => {
         }
       });
       
-      // Add all edges from isnad
       for (let i = 0; i < full_isnad.length - 1; i++) {
         const source = full_isnad[i];
         const target = full_isnad[i + 1];
         const edgeKey = `${source}->${target}`;
         
         if (!edgesMap.has(edgeKey)) {
-          edgesMap.set(edgeKey, {
-            source: source,
-            target: target,
-            weight: 0
-          });
+          edgesMap.set(edgeKey, { source, target, weight: 0 });
         }
         edgesMap.get(edgeKey).weight += 1;
       }
@@ -74,16 +64,37 @@ const TransmitterView = ({ personId, data, onViewChange }) => {
       centerPersonId: centerPersonId
     };
   }, [personId, profile, data]);
-  
-  const handleNodeClick = (node) => {
-    setSelectedNode(node);
+
+  const handleExport = () => {
+    if (!profile) return;
+    
+    const csv = [
+      ['Isnad ID', 'Position', 'Bio ID', 'Bio Name', 'Source', 'Full Chain', 'Text'].join(','),
+      ...profile.isnad_details.map(d => [
+        d.isnad_id,
+        d.position,
+        d.bio_id,
+        `"${d.bio_name}"`,
+        d.source,
+        `"${d.full_isnad_names.join(' → ')}"`,
+        `"${d.full_text.replace(/"/g, '""')}"`
+      ].join(','))
+    ].join('\n');
+    
+    const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+    const link = document.createElement('a');
+    link.href = URL.createObjectURL(blob);
+    link.download = `person_${personId}_isnads.csv`;
+    link.click();
   };
+  
+  const handleNodeClick = (node) => setSelectedNode(node);
   
   const handleNodeAction = (action, nodeData) => {
     if (action === 'focus-transmitter') {
       onViewChange('transmitter', String(nodeData.personId));
     } else if (action === 'view-biography' && nodeData.hasId) {
-      onViewChange('biography', String(nodeData.hasId));
+      window.open(`/bio/${nodeData.hasId}`, '_blank');
     } else if (action === 'view-all-isnads') {
       onViewChange('view-all-isnads', String(nodeData.personId));
     }
@@ -108,23 +119,17 @@ const TransmitterView = ({ personId, data, onViewChange }) => {
             <span>Unique edges: {isnadGraphData.edges.length}</span>
           </div>
         </div>
-        
-        <div className="view-controls">
-          <label className="toggle-control">
-            <input
-              type="checkbox"
-              checked={showPeerConnections}
-              onChange={(e) => setShowPeerConnections(e.target.checked)}
-            />
-            <span className="toggle-label">Show Peer Connections</span>
-            <span className="toggle-hint">
-              (same-level & level-skipping edges)
-            </span>
-          </label>
-        </div>
       </div>
       
-      <div className="view-content">
+      <NetworkControls
+        orientation={orientation}
+        onOrientationChange={setOrientation}
+        showPeerConnections={showPeerConnections}
+        onPeerConnectionsChange={setShowPeerConnections}
+        onExport={handleExport}
+      />
+      
+      <div className="view-content" style={{ marginTop: '20px' }}>
         <div className="graph-area">
           <ChainFlowGraph
             data={isnadGraphData}
@@ -132,7 +137,7 @@ const TransmitterView = ({ personId, data, onViewChange }) => {
             onNodeClick={handleNodeClick}
             selectedNode={selectedNode}
             showPeerConnections={showPeerConnections}
-            orientation="up"
+            orientation={orientation}
           />
         </div>
         

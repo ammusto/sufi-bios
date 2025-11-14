@@ -1,0 +1,189 @@
+{
+  "bio_id": "182",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "367",
+    "full_text": "در سنهٔ سبع و ستین و ثلثمائه.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "بغدادیست"
+    },
+    {
+      "place": "شام",
+      "context": "visited",
+      "full_text": "بشام"
+    },
+    {
+      "place": "بغداد",
+      "context": "visited",
+      "full_text": "پس با بغداد آمد"
+    },
+    {
+      "place": "بغداد",
+      "context": "died",
+      "full_text": "آن جا برفته از دنیا"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "السلمی",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "ابا محمد الراسبی",
+          "person_id": 1039,
+          "canonical_name": "أبو محمد عبد الله بن محمد الراسبي",
+          "has_id": 182,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قال السلمی: سمعت ابا محمد الراسبی یقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "علی سعید ثقری",
+          "person_id": 2035,
+          "canonical_name": "علي بن سعيد ثقري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بو محمد راسبی",
+          "person_id": 1039,
+          "canonical_name": "أبو محمد عبد الله بن محمد الراسبي",
+          "has_id": 182,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "و علی سعید ثقری گوید: که نزدیک بو محمد راسبی بودم، بنزدیک وی ذکر محبت میرفت وی گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "علی سعید ثقری",
+          "person_id": 2035,
+          "canonical_name": "علي بن سعيد ثقري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بو محمد راسبی",
+          "person_id": 1039,
+          "canonical_name": "أبو محمد عبد الله بن محمد الراسبي",
+          "has_id": 182,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و قال ابومحمد:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "علی سعید ثقری",
+          "person_id": 2035,
+          "canonical_name": "علي بن سعيد ثقري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بو محمد راسبی",
+          "person_id": 1039,
+          "canonical_name": "أبو محمد عبد الله بن محمد الراسبي",
+          "has_id": 182,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "علی سعید ثقری",
+          "person_id": 2035,
+          "canonical_name": "علي بن سعيد ثقري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بو محمد راسبی",
+          "person_id": 1039,
+          "canonical_name": "أبو محمد عبد الله بن محمد الراسبي",
+          "has_id": 182,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و قال:",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "ابوالعباس",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "صحبت کرده بابوالعباس. عطا و جریری٭ بشام",
+        "person_id": 498,
+        "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+        "has_id": 340
+      },
+      {
+        "name": "عطا",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "صحبت کرده بابوالعباس. عطا و جریری٭ بشام",
+        "person_id": 498,
+        "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+        "has_id": 340
+      },
+      {
+        "name": "جریری٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "صحبت کرده بابوالعباس. عطا و جریری٭ بشام",
+        "person_id": 1035,
+        "canonical_name": "أبو محمد الجريري",
+        "has_id": 431
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "السلمی",
+      "relationship_type": "direct_narrator",
+      "full_text": "قال السلمی: سمعت ابا محمد الراسبی یقول",
+      "person_id": 845,
+      "canonical_name": "أبو عبد الرحمن السلمي",
+      "has_id": 133
+    },
+    {
+      "name": "علی سعید ثقری",
+      "relationship_type": "direct_narrator",
+      "full_text": "و علی سعید ثقری گوید: که نزدیک بو محمد راسبی بودم، بنزدیک وی ذکر محبت میرفت وی گفت",
+      "person_id": 2035,
+      "canonical_name": "علي بن سعيد ثقري",
+      "has_id": NaN
+    }
+  ]
+}

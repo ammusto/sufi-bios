@@ -1,0 +1,77 @@
+{
+  "bio_id": "361",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "visited",
+      "full_text": "كان أبي أحد الباعة ببغداد"
+    },
+    {
+      "place": "مسجد الشونيزية",
+      "context": "visited",
+      "full_text": "حتى انتهى إلى مسجد الشونيزية"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "والدى",
+          "person_id": 2614,
+          "canonical_name": "والدى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر الحذاء الشيرازي",
+          "person_id": 727,
+          "canonical_name": "أبو جعفر الحذاء",
+          "has_id": 494,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت والدى قال سمعت جعفر الحذاء الشيرازي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "وذكر أن ابن فضلان الرازي قال",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "جعفر الحذاء الشيرازي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت جعفر الحذاء الشيرازي يقول",
+      "person_id": 727,
+      "canonical_name": "أبو جعفر الحذاء",
+      "has_id": 494
+    },
+    {
+      "name": "ابن فضلان الرازي",
+      "relationship_type": "narrator",
+      "full_text": "وذكر أن ابن فضلان الرازي قال",
+      "has_id": NaN,
+      "person_id": 32,
+      "canonical_name": "ابن فضلان الرازي"
+    },
+    {
+      "name": "ثلاثة من الفقراء",
+      "relationship_type": "interlocutor",
+      "full_text": "قالوا: لا يا أستاذ.",
+      "person_id": 1369,
+      "canonical_name": "ثلاثة من الفقراء",
+      "has_id": NaN
+    }
+  ]
+}

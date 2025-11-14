@@ -32,6 +32,10 @@ const ChainFlowGraph = ({
 
     svg.selectAll('*').remove();
 
+    // Swap dimensions for rotated layouts
+    const layoutWidth = (orientation === ORIENT.left || orientation === ORIENT.right) ? height : width;
+    const layoutHeight = (orientation === ORIENT.left || orientation === ORIENT.right) ? width : height;
+
     // defs outside transforms
     const defs = svg.append('defs');
     defs
@@ -84,14 +88,14 @@ const ChainFlowGraph = ({
     o.append('rect')
       .attr('x', 0)
       .attr('y', 0)
-      .attr('width', width)
-      .attr('height', height)
+      .attr('width', layoutWidth)
+      .attr('height', layoutHeight)
       .attr('fill', 'transparent')
       .style('pointer-events', 'all')
       .on('click', () => onNodeClick?.(null));
 
     // Layout
-    const layout = calculateLayoutWithFirstLayerColumns(data, width, height);
+    const layout = calculateLayoutWithFirstLayerColumns(data, layoutWidth, layoutHeight);
     const centerId = data.centerPersonId;
 
     // UNIQUE isnad count per person
@@ -298,13 +302,13 @@ const ChainFlowGraph = ({
         tooltip
           .html(
             `<strong>${d.name || 'Unknown'}</strong><br/>
-            ${(d.id === centerId || d.type === 'center') ? '<em>Focus Person</em><br/>' : ''}
-            ${Number.isFinite(layer) ? `Layer: ${layer > 0 ? '+' : ''}${layer}<br/>` : ''}
-            ${d.hasId ? `<em>Has biography (#${d.hasId})</em><br/>` : ''}
-            Unique isnads: ${uniqueIsnadCount}<br/>
-            Upstream (in): ${win}<br/>
-            Downstream (out): ${wout}<br/>
-            <em>Appears in ${numIsnads} isnad${numIsnads !== 1 ? 's' : ''}</em>`
+          ${(d.id === centerId || d.type === 'center') ? '<em>Focus Person</em><br/>' : ''}
+          ${Number.isFinite(layer) ? `Layer: ${layer > 0 ? '+' : ''}${layer}<br/>` : ''}
+          ${d.hasId ? `<em>Has biography (#${d.hasId})</em><br/>` : ''}
+          Unique isnads: ${uniqueIsnadCount}<br/>
+          Upstream (in): ${win}<br/>
+          Downstream (out): ${wout}<br/>
+          <em>Appears in ${numIsnads} isnad${numIsnads !== 1 ? 's' : ''}</em>`
           )
           .style('left', event.pageX + 10 + 'px')
           .style('top', event.pageY - 28 + 'px');
@@ -354,7 +358,6 @@ const ChainFlowGraph = ({
       tooltip.remove();
     };
   }, [data, isnadDetails, dimensions, onNodeClick, selectedNode, showPeerConnections, transform, orientation]);
-
   useEffect(() => {
     const handleResize = () => {
       if (svgRef.current) {
@@ -522,7 +525,7 @@ function calculateLayoutWithFirstLayerColumns(data, width, height) {
       return a.barycenter - b.barycenter;
     });
     return arr.map((x) => x.id);
-    };
+  };
 
   const packFirstLayer = (L) => {
     if (!layers.has(L)) return;

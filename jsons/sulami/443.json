@@ -1,0 +1,426 @@
+{
+  "bio_id": "443",
+  "source": "sulami",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "بغدادي"
+    },
+    {
+      "place": "طرسوس",
+      "context": "visited",
+      "full_text": "أَنه كَانَ بطرسوس"
+    },
+    {
+      "place": "العراق",
+      "context": "lived",
+      "full_text": "أَبُو بكر بن أبي سَعْدَان بالعراق"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم جَعْفَر بن أَحْمد الرَّازِيّ",
+          "person_id": 549,
+          "canonical_name": "أبو القاسم جعفر بن أحمد الرازي",
+          "has_id": 357,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحسن بن حديق",
+          "person_id": 419,
+          "canonical_name": "أبو الحسن بن حديق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 12,
+          "canonical_name": "أبو بكر بن أبي سعدان",
+          "has_id": 443,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْقَاسِم جَعْفَر بن أَحْمد الرَّازِيّ يَقُول سَمِعت أَبَا الْحسن بن حديق وَأَبا الْعَبَّاس الفرغاني يَقُولَانِ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم جَعْفَر بن أَحْمد الرَّازِيّ",
+          "person_id": 549,
+          "canonical_name": "أبو القاسم جعفر بن أحمد الرازي",
+          "has_id": 357,
+          "subj_added": false
+        },
+        {
+          "name": "أَبا الْعَبَّاس الفرغاني",
+          "person_id": 493,
+          "canonical_name": "أبو العباس الفرغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 12,
+          "canonical_name": "أبو بكر بن أبي سعدان",
+          "has_id": 443,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْقَاسِم جَعْفَر بن أَحْمد الرَّازِيّ يَقُول سَمِعت أَبَا الْحسن بن حديق وَأَبا الْعَبَّاس الفرغاني يَقُولَانِ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم الرَّازِيّ",
+          "person_id": 549,
+          "canonical_name": "أبو القاسم جعفر بن أحمد الرازي",
+          "has_id": 357,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن أبي سَعْدَان",
+          "person_id": 12,
+          "canonical_name": "أبو بكر بن أبي سعدان",
+          "has_id": 443,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْقَاسِم الرَّازِيّ يَقُول سَمِعت أَبَا بكر بن أبي سَعْدَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم الرَّازِيّ",
+          "person_id": 549,
+          "canonical_name": "أبو القاسم جعفر بن أحمد الرازي",
+          "has_id": 357,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن أبي سَعْدَان",
+          "person_id": 12,
+          "canonical_name": "أبو بكر بن أبي سعدان",
+          "has_id": 443,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا بكر بن أبي سَعْدَان يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم الرَّازِيّ",
+          "person_id": 549,
+          "canonical_name": "أبو القاسم جعفر بن أحمد الرازي",
+          "has_id": 357,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن أبي سَعْدَان",
+          "person_id": 12,
+          "canonical_name": "أبو بكر بن أبي سعدان",
+          "has_id": 443,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت ابْن أبي سَعْدَان يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم الرَّازِيّ",
+          "person_id": 549,
+          "canonical_name": "أبو القاسم جعفر بن أحمد الرازي",
+          "has_id": 357,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن أبي سَعْدَان",
+          "person_id": 12,
+          "canonical_name": "أبو بكر بن أبي سعدان",
+          "has_id": 443,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا بكر بن أبي سَعْدَان يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن أبي سَعْدَان",
+          "person_id": 12,
+          "canonical_name": "أبو بكر بن أبي سعدان",
+          "has_id": 443,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت ابا بكر الرَّازِيّ يَقُول قَالَ ابْن أبي سَعْدَان",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن أبي سَعْدَان",
+          "person_id": 12,
+          "canonical_name": "أبو بكر بن أبي سعدان",
+          "has_id": 443,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ لَو سَمِعت ابْن أبي سَعْدَان يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن أبي سَعْدَان",
+          "person_id": 12,
+          "canonical_name": "أبو بكر بن أبي سعدان",
+          "has_id": 443,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن أبي سَعْدَان",
+          "person_id": 12,
+          "canonical_name": "أبو بكر بن أبي سعدان",
+          "has_id": 443,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا بكر بن أبي سَعْدَان يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن أبي سَعْدَان",
+          "person_id": 12,
+          "canonical_name": "أبو بكر بن أبي سعدان",
+          "has_id": 443,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن أبي سَعْدَان",
+          "person_id": 12,
+          "canonical_name": "أبو بكر بن أبي سعدان",
+          "has_id": 443,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا بكر بن أبي سَعْدَان يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن أبي سَعْدَان",
+          "person_id": 12,
+          "canonical_name": "أبو بكر بن أبي سعدان",
+          "has_id": 443,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا بكر بن أبي سَعْدَان يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن أبي سَعْدَان",
+          "person_id": 12,
+          "canonical_name": "أبو بكر بن أبي سعدان",
+          "has_id": 443,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت ابْن أبي سَعْدَان يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن أبي سَعْدَان",
+          "person_id": 12,
+          "canonical_name": "أبو بكر بن أبي سعدان",
+          "has_id": 443,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت ابْن أبي سَعْدَان يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن أبي سَعْدَان",
+          "person_id": 12,
+          "canonical_name": "أبو بكر بن أبي سعدان",
+          "has_id": 443,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا بكر بن أبي سَعْدَان يَقُول",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [
+      {
+        "name": "الشَّيْخ أبي الْقَاسِم المغربي",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "أحد أستاذي",
+        "full_text": "وَكَانَ أحد أستاذي الشَّيْخ أبي الْقَاسِم المغربي",
+        "person_id": 541,
+        "canonical_name": "أبو القاسم المغربي",
+        "has_id": NaN
+      }
+    ],
+    "companions": [
+      {
+        "name": "الْجُنَيْد",
+        "relationship_type": "peer",
+        "relationship_phrase": "من أَصْحَاب",
+        "full_text": "بغدادي من أَصْحَاب الْجُنَيْد والنوري",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "النوري",
+        "relationship_type": "peer",
+        "relationship_phrase": "من أَصْحَاب",
+        "full_text": "بغدادي من أَصْحَاب الْجُنَيْد والنوري",
+        "person_id": 452,
+        "canonical_name": "أبو الحسين النوري",
+        "has_id": 439
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَبَا الْقَاسِم الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْقَاسِم الرَّازِيّ يَقُول سَمِعت أَبَا بكر بن أبي سَعْدَان يَقُول",
+      "person_id": 549,
+      "canonical_name": "أبو القاسم جعفر بن أحمد الرازي",
+      "has_id": 357
+    },
+    {
+      "name": "ابا بكر الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت ابا بكر الرَّازِيّ يَقُول قَالَ ابْن أبي سَعْدَان",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    }
+  ]
+}

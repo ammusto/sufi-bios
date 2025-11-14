@@ -1,0 +1,1045 @@
+{
+  "bio_id": "789",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "طوس",
+      "context": "nisba",
+      "full_text": "الطوسي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "زيد بن علي المغربي",
+          "person_id": 1576,
+          "canonical_name": "زيد بن علي المغربي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين بن مصعب",
+          "person_id": 126,
+          "canonical_name": "الحسين بن مصعب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن منصور الطوسي",
+          "person_id": 2454,
+          "canonical_name": "محمد بن منصور الطوسي",
+          "has_id": 789,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا زيد بن علي المغربي ثنا الحسين بن مصعب ثنا محمد بن منصور الطوسي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1855,
+          "canonical_name": "عبد الله بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن العباس",
+          "person_id": 2252,
+          "canonical_name": "محمد بن العباس بن أيوب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن منصور الطوسي",
+          "person_id": 2454,
+          "canonical_name": "محمد بن منصور الطوسي",
+          "has_id": 789,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن بن الربيع",
+          "person_id": 76,
+          "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا إسحاق الفزاري",
+          "person_id": 571,
+          "canonical_name": "أبو إسحاق القرشي التيمي",
+          "has_id": 368,
+          "subj_added": false
+        },
+        {
+          "name": "حبيبي الفضيل بن عياض",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد ثنا محمد بن العباس ثنا محمد بن منصور الطوسي ثنا الحسن بن الربيع قال سمعت أبا إسحاق الفزاري يقول سمعت حبيبي الفضيل بن عياض يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين الفارسي",
+          "has_id": NaN,
+          "person_id": 112,
+          "canonical_name": "الحسين بن أحمد بن موسى",
+          "subj_added": false
+        },
+        {
+          "name": "الحسن بن علوية",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن منصور",
+          "person_id": 2454,
+          "canonical_name": "محمد بن منصور الطوسي",
+          "has_id": 789,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن الحسين بن موسى قال سمعت أبا الحسين الفارسي يقول سمعت الحسن بن علوية يقول قال محمد بن منصور",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين",
+          "has_id": NaN,
+          "person_id": 113,
+          "canonical_name": "الحسين بن حفص",
+          "subj_added": false
+        },
+        {
+          "name": "الحسن",
+          "person_id": 75,
+          "canonical_name": "الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2454,
+          "canonical_name": "محمد بن منصور الطوسي",
+          "has_id": 789,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن الحسين قال سمعت أبا الحسين يقول سمعت الحسن يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين",
+          "has_id": NaN,
+          "person_id": 114,
+          "canonical_name": "الحسين بن داود البلخي",
+          "subj_added": false
+        },
+        {
+          "name": "الحسن",
+          "person_id": 75,
+          "canonical_name": "الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2454,
+          "canonical_name": "محمد بن منصور الطوسي",
+          "has_id": 789,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن أبي عمران الهروي",
+          "person_id": 523,
+          "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين بن عبد الرحمن",
+          "person_id": 115,
+          "canonical_name": "الحسين بن عبد الرحمن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن منصور",
+          "person_id": 2454,
+          "canonical_name": "محمد بن منصور الطوسي",
+          "has_id": 789,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أحمد بن أبي عمران الهروي يقول سمعت منصور بن عبد الله يقول سمعت الحسين بن عبد الرحمن يقول أنشدني محمد بن منصور",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا الفضل أحمد بن أبي عمران",
+          "person_id": 523,
+          "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "منصورا",
+          "person_id": 2556,
+          "canonical_name": "منصورا",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين بن محمد",
+          "person_id": 120,
+          "canonical_name": "الحسين بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن منصور",
+          "person_id": 2454,
+          "canonical_name": "محمد بن منصور الطوسي",
+          "has_id": 789,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الفضل أحمد بن أبي عمران يقول سمعت منصورا يقول سمعت الحسين بن محمد يقول: أنشدني محمد بن منصور",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الشيخ",
+          "person_id": 169,
+          "canonical_name": "الشيخ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2454,
+          "canonical_name": "محمد بن منصور الطوسي",
+          "has_id": 789,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال الشيخ رضي الله تعالى عنه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سليمان بن أحمد",
+          "person_id": 1626,
+          "canonical_name": "سليمان بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن العباس بن أيوب",
+          "person_id": 2252,
+          "canonical_name": "محمد بن العباس بن أيوب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن منصور الطوسي",
+          "person_id": 2454,
+          "canonical_name": "محمد بن منصور الطوسي",
+          "has_id": 789,
+          "subj_added": false
+        },
+        {
+          "name": "صالح بن إسحاق الجهبذي",
+          "person_id": 1685,
+          "canonical_name": "صالح بن إسحاق الجهبذي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "معروف ابن واصل",
+          "person_id": 2525,
+          "canonical_name": "معروف بن واصل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يعقوب بن أبي نباتة",
+          "person_id": 2664,
+          "canonical_name": "يعقوب بن أبي نباتة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الرحمن الأغر",
+          "person_id": 1733,
+          "canonical_name": "عبد الرحمن الأغر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أنس بن مالك",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "رسول الله ﷺ",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا سليمان بن أحمد ثنا محمد بن العباس بن أيوب ثنا محمد بن منصور الطوسي ثنا صالح بن إسحاق الجهبذي ثنا معروف ابن واصل عن يعقوب بن أبي نباتة عن عبد الرحمن الأغر عن أنس بن مالك قال قال رسول الله ﷺ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سليمان بن أحمد",
+          "person_id": 1626,
+          "canonical_name": "سليمان بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن العباس",
+          "person_id": 2252,
+          "canonical_name": "محمد بن العباس بن أيوب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن منصور الطوسي",
+          "person_id": 2454,
+          "canonical_name": "محمد بن منصور الطوسي",
+          "has_id": 789,
+          "subj_added": false
+        },
+        {
+          "name": "يحيى بن إسحاق السبحي",
+          "person_id": 2629,
+          "canonical_name": "يحيى بن إسحاق السبحي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن سعد",
+          "person_id": 1139,
+          "canonical_name": "أبو يعقوب إبراهيم بن سعد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبيه سعد بن إبراهيم",
+          "person_id": 1152,
+          "canonical_name": "أبوه سعد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبيه إبراهيم",
+          "person_id": 1150,
+          "canonical_name": "أبوه إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي سلمة",
+          "person_id": 814,
+          "canonical_name": "أبو سلمة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أم حبيبة",
+          "person_id": 1305,
+          "canonical_name": "أم حبيبة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا سليمان بن أحمد ثنا محمد بن العباس ثنا محمد بن منصور الطوسي ثنا يحيى بن إسحاق السبحي ثنا إبراهيم بن سعد عن أبيه سعد بن إبراهيم عن أبيه إبراهيم عن أبي سلمة عن أم حبيبة قالت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سليمان بن أحمد",
+          "person_id": 1626,
+          "canonical_name": "سليمان بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن زهير التستري",
+          "person_id": 1200,
+          "canonical_name": "أحمد بن زهير التستري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن منصور الطوسي",
+          "person_id": 2454,
+          "canonical_name": "محمد بن منصور الطوسي",
+          "has_id": 789,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن ثابت",
+          "person_id": 2025,
+          "canonical_name": "علي بن ثابت الزيات",
+          "has_id": 695,
+          "subj_added": false
+        },
+        {
+          "name": "المفضل بن صدقة",
+          "person_id": 241,
+          "canonical_name": "المفضل بن صدقة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن مسروق",
+          "person_id": 1604,
+          "canonical_name": "سعيد بن مسروق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "المسيب بن رافع",
+          "person_id": 234,
+          "canonical_name": "المسيب بن رافع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي أيوب الأنصاري",
+          "person_id": 604,
+          "canonical_name": "أبو أيوب الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا سليمان بن أحمد ثنا أحمد بن زهير التستري ثنا محمد بن منصور الطوسي ثنا علي بن ثابت ثنا المفضل بن صدقة عن سعيد بن مسروق عن المسيب بن رافع عن أبي أيوب الأنصاري قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سليمان بن أحمد",
+          "person_id": 1626,
+          "canonical_name": "سليمان بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن العباس",
+          "person_id": 2252,
+          "canonical_name": "محمد بن العباس بن أيوب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن منصور الطوسي",
+          "person_id": 2454,
+          "canonical_name": "محمد بن منصور الطوسي",
+          "has_id": 789,
+          "subj_added": false
+        },
+        {
+          "name": "يونس بن محمد المؤدب",
+          "person_id": 2690,
+          "canonical_name": "يونس بن محمد المؤدب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حماد بن زيد",
+          "person_id": 1471,
+          "canonical_name": "حماد بن زيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد الثوري",
+          "person_id": 1590,
+          "canonical_name": "سعيد الثوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زيد بن أسلم",
+          "person_id": 1574,
+          "canonical_name": "زيد بن أسلم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الرحمن بن وعلة",
+          "person_id": 1756,
+          "canonical_name": "عبد الرحمن بن وعلة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عباس",
+          "has_id": NaN,
+          "person_id": 26,
+          "canonical_name": "ابن عباس",
+          "subj_added": false
+        },
+        {
+          "name": "النبي ﷺ",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا سليمان بن أحمد ثنا محمد بن العباس ثنا محمد بن منصور الطوسي ثنا يونس بن محمد المؤدب ثنا حماد بن زيد عن سعيد الثوري عن زيد بن أسلم عن عبد الرحمن بن وعلة عن ابن عباس عن النبي ﷺ قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سليمان بن أحمد",
+          "person_id": 1626,
+          "canonical_name": "سليمان بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن زهير",
+          "person_id": 1200,
+          "canonical_name": "أحمد بن زهير التستري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن منصور الطوسي",
+          "person_id": 2454,
+          "canonical_name": "محمد بن منصور الطوسي",
+          "has_id": 789,
+          "subj_added": false
+        },
+        {
+          "name": "هاشم بن القاسم",
+          "person_id": 2594,
+          "canonical_name": "هاشم بن القاسم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن طلحة",
+          "person_id": 2368,
+          "canonical_name": "محمد بن طلحة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زبيد",
+          "person_id": 1556,
+          "canonical_name": "زبيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جامع بن أبي راشد",
+          "person_id": 1378,
+          "canonical_name": "جامع بن أبي راشد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أم بشر",
+          "person_id": 1304,
+          "canonical_name": "أم بشر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أم سلمة زوج النبي ﷺ",
+          "person_id": 1306,
+          "canonical_name": "أم سلمة زوج النبي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "رسول الله ﷺ",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا سليمان بن أحمد ثنا أحمد بن زهير ثنا محمد بن منصور الطوسي ثنا هاشم بن القاسم ثنا محمد بن طلحة عن زبيد قال حدثني جامع بن أبي راشد عن أم بشر عن أم سلمة زوج النبي ﷺ أنها سمعت رسول الله ﷺ يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سليمان بن أحمد",
+          "person_id": 1626,
+          "canonical_name": "سليمان بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن زهير",
+          "person_id": 1200,
+          "canonical_name": "أحمد بن زهير التستري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن منصور الطوسي",
+          "person_id": 2454,
+          "canonical_name": "محمد بن منصور الطوسي",
+          "has_id": 789,
+          "subj_added": false
+        },
+        {
+          "name": "يعقوب بن إبراهيم بن سعد",
+          "person_id": 2662,
+          "canonical_name": "يعقوب بن إبراهيم بن سعد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1139,
+          "canonical_name": "أبو يعقوب إبراهيم بن سعد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إسحاق",
+          "person_id": 2276,
+          "canonical_name": "محمد بن إسحاق",
+          "has_id": 774,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن مسلم الزهري وهشام بن عروة كلاهما",
+          "person_id": 2449,
+          "canonical_name": "محمد بن مسلم الزهري وهشام بن عروة كلاهما",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عروة",
+          "person_id": 1957,
+          "canonical_name": "عروة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عائشة",
+          "person_id": 1710,
+          "canonical_name": "عائشة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا سليمان بن أحمد ثنا أحمد بن زهير ثنا محمد بن منصور الطوسي ثنا يعقوب بن إبراهيم بن سعد قال حدثني أبي عن محمد بن إسحاق عن محمد بن مسلم الزهري وهشام بن عروة كلاهما عن عروة عن عائشة قالت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو محمد بن حيان",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسن الصوفي",
+          "person_id": 2227,
+          "canonical_name": "محمد بن الحسن الصوفي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن منصور الطوسي",
+          "person_id": 2454,
+          "canonical_name": "محمد بن منصور الطوسي",
+          "has_id": 789,
+          "subj_added": false
+        },
+        {
+          "name": "حمزة بن زياد الطوسي",
+          "person_id": 1479,
+          "canonical_name": "حمزة بن زياد الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ثويب أبو حامد",
+          "person_id": 1371,
+          "canonical_name": "ثويب أبو حامد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خالد بن معدان",
+          "person_id": 1491,
+          "canonical_name": "خالد بن معدان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو أمامة",
+          "person_id": 603,
+          "canonical_name": "أبو أمامة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "رسول الله ﷺ",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو محمد بن حيان حدثنا محمد بن الحسن الصوفي ثنا محمد بن منصور الطوسي ثنا حمزة بن زياد الطوسي ثنا ثويب أبو حامد عن خالد بن معدان عن أبي أمامة قال: قال رسول الله ﷺ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو بكر محمد بن أحمد بن محمد",
+          "person_id": 700,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن هارون الحضرمي",
+          "person_id": 2463,
+          "canonical_name": "محمد بن هارون الحضرمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد ابن منصور الطوسي",
+          "person_id": 2454,
+          "canonical_name": "محمد بن منصور الطوسي",
+          "has_id": 789,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الجواب",
+          "person_id": 388,
+          "canonical_name": "أبو الجواب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمار بن رزيق",
+          "person_id": 2081,
+          "canonical_name": "عمار بن رزيق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "قطن",
+          "person_id": 2181,
+          "canonical_name": "قطن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "القاسم بن أبي بزة",
+          "person_id": 204,
+          "canonical_name": "القاسم بن أبي بزة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عطاء الخراساني",
+          "person_id": 1964,
+          "canonical_name": "عطاء الخراساني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمران",
+          "person_id": 2114,
+          "canonical_name": "عمران",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن عمر",
+          "person_id": 1853,
+          "canonical_name": "عبد الله بن عمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "رسول الله ﷺ",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو بكر محمد بن أحمد بن محمد ثنا محمد بن هارون الحضرمي ثنا محمد ابن منصور الطوسي ثنا أبو الجواب ثنا عمار بن رزيق عن قطن عن القاسم بن أبي بزة عن عطاء الخراساني عن عمران قال سمعت عبد الله بن عمر يقول: سمعت رسول الله ﷺ يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد",
+          "person_id": 700,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن هارون",
+          "person_id": 2463,
+          "canonical_name": "محمد بن هارون الحضرمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن منصور",
+          "person_id": 2454,
+          "canonical_name": "محمد بن منصور الطوسي",
+          "has_id": 789,
+          "subj_added": false
+        },
+        {
+          "name": "يعقوب ابن إبراهيم بن سعد",
+          "person_id": 2662,
+          "canonical_name": "يعقوب بن إبراهيم بن سعد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1139,
+          "canonical_name": "أبو يعقوب إبراهيم بن سعد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن إسحاق",
+          "has_id": NaN,
+          "person_id": 111,
+          "canonical_name": "الحسين بن أحمد بن سعيد الواسطي",
+          "subj_added": false
+        },
+        {
+          "name": "يحيى بن سعيد وغيره",
+          "person_id": 2644,
+          "canonical_name": "يحيى بن سعيد وغيره",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "القاسم",
+          "person_id": 204,
+          "canonical_name": "القاسم بن أبي بزة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عائشة",
+          "person_id": 1710,
+          "canonical_name": "عائشة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن أحمد ثنا محمد بن هارون ثنا محمد بن منصور ثنا يعقوب ابن إبراهيم بن سعد ثنا أبي عن ابن إسحاق قال حدثني يحيى بن سعيد وغيره عن القاسم عن عائشة أنها كانت تقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "الحسين بن مصعب",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "ثنا الحسين بن مصعب ثنا محمد بن منصور الطوسي",
+      "person_id": 126,
+      "canonical_name": "الحسين بن مصعب",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن العباس",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "ثنا محمد بن العباس ثنا محمد بن منصور الطوسي",
+      "person_id": 2252,
+      "canonical_name": "محمد بن العباس بن أيوب",
+      "has_id": NaN
+    },
+    {
+      "name": "الحسن بن علوية",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "سمعت الحسن بن علوية يقول قال محمد بن منصور",
+      "person_id": 92,
+      "canonical_name": "الحسن بن علوية الدامغاني",
+      "has_id": NaN
+    },
+    {
+      "name": "الحسين بن عبد الرحمن",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "سمعت الحسين بن عبد الرحمن يقول أنشدني محمد بن منصور",
+      "person_id": 115,
+      "canonical_name": "الحسين بن عبد الرحمن",
+      "has_id": NaN
+    },
+    {
+      "name": "الحسين بن محمد",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "سمعت الحسين بن محمد يقول: أنشدني محمد بن منصور",
+      "person_id": 120,
+      "canonical_name": "الحسين بن محمد",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن العباس بن أيوب",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "ثنا محمد بن العباس بن أيوب ثنا محمد بن منصور الطوسي",
+      "person_id": 2252,
+      "canonical_name": "محمد بن العباس بن أيوب",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد بن زهير التستري",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "ثنا أحمد بن زهير التستري ثنا محمد بن منصور الطوسي",
+      "person_id": 1200,
+      "canonical_name": "أحمد بن زهير التستري",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد بن زهير",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "ثنا أحمد بن زهير ثنا محمد بن منصور الطوسي",
+      "person_id": 1200,
+      "canonical_name": "أحمد بن زهير التستري",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن الحسن الصوفي",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "حدثنا محمد بن الحسن الصوفي ثنا محمد بن منصور الطوسي",
+      "person_id": 2227,
+      "canonical_name": "محمد بن الحسن الصوفي",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن هارون الحضرمي",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "ثنا محمد بن هارون الحضرمي ثنا محمد ابن منصور الطوسي",
+      "person_id": 2463,
+      "canonical_name": "محمد بن هارون الحضرمي",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن هارون",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "ثنا محمد بن هارون ثنا محمد بن منصور",
+      "person_id": 2463,
+      "canonical_name": "محمد بن هارون الحضرمي",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "full_text": "فقال رجل: يا أنس أنت سمعت هذا من رسول الله ﷺ؟",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

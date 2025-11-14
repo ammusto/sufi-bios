@@ -1,0 +1,139 @@
+{
+  "bio_id": "694",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "عرفات",
+      "context": "visited",
+      "full_text": "أهل الموقف بعرفات"
+    },
+    {
+      "place": "المزدلفة",
+      "context": "visited",
+      "full_text": "فبت تلك الليلة بالمزدلفة"
+    },
+    {
+      "place": "البريد",
+      "context": "visited",
+      "full_text": "فتقدمنا إلى البريد"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "إبراهيم بن محمد النيسابوري",
+          "person_id": 323,
+          "canonical_name": "إبراهيم بن محمد النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عبد الله محمد بن إبراهيم بن عبدويه العبدي",
+          "person_id": 908,
+          "canonical_name": "أبو عبد الله محمد بن إبراهيم بن سعيد العبدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عمر عبد الرحمن بن أبي قرصافة العسقلاني",
+          "person_id": 993,
+          "canonical_name": "أبو عمر عبد الرحمن بن أبي قرصافة العسقلاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا القاسم البزاز",
+          "person_id": 530,
+          "canonical_name": "أبو القاسم البزاز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن الموفق",
+          "person_id": 2008,
+          "canonical_name": "علي بن الموفق",
+          "has_id": 694,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إبراهيم بن محمد النيسابوري قال سمعت أبا عبد الله محمد بن إبراهيم بن عبدويه العبدي قال حدثني أبو عمر عبد الرحمن بن أبي قرصافة العسقلاني قال سمعت أبا القاسم البزاز يقول قال لي علي بن الموفق",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي عبد الله الخواص المصري",
+          "person_id": 863,
+          "canonical_name": "أبو عبد الله الخواص المصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن الموفق",
+          "person_id": 2008,
+          "canonical_name": "علي بن الموفق",
+          "has_id": 694,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحكي لي عن أبي عبد الله الخواص المصري قال سمعت علي بن الموفق يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "العباس بن يوسف الشكلي",
+          "person_id": 185,
+          "canonical_name": "العباس بن يوسف الشكلي",
+          "has_id": 649,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن الموفق",
+          "person_id": 2008,
+          "canonical_name": "علي بن الموفق",
+          "has_id": 694,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول: يحكى عن العباس بن يوسف الشكلي قال سمعت علي بن الموفق يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا القاسم البزاز",
+      "relationship_type": "interlocutor",
+      "full_text": "سمعت أبا القاسم البزاز يقول قال لي علي بن الموفق",
+      "person_id": 530,
+      "canonical_name": "أبو القاسم البزاز",
+      "has_id": NaN
+    },
+    {
+      "name": "أبي عبد الله الخواص المصري",
+      "relationship_type": "narrator",
+      "full_text": "عن أبي عبد الله الخواص المصري قال سمعت علي بن الموفق يقول",
+      "person_id": 863,
+      "canonical_name": "أبو عبد الله الخواص المصري",
+      "has_id": NaN
+    },
+    {
+      "name": "العباس بن يوسف الشكلي",
+      "relationship_type": "narrator",
+      "full_text": "يحكى عن العباس بن يوسف الشكلي قال سمعت علي بن الموفق يقول",
+      "person_id": 185,
+      "canonical_name": "العباس بن يوسف الشكلي",
+      "has_id": 649
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "bio_id": "29",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "أبهر",
+      "context": "nisba",
+      "full_text": "الأبهري"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا نصر النيسابوري",
+          "person_id": 1099,
+          "canonical_name": "أبو نصر النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد العزيز الابهرى",
+          "person_id": 1768,
+          "canonical_name": "عبد العزيز الابهرى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر بن طاهر",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا نصر النيسابوري يحكي عن عبد العزيز الابهرى قال قال أبو بكر بن طاهر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا نصر",
+          "person_id": 1099,
+          "canonical_name": "أبو نصر النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد العزيز بن محمد الأبهري",
+          "person_id": 1776,
+          "canonical_name": "عبد العزيز بن محمد الأبهري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن طاهر",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا نصر يقول قال عبد العزيز بن محمد الأبهري: كان عبد الله بن طاهر يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر الرازي",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر ابن طاهر",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أبا بكر الرازي يقول سمعت أبا بكر ابن طاهر يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الواحد بن أبي بكر",
+          "person_id": 1903,
+          "canonical_name": "عبد الواحد بن أبي بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بعض أصحابنا",
+          "person_id": 1338,
+          "canonical_name": "بعض أصحابنا",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت عبد الواحد بن أبي بكر يقول سمعت بعض أصحابنا يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو بكر بن طاهر",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وقال أبو بكر بن طاهر",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "عبد العزيز الابهرى",
+      "relationship_type": "narrator",
+      "full_text": "يحكي عن عبد العزيز الابهرى",
+      "person_id": 1768,
+      "canonical_name": "عبد العزيز الابهرى",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا بكر الرازي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر الرازي يقول",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    }
+  ]
+}

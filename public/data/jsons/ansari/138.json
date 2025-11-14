@@ -1,0 +1,126 @@
+{
+  "bio_id": "138",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "دینور",
+      "context": "nisba",
+      "full_text": "الدینوری"
+    },
+    {
+      "place": "وادی قری",
+      "context": "lived",
+      "full_text": "بوادی القری بود سالها"
+    },
+    {
+      "place": "دینور",
+      "context": "visited",
+      "full_text": "پس به دینور آمد"
+    },
+    {
+      "place": "دینور",
+      "context": "died",
+      "full_text": "و آن جا برفت"
+    },
+    {
+      "place": "وادی قری",
+      "context": "died",
+      "full_text": "شیخ الاسلام گفت قدس اللّه روحه: که بآخر عمر به وادی قری در مسجد رفت گرسنه «و شدند» ویرا چیزی خوردنی ندادند و مهمان نداشتند، آن شب ازگشنامار بمرد."
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت قدس اللّه روحه: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "یکی",
+          "person_id": 2670,
+          "canonical_name": "يكي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبداللّه دینوری",
+          "person_id": 1792,
+          "canonical_name": "عبد الله الدينوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 866,
+          "canonical_name": "أبو عبد الله الدينوري",
+          "has_id": 138,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: یکی گفت: که\nعبداللّه دینوری گوید: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابو عبداللهّ الدینوری",
+          "person_id": 866,
+          "canonical_name": "أبو عبد الله الدينوري",
+          "has_id": 138,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال ابو عبداللهّ الدینوری لبعض اصحابه:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت کی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وگفت که",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت قدس اللّه روحه: که",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "یکی",
+      "relationship_type": "direct_narrator",
+      "full_text": "یکی گفت: که",
+      "person_id": 2670,
+      "canonical_name": "يكي",
+      "has_id": NaN
+    },
+    {
+      "name": "بعض اصحابه",
+      "relationship_type": "interlocutor",
+      "context": "addressed",
+      "full_text": "لبعض اصحابه",
+      "person_id": 1339,
+      "canonical_name": "بعض أصحابه",
+      "has_id": NaN
+    }
+  ]
+}

@@ -1,0 +1,2325 @@
+{
+  "bio_id": "435",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بسطام",
+      "context": "nisba",
+      "full_text": "البسطامي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عمر بن أحمد بن عثمان",
+          "person_id": 2094,
+          "canonical_name": "عمر بن أحمد بن عثمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن أحمد بن موسى الصرفى",
+          "person_id": 1817,
+          "canonical_name": "عبد الله بن أحمد بن موسى الصرفي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن حابان",
+          "person_id": 1248,
+          "canonical_name": "أحمد بن محمد بن حابان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر البسطامي",
+          "person_id": 2085,
+          "canonical_name": "عمر البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو موسى",
+          "person_id": 1088,
+          "canonical_name": "أبو موسى الديبلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد البسطامي",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عمر بن أحمد بن عثمان ثنا عبد الله بن أحمد بن موسى الصرفى ثنا أحمد بن محمد بن حابان ثنا عمر البسطامي عن أبي موسى عن أبي يزيد البسطامي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يعقوب بن إسحاق",
+          "person_id": 2663,
+          "canonical_name": "يعقوب بن إسحاق الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الهروي",
+          "person_id": 289,
+          "canonical_name": "إبراهيم الهروي",
+          "has_id": 271,
+          "subj_added": false
+        },
+        {
+          "name": "أبا يزيد البسطامي",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن الحسين قال سمعت منصور بن عبد الله يقول سمعت يعقوب بن إسحاق يقول سمعت إبراهيم الهروي يقول سمعت أبا يزيد البسطامي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الواحد بن بكر",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن بن إبراهيم الدامغانى",
+          "person_id": 77,
+          "canonical_name": "الحسن بن إبراهيم الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "موسى بن عيسى",
+          "person_id": 1004,
+          "canonical_name": "أبو عمران موسى بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1091,
+          "canonical_name": "أبو موسى خادم البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الواحد بن بكر قال قال الحسن بن إبراهيم الدامغانى ثنا موسى بن عيسى قال سمعت أبي يقول سمعت أبا يزيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر بن عثمان",
+          "person_id": 2104,
+          "canonical_name": "عمر بن عثمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن أحمد بن موسى",
+          "person_id": 1817,
+          "canonical_name": "عبد الله بن أحمد بن موسى الصرفي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن جابان",
+          "person_id": 1247,
+          "canonical_name": "أحمد بن محمد بن جابان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر البسطامي",
+          "person_id": 2085,
+          "canonical_name": "عمر البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي موسى",
+          "person_id": 1088,
+          "canonical_name": "أبو موسى الديبلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عمر بن عثمان ثنا عبد الله بن أحمد بن موسى ثنا أحمد بن محمد بن جابان ثنا عمر البسطامي عن أبي موسى عن أبي يزيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الفضل بن جعفر",
+          "person_id": 195,
+          "canonical_name": "الفضل بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن منصور",
+          "person_id": 2454,
+          "canonical_name": "محمد بن منصور الطوسي",
+          "has_id": 789,
+          "subj_added": false
+        },
+        {
+          "name": "عبيد بن عبد القاهر",
+          "person_id": 1937,
+          "canonical_name": "عبيد بن عبد القاهر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت الفضل بن جعفر يقول سمعت محمد بن منصور يقول قال عبيد بن عبد القاهر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الفضل بن جعفر",
+          "person_id": 195,
+          "canonical_name": "الفضل بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن منصور",
+          "person_id": 2454,
+          "canonical_name": "محمد بن منصور الطوسي",
+          "has_id": 789,
+          "subj_added": false
+        },
+        {
+          "name": "عبيد بن عبد القاهر",
+          "person_id": 1937,
+          "canonical_name": "عبيد بن عبد القاهر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال أبو يزيد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر بن أحمد",
+          "person_id": 2094,
+          "canonical_name": "عمر بن أحمد بن عثمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن أحمد",
+          "person_id": 1812,
+          "canonical_name": "عبد الله بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد",
+          "person_id": 1248,
+          "canonical_name": "أحمد بن محمد بن حابان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان",
+          "person_id": 1947,
+          "canonical_name": "عثمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي موسى",
+          "person_id": 1088,
+          "canonical_name": "أبو موسى الديبلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عمر بن أحمد ثنا عبد الله بن أحمد ثنا أحمد بن محمد ثنا عثمان عن أبي موسى قال قال أبو يزيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسن الرازى",
+          "person_id": 71,
+          "canonical_name": "أبو الحسن الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف ابن الحسين",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "يحيى بن معاذ",
+          "person_id": 2650,
+          "canonical_name": "يحيى بن معاذ الرازي",
+          "has_id": 844,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد البسطامي",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عثمان بن محمد العثماني ثنا أبو الحسن الرازى قال سمعت يوسف ابن الحسين يقول سمعت يحيى بن معاذ يقول قال أبو يزيد البسطامي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الفضل أحمد بن أبي عمران",
+          "person_id": 523,
+          "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عمران موسى بن عيسى",
+          "person_id": 1004,
+          "canonical_name": "أبو عمران موسى بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1091,
+          "canonical_name": "أبو موسى خادم البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو الفضل أحمد بن أبي عمران ثنا منصور بن عبد الله قال سمعت أبا عمران موسى بن عيسى يقول سمعت أبي يقول قال أبو يزيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن أبى عمران",
+          "person_id": 1176,
+          "canonical_name": "أحمد بن أبى عمران",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "موسى",
+          "person_id": 2559,
+          "canonical_name": "موسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "منصور",
+          "person_id": 2541,
+          "canonical_name": "منصور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد بن أبى عمران ثنا موسى ثنا منصور قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "احمد",
+          "person_id": 523,
+          "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "منصور",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "موسى",
+          "person_id": 1004,
+          "canonical_name": "أبو عمران موسى بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا احمد ثنا منصور ثنا موسى قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الفضل بن جعفر",
+          "person_id": 195,
+          "canonical_name": "الفضل بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن منصور",
+          "person_id": 2454,
+          "canonical_name": "محمد بن منصور الطوسي",
+          "has_id": 789,
+          "subj_added": false
+        },
+        {
+          "name": "عبيد",
+          "person_id": 1937,
+          "canonical_name": "عبيد بن عبد القاهر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت الفضل بن جعفر يقول سمعت محمد بن منصور سمعت عبيد يقول قال أبو يزيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر بن أحمد بن عثمان",
+          "person_id": 2094,
+          "canonical_name": "عمر بن أحمد بن عثمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبيد الله بن أحمد",
+          "person_id": 1927,
+          "canonical_name": "عبيد الله بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن جابان",
+          "person_id": 1247,
+          "canonical_name": "أحمد بن محمد بن جابان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر البسطامي",
+          "person_id": 2085,
+          "canonical_name": "عمر البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي موسى",
+          "person_id": 1088,
+          "canonical_name": "أبو موسى الديبلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عمر بن أحمد بن عثمان ثنا عبيد الله بن أحمد ثنا أحمد بن محمد بن جابان ثنا عمر البسطامي عن أبي موسى عن أبي يزيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر",
+          "person_id": 2085,
+          "canonical_name": "عمر البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبيد",
+          "person_id": 1937,
+          "canonical_name": "عبيد بن عبد القاهر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1248,
+          "canonical_name": "أحمد بن محمد بن حابان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر",
+          "person_id": 2085,
+          "canonical_name": "عمر البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي موسى",
+          "person_id": 1088,
+          "canonical_name": "أبو موسى الديبلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عمر ثنا عبيد ثنا أحمد ثنا عمر عن أبي موسى. قال قال أبو يزيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عمران موسى بن عيسى",
+          "person_id": 1004,
+          "canonical_name": "أبو عمران موسى بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1091,
+          "canonical_name": "أبو موسى خادم البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا محمد بن الحسين قال سمعت منصور بن عبد الله يقول سمعت أبا عمران موسى بن عيسى يقول سمعت أبي يقول قال أبو يزيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عمران موسى بن عيسى",
+          "person_id": 1004,
+          "canonical_name": "أبو عمران موسى بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1091,
+          "canonical_name": "أبو موسى خادم البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال أبو يزيد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا الحسن المروزي",
+          "has_id": NaN,
+          "person_id": 58,
+          "canonical_name": "الأزدي",
+          "subj_added": false
+        },
+        {
+          "name": "امرأة أبي يزيد البسطامي",
+          "person_id": 262,
+          "canonical_name": "امرأة أبي يزيد البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وسمعت أبا الحسن بن مقسم يقول سمعت أبا الحسن المروزي يقول سمعت امرأة أبي يزيد البسطامي تقول سمعت أبا يزيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا الحسن المروزي",
+          "has_id": NaN,
+          "person_id": 59,
+          "canonical_name": "الأعمش",
+          "subj_added": false
+        },
+        {
+          "name": "امرأة أبي يزيد",
+          "person_id": 262,
+          "canonical_name": "امرأة أبي يزيد البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن يقول سمعت أبا الحسن المروزي يقول سمعت امرأة أبي يزيد تقول سمعت أبا يزيد تقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر بن أحمد",
+          "person_id": 2094,
+          "canonical_name": "عمر بن أحمد بن عثمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبيد الله بن أحمد",
+          "person_id": 1927,
+          "canonical_name": "عبيد الله بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد",
+          "person_id": 1248,
+          "canonical_name": "أحمد بن محمد بن حابان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر",
+          "person_id": 2085,
+          "canonical_name": "عمر البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي موسى",
+          "person_id": 1088,
+          "canonical_name": "أبو موسى الديبلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عمر بن أحمد ثنا عبيد الله بن أحمد ثنا أحمد بن محمد ثنا عمر عن أبي موسى عن أبي يزيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن على",
+          "person_id": 1220,
+          "canonical_name": "أحمد بن على",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يعقوب",
+          "person_id": 2663,
+          "canonical_name": "يعقوب بن إسحاق الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن ابن علي",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا محمد بن الحسين قال سمعت أحمد بن على سمعت يعقوب سمعت الحسن ابن علي يقول قال أبو يزيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن على",
+          "person_id": 1220,
+          "canonical_name": "أحمد بن على",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يعقوب",
+          "person_id": 2663,
+          "canonical_name": "يعقوب بن إسحاق الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن ابن علي",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن أبي عمران",
+          "person_id": 523,
+          "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عمران موسى بن عيسى",
+          "person_id": 1004,
+          "canonical_name": "أبو عمران موسى بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1091,
+          "canonical_name": "أبو موسى خادم البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد بن أبي عمران ثنا منصور بن عبد الله قال سمعت أبا عمران موسى بن عيسى يقول سمعت أبي يقول قال أبو يزيد أو سئل ما علامة العارف - ٩ -",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن أبي عمران",
+          "person_id": 523,
+          "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عمران موسى بن عيسى",
+          "person_id": 1004,
+          "canonical_name": "أبو عمران موسى بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1091,
+          "canonical_name": "أبو موسى خادم البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "الفضل بن جعفر",
+          "person_id": 195,
+          "canonical_name": "الفضل بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبيد بن عبد القاهر",
+          "person_id": 1937,
+          "canonical_name": "عبيد بن عبد القاهر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد البسطامي",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت الفضل بن جعفر يقول سمعت الحسن يقول سمعت عبيد بن عبد القاهر يقول قال أبو يزيد البسطامي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الفضل بن جعفر",
+          "person_id": 195,
+          "canonical_name": "الفضل بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبيد بن عبد القاهر",
+          "person_id": 1937,
+          "canonical_name": "عبيد بن عبد القاهر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد البسطامي",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وسئل عن درجة العارف، فقال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر بن أحمد",
+          "person_id": 2094,
+          "canonical_name": "عمر بن أحمد بن عثمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن أحمد",
+          "person_id": 1812,
+          "canonical_name": "عبد الله بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد",
+          "person_id": 1248,
+          "canonical_name": "أحمد بن محمد بن حابان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر",
+          "person_id": 2085,
+          "canonical_name": "عمر البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي موسى",
+          "person_id": 1088,
+          "canonical_name": "أبو موسى الديبلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عمر بن أحمد ثنا عبد الله بن أحمد ثنا أحمد بن محمد ثنا عمر عن أبي موسى قال سمعت أبا يزيد يقول يوما",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر بن أحمد",
+          "person_id": 2094,
+          "canonical_name": "عمر بن أحمد بن عثمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن أحمد",
+          "person_id": 1812,
+          "canonical_name": "عبد الله بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد",
+          "person_id": 1248,
+          "canonical_name": "أحمد بن محمد بن حابان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر",
+          "person_id": 2085,
+          "canonical_name": "عمر البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي موسى",
+          "person_id": 1088,
+          "canonical_name": "أبو موسى الديبلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعوه يوما وهو يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر بن أحمد",
+          "person_id": 2094,
+          "canonical_name": "عمر بن أحمد بن عثمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن أحمد",
+          "person_id": 1812,
+          "canonical_name": "عبد الله بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد",
+          "person_id": 1248,
+          "canonical_name": "أحمد بن محمد بن حابان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر",
+          "person_id": 2085,
+          "canonical_name": "عمر البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي موسى",
+          "person_id": 1088,
+          "canonical_name": "أبو موسى الديبلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وسمعوه يوما وهو يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر بن أحمد",
+          "person_id": 2094,
+          "canonical_name": "عمر بن أحمد بن عثمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن أحمد",
+          "person_id": 1812,
+          "canonical_name": "عبد الله بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد",
+          "person_id": 1248,
+          "canonical_name": "أحمد بن محمد بن حابان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر",
+          "person_id": 2085,
+          "canonical_name": "عمر البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي موسى",
+          "person_id": 1088,
+          "canonical_name": "أبو موسى الديبلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وسأله رجل من أصحب؟ فقال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر بن أحمد",
+          "person_id": 2094,
+          "canonical_name": "عمر بن أحمد بن عثمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن أحمد",
+          "person_id": 1812,
+          "canonical_name": "عبد الله بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد",
+          "person_id": 1248,
+          "canonical_name": "أحمد بن محمد بن حابان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر",
+          "person_id": 2085,
+          "canonical_name": "عمر البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي موسى",
+          "person_id": 1088,
+          "canonical_name": "أبو موسى الديبلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَسَمِعُوهُ يوماً يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر بن أحمد",
+          "person_id": 2094,
+          "canonical_name": "عمر بن أحمد بن عثمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن أحمد",
+          "person_id": 1812,
+          "canonical_name": "عبد الله بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد",
+          "person_id": 1248,
+          "canonical_name": "أحمد بن محمد بن حابان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر",
+          "person_id": 2085,
+          "canonical_name": "عمر البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي موسى",
+          "person_id": 1088,
+          "canonical_name": "أبو موسى الديبلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وسمعوه يوما وهو يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر بن أحمد",
+          "person_id": 2094,
+          "canonical_name": "عمر بن أحمد بن عثمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن أحمد",
+          "person_id": 1812,
+          "canonical_name": "عبد الله بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد",
+          "person_id": 1248,
+          "canonical_name": "أحمد بن محمد بن حابان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر",
+          "person_id": 2085,
+          "canonical_name": "عمر البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي موسى",
+          "person_id": 1088,
+          "canonical_name": "أبو موسى الديبلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وسأله رجل من أصاحب؟ فقال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن أبي عمران",
+          "person_id": 523,
+          "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "موسى",
+          "person_id": 1004,
+          "canonical_name": "أبو عمران موسى بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1091,
+          "canonical_name": "أبو موسى خادم البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد بن أبي عمران ثنا منصور بن عبد الله قال سمعت موسى يقول سمعت أبي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو عمر بن حمدان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 583,
+          "canonical_name": "أبو أبي عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابا عثمان سعيد ابن إسماعيل",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا أبو عمر بن حمدان قال وجدت بخط أبي سمعت ابا عثمان سعيد ابن إسماعيل يقول قال أبو يزيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا نصر الهروي",
+          "person_id": 1101,
+          "canonical_name": "أبو نصر الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يعقوب بن إسحاق",
+          "person_id": 2663,
+          "canonical_name": "يعقوب بن إسحاق الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الهروي",
+          "person_id": 289,
+          "canonical_name": "إبراهيم الهروي",
+          "has_id": 271,
+          "subj_added": false
+        },
+        {
+          "name": "أبا يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا محمد بن الحسين بن موسى قال سمعت أبا نصر الهروي يقول سمعت يعقوب بن إسحاق يقول سمعت إبراهيم الهروي يقول سمعت أبا يزيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا نصر الهروي",
+          "person_id": 1101,
+          "canonical_name": "أبو نصر الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يعقوب بن إسحاق",
+          "person_id": 2663,
+          "canonical_name": "يعقوب بن إسحاق الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الهروي",
+          "person_id": 289,
+          "canonical_name": "إبراهيم الهروي",
+          "has_id": 271,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال أبو يزيد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "منصور",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يعقوب بن إسحاق",
+          "person_id": 2663,
+          "canonical_name": "يعقوب بن إسحاق الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الهروي",
+          "person_id": 289,
+          "canonical_name": "إبراهيم الهروي",
+          "has_id": 271,
+          "subj_added": false
+        },
+        {
+          "name": "أبا يزيد البسطامي",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا محمد بن الحسين قال سمعت منصورا يقول سمعت يعقوب بن إسحاق يقول سمعت إبراهيم الهروي يقول سمعت أبا يزيد البسطامي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "منصور",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يعقوب بن إسحاق",
+          "person_id": 2663,
+          "canonical_name": "يعقوب بن إسحاق الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الهروي",
+          "person_id": 289,
+          "canonical_name": "إبراهيم الهروي",
+          "has_id": 271,
+          "subj_added": false
+        },
+        {
+          "name": "أبا يزيد البسطامي",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "الفضل بن جعفر",
+          "person_id": 195,
+          "canonical_name": "الفضل بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن منصور",
+          "person_id": 2454,
+          "canonical_name": "محمد بن منصور الطوسي",
+          "has_id": 789,
+          "subj_added": false
+        },
+        {
+          "name": "عبيد ابن عبد القاهر",
+          "person_id": 1937,
+          "canonical_name": "عبيد بن عبد القاهر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت الفضل بن جعفر يقول سمعت محمد بن منصور يقول سمعت عبيد ابن عبد القاهر يقول قال أبو يزيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الفضل بن جعفر",
+          "person_id": 195,
+          "canonical_name": "الفضل بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن منصور",
+          "person_id": 2454,
+          "canonical_name": "محمد بن منصور الطوسي",
+          "has_id": 789,
+          "subj_added": false
+        },
+        {
+          "name": "عبيد ابن عبد القاهر",
+          "person_id": 1937,
+          "canonical_name": "عبيد بن عبد القاهر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال رجل لأبي يزيد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن أبي عمران",
+          "person_id": 523,
+          "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عمران موسى",
+          "person_id": 1004,
+          "canonical_name": "أبو عمران موسى بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر البسطامي",
+          "person_id": 2085,
+          "canonical_name": "عمر البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 990,
+          "canonical_name": "أبو عمر البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد بن أبي عمران قال سمعت منصور بن عبد الله يقول سمعت أبا عمران موسى يقول سمعت عمر البسطامي يقول سمعت أبي يقول قال أبو يزيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن أبي عمران",
+          "person_id": 523,
+          "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عمران موسى",
+          "person_id": 1004,
+          "canonical_name": "أبو عمران موسى بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر البسطامي",
+          "person_id": 2085,
+          "canonical_name": "عمر البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 990,
+          "canonical_name": "أبو عمر البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وسئل عن قوله ﴿(إنا لله وإنا إليه﴾ ١",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عمران",
+          "person_id": 1004,
+          "canonical_name": "أبو عمران موسى بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر البسطامي",
+          "person_id": 2085,
+          "canonical_name": "عمر البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين بن موسى يقول سمعت منصور بن عبد الله يقول سمعت أبا عمران يقول سمعت عمر البسطامي يقول سمعت أبا يزيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا موسى بن عيسى",
+          "person_id": 1090,
+          "canonical_name": "أبو موسى بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر",
+          "person_id": 2085,
+          "canonical_name": "عمر البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1091,
+          "canonical_name": "أبو موسى خادم البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أبا موسى بن عيسى يقول سمعت عمر يقول سمعت أبي يقول سمعت أبا يزيد يقول لو",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "منصور",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا يعقوب النهرجوري",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن عبيد الهمدانى",
+          "person_id": 2054,
+          "canonical_name": "علي بن عبيد الهمدانى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يحيى بن معاذ",
+          "person_id": 2650,
+          "canonical_name": "يحيى بن معاذ الرازي",
+          "has_id": 844,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت منصورا يقول سمعت أبا يعقوب النهرجوري يقول سمعت علي بن عبيد الهمدانى يقول كتب يحيى بن معاذ إلى أبي يزيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن عبد الله",
+          "person_id": 2045,
+          "canonical_name": "علي بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "تيمور البسطامي",
+          "person_id": 1367,
+          "canonical_name": "تيمور البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        },
+        {
+          "name": "موسى بن عيسى",
+          "person_id": 1004,
+          "canonical_name": "أبو عمران موسى بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1091,
+          "canonical_name": "أبو موسى خادم البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت علي بن عبد الله يقول سمعت تيمور البسطامي يقول سمعت موسى بن عيسى يقول قال أبي قال أبو يزيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا إسحاق إبراهيم بن أحمد بن محمد الحلواني - بطرتيب -",
+          "person_id": 574,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن محمد الحلواني",
+          "has_id": 269,
+          "subj_added": false
+        },
+        {
+          "name": "يعقوب بن إسحاق الهروي",
+          "person_id": 2663,
+          "canonical_name": "يعقوب بن إسحاق الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الهروي",
+          "person_id": 289,
+          "canonical_name": "إبراهيم الهروي",
+          "has_id": 271,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا إسحاق إبراهيم بن أحمد بن محمد الحلواني - بطرتيب - يقول سمعت يعقوب بن إسحاق الهروي يقول سمعت إبراهيم الهروي وذكر عن أبي يزيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا إسحاق إبراهيم بن أحمد بن محمد الحلواني - بطرتيب -",
+          "person_id": 574,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن محمد الحلواني",
+          "has_id": 269,
+          "subj_added": false
+        },
+        {
+          "name": "يعقوب بن إسحاق الهروي",
+          "person_id": 2663,
+          "canonical_name": "يعقوب بن إسحاق الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الهروي",
+          "person_id": 289,
+          "canonical_name": "إبراهيم الهروي",
+          "has_id": 271,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وقرئ عند أبي يزيد يوما ﴿(يوم نحشر المتقين إلى الرحمن وفدا)﴾",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا إسحاق إبراهيم بن أحمد بن محمد الحلواني - بطرتيب -",
+          "person_id": 574,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن محمد الحلواني",
+          "has_id": 269,
+          "subj_added": false
+        },
+        {
+          "name": "يعقوب بن إسحاق الهروي",
+          "person_id": 2663,
+          "canonical_name": "يعقوب بن إسحاق الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الهروي",
+          "person_id": 289,
+          "canonical_name": "إبراهيم الهروي",
+          "has_id": 271,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقيل لأبي يزيد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الفتح بن الحمصي أحمد بن الحسين بن محمد ابن سهل",
+          "person_id": 515,
+          "canonical_name": "أبو الفتح بن الحمصي أحمد بن الحسين بن محمد بن سهل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن جعفر البغدادي",
+          "person_id": 2026,
+          "canonical_name": "علي بن جعفر البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو موسى الدؤلي",
+          "person_id": 1088,
+          "canonical_name": "أبو موسى الديبلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد البسطامي",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الرحمن السندى",
+          "person_id": 846,
+          "canonical_name": "أبو عبد الرحمن السندى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمرو بن قيس الملائي",
+          "person_id": 2127,
+          "canonical_name": "عمرو بن قيس الملائي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عطية",
+          "person_id": 1970,
+          "canonical_name": "عطية",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو سعيد الخدري",
+          "person_id": 800,
+          "canonical_name": "أبو سعيد الخدري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "رسول الله ﷺ",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "فذكر أن علي بن جعفر البغدادي حدثهم قال قال أبو موسى الدؤلي ثنا أبو يزيد البسطامي ثنا أبو عبد الرحمن السندى عن عمرو بن قيس الملائي عن عطية عن أبي سعيد الخدري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "القاضي أبو أحمد محمد بن أحمد بن إبراهيم",
+          "person_id": 213,
+          "canonical_name": "القاضي أبو أحمد محمد بن أحمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسين بن حفص",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن محمد بن مروان وهو السرى",
+          "person_id": 2068,
+          "canonical_name": "علي بن محمد بن مروان وهو السرى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 2067,
+          "canonical_name": "علي بن محمد بن مروان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمرو بن قيس الملائي",
+          "person_id": 2127,
+          "canonical_name": "عمرو بن قيس الملائي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عطية",
+          "person_id": 1970,
+          "canonical_name": "عطية",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو سعيد",
+          "person_id": 800,
+          "canonical_name": "أبو سعيد الخدري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "رسول الله ﷺ",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحدثنا بهذا الحديث القاضي أبو أحمد محمد بن أحمد بن إبراهيم ثنا محمد بن الحسين بن حفص ثنا علي بن محمد بن مروان وهو السرى ثنا أبي ثنا عمرو بن قيس الملائي عن عطية عن أبي سعيد قال قال رسول الله ﷺ",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبو موسى",
+      "relationship_type": "narrator",
+      "full_text": "ثنا عمر البسطامي عن أبي موسى عن أبي يزيد البسطامي قال",
+      "person_id": 1088,
+      "canonical_name": "أبو موسى الديبلي",
+      "has_id": NaN
+    },
+    {
+      "name": "إبراهيم الهروي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت إبراهيم الهروي يقول سمعت أبا يزيد البسطامي يقول",
+      "person_id": 289,
+      "canonical_name": "إبراهيم الهروي",
+      "has_id": 271
+    },
+    {
+      "name": "أبي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبي يقول سمعت أبا يزيد يقول",
+      "person_id": 585,
+      "canonical_name": "أبو أبي نعيم الأصفهاني",
+      "has_id": NaN
+    },
+    {
+      "name": "عبيد بن عبد القاهر",
+      "relationship_type": "narrator",
+      "full_text": "قال عبيد بن عبد القاهر",
+      "person_id": 1937,
+      "canonical_name": "عبيد بن عبد القاهر",
+      "has_id": NaN
+    },
+    {
+      "name": "يحيى بن معاذ",
+      "relationship_type": "narrator",
+      "full_text": "سمعت يحيى بن معاذ يقول قال أبو يزيد البسطامي",
+      "person_id": 2650,
+      "canonical_name": "يحيى بن معاذ الرازي",
+      "has_id": 844
+    },
+    {
+      "name": "منصور",
+      "relationship_type": "narrator",
+      "full_text": "ثنا منصور قال جاء رجل إلى أبي يزيد فقال: أوصني",
+      "person_id": 2541,
+      "canonical_name": "منصور",
+      "has_id": NaN
+    },
+    {
+      "name": "موسى",
+      "relationship_type": "narrator",
+      "full_text": "ثنا موسى قال جاء رجل إلى أبي يزيد فقال بلغني أنك تمر في الهواء",
+      "person_id": 2559,
+      "canonical_name": "موسى",
+      "has_id": NaN
+    },
+    {
+      "name": "امرأة أبي يزيد البسطامي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت امرأة أبي يزيد البسطامي تقول سمعت أبا يزيد يقول",
+      "person_id": 262,
+      "canonical_name": "امرأة أبي يزيد البسطامي",
+      "has_id": NaN
+    },
+    {
+      "name": "الحسن ابن علي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت الحسن ابن علي يقول قال أبو يزيد",
+      "person_id": 94,
+      "canonical_name": "الحسن بن علي",
+      "has_id": NaN
+    },
+    {
+      "name": "ابا عثمان سعيد ابن إسماعيل",
+      "relationship_type": "narrator",
+      "full_text": "سمعت ابا عثمان سعيد ابن إسماعيل يقول قال أبو يزيد",
+      "person_id": 932,
+      "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+      "has_id": 419
+    },
+    {
+      "name": "عمر البسطامي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت عمر البسطامي يقول سمعت أبا يزيد يقول",
+      "person_id": 2085,
+      "canonical_name": "عمر البسطامي",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "context": "questioner",
+      "full_text": "جاء رجل إلى أبي يزيد فقال: أوصني",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    },
+    {
+      "name": "احمد بن خرب",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "sender",
+      "full_text": "ووجه اليه احمد بن خرب حصيرا وكتب معه إليه صل عليه بالليل",
+      "person_id": 1193,
+      "canonical_name": "أحمد بن خرب",
+      "has_id": NaN
+    }
+  ]
+}

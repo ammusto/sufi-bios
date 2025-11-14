@@ -1,0 +1,494 @@
+{
+  "bio_id": "578",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "303",
+    "full_text": "در سنه ثلث و ثلثمائه برفت از دنیا.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "البغدادی"
+    },
+    {
+      "place": "بغداد",
+      "context": "born",
+      "full_text": "از اهل بغداد است"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعبداللّه خفیف٭",
+          "person_id": 22,
+          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 26,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و بوعبداللّه خفیف٭ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "روی",
+          "person_id": 1551,
+          "canonical_name": "روي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سئل روی عن التصوف، فقال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جنید",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "جنیدگفته بود ویرا:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "رویم",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "رویم گفت بوعمر ورا:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جنید",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "جنید چون ویرا دید گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "رویم",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "رویم دست در کتف وی نهد و گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "رویم",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و هم رویم گفت،",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ سیروانی٭",
+          "person_id": 165,
+          "canonical_name": "السيرواني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و شیخ سیروانی٭ نیزگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعثمان مغربی٭",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و بوعثمان مغربی٭ گفت،",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الامام",
+          "person_id": 55,
+          "canonical_name": "الامام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وانشدنا الامام لنفسه،",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "رویم",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سئل رویم عن المراقبة فقال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "رویم",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و سئل رویم عن القربة فقال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "رویم",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و سئل رویم عن الانس فقال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "رویم",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "رویم گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "رویم",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "ویرا گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: پس از خراز، رویم رامه نهادی پس جنید و نوری",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "رویم",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سئل رویم عن التصوف، فقال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "رویم",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و قال التصوف:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "رویم",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و قال مکثت عشرین سنة",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "جنید",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "رویم خود را شاگرد جنید مینمود",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "ادریس بن عبد الکریم حداد",
+        "relationship_type": "student_of",
+        "relationship_phrase": "خوانده بود",
+        "full_text": "قرآن را برادریس بن عبد الکریم حداد خوانده بود.",
+        "person_id": 43,
+        "canonical_name": "إدريس بن عبد الكريم الحداد",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "جنید",
+        "relationship_type": "peer",
+        "relationship_phrase": "از یاران ویست",
+        "full_text": "از یاران ویست",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "بوعبداللّه خفیف٭",
+      "relationship_type": "direct_narrator",
+      "full_text": "و بوعبداللّه خفیف٭ گوید:",
+      "person_id": 22,
+      "canonical_name": "أبو عبد الله بن خفيف",
+      "has_id": 26
+    },
+    {
+      "name": "جنید",
+      "relationship_type": "interlocutor",
+      "full_text": "جنید چون ویرا دید گفت: هین! بگو چون دیدی ویرا؟",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    },
+    {
+      "name": "بوعمرو زجاج٭",
+      "relationship_type": "interlocutor",
+      "full_text": "رویم گفت بوعمر ورا:",
+      "person_id": 1011,
+      "canonical_name": "أبو عمرو الزجاجي",
+      "has_id": 426
+    },
+    {
+      "name": "شیخ سیروانی٭",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "و شیخ سیروانی٭ نیزگفت:",
+      "person_id": 165,
+      "canonical_name": "السيرواني",
+      "has_id": NaN
+    },
+    {
+      "name": "بوعثمان مغربی٭",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "و بوعثمان مغربی٭ گفت،",
+      "person_id": 942,
+      "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+      "has_id": 156
+    },
+    {
+      "name": "الامام",
+      "relationship_type": "narrator",
+      "full_text": "وانشدنا الامام لنفسه،",
+      "person_id": 55,
+      "canonical_name": "الامام",
+      "has_id": NaN
+    },
+    {
+      "name": "ادریس بن عبد الکریم حداد",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "قرآن را برادریس بن عبد الکریم حداد خوانده بود.",
+      "person_id": 43,
+      "canonical_name": "إدريس بن عبد الكريم الحداد",
+      "has_id": NaN
+    },
+    {
+      "name": "کسی",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "وقتی کسی رویم را چیزی گفته بود",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    },
+    {
+      "name": "یکی",
+      "relationship_type": "questioner",
+      "full_text": "یکی فراز آمد جنید را پرسد، کی الهام چه بود؟",
+      "person_id": 2670,
+      "canonical_name": "يكي",
+      "has_id": NaN
+    },
+    {
+      "name": "خراز",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "پس از خراز، رویم رامه نهادی پس جنید و نوری",
+      "person_id": 801,
+      "canonical_name": "أبو سعيد الخراز",
+      "has_id": 123
+    },
+    {
+      "name": "نوری",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "پس از خراز، رویم رامه نهادی پس جنید و نوری",
+      "person_id": 452,
+      "canonical_name": "أبو الحسين النوري",
+      "has_id": 439
+    },
+    {
+      "name": "داود صباهانی",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "عالم مذهب داود صباهانی",
+      "person_id": 1512,
+      "canonical_name": "داود الأصبهاني",
+      "has_id": NaN
+    }
+  ]
+}

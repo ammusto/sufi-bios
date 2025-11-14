@@ -1,0 +1,342 @@
+{
+  "bio_id": "23",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "~340s",
+    "full_text": "مَاتَ سنة نَيف وَأَرْبَعين وثلاثمائة",
+    "certainty": "approximate"
+  },
+  "geographical_locations": [
+    {
+      "place": "مصر",
+      "context": "lived",
+      "full_text": "من كبار مَشَايِخ المصريين"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبُو عُثْمَان المغربي",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 973,
+          "canonical_name": "أبو علي بن الكاتب",
+          "has_id": 23,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَكَانَ أَبُو عُثْمَان المغربي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن عَليّ بن جَعْفَر",
+          "person_id": 1226,
+          "canonical_name": "أحمد بن علي بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابا عَليّ بن الْكَاتِب",
+          "person_id": 973,
+          "canonical_name": "أبو علي بن الكاتب",
+          "has_id": 23,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَحْمد بن عَليّ بن جَعْفَر يَقُول سَمِعت ابا عَليّ بن الْكَاتِب يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس أَحْمد بن مُحَمَّد بن زَكَرِيَّا",
+          "person_id": 500,
+          "canonical_name": "أبو العباس أحمد بن محمد بن زكريا النسوي",
+          "has_id": 107,
+          "subj_added": false
+        },
+        {
+          "name": "معَاذ بن مُحَمَّد التنيسِي",
+          "person_id": 2517,
+          "canonical_name": "معاذ بن محمد التنيسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَليّ بن الْكَاتِب",
+          "person_id": 973,
+          "canonical_name": "أبو علي بن الكاتب",
+          "has_id": 23,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْعَبَّاس أَحْمد بن مُحَمَّد بن زَكَرِيَّا يَقُول سَمِعت معَاذ بن مُحَمَّد التنيسِي يَقُول سَمِعت أَبَا عَليّ بن الْكَاتِب يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس أَحْمد بن مُحَمَّد بن زَكَرِيَّا",
+          "person_id": 500,
+          "canonical_name": "أبو العباس أحمد بن محمد بن زكريا النسوي",
+          "has_id": 107,
+          "subj_added": false
+        },
+        {
+          "name": "معَاذ بن مُحَمَّد التنيسِي",
+          "person_id": 2517,
+          "canonical_name": "معاذ بن محمد التنيسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَليّ بن الْكَاتِب",
+          "person_id": 973,
+          "canonical_name": "أبو علي بن الكاتب",
+          "has_id": 23,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا عَليّ بن الْكَاتِب يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس أَحْمد بن مُحَمَّد بن زَكَرِيَّا",
+          "person_id": 500,
+          "canonical_name": "أبو العباس أحمد بن محمد بن زكريا النسوي",
+          "has_id": 107,
+          "subj_added": false
+        },
+        {
+          "name": "معَاذ بن مُحَمَّد التنيسِي",
+          "person_id": 2517,
+          "canonical_name": "معاذ بن محمد التنيسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَليّ بن الْكَاتِب",
+          "person_id": 973,
+          "canonical_name": "أبو علي بن الكاتب",
+          "has_id": 23,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا عَليّ بن الْكَاتِب يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس أَحْمد بن مُحَمَّد بن زَكَرِيَّا",
+          "person_id": 500,
+          "canonical_name": "أبو العباس أحمد بن محمد بن زكريا النسوي",
+          "has_id": 107,
+          "subj_added": false
+        },
+        {
+          "name": "معَاذ بن مُحَمَّد التنيسِي",
+          "person_id": 2517,
+          "canonical_name": "معاذ بن محمد التنيسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَليّ بن الْكَاتِب",
+          "person_id": 973,
+          "canonical_name": "أبو علي بن الكاتب",
+          "has_id": 23,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا عَليّ يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس أَحْمد بن مُحَمَّد بن زَكَرِيَّا",
+          "person_id": 500,
+          "canonical_name": "أبو العباس أحمد بن محمد بن زكريا النسوي",
+          "has_id": 107,
+          "subj_added": false
+        },
+        {
+          "name": "معَاذ بن مُحَمَّد التنيسِي",
+          "person_id": 2517,
+          "canonical_name": "معاذ بن محمد التنيسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَليّ بن الْكَاتِب",
+          "person_id": 973,
+          "canonical_name": "أبو علي بن الكاتب",
+          "has_id": 23,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم الْبَصْرِيّ",
+          "person_id": 531,
+          "canonical_name": "أبو القاسم البصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 973,
+          "canonical_name": "أبو علي بن الكاتب",
+          "has_id": 23,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْقَاسِم الْبَصْرِيّ يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم الْبَصْرِيّ",
+          "person_id": 531,
+          "canonical_name": "أبو القاسم البصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 973,
+          "canonical_name": "أبو علي بن الكاتب",
+          "has_id": 23,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم الْبَصْرِيّ",
+          "person_id": 531,
+          "canonical_name": "أبو القاسم البصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 973,
+          "canonical_name": "أبو علي بن الكاتب",
+          "has_id": 23,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم الْبَصْرِيّ",
+          "person_id": 531,
+          "canonical_name": "أبو القاسم البصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 973,
+          "canonical_name": "أبو علي بن الكاتب",
+          "has_id": 23,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أَبَا بكر الْمصْرِيّ",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَا بكر الْمصْرِيّ",
+        "person_id": 645,
+        "canonical_name": "أبو بكر المصري",
+        "has_id": 89
+      },
+      {
+        "name": "أَبا عَليّ الرُّوذَبَارِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وَأَبا عَليّ الرُّوذَبَارِي",
+        "person_id": 959,
+        "canonical_name": "أبو علي الروذباري",
+        "has_id": 422
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَبُو عُثْمَان المغربي",
+      "relationship_type": "narrator",
+      "full_text": "وَكَانَ أَبُو عُثْمَان المغربي يَقُول",
+      "person_id": 942,
+      "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+      "has_id": 156
+    },
+    {
+      "name": "أَحْمد بن عَليّ بن جَعْفَر",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَحْمد بن عَليّ بن جَعْفَر يَقُول",
+      "person_id": 1226,
+      "canonical_name": "أحمد بن علي بن جعفر",
+      "has_id": NaN
+    },
+    {
+      "name": "معَاذ بن مُحَمَّد التنيسِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت معَاذ بن مُحَمَّد التنيسِي يَقُول",
+      "person_id": 2517,
+      "canonical_name": "معاذ بن محمد التنيسي",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا الْقَاسِم الْبَصْرِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْقَاسِم الْبَصْرِيّ يَقُول",
+      "person_id": 531,
+      "canonical_name": "أبو القاسم البصري",
+      "has_id": NaN
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "bio_id": "506",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1855,
+          "canonical_name": "عبد الله بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "هيثم بن خلف الدوري",
+          "person_id": 2608,
+          "canonical_name": "هيثم بن خلف الدوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إسحاق البكائي",
+          "person_id": 2278,
+          "canonical_name": "محمد بن إسحاق البكائي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خالد بن السفر",
+          "person_id": 1488,
+          "canonical_name": "خالد بن السفر",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد ثنا هيثم بن خلف الدوري قال حدثني محمد بن إسحاق البكائي ثنا خالد بن السفر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سليم",
+          "person_id": 1617,
+          "canonical_name": "سليم المقرى",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "فقال له سليم",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "خالد بن السفر",
+      "relationship_type": "narrator",
+      "full_text": "ثنا خالد بن السفر",
+      "person_id": 1488,
+      "canonical_name": "خالد بن السفر",
+      "has_id": NaN
+    },
+    {
+      "name": "سليم المقرى",
+      "relationship_type": "interlocutor",
+      "full_text": "ورأيته عند سليم المقرى",
+      "person_id": 1617,
+      "canonical_name": "سليم المقرى",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "يقرأ عليه",
+      "full_text": "فأتى سليما رجل يقرأ عليه",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

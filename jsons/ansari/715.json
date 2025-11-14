@@ -1,0 +1,462 @@
+{
+  "bio_id": "715",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "",
+    "full_text": "مات ابوحفص فی سنة اربع و ستین و مائتین. وگفتهاند در سنه سبع و سبعین درآن سال که احمد بن عبداللّه الخجستانی را بکشتند و گفتندکی در سنه تسع و ستین رفته، و پیشینه بیشترگفتهاند و اللهّ اعلم فی وفاته اختلاف»",
+    "certainty": ""
+  },
+  "geographical_locations": [
+    {
+      "place": "نیشابور",
+      "context": "nisba",
+      "full_text": "نشابوری"
+    },
+    {
+      "place": "نیشابور",
+      "context": "lived",
+      "full_text": "از نیشابور است"
+    },
+    {
+      "place": "کورداباد",
+      "context": "lived",
+      "full_text": "از ربه کورداباد بر در نیشابور"
+    },
+    {
+      "place": "بغداد",
+      "context": "visited",
+      "full_text": "به حج میرفت ببغداد آمد"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعمر و زجاجی ٭",
+          "person_id": 1011,
+          "canonical_name": "أبو عمرو الزجاجي",
+          "has_id": 426,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 759,
+          "canonical_name": "أبو حفص الحداد النيسابوري",
+          "has_id": 715,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "بوعمر و زجاجی ٭ گوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "المومل الجصاص الشیرازی",
+          "person_id": 245,
+          "canonical_name": "المؤمل الجصاص الشيرازي",
+          "has_id": 821,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 759,
+          "canonical_name": "أبو حفص الحداد النيسابوري",
+          "has_id": 715,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 759,
+          "canonical_name": "أبو حفص الحداد النيسابوري",
+          "has_id": 715
+        }
+      ],
+      "type": "explicit",
+      "full_text": "و قال المومل الجصاص الشیرازی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوحفص",
+          "person_id": 759,
+          "canonical_name": "أبو حفص الحداد النيسابوري",
+          "has_id": 715,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال ابوحفص",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "با حفص احداد",
+          "person_id": 759,
+          "canonical_name": "أبو حفص الحداد النيسابوري",
+          "has_id": 715,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت با حفص احداد گوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام تفسیرکرد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "با حفص",
+          "person_id": 759,
+          "canonical_name": "أبو حفص الحداد النيسابوري",
+          "has_id": 715,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "با حفص گوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الامام",
+          "person_id": 55,
+          "canonical_name": "الامام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 759,
+          "canonical_name": "أبو حفص الحداد النيسابوري",
+          "has_id": 715,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "و انشدنا الامام لغیره",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعلی ثقفی",
+          "person_id": 947,
+          "canonical_name": "أبو علي الثقفي",
+          "has_id": 112,
+          "subj_added": false
+        },
+        {
+          "name": "باحفص",
+          "person_id": 759,
+          "canonical_name": "أبو حفص الحداد النيسابوري",
+          "has_id": 715,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "بوعلی ثقفی گویدکه با حفص گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوعمرو بن نجید",
+          "person_id": 1015,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+          "has_id": 176,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 759,
+          "canonical_name": "أبو حفص الحداد النيسابوري",
+          "has_id": 715,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قال ابوعمرو بن نجید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوالحسن البوشنجی الصوفی",
+          "person_id": 428,
+          "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
+          "has_id": 292,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 759,
+          "canonical_name": "أبو حفص الحداد النيسابوري",
+          "has_id": 715,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "و قال ابوالحسن البوشنجی الصوفی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابراهیم بن داود القصار",
+          "person_id": 309,
+          "canonical_name": "إبراهيم بن داود القصار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 759,
+          "canonical_name": "أبو حفص الحداد النيسابوري",
+          "has_id": 715,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "و قال! ابراهیم بن داود القصار",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "و قال شیخ الاسلام",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الامام",
+          "person_id": 55,
+          "canonical_name": "الامام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 759,
+          "canonical_name": "أبو حفص الحداد النيسابوري",
+          "has_id": 715,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "انشدنا الامام لنفسه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر زقاق",
+          "person_id": 625,
+          "canonical_name": "أبو بكر الزقاق",
+          "has_id": 375,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 759,
+          "canonical_name": "أبو حفص الحداد النيسابوري",
+          "has_id": 715,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 759,
+          "canonical_name": "أبو حفص الحداد النيسابوري",
+          "has_id": 715
+        }
+      ],
+      "type": "explicit",
+      "full_text": "بوبکر زقاق گوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت در مناجاة",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "عبداللّه مهدی باوردی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد عبداللّه مهدی باوردی،",
+        "person_id": 1882,
+        "canonical_name": "عبد الله بن مهدي",
+        "has_id": NaN
+      },
+      {
+        "name": "شیخ علی نصرآبادی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "صحبت کرده با شیخ علی نصرآبادی.",
+        "person_id": 1990,
+        "canonical_name": "علي النصراباذي",
+        "has_id": NaN
+      }
+    ],
+    "students": [
+      {
+        "name": "محمد آهنگر",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "از شاگردان باحفص",
+        "full_text": "سید از شاگردان باحفص",
+        "person_id": 2221,
+        "canonical_name": "محمد آهنگر",
+        "has_id": NaN
+      },
+      {
+        "name": "محمد علیان",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "شاگرد باحفص است",
+        "full_text": "محمد علیان سید بوده از این طایفه از نسا، شاگرد باحفص است",
+        "person_id": 2420,
+        "canonical_name": "محمد بن عليان",
+        "has_id": 784
+      }
+    ],
+    "companions": [
+      {
+        "name": "احمد خضرویه",
+        "relationship_type": "peer",
+        "relationship_phrase": "رفیق",
+        "full_text": "باحفص رفیق احمد خضرویه است و بایزید بسطامی.",
+        "person_id": 1194,
+        "canonical_name": "أحمد بن خضرويه البلخي",
+        "has_id": 440
+      },
+      {
+        "name": "بایزید بسطامی",
+        "relationship_type": "peer",
+        "relationship_phrase": "رفیق",
+        "full_text": "باحفص رفیق احمد خضرویه است و بایزید بسطامی.",
+        "person_id": 1128,
+        "canonical_name": "أبو يزيد البسطامي",
+        "has_id": 435
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت با حفص احداد گوید",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "المومل الجصاص الشیرازی",
+      "relationship_type": "narrator",
+      "full_text": "و قال المومل الجصاص الشیرازی",
+      "person_id": 245,
+      "canonical_name": "المؤمل الجصاص الشيرازي",
+      "has_id": 821
+    },
+    {
+      "name": "بوعمر و زجاجی ٭",
+      "relationship_type": "narrator",
+      "full_text": "بوعمر و زجاجی ٭ گوید",
+      "person_id": 1011,
+      "canonical_name": "أبو عمرو الزجاجي",
+      "has_id": 426
+    },
+    {
+      "name": "الامام",
+      "relationship_type": "narrator",
+      "full_text": "و انشدنا الامام لغیره",
+      "person_id": 55,
+      "canonical_name": "الامام",
+      "has_id": NaN
+    },
+    {
+      "name": "بوعلی ثقفی",
+      "relationship_type": "direct_narrator",
+      "full_text": "بوعلی ثقفی گویدکه با حفص گفت",
+      "person_id": 947,
+      "canonical_name": "أبو علي الثقفي",
+      "has_id": 112
+    },
+    {
+      "name": "ابوعمرو بن نجید",
+      "relationship_type": "narrator",
+      "full_text": "قال ابوعمرو بن نجید",
+      "person_id": 1015,
+      "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+      "has_id": 176
+    },
+    {
+      "name": "ابوالحسن البوشنجی الصوفی",
+      "relationship_type": "narrator",
+      "full_text": "و قال ابوالحسن البوشنجی الصوفی",
+      "person_id": 428,
+      "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
+      "has_id": 292
+    },
+    {
+      "name": "ابراهیم بن داود القصار",
+      "relationship_type": "narrator",
+      "full_text": "و قال! ابراهیم بن داود القصار",
+      "person_id": 284,
+      "canonical_name": "إبراهيم القصار الرقي",
+      "has_id": 13
+    },
+    {
+      "name": "بوبکر زقاق",
+      "relationship_type": "narrator",
+      "full_text": "بوبکر زقاق گوید",
+      "person_id": 625,
+      "canonical_name": "أبو بكر الزقاق",
+      "has_id": 375
+    },
+    {
+      "name": "جنید",
+      "relationship_type": "interlocutor",
+      "full_text": "جنید پذیره آمد ... جنید گفت ویرا: این اصحاب خود را آداب ملوک آموختهٔ؟",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    },
+    {
+      "name": "بومزاحم",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "visitor",
+      "full_text": "شیخ بومزاحم در رسید «از پارس.»",
+      "person_id": 1071,
+      "canonical_name": "أبو مزاحم الشيرازي",
+      "has_id": 184
+    },
+    {
+      "name": "مردی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "visitor",
+      "full_text": "شیخ الاسلام گفت: که وقتی مردی وی آمد",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

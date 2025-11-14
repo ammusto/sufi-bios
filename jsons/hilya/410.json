@@ -1,0 +1,240 @@
+{
+  "bio_id": "410",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "بغدادي"
+    },
+    {
+      "place": "الرملة",
+      "context": "lived",
+      "full_text": "سكن الرملة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "والدي",
+          "person_id": 2615,
+          "canonical_name": "والدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بعض أصحابه",
+          "person_id": 1339,
+          "canonical_name": "بعض أصحابه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت والدي يذكر عن بعض أصحابه أنه كان يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسن بن علي اليقطيني",
+          "person_id": 2232,
+          "canonical_name": "محمد بن الحسن بن علي اليقطيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسن بن علي اليقطيني يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسن بن موسى",
+          "person_id": 2236,
+          "canonical_name": "محمد بن الحسن بن موسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين الفارسي",
+          "has_id": NaN,
+          "person_id": 51,
+          "canonical_name": "اسمعيل بن دباس الجيرفتي",
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن علي",
+          "person_id": 1222,
+          "canonical_name": "أحمد بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسن بن موسى يقول سمعت أبا الحسين الفارسي يقول سمعت أحمد بن علي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد الله الرازي",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عمرو الدمشقي",
+          "person_id": 1010,
+          "canonical_name": "أبو عمرو الدمشقي",
+          "has_id": 425,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عبد الله الجلاء",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت محمد بن عبد الله الرازي يقول سمعت أبا عمرو الدمشقي يقول سمعت أبا عبد الله الجلاء يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد العزيز الطبري",
+          "person_id": 2375,
+          "canonical_name": "محمد بن عبد العزيز الطبري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عمرو الدمشقي",
+          "person_id": 1010,
+          "canonical_name": "أبو عمرو الدمشقي",
+          "has_id": 425,
+          "subj_added": false
+        },
+        {
+          "name": "ابن الجلاء",
+          "has_id": 410,
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن الحسين قال سمعت محمد بن عبد العزيز الطبري يقول سمعت أبا عمرو الدمشقي يقول سمعت ابن الجلاء يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "ذا النون",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب ذا النون وأبا تراب وأباه يحيى الجلاء.",
+        "person_id": 1523,
+        "canonical_name": "ذو النون المصري",
+        "has_id": 570
+      },
+      {
+        "name": "أبا تراب",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب ذا النون وأبا تراب وأباه يحيى الجلاء.",
+        "person_id": 721,
+        "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+        "has_id": 388
+      },
+      {
+        "name": "أباه يحيى الجلاء",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب ذا النون وأبا تراب وأباه يحيى الجلاء.",
+        "person_id": 376,
+        "canonical_name": "أباه يحيى الجلاء",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "بعض أصحابه",
+      "relationship_type": "narrator",
+      "full_text": "سمعت والدي يذكر عن بعض أصحابه",
+      "person_id": 1339,
+      "canonical_name": "بعض أصحابه",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن الحسن بن علي اليقطيني",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن الحسن بن علي اليقطيني يقول",
+      "person_id": 2232,
+      "canonical_name": "محمد بن الحسن بن علي اليقطيني",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد بن علي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن الحسن بن موسى يقول سمعت أبا الحسين الفارسي يقول سمعت أحمد بن علي يقول",
+      "person_id": 1222,
+      "canonical_name": "أحمد بن علي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا عمرو الدمشقي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت محمد بن عبد الله الرازي يقول سمعت أبا عمرو الدمشقي يقول سمعت أبا عبد الله الجلاء يقول",
+      "person_id": 1010,
+      "canonical_name": "أبو عمرو الدمشقي",
+      "has_id": 425
+    }
+  ]
+}

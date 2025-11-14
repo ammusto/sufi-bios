@@ -1,0 +1,125 @@
+{
+  "bio_id": "277",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "قرميسين",
+      "context": "nisba",
+      "full_text": "القرميسيني"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا عبد الله بن دينار الدينوري",
+          "person_id": 902,
+          "canonical_name": "أبو عبد الله بن دينار الدينوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن شيبان",
+          "person_id": 314,
+          "canonical_name": "إبراهيم بن شيبان",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا عبد الله بن دينار الدينوري بمكة يقول سمعت إبراهيم بن شيبان يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر بن أحمد الطرسوسي",
+          "person_id": 623,
+          "canonical_name": "أبو بكر أحمد بن محمد الطرسوسي",
+          "has_id": 79,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن شيبان",
+          "person_id": 314,
+          "canonical_name": "إبراهيم بن شيبان",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا بكر بن أحمد الطرسوسي بمكة يقول سمعت إبراهيم بن شيبان يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا علي القصير",
+          "person_id": 984,
+          "canonical_name": "أبو علي محمد بن إبراهيم القصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسحاق بن إبراهيم بن شيبان",
+          "person_id": 342,
+          "canonical_name": "إسحاق بن إبراهيم بن شيبان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن شيبان",
+          "person_id": 314,
+          "canonical_name": "إبراهيم بن شيبان",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين بن موسى يقول سمعت أبا علي القصير يقول سمعت إسحاق بن إبراهيم بن شيبان يقول قال لي أبي",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا عبد الله بن دينار الدينوري",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "سمعت أبا عبد الله بن دينار الدينوري بمكة يقول سمعت إبراهيم بن شيبان يقول",
+      "person_id": 902,
+      "canonical_name": "أبو عبد الله بن دينار الدينوري",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا بكر بن أحمد الطرسوسي",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "سمعت أبا بكر بن أحمد الطرسوسي بمكة يقول سمعت إبراهيم بن شيبان يقول",
+      "person_id": 623,
+      "canonical_name": "أبو بكر أحمد بن محمد الطرسوسي",
+      "has_id": 79
+    },
+    {
+      "name": "إسحاق بن إبراهيم بن شيبان",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "سمعت إسحاق بن إبراهيم بن شيبان يقول قال لي أبي",
+      "person_id": 342,
+      "canonical_name": "إسحاق بن إبراهيم بن شيبان",
+      "has_id": NaN
+    }
+  ]
+}

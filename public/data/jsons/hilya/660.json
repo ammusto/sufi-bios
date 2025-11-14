@@ -1,0 +1,116 @@
+{
+  "bio_id": "660",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "المدينة",
+      "context": "visited",
+      "full_text": "وجلس يوما بالمدينة للقضاء"
+    },
+    {
+      "place": "الثغر",
+      "context": "visited",
+      "full_text": "فلم ير بعده إلا يوما في الثغر حارسا"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا محمد بن حيان",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله السليمي الفقيه",
+          "person_id": 872,
+          "canonical_name": "أبو عبد الله السليمي الفقيه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يحيى بن مطرف",
+          "person_id": 2649,
+          "canonical_name": "يحيى بن مطرف",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا محمد بن حيان يحكي عن أبي عبد الله السليمي الفقيه قال سمعت يحيى بن مطرف يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "سفيان بن عيينة",
+        "relationship_type": "peer",
+        "relationship_phrase": "لقي",
+        "full_text": "لقي سفيان بن عيينة وشعيب بن حرب وإبراهيم بن بكر الشيباني.",
+        "person_id": 1608,
+        "canonical_name": "سفيان بن عيينة",
+        "has_id": NaN
+      },
+      {
+        "name": "شعيب بن حرب",
+        "relationship_type": "peer",
+        "relationship_phrase": "لقي",
+        "full_text": "لقي سفيان بن عيينة وشعيب بن حرب وإبراهيم بن بكر الشيباني.",
+        "person_id": 1675,
+        "canonical_name": "شعيب بن حرب",
+        "has_id": NaN
+      },
+      {
+        "name": "إبراهيم بن بكر الشيباني",
+        "relationship_type": "peer",
+        "relationship_phrase": "لقي",
+        "full_text": "لقي سفيان بن عيينة وشعيب بن حرب وإبراهيم بن بكر الشيباني.",
+        "person_id": 306,
+        "canonical_name": "إبراهيم بن بكر الشيباني",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "يحيى بن مطرف",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت يحيى بن مطرف يقول",
+      "person_id": 2649,
+      "canonical_name": "يحيى بن مطرف",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "requester",
+      "full_text": "فوقع لرجل حمله عن حمار له فقال: أعينوني على حمل هذا.",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    },
+    {
+      "name": "غلامه",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "servant",
+      "full_text": "وجونته على عنق غلام له",
+      "person_id": 2152,
+      "canonical_name": "غلامه",
+      "has_id": NaN
+    },
+    {
+      "name": "المحكوم عليه",
+      "relationship_type": "interlocutor",
+      "full_text": "فقال المحكوم عليه: أيها القاضي حدا بترس؟",
+      "person_id": 230,
+      "canonical_name": "المحكوم عليه",
+      "has_id": NaN
+    }
+  ]
+}

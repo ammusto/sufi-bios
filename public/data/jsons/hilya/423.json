@@ -1,0 +1,51 @@
+{
+  "bio_id": "423",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2273,
+          "canonical_name": "محمد بن إبراهيم بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أبو علي الوراق",
+          "person_id": 951,
+          "canonical_name": "أبو علي الحسن بن علي بن الخطاب الوراق",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد بن نصير في كتابه وحدثني عنه محمد بن إبراهيم قال سمعت أبا علي الوراق يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "جعفر بن محمد بن نصير",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت أبا علي الوراق يقول",
+      "person_id": 1405,
+      "canonical_name": "جعفر بن محمد الخلدي",
+      "has_id": 495
+    }
+  ]
+}

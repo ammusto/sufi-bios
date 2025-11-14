@@ -1,0 +1,352 @@
+{
+  "bio_id": "268",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "~291",
+    "full_text": "در قدیم در سنه احدی و تسعین و مائتین ار درست شود.",
+    "certainty": "approximate"
+  },
+  "geographical_locations": [
+    {
+      "place": "عسکر",
+      "context": "born",
+      "full_text": "وی از اهل عسکر است"
+    },
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "گویندکه بغدادیست"
+    },
+    {
+      "place": "دینور",
+      "context": "visited",
+      "full_text": "در مسجد دینور شدم، خواص را دیدم"
+    },
+    {
+      "place": "ری",
+      "context": "died",
+      "full_text": "خواص رحمه اللّه در مسجد ری برفت از دنیا"
+    },
+    {
+      "place": "طبرک",
+      "context": "mentioned",
+      "full_text": "گور وی در زیر حصار طبرک نهاده"
+    },
+    {
+      "place": "تل تویه",
+      "context": "visited",
+      "full_text": "خیز بسر تل تویه شو."
+    },
+    {
+      "place": "کوه توبه",
+      "context": "visited",
+      "full_text": "رفتم بر سرکوه توبه."
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جنید",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "جنیدگفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوبکرکتانی٭",
+          "person_id": 712,
+          "canonical_name": "أبو بكر محمد بن علي الكتاني",
+          "has_id": 378,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ بوبکرکتانی٭ گویدکه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوالحسن خرقانی٭",
+          "person_id": 396,
+          "canonical_name": "أبو الحسن الخرقاني",
+          "has_id": 303,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی شیخ بوالحسن خرقانی٭ مرا گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالحسن علوی",
+          "person_id": 425,
+          "canonical_name": "أبو الحسن علوي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت که بوالحسن علوی گوید: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ممشاد دینور٭",
+          "person_id": 2534,
+          "canonical_name": "ممشاد الدينوري",
+          "has_id": 815,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: ممشاد دینور٭ گوید: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وگفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "پدر",
+          "person_id": 377,
+          "canonical_name": "أببي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوالمظفر ترمذی٭",
+          "person_id": 559,
+          "canonical_name": "أبو المظفر الترمذي",
+          "has_id": 363,
+          "subj_added": false
+        },
+        {
+          "name": "عبدالرحمن خراسانی",
+          "person_id": 1734,
+          "canonical_name": "عبد الرحمن الخراساني",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی پدر گفت، که بوالمظفر ترمذی٭ گفت که عبدالرحمن خراسانی گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "خضر",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت",
+        "full_text": "و وی صحبت دار خضر بوده ﷷ.",
+        "person_id": 145,
+        "canonical_name": "الخضر",
+        "has_id": NaN
+      }
+    ],
+    "students": [
+      {
+        "name": "جعفر خلدی",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "استاد",
+        "full_text": "استاد جعفر خلدی",
+        "person_id": 1405,
+        "canonical_name": "جعفر بن محمد الخلدي",
+        "has_id": 495
+      }
+    ],
+    "companions": [
+      {
+        "name": "جنید",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "از اقران جنید و نوری٭ بوده",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "نوری٭",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "از اقران جنید و نوری٭ بوده",
+        "person_id": 452,
+        "canonical_name": "أبو الحسين النوري",
+        "has_id": 439
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "جنید",
+      "relationship_type": "narrator",
+      "context": "پس از وفات او گفت",
+      "full_text": "جنیدگفت: که بساط توکل در نور دیدند.",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    },
+    {
+      "name": "شیخ بوبکرکتانی٭",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ بوبکرکتانی٭ گویدکه",
+      "person_id": 712,
+      "canonical_name": "أبو بكر محمد بن علي الكتاني",
+      "has_id": 378
+    },
+    {
+      "name": "شیخ بوالحسن خرقانی٭",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت: کی شیخ بوالحسن خرقانی٭ مرا گفت:",
+      "person_id": 396,
+      "canonical_name": "أبو الحسن الخرقاني",
+      "has_id": 303
+    },
+    {
+      "name": "بوالحسن علوی",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت که بوالحسن علوی گوید: که در مسجد دینور شدم، خواص را دیدم",
+      "person_id": 425,
+      "canonical_name": "أبو الحسن علوي",
+      "has_id": NaN
+    },
+    {
+      "name": "ممشاد دینور٭",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت: ممشاد دینور٭ گوید: که",
+      "person_id": 2534,
+      "canonical_name": "ممشاد الدينوري",
+      "has_id": 815
+    },
+    {
+      "name": "یوسف حسین رازی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "غسل و دفن",
+      "full_text": "و یوسف حسین رازی ویرا بشسته و دفن کرده به وی و گور وی آنجاست.",
+      "person_id": 1140,
+      "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+      "has_id": 847
+    },
+    {
+      "name": "خضر",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "مشاهده و همراهی",
+      "full_text": "خضر ﷷ فرا من رسید، مرا گفت، ابراهیم خواهی که با تو همراهی کنم؟",
+      "person_id": 145,
+      "canonical_name": "الخضر",
+      "has_id": NaN
+    },
+    {
+      "name": "فضل رازی",
+      "relationship_type": "questioner",
+      "full_text": "برخاست بنزدیک ابراهیم خواص رفت از وی پرسید: کی صدهزار درم میراث یافتم در پاشیدم ده درم ماند در علم بکار بردم.",
+      "person_id": 2169,
+      "canonical_name": "فضل رازي",
+      "has_id": NaN
+    },
+    {
+      "name": "پدر",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت: کی پدر گفت",
+      "person_id": 377,
+      "canonical_name": "أببي",
+      "has_id": NaN
+    },
+    {
+      "name": "بوالمظفر ترمذی٭",
+      "relationship_type": "narrator",
+      "full_text": "بوالمظفر ترمذی٭ گفت",
+      "person_id": 559,
+      "canonical_name": "أبو المظفر الترمذي",
+      "has_id": 363
+    },
+    {
+      "name": "عبدالرحمن خراسانی",
+      "relationship_type": "narrator",
+      "full_text": "عبدالرحمن خراسانی گفت",
+      "person_id": 1734,
+      "canonical_name": "عبد الرحمن الخراساني",
+      "has_id": NaN
+    },
+    {
+      "name": "کسی",
+      "relationship_type": "questioner",
+      "full_text": "کسی از شبلی پرسید؟",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    },
+    {
+      "name": "شبلی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "مسئول در حکایت زکوة",
+      "full_text": "از شبلی پرسید؟ کی از دویست درم چند زکوة باید داد؟",
+      "person_id": 628,
+      "canonical_name": "أبو بكر الشبلي",
+      "has_id": 376
+    },
+    {
+      "name": "ابوبکر صدیق رضی اللّه عنه",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "گفت: آن ابوبکر صدیق رضی اللّه عنه",
+      "person_id": 631,
+      "canonical_name": "أبو بكر الصديق",
+      "has_id": NaN
+    }
+  ]
+}

@@ -1,0 +1,720 @@
+{
+  "bio_id": "770",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "319",
+    "full_text": "وَبهَا مَاتَ سنة تسع عشرَة وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "بلخ",
+      "context": "nisba",
+      "full_text": "الْبَلْخِي"
+    },
+    {
+      "place": "سمرقند",
+      "context": "lived",
+      "full_text": "سَاكن سَمَرْقَنْد"
+    },
+    {
+      "place": "بلخ",
+      "context": "born",
+      "full_text": "وَأَصله من بَلخ"
+    },
+    {
+      "place": "سمرقند",
+      "context": "lived",
+      "full_text": "فَدخل سَمَرْقَنْد ونزلها"
+    },
+    {
+      "place": "سمرقند",
+      "context": "died",
+      "full_text": "وَبهَا مَاتَ سنة تسع عشرَة وثلاثمائة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عَليّ الْحبرِي",
+          "person_id": 2409,
+          "canonical_name": "محمد بن علي الحبري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّد بن عَليّ الْحبرِي يَقُول سَمِعت أَبَا عُثْمَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو الْحَارِث عَليّ بن الْقَاسِم الْخطابِيّ",
+          "person_id": 391,
+          "canonical_name": "أبو الحارث علي بن القاسم الخطابي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عبد الله مُحَمَّد بن الْفضل الْبَلْخِي الزَّاهِد الصُّوفِي",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو رَجَاء قُتَيْبَة بن سعيد",
+          "person_id": 782,
+          "canonical_name": "أبو رجاء قتيبة بن سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "اللَّيْث بن سعد",
+          "person_id": 222,
+          "canonical_name": "الليث بن سعد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن أبي سعيد المَقْبُري",
+          "person_id": 1594,
+          "canonical_name": "سعيد بن أبي سعيد المقبري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبِيه",
+          "person_id": 1149,
+          "canonical_name": "أبوه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي هُرَيْرَة",
+          "person_id": 1120,
+          "canonical_name": "أبو هريرة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حَدثنَا أَبُو الْحَارِث عَليّ بن الْقَاسِم الْخطابِيّ بمرو إملاء قَالَ حَدثنَا أَبُو عبد الله مُحَمَّد بن الْفضل الْبَلْخِي الزَّاهِد الصُّوفِي بسمرقند حَدثنَا أَبُو رَجَاء قُتَيْبَة بن سعيد حَدثنَا اللَّيْث بن سعد عَن سعيد بن أبي سعيد المَقْبُري عَن أَبِيه عَن أبي هُرَيْرَة قَالَ قَالَ رَسُول الله ﷺ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّד بن الْفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول قَالَ مُحَمَّد بن الْفضل",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت مُحَمَّد بن الْفضل يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّد بن عبد الله يَقُول سَمِعت مُحَمَّد بن الْفضل يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ مُحَمَّد بن الْفضل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت مُحَمَّد بن الْفضل يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول سَمِعت الْحسن بن عُلْوِيَّهُ يَقُول قَالَ مُحَمَّد بن الْفضل",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ مُحَمَّد بن الْفضل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ مُحَمَّد بن الْفضل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ مُحَمَّد بن الْفضل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ مُحَمَّد بن الْفضل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ مُحَمَّد بن الْفضل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ مُحَمَّد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ مُحَمَّد بن الْفضل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ سُئِلَ مُحَمَّد بن الْفضل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ مُحَمَّد بن الْفضل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ مُحَمَّد بن الْفضل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ مُحَمَّد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ مُحَمَّد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفرج عبد الْوَاحِد بن بكر",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَليّ الخمي",
+          "person_id": 955,
+          "canonical_name": "أبو علي الخمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْفرج عبد الْوَاحِد بن بكر يَقُول سَمِعت أَبَا عَليّ الخمي يَقُول سَمِعت مُحَمَّد بن الْفضل يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفرج عبد الْوَاحِد بن بكر",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَليّ",
+          "person_id": 944,
+          "canonical_name": "أبو علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وسمعته يَقُول سَمِعت أَبَا عَليّ يَقُول سُئِلَ مُحَمَّد عَن الزّهْد فَقَالَ",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أَحْمد بن خضرويه",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَحْمد بن خضرويه وَغَيره من الْمَشَايِخ",
+        "person_id": 1194,
+        "canonical_name": "أحمد بن خضرويه البلخي",
+        "has_id": 440
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "مَنْصُور بن عبد الله",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول",
+      "person_id": 2547,
+      "canonical_name": "منصور بن عبد الله",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا بكر الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "مُحَمَّد بن عبد الله",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مُحَمَّد بن عبد الله يَقُول",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "الْحسن بن عُلْوِيَّهُ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت الْحسن بن عُلْوِيَّهُ يَقُول",
+      "person_id": 92,
+      "canonical_name": "الحسن بن علوية الدامغاني",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبُو الْحَارِث عَليّ بن الْقَاسِم الْخطابِيّ",
+      "relationship_type": "narrator",
+      "full_text": "حَدثنَا أَبُو الْحَارِث عَليّ بن الْقَاسِم الْخطابِيّ بمرو إملاء قَالَ حَدثنَا أَبُو عبد الله مُحَمَّد بن الْفضل الْبَلْخِي الزَّاهِد الصُّوفِي بسمرقند",
+      "person_id": 391,
+      "canonical_name": "أبو الحارث علي بن القاسم الخطابي",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا عَليّ الخمي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا عَليّ الخمي يَقُول",
+      "person_id": 955,
+      "canonical_name": "أبو علي الخمي",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا عَليّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا عَليّ يَقُول",
+      "person_id": 944,
+      "canonical_name": "أبو علي",
+      "has_id": NaN
+    }
+  ]
+}

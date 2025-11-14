@@ -1,0 +1,90 @@
+{
+  "bio_id": "419",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "298",
+    "full_text": "در سنه ثمان و تسعین ومائتین برفت ازدنیا فی ربیع الاول.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "حیر",
+      "context": "nisba",
+      "full_text": "الحیری"
+    },
+    {
+      "place": "نیشابور",
+      "context": "nisba",
+      "full_text": "النیسابوری"
+    },
+    {
+      "place": "ری",
+      "context": "born",
+      "full_text": "اصل او از ری بوده است."
+    },
+    {
+      "place": "نیشابور",
+      "context": "visited",
+      "full_text": "با شاه شجاع بنشاپور آمد"
+    },
+    {
+      "place": "نیشابور",
+      "context": "died",
+      "full_text": "وگوروی در نشاپور است"
+    }
+  ],
+  "isnads": [],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "شاه شجاع",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد شاه شجاع",
+        "person_id": 1661,
+        "canonical_name": "شاه بن شجاع الكرماني",
+        "has_id": 614
+      },
+      {
+        "name": "باحفص حداد",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد شاه شجاع و باحفص حداد.",
+        "person_id": 759,
+        "canonical_name": "أبو حفص الحداد النيسابوري",
+        "has_id": 715
+      },
+      {
+        "name": "یحیی معاذ رازی٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود",
+        "full_text": "و با یحیی معاذ رازی٭ صحبت کرده بود",
+        "person_id": 2650,
+        "canonical_name": "يحيى بن معاذ الرازي",
+        "has_id": 844
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "باحفص حداد",
+      "relationship_type": "interlocutor",
+      "context": "",
+      "full_text": "باحفص حداد ویرا گفت: که اینجا بایست که شاه آنجا اشتغال و عیال دارد، توکسی نداری، و شاه میبازگشت",
+      "person_id": 759,
+      "canonical_name": "أبو حفص الحداد النيسابوري",
+      "has_id": 715
+    },
+    {
+      "name": "شاه شجاع",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "travel",
+      "full_text": "با شاه شجاع بنشاپور آمد",
+      "person_id": 1661,
+      "canonical_name": "شاه بن شجاع الكرماني",
+      "has_id": 614
+    }
+  ]
+}

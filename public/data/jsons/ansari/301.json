@@ -1,0 +1,320 @@
+{
+  "bio_id": "301",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "371",
+    "full_text": "ببغداد برفته روز آدینه در ماه ذیالحجه سنه احدی و سبعین و ثلثمائه.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "بصره",
+      "context": "nisba",
+      "full_text": "البصری"
+    },
+    {
+      "place": "بصره",
+      "context": "born",
+      "full_text": "باصل از بصره بود"
+    },
+    {
+      "place": "بغداد",
+      "context": "lived",
+      "full_text": "ببغداد نشست"
+    },
+    {
+      "place": "بغداد",
+      "context": "died",
+      "full_text": "ببغداد برفته روز آدینه در ماه ذیالحجه سنه احدی و سبعین و ثلثمائه."
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ سلمی",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ سلمی گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "و هم گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوالحسن بوالمعتمر رقی",
+          "person_id": 409,
+          "canonical_name": "أبو الحسن أبو المعتمر الرقي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ بوالحسن بوالمعتمر رقی سید بوده، وی گوید، کی شیخ حصری گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شاگرد وی",
+          "person_id": 1658,
+          "canonical_name": "شاگرد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی شاگرد وی فرا من گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ احمد حرانی",
+          "person_id": 1156,
+          "canonical_name": "أحمد الحراني",
+          "has_id": 208,
+          "subj_added": false
+        },
+        {
+          "name": "شیخ بوالحسین بوالمعتمر",
+          "person_id": 409,
+          "canonical_name": "أبو الحسن أبو المعتمر الرقي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت، کی شیخ احمد حرانی گوید، که شیخ بوالحسین بوالمعتمر میگوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ السلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عمو",
+          "person_id": 1683,
+          "canonical_name": "شيخ عمو",
+          "has_id": 717,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت کی عمو حصری ندیده بود، بر از مرا بگفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "شبلی٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد شبلی٭ بود",
+        "person_id": 628,
+        "canonical_name": "أبو بكر الشبلي",
+        "has_id": 376
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "بوعبداللهّ خفیف٭",
+        "relationship_type": "peer",
+        "relationship_phrase": "همتای یکدیگراند",
+        "full_text": "حصری و بوعبداللهّ خفیف٭ همتای یکدیگراند",
+        "person_id": 22,
+        "canonical_name": "أبو عبد الله بن خفيف",
+        "has_id": 26
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ سلمی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ سلمی گوید:",
+      "person_id": 845,
+      "canonical_name": "أبو عبد الرحمن السلمي",
+      "has_id": 133
+    },
+    {
+      "name": "شیخ بوالحسن بوالمعتمر رقی",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ بوالحسن بوالمعتمر رقی سید بوده، وی گوید، کی شیخ حصری گفت",
+      "person_id": 409,
+      "canonical_name": "أبو الحسن أبو المعتمر الرقي",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ احمد حرانی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ احمد حرانی گوید",
+      "person_id": 1156,
+      "canonical_name": "أحمد الحراني",
+      "has_id": 208
+    },
+    {
+      "name": "شیخ بوالحسین بوالمعتمر",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ بوالحسین بوالمعتمر میگوید: که نشسته بودم باحصری مردی ویرا گفت: مرا وصیتی کن",
+      "person_id": 409,
+      "canonical_name": "أبو الحسن أبو المعتمر الرقي",
+      "has_id": NaN
+    },
+    {
+      "name": "جهم رقی",
+      "relationship_type": "interlocutor",
+      "context": "حاضر بود و گفت: چنانک بمن بنمودند بروی بنمودم",
+      "full_text": "جهم رقی حاضر بود ویرا گفت: چنانک بمن بنمودند بروی بنمودم.",
+      "person_id": 1417,
+      "canonical_name": "جهم الرقي",
+      "has_id": 497
+    },
+    {
+      "name": "مردی",
+      "relationship_type": "questioner",
+      "full_text": "مردی ویرا گفت: مرا وصیتی کن.",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ بونصر خباز",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "شیخ بونصر خباز مردی بزرگ بود قومی از شاگردان وی به حج میرفتند بزیارت حصری شدند",
+      "person_id": 1105,
+      "canonical_name": "أبو نصر خباز",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن احمد بن سمعون",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "نام وی محمد بن احمد بن سمعون بود",
+      "person_id": 2308,
+      "canonical_name": "محمد بن أحمد بن سمعون",
+      "has_id": 356
+    },
+    {
+      "name": "عمو",
+      "relationship_type": "narrator",
+      "full_text": "عمو حصری ندیده بود، بر از مرا بگفت",
+      "person_id": 1683,
+      "canonical_name": "شيخ عمو",
+      "has_id": 717
+    },
+    {
+      "name": "بوالحسین ارموی",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "بوالحسین ارموی به ارمی بوده در ایام حصری و بوعبداللهّ رودباری و ابن خفیف مشایخ وقت بودند",
+      "person_id": 442,
+      "canonical_name": "أبو الحسين الأرموي",
+      "has_id": 38
+    },
+    {
+      "name": "شیخ بوالحسن سوهان آزن",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "شیخ بوالحسن سوهان آزن بود",
+      "person_id": 424,
+      "canonical_name": "أبو الحسن سوهان آزن",
+      "has_id": NaN
+    },
+    {
+      "name": "بوعبداللهّ رودباری",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "بوعبداللهّ رودباری و ابن خفیف مشایخ وقت بودند",
+      "person_id": 855,
+      "canonical_name": "أبو عبد اللهّ الرودباري",
+      "has_id": NaN
+    }
+  ]
+}

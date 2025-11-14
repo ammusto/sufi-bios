@@ -1,0 +1,73 @@
+{
+  "bio_id": "759",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "مسجد الخيف",
+      "context": "visited",
+      "full_text": "في مسجد الخيف"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو الحسن محمد بن محمد بن عبيد الله",
+          "person_id": 439,
+          "canonical_name": "أبو الحسن محمد بن محمد بن عبيد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عبد الله محمد بن محمد",
+          "person_id": 919,
+          "canonical_name": "أبو عبد الله محمد بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد الله الرازي",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خيرا النساج",
+          "person_id": 1510,
+          "canonical_name": "خير النساج",
+          "has_id": 564,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو الحسن محمد بن محمد بن عبيد الله قال سمعت أخي أبا عبد الله محمد بن محمد يقول سمعت محمد بن عبد الله الرازي يقول سمعت خيرا النساج يقول:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "خيرا النساج",
+      "relationship_type": "narrator",
+      "full_text": "سمعت خيرا النساج يقول",
+      "person_id": 1510,
+      "canonical_name": "خير النساج",
+      "has_id": 564
+    },
+    {
+      "name": "غلام جميل من أهل المغرب",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "presence",
+      "full_text": "فجلس إلينا غلام جميل من أهل المغرب",
+      "person_id": 2150,
+      "canonical_name": "غلام جميل من أهل المغرب",
+      "has_id": NaN
+    }
+  ]
+}

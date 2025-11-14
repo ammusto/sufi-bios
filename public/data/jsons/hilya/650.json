@@ -1,0 +1,81 @@
+{
+  "bio_id": "650",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "مسجد التوبة",
+      "context": "mentioned",
+      "full_text": "دخلت مسجد التوبة"
+    },
+    {
+      "place": "باب الشام",
+      "context": "mentioned",
+      "full_text": "فخرجت إلى باب الشام"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو بكر المفيد",
+          "person_id": 647,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الخواص",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "ذكر لي أبو بكر المفيد عن إبراهيم الخواص",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "المتقدمين من أصحاب السري وبشر",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب المتقدمين من أصحاب السري وبشر.",
+        "person_id": 224,
+        "canonical_name": "المتقدمين من أصحاب السري وبشر",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "إبراهيم الخواص",
+      "relationship_type": "narrator",
+      "full_text": "عن إبراهيم الخواص قال",
+      "person_id": 278,
+      "canonical_name": "أبو إسحاق إبراهيم الخواص",
+      "has_id": 268
+    },
+    {
+      "name": "القيم",
+      "relationship_type": "interlocutor",
+      "full_text": "فقلت للقيم: متى قعد هذا الرجل هاهنا؟",
+      "person_id": 219,
+      "canonical_name": "القيم",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "interlocutor",
+      "full_text": "فإذا رجل يدق باب المسجد",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

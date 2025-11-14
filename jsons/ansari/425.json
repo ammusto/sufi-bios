@@ -1,0 +1,108 @@
+{
+  "bio_id": "425",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "320",
+    "full_text": "در سنه عشرین برفته و\nثلثمائه،",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "دمشق",
+      "context": "nisba",
+      "full_text": "الدمشقی"
+    },
+    {
+      "place": "شام",
+      "context": "lived",
+      "full_text": "یگانهٔ مشایخ شام بود"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "ابوعمر الدمشقی",
+          "person_id": 1010,
+          "canonical_name": "أبو عمرو الدمشقي",
+          "has_id": 425,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "او گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوعمر الدمشقی",
+          "person_id": 1010,
+          "canonical_name": "أبو عمرو الدمشقي",
+          "has_id": 425,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و هم وی گفت :",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوعمر الدمشقی",
+          "person_id": 1010,
+          "canonical_name": "أبو عمرو الدمشقي",
+          "has_id": 425,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "بوعبداللهّ جلا",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "صحبت کرده بود با بوعبداللهّ جلا",
+        "person_id": 898,
+        "canonical_name": "أبو عبد الله بن الجلاء",
+        "has_id": 410
+      },
+      {
+        "name": "اصحاب ذوالنون٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "صحبت کرده بود با بوعبداللهّ جلا و اصحاب ذوالنون٭",
+        "person_id": 53,
+        "canonical_name": "اصحاب ذوالنون",
+        "has_id": NaN
+      },
+      {
+        "name": "شیخ بوعمران مزین رازی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "با شیخ بوعمران مزین رازی",
+        "person_id": 1002,
+        "canonical_name": "أبو عمران المزين الرازي",
+        "has_id": NaN
+      },
+      {
+        "name": "بوالحسین دراج٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "و بوالحسین دراج٭",
+        "person_id": 397,
+        "canonical_name": "أبو الحسين الدراج",
+        "has_id": 318
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": []
+}

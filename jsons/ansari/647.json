@@ -1,0 +1,144 @@
+{
+  "bio_id": "647",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "288",
+    "full_text": "و عباس حمزه در سنه ثمان و ثمانین و مائتین برفته از دنیا در ماه ربیع الاول پیش از جنید.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "نیشابور",
+      "context": "nisba",
+      "full_text": "النیشابوری"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر داشگر فرامن",
+          "person_id": 685,
+          "canonical_name": "أبو بكر داشگر فرامن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بومعشر معروف",
+          "person_id": 1082,
+          "canonical_name": "أبو معشر معروف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوبکر حفید",
+          "person_id": 617,
+          "canonical_name": "أبو بكر الحفيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عباس حمزه",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "ذوالنون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت عظم اللّه برکته، بوبکر داشگر فرامن گفت، که بومعشر معروف گفت، کی بوبکر حفیدگفت، که جد من عباس حمزه، کی ذوالنون گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عباس حمزه",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و هم عباس حمزه گوید، که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلامگفت قدس اللّه روحه کی:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "ذوالنون",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "با ذوالنون صحبت کرده",
+        "person_id": 1523,
+        "canonical_name": "ذو النون المصري",
+        "has_id": 570
+      },
+      {
+        "name": "بایزید",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "با ذوالنون صحبت کرده و بایزید",
+        "person_id": 1128,
+        "canonical_name": "أبو يزيد البسطامي",
+        "has_id": 435
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "بوبکر داشگر فرامن",
+      "relationship_type": "narrator",
+      "full_text": "بوبکر داشگر فرامن گفت",
+      "person_id": 685,
+      "canonical_name": "أبو بكر داشگر فرامن",
+      "has_id": NaN
+    },
+    {
+      "name": "بومعشر معروف",
+      "relationship_type": "narrator",
+      "full_text": "بومعشر معروف گفت",
+      "person_id": 1082,
+      "canonical_name": "أبو معشر معروف",
+      "has_id": NaN
+    },
+    {
+      "name": "بوبکر حفید",
+      "relationship_type": "direct_narrator",
+      "full_text": "بوبکر حفیدگفت، که جد من عباس حمزه",
+      "person_id": 617,
+      "canonical_name": "أبو بكر الحفيد",
+      "has_id": NaN
+    }
+  ]
+}

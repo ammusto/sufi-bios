@@ -1,0 +1,108 @@
+{
+  "bio_id": "636",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا الفضل نصر بن أبي نصر الطوسي",
+          "person_id": 528,
+          "canonical_name": "أبو الفضل نصر بن محمد الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بعض مشايخه",
+          "person_id": 1344,
+          "canonical_name": "بعض مشايخه",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الفضل نصر بن أبي نصر الطوسي يحكي عن بعض مشايخه قال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الحسن أحمد بن محمد بن مقسم",
+          "person_id": 414,
+          "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن إسحاق",
+          "person_id": 1808,
+          "canonical_name": "عبد الله بن إسحاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعدان",
+          "person_id": 1587,
+          "canonical_name": "سعدان",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو الحسن أحمد بن محمد بن مقسم ثنا عبد الله بن إسحاق ثنا سعدان قال",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "بشر بن الحارث",
+        "relationship_type": "peer",
+        "relationship_phrase": "من أقران المتقدمين",
+        "full_text": "وأما صدقة المقابري فمن أقران المتقدمين كبشر بن الحارث وطبقته وكان من التحقق والتحفظ بالمحل العالي.",
+        "person_id": 1323,
+        "canonical_name": "بشر بن الحارث الحافي",
+        "has_id": 470
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "بعض مشايخه",
+      "relationship_type": "narrator",
+      "full_text": "يحكي عن بعض مشايخه قال",
+      "person_id": 1344,
+      "canonical_name": "بعض مشايخه",
+      "has_id": NaN
+    },
+    {
+      "name": "سعدان",
+      "relationship_type": "narrator",
+      "full_text": "ثنا سعدان قال",
+      "person_id": 1587,
+      "canonical_name": "سعدان",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل كان يواخيه ويصحبه",
+      "relationship_type": "interlocutor",
+      "context": "مخاطَب",
+      "full_text": "قال قال صدقة المقابري لرجل كان يواخيه ويصحبه: كيف تجدك؟ فقال إن الذي بي من البلاء أقل مما أصبت من لذة الهوى، ولو أصابني من البلاء بقدر ما نلت من لذة الهوى إذا لاجتمع علي جميع البلاء.",
+      "person_id": 1534,
+      "canonical_name": "رجل كان يواخيه ويصحبه",
+      "has_id": NaN
+    },
+    {
+      "name": "الثقفى",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "شاعر تُنشد أبياته",
+      "full_text": "وكان كثيرا ينشد أبياتا للثقفى",
+      "person_id": 65,
+      "canonical_name": "ابن شابور",
+      "has_id": NaN
+    }
+  ]
+}

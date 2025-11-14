@@ -1,0 +1,364 @@
+{
+  "bio_id": "317",
+  "source": "sulami",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "فارس",
+      "context": "nisba",
+      "full_text": "الْفَارِسِي"
+    },
+    {
+      "place": "فارس",
+      "context": "mentioned",
+      "full_text": "بِفَارِس"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 697,
+          "canonical_name": "أبو بكر محمد بن أحمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحُسَيْن عَليّ بن هِنْد الْقرشِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّد بن أَحْمد بن إِبْرَاهِيم يَقُول سَمِعت أَبَا الْحُسَيْن عَليّ بن هِنْد الْقرشِي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 697,
+          "canonical_name": "أبو بكر محمد بن أحمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحُسَيْن عَليّ بن هِنْد الْقرشِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَقَالَ سَمِعت أَبَا الْحُسَيْن بن هِنْد يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحُسَيْن بن هِنْد",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول سَمِعت أَبَا الْحُسَيْن بن هِنْد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحُسَيْن بن هِنْد",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحُسَيْن بن هِنْد",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحُسَيْن بن هِنْد",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحُسَيْن بن هِنْد",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحُسَيْن بن هِنْد",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحُسَيْن بن هِنْد",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحُسَيْن بن هِنْد",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا الْحُسَيْن بن هِنْد يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحُسَيْن بن هِنْد",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحُسَيْن بن هِنْد",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا الْحُسَيْن بن هِنْد يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحُسَيْن بن هِنْد",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحُسَيْن بن هِنْد",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا الْحُسَيْن بن هِنْد يَقُول منشدا",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "جعفرا الْحذاء",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب جعفرا الْحذاء وَمن فَوْقه من الْمَشَايِخ بِفَارِس",
+        "person_id": 727,
+        "canonical_name": "أبو جعفر الحذاء",
+        "has_id": 494
+      },
+      {
+        "name": "الْجُنَيْد",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وَصَحب أَيْضا الْجُنَيْد وعمرا الْمَكِّيّ وَمن فِي طبقتهم",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "عمرا الْمَكِّيّ",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وَصَحب أَيْضا الْجُنَيْد وعمرا الْمَكِّيّ وَمن فِي طبقتهم",
+        "person_id": 2126,
+        "canonical_name": "عمرو بن عثمان المكي",
+        "has_id": 716
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مُحَمَّد بن أَحْمد بن إِبْرَاهِيم يَقُول",
+      "person_id": 697,
+      "canonical_name": "أبو بكر محمد بن أحمد بن إبراهيم",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول",
+      "person_id": 449,
+      "canonical_name": "أبو الحسين علي بن هند الفارسي",
+      "has_id": 317
+    }
+  ]
+}

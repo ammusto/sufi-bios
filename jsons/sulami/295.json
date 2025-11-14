@@ -1,0 +1,495 @@
+{
+  "bio_id": "295",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "328",
+    "full_text": "توفّي سنة ثَمَان وَعشْرين وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "بَغْدَاد",
+      "context": "lived",
+      "full_text": "من أهل بَغْدَاد"
+    },
+    {
+      "place": "مَكَّة",
+      "context": "lived",
+      "full_text": "واقام بِمَكَّة مجاورا"
+    },
+    {
+      "place": "مَكَّة",
+      "context": "died",
+      "full_text": "وَمَات بهَا"
+    },
+    {
+      "place": "التَّنْعِيمِ",
+      "context": "visited",
+      "full_text": "وَهُوَ بِالتَّنْعِيمِ يُرِيد أَن يحرم بِعُمْرَة"
+    },
+    {
+      "place": "مَكَّة",
+      "context": "visited",
+      "full_text": "فَلم يزل كَذَلِك حَتَّى بلغ بَاب مَكَّة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبَا عبد الله الرَّازِيّ",
+          "person_id": 867,
+          "canonical_name": "أبو عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 408,
+          "canonical_name": "أبو الحسن المزين",
+          "has_id": 295,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سَمِعت أَبَا عبد الله الرَّازِيّ يذكر ذَلِك",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحسن المزين",
+          "person_id": 408,
+          "canonical_name": "أبو الحسن المزين",
+          "has_id": 295,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت أَبَا الْحسن المزين يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحسن المزين",
+          "person_id": 408,
+          "canonical_name": "أبو الحسن المزين",
+          "has_id": 295,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ المزين عَن الْمعرفَة فَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن بكر الورثاني",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد النجار",
+          "person_id": 2299,
+          "canonical_name": "محمد بن أحمد النجار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحسن المزين",
+          "person_id": 408,
+          "canonical_name": "أبو الحسن المزين",
+          "has_id": 295,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الْوَاحِد بن بكر الورثاني يَقُول سَمِعت مُحَمَّد بن أَحْمد النجار يَقُول سَمِعت أَبَا الْحسن المزين يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن بكر الورثاني",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد النجار",
+          "person_id": 2299,
+          "canonical_name": "محمد بن أحمد النجار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحسن المزين",
+          "person_id": 408,
+          "canonical_name": "أبو الحسن المزين",
+          "has_id": 295,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت المزين يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن بكر الورثاني",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد النجار",
+          "person_id": 2299,
+          "canonical_name": "محمد بن أحمد النجار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحسن المزين",
+          "person_id": 408,
+          "canonical_name": "أبو الحسن المزين",
+          "has_id": 295,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا الْحسن المزين يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحسن المزين",
+          "person_id": 408,
+          "canonical_name": "أبو الحسن المزين",
+          "has_id": 295,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر بن شَاذان يَقُول سَمِعت أَبَا الْحسن المزين يَوْمًا وَهُوَ بِالتَّنْعِيمِ يُرِيد أَن يحرم بِعُمْرَة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "المزين",
+          "person_id": 408,
+          "canonical_name": "أبو الحسن المزين",
+          "has_id": 295,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت المزين يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "المزين",
+          "person_id": 408,
+          "canonical_name": "أبو الحسن المزين",
+          "has_id": 295,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت المزين يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "المزين",
+          "person_id": 408,
+          "canonical_name": "أبو الحسن المزين",
+          "has_id": 295,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ أَبُو الْحسن المزين عَن التَّوْحِيد فَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن بكر",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد النجار",
+          "person_id": 2299,
+          "canonical_name": "محمد بن أحمد النجار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحسن المزين",
+          "person_id": 408,
+          "canonical_name": "أبو الحسن المزين",
+          "has_id": 295,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الْوَاحِد بن بكر يَقُول سَمِعت مُحَمَّد بن أَحْمد النجار يَقُول سَمِعت أَبَا الْحسن المزين يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن بكر",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد النجار",
+          "person_id": 2299,
+          "canonical_name": "محمد بن أحمد النجار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحسن المزين",
+          "person_id": 408,
+          "canonical_name": "أبو الحسن المزين",
+          "has_id": 295,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت المزين يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن بكر",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد النجار",
+          "person_id": 2299,
+          "canonical_name": "محمد بن أحمد النجار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحسن المزين",
+          "person_id": 408,
+          "canonical_name": "أبو الحسن المزين",
+          "has_id": 295,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت المزين يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن بكر",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد النجار",
+          "person_id": 2299,
+          "canonical_name": "محمد بن أحمد النجار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحسن المزين",
+          "person_id": 408,
+          "canonical_name": "أبو الحسن المزين",
+          "has_id": 295,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ ورؤى أَبُو الْحسن يَوْمًا متفكرا",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن بكر",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد النجار",
+          "person_id": 2299,
+          "canonical_name": "محمد بن أحمد النجار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحسن المزين",
+          "person_id": 408,
+          "canonical_name": "أبو الحسن المزين",
+          "has_id": 295,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا الْحسن المزين يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن بكر",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد النجار",
+          "person_id": 2299,
+          "canonical_name": "محمد بن أحمد النجار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحسن المزين",
+          "person_id": 408,
+          "canonical_name": "أبو الحسن المزين",
+          "has_id": 295,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ المزين عَن الْفَقِير الصَّادِق فَقَالَ",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "الْجُنَيْد",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب الْجُنَيْد",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "سَهل بن عبد الله",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وَسَهل بن عبد الله",
+        "person_id": 1639,
+        "canonical_name": "سهل بن عبد الله التستري",
+        "has_id": 605
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَبَا عبد الله الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا عبد الله الرَّازِيّ يذكر ذَلِك",
+      "person_id": 867,
+      "canonical_name": "أبو عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "مُحَمَّد بن أَحْمد النجار",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مُحَمَّد بن أَحْمد النجار يَقُول",
+      "person_id": 2299,
+      "canonical_name": "محمد بن أحمد النجار",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا بكر الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول",
+      "person_id": 711,
+      "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا بكر بن شَاذان",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر بن شَاذان يَقُول",
+      "person_id": 711,
+      "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+      "has_id": NaN
+    }
+  ]
+}

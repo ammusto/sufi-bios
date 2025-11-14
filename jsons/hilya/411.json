@@ -1,0 +1,51 @@
+{
+  "bio_id": "411",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "حضرموت",
+      "context": "nisba",
+      "full_text": "الحضرمي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "المرتعش",
+          "person_id": 1043,
+          "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
+          "has_id": 251,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عبد الله الحضرمي",
+          "person_id": 862,
+          "canonical_name": "أبو عبد الله الحضرمي",
+          "has_id": 411,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول: سمعت المرتعش يقول: سألت أبا عبد الله الحضرمي",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "المرتعش",
+      "relationship_type": "narrator",
+      "context": "questioner",
+      "full_text": "سمعت المرتعش يقول: سألت أبا عبد الله الحضرمي عن التصوف",
+      "person_id": 1043,
+      "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
+      "has_id": 251
+    }
+  ]
+}

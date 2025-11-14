@@ -1,0 +1,275 @@
+{
+  "bio_id": "495",
+  "source": "hilya",
+  "death_date": {
+    "year_hijri": "348",
+    "full_text": "توفي سنة ثمان وأربعين وثلاثمائة.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الحارث بن أبي أسامة",
+          "person_id": 70,
+          "canonical_name": "الحارث بن أبي أسامة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن بكر السهمي",
+          "person_id": 1819,
+          "canonical_name": "عبد الله بن بكر السهمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حميد",
+          "person_id": 1480,
+          "canonical_name": "حميد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أنس",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر جعفر بن محمد بن نصير - فيما كتب إلي سنة ثلاث وأربعين - ثنا الحارث بن أبي أسامة ثنا عبد الله بن بكر السهمي ثنا حميد عن أنس",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "موسى بن هارون",
+          "person_id": 2565,
+          "canonical_name": "موسى بن هارون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عقبة بن مكرم",
+          "person_id": 1975,
+          "canonical_name": "عقبة بن مكرم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يونس بن بكير",
+          "person_id": 2686,
+          "canonical_name": "يونس بن بكير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خالد بن يسار",
+          "person_id": 1493,
+          "canonical_name": "خالد بن يسار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "المسيب بن دارم",
+          "person_id": 233,
+          "canonical_name": "المسيب بن دارم",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد في كتابه ثنا موسى بن هارون ثنا عقبة بن مكرم ثنا يونس بن بكير عن خالد بن يسار عن المسيب بن دارم قال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال جعفر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وأخبرني جعفر قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وقال جعفر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وقال جعفر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وقال جعفر لبعض أصحابه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "كنت أسمع سيدنا الجنيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وسئل جعفر عن العقل فقال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وسئل عن قوله تعالى: ﴿(ومن يكفر بالإيمان فقد حبط عمله)﴾ قال",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "الجنيد",
+        "relationship_type": "student_of",
+        "relationship_phrase": "كنت أسمع",
+        "full_text": "فكثيرا ما كنت أسمع سيدنا الجنيد يقول: من لزم طريق المعاملة على الإخلاص أراحه الله عن الدعاوى الكاذبة.",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "الجنيد",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وصحب الأخيار: الجنيد والثوري ورويما.",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "الثوري",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وصحب الأخيار: الجنيد والثوري ورويما.",
+        "person_id": 1607,
+        "canonical_name": "سفيان الثوري",
+        "has_id": 598
+      },
+      {
+        "name": "رويما",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وصحب الأخيار: الجنيد والثوري ورويما.",
+        "person_id": 1553,
+        "canonical_name": "رويم بن أحمد",
+        "has_id": 578
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "بعض أصحابه",
+      "relationship_type": "interlocutor",
+      "full_text": "وقال جعفر لبعض أصحابه",
+      "person_id": 1339,
+      "canonical_name": "بعض أصحابه",
+      "has_id": NaN
+    }
+  ]
+}

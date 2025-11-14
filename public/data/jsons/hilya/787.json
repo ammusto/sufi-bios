@@ -1,0 +1,81 @@
+{
+  "bio_id": "787",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن عمر",
+          "person_id": 1259,
+          "canonical_name": "أحمد بن محمد بن عمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن سفيان",
+          "person_id": 1870,
+          "canonical_name": "عبد الله بن محمد بن سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن العباس بن محمد",
+          "person_id": 2253,
+          "canonical_name": "محمد بن العباس بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن معاوية الصوفي",
+          "person_id": 2452,
+          "canonical_name": "محمد بن معاوية الصوفي",
+          "has_id": 787,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "• حدثنا أبي ثنا أحمد بن محمد بن عمر ثنا عبد الله بن محمد بن سفيان قال حدثني محمد بن العباس بن محمد ثنا محمد بن معاوية الصوفي",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "محمد بن العباس بن محمد",
+      "relationship_type": "narrator",
+      "full_text": "قال حدثني محمد بن العباس بن محمد ثنا محمد بن معاوية الصوفي",
+      "person_id": 2253,
+      "canonical_name": "محمد بن العباس بن محمد",
+      "has_id": NaN
+    },
+    {
+      "name": "حكيم من الحكماء",
+      "relationship_type": "questioner",
+      "full_text": "فقال: يا معشر الأحياء ما يوقفكم بمدرجة الموتى؟",
+      "person_id": 1469,
+      "canonical_name": "حكيم من الحكماء",
+      "has_id": NaN
+    },
+    {
+      "name": "فتية من الحلماء",
+      "relationship_type": "interlocutor",
+      "full_text": "قالوا: قعدنا نعتبر.",
+      "person_id": 2167,
+      "canonical_name": "فتية من الحلماء",
+      "has_id": NaN
+    }
+  ]
+}

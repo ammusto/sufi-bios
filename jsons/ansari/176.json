@@ -1,0 +1,448 @@
+{
+  "bio_id": "176",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "365",
+    "full_text": "او برفته در سنه ست او خمس و ستین و ثلثمائه فی ربیع الاول",
+    "certainty": "definite"
+  },
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "شیخ بوالقاسم باوردی",
+          "person_id": 546,
+          "canonical_name": "أبو القاسم باوردي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی شیخ بوالقاسم باوردی و بوالحسن بشری مرا از وی بسیار حکایت کردهاند ازو",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالحسن بشری",
+          "person_id": 430,
+          "canonical_name": "أبو الحسن علي بن بشريى السجزي",
+          "has_id": 298,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی شیخ بوالقاسم باوردی و بوالحسن بشری مرا از وی بسیار حکایت کردهاند ازو",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالحسن بشری",
+          "person_id": 430,
+          "canonical_name": "أبو الحسن علي بن بشريى السجزي",
+          "has_id": 298,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وی گفته:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالحسن بشری",
+          "person_id": 430,
+          "canonical_name": "أبو الحسن علي بن بشريى السجزي",
+          "has_id": 298,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالحسن بشری",
+          "person_id": 430,
+          "canonical_name": "أبو الحسن علي بن بشريى السجزي",
+          "has_id": 298,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالحسن بشری",
+          "person_id": 430,
+          "canonical_name": "أبو الحسن علي بن بشريى السجزي",
+          "has_id": 298,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و قال «الانس یغیراللّه الوحشة»",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالحسن بشری",
+          "person_id": 430,
+          "canonical_name": "أبو الحسن علي بن بشريى السجزي",
+          "has_id": 298,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و قال: لایکون للملامتی دعوی، لا نه لایری نفسه شیئا و یدعی به الانس باللّه اوحشة مما سواه.",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر مفید",
+          "person_id": 647,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
+          "subj_added": false
+        },
+        {
+          "name": "یوسف حسین رازی",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "بوبکر مفیدگوید: که یوسف حسین رازی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوعبداللّه خفیف",
+          "person_id": 22,
+          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 26,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که شیخ بوبکر قصری از قصر هیبره بود و لیکن به شیراز نشستی سید بود محقق اهل غیب دیدی شیخ بوعبداللّه خفیف گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوعبداللّه خفیف",
+          "person_id": 22,
+          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 26,
+          "subj_added": false
+        },
+        {
+          "name": "شیخ بوبکر قصری",
+          "person_id": 641,
+          "canonical_name": "أبو بكر القصري",
+          "has_id": 84,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "روزی شیخ بوبکر قصری مرا گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوعبداللّه خفیف",
+          "person_id": 22,
+          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 26,
+          "subj_added": false
+        },
+        {
+          "name": "شیخ بوبکر قصری",
+          "person_id": 641,
+          "canonical_name": "أبو بكر القصري",
+          "has_id": 84,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قصری گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوعبداللّه خفیف",
+          "person_id": 22,
+          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 26,
+          "subj_added": false
+        },
+        {
+          "name": "شیخ بوبکر قصری",
+          "person_id": 641,
+          "canonical_name": "أبو بكر القصري",
+          "has_id": 84,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "گفت: آن وقت بنظر لدنی مینگرستم، فرق بنه ندیدم و اکنون بنظر علمی مینگرستم حکم بدیدم.",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوبکر موازینی",
+          "person_id": 649,
+          "canonical_name": "أبو بكر الموازيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "استاد سیروانی",
+          "person_id": 165,
+          "canonical_name": "السيرواني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن خباز",
+          "person_id": 20,
+          "canonical_name": "اﺑﻦ ﺧﺒﺎز",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت، که شیخ بوبکر موازینی بمصر بود استاد سیروانی وی گوید: که از ابن خباز شنیدم گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوبکر مغازلی",
+          "person_id": 646,
+          "canonical_name": "أبو بكر المغازلي",
+          "has_id": 90,
+          "subj_added": false
+        },
+        {
+          "name": "استاد سیروانی",
+          "person_id": 165,
+          "canonical_name": "السيرواني",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ بوبکر مغازلی استاد سیروانی بمصر بود وی گویدکی میخواستم کی بوالحسن مزین٭ را بیازمایم، بدر سرای وی شدم و در بزدم گفتم: یا اهل الدار واسونی بشئی.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حمدان بیمالک بن شبیب البغدادی جارودی",
+          "person_id": 1475,
+          "canonical_name": "حمدان بيمالك بن شبيب البغدادي جارودي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوبکر قطیعی",
+          "person_id": 642,
+          "canonical_name": "أبو بكر القطيعي",
+          "has_id": 85,
+          "subj_added": false
+        },
+        {
+          "name": "جنید",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حمدان بیمالک بن شبیب البغدادی جارودی گفت: که از بوبکر قطیعی شنودم که گفت، از جنید شنودم",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که باخر چنان شودکه آن پیرگفت یعنی حقیقت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حسین فقیر",
+          "person_id": 1451,
+          "canonical_name": "حسين الفقير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوبکر همدانی فقیر",
+          "person_id": 652,
+          "canonical_name": "أبو بكر الهمداني",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که حسین فقیرگفت، که بوبکر همدانی فقیرگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکرکفشیری",
+          "person_id": 644,
+          "canonical_name": "أبو بكر الكفشيري",
+          "has_id": 87,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بوبکرکفشیری گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که این نه کرامت است، این درعلم تصوف بیغارست1.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "گفت: درویشی در بادیه نشسته بود، او را از آسمان قدحی فرو گذاشتند از زر پر آب سرد.",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "گفت: قادری! که آن آب در جوف من پدید آری، یعنی کرامت ظاهر از مکر ایمن نبود.",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوعبداللّه خفیف",
+          "person_id": 22,
+          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 26,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلامگفت، که شیخ بوعبداللّه خفیف٭ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که تشنه را آسایش در چه، مگر در آب،",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وگفت: وفای دوستی در دوستی بر فتنست.",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "بوعثمان حیری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد بوعثمان حیری و از مهینان یار وی و پسینه از یاران وی.",
+        "person_id": 932,
+        "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+        "has_id": 419
+      },
+      {
+        "name": "جنید",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده بود",
+        "full_text": "جنید دیده بود",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "بوعثمان حیری",
+        "relationship_type": "peer",
+        "relationship_phrase": "از مهینان یار وی و پسینه از یاران وی",
+        "full_text": "شاگرد بوعثمان حیری و از مهینان یار وی و پسینه از یاران وی.",
+        "person_id": 932,
+        "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+        "has_id": 419
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ بوالقاسم باوردی",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت: کی شیخ بوالقاسم باوردی و بوالحسن بشری مرا از وی بسیار حکایت کردهاند ازو",
+      "person_id": 546,
+      "canonical_name": "أبو القاسم باوردي",
+      "has_id": NaN
+    },
+    {
+      "name": "بوالحسن بشری",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت: کی شیخ بوالقاسم باوردی و بوالحسن بشری مرا از وی بسیار حکایت کردهاند ازو",
+      "person_id": 430,
+      "canonical_name": "أبو الحسن علي بن بشريى السجزي",
+      "has_id": 298
+    },
+    {
+      "name": "شیخ بوعبداللّه رازی مقری",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "وفات",
+      "full_text": "او برفته در سنه ست او خمس و ستین و ثلثمائه فی ربیع الاول با شیخ بوعبداللّه رازی مقری",
+      "person_id": 887,
+      "canonical_name": "أبو عبد الله المقرئ",
+      "has_id": 418
+    },
+    {
+      "name": "شیخ با عبدالرحمن السلمی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "نسب: جد او از سوی مادر",
+      "full_text": "جد شیخ با عبدالرحمن السلمی بود از سوی مادر",
+      "person_id": 845,
+      "canonical_name": "أبو عبد الرحمن السلمي",
+      "has_id": 133
+    }
+  ]
+}

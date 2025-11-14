@@ -1,0 +1,250 @@
+{
+  "bio_id": "434",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد البغدادي",
+          "person_id": 2294,
+          "canonical_name": "محمد بن أحمد البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن مسروق",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 2239,
+          "canonical_name": "محمد بن الحسين البرجلاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بعض أصحابنا",
+          "person_id": 1338,
+          "canonical_name": "بعض أصحابنا",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو هاشم الزاهد",
+          "person_id": 1117,
+          "canonical_name": "أبو هاشم الزاهد",
+          "has_id": 434,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا محمد بن أحمد البغدادي - فيما كتب إلي وقد رأيته - وحدثني بهذا عنه عثمان بن محمد العثماني ثنا أحمد بن مسروق ثنا محمد بن الحسين قال: حدثني بعض أصحابنا",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو عمرو العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد",
+          "person_id": 2294,
+          "canonical_name": "محمد بن أحمد البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن مسروق",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسين البرجلاني",
+          "person_id": 2239,
+          "canonical_name": "محمد بن الحسين البرجلاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حكيم بن جعفر",
+          "person_id": 1467,
+          "canonical_name": "حكيم بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1117,
+          "canonical_name": "أبو هاشم الزاهد",
+          "has_id": 434,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا محمد بن أحمد وحدثني عنه أبو عمرو العثماني ثنا أحمد بن محمد بن مسروق ثنا محمد بن الحسين البرجلاني ثنا حكيم بن جعفر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1117,
+          "canonical_name": "أبو هاشم الزاهد",
+          "has_id": 434,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال محمد بن الحسين:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن صبيح المؤدب",
+          "person_id": 1597,
+          "canonical_name": "سعيد بن صبيح المؤدب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو هاشم الزاهد",
+          "person_id": 1117,
+          "canonical_name": "أبو هاشم الزاهد",
+          "has_id": 434,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحدثني سعيد بن صبيح المؤدب قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن صبيح المؤدب",
+          "person_id": 1597,
+          "canonical_name": "سعيد بن صبيح المؤدب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو هاشم الزاهد",
+          "person_id": 1117,
+          "canonical_name": "أبو هاشم الزاهد",
+          "has_id": 434,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال أبو هاشم",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أبو عبد الله بن أبى جعفر البرائى",
+        "relationship_type": "peer",
+        "relationship_phrase": "من أقران",
+        "full_text": "من أقران أبي عبد الله بن أبى جعفر البرائى.",
+        "person_id": 900,
+        "canonical_name": "أبو عبد الله بن أبى جعفر البرائى",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "بعض أصحابنا",
+      "relationship_type": "narrator",
+      "full_text": "قال: حدثني بعض أصحابنا",
+      "person_id": 1338,
+      "canonical_name": "بعض أصحابنا",
+      "has_id": NaN
+    },
+    {
+      "name": "حكيم بن جعفر",
+      "relationship_type": "narrator",
+      "full_text": "ثنا حكيم بن جعفر",
+      "person_id": 1467,
+      "canonical_name": "حكيم بن جعفر",
+      "has_id": NaN
+    },
+    {
+      "name": "سعيد بن صبيح المؤدب",
+      "relationship_type": "narrator",
+      "full_text": "وحدثني سعيد بن صبيح المؤدب",
+      "person_id": 1597,
+      "canonical_name": "سعيد بن صبيح المؤدب",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن الحسين",
+      "relationship_type": "narrator",
+      "full_text": "قال محمد بن الحسين:",
+      "person_id": 2239,
+      "canonical_name": "محمد بن الحسين البرجلاني",
+      "has_id": NaN
+    },
+    {
+      "name": "شريك",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "seen",
+      "full_text": "نظر أبو هاشم إلى شريك - يعني القاضي - يخرج من دار يحيى بن خالد",
+      "person_id": 1667,
+      "canonical_name": "شريك",
+      "has_id": NaN
+    },
+    {
+      "name": "يحيى بن خالد",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "mentioned",
+      "full_text": "يخرج من دار يحيى بن خالد",
+      "person_id": 2640,
+      "canonical_name": "يحيى بن خالد",
+      "has_id": NaN
+    }
+  ]
+}

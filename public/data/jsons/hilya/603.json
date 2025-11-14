@@ -1,0 +1,441 @@
+{
+  "bio_id": "603",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "البصرة",
+      "context": "nisba",
+      "full_text": "بصري"
+    },
+    {
+      "place": "بغداد",
+      "context": "lived",
+      "full_text": "سكن بغداد"
+    },
+    {
+      "place": "بيت المقدس",
+      "context": "mentioned",
+      "full_text": "كنت في بيت المقدس"
+    },
+    {
+      "place": "المدائن",
+      "context": "visited",
+      "full_text": "فذهبنا إلى المدائن"
+    },
+    {
+      "place": "قبر سلمان",
+      "context": "visited",
+      "full_text": "وزرنا قبر سلمان"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد المنعم",
+          "person_id": 1892,
+          "canonical_name": "عبد المنعم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي بكر الواسطي",
+          "person_id": 653,
+          "canonical_name": "أبو بكر الواسطي",
+          "has_id": 379,
+          "subj_added": false
+        },
+        {
+          "name": "سمنون",
+          "person_id": 1634,
+          "canonical_name": "سمنون بن حمزة المحب",
+          "has_id": 603,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر عبد المنعم عن أبي بكر الواسطي قال قال سمنون:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1393,
+          "canonical_name": "جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سمنون",
+          "person_id": 1634,
+          "canonical_name": "سمنون بن حمزة المحب",
+          "has_id": 603,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وأنشدت عن جعفر عن سمنون",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثمان",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن عبد الله بن سويد",
+          "person_id": 2050,
+          "canonical_name": "علي بن عبد الله بن سويد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد",
+          "person_id": 2292,
+          "canonical_name": "محمد بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن الصباح",
+          "has_id": NaN,
+          "person_id": 2228,
+          "canonical_name": "محمد بن الحسن بن الصباح",
+          "subj_added": false
+        },
+        {
+          "name": "علي بن غياث البزاز",
+          "person_id": 2062,
+          "canonical_name": "علي بن غياث البزاز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سمنون أبو الحسن أو أبو بكر البصرى",
+          "person_id": 1634,
+          "canonical_name": "سمنون بن حمزة المحب",
+          "has_id": 603,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "ما حدثناه عثمان بن محمد العثمان قال أنشدني علي بن عبد الله بن سويد قال أنشدنا محمد بن أحمد أن ابن الصباح قال أنشدنا علي بن غياث البزاز قال أنشدنا سمنون أبو الحسن أو أبو بكر البصرى",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثمان",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن عبد الله بن سويد",
+          "person_id": 2050,
+          "canonical_name": "علي بن عبد الله بن سويد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد",
+          "person_id": 2292,
+          "canonical_name": "محمد بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن الصباح",
+          "has_id": NaN,
+          "person_id": 2228,
+          "canonical_name": "محمد بن الحسن بن الصباح",
+          "subj_added": false
+        },
+        {
+          "name": "علي بن غياث البزاز",
+          "person_id": 2062,
+          "canonical_name": "علي بن غياث البزاز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سمنون أبو الحسن أو أبو بكر البصرى",
+          "person_id": 1634,
+          "canonical_name": "سمنون بن حمزة المحب",
+          "has_id": 603,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال: وأنشدنا أيضا سمنون لنفسه:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو على الحسن بن أحمد الصوفى",
+          "person_id": 950,
+          "canonical_name": "أبو علي الحسن بن أحمد الصوفى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سمنون",
+          "person_id": 1634,
+          "canonical_name": "سمنون بن حمزة المحب",
+          "has_id": 603,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وأنشدني عثمان بن محمد قال أنشدنى أبو على الحسن بن أحمد الصوفى لسمنون:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن عبد الله بن سويد",
+          "person_id": 2050,
+          "canonical_name": "علي بن عبد الله بن سويد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن حمدان",
+          "person_id": 2342,
+          "canonical_name": "محمد بن حمدان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سمنونا",
+          "person_id": 1634,
+          "canonical_name": "سمنون بن حمزة المحب",
+          "has_id": 603,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وأنشدني عثمان قال أنشدني علي بن عبد الله بن سويد قال حدثني محمد بن حمدان قال: رأيت سمنونا",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد الله بن عبد العزيز",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو جعفر الفرغانى",
+          "person_id": 736,
+          "canonical_name": "أبو جعفر الفرغانى",
+          "has_id": 396,
+          "subj_added": false
+        },
+        {
+          "name": "سمنون البصرى",
+          "person_id": 1634,
+          "canonical_name": "سمنون بن حمزة المحب",
+          "has_id": 603,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وأنشدني محمد بن الحسين بن موسى قال أنشدنا محمد بن عبد الله بن عبد العزيز قال أنشدنا أبو جعفر الفرغانى قال أنشدنا سمنون البصرى",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر الرازي",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر العجان",
+          "person_id": 636,
+          "canonical_name": "أبو بكر العجان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سمنونا",
+          "person_id": 1634,
+          "canonical_name": "سمنون بن حمزة المحب",
+          "has_id": 603,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أبا بكر الرازي يقول سمعت أبا بكر العجان يقول سمعت سمنونا يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر بن رفيل",
+          "person_id": 2098,
+          "canonical_name": "عمر بن رفيل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا القاسم الهاشمي",
+          "person_id": 544,
+          "canonical_name": "أبو القاسم الهاشمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1634,
+          "canonical_name": "سمنون بن حمزة المحب",
+          "has_id": 603,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرت عن عمر بن رفيل - وقد لقيته بجرجوايا - قال سمعت أبا القاسم الهاشمي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2272,
+          "canonical_name": "محمد بن إبراهيم بن أبان السراج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو أحمد القلانسي",
+          "person_id": 591,
+          "canonical_name": "أبو أحمد القلانسي",
+          "has_id": 371,
+          "subj_added": false
+        },
+        {
+          "name": "سمنون",
+          "person_id": 1634,
+          "canonical_name": "سمنون بن حمزة المحب",
+          "has_id": 603,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحدثني عنه محمد بن إبراهيم قال قال أبو أحمد القلانسي",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبي بكر الواسطي",
+      "relationship_type": "narrator",
+      "full_text": "أخبر عبد المنعم عن أبي بكر الواسطي قال قال سمنون",
+      "person_id": 653,
+      "canonical_name": "أبو بكر الواسطي",
+      "has_id": 379
+    },
+    {
+      "name": "جعفر",
+      "relationship_type": "narrator",
+      "full_text": "وأنشدت عن جعفر عن سمنون",
+      "person_id": 1393,
+      "canonical_name": "جعفر",
+      "has_id": NaN
+    },
+    {
+      "name": "علي بن غياث البزاز",
+      "relationship_type": "narrator",
+      "full_text": "قال أنشدنا علي بن غياث البزاز قال أنشدنا سمنون أبو الحسن أو أبو بكر البصرى",
+      "person_id": 2062,
+      "canonical_name": "علي بن غياث البزاز",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو على الحسن بن أحمد الصوفى",
+      "relationship_type": "narrator",
+      "full_text": "قال أنشدنى أبو على الحسن بن أحمد الصوفى لسمنون",
+      "person_id": 950,
+      "canonical_name": "أبو علي الحسن بن أحمد الصوفى",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن حمدان",
+      "relationship_type": "narrator",
+      "full_text": "قال حدثني محمد بن حمدان قال: رأيت سمنونا",
+      "person_id": 2342,
+      "canonical_name": "محمد بن حمدان",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو جعفر الفرغانى",
+      "relationship_type": "narrator",
+      "full_text": "قال أنشدنا أبو جعفر الفرغانى قال أنشدنا سمنون البصرى",
+      "person_id": 736,
+      "canonical_name": "أبو جعفر الفرغانى",
+      "has_id": 396
+    },
+    {
+      "name": "أبو بكر العجان",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر العجان يقول سمعت سمنونا يقول",
+      "person_id": 636,
+      "canonical_name": "أبو بكر العجان",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو أحمد القلانسي",
+      "relationship_type": "narrator",
+      "full_text": "قال قال أبو أحمد القلانسي",
+      "person_id": 591,
+      "canonical_name": "أبو أحمد القلانسي",
+      "has_id": 371
+    }
+  ]
+}

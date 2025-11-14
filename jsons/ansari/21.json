@@ -1,0 +1,96 @@
+{
+  "bio_id": "21",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که وی قدیمست از اصمعی روایت کند.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بنان حمال",
+          "person_id": 421,
+          "canonical_name": "أبو الحسن بنان الحمال",
+          "has_id": 476,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بنان حمال گوید: در وی شدم ویرا یافتم نشسته در خانه علم، ویرا گفتم: که ازین علم تو دوکلمه در من آموز مختصر، که آن کل بود، تا بآن کارکنم. مرا گفت: قصدک و رضاه فان سقطت بین هذین فتصل.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "اصمعی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "از ... روایت کند",
+        "full_text": "وی قدیمست از اصمعی روایت کند.",
+        "person_id": 54,
+        "canonical_name": "اصمعي",
+        "has_id": NaN
+      },
+      {
+        "name": "ابو سلیمن دارانی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "صحبت کرده بود بابو سلیمن دارانی،",
+        "person_id": 817,
+        "canonical_name": "أبو سليمان الداراني",
+        "has_id": 404
+      },
+      {
+        "name": "احمد بوالحواری٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "صحبت کرده بود بابو سلیمن دارانی، و احمد بوالحواری٭",
+        "person_id": 1177,
+        "canonical_name": "أحمد بن أبي الحواري",
+        "has_id": 442
+      }
+    ],
+    "students": [
+      {
+        "name": "ابوبکرکتانی٭",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "استاد",
+        "full_text": "وی استاد ابوبکرکتانی٭ بود",
+        "person_id": 712,
+        "canonical_name": "أبو بكر محمد بن علي الكتاني",
+        "has_id": 378
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت: که وی قدیمست از اصمعی روایت کند.",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "بنان حمال",
+      "relationship_type": "direct_narrator",
+      "context": "questioner",
+      "full_text": "بنان حمال گوید: در وی شدم ویرا یافتم نشسته در خانه علم، ویرا گفتم: که ازین علم تو دوکلمه در من آموز مختصر، که آن کل بود، تا بآن کارکنم. مرا گفت: قصدک و رضاه فان سقطت بین هذین فتصل.",
+      "person_id": 421,
+      "canonical_name": "أبو الحسن بنان الحمال",
+      "has_id": 476
+    }
+  ]
+}

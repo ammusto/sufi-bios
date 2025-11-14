@@ -1,0 +1,329 @@
+{
+  "bio_id": "380",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بلخ",
+      "context": "nisba",
+      "full_text": "البلخي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين الفارسي",
+          "has_id": NaN,
+          "person_id": 40,
+          "canonical_name": "أبو الحسين الفارسي",
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر بن أحمد بن سعيد",
+          "person_id": 666,
+          "canonical_name": "أبو بكر بن أحمد بن سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر الوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثني محمد بن الحسين قال سمعت أبا الحسين الفارسي يقول سمعت أبا بكر بن أحمد بن سعيد يقول سمعت أبا بكر الوراق يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين",
+          "has_id": NaN,
+          "person_id": 41,
+          "canonical_name": "أبو الحسين",
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن مزاحم",
+          "person_id": 1269,
+          "canonical_name": "أحمد بن مزاحم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر الوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر محمد قال سمعت أبا الحسين يقول سمعت أحمد بن مزاحم يقول سمعت أبا بكر الوراق يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو بكر الرازي",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "غيلان السمرقندي",
+          "person_id": 2155,
+          "canonical_name": "غيلان السمرقندي",
+          "has_id": 851,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر الوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو بكر الرازي قال سمعت غيلان السمرقندي يقول سمعت أبا بكر الوراق يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن موسى النجيدي",
+          "person_id": 2458,
+          "canonical_name": "محمد بن موسى النجيدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر بن أحمد البلخي",
+          "person_id": 665,
+          "canonical_name": "أبو بكر بن أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر الوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر محمد بن موسى النجيدي قال سمعت أبا بكر بن أحمد البلخي يقول سمعت أبا بكر الوراق يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن الحسن البلخي",
+          "person_id": 1999,
+          "canonical_name": "علي بن الحسين البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن محمد بن حاتم",
+          "person_id": 2441,
+          "canonical_name": "محمد بن محمد بن حاتم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عمران موسى بن حزام الترمذي",
+          "person_id": 1003,
+          "canonical_name": "أبو عمران موسى بن حزام الترمذي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو أسامة",
+          "person_id": 602,
+          "canonical_name": "أبو أسامة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر بن حمزة",
+          "person_id": 2096,
+          "canonical_name": "عمر بن حمزة العمري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الرحمن ابن أبي سعيد",
+          "person_id": 1739,
+          "canonical_name": "عبد الرحمن بن أبي سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو سعيد الخدري",
+          "person_id": 800,
+          "canonical_name": "أبو سعيد الخدري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا محمد بن الحسين بن موسى ثنا علي بن الحسن البلخي ثنا محمد بن محمد بن حاتم ثنا أبو بكر محمد بن عمر الوراق البلخي ثنا أبو عمران موسى بن حزام الترمذي ثنا أبو أسامة عن عمر بن حمزة عن عبد الرحمن ابن أبي سعيد عن أبي سعيد الخدري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو بكر الطلحي",
+          "person_id": 633,
+          "canonical_name": "أبو بكر الطلحي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبيد بن غنام",
+          "person_id": 1940,
+          "canonical_name": "عبيد بن غنام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر بن شيبة",
+          "person_id": 672,
+          "canonical_name": "أبو بكر بن شيبة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر ابن معاوية",
+          "person_id": 2110,
+          "canonical_name": "عمر بن معاوية",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر بن حمزة العمري",
+          "person_id": 2096,
+          "canonical_name": "عمر بن حمزة العمري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الرحمن بن سعد مولى آل بني سفيان",
+          "person_id": 1746,
+          "canonical_name": "عبد الرحمن بن سعد مولى آل بني سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا سعيد الخدري",
+          "person_id": 800,
+          "canonical_name": "أبو سعيد الخدري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو بكر الطلحي ثنا عبيد بن غنام ثنا أبو بكر بن شيبة ثنا عمر ابن معاوية عن عمر بن حمزة العمري ثنا عبد الرحمن بن سعد مولى آل بني سفيان قال سمعت أبا سعيد الخدري يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا بكر بن أحمد بن سعيد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر بن أحمد بن سعيد يقول سمعت أبا بكر الوراق يقول",
+      "person_id": 666,
+      "canonical_name": "أبو بكر بن أحمد بن سعيد",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد بن مزاحم",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أحمد بن مزاحم يقول سمعت أبا بكر الوراق يقول",
+      "person_id": 1269,
+      "canonical_name": "أحمد بن مزاحم",
+      "has_id": NaN
+    },
+    {
+      "name": "غيلان السمرقندي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت غيلان السمرقندي يقول سمعت أبا بكر الوراق يقول",
+      "person_id": 2155,
+      "canonical_name": "غيلان السمرقندي",
+      "has_id": 851
+    },
+    {
+      "name": "أبا بكر بن أحمد البلخي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر بن أحمد البلخي يقول سمعت أبا بكر الوراق يقول",
+      "person_id": 665,
+      "canonical_name": "أبو بكر بن أحمد البلخي",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن محمد بن حاتم",
+      "relationship_type": "narrator",
+      "full_text": "ثنا محمد بن محمد بن حاتم ثنا أبو بكر محمد بن عمر الوراق البلخي",
+      "person_id": 2441,
+      "canonical_name": "محمد بن محمد بن حاتم",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "questioner",
+      "full_text": "ودخل على أبي بكر الوراق رجل فقال: إني أخاف من فلان.",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

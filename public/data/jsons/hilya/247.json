@@ -1,0 +1,218 @@
+{
+  "bio_id": "247",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "قرميسين",
+      "context": "nisba",
+      "full_text": "القرميسيني"
+    },
+    {
+      "place": "الجبل",
+      "context": "mentioned",
+      "full_text": "أحد مشايخ الجبل"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا بكر الدينوري الطرسوسي",
+          "person_id": 642,
+          "canonical_name": "أبو بكر القطيعي",
+          "has_id": 85,
+          "subj_added": false
+        },
+        {
+          "name": "مظفر القرميسيني",
+          "person_id": 2567,
+          "canonical_name": "موسي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا بكر الدينوري الطرسوسي - شيخ الحرمة - يقول قال مظفر القرميسيني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عبد الله محمد بن أحمد بن دينار الدينورى",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        },
+        {
+          "name": "مظفر القرميسينى",
+          "person_id": 2566,
+          "canonical_name": "موسى بن يزيد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا عبد الله محمد بن أحمد بن دينار الدينورى بمكة يقول سمعت مظفر القرميسينى يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عبد الله محمد بن أحمد بن دينار الدينورى",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        },
+        {
+          "name": "مظفر القرميسينى",
+          "person_id": 2566,
+          "canonical_name": "موسى بن يزيد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 872,
+          "canonical_name": "أبو عبد الله السليمي الفقيه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مظفر القرميسيني",
+          "person_id": 2567,
+          "canonical_name": "موسي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول قال مظفر القرميسيني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 872,
+          "canonical_name": "أبو عبد الله السليمي الفقيه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مظفر القرميسيني",
+          "person_id": 2567,
+          "canonical_name": "موسي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 872,
+          "canonical_name": "أبو عبد الله السليمي الفقيه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مظفر",
+          "person_id": 2566,
+          "canonical_name": "موسى بن يزيد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول قال مظفر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 872,
+          "canonical_name": "أبو عبد الله السليمي الفقيه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مظفر",
+          "person_id": 2566,
+          "canonical_name": "موسى بن يزيد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 872,
+          "canonical_name": "أبو عبد الله السليمي الفقيه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مظفر",
+          "person_id": 2566,
+          "canonical_name": "موسى بن يزيد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول قال مظفر",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا بكر الدينوري الطرسوسي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر الدينوري الطرسوسي - شيخ الحرمة - يقول",
+      "person_id": 642,
+      "canonical_name": "أبو بكر القطيعي",
+      "has_id": 85
+    },
+    {
+      "name": "أبا عبد الله محمد بن أحمد بن دينار الدينورى",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا عبد الله محمد بن أحمد بن دينار الدينورى بمكة يقول",
+      "person_id": 932,
+      "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+      "has_id": 419
+    },
+    {
+      "name": "محمد بن الحسين",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن الحسين يقول",
+      "person_id": 872,
+      "canonical_name": "أبو عبد الله السليمي الفقيه",
+      "has_id": NaN
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "bio_id": "416",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "299",
+    "full_text": "مَاتَ سنة تسع وَسبعين وَمِائَتَيْنِ وَقيل تسع وَتِسْعين وَهَذَا أصح إِن شَاءَ الله",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "المغرب",
+      "context": "nisba",
+      "full_text": "المغربي"
+    },
+    {
+      "place": "جبل طور سيناء",
+      "context": "died",
+      "full_text": "مَات على جبل طور سيناء"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله بن عبد الْعَزِيز الطَّبَرِيّ",
+          "person_id": 2387,
+          "canonical_name": "محمد بن عبد الله بن عبد العزيز الطبري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن شَيبَان",
+          "person_id": 314,
+          "canonical_name": "إبراهيم بن شيبان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عبد الله المغربي",
+          "person_id": 885,
+          "canonical_name": "أبو عبد الله المغربي",
+          "has_id": 416,
+          "subj_added": false
+        },
+        {
+          "name": "عَمْرو بن أبي غيلَان",
+          "person_id": 2121,
+          "canonical_name": "عمرو بن أبي غيلان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الْأَعْلَى بن حَمَّاد",
+          "person_id": 1726,
+          "canonical_name": "عبد الأعلى بن حمّاد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حَمَّاد بن سَلمَة",
+          "person_id": 1470,
+          "canonical_name": "حمّاد بن سلمة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ثَابت",
+          "person_id": 2326,
+          "canonical_name": "محمد بن ثابت البناني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أنس",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا مُحَمَّد بن عبد الله بن عبد الْعَزِيز الطَّبَرِيّ قَالَ حَدثنَا إِبْرَاهِيم بن شَيبَان حَدثنَا أَبُو عبد الله المغربي حَدثنَا عَمْرو بن أبي غيلَان حَدثنَا عبد الْأَعْلَى بن حَمَّاد حَدثنَا حَمَّاد بن سَلمَة عَن ثَابت عَن أنس",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن شَيبَان",
+          "person_id": 314,
+          "canonical_name": "إبراهيم بن شيبان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله المغربى",
+          "person_id": 885,
+          "canonical_name": "أبو عبد الله المغربي",
+          "has_id": 416,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت إِبْرَاهِيم بن شَيبَان يَقُول سَمِعت أَبَا عبد الله المغربى يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله المغربي",
+          "person_id": 885,
+          "canonical_name": "أبو عبد الله المغربي",
+          "has_id": 416,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت أَبَا بكر يَقُول سَمِعت جعفرا يَقُول سَمِعت أَبَا عبد الله المغربي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله المغربي",
+          "person_id": 885,
+          "canonical_name": "أبو عبد الله المغربي",
+          "has_id": 416,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله المغربي",
+          "person_id": 885,
+          "canonical_name": "أبو عبد الله المغربي",
+          "has_id": 416,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله المغربي",
+          "person_id": 885,
+          "canonical_name": "أبو عبد الله المغربي",
+          "has_id": 416,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو الْفرج الورثاني",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عَليّ الْموصِلِي",
+          "person_id": 969,
+          "canonical_name": "أبو علي الموصلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي عبد الله المغربي",
+          "person_id": 885,
+          "canonical_name": "أبو عبد الله المغربي",
+          "has_id": 416,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أَنْشدني أَبُو الْفرج الورثاني قَالَ أَنْشدني أَبُو عَليّ الْموصِلِي لأبي عبد الله المغربي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ بن يحيى",
+          "person_id": 1852,
+          "canonical_name": "عبد الله بن علي بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله المغربي",
+          "person_id": 885,
+          "canonical_name": "أبو عبد الله المغربي",
+          "has_id": 416,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الله بن عَليّ بن يحيى يَقُول سَمِعت أَبَا عبد الله المغربي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ بن يحيى",
+          "person_id": 1852,
+          "canonical_name": "عبد الله بن علي بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله المغربي",
+          "person_id": 885,
+          "canonical_name": "أبو عبد الله المغربي",
+          "has_id": 416,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ بن يحيى",
+          "person_id": 1852,
+          "canonical_name": "عبد الله بن علي بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله المغربي",
+          "person_id": 885,
+          "canonical_name": "أبو عبد الله المغربي",
+          "has_id": 416,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ بن يحيى",
+          "person_id": 1852,
+          "canonical_name": "عبد الله بن علي بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله المغربي",
+          "person_id": 885,
+          "canonical_name": "أبو عبد الله المغربي",
+          "has_id": 416,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ بن يحيى",
+          "person_id": 1852,
+          "canonical_name": "عبد الله بن علي بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله المغربي",
+          "person_id": 885,
+          "canonical_name": "أبو عبد الله المغربي",
+          "has_id": 416,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "عَليّ بن رزين",
+        "relationship_type": "student_of",
+        "relationship_phrase": "أستاذه",
+        "full_text": "وقبره عَلَيْهِ مَعَ قبر أستاذه عَليّ بن رزين",
+        "person_id": 2030,
+        "canonical_name": "علي بن رزين",
+        "has_id": 696
+      }
+    ],
+    "students": [
+      {
+        "name": "إِبْرَاهِيم الْخَواص",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "أستاذ",
+        "full_text": "كَانَ أستاذ إِبْرَاهِيم الْخَواص وَإِبْرَاهِيم بن شَيبَان",
+        "person_id": 278,
+        "canonical_name": "أبو إسحاق إبراهيم الخواص",
+        "has_id": 268
+      },
+      {
+        "name": "إِبْرَاهِيم بن شَيبَان",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "أستاذ",
+        "full_text": "كَانَ أستاذ إِبْرَاهِيم الْخَواص وَإِبْرَاهِيم بن شَيبَان",
+        "person_id": 314,
+        "canonical_name": "إبراهيم بن شيبان",
+        "has_id": NaN
+      }
+    ],
+    "companions": [
+      {
+        "name": "عَليّ بن رزين",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب عَليّ بن رزين",
+        "person_id": 2030,
+        "canonical_name": "علي بن رزين",
+        "has_id": 696
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "إِبْرَاهِيم بن شَيبَان",
+      "relationship_type": "narrator",
+      "full_text": "حَدثنَا إِبْرَاهِيم بن شَيبَان حَدثنَا أَبُو عبد الله المغربي",
+      "person_id": 314,
+      "canonical_name": "إبراهيم بن شيبان",
+      "has_id": NaN
+    },
+    {
+      "name": "جعفرا",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت جعفرا يَقُول سَمِعت أَبَا عبد الله المغربي يَقُول",
+      "person_id": 1405,
+      "canonical_name": "جعفر بن محمد الخلدي",
+      "has_id": 495
+    },
+    {
+      "name": "أَبُو عَليّ الْموصِلِي",
+      "relationship_type": "narrator",
+      "full_text": "أَنْشدني أَبُو عَليّ الْموصِلِي لأبي عبد الله المغربي",
+      "person_id": 969,
+      "canonical_name": "أبو علي الموصلي",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الله بن عَليّ بن يحيى",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت عبد الله بن عَليّ بن يحيى يَقُول سَمِعت أَبَا عبد الله المغربي يَقُول",
+      "person_id": 1852,
+      "canonical_name": "عبد الله بن علي بن يحيى",
+      "has_id": NaN
+    }
+  ]
+}

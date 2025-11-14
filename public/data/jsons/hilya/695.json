@@ -1,0 +1,72 @@
+{
+  "bio_id": "695",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو بكر محمد بن أحمد",
+          "person_id": 691,
+          "canonical_name": "أبو بكر محمد بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسن بن أبان",
+          "person_id": 417,
+          "canonical_name": "أبو الحسن بن أبان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد ابن عبيد",
+          "person_id": 1873,
+          "canonical_name": "عبد الله بن محمد بن عبيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن معاوية الأزرق",
+          "person_id": 2451,
+          "canonical_name": "محمد بن معاوية الأزرق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن ثابت الزيات",
+          "person_id": 2025,
+          "canonical_name": "علي بن ثابت الزيات",
+          "has_id": 695,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو بكر محمد بن أحمد ثنا أبو الحسن بن أبان ثنا عبد الله بن محمد ابن عبيد قال حدثني محمد بن الحسين قال حدثني محمد بن معاوية الأزرق قال: قال علي بن ثابت الزيات",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "محمد بن معاوية الأزرق",
+      "relationship_type": "narrator",
+      "full_text": "قال حدثني محمد بن معاوية الأزرق قال:",
+      "person_id": 2451,
+      "canonical_name": "محمد بن معاوية الأزرق",
+      "has_id": NaN
+    }
+  ]
+}

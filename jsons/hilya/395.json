@@ -1,0 +1,155 @@
+{
+  "bio_id": "395",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "الكوفة",
+      "context": "nisba",
+      "full_text": "الكوفي"
+    },
+    {
+      "place": "بغداد",
+      "context": "mentioned",
+      "full_text": "أكثر نساك بغداد تأدبوا به وتوارثوا منه شريف الآداب وحميد الأخلاق."
+    },
+    {
+      "place": "براثا",
+      "context": "mentioned",
+      "full_text": "وكان يسكن براثا"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "سمعت أبا الحسن بن مقسم يرفع منه جدا وأنه فاق أقرانه في الاجتهاد وكثرة الأوراد.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحدثني عنه جعفر بن محمد بن نصير قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو عمرو العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن علي البغدادي",
+          "person_id": 2408,
+          "canonical_name": "محمد بن علي البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن مسروق",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسين البرجلاني",
+          "person_id": 2239,
+          "canonical_name": "محمد بن الحسين البرجلاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حكيم بن جعفر",
+          "person_id": 1467,
+          "canonical_name": "حكيم بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثني أبو عمرو العثماني ثنا محمد بن علي البغدادي ثنا أحمد بن محمد بن مسروق ثنا محمد بن الحسين البرجلاني ثنا حكيم بن جعفر.",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "أبي عبد الله البراثي الزاهد",
+        "relationship_type": "student_of",
+        "relationship_phrase": "تخرج ب",
+        "full_text": "وكان أبو جعفر بن الكوفي ممن تخرج بأبي عبد الله البراثي الزاهد ومن تلامذته",
+        "person_id": 856,
+        "canonical_name": "أبو عبد الله البراثي",
+        "has_id": 407
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا الحسن بن مقسم",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا الحسن بن مقسم يرفع منه جدا وأنه فاق أقرانه في الاجتهاد وكثرة الأوراد.",
+      "has_id": NaN,
+      "person_id": 50,
+      "canonical_name": "اسماعيل عباد"
+    },
+    {
+      "name": "جعفر بن محمد بن نصير",
+      "relationship_type": "narrator",
+      "context": "ثم سألته فقلت: يرحمك الله الرجل يتكلم في العلم الذي لم يبلغ استعمال كل عمله.",
+      "full_text": "وحدثني عنه جعفر بن محمد بن نصير قال",
+      "person_id": 1405,
+      "canonical_name": "جعفر بن محمد الخلدي",
+      "has_id": 495
+    },
+    {
+      "name": "الجنيد ابن محمد",
+      "relationship_type": "interlocutor",
+      "context": "ذهب إليه يوما بصرة دراهم وعرضها عليه",
+      "full_text": "ذهب إليه يوما الجنيد ابن محمد بصرة دراهم عرضها عليه فأبى أن يأخذها منه",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    },
+    {
+      "name": "أبا عبد الله بن أبي جعفر الزاهد",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "كان يسكن براثا",
+      "full_text": "كنا نأتي أبا عبد الله بن أبي جعفر الزاهد وكان يسكن براثا",
+      "person_id": 900,
+      "canonical_name": "أبو عبد الله بن أبى جعفر البرائى",
+      "has_id": NaN
+    },
+    {
+      "name": "جوهرة",
+      "relationship_type": "interlocutor",
+      "context": "امرأة متعبدة",
+      "full_text": "وكانت له امرأة متعبدة يقال لها جوهرة",
+      "person_id": 1422,
+      "canonical_name": "جوهرة",
+      "has_id": NaN
+    },
+    {
+      "name": "حكيم بن جعفر",
+      "relationship_type": "narrator",
+      "full_text": "قال: كنا نأتي أبا عبد الله بن أبي جعفر الزاهد وكان يسكن براثا، وكانت له امرأة متعبدة",
+      "person_id": 1467,
+      "canonical_name": "حكيم بن جعفر",
+      "has_id": NaN
+    }
+  ]
+}

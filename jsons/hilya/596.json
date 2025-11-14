@@ -1,0 +1,782 @@
+{
+  "bio_id": "596",
+  "source": "hilya",
+  "death_date": {
+    "year_hijri": "298",
+    "full_text": "وتوفي بها سنة ثمان وتسعين ومائتين",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "الحيرة",
+      "context": "nisba",
+      "full_text": "الحيري"
+    },
+    {
+      "place": "الري",
+      "context": "born",
+      "full_text": "رازي المولد"
+    },
+    {
+      "place": "نيسابور",
+      "context": "visited",
+      "full_text": "خرج زائرا إلى أبي حفص النيسابوري"
+    },
+    {
+      "place": "نيسابور",
+      "context": "lived",
+      "full_text": "وصار له سكنا"
+    },
+    {
+      "place": "نيسابور",
+      "context": "died",
+      "full_text": "وتوفي بها سنة ثمان وتسعين ومائتين"
+    },
+    {
+      "place": "مقبرة الحيرة",
+      "context": "died",
+      "full_text": "ودفن بمقبرة الحيرة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو عمرو بن حمدان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "فيما ذكره لي أبو عمرو بن حمدان",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عمرو بن حمدان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عثمان الحيري",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا عمرو بن حمدان يقول سمعت أبا عثمان الحيري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد المعلم - صاحب الخان -",
+          "person_id": 1061,
+          "canonical_name": "أبو محمد عبد الله بن محمد المعلم النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عمر بن نجيد",
+          "person_id": 1015,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+          "has_id": 176,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الفضل البلخي",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت عبد الله بن محمد المعلم - صاحب الخان - يقول سمعت أبا عمر بن نجيد يقول قال محمد بن الفضل البلخي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "جدي أبا عمر بن نجيد",
+          "person_id": 1015,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+          "has_id": 176,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عثمان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين بن موسى يقول سمعت جدي أبا عمر بن نجيد يقول سمعت أبا عثمان يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد بن عثمان",
+          "person_id": 2311,
+          "canonical_name": "محمد بن أحمد بن عثمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عثمان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن أحمد بن عثمان يقول سمعت أبا عثمان يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عمرو بن حمدان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي أحمد بن حمدان",
+          "person_id": 593,
+          "canonical_name": "أبو أحمد بن حمدان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عثمان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا عمرو بن حمدان يقول: قرأت بخط أبي أحمد بن حمدان:\nسمعت أبا عثمان يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عمرو بن حمدان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي أحمد بن حمدان",
+          "person_id": 593,
+          "canonical_name": "أبو أحمد بن حمدان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عثمان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال: وسمعت أبا عثمان يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عمرو بن حمدان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي أحمد بن حمدان",
+          "person_id": 593,
+          "canonical_name": "أبو أحمد بن حمدان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عثمان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت أبا عثمان يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عمرو بن حمدان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي أحمد بن حمدان",
+          "person_id": 593,
+          "canonical_name": "أبو أحمد بن حمدان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عثمان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت أبا عثمان يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عمرو بن حمدان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي أحمد بن حمدان",
+          "person_id": 593,
+          "canonical_name": "أبو أحمد بن حمدان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عثمان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال أبو عثمان",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عمرو بن حمدان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي أحمد بن حمدان",
+          "person_id": 593,
+          "canonical_name": "أبو أحمد بن حمدان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عثمان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال أبو عثمان",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عمرو بن حمدان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي أحمد بن حمدان",
+          "person_id": 593,
+          "canonical_name": "أبو أحمد بن حمدان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عثمان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال أبو عثمان",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عمرو بن حمدان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي أحمد بن حمدان",
+          "person_id": 593,
+          "canonical_name": "أبو أحمد بن حمدان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عثمان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال أبو عثمان",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله الرازي",
+          "person_id": 1793,
+          "canonical_name": "عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت عبد الله الرازي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد الملامتي",
+          "person_id": 2298,
+          "canonical_name": "محمد بن أحمد الملامتي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين الوراق (¬١)",
+          "person_id": 951,
+          "canonical_name": "أبو علي الحسن بن علي بن الخطاب الوراق",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت محمد بن أحمد الملامتي يقول سمعت الحسين الوراق (¬١) يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين الفارسي",
+          "has_id": NaN,
+          "person_id": 85,
+          "canonical_name": "الحسن بن سعد",
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد بن يوسف",
+          "person_id": 703,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عثمان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أبا الحسين الفارسي يقول سمعت محمد بن أحمد بن يوسف يقول سمعت أبا عثمان يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين الفارسي",
+          "has_id": NaN,
+          "person_id": 86,
+          "canonical_name": "الحسن بن سفيان",
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد بن يوسف",
+          "person_id": 703,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عثمان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال أبو عثمان",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد بن إبراهيم",
+          "person_id": 2305,
+          "canonical_name": "محمد بن أحمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين الوراق",
+          "has_id": NaN,
+          "person_id": 87,
+          "canonical_name": "الحسن بن سهل بن عاصم",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت محمد بن أحمد بن إبراهيم يقول سمعت أبا الحسين الوراق يقول سئل أبو عثمان",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محفوظ",
+          "person_id": 2212,
+          "canonical_name": "محفوظ",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وقال محفوظ: سئل أبو عثمان",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن عبد الله بن سعيد بن إسماعيل",
+          "person_id": 1602,
+          "canonical_name": "سعيد بن عبد الله بن سعيد بن إسماعيل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو صالح حمدون القصار صاحب أبي محمد بن يحيى النيسابوري",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        },
+        {
+          "name": "قتيبة بن سعيد",
+          "person_id": 2178,
+          "canonical_name": "قتيبة بن سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبثر",
+          "person_id": 1723,
+          "canonical_name": "عبثر بن القاسم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أشعث",
+          "person_id": 1295,
+          "canonical_name": "أشعث بن سوار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد",
+          "person_id": 2214,
+          "canonical_name": "محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "نافع",
+          "person_id": 2576,
+          "canonical_name": "نافع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عمر",
+          "has_id": NaN,
+          "person_id": 28,
+          "canonical_name": "ابن عمر",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا محمد بن الحسين ثنا سعيد بن عبد الله بن سعيد بن إسماعيل قال: وجدت في كتاب جدي أبي عثمان بخطه: حدثني أبو صالح حمدون القصار صاحب أبي محمد بن يحيى النيسابوري ثنا قتيبة بن سعيد ثنا عبثر عن أشعث عن محمد عن نافع عن ابن عمر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سليمان بن أحمد",
+          "person_id": 1626,
+          "canonical_name": "سليمان بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبدان بن محمد المروزي",
+          "person_id": 1920,
+          "canonical_name": "عبدان بن محمد المروزي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "قتيبة بن سعيد",
+          "person_id": 2178,
+          "canonical_name": "قتيبة بن سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبثر بن القاسم",
+          "person_id": 1723,
+          "canonical_name": "عبثر بن القاسم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أشعث بن سوار",
+          "person_id": 1295,
+          "canonical_name": "أشعث بن سوار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد",
+          "person_id": 2214,
+          "canonical_name": "محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "نافع",
+          "person_id": 2576,
+          "canonical_name": "نافع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عمر",
+          "has_id": NaN,
+          "person_id": 28,
+          "canonical_name": "ابن عمر",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا سليمان بن أحمد ثنا عبدان بن محمد المروزي ثنا قتيبة بن سعيد ثنا عبثر بن القاسم عن أشعث بن سوار عن محمد عن نافع عن ابن عمر",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "شاه الكرماني",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شيخه",
+        "full_text": "مع شيخه شاه الكرماني",
+        "person_id": 1661,
+        "canonical_name": "شاه بن شجاع الكرماني",
+        "has_id": 614
+      },
+      {
+        "name": "أبو حفص النيسابوري",
+        "relationship_type": "student_of",
+        "relationship_phrase": "أستاذه",
+        "full_text": "عند قبر أستاذه أبي حفص النيسابوري",
+        "person_id": 759,
+        "canonical_name": "أبو حفص الحداد النيسابوري",
+        "has_id": 715
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا عمرو بن حمدان",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا عمرو بن حمدان يقول سمعت أبا عثمان الحيري يقول",
+      "person_id": 1023,
+      "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+      "has_id": NaN
+    },
+    {
+      "name": "جدي أبا عمر بن نجيد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن الحسين بن موسى يقول سمعت جدي أبا عمر بن نجيد يقول سمعت أبا عثمان يقول",
+      "person_id": 1015,
+      "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+      "has_id": 176
+    },
+    {
+      "name": "محمد بن أحمد بن عثمان",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن أحمد بن عثمان يقول سمعت أبا عثمان يقول",
+      "person_id": 2311,
+      "canonical_name": "محمد بن أحمد بن عثمان",
+      "has_id": NaN
+    },
+    {
+      "name": "أبي أحمد بن حمدان",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا عمرو بن حمدان يقول: قرأت بخط أبي أحمد بن حمدان:\nسمعت أبا عثمان يقول",
+      "person_id": 593,
+      "canonical_name": "أبو أحمد بن حمدان",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن أحمد بن يوسف",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أبا الحسين الفارسي يقول سمعت محمد بن أحمد بن يوسف يقول سمعت أبا عثمان يقول",
+      "person_id": 703,
+      "canonical_name": "أبو بكر محمد بن أحمد بن يوسف",
+      "has_id": NaN
+    },
+    {
+      "name": "الحسين الوراق (¬١)",
+      "relationship_type": "questioner",
+      "context": "سألت أبا عثمان عن الصحبة",
+      "full_text": "سألت أبا عثمان عن الصحبة فقال",
+      "person_id": 951,
+      "canonical_name": "أبو علي الحسن بن علي بن الخطاب الوراق",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الله الرازي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت عبد الله الرازي يقول",
+      "person_id": 1793,
+      "canonical_name": "عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "محفوظ",
+      "relationship_type": "narrator",
+      "full_text": "وقال محفوظ: سئل أبو عثمان",
+      "person_id": 2212,
+      "canonical_name": "محفوظ",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن الفضل البلخي",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "ثناء",
+      "full_text": "قال محمد بن الفضل البلخي: إن الله تعالى زين أبا عثمان بفنون عبوديته وأبرزه للناس ليعلمهم آداب العبودية",
+      "person_id": 2254,
+      "canonical_name": "محمد بن الفضل البلخي",
+      "has_id": 770
+    },
+    {
+      "name": "أبو بكر",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "ابن",
+      "full_text": "مزق ابنه أبو بكر قميصا كان عليه",
+      "person_id": 610,
+      "canonical_name": "أبو بكر",
+      "has_id": NaN
+    }
+  ]
+}

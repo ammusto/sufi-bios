@@ -1,0 +1,133 @@
+{
+  "bio_id": "140",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "عبادان",
+      "context": "nisba",
+      "full_text": "عبادانی"
+    },
+    {
+      "place": "بغداد",
+      "context": "visited",
+      "full_text": "ببغداد آمدم"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "بوعبداللّه عبادانی",
+          "person_id": 877,
+          "canonical_name": "أبو عبد الله العباداني",
+          "has_id": 140,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "اوگوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "درویش",
+          "person_id": 1519,
+          "canonical_name": "درويش",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 877,
+          "canonical_name": "أبو عبد الله العباداني",
+          "has_id": 140,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "درویش گوید:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "سهل بن عبداللهّ التستری٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "از شاگردان خاص",
+        "full_text": "بود از شاگردان خاص سهل بن عبداللهّ التستری٭",
+        "person_id": 1639,
+        "canonical_name": "سهل بن عبد الله التستري",
+        "has_id": 605
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "درویش",
+      "relationship_type": "narrator",
+      "full_text": "درویش گوید: این فایده از وی گرفتم و رفتم.",
+      "person_id": 1519,
+      "canonical_name": "درويش",
+      "has_id": NaN
+    },
+    {
+      "name": "شبلی",
+      "relationship_type": "interlocutor",
+      "full_text": "شبلی گفت: و علیک السلام. ایش انت؟ ابادک اللهّ!",
+      "person_id": 628,
+      "canonical_name": "أبو بكر الشبلي",
+      "has_id": 376
+    },
+    {
+      "name": "کودکی",
+      "relationship_type": "questioner",
+      "full_text": "کودکی درآمد شبلی را گفت: ای صبر اشد علی الصابرین؟",
+      "person_id": 2198,
+      "canonical_name": "كودكي",
+      "has_id": NaN
+    },
+    {
+      "name": "حجاج یوسف",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "آن حجاج یوسف",
+      "person_id": 1439,
+      "canonical_name": "حجاج يوسف",
+      "has_id": NaN
+    },
+    {
+      "name": "آدم",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "در آدم و حوا میاویز!",
+      "person_id": 1317,
+      "canonical_name": "آدم",
+      "has_id": NaN
+    },
+    {
+      "name": "حوا",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "در آدم و حوا میاویز!",
+      "person_id": 1482,
+      "canonical_name": "حوا",
+      "has_id": NaN
+    }
+  ]
+}

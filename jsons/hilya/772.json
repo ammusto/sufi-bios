@@ -1,0 +1,29 @@
+{
+  "bio_id": "772",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "المدينة",
+      "context": "lived",
+      "full_text": "من أهل المدينة"
+    }
+  ],
+  "isnads": [],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "سفيان بن عيينة",
+        "relationship_type": "student_of",
+        "relationship_phrase": "سمع",
+        "full_text": "سمع سفيان بن عيينة",
+        "person_id": 1608,
+        "canonical_name": "سفيان بن عيينة",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": []
+}

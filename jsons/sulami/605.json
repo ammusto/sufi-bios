@@ -1,0 +1,1012 @@
+{
+  "bio_id": "605",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "283",
+    "full_text": "توفّي سنة ثَلَاث وَثَمَانِينَ وَقيل سنة ثَلَاث وَتِسْعين وَمِائَتَيْنِ وأظن أَن ثَلَاثًا وَثَمَانِينَ أصح وَالله أعلم",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "تستر",
+      "context": "nisba",
+      "full_text": "التسترِي"
+    },
+    {
+      "place": "مكة",
+      "context": "visited",
+      "full_text": "سنة خُرُوجه إِلَى الْحَج بِمَكَّة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "يُوسُف بن عمر بن مسرور الزَّاهِد",
+          "person_id": 517,
+          "canonical_name": "أبو الفتح يوسف بن عمر بن مسرور القواس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبيد الله أَبُو الْقَاسِم الصَّنْعَانِيّ",
+          "person_id": 1926,
+          "canonical_name": "عبيد الله أبو القاسم الصنعاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر بن وَاصل",
+          "person_id": 2112,
+          "canonical_name": "عمر بن واصل النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله التسترِي",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        },
+        {
+          "name": "خَالِي مُحَمَّد بن سوار",
+          "person_id": 1501,
+          "canonical_name": "خالي محمد بن سوار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جَعْفَر بن سُلَيْمَان",
+          "person_id": 1400,
+          "canonical_name": "جعفر بن سليمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ثَابت",
+          "person_id": 2326,
+          "canonical_name": "محمد بن ثابت البناني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أنس",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا يُوسُف بن عمر بن مسرور الزَّاهِد بِبَغْدَاد قَالَ حَدثنَا عبيد الله أَبُو الْقَاسِم الصَّنْعَانِيّ حَدثنَا عمر بن وَاصل حَدثنَا سهل بن عبد الله التسترِي حَدثنَا خَالِي مُحَمَّد بن سوار عَن جَعْفَر بن سُلَيْمَان عَن ثَابت عَن أنس قَالَ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا صَالح الْبَصْرِيّ",
+          "person_id": 825,
+          "canonical_name": "أبو صالح البصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان يَقُول سَمِعت أَبَا صَالح الْبَصْرِيّ يَقُول سَمِعت سهل بن عبد الله يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْمَالِكِي الْبَصْرِيّ",
+          "person_id": 223,
+          "canonical_name": "المالكي البصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان قَالَ سَمِعت الْمَالِكِي الْبَصْرِيّ قَالَ سَمِعت سهل بن عبد الله يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْمَالِكِي الْبَصْرِيّ",
+          "person_id": 223,
+          "canonical_name": "المالكي البصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ سهل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْمَالِكِي الْبَصْرِيّ",
+          "person_id": 223,
+          "canonical_name": "المالكي البصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ سهل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد بن سَالم",
+          "person_id": 896,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت مُحَمَّد بن أَحْمد بن سَالم يَقُول سَمِعت\nسهل بن عبد الله يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد بن سَالم",
+          "person_id": 896,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ سهل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد بن سَالم",
+          "person_id": 896,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ سهل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد بن سَالم",
+          "person_id": 896,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ سهل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد بن سَالم",
+          "person_id": 896,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ سهل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد بن سَالم",
+          "person_id": 896,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت مُحَمَّد بن أَحْمد بن سَالم يَقُول سَمِعت سهل بن عبد الله يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد بن سَالم",
+          "person_id": 896,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ سهل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس مُحَمَّد بن الْحسن الْبَغْدَادِيّ",
+          "person_id": 507,
+          "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جَعْفَر بن مُحَمَّد\nالْخُلْدِيِّ",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد الْجريرِي",
+          "person_id": 1035,
+          "canonical_name": "أبو محمد الجريري",
+          "has_id": 431,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْعَبَّاس مُحَمَّد بن الْحسن الْبَغْدَادِيّ قَالَ حَدثنَا جَعْفَر بن مُحَمَّد\nالْخُلْدِيِّ قَالَ سَمِعت أَبَا مُحَمَّد الْجريرِي يَقُول سَمِعت سهل بن عبد الله يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس مُحَمَّد بن الْحسن الْبَغْدَادِيّ",
+          "person_id": 507,
+          "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جَعْفَر بن مُحَمَّد\nالْخُلْدِيِّ",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد الْجريرِي",
+          "person_id": 1035,
+          "canonical_name": "أبو محمد الجريري",
+          "has_id": 431,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده قَالَ سهل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس مُحَمَّد بن الْحسن الْبَغْدَادِيّ",
+          "person_id": 507,
+          "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جَعْفَر بن مُحَمَّد\nالْخُلْدِيِّ",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد الْجريرِي",
+          "person_id": 1035,
+          "canonical_name": "أبو محمد الجريري",
+          "has_id": 431,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده قَالَ سهل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر عبد الله بن عَليّ",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن عَطاء",
+          "person_id": 1219,
+          "canonical_name": "أحمد بن عطاء",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْحسن بن الصَّباح",
+          "person_id": 2228,
+          "canonical_name": "محمد بن الحسن بن الصباح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا نصر عبد الله بن عَليّ يَقُول سَمِعت أَحْمد بن عَطاء يَقُول سَمِعت مُحَمَّد بن الْحسن بن الصَّباح قَالَ قَالَ سهل",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر عبد الله بن عَليّ",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن عَطاء",
+          "person_id": 1219,
+          "canonical_name": "أحمد بن عطاء",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْحسن بن الصَّباح",
+          "person_id": 2228,
+          "canonical_name": "محمد بن الحسن بن الصباح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ سهل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الدقي",
+          "person_id": 621,
+          "canonical_name": "أبو بكر الدقي",
+          "has_id": 382,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر الفرغاني",
+          "person_id": 653,
+          "canonical_name": "أبو بكر الواسطي",
+          "has_id": 379,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت أَبَا نصر يَقُول سَمِعت الدقي يَقُول سَمِعت أَبَا بكر الفرغاني يَحْكِي عَن سهل بن عبد الله قَالَ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الدقي",
+          "person_id": 621,
+          "canonical_name": "أبو بكر الدقي",
+          "has_id": 382,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر الفرغاني",
+          "person_id": 653,
+          "canonical_name": "أبو بكر الواسطي",
+          "has_id": 379,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ سهل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الدقي",
+          "person_id": 621,
+          "canonical_name": "أبو بكر الدقي",
+          "has_id": 382,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر الفرغاني",
+          "person_id": 653,
+          "canonical_name": "أبو بكر الواسطي",
+          "has_id": 379,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ سهل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا يَعْقُوب الْبَلَدِي",
+          "person_id": 1131,
+          "canonical_name": "أبو يعقوب البلدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول سَمِعت أَبَا يَعْقُوب الْبَلَدِي يَقُول سَمِعت سهل بن عبد الله يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْعَبَّاس بن عِصَام",
+          "person_id": 181,
+          "canonical_name": "العباس بن عصام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول سَمِعت الْعَبَّاس بن عِصَام قَالَ سَمِعت سهل بن عبد الله يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْحُسَيْن",
+          "person_id": 2237,
+          "canonical_name": "محمد بن الحسين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول سَمِعت مُحَمَّد بن الْحُسَيْن يَقُول قَالَ سهل",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن عَاصِم",
+          "person_id": 25,
+          "canonical_name": "ابن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وسمعته يَقُول سَمِعت ابْن عَاصِم يَقُول سَمِعت سهل بن عبد الله يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن عَاصِم",
+          "person_id": 25,
+          "canonical_name": "ابن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ سهل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن عَاصِم",
+          "person_id": 25,
+          "canonical_name": "ابن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ سهل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن عَاصِم",
+          "person_id": 25,
+          "canonical_name": "ابن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ سهل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن عَاصِم",
+          "person_id": 25,
+          "canonical_name": "ابن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ سهل",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "مُحَمَّد بن سوار",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب خَاله مُحَمَّد بن سوار",
+        "person_id": 2363,
+        "canonical_name": "محمد بن سوار",
+        "has_id": NaN
+      },
+      {
+        "name": "ذَا النُّون الْمصْرِيّ",
+        "relationship_type": "peer",
+        "relationship_phrase": "شَاهد",
+        "full_text": "وَشَاهد ذَا النُّون الْمصْرِيّ سنة خُرُوجه إِلَى الْحَج بِمَكَّة",
+        "person_id": 1523,
+        "canonical_name": "ذو النون المصري",
+        "has_id": 570
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "عمر بن وَاصل",
+      "relationship_type": "narrator",
+      "full_text": "حَدثنَا عمر بن وَاصل حَدثنَا سهل بن عبد الله التسترِي",
+      "person_id": 2112,
+      "canonical_name": "عمر بن واصل النيسابوري",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا صَالح الْبَصْرِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا صَالح الْبَصْرِيّ يَقُول سَمِعت سهل بن عبد الله يَقُول",
+      "person_id": 825,
+      "canonical_name": "أبو صالح البصري",
+      "has_id": NaN
+    },
+    {
+      "name": "الْمَالِكِي الْبَصْرِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت الْمَالِكِي الْبَصْرِيّ قَالَ سَمِعت سهل بن عبد الله يَقُول",
+      "person_id": 223,
+      "canonical_name": "المالكي البصري",
+      "has_id": NaN
+    },
+    {
+      "name": "مُحَمَّد بن أَحْمد بن سَالم",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مُحَمَّد بن أَحْمد بن سَالم يَقُول سَمِعت سهل بن عبد الله يَقُول",
+      "person_id": 896,
+      "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+      "has_id": 139
+    },
+    {
+      "name": "أَبَا مُحَمَّد الْجريرِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا مُحَمَّد الْجريرِي يَقُول سَمِعت سهل بن عبد الله يَقُول",
+      "person_id": 1035,
+      "canonical_name": "أبو محمد الجريري",
+      "has_id": 431
+    },
+    {
+      "name": "مُحَمَّد بن الْحسن بن الصَّباح",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مُحَمَّد بن الْحسن بن الصَّباح قَالَ قَالَ سهل",
+      "person_id": 2228,
+      "canonical_name": "محمد بن الحسن بن الصباح",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا بكر الفرغاني",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر الفرغاني يَحْكِي عَن سهل بن عبد الله قَالَ",
+      "person_id": 653,
+      "canonical_name": "أبو بكر الواسطي",
+      "has_id": 379
+    },
+    {
+      "name": "أَبَا يَعْقُوب الْبَلَدِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا يَعْقُوب الْبَلَدِي يَقُول سَمِعت سهل بن عبد الله يَقُول",
+      "person_id": 1131,
+      "canonical_name": "أبو يعقوب البلدي",
+      "has_id": NaN
+    },
+    {
+      "name": "الْعَبَّاس بن عِصَام",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت الْعَبَّاس بن عِصَام قَالَ سَمِعت سهل بن عبد الله يَقُول",
+      "person_id": 181,
+      "canonical_name": "العباس بن عصام",
+      "has_id": NaN
+    },
+    {
+      "name": "مُحَمَّد بن الْحُسَيْن",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مُحَمَّد بن الْحُسَيْن يَقُول قَالَ سهل",
+      "person_id": 2237,
+      "canonical_name": "محمد بن الحسين",
+      "has_id": NaN
+    },
+    {
+      "name": "ابْن عَاصِم",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت ابْن عَاصِم يَقُول سَمِعت سهل بن عبد الله يَقُول",
+      "person_id": 25,
+      "canonical_name": "ابن عاصم",
+      "has_id": NaN
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "bio_id": "803",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "إبراهيم بن محمد بن يحيى",
+          "person_id": 575,
+          "canonical_name": "أبو إسحاق إبراهيم بن محمد بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إسحاق الثقفي",
+          "person_id": 2279,
+          "canonical_name": "محمد بن إسحاق الثقفي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبيد الله ابن جرير",
+          "person_id": 1928,
+          "canonical_name": "عبيد الله بن جرير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سليمان بن موسى",
+          "person_id": 1632,
+          "canonical_name": "سليمان بن موسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "رجل",
+          "person_id": 1530,
+          "canonical_name": "رجل",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إبراهيم بن محمد بن يحيى ثنا محمد بن إسحاق الثقفي ثنا عبيد الله ابن جرير ثنا سليمان بن موسى عن رجل",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "full_text": "عن رجل رأى مسعود بن الحارث أخا خالد في النوم فقال له: ما فعل بك ربك؟",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "bio_id": "606",
+  "source": "hilya",
+  "death_date": {
+    "year_hijri": "276",
+    "full_text": "توفي سنة ست وسبعين ومائتين",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "الأسفهرديري",
+      "context": "nisba",
+      "full_text": "الأسفهرديري - قرية من ربض المدينة، مدينة أصبهان -"
+    },
+    {
+      "place": "أصبهان",
+      "context": "mentioned",
+      "full_text": "مدينة أصبهان"
+    },
+    {
+      "place": "الشام",
+      "context": "visited",
+      "full_text": "بالشام"
+    },
+    {
+      "place": "الثغر",
+      "context": "lived",
+      "full_text": "فأقام بالثغر مدة"
+    },
+    {
+      "place": "مصر",
+      "context": "visited",
+      "full_text": "وكتب بمصر والشام الحديث الكثير"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو جعفر أحمد بن إبراهيم بن يوسف",
+          "person_id": 744,
+          "canonical_name": "أبو جعفر أحمد بن إبراهيم بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو طاهر سهل بن عبد الله",
+          "person_id": 833,
+          "canonical_name": "أبو طاهر سهل بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو أيوب سليمان بن عبد الرحمن الدمشقي",
+          "person_id": 605,
+          "canonical_name": "أبو أيوب سليمان بن عبد الرحمن الدمشقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الوليد بن مسلم",
+          "person_id": 258,
+          "canonical_name": "الوليد بن مسلم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عفير بن معدان أبو كامل",
+          "person_id": 1973,
+          "canonical_name": "عفير بن معدان أبو كامل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سليم بن عامر",
+          "person_id": 1619,
+          "canonical_name": "سليم بن عامر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو أمامة",
+          "person_id": 603,
+          "canonical_name": "أبو أمامة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "فمما رواه ما حدثناه أبو جعفر أحمد بن إبراهيم بن يوسف ثنا أبو طاهر سهل بن عبد الله ثنا أبو أيوب سليمان بن عبد الرحمن الدمشقي ثنا الوليد بن\nمسلم ثنا عفير بن معدان أبو كامل عن سليم بن عامر عن أبي أمامة قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن إبراهيم",
+          "person_id": 1171,
+          "canonical_name": "أحمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        },
+        {
+          "name": "هشام بن عمار",
+          "person_id": 2601,
+          "canonical_name": "هشام بن عمار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بقية بن الوليد",
+          "person_id": 1348,
+          "canonical_name": "بقية بن الوليد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن كثير",
+          "person_id": 2680,
+          "canonical_name": "يوسف بن كثير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "نوح بن ذكوان",
+          "person_id": 2588,
+          "canonical_name": "نوح بن ذكوان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن",
+          "person_id": 75,
+          "canonical_name": "الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد بن إبراهيم ثنا سهل بن عبد الله ثنا هشام بن عمار ثنا بقية بن الوليد حدثني يوسف بن كثير عن نوح بن ذكوان عن الحسن. قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن إبراهيم",
+          "person_id": 1171,
+          "canonical_name": "أحمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أبي السري",
+          "person_id": 2285,
+          "canonical_name": "محمد بن أبي السري العسقلاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بقية",
+          "person_id": 1348,
+          "canonical_name": "بقية بن الوليد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بن الهيعة",
+          "person_id": 1361,
+          "canonical_name": "بن الهيعة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "دراج",
+          "person_id": 397,
+          "canonical_name": "أبو الحسين الدراج",
+          "has_id": 318,
+          "subj_added": false
+        },
+        {
+          "name": "ابن أبي السمح",
+          "has_id": NaN,
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "subj_added": false
+        },
+        {
+          "name": "أبو الهيثم",
+          "person_id": 565,
+          "canonical_name": "أبو الهيثم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو سعيد الخدري",
+          "person_id": 800,
+          "canonical_name": "أبو سعيد الخدري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد بن إبراهيم ثنا سهل بن عبد الله ثنا محمد بن أبي السري ثنا بقية عن بن الهيعة عن دراج عن ابن أبي السمح عن أبي الهيثم عن أبي سعيد الخدري قال",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أحمد بن عصام الأنطاكي",
+        "relationship_type": "peer",
+        "relationship_phrase": "لقى",
+        "full_text": "لقى أحمد بن عصام الأنطاكي وأحمد بن أبي الحواري وأبا يوسف الغسولي وعبد الله، بن خبيق ونظراءهم بالشام",
+        "person_id": 1217,
+        "canonical_name": "أحمد بن عصام الأنطاكي",
+        "has_id": 446
+      },
+      {
+        "name": "أحمد بن أبي الحواري",
+        "relationship_type": "peer",
+        "relationship_phrase": "لقى",
+        "full_text": "لقى أحمد بن عصام الأنطاكي وأحمد بن أبي الحواري وأبا يوسف الغسولي وعبد الله، بن خبيق ونظراءهم بالشام",
+        "person_id": 1177,
+        "canonical_name": "أحمد بن أبي الحواري",
+        "has_id": 442
+      },
+      {
+        "name": "أبا يوسف الغسولي",
+        "relationship_type": "peer",
+        "relationship_phrase": "لقى",
+        "full_text": "لقى أحمد بن عصام الأنطاكي وأحمد بن أبي الحواري وأبا يوسف الغسولي وعبد الله، بن خبيق ونظراءهم بالشام",
+        "person_id": 1147,
+        "canonical_name": "أبو يوسف الغسولي",
+        "has_id": NaN
+      },
+      {
+        "name": "عبد الله، بن خبيق",
+        "relationship_type": "peer",
+        "relationship_phrase": "لقى",
+        "full_text": "لقى أحمد بن عصام الأنطاكي وأحمد بن أبي الحواري وأبا يوسف الغسولي وعبد الله، بن خبيق ونظراءهم بالشام",
+        "person_id": 1057,
+        "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+        "has_id": 661
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أبو أمامة",
+      "relationship_type": "narrator",
+      "full_text": "عن أبي أمامة قال",
+      "person_id": 603,
+      "canonical_name": "أبو أمامة",
+      "has_id": NaN
+    },
+    {
+      "name": "الحسن",
+      "relationship_type": "narrator",
+      "full_text": "عن الحسن.",
+      "person_id": 75,
+      "canonical_name": "الحسن",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو سعيد الخدري",
+      "relationship_type": "narrator",
+      "full_text": "عن أبي سعيد الخدري",
+      "person_id": 800,
+      "canonical_name": "أبو سعيد الخدري",
+      "has_id": NaN
+    }
+  ]
+}

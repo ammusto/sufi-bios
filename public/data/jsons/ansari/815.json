@@ -1,0 +1,486 @@
+{
+  "bio_id": "815",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "299",
+    "full_text": "گفتهاند: که در سنه تسع و تسعین و مائتین برفت از دنیا، دران سالکه بوالحرث اولاسی٭ برفت از دنیا و بوالعباس مسروق و بوحمزهٔ بغدادی٭ ار درست شود.",
+    "certainty": ""
+  },
+  "geographical_locations": [
+    {
+      "place": "دینور",
+      "context": "nisba",
+      "full_text": "الدینوری"
+    },
+    {
+      "place": "عراق",
+      "context": "lived",
+      "full_text": "شیخ اهل عراق"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "وی",
+          "person_id": 2621,
+          "canonical_name": "وي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2534,
+          "canonical_name": "ممشاد الدينوري",
+          "has_id": 815,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که وی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ ابوالحسن حصری٭",
+          "person_id": 394,
+          "canonical_name": "أبو الحسن الحصري",
+          "has_id": 301,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2534,
+          "canonical_name": "ممشاد الدينوري",
+          "has_id": 815,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ ابوالحسن حصری٭ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الامام",
+          "person_id": 55,
+          "canonical_name": "الامام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2534,
+          "canonical_name": "ممشاد الدينوري",
+          "has_id": 815,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وانشدنا الامام لغیره",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "و شیخ الاسلامگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ممشاد",
+          "person_id": 2534,
+          "canonical_name": "ممشاد الدينوري",
+          "has_id": 815,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و هم ممشاد گفته:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ممشاد",
+          "person_id": 2534,
+          "canonical_name": "ممشاد الدينوري",
+          "has_id": 815,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و هم ممشادگوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ممشاد",
+          "person_id": 2534,
+          "canonical_name": "ممشاد الدينوري",
+          "has_id": 815,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و ممشادگوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "وی",
+          "person_id": 2621,
+          "canonical_name": "وي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2534,
+          "canonical_name": "ممشاد الدينوري",
+          "has_id": 815,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و هم ویگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوبکر رازی٭",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "فارس دینوری",
+          "person_id": 2161,
+          "canonical_name": "فارس الدينوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2534,
+          "canonical_name": "ممشاد الدينوري",
+          "has_id": 815,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ بوبکر رازی٭ گوید: که فارس دینوری گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوبکر رازی٭",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "فارس دینوری",
+          "person_id": 2161,
+          "canonical_name": "فارس الدينوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2534,
+          "canonical_name": "ممشاد الدينوري",
+          "has_id": 815,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "الشیخ ابوعبداللّه الطاقی٭",
+          "person_id": 876,
+          "canonical_name": "أبو عبد الله الطافي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن خفیف٭",
+          "person_id": 22,
+          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 26,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2534,
+          "canonical_name": "ممشاد الدينوري",
+          "has_id": 815,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قال الشیخ ابوعبداللّه الطاقی٭ سمعت محمد بن خفیف٭ يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ممشاد دینوری",
+          "person_id": 2534,
+          "canonical_name": "ممشاد الدينوري",
+          "has_id": 815,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "ممشاد دینوری گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ممشاد",
+          "person_id": 2534,
+          "canonical_name": "ممشاد الدينوري",
+          "has_id": 815,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که ممشادگفت با یاران:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ممشاد",
+          "person_id": 2534,
+          "canonical_name": "ممشاد الدينوري",
+          "has_id": 815,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و ممشادگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ذوالنون مصری",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2534,
+          "canonical_name": "ممشاد الدينوري",
+          "has_id": 815,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وذوالنون مصری گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعامر",
+          "person_id": 842,
+          "canonical_name": "أبو عامر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2534,
+          "canonical_name": "ممشاد الدينوري",
+          "has_id": 815,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بوعامر گوید",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "یحیی جلا٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "صحبت کرده بود با یحیی جلا٭ و با مه ازو از مشایخ.",
+        "person_id": 2655,
+        "canonical_name": "يحيي بن الجلاء",
+        "has_id": NaN
+      }
+    ],
+    "students": [
+      {
+        "name": "بوعامر",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "بوعامر گوید شاگرد ممشاد:",
+        "person_id": 842,
+        "canonical_name": "أبو عامر",
+        "has_id": NaN
+      }
+    ],
+    "companions": [
+      {
+        "name": "جنید",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "از اقران جنید و رویم و نوری٭ و جز ایشان.",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "رویم",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "از اقران جنید و رویم و نوری٭ و جز ایشان.",
+        "person_id": 1553,
+        "canonical_name": "رويم بن أحمد",
+        "has_id": 578
+      },
+      {
+        "name": "نوری٭",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "از اقران جنید و رویم و نوری٭ و جز ایشان.",
+        "person_id": 452,
+        "canonical_name": "أبو الحسين النوري",
+        "has_id": 439
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ ابوالحسن حصری٭",
+      "relationship_type": "narrator",
+      "full_text": "شیخ ابوالحسن حصری٭ گوید:",
+      "person_id": 394,
+      "canonical_name": "أبو الحسن الحصري",
+      "has_id": 301
+    },
+    {
+      "name": "شیخ بوبکر رازی٭",
+      "relationship_type": "narrator",
+      "full_text": "شیخ بوبکر رازی٭ گوید:",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "فارس دینوری",
+      "relationship_type": "direct_narrator",
+      "full_text": "فارس دینوری گوید: که ممشاد از در سراء خود بیرون شد سگ بانگ کرد، ممشادگفت:",
+      "person_id": 2161,
+      "canonical_name": "فارس الدينوري",
+      "has_id": NaN
+    },
+    {
+      "name": "الشیخ ابوعبداللّه الطاقی٭",
+      "relationship_type": "narrator",
+      "full_text": "قال الشیخ ابوعبداللّه الطاقی٭",
+      "person_id": 876,
+      "canonical_name": "أبو عبد الله الطافي",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن خفیف٭",
+      "relationship_type": "direct_narrator",
+      "full_text": "سمعت محمد بن خفیف٭ يقول: رأیت ممشاد الدینوری فی النوم کانه قایم رافع یدیه الی السمأ و هو یقول: رأیت ممشاد الدینوری فی النوم کانه قایم رافع یدیه الی السمأ و هو یقول: یا رب القلوب! یا رب القلوب! والسماء یدنو من رأسه حتی وقعت علی رأسه، فانشقت و حمل ممشاد.",
+      "person_id": 22,
+      "canonical_name": "أبو عبد الله بن خفيف",
+      "has_id": 26
+    },
+    {
+      "name": "ذوالنون مصری",
+      "relationship_type": "narrator",
+      "full_text": "وذوالنون مصری گفت:هرکه بر نعرهٔ زراق که بر زرق زند انکارکند، هرگز آنرا بصدق نیابد، یعنی که آن باصل انکار میآرد. ترا از زرق وی چه؟ زرق وی\nچه؟ زرق وی برویست، تو راست نگر، و راست بین! تا بهره باوی. واللّه المستعان.",
+      "person_id": 1523,
+      "canonical_name": "ذو النون المصري",
+      "has_id": 570
+    },
+    {
+      "name": "بوعامر",
+      "relationship_type": "direct_narrator",
+      "full_text": "بوعامر گوید شاگرد ممشاد: که روزی پیش ممشاد نشسته بودیم.",
+      "person_id": 842,
+      "canonical_name": "أبو عامر",
+      "has_id": NaN
+    },
+    {
+      "name": "جوانمردی",
+      "relationship_type": "interlocutor",
+      "full_text": "جوانمردی از در خانه درآمد بمیزبانی اجابت خواست.",
+      "person_id": 1419,
+      "canonical_name": "جوانمردي",
+      "has_id": NaN
+    }
+  ]
+}

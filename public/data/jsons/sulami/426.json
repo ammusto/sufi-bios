@@ -1,0 +1,463 @@
+{
+  "bio_id": "426",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "348",
+    "full_text": "توفّي بِمَكَّة سنة ثَمَان وَأَرْبَعين وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "نيسابور",
+      "context": "nisba",
+      "full_text": "نيسابوري الأَصْل"
+    },
+    {
+      "place": "مَكَّة",
+      "context": "visited",
+      "full_text": "دخل مَكَّة"
+    },
+    {
+      "place": "مَكَّة",
+      "context": "lived",
+      "full_text": "وَأقَام بهَا"
+    },
+    {
+      "place": "مَكَّة",
+      "context": "mentioned",
+      "full_text": "كنت بِمَكَّة"
+    },
+    {
+      "place": "مَكَّة",
+      "context": "died",
+      "full_text": "توفّي بِمَكَّة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "جدي ﵀",
+          "person_id": 1015,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+          "has_id": 176,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1011,
+          "canonical_name": "أبو عمرو الزجاجي",
+          "has_id": 426,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت جدي ﵀ يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا عُثْمَان المغربي",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1011,
+          "canonical_name": "أبو عمرو الزجاجي",
+          "has_id": 426,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت ابا عُثْمَان المغربي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَمْرو الزجاجي",
+          "person_id": 1011,
+          "canonical_name": "أبو عمرو الزجاجي",
+          "has_id": 426,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت أَبَا عَمْرو الزجاجي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جدي",
+          "person_id": 1015,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+          "has_id": 176,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1011,
+          "canonical_name": "أبو عمرو الزجاجي",
+          "has_id": 426,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت جدي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جدي",
+          "person_id": 1015,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+          "has_id": 176,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَمْرو الزجاجي",
+          "person_id": 1011,
+          "canonical_name": "أبو عمرو الزجاجي",
+          "has_id": 426,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا عَمْرو الزجاجي يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَمْرو",
+          "person_id": 1011,
+          "canonical_name": "أبو عمرو الزجاجي",
+          "has_id": 426,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّد بن عبد الله يَقُول سَمِعت أَبَا عَمْرو يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَمْرو",
+          "person_id": 1011,
+          "canonical_name": "أبو عمرو الزجاجي",
+          "has_id": 426,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ أَبُو عَمْرو عَن الحمية فَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَمْرو",
+          "person_id": 1011,
+          "canonical_name": "أبو عمرو الزجاجي",
+          "has_id": 426,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا عَمْرو يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَمْرو",
+          "person_id": 1011,
+          "canonical_name": "أبو عمرو الزجاجي",
+          "has_id": 426,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ أَبُو عَمْرو عَن السماع فَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عمر الزجاجي",
+          "person_id": 1011,
+          "canonical_name": "أبو عمرو الزجاجي",
+          "has_id": 426,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول سَمِعت أَبَا عمر الزجاجي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عمر الزجاجي",
+          "person_id": 1011,
+          "canonical_name": "أبو عمرو الزجاجي",
+          "has_id": 426,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا عَمْرو الزجاجي يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عمر الزجاجي",
+          "person_id": 1011,
+          "canonical_name": "أبو عمرو الزجاجي",
+          "has_id": 426,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا عَمْرو الزجاجي يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَمْرو الزجاجي",
+          "person_id": 1011,
+          "canonical_name": "أبو عمرو الزجاجي",
+          "has_id": 426,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّد بن عبد الله يَقُول سَمِعت أَبَا عَمْرو الزجاجي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عبد الله الْكرْمَانِي",
+          "person_id": 882,
+          "canonical_name": "أبو عبد الله الكرماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1011,
+          "canonical_name": "أبو عمرو الزجاجي",
+          "has_id": 426,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا عبد الله الْكرْمَانِي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عبد الله الْكرْمَانِي",
+          "person_id": 882,
+          "canonical_name": "أبو عبد الله الكرماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1011,
+          "canonical_name": "أبو عمرو الزجاجي",
+          "has_id": 426,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ قَالَ أَبُو عَمْرو",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أَبَا عُثْمَان",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَا عُثْمَان والجنيد والنوري ورويما وَإِبْرَاهِيم الْخَواص",
+        "person_id": 942,
+        "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+        "has_id": 156
+      },
+      {
+        "name": "الجنيد",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَا عُثْمَان والجنيد والنوري ورويما وَإِبْرَاهِيم الْخَواص",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "النوري",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَا عُثْمَان والجنيد والنوري ورويما وَإِبْرَاهِيم الْخَواص",
+        "person_id": 452,
+        "canonical_name": "أبو الحسين النوري",
+        "has_id": 439
+      },
+      {
+        "name": "رويما",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَا عُثْمَان والجنيد والنوري ورويما وَإِبْرَاهِيم الْخَواص",
+        "person_id": 1553,
+        "canonical_name": "رويم بن أحمد",
+        "has_id": 578
+      },
+      {
+        "name": "إِبْرَاهِيم الْخَواص",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَا عُثْمَان والجنيد والنوري ورويما وَإِبْرَاهِيم الْخَواص",
+        "person_id": 278,
+        "canonical_name": "أبو إسحاق إبراهيم الخواص",
+        "has_id": 268
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "جدي ﵀",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت جدي ﵀ يَقُول",
+      "person_id": 1015,
+      "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+      "has_id": 176
+    },
+    {
+      "name": "ابا عُثْمَان المغربي",
+      "relationship_type": "narrator",
+      "full_text": "وَسمعت ابا عُثْمَان المغربي يَقُول",
+      "person_id": 942,
+      "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+      "has_id": 156
+    },
+    {
+      "name": "أَبَا بكر الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "مُحَمَّد بن عبد الله",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مُحَمَّد بن عبد الله يَقُول",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "مَنْصُور بن عبد الله",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول",
+      "person_id": 2547,
+      "canonical_name": "منصور بن عبد الله",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا عبد الله الْكرْمَانِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا عبد الله الْكرْمَانِي يَقُول",
+      "person_id": 882,
+      "canonical_name": "أبو عبد الله الكرماني",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "context": "questioner",
+      "full_text": "قَالَ رجل لأبي عَمْرو الزجاجي كَيفَ الطَّرِيق إِلَى الله تَعَالَى",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

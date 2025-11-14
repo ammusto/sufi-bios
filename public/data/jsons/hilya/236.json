@@ -1,0 +1,2874 @@
+{
+  "bio_id": "236",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "مكة",
+      "context": "visited",
+      "full_text": "خرجنا يوما من مكة نريد بعض المواضع"
+    },
+    {
+      "place": "طرسوس",
+      "context": "visited",
+      "full_text": "كنت بطرسوس"
+    },
+    {
+      "place": "طرسوس",
+      "context": "visited",
+      "full_text": "اعتللت بطرسوس علة الزرب"
+    },
+    {
+      "place": "الثغر",
+      "context": "visited",
+      "full_text": "بعد قدومه من الثغر"
+    },
+    {
+      "place": "حلب",
+      "context": "mentioned",
+      "full_text": "حججت أربعين حجة من حلب على رجلي ماشيا ذاهبا وجائيا"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري بن المغلس",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر جعفر بن محمد بن نصير - في كتابه - وحدثني عنه محمد بن إبراهيم قال سمعت الجنيد بن محمد يقول سمعت السري بن المغلس يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري بن المغلس",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت السري يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري بن المغلس",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال: وسمعت السري يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري بن المغلس",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت السري يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري بن المغلس",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت السري يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري بن المغلس",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت السري يقول: خرجنا يوما من مكة نريد بعض المواضع",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري بن المغلس",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت السري يقول: كان أهل الورع في وقت من الأوقات أربعة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري بن المغلس",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت السري يقول: كنت بطرسوس",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري بن المغلس",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وذكر أن أبا يوسف الغسولي كان يلزم الثغر ويغزو",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري بن المغلس",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت السري يذم من يأكل بدينه ويقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر بن أحمد بن شاهين",
+          "person_id": 2093,
+          "canonical_name": "عمر بن أحمد بن شاهين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن الحسين بن حرب",
+          "person_id": 2002,
+          "canonical_name": "علي بن الحسين بن حرب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236
+        },
+        {
+          "name": NaN,
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عمر بن أحمد بن شاهين ثنا علي بن الحسين بن حرب قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن إبراهيم بن محمد",
+          "person_id": 2274,
+          "canonical_name": "محمد بن إبراهيم بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن عبد الحميد الغضائري الحلبي",
+          "person_id": 2041,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "سريا السقطي",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن إبراهيم بن محمد يقول سمعت علي بن عبد الحميد الغضائري الحلبي يقول سمعت سريا السقطي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عبد الله أحمد بن محمد بن إبراهيم الأصبهاني",
+          "person_id": 895,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن إبراهيم الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو حامد أحمد بن محمد بن حمدان",
+          "person_id": 600,
+          "canonical_name": "أبو أحمد محمد بن أحمد بن حمدان الرازي النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسماعيل بن عبد الله الشامي",
+          "person_id": 364,
+          "canonical_name": "إسماعيل بن عبد الله الشامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سري السقطي",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا عبد الله أحمد بن محمد بن إبراهيم الأصبهاني يقول ثنا أبو حامد أحمد بن محمد بن حمدان ثنا إسماعيل بن عبد الله الشامي قال قال سري السقطي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عبد الله",
+          "person_id": 887,
+          "canonical_name": "أبو عبد الله المقرئ",
+          "has_id": 418,
+          "subj_added": false
+        },
+        {
+          "name": "أبو حامد",
+          "person_id": 753,
+          "canonical_name": "أبو حامد أحمد بن رستم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسماعيل",
+          "person_id": 49,
+          "canonical_name": "اسماعيل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "السري السقطي",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا عبد الله يقول ثنا أبو حامد ثنا إسماعيل قال قال السري السقطي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو عبد الله محمد بن أحمد بن إبراهيم",
+          "person_id": 895,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن إبراهيم الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد",
+          "person_id": 1239,
+          "canonical_name": "أحمد بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسماعيل بن عبد الله الشامي",
+          "person_id": 364,
+          "canonical_name": "إسماعيل بن عبد الله الشامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سرى السقطى",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو عبد الله محمد بن أحمد بن إبراهيم ثنا أحمد بن محمد ثنا إسماعيل بن عبد الله الشامي قال قال سرى السقطى",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "القاسم بن عبد الله البزاز",
+          "person_id": 207,
+          "canonical_name": "القاسم بن عبد الله البزاز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سريا السقطي",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "[سمعت أبا الحسين محمد بن علي بن حبيش يقول سمعت القاسم بن عبد الله البزاز يقول سمعت سريا السقطي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إبراهيم بن محمد بن يحيى",
+          "person_id": 575,
+          "canonical_name": "أبو إسحاق إبراهيم بن محمد بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو العباس السراج",
+          "person_id": 489,
+          "canonical_name": "أبو العباس السراج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن السري السقطي",
+          "person_id": 293,
+          "canonical_name": "إبراهيم بن السري السقطي",
+          "has_id": 272,
+          "subj_added": false
+        },
+        {
+          "name": "أبى",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إبراهيم بن محمد بن يحيى ثنا أبو العباس السراج قال سمعت إبراهيم بن السري السقطي يقول سمعت أبى يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إبراهيم بن محمد",
+          "person_id": 322,
+          "canonical_name": "إبراهيم بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو العباس السراج",
+          "person_id": 489,
+          "canonical_name": "أبو العباس السراج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن السري",
+          "has_id": 272,
+          "person_id": 293,
+          "canonical_name": "إبراهيم بن السري السقطي",
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إبراهيم بن محمد ثنا أبو العباس السراج قال سمعت ابن السري يقول سمعت أبي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن محمد بن مقسم",
+          "person_id": 414,
+          "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا القاسم المطرز",
+          "person_id": 540,
+          "canonical_name": "أبو القاسم المطرز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري بن المغلس",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد بن محمد بن مقسم يقول سمعت أبا القاسم المطرز يقول سمعت الجنيد بن محمد يقول سمعت السري بن المغلس يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1154,
+          "canonical_name": "أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا القاسم",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبي يقول سمعت أحمد يقول سمعت أبا القاسم يقول سمعت الجنيد يقول سمعت السري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن محمد بن الحسن",
+          "person_id": 1244,
+          "canonical_name": "أحمد بن محمد بن الحسن العطار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عباس بن يوسف الشكلي",
+          "person_id": 185,
+          "canonical_name": "العباس بن يوسف الشكلي",
+          "has_id": 649,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إسحاق الأسلمي",
+          "person_id": 2277,
+          "canonical_name": "محمد بن إسحاق الأسلمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد بن محمد بن الحسن ثنا عباس بن يوسف الشكلي ثنا محمد بن إسحاق الأسلمي قال سمعت السري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر بن أحمد بن عثمان",
+          "person_id": 2094,
+          "canonical_name": "عمر بن أحمد بن عثمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن الحسين بن حرب القاضي",
+          "person_id": 2003,
+          "canonical_name": "علي بن الحسين بن حرب القاضي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عمر بن أحمد بن عثمان ثنا علي بن الحسين بن حرب القاضي - إملاء - قال سمعت السري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر - في كتابه - وحدثني عنه محمد بن إبراهيم قال سمعت الجنيد بن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قال وسمعت السري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وسمعته يقول: سمعت أبا جعفر السماك",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت السري يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت السري يقول: أعرف طريقا مختصرا يؤديكم إلى الجنة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت السري يقول: رأيت الفوائد ترد في ظلم الليل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "نصر بن أبي نصر",
+          "person_id": 2582,
+          "canonical_name": "نصر بن أبي نصر العطّار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد في كتابه - وحدثني عنه نصر بن أبي نصر قال سمعت الجنيد بن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسن البغدادي",
+          "person_id": 2226,
+          "canonical_name": "محمد بن الحسن البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن صالح",
+          "person_id": 1255,
+          "canonical_name": "أحمد بن محمد بن صالح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبدوس",
+          "person_id": 2395,
+          "canonical_name": "محمد بن عبدوس بن كامل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبدوس بن القاسم",
+          "person_id": 1921,
+          "canonical_name": "عبدوس بن القاسم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن الحسين بن موسى قال سمعت محمد بن الحسن البغدادي يقول ثنا أحمد بن محمد بن صالح ثنا محمد بن عبدوس ثنا عبدوس بن القاسم قال سمعت السري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد - في كتابه - وحدثني عنه محمد بن إبراهيم قال، سمعت الجنيد يقول سمعت السري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد في - كتابه - وحدثني عنه محمد بن إبراهيم قال سمعت الجنيد يقول سمعت السري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا العباس القرشي",
+          "has_id": 150,
+          "person_id": 15,
+          "canonical_name": "ابن باكوية الشيرازي",
+          "subj_added": false
+        },
+        {
+          "name": "بكير بن مقاتل البغدادي",
+          "person_id": 1359,
+          "canonical_name": "بكير بن مقاتل البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "العباس بن يوسف الشكلى",
+          "person_id": 184,
+          "canonical_name": "العباس بن يوسف الشكلى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد ابن محمد الصوفي",
+          "person_id": 1242,
+          "canonical_name": "أحمد بن محمد الصوفي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "السري بن المغلس",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عثمان بن محمد العثماني قال سمعت أبا العباس القرشي يقول حدثني بكير بن مقاتل البغدادي قال حدثني العباس بن يوسف الشكلى حدثنى أحمد ابن محمد الصوفي قال سمعت السري بن المغلس يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد بن يعقوب البغدادي",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن ميمون",
+          "person_id": 1884,
+          "canonical_name": "عبد الله بن ميمون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسن السري بن المغلس",
+          "has_id": NaN,
+          "person_id": 16,
+          "canonical_name": "أبو الحسن السري بن المغلس",
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن أحمد بن يعقوب البغدادي - في كتابه ولقيته - وحدثني عنه عثمان بن محمد العثماني حدثني عبد الله بن ميمون قال سمعت أبا الحسن السري بن المغلس يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن علي بن حبيش",
+          "person_id": 465,
+          "canonical_name": "أبو الحسين محمد بن علي بن حبيش المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن شاكر",
+          "person_id": 1832,
+          "canonical_name": "عبد الله بن شاكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سري السقطي",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن علي بن حبيش يقول سمعت عبد الله بن شاكر يقول قال سري السقطي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر بن أحمد بن عثمان",
+          "person_id": 2094,
+          "canonical_name": "عمر بن أحمد بن عثمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن خلف",
+          "person_id": 1195,
+          "canonical_name": "أحمد بن خلف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عمر بن أحمد بن عثمان ثنا جعفر ثنا أحمد بن خلف قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو نصر ظفر بن أحمد الصوفي",
+          "person_id": 1106,
+          "canonical_name": "أبو نصر ظفر بن أحمد الصوفي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن أحمد الثعلبي",
+          "person_id": 2018,
+          "canonical_name": "علي بن أحمد الثعلبي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد ابن فارس الفرغاني",
+          "person_id": 1238,
+          "canonical_name": "أحمد بن فارس الفرغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن عبد الحميد الحلبي",
+          "person_id": 2040,
+          "canonical_name": "علي بن عبد الحميد العطائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "سريا السقطي",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو نصر ظفر بن أحمد الصوفي ثنا علي بن أحمد الثعلبي ثنا أحمد ابن فارس الفرغاني قال سمعت علي بن عبد الحميد الحلبي يقول سمعت سريا السقطي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا نصر النيسابوري الصوفي",
+          "person_id": 1099,
+          "canonical_name": "أبو نصر النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن أحمد الثعلبي",
+          "person_id": 2018,
+          "canonical_name": "علي بن أحمد الثعلبي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن فارس",
+          "person_id": 1237,
+          "canonical_name": "أحمد بن فارس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن عبد الحميد",
+          "person_id": 2040,
+          "canonical_name": "علي بن عبد الحميد العطائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا نصر النيسابوري الصوفي يقول سمعت علي بن أحمد الثعلبي يقول سمعت أحمد بن فارس يقول سمعت علي بن عبد الحميد يقول سمعت السري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن محمد بن الحسن العطار",
+          "person_id": 1244,
+          "canonical_name": "أحمد بن محمد بن الحسن العطار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسين بن أبي العباس الزيات",
+          "person_id": 456,
+          "canonical_name": "أبو الحسين بن أبي العباس الزيات",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جدي محمد بن المفضل",
+          "person_id": 1388,
+          "canonical_name": "جدي محمد بن المفضل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سريا السقطي",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد بن محمد بن الحسن العطار حدثني أبو الحسين بن أبي العباس الزيات حدثني جدي محمد بن المفضل قال سمعت سريا السقطي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الحسن بن مقسم",
+          "person_id": 414,
+          "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا القاسم المطرز",
+          "person_id": 540,
+          "canonical_name": "أبو القاسم المطرز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو الحسن بن مقسم قال سمعت أبا القاسم المطرز يقول سمعت الجنيد يقول سمعت السري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الحسن بن مقسم",
+          "person_id": 414,
+          "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا القاسم المطرز",
+          "person_id": 540,
+          "canonical_name": "أبو القاسم المطرز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبه سمعت السري يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسن",
+          "person_id": 2225,
+          "canonical_name": "محمد بن الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد - في كتابه - وحدثني عنه محمد بن الحسن قال سمعت الجنيد يقول سمعت السري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسن",
+          "person_id": 2225,
+          "canonical_name": "محمد بن الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده قال سمعت السري يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن عمر",
+          "person_id": 1259,
+          "canonical_name": "أحمد بن محمد بن عمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن عثمان",
+          "person_id": 1603,
+          "canonical_name": "سعيد بن عثمان الخياط",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا أحمد بن محمد بن عمر ثنا سعيد بن عثمان قال سمعت السري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد",
+          "person_id": 1239,
+          "canonical_name": "أحمد بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن عثمان",
+          "person_id": 1603,
+          "canonical_name": "سعيد بن عثمان الخياط",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "السرى",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا أحمد بن محمد ثنا سعيد بن عثمان قال سمعت السرى يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسن بن أبان",
+          "person_id": 417,
+          "canonical_name": "أبو الحسن بن أبان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عثمان الخياط",
+          "person_id": 936,
+          "canonical_name": "أبو عثمان الخياط",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا أبو الحسن بن أبان ثنا أبو عثمان الخياط قال سمعت السري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الحسن بن مقسم",
+          "person_id": 414,
+          "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسن بن العباس",
+          "person_id": 416,
+          "canonical_name": "أبو الحسن بن العباس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جدي محمد بن الفضل",
+          "person_id": 1388,
+          "canonical_name": "جدي محمد بن المفضل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "السري السقطي",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو الحسن بن مقسم حدثني أبو الحسن بن العباس ثنا جدي محمد بن الفضل قال قال السري السقطي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر النساج",
+          "person_id": 651,
+          "canonical_name": "أبو بكر بن عبد الله الطوسي النساج",
+          "has_id": 63,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول سمعت أبا بكر النساج يقول سمعت السري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا القاسم المطرز",
+          "person_id": 540,
+          "canonical_name": "أبو القاسم المطرز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت ابن مقسم يقول سمعت أبا القاسم المطرز يقول سمعت الجنيد يقول سمعت السري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "ابن مقسم",
+          "has_id": NaN,
+          "person_id": 17,
+          "canonical_name": "ابن جريج",
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا جعفر بن محمد - في كتابه - وحدثني عنه ابن مقسم قال سمعت الجنيد بن محمد يقول سمعت السري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو بكر أحمد بن محمد بن عقيل الوراق النيسابوري",
+          "person_id": 657,
+          "canonical_name": "أبو بكر أحمد بن محمد بن عقيل الوراق النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن إبراهيم البلاذري",
+          "person_id": 1246,
+          "canonical_name": "أحمد بن محمد بن إبراهيم البلاذري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "العمري",
+          "person_id": 190,
+          "canonical_name": "العمري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر العطشي",
+          "person_id": 638,
+          "canonical_name": "أبو بكر العطشي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو بكر أحمد بن محمد بن عقيل الوراق النيسابوري قال سمعت أحمد بن محمد بن إبراهيم البلاذري يقول سمعت العمري يقول سمعت أبا بكر العطشي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "عمر بن أحمد بن عثمان",
+          "person_id": 2094,
+          "canonical_name": "عمر بن أحمد بن عثمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن خلف",
+          "person_id": 1195,
+          "canonical_name": "أحمد بن خلف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا جعفر بن محمد - في كتابه - وحدثني عنه عمر بن أحمد بن عثمان قال أحمد بن خلف",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا حفص عمر بن أحمد بن شاهين الواعظ",
+          "person_id": 761,
+          "canonical_name": "أبو حفص عمر بن أحمد بن شاهين الواعظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن عبيد الله",
+          "person_id": 1841,
+          "canonical_name": "عبد الله بن عبيد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا حفص عمر بن أحمد بن شاهين الواعظ يقول قال عبد الله بن عبيد الله سمعت السري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو عبد الله محمد بن أحمد بن إبراهيم الأصبهاني",
+          "person_id": 895,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن إبراهيم الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن حمدان النيسابوري",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسماعيل بن عبد الله الشامي",
+          "person_id": 364,
+          "canonical_name": "إسماعيل بن عبد الله الشامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سري السقطي",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو عبد الله محمد بن أحمد بن إبراهيم الأصبهاني ثنا أحمد بن محمد بن حمدان النيسابوري ثنا إسماعيل بن عبد الله الشامي قال قال سري السقطي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن عبد الله الرازي",
+          "person_id": 2386,
+          "canonical_name": "محمد بن عبد الله بن المطلب الشيباني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الواحد ابن بكر",
+          "person_id": 1908,
+          "canonical_name": "عبد الواحد بن بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عمر الأنماطي",
+          "person_id": 989,
+          "canonical_name": "أبو عمر الأنماطي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عمر الخلقاني",
+          "person_id": 1229,
+          "canonical_name": "أحمد بن عمر الخلقاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر محمد بن عبد الله الرازي - في كتابه - وحدثنى عنه عبد الواحد ابن بكر قال سمعت أبا عمر الأنماطي يقول سمعت أحمد بن عمر الخلقاني يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد - في كتابه - وحدثني عنه محمد بن إبراهيم قال سمعت الجنيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت السرى يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "الفضل بن حمدان",
+          "person_id": 197,
+          "canonical_name": "الفضل بن حمدان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن عبد الحميد الغضائري",
+          "person_id": 2041,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثني محمد بن الحسين بن موسى قال سمعت الفضل بن حمدان يقول سمعت علي بن عبد الحميد الغضائري يقول سمعت السري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "الفضل بن حمدان",
+          "person_id": 197,
+          "canonical_name": "الفضل بن حمدان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن عبد الحميد الغضائري",
+          "person_id": 2041,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعته يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد - في كتابه - وحدثني عنه محمد بن إبراهيم قال سمعت الجنيد يقول سمعت السري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت الجنيد بن محمد يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر - في كتابه - وحدثني عنه عثمان بن محمد العثماني قال قال سمعت الجنيد بن محمد يقول سمعت السري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد",
+          "person_id": 2225,
+          "canonical_name": "محمد بن الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر - في كتابه - وحدثني عنه محمد حدثني الجنيد قال سمعت السري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد",
+          "person_id": 2225,
+          "canonical_name": "محمد بن الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر - في كتابه - وحدثني عنه محمد قال حدثني الجنيد قال سمعت السري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عبد الله المقرى - بالكوفة -",
+          "person_id": 887,
+          "canonical_name": "أبو عبد الله المقرئ",
+          "has_id": 418,
+          "subj_added": false
+        },
+        {
+          "name": "السري بن المغلس",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبي يقول سمعت أبا عبد الله المقرى - بالكوفة - يقول قال السري بن المغلس",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن محمد بن مقسم",
+          "person_id": 414,
+          "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر بن الباقلاني",
+          "person_id": 659,
+          "canonical_name": "أبو بكر بن الباقلاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 171,
+          "canonical_name": "الطيب بن محمد الباقلاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد بن محمد بن مقسم قال سمعت أبا بكر بن الباقلاني يقول سمعت أبي يقول سمعت السري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "person_id": 647,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله محمد بن عبيد - تلميذ بشر بن الحارث -",
+          "person_id": 916,
+          "canonical_name": "أبو عبد الله محمد بن عبيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "السري بن مغلس السقطي",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        },
+        {
+          "name": "هشيم",
+          "person_id": 2602,
+          "canonical_name": "هشيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله ابن أبي صالح",
+          "person_id": 1811,
+          "canonical_name": "عبد الله بن أبي صالح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبيه",
+          "person_id": 1149,
+          "canonical_name": "أبوه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي هريرة",
+          "person_id": 1120,
+          "canonical_name": "أبو هريرة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو بكر محمد بن أحمد بن محمد المفيد ثنا أبو عبد الله محمد بن عبيد - تلميذ بشر بن الحارث - ثنا السري بن مغلس السقطي ثنا هشيم ثنا عبد الله ابن أبي صالح عن أبيه عن أبي هريرة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن علي بن سهل",
+          "person_id": 2418,
+          "canonical_name": "محمد بن علي بن سهل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الفضل بن جابر",
+          "person_id": 2256,
+          "canonical_name": "محمد بن الفضل بن جابر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "السري بن مغلس وداود بن عمرو",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        },
+        {
+          "name": "مروان بن معاوية",
+          "person_id": 2495,
+          "canonical_name": "مروان بن معاوية",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الواحد بن أيمن المكى",
+          "person_id": 1907,
+          "canonical_name": "عبد الواحد بن أيمن المكى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبيد بن دفيعة",
+          "person_id": 1936,
+          "canonical_name": "عبيد بن دفيعة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبيه",
+          "person_id": 1149,
+          "canonical_name": "أبوه",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن علي بن سهل ثنا محمد بن الفضل بن جابر ثنا السري بن مغلس وداود بن عمرو قالا: ثنا مروان بن معاوية عن عبد الواحد بن أيمن المكى عن عبيد بن دفيعة عن أبيه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الحسن بن علي بن شهريار",
+          "person_id": 97,
+          "canonical_name": "الحسن بن علي بن شهريار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "السري بن المغلس",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        },
+        {
+          "name": "سفيان بن عيينة",
+          "person_id": 1608,
+          "canonical_name": "سفيان بن عيينة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مجالد",
+          "person_id": 2207,
+          "canonical_name": "مجالد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الشعبي",
+          "person_id": 167,
+          "canonical_name": "الشعبي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحدثت عن الحسن بن علي بن شهريار. قال حدثني السري بن المغلس ثنا سفيان بن عيينة عن مجالد عن الشعبي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الحسن بن علي",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "السري بن مغلس",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        },
+        {
+          "name": "ابن فضيل",
+          "has_id": NaN,
+          "person_id": 18,
+          "canonical_name": "ابن فضيل",
+          "subj_added": false
+        },
+        {
+          "name": "مختار بن فلفل",
+          "person_id": 2485,
+          "canonical_name": "مختار بن فلفل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أنس بن مالك",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحدثت عن الحسن بن علي ثنا السري بن مغلس ثنا ابن فضيل عن مختار بن فلفل عن أنس بن مالك",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الحسن بن علي",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "السري بن مغلس",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن ميمون",
+          "person_id": 1884,
+          "canonical_name": "عبد الله بن ميمون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبيد الله",
+          "person_id": 1924,
+          "canonical_name": "عبيد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "نافع",
+          "person_id": 2576,
+          "canonical_name": "نافع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عمر",
+          "has_id": NaN,
+          "person_id": 28,
+          "canonical_name": "ابن عمر",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحدثت عن الحسن بن علي ثنا السري بن مغلس ثنا عبد الله بن ميمون عن عبيد الله عن نافع عن ابن عمر",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "هشيم",
+        "relationship_type": "student_of",
+        "relationship_phrase": "روى عن",
+        "full_text": "روى عن هشيم",
+        "person_id": 2602,
+        "canonical_name": "هشيم",
+        "has_id": NaN
+      },
+      {
+        "name": "سفيان بن عيينة",
+        "relationship_type": "student_of",
+        "relationship_phrase": "روى عن",
+        "full_text": "روى عن ... وسفيان بن عيينة",
+        "person_id": 1608,
+        "canonical_name": "سفيان بن عيينة",
+        "has_id": NaN
+      },
+      {
+        "name": "مروان بن معاوية",
+        "relationship_type": "student_of",
+        "relationship_phrase": "روى عن",
+        "full_text": "روى عن ... ومروان بن معاوية",
+        "person_id": 2495,
+        "canonical_name": "مروان بن معاوية",
+        "has_id": NaN
+      },
+      {
+        "name": "محمد ابن فضيل بن غزوان",
+        "relationship_type": "student_of",
+        "relationship_phrase": "روى عن",
+        "full_text": "روى عن ... ومحمد ابن فضيل بن غزوان في آخرين",
+        "person_id": 2431,
+        "canonical_name": "محمد بن فضيل بن غزوان",
+        "has_id": NaN
+      }
+    ],
+    "students": [
+      {
+        "name": "أبو القاسم الجنيد",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "أستاذه",
+        "full_text": "أبو الحسن السري بن المغلس السقطي. خال أبى القاسم الجنيد وأستاذه.",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "الجنيد بن محمد",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت الجنيد بن محمد يقول سمعت السري بن المغلس يقول",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    },
+    {
+      "name": "علي بن عبد الحميد الغضائري الحلبي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت علي بن عبد الحميد الغضائري الحلبي يقول سمعت سريا السقطي يقول",
+      "person_id": 2041,
+      "canonical_name": "علي بن عبد الحميد الغضائري",
+      "has_id": 698
+    },
+    {
+      "name": "إسماعيل بن عبد الله الشامي",
+      "relationship_type": "narrator",
+      "full_text": "ثنا إسماعيل بن عبد الله الشامي قال قال سري السقطي",
+      "person_id": 364,
+      "canonical_name": "إسماعيل بن عبد الله الشامي",
+      "has_id": NaN
+    },
+    {
+      "name": "إسماعيل",
+      "relationship_type": "narrator",
+      "full_text": "ثنا إسماعيل قال قال السري السقطي",
+      "person_id": 49,
+      "canonical_name": "اسماعيل",
+      "has_id": NaN
+    },
+    {
+      "name": "القاسم بن عبد الله البزاز",
+      "relationship_type": "narrator",
+      "full_text": "سمعت القاسم بن عبد الله البزاز يقول سمعت سريا السقطي يقول",
+      "person_id": 207,
+      "canonical_name": "القاسم بن عبد الله البزاز",
+      "has_id": NaN
+    },
+    {
+      "name": "إبراهيم بن السري السقطي",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت إبراهيم بن السري السقطي يقول سمعت أبى يقول",
+      "person_id": 293,
+      "canonical_name": "إبراهيم بن السري السقطي",
+      "has_id": 272
+    },
+    {
+      "name": "ابن السري",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت ابن السري يقول سمعت أبي يقول",
+      "has_id": 272,
+      "person_id": 293,
+      "canonical_name": "إبراهيم بن السري السقطي"
+    },
+    {
+      "name": "محمد بن إسحاق الأسلمي",
+      "relationship_type": "narrator",
+      "full_text": "ثنا محمد بن إسحاق الأسلمي قال سمعت السري يقول",
+      "person_id": 2277,
+      "canonical_name": "محمد بن إسحاق الأسلمي",
+      "has_id": NaN
+    },
+    {
+      "name": "علي بن الحسين بن حرب القاضي",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت السري يقول",
+      "person_id": 2003,
+      "canonical_name": "علي بن الحسين بن حرب القاضي",
+      "has_id": NaN
+    },
+    {
+      "name": "عبدوس بن القاسم",
+      "relationship_type": "narrator",
+      "full_text": "ثنا عبدوس بن القاسم قال سمعت السري يقول",
+      "person_id": 1921,
+      "canonical_name": "عبدوس بن القاسم",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد ابن محمد الصوفي",
+      "relationship_type": "narrator",
+      "full_text": "حدثنى أحمد ابن محمد الصوفي قال سمعت السري بن المغلس يقول",
+      "person_id": 1242,
+      "canonical_name": "أحمد بن محمد الصوفي",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الله بن ميمون",
+      "relationship_type": "narrator",
+      "full_text": "حدثني عبد الله بن ميمون قال سمعت أبا الحسن السري بن المغلس يقول",
+      "person_id": 1884,
+      "canonical_name": "عبد الله بن ميمون",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الله بن شاكر",
+      "relationship_type": "narrator",
+      "full_text": "سمعت عبد الله بن شاكر يقول قال سري السقطي",
+      "person_id": 1832,
+      "canonical_name": "عبد الله بن شاكر",
+      "has_id": NaN
+    },
+    {
+      "name": "علي بن عبد الحميد الحلبي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت علي بن عبد الحميد الحلبي يقول سمعت سريا السقطي يقول",
+      "person_id": 2040,
+      "canonical_name": "علي بن عبد الحميد العطائري",
+      "has_id": 698
+    },
+    {
+      "name": "علي بن عبد الحميد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت علي بن عبد الحميد يقول سمعت السري يقول",
+      "person_id": 2040,
+      "canonical_name": "علي بن عبد الحميد العطائري",
+      "has_id": 698
+    },
+    {
+      "name": "جدي محمد بن المفضل",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت سريا السقطي يقول",
+      "person_id": 1388,
+      "canonical_name": "جدي محمد بن المفضل",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا بكر النساج",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر النساج يقول سمعت السري يقول",
+      "person_id": 651,
+      "canonical_name": "أبو بكر بن عبد الله الطوسي النساج",
+      "has_id": 63
+    },
+    {
+      "name": "سعيد بن عثمان",
+      "relationship_type": "narrator",
+      "full_text": "ثنا سعيد بن عثمان قال سمعت السري يقول",
+      "person_id": 1603,
+      "canonical_name": "سعيد بن عثمان الخياط",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو عثمان الخياط",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أبو عثمان الخياط قال سمعت السري يقول",
+      "person_id": 936,
+      "canonical_name": "أبو عثمان الخياط",
+      "has_id": NaN
+    },
+    {
+      "name": "جدي محمد بن الفضل",
+      "relationship_type": "narrator",
+      "full_text": "ثنا جدي محمد بن الفضل قال قال السري السقطي",
+      "person_id": 1388,
+      "canonical_name": "جدي محمد بن المفضل",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا عبد الله المقرى - بالكوفة -",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا عبد الله المقرى - بالكوفة - يقول قال السري بن المغلس",
+      "person_id": 887,
+      "canonical_name": "أبو عبد الله المقرئ",
+      "has_id": 418
+    },
+    {
+      "name": "أبي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبي يقول سمعت أحمد يقول سمعت أبا القاسم يقول سمعت الجنيد يقول سمعت السري يقول",
+      "person_id": 585,
+      "canonical_name": "أبو أبي نعيم الأصفهاني",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو عبد الله محمد بن عبيد - تلميذ بشر بن الحارث -",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أبو عبد الله محمد بن عبيد - تلميذ بشر بن الحارث - ثنا السري بن مغلس السقطي",
+      "person_id": 916,
+      "canonical_name": "أبو عبد الله محمد بن عبيد",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن الفضل بن جابر",
+      "relationship_type": "narrator",
+      "full_text": "ثنا محمد بن الفضل بن جابر ثنا السري بن مغلس وداود بن عمرو",
+      "person_id": 2256,
+      "canonical_name": "محمد بن الفضل بن جابر",
+      "has_id": NaN
+    },
+    {
+      "name": "الحسن بن علي بن شهريار",
+      "relationship_type": "narrator",
+      "full_text": "قال حدثني السري بن المغلس",
+      "person_id": 97,
+      "canonical_name": "الحسن بن علي بن شهريار",
+      "has_id": NaN
+    },
+    {
+      "name": "الحسن بن علي",
+      "relationship_type": "narrator",
+      "full_text": "ثنا السري بن مغلس",
+      "person_id": 94,
+      "canonical_name": "الحسن بن علي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو بكر العطشي",
+      "relationship_type": "questioner",
+      "context": "قلت لسري السقطي",
+      "full_text": "سمعت أبا بكر العطشي يقول قلت لسري السقطي",
+      "person_id": 638,
+      "canonical_name": "أبو بكر العطشي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو جعفر السماك",
+      "relationship_type": "interlocutor",
+      "context": "عاتبه بقوله: أبو الحسن صرت مناخا للبطالين",
+      "full_text": "سمعت أبا جعفر السماك ... فقال لى: أبو الحسن صرت مناخا للبطالين",
+      "person_id": 733,
+      "canonical_name": "أبو جعفر السماك",
+      "has_id": 99
+    }
+  ]
+}

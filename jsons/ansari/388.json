@@ -1,0 +1,227 @@
+{
+  "bio_id": "388",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "245",
+    "full_text": "در سنه خمس و اربعین و مائتین",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "نخشب",
+      "context": "nisba",
+      "full_text": "النخشبی"
+    },
+    {
+      "place": "خراسان",
+      "context": "mentioned",
+      "full_text": "از اجلهٔ مشایخ خراسانست"
+    },
+    {
+      "place": "بادیه",
+      "context": "visited",
+      "full_text": "کی بوتراب باسیصد رکوه دار در بادیه شد"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوتراب النخشبی",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "کان ابوتراب النخشبی یقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر زقاق",
+          "person_id": 625,
+          "canonical_name": "أبو بكر الزقاق",
+          "has_id": 375,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و بوبکر زقاق گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوتراب",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و بوتراب گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوتراب",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سئل ابوتراب عن صفة العارف فقال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حصری",
+          "person_id": 394,
+          "canonical_name": "أبو الحسن الحصري",
+          "has_id": 301,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و حصریگوید:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "ابوحاتم عطار بصری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "بعلم و فتوت و توکل و زهد صحبت کرده با ابوحاتم عطار بصری و حاتم اصم بلخی",
+        "person_id": 751,
+        "canonical_name": "أبو حاتم العطّار البصري",
+        "has_id": 109
+      },
+      {
+        "name": "حاتم اصم بلخی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "بعلم و فتوت و توکل و زهد صحبت کرده با ابوحاتم عطار بصری و حاتم اصم بلخی",
+        "person_id": 1424,
+        "canonical_name": "حاتم الأصم",
+        "has_id": 505
+      }
+    ],
+    "students": [
+      {
+        "name": "بوعبداللّه جلی",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "استاذ ... بود",
+        "full_text": "استاذ بوعبداللّه جلی بود",
+        "person_id": 901,
+        "canonical_name": "أبو عبد الله بن جلاء",
+        "has_id": NaN
+      },
+      {
+        "name": "بو عبید بسری",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "باوی بماندند، با درویشی برفتند",
+        "full_text": "دو تن باوی بماندند، با درویشی برفتند، یکی ازان بوعبداللهّ جلی، ددیگر بو عبید بسری، و دیگر همه بازگشتند.",
+        "person_id": 927,
+        "canonical_name": "أبو عبيد بسري",
+        "has_id": NaN
+      }
+    ],
+    "companions": [
+      {
+        "name": "ذوالنون",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران ویست و جزوی",
+        "full_text": "درآن سال کی ذوالنون برفت از دنیا، از اقران ویست و جزوی.",
+        "person_id": 1523,
+        "canonical_name": "ذو النون المصري",
+        "has_id": 570
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "بوبکر زقاق",
+      "relationship_type": "narrator",
+      "full_text": "و بوبکر زقاق گوید:",
+      "person_id": 625,
+      "canonical_name": "أبو بكر الزقاق",
+      "has_id": 375
+    },
+    {
+      "name": "حصری",
+      "relationship_type": "narrator",
+      "full_text": "و حصریگوید:",
+      "person_id": 394,
+      "canonical_name": "أبو الحسن الحصري",
+      "has_id": 301
+    }
+  ]
+}

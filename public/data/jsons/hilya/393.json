@@ -1,0 +1,127 @@
+{
+  "bio_id": "393",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "القادسية",
+      "context": "visited",
+      "full_text": "دخلت مسجد القادسية"
+    },
+    {
+      "place": "المغيثة",
+      "context": "visited",
+      "full_text": "ومشيت نحو المغيثة"
+    },
+    {
+      "place": "القرعاء",
+      "context": "visited",
+      "full_text": "بلغت القرعاء مع الصبح"
+    },
+    {
+      "place": "المدينة",
+      "context": "visited",
+      "full_text": "إلى أن بلغت المدينة"
+    },
+    {
+      "place": "مكة",
+      "context": "visited",
+      "full_text": "فلما قدمت مكة"
+    },
+    {
+      "place": "منى",
+      "context": "visited",
+      "full_text": "فطلبته بمنى"
+    },
+    {
+      "place": "عرفات",
+      "context": "visited",
+      "full_text": "وعرفات"
+    },
+    {
+      "place": "مسجد الخيف",
+      "context": "visited",
+      "full_text": "فقصدت مسجد الخيف"
+    },
+    {
+      "place": "المقام",
+      "context": "visited",
+      "full_text": "خلف المقام"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا الفضل أحمد بن عمران الهروي",
+          "person_id": 523,
+          "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين الدراج",
+          "has_id": NaN,
+          "person_id": 49,
+          "canonical_name": "اسماعيل",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الفضل أحمد بن عمران الهروي يقول سمعت منصور بن عبد الله يقول سمعت أبا الحسين الدراج يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال منصور",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا الحسين الدراج",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا الحسين الدراج يقول",
+      "has_id": NaN,
+      "person_id": 48,
+      "canonical_name": "أسد نصيبي"
+    },
+    {
+      "name": "أبي بكر الكتاني",
+      "relationship_type": "interlocutor",
+      "full_text": "فلما قدمت مكة ذكرت ذلك لمشايخنا أبي بكر الكتاني وأبي الحسن المزين وغيرهما، فاستحمقوني وقالوا: ذاك أبو جعفر المجذوم",
+      "person_id": 712,
+      "canonical_name": "أبو بكر محمد بن علي الكتاني",
+      "has_id": 378
+    },
+    {
+      "name": "أبي الحسن المزين",
+      "relationship_type": "interlocutor",
+      "full_text": "فلما قدمت مكة ذكرت ذلك لمشايخنا أبي بكر الكتاني وأبي الحسن المزين وغيرهما، فاستحمقوني وقالوا: ذاك أبو جعفر المجذوم",
+      "person_id": 408,
+      "canonical_name": "أبو الحسن المزين",
+      "has_id": 295
+    }
+  ]
+}

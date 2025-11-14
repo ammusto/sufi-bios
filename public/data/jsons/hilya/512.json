@@ -1,0 +1,96 @@
+{
+  "bio_id": "512",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا عمرو العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سمعت أبا عمرو العثماني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عمرو العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد بن مسروق",
+          "person_id": 67,
+          "canonical_name": "الجنيد بن محمد بن مسروق",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحكى عن الجنيد بن محمد بن مسروق",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عمرو العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد بن مسروق",
+          "person_id": 67,
+          "canonical_name": "الجنيد بن محمد بن مسروق",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وحكى عنه",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا عمرو العثماني",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا عمرو العثماني",
+      "person_id": 1021,
+      "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+      "has_id": NaN
+    },
+    {
+      "name": "الجنيد بن محمد بن مسروق",
+      "relationship_type": "narrator",
+      "full_text": "وحكى عن الجنيد بن محمد بن مسروق",
+      "person_id": 67,
+      "canonical_name": "الجنيد بن محمد بن مسروق",
+      "has_id": NaN
+    },
+    {
+      "name": "جارية",
+      "relationship_type": "interlocutor",
+      "context": "رؤيا",
+      "full_text": "فنزلت منه جارية عليها قميص فضة يتخشخش، ولها ذؤابتان، فجلست عند رجلي فقبضت رجلي عنها فمدت يدها ومست رجلي فقلت لها: يا جارية أنت لمن؟ قالت: أنا لمن دام على مثل ما أنت عليه.",
+      "person_id": 1375,
+      "canonical_name": "جارية",
+      "has_id": NaN
+    }
+  ]
+}

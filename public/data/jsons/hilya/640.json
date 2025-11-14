@@ -1,0 +1,438 @@
+{
+  "bio_id": "640",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "القدس",
+      "context": "nisba",
+      "full_text": "المقدسى"
+    },
+    {
+      "place": "عسقلان",
+      "context": "visited",
+      "full_text": "خرجت من عسقلان أريد غزة في طلب البدلاء"
+    },
+    {
+      "place": "غزة",
+      "context": "visited",
+      "full_text": "أريد غزة"
+    },
+    {
+      "place": "ساحل البحر",
+      "context": "visited",
+      "full_text": "مارا على ساحل البحر"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا القاسم الدمشقي",
+          "person_id": 556,
+          "canonical_name": "أبو القاسم عبد الله بن محمد الدمشقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "طاهرا المقدسي",
+          "person_id": 1696,
+          "canonical_name": "طاهر المقدسي",
+          "has_id": 640,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أبا القاسم الدمشقي يقول سمعت طاهرا المقدسي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا القاسم الدمشقي",
+          "person_id": 556,
+          "canonical_name": "أبو القاسم عبد الله بن محمد الدمشقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "طاهرا المقدسي",
+          "person_id": 1696,
+          "canonical_name": "طاهر المقدسي",
+          "has_id": 640,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وكان يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا القاسم الدمشقي",
+          "person_id": 556,
+          "canonical_name": "أبو القاسم عبد الله بن محمد الدمشقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "طاهرا المقدسي",
+          "person_id": 1696,
+          "canonical_name": "طاهر المقدسي",
+          "has_id": 640,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وكان يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد الدمشقي",
+          "person_id": 1857,
+          "canonical_name": "عبد الله بن محمد الدمشقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "طاهر المقدسي",
+          "person_id": 1696,
+          "canonical_name": "طاهر المقدسي",
+          "has_id": 640,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين قال أنشدني عبد الله بن محمد الدمشقي قال أنشدني طاهر المقدسي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد الدمشقي",
+          "person_id": 1857,
+          "canonical_name": "عبد الله بن محمد الدمشقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "طاهر المقدسي",
+          "person_id": 1696,
+          "canonical_name": "طاهر المقدسي",
+          "has_id": 640,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال طاهر",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد الدمشقي",
+          "person_id": 1857,
+          "canonical_name": "عبد الله بن محمد الدمشقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "طاهر المقدسي",
+          "person_id": 1696,
+          "canonical_name": "طاهر المقدسي",
+          "has_id": 640,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وأنشد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمدا",
+          "person_id": 2214,
+          "canonical_name": "محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن علي بن جعفر الفارسي",
+          "person_id": 1227,
+          "canonical_name": "أحمد بن علي بن جعفر الفارسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن الحسين بن حمدان",
+          "person_id": 2004,
+          "canonical_name": "علي بن الحسين بن حمدان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 953,
+          "canonical_name": "أبو علي الحسين بن حمدان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "طاهر المقدسي",
+          "person_id": 1696,
+          "canonical_name": "طاهر المقدسي",
+          "has_id": 640,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمدا يقول سمعت أحمد بن علي بن جعفر الفارسي يقول سمعت علي بن الحسين بن حمدان يقول سمعت أبي يقول قال طاهر المقدسي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسن محمد بن أحمد",
+          "has_id": NaN,
+          "person_id": 95,
+          "canonical_name": "الحسن بن علي بن الوليد الفسوي",
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبيد البسري",
+          "person_id": 924,
+          "canonical_name": "أبو عبيد البسري",
+          "has_id": 409,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1696,
+          "canonical_name": "طاهر المقدسي",
+          "has_id": 640,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت عثمان بن محمد العثماني يقول سمعت أبا الحسن محمد بن أحمد يقول قال أبو عبيد البسري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "البسري",
+          "person_id": 924,
+          "canonical_name": "أبو عبيد البسري",
+          "has_id": 409,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1696,
+          "canonical_name": "طاهر المقدسي",
+          "has_id": 640,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثناه العثماني عن البسري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن جعفر",
+          "person_id": 1183,
+          "canonical_name": "أحمد بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "طاهر",
+          "person_id": 1696,
+          "canonical_name": "طاهر المقدسي",
+          "has_id": 640,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبي يقول سمعت أحمد بن جعفر يقول: قال طاهر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد البغدادي",
+          "person_id": 2294,
+          "canonical_name": "محمد بن أحمد البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عباس بن يوسف",
+          "person_id": 185,
+          "canonical_name": "العباس بن يوسف الشكلي",
+          "has_id": 649,
+          "subj_added": false
+        },
+        {
+          "name": "طاهر",
+          "person_id": 1696,
+          "canonical_name": "طاهر المقدسي",
+          "has_id": 640,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عثمان بن محمد ثنا محمد بن أحمد البغدادي ثنا عباس بن يوسف عن طاهر",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "ذا النون",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب ذا النون وأعلام النساك من الشاميين وغيرهم.",
+        "person_id": 1523,
+        "canonical_name": "ذو النون المصري",
+        "has_id": 570
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أبو القاسم الدمشقي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا القاسم الدمشقي يقول",
+      "person_id": 556,
+      "canonical_name": "أبو القاسم عبد الله بن محمد الدمشقي",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الله بن محمد الدمشقي",
+      "relationship_type": "narrator",
+      "full_text": "أنشدني عبد الله بن محمد الدمشقي",
+      "person_id": 1857,
+      "canonical_name": "عبد الله بن محمد الدمشقي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبي يقول",
+      "person_id": 585,
+      "canonical_name": "أبو أبي نعيم الأصفهاني",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد بن جعفر",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أحمد بن جعفر يقول",
+      "person_id": 1183,
+      "canonical_name": "أحمد بن جعفر",
+      "has_id": NaN
+    },
+    {
+      "name": "عباس بن يوسف",
+      "relationship_type": "narrator",
+      "full_text": "ثنا عباس بن يوسف عن طاهر",
+      "person_id": 185,
+      "canonical_name": "العباس بن يوسف الشكلي",
+      "has_id": 649
+    },
+    {
+      "name": "أبو عبيد البسري",
+      "relationship_type": "narrator",
+      "full_text": "قال أبو عبيد البسري",
+      "person_id": 924,
+      "canonical_name": "أبو عبيد البسري",
+      "has_id": 409
+    },
+    {
+      "name": "رجل بالكام",
+      "relationship_type": "interlocutor",
+      "full_text": "سألت رجلا بالكام",
+      "person_id": 1531,
+      "canonical_name": "رجل بالكام",
+      "has_id": NaN
+    }
+  ]
+}

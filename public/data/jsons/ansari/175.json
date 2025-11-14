@@ -1,0 +1,149 @@
+{
+  "bio_id": "175",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "اندلس",
+      "context": "lived",
+      "full_text": "بوده باندلس،"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "بوبکر قبانی",
+          "person_id": 680,
+          "canonical_name": "أبو بكر بن نصر القباني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوعمر واکاف",
+          "person_id": 996,
+          "canonical_name": "أبو عمرو اكاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوعمر واکاف",
+          "person_id": 996,
+          "canonical_name": "أبو عمرو اكاف",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بوبکر قبانی مرا گفت: که بوعمر واکاف گفت: که بوعمر واکاف گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعمر وزجاجی٭",
+          "person_id": 997,
+          "canonical_name": "أبو عمر وزجاجي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوعمر وزجاجی٭ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعمر و نوقاتی",
+          "person_id": 1014,
+          "canonical_name": "أبو عمرو النوقاتي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت کی بوعمر و نوقاتی گفت در کتاب محبة الظراف:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "جنید",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده بود",
+        "full_text": "جنید دیده بود.",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "مروزی",
+        "relationship_type": "peer",
+        "relationship_phrase": "و",
+        "full_text": "بوعمر و مروزی را گفتند: کی ما برچه فراهم آئیم؟",
+        "person_id": 2497,
+        "canonical_name": "مروزي",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "بوبکر قبانی",
+      "relationship_type": "direct_narrator",
+      "full_text": "بوبکر قبانی مرا گفت:",
+      "person_id": 680,
+      "canonical_name": "أبو بكر بن نصر القباني",
+      "has_id": NaN
+    },
+    {
+      "name": "جنید",
+      "relationship_type": "interlocutor",
+      "context": "respondent",
+      "full_text": "از جنید پرسیدند،کی فقرمه یاغنا؟ گفت:",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    },
+    {
+      "name": "مروزی",
+      "relationship_type": "interlocutor",
+      "context": "co-addressee",
+      "full_text": "بوعمر و مروزی را گفتند: کی ما برچه فراهم آئیم؟",
+      "person_id": 2497,
+      "canonical_name": "مروزي",
+      "has_id": NaN
+    },
+    {
+      "name": "زجاجی٭",
+      "relationship_type": "interlocutor",
+      "context": "co-speaker",
+      "full_text": "بوعمر وزجاجی٭ گوید:",
+      "person_id": 1011,
+      "canonical_name": "أبو عمرو الزجاجي",
+      "has_id": 426
+    },
+    {
+      "name": "نوقاتی",
+      "relationship_type": "interlocutor",
+      "context": "co-author",
+      "full_text": "بوعمر و نوقاتی گفت در کتاب محبة الظراف:",
+      "person_id": 2589,
+      "canonical_name": "نوقاتي",
+      "has_id": NaN
+    }
+  ]
+}

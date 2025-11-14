@@ -1,0 +1,479 @@
+{
+  "bio_id": "595",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "الري",
+      "context": "nisba",
+      "full_text": "الرازي"
+    },
+    {
+      "place": "منى",
+      "context": "visited",
+      "full_text": " - بمنى - يقول"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسحاق بن محمد الزجاج",
+          "person_id": 354,
+          "canonical_name": "إسحاق بن محمد الزجاج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمود بن الفرج",
+          "person_id": 2483,
+          "canonical_name": "محمود بن الفرج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عثمان سعيد بن العباس الرازي",
+          "person_id": 940,
+          "canonical_name": "أبو عثمان سعيد بن العباس الرازي",
+          "has_id": 595,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا إسحاق بن محمد الزجاج ثنا محمود بن الفرج ثنا أبو عثمان سعيد بن العباس الرازي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الشيخ أبو نعيم",
+          "person_id": 1112,
+          "canonical_name": "أبو نعيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 940,
+          "canonical_name": "أبو عثمان سعيد بن العباس الرازي",
+          "has_id": 595,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال الشيخ أبو نعيم",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الرحمن بن محمد بن أحمد الواعظ",
+          "person_id": 1075,
+          "canonical_name": "أبو مسلم عبد الرحمن بن محمد بن أحمد الواعظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عيسى ابن ماهان",
+          "person_id": 1236,
+          "canonical_name": "أحمد بن عيسى بن ماهان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن العباس الرازي الصوفي",
+          "person_id": 940,
+          "canonical_name": "أبو عثمان سعيد بن العباس الرازي",
+          "has_id": 595,
+          "subj_added": false
+        },
+        {
+          "name": "حاتما الأصم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت عبد الرحمن بن محمد بن أحمد الواعظ قال سمعت أحمد بن عيسى ابن ماهان قال سمعت سعيد بن العباس الرازي الصوفي - بمنى - يقول سمعت حاتما الأصم يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد بن جعفر",
+          "person_id": 1868,
+          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خالي عبد الله بن محمود بن الفرج",
+          "person_id": 1499,
+          "canonical_name": "خالي عبد الله بن محمود بن الفرج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي محمود",
+          "person_id": 1068,
+          "canonical_name": "أبو محمود",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عثمان سعيد بن العباس الرازي",
+          "person_id": 940,
+          "canonical_name": "أبو عثمان سعيد بن العباس الرازي",
+          "has_id": 595,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عبد الله بن نافع بن ثابت",
+          "person_id": 1215,
+          "canonical_name": "أحمد بن عبد الله بن نافع بن ثابت",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 588,
+          "canonical_name": "أبو أحمد  عبد الله بن نافع بن ثابت",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن عروة",
+          "person_id": 1875,
+          "canonical_name": "عبد الله بن محمد بن عروة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "هشام بن عروة",
+          "person_id": 2600,
+          "canonical_name": "هشام بن عروة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "فاطمة بنت المنذر",
+          "person_id": 2162,
+          "canonical_name": "فاطمة بنت المنذر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أسماء بنت أبي بكر",
+          "person_id": 1291,
+          "canonical_name": "أسماء بنت أبي بكر",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد بن جعفر ثنا خالي عبد الله بن محمود بن الفرج ثنا أبي محمود ثنا أبو عثمان سعيد بن العباس الرازي ثنا أحمد بن عبد الله بن نافع بن ثابت حدثني أبي عن عبد الله بن محمد بن عروة عن هشام بن عروة عن فاطمة بنت المنذر عن أسماء بنت أبي بكر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبى إسحاق بن محمود بن الفرج",
+          "person_id": 578,
+          "canonical_name": "أبو إسحاق بن محمود بن الفرج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن العباس",
+          "person_id": 940,
+          "canonical_name": "أبو عثمان سعيد بن العباس الرازي",
+          "has_id": 595,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن ابن محمد الطنافسي",
+          "person_id": 102,
+          "canonical_name": "الحسن بن محمد الطنافسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن فضيل",
+          "has_id": NaN,
+          "person_id": 82,
+          "canonical_name": "الحسن بن جعفر",
+          "subj_added": false
+        },
+        {
+          "name": "أبان بن أبي عياش",
+          "person_id": 373,
+          "canonical_name": "أبان بن أبي عياش",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أنس بن مالك",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "النبي ﷺ",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبى إسحاق بن محمود بن الفرج ثنا سعيد بن العباس ثنا الحسن ابن محمد الطنافسي ثنا ابن فضيل ثنا أبان بن أبي عياش عن أنس بن مالك عن النبي ﷺ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسحاق",
+          "person_id": 354,
+          "canonical_name": "إسحاق بن محمد الزجاج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمود بن الفرج",
+          "person_id": 2483,
+          "canonical_name": "محمود بن الفرج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عثمان سعيد بن العباس",
+          "person_id": 940,
+          "canonical_name": "أبو عثمان سعيد بن العباس الرازي",
+          "has_id": 595,
+          "subj_added": false
+        },
+        {
+          "name": "ابن كاسب",
+          "has_id": NaN,
+          "person_id": 83,
+          "canonical_name": "ابن كاسب",
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن عبد الله",
+          "person_id": 1838,
+          "canonical_name": "عبد الله بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الزبير بن الحارث",
+          "person_id": 155,
+          "canonical_name": "الزبير بن الحارث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عكرمة",
+          "person_id": 1978,
+          "canonical_name": "عكرمة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عباس",
+          "has_id": NaN,
+          "person_id": 26,
+          "canonical_name": "ابن عباس",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا إسحاق ثنا محمود بن الفرج ثنا أبو عثمان سعيد بن العباس ثنا ابن كاسب ثنا عبد الله بن عبد الله عن الزبير بن الحارث عن عكرمة عن ابن عباس",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "أبي نعيم",
+        "relationship_type": "student_of",
+        "relationship_phrase": "حدث عن",
+        "full_text": "حدث عن الأعلام: عن أبي نعيم",
+        "person_id": 1112,
+        "canonical_name": "أبو نعيم",
+        "has_id": NaN
+      },
+      {
+        "name": "حسين المروزي",
+        "relationship_type": "student_of",
+        "relationship_phrase": "حدث عن",
+        "full_text": "، وحسين المروزي",
+        "person_id": 1453,
+        "canonical_name": "حسين المروزي",
+        "has_id": NaN
+      },
+      {
+        "name": "القعنبي",
+        "relationship_type": "student_of",
+        "relationship_phrase": "حدث عن",
+        "full_text": "، والقعنبي",
+        "person_id": 215,
+        "canonical_name": "القعنبي",
+        "has_id": NaN
+      },
+      {
+        "name": "أحمد بن شبيب",
+        "relationship_type": "student_of",
+        "relationship_phrase": "حدث عن",
+        "full_text": "، وأحمد بن شبيب",
+        "person_id": 1205,
+        "canonical_name": "أحمد بن شبيب",
+        "has_id": NaN
+      },
+      {
+        "name": "الحميدي",
+        "relationship_type": "student_of",
+        "relationship_phrase": "حدث عن",
+        "full_text": "، والحميدي",
+        "person_id": 144,
+        "canonical_name": "الحميدي",
+        "has_id": NaN
+      },
+      {
+        "name": "سلمة بن شبيب",
+        "relationship_type": "student_of",
+        "relationship_phrase": "حدث عن",
+        "full_text": "، وسلمة بن شبيب",
+        "person_id": 1614,
+        "canonical_name": "سلمة بن شبيب",
+        "has_id": NaN
+      },
+      {
+        "name": "مكي",
+        "relationship_type": "student_of",
+        "relationship_phrase": "حدث عن",
+        "full_text": "، ومكي",
+        "person_id": 2531,
+        "canonical_name": "مكي",
+        "has_id": NaN
+      },
+      {
+        "name": "قتيبة",
+        "relationship_type": "student_of",
+        "relationship_phrase": "حدث عن",
+        "full_text": "، وقتيبة",
+        "person_id": 2177,
+        "canonical_name": "قتيبة",
+        "has_id": NaN
+      },
+      {
+        "name": "علي الطنافسي",
+        "relationship_type": "student_of",
+        "relationship_phrase": "حدث عن",
+        "full_text": "، وعلي الطنافسي",
+        "person_id": 2064,
+        "canonical_name": "علي بن محمد الطنافسي",
+        "has_id": NaN
+      },
+      {
+        "name": "أبي مسعود",
+        "relationship_type": "student_of",
+        "relationship_phrase": "حدث عن",
+        "full_text": "، وأبي مسعود",
+        "person_id": 1072,
+        "canonical_name": "أبو مسعود",
+        "has_id": NaN
+      },
+      {
+        "name": "الحماني",
+        "relationship_type": "student_of",
+        "relationship_phrase": "حدث عن",
+        "full_text": "، والحماني",
+        "person_id": 143,
+        "canonical_name": "الحماني",
+        "has_id": NaN
+      },
+      {
+        "name": "سهل بن عثمان",
+        "relationship_type": "student_of",
+        "relationship_phrase": "حدث عن",
+        "full_text": "، وسهل بن عثمان",
+        "person_id": 1640,
+        "canonical_name": "سهل بن عثمان",
+        "has_id": NaN
+      },
+      {
+        "name": "ابن كاسب",
+        "relationship_type": "student_of",
+        "relationship_phrase": "حدث عن",
+        "full_text": "، وابن كاسب",
+        "has_id": NaN,
+        "person_id": 84,
+        "canonical_name": "الحسن بن رشيق المصري"
+      },
+      {
+        "name": "إبراهيم بن موسى",
+        "relationship_type": "student_of",
+        "relationship_phrase": "حدث عن",
+        "full_text": "، وإبراهيم بن موسى",
+        "person_id": 328,
+        "canonical_name": "إبراهيم بن موسى",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "محمود بن الفرج",
+      "relationship_type": "narrator",
+      "full_text": "ثنا محمود بن الفرج ثنا أبو عثمان سعيد بن العباس الرازي",
+      "person_id": 2483,
+      "canonical_name": "محمود بن الفرج",
+      "has_id": NaN
+    },
+    {
+      "name": "أبي محمود",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أبي محمود ثنا أبو عثمان سعيد بن العباس الرازي",
+      "person_id": 1068,
+      "canonical_name": "أبو محمود",
+      "has_id": NaN
+    },
+    {
+      "name": "أبى إسحاق بن محمود بن الفرج",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا أبى إسحاق بن محمود بن الفرج ثنا سعيد بن العباس",
+      "person_id": 578,
+      "canonical_name": "أبو إسحاق بن محمود بن الفرج",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد بن عيسى ابن ماهان",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أحمد بن عيسى ابن ماهان قال سمعت سعيد بن العباس الرازي الصوفي",
+      "person_id": 1236,
+      "canonical_name": "أحمد بن عيسى بن ماهان",
+      "has_id": NaN
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "bio_id": "293",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "331",
+    "full_text": "از دنیا نیمهٔ رجب، سنه احدی و ثلثین.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "دینور",
+      "context": "nisba",
+      "full_text": "دینوری"
+    },
+    {
+      "place": "مصر",
+      "context": "lived",
+      "full_text": "بمصر بود"
+    },
+    {
+      "place": "مصر",
+      "context": "died",
+      "full_text": "و آنجا برفته"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوسعد مالینی",
+          "person_id": 796,
+          "canonical_name": "أبو سعد الماليني",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ بوسعد مالینی گوید: کی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعثمان مغربی",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوعثمان مغربی گوید: کی",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "بوجعفر صیدلانی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد بوجعفر صیدلانی بود",
+        "person_id": 735,
+        "canonical_name": "أبو جعفر الصيدلاني",
+        "has_id": 104
+      }
+    ],
+    "students": [
+      {
+        "name": "شیخ ابوالحسن قرا فی",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "استاد",
+        "full_text": "٭که وی استاد شیخ ابوالحسن قرا فی بود، و بوعثمان مغربی و دقی.",
+        "person_id": 406,
+        "canonical_name": "أبو الحسن القرا في",
+        "has_id": NaN
+      },
+      {
+        "name": "بوعثمان مغربی",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "استاد",
+        "full_text": "٭که وی استاد شیخ ابوالحسن قرا فی بود، و بوعثمان مغربی و دقی.",
+        "person_id": 942,
+        "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+        "has_id": 156
+      },
+      {
+        "name": "دقی",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "استاد",
+        "full_text": "٭که وی استاد شیخ ابوالحسن قرا فی بود، و بوعثمان مغربی و دقی.",
+        "person_id": 621,
+        "canonical_name": "أبو بكر الدقي",
+        "has_id": 382
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت: کی",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ بوسعد مالینی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ بوسعد مالینی گوید: کی",
+      "person_id": 796,
+      "canonical_name": "أبو سعد الماليني",
+      "has_id": NaN
+    },
+    {
+      "name": "بوعثمان مغربی",
+      "relationship_type": "narrator",
+      "full_text": "بوعثمان مغربی گوید: کی",
+      "person_id": 942,
+      "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+      "has_id": 156
+    },
+    {
+      "name": "بایعقوب نهر جوری",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "هیچکس ندیدهام از مشایخ، روشنتر و نورانیتر از بایعقوب نهر جوری.",
+      "person_id": 1137,
+      "canonical_name": "أبو يعقوب النهرجوري",
+      "has_id": 437
+    }
+  ]
+}

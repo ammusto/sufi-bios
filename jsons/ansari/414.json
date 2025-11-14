@@ -1,0 +1,63 @@
+{
+  "bio_id": "414",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "سجستان",
+      "context": "nisba",
+      "full_text": "السجزی"
+    },
+    {
+      "place": "خراسان",
+      "context": "lived",
+      "full_text": "از مهینان مشایخ خراسان و فتیان ایشان"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "ابوعبداللّه السجزی",
+          "person_id": 871,
+          "canonical_name": "أبو عبد الله السجزي",
+          "has_id": 414,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وی گفته:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوعبداللّه السجزی",
+          "person_id": 871,
+          "canonical_name": "أبو عبد الله السجزي",
+          "has_id": 414,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "هم وی گفته\nاست:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "حفص حداد",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "با حفص حداد صحبت کرده",
+        "person_id": 759,
+        "canonical_name": "أبو حفص الحداد النيسابوري",
+        "has_id": 715
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": []
+}

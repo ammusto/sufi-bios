@@ -1,0 +1,164 @@
+{
+  "bio_id": "277",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "337",
+    "full_text": "در سنه سبع و ثلثین و ثلثمائه برفته از دنیا",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "قرمیسین",
+      "context": "nisba",
+      "full_text": "القرمیسینی"
+    },
+    {
+      "place": "کرمانشاه",
+      "context": "nisba",
+      "full_text": "ابراهیم کرمانشاهی"
+    },
+    {
+      "place": "کرمانشاهان",
+      "context": "visited",
+      "full_text": "بکرمانشاهان رسید، ابراهیم شیبان آنجا یافت"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبداللّه منازل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "از عبداللّه منازل پرسیدند از وی، که در و چه گوئی؟ گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ السلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابرهیم شیبان",
+          "person_id": 314,
+          "canonical_name": "إبراهيم بن شيبان",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "ابرهیم شیبان گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابرهیم شیبان",
+          "person_id": 314,
+          "canonical_name": "إبراهيم بن شيبان",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابراهیم شیبان",
+          "person_id": 314,
+          "canonical_name": "إبراهيم بن شيبان",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که ابراهیم شیبان گوید",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "بوعبداللّه مغربی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد بوعبداللّه مغربی بود",
+        "person_id": 885,
+        "canonical_name": "أبو عبد الله المغربي",
+        "has_id": 416
+      },
+      {
+        "name": "ابراهیم خواص",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد بوعبداللّه مغربی بود و ابراهیم خواص.",
+        "person_id": 278,
+        "canonical_name": "أبو إسحاق إبراهيم الخواص",
+        "has_id": 268
+      }
+    ],
+    "students": [
+      {
+        "name": "خواجه بوزید مرغزی فقیه خراسان",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "سالی باو نشست",
+        "full_text": "کی خواجه بوزید مرغزی فقیه خراسان به حج میشد، بکرمانشاهان رسید، ابراهیم شیبان آنجا یافت، سالی باو نشست",
+        "person_id": 792,
+        "canonical_name": "أبو زيد محمد بن أحمد الفقيه المروزي",
+        "has_id": 120
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "عبداللّه منازل",
+      "relationship_type": "narrator",
+      "full_text": "از عبداللّه منازل پرسیدند از وی، که در و چه گوئی؟ گفت:",
+      "person_id": 1065,
+      "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+      "has_id": 654
+    },
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت: که ابراهیم شیبان گوید:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ السلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ السلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "خواجه بوزید مرغزی فقیه خراسان",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "کی خواجه بوزید مرغزی فقیه خراسان به حج میشد، بکرمانشاهان رسید، ابراهیم شیبان آنجا یافت، سالی باو نشست",
+      "person_id": 792,
+      "canonical_name": "أبو زيد محمد بن أحمد الفقيه المروزي",
+      "has_id": 120
+    }
+  ]
+}

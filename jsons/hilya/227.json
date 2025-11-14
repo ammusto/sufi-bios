@@ -1,0 +1,136 @@
+{
+  "bio_id": "227",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "جعفر بن معبد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن النعمان",
+          "person_id": 1865,
+          "canonical_name": "عبد الله بن محمد بن النعمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "فروة بن أبى العراء",
+          "person_id": 2168,
+          "canonical_name": "فروة بن أبى العراء",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن مسهر",
+          "person_id": 2071,
+          "canonical_name": "علي بن مسهر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن ميمون",
+          "person_id": 2684,
+          "canonical_name": "يوسف بن ميمون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عطاء",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        },
+        {
+          "name": "عائشة",
+          "person_id": 1710,
+          "canonical_name": "عائشة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا جعفر بن معبد ثنا عبد الله بن محمد بن النعمان ثنا فروة بن أبى العراء ثنا علي بن مسهر عن يوسف بن ميمون عن عطاء عن عائشة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الرحمن بن محمد بن عمر القرظي",
+          "person_id": 1754,
+          "canonical_name": "عبد الرحمن بن محمد بن عمر القرظي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "همام بن محمد بن النعمان",
+          "person_id": 2607,
+          "canonical_name": "همام بن محمد بن النعمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "العباس بن يزيد بن فضيل",
+          "person_id": 182,
+          "canonical_name": "العباس بن يزيد بن فضيل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمارة بن القعقاع",
+          "person_id": 2083,
+          "canonical_name": "عمارة بن القعقاع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو زرعة",
+          "person_id": 786,
+          "canonical_name": "أبو زرعة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو هريرة",
+          "person_id": 1120,
+          "canonical_name": "أبو هريرة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الرحمن بن محمد بن عمر القرظي ثنا همام بن محمد بن النعمان ثنا العباس بن يزيد بن فضيل عن عمارة بن القعقاع عن أبي زرعة عن أبي هريرة",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "جعفر بن معبد",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا جعفر بن معبد",
+      "person_id": 1405,
+      "canonical_name": "جعفر بن محمد الخلدي",
+      "has_id": 495
+    },
+    {
+      "name": "عبد الرحمن بن محمد بن عمر القرظي",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا عبد الرحمن بن محمد بن عمر القرظي",
+      "person_id": 1754,
+      "canonical_name": "عبد الرحمن بن محمد بن عمر القرظي",
+      "has_id": NaN
+    }
+  ]
+}

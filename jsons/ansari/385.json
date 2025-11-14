@@ -1,0 +1,150 @@
+{
+  "bio_id": "385",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "370",
+    "full_text": "در سنه سبعین و ثلثمائه برفته از دنیا",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "نشاپور",
+      "context": "lived",
+      "full_text": "وی به نشاپور بود"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام «گفت» که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ عمو",
+          "person_id": 1683,
+          "canonical_name": "شيخ عمو",
+          "has_id": 717,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ عمو ویرا دیده بود وگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ عمو",
+          "person_id": 1683,
+          "canonical_name": "شيخ عمو",
+          "has_id": 717,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ عموگفت: که",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "بوعلی ثقفی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "و صحبت کرده بود با بوعلی ثقفی و عبداللّه منازل و بوبکر شبلی وبوبکر طاهر ابهری و مرتعش٭ و جز ازیشان از مشایخ وقت",
+        "person_id": 947,
+        "canonical_name": "أبو علي الثقفي",
+        "has_id": 112
+      },
+      {
+        "name": "عبداللّه منازل",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "و صحبت کرده بود با بوعلی ثقفی و عبداللّه منازل و بوبکر شبلی وبوبکر طاهر ابهری و مرتعش٭ و جز ازیشان از مشایخ وقت",
+        "person_id": 1065,
+        "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+        "has_id": 654
+      },
+      {
+        "name": "بوبکر شبلی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "و صحبت کرده بود با بوعلی ثقفی و عبداللّه منازل و بوبکر شبلی وبوبکر طاهر ابهری و مرتعش٭ و جز ازیشان از مشایخ وقت",
+        "person_id": 628,
+        "canonical_name": "أبو بكر الشبلي",
+        "has_id": 376
+      },
+      {
+        "name": "بوبکر طاهر ابهری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "و صحبت کرده بود با بوعلی ثقفی و عبداللّه منازل و بوبکر شبلی وبوبکر طاهر ابهری و مرتعش٭ و جز ازیشان از مشایخ وقت",
+        "person_id": 686,
+        "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+        "has_id": 29
+      },
+      {
+        "name": "مرتعش٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "و صحبت کرده بود با بوعلی ثقفی و عبداللّه منازل و بوبکر شبلی وبوبکر طاهر ابهری و مرتعش٭ و جز ازیشان از مشایخ وقت",
+        "person_id": 1043,
+        "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
+        "has_id": 251
+      }
+    ],
+    "students": [
+      {
+        "name": "شیخ عمو",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "ویرا دیده بود",
+        "full_text": "شیخ عمو ویرا دیده بود",
+        "person_id": 1683,
+        "canonical_name": "شيخ عمو",
+        "has_id": 717
+      }
+    ],
+    "companions": [
+      {
+        "name": "شیخ بوبکر شبهی",
+        "relationship_type": "peer",
+        "relationship_phrase": "با ... از مشایخ نشاپوراند",
+        "full_text": "او، با شیخ بوبکر شبهی و علی بندار صیرفی٭ از مشایخ نشاپوراند در همه ایام، و از طبقه خامسه ایضاً.",
+        "person_id": 629,
+        "canonical_name": "أبو بكر محمد بن أحمد بن جعفر الشبهي",
+        "has_id": 384
+      },
+      {
+        "name": "علی بندار صیرفی٭",
+        "relationship_type": "peer",
+        "relationship_phrase": "با ... از مشایخ نشاپوراند",
+        "full_text": "او، با شیخ بوبکر شبهی و علی بندار صیرفی٭ از مشایخ نشاپوراند در همه ایام، و از طبقه خامسه ایضاً.",
+        "person_id": 431,
+        "canonical_name": "أبو الحسن علي بن بندار الصيرفي",
+        "has_id": 478
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام «گفت» که",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ عمو",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ عمو ویرا دیده بود وگفت:",
+      "person_id": 1683,
+      "canonical_name": "شيخ عمو",
+      "has_id": 717
+    }
+  ]
+}

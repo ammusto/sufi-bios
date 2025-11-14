@@ -1,0 +1,75 @@
+{
+  "bio_id": "788",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو عمر محمد بن عبد الله بن محمد بن معروف",
+          "person_id": 995,
+          "canonical_name": "أبو عمر محمد بن عبد الله بن محمد بن معروف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبى",
+          "person_id": 1064,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن معروف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يحيى ابن سعيد",
+          "person_id": 2642,
+          "canonical_name": "يحيى بن سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الهيثم بن حكيم",
+          "person_id": 254,
+          "canonical_name": "الهيثم بن حكيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الدرداء",
+          "has_id": NaN,
+          "person_id": 110,
+          "canonical_name": "أبو الدرداء",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو عمر محمد بن عبد الله بن محمد بن معروف ثنا أبى ثنا يحيى ابن سعيد ثنا الهيثم بن حكيم قال سمعت أبا الدرداء يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "يحيى بن سعيد القطان",
+        "relationship_type": "student_of",
+        "relationship_phrase": "سمع من",
+        "full_text": "سمع من يحيى بن سعيد القطان ويزيد بن هارون",
+        "person_id": 2643,
+        "canonical_name": "يحيى بن سعيد القطان",
+        "has_id": NaN
+      },
+      {
+        "name": "يزيد بن هارون",
+        "relationship_type": "student_of",
+        "relationship_phrase": "سمع من",
+        "full_text": "سمع من يحيى بن سعيد القطان ويزيد بن هارون",
+        "person_id": 2659,
+        "canonical_name": "يزيد بن هارون",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": []
+}

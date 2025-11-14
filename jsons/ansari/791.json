@@ -1,0 +1,103 @@
+{
+  "bio_id": "791",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "86",
+    "full_text": "توفی سنه ست و ثمانین.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "اصفهان",
+      "context": "lived",
+      "full_text": "از قدیمان اصفهانست"
+    },
+    {
+      "place": "صباهان",
+      "context": "lived",
+      "full_text": "کی وی پیشین کس است در صباهان صوفی استاد علی سهل٭ اصفهانی است."
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد یوسف رازه البنا",
+          "person_id": 2477,
+          "canonical_name": "محمد بن يوسف البناء",
+          "has_id": 791,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "محمد یوسف رازه البنا گفت پیش علی سهل صباهانی:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت که:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "فتح موصلی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شدم",
+        "full_text": "که من در فتح موصلی شدم.",
+        "person_id": 2165,
+        "canonical_name": "فتح الموصلي",
+        "has_id": 728
+      }
+    ],
+    "students": [
+      {
+        "name": "علی سهل٭ اصفهانی",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "استاد",
+        "full_text": "صوفی استاد علی سهل٭ اصفهانی است.",
+        "person_id": 2036,
+        "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+        "has_id": 697
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "عبدالرحمن مهدی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "visitor",
+      "full_text": "گویند\nکه عبدالرحمن مهدی بزیارت وی فراوان شدی",
+      "person_id": 1755,
+      "canonical_name": "عبد الرحمن بن مهدي",
+      "has_id": NaN
+    },
+    {
+      "name": "فتح موصلی",
+      "relationship_type": "interlocutor",
+      "full_text": "فتح مرا گفت: من از تو مشغولم، اللهّ ترا از من مشغول کناد!",
+      "person_id": 2165,
+      "canonical_name": "فتح الموصلي",
+      "has_id": 728
+    },
+    {
+      "name": "علی سهل صباهانی",
+      "relationship_type": "interlocutor",
+      "full_text": "محمد یوسف رازه البنا گفت پیش علی سهل صباهانی:",
+      "person_id": 2036,
+      "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+      "has_id": 697
+    },
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت که:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    }
+  ]
+}

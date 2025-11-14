@@ -1,0 +1,624 @@
+{
+  "bio_id": "437",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "330",
+    "full_text": "مَاتَ سنة ثَلَاثِينَ وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "الْحرم",
+      "context": "lived",
+      "full_text": "أَقَامَ بِالْحرم سِنِين كَثِيرَة مجاورا"
+    },
+    {
+      "place": "الْحرم",
+      "context": "died",
+      "full_text": "وَبِه مَاتَ"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبُو عُثْمَان المغربي",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَكَانَ أَبُو عُثْمَان المغربي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا يَعْقُوب النهرجوري",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت أَبَا يَعْقُوب النهرجوري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "النهرجوري",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قَالَ وَسمعت النهرجوري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "النهرجوري",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قَالَ وَسمعت النهرجوري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "النهرجوري",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت النهرجوري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "النهرجوري",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول سَمِعت النهرجوري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "النهرجوري",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن عَليّ",
+          "person_id": 1222,
+          "canonical_name": "أحمد بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابا يَعْقُوب",
+          "person_id": 1136,
+          "canonical_name": "أبو يعقوب السوسي",
+          "has_id": 196,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت أَبَا الْحُسَيْن يَقُول سَمِعت أَحْمد بن عَليّ يَقُول سَمِعت ابا يَعْقُوب يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 321,
+          "canonical_name": "إبراهيم بن فاتك",
+          "has_id": 32,
+          "subj_added": false
+        },
+        {
+          "name": "النهرجوري",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت أَبَا الْحُسَيْن يَقُول سَمِعت إِبْرَاهِيم بن فاتك يَقُول سَمِعت النهرجوري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 321,
+          "canonical_name": "إبراهيم بن فاتك",
+          "has_id": 32,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا يَعْقُوب النهرجوري",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده قَالَ سَمِعت أَبَا يَعْقُوب النهرجوري يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 321,
+          "canonical_name": "إبراهيم بن فاتك",
+          "has_id": 32,
+          "subj_added": false
+        },
+        {
+          "name": "النهرجوري",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده قَالَ سَمِعت النهرجوري يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 321,
+          "canonical_name": "إبراهيم بن فاتك",
+          "has_id": 32,
+          "subj_added": false
+        },
+        {
+          "name": "النهرجوري",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده قَالَ سَمِعت النهرجوري يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 321,
+          "canonical_name": "إبراهيم بن فاتك",
+          "has_id": 32,
+          "subj_added": false
+        },
+        {
+          "name": "النهرجوري",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده قَالَ سَمِعت النهرجوري يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 321,
+          "canonical_name": "إبراهيم بن فاتك",
+          "has_id": 32,
+          "subj_added": false
+        },
+        {
+          "name": "النهرجوري",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ سَمِعت النهرجوري يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 321,
+          "canonical_name": "إبراهيم بن فاتك",
+          "has_id": 32,
+          "subj_added": false
+        },
+        {
+          "name": "النهرجوري",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت أَبَا الْحُسَيْن يَقُول سَمِعت إِبْرَاهِيم بن فاتك يَقُول سَمِعت النهرجوري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 321,
+          "canonical_name": "إبراهيم بن فاتك",
+          "has_id": 32,
+          "subj_added": false
+        },
+        {
+          "name": "النهرجوري",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قَالَ وَسمعت النهرجوري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 321,
+          "canonical_name": "إبراهيم بن فاتك",
+          "has_id": 32,
+          "subj_added": false
+        },
+        {
+          "name": "النهرجوري",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قَالَ وَسمعت النهرجوري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 321,
+          "canonical_name": "إبراهيم بن فاتك",
+          "has_id": 32,
+          "subj_added": false
+        },
+        {
+          "name": "النهرجوري",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت النهرجوري ينشد وَيَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 321,
+          "canonical_name": "إبراهيم بن فاتك",
+          "has_id": 32,
+          "subj_added": false
+        },
+        {
+          "name": "النهرجوري",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قَالَ وَسمعت النهرجوري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 321,
+          "canonical_name": "إبراهيم بن فاتك",
+          "has_id": 32,
+          "subj_added": false
+        },
+        {
+          "name": "النهرجوري",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قَالَ وَسمعت النهرجوري يَقُول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "الْجُنَيْد",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب الْجُنَيْد",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "عَمْرو بن عُثْمَان الْمَكِّيّ",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وَعَمْرو بن عُثْمَان الْمَكِّيّ",
+        "person_id": 2126,
+        "canonical_name": "عمرو بن عثمان المكي",
+        "has_id": 716
+      },
+      {
+        "name": "أَبا يَعْقُوب السُّوسِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وَأَبا يَعْقُوب السُّوسِي",
+        "person_id": 1136,
+        "canonical_name": "أبو يعقوب السوسي",
+        "has_id": 196
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَبُو عُثْمَان المغربي",
+      "relationship_type": "narrator",
+      "full_text": "وَكَانَ أَبُو عُثْمَان المغربي يَقُول",
+      "person_id": 942,
+      "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+      "has_id": 156
+    },
+    {
+      "name": "أَبَا بكر الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول",
+      "person_id": 449,
+      "canonical_name": "أبو الحسين علي بن هند الفارسي",
+      "has_id": 317
+    },
+    {
+      "name": "أَحْمد بن عَليّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَحْمد بن عَليّ يَقُول",
+      "person_id": 1222,
+      "canonical_name": "أحمد بن علي",
+      "has_id": NaN
+    },
+    {
+      "name": "إِبْرَاهِيم بن فاتك",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت إِبْرَاهِيم بن فاتك يَقُول",
+      "person_id": 321,
+      "canonical_name": "إبراهيم بن فاتك",
+      "has_id": 32
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "interlocutor",
+      "full_text": "قَالَ وَسمعت النهرجوري يَقُول لرجل يَا دنيء الهمة فَقَالَ لم تَقول هَذَا أَيهَا الشَّيْخ",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

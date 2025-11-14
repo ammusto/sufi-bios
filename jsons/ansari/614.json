@@ -1,0 +1,225 @@
+{
+  "bio_id": "614",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "",
+    "full_text": "شاه پس از باحفص برفته از دنیا گویند: مات بعد سنة سبعین و مائتین. وگویند. توفی قبل الثلثمائه.",
+    "certainty": "approximate"
+  },
+  "geographical_locations": [
+    {
+      "place": "کرمان",
+      "context": "nisba",
+      "full_text": "الکرمانی"
+    },
+    {
+      "place": "کرمان",
+      "context": "mentioned",
+      "full_text": "از اولاد ملوک بوده بکرمان."
+    },
+    {
+      "place": "مرو",
+      "context": "born",
+      "full_text": "گویند اصل وی از مروبود"
+    },
+    {
+      "place": "نیشاپور",
+      "context": "visited",
+      "full_text": "بنشاپور آمد"
+    },
+    {
+      "place": "نیشاپور",
+      "context": "visited",
+      "full_text": "در نشاپور"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "خواجه یحیی عمار٭",
+          "person_id": 2654,
+          "canonical_name": "يحيى عمار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1661,
+          "canonical_name": "شاه بن شجاع الكرماني",
+          "has_id": 614,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "خواجه یحیی عمار٭ گفتی ویرا:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الامام",
+          "person_id": 55,
+          "canonical_name": "الامام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1661,
+          "canonical_name": "شاه بن شجاع الكرماني",
+          "has_id": 614,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و انشدنا الامام لنفسه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شاه الکرمانی",
+          "person_id": 1661,
+          "canonical_name": "شاه بن شجاع الكرماني",
+          "has_id": 614,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال شاه الکرمانی:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "ابوتراب نخشبی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "صحبت کرده بابوتراب نخشبی و بابوعبداللّه دراع بصری و بابوعبید بسری٭",
+        "person_id": 721,
+        "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+        "has_id": 388
+      },
+      {
+        "name": "ابوعبداللّه دراع بصری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "صحبت کرده بابوتراب نخشبی و بابوعبداللّه دراع بصری و بابوعبید بسری٭",
+        "person_id": 899,
+        "canonical_name": "أبو عبد الله بن الذراع البصري",
+        "has_id": NaN
+      },
+      {
+        "name": "ابوعبید بسری٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "صحبت کرده بابوتراب نخشبی و بابوعبداللّه دراع بصری و بابوعبید بسری٭",
+        "person_id": 927,
+        "canonical_name": "أبو عبيد بسري",
+        "has_id": NaN
+      },
+      {
+        "name": "عثمن حیری٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "استاد",
+        "full_text": "استاد باعثمن حیری٭",
+        "person_id": 932,
+        "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+        "has_id": 419
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "باحفص نیشاپوری٭",
+        "relationship_type": "peer",
+        "relationship_phrase": "از رفیقان",
+        "full_text": "از رفیقان باحفص نیشاپوری٭ است",
+        "person_id": 759,
+        "canonical_name": "أبو حفص الحداد النيسابوري",
+        "has_id": 715
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "خواجه یحیی عمار٭",
+      "relationship_type": "narrator",
+      "full_text": "خواجه یحیی عمار٭ گفتی ویرا:",
+      "person_id": 2654,
+      "canonical_name": "يحيى عمار",
+      "has_id": NaN
+    },
+    {
+      "name": "الامام",
+      "relationship_type": "narrator",
+      "full_text": "و انشدنا الامام لنفسه",
+      "person_id": 55,
+      "canonical_name": "الامام",
+      "has_id": NaN
+    },
+    {
+      "name": "باحفص نیشاپوری٭",
+      "relationship_type": "interlocutor",
+      "context": "نشسته بود در نشاپور. شاه شجاع ... از وی چیزی پرسید",
+      "full_text": "روزی باحفص٭ نشسته بود در نشاپور.",
+      "person_id": 759,
+      "canonical_name": "أبو حفص الحداد النيسابوري",
+      "has_id": 715
+    },
+    {
+      "name": "درویشی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "beggar",
+      "full_text": "درویشی برپای خاست دومن نان خواست.",
+      "person_id": 1519,
+      "canonical_name": "درويش",
+      "has_id": NaN
+    },
+    {
+      "name": "فقیه",
+      "relationship_type": "questioner",
+      "full_text": "فقیه بود آنجا نشسته نزدیک وی. آنرا بنشنیدگفت: ایها الشیخ باستحقاق یا بشریعت؟",
+      "person_id": 2170,
+      "canonical_name": "فقيه",
+      "has_id": NaN
+    },
+    {
+      "name": "یحیی معاد رازی٭",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "refuted",
+      "full_text": "ویرا کتابست ردبر یحیی معاد رازی٭ بر فضل غنی بر فقر",
+      "person_id": 2650,
+      "canonical_name": "يحيى بن معاذ الرازي",
+      "has_id": 844
+    }
+  ]
+}

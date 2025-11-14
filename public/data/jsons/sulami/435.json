@@ -1,0 +1,1166 @@
+{
+  "bio_id": "435",
+  "source": "sulami",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بسطَام",
+      "context": "lived",
+      "full_text": "وَهُوَ من أهل بسطَام"
+    },
+    {
+      "place": "بسطَام",
+      "context": "nisba",
+      "full_text": "البسطامي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ",
+          "person_id": 1848,
+          "canonical_name": "عبد الله بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "طيفور بن عِيسَى الصَّغِير",
+          "person_id": 1704,
+          "canonical_name": "طيفور بن عيسى الصغير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عميا البسطامي",
+          "person_id": 2132,
+          "canonical_name": "عميا البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1091,
+          "canonical_name": "أبو موسى خادم البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "على مَا سَمِعت عبد الله بن عَليّ يَقُول سَمِعت طيفور بن عِيسَى الصَّغِير يَقُول سَمِعت عميا البسطامي يَقُول سَمِعت أبي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الْحُسَيْن بن يحيى",
+          "person_id": 132,
+          "canonical_name": "الحسين بن يحيى الشافعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت الْحُسَيْن بن يحيى يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو الْحسن مَنْصُور بن عبد الله الديمرتي",
+          "person_id": 440,
+          "canonical_name": "أبو الحسن منصور بن عبد الله الديمرتي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عَمْرو عُثْمَان بن جحدة بن درامهم الكازروني",
+          "person_id": 1020,
+          "canonical_name": "أبو عمرو عثمان بن جحدة بن درامهم الكازروني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْفَتْح أَحْمد بن الْحسن بن مُحَمَّد بن سهل الْمصْرِيّ الْمَعْرُوف بِابْن الْحِمصِي الْوَاعِظ بِالْبَصْرَةِ",
+          "person_id": 513,
+          "canonical_name": "أبو الفتح أحمد بن الحسن بن محمد بن سهل المصري المعروف بابن الحمصي الواعظ بالبصرة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن جَعْفَر الْبَغْدَادِيّ",
+          "person_id": 2026,
+          "canonical_name": "علي بن جعفر البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو مُوسَى الديبلي",
+          "person_id": 1088,
+          "canonical_name": "أبو موسى الديبلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو يزِيد البسطامي",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عبد الرَّحْمَن السّديّ",
+          "person_id": 846,
+          "canonical_name": "أبو عبد الرحمن السندى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَمْرو بن قيس الْملَائي",
+          "person_id": 2127,
+          "canonical_name": "عمرو بن قيس الملائي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَطِيَّة الْعَوْفِيّ",
+          "person_id": 1971,
+          "canonical_name": "عطية العوفي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو سعيد الْخُدْرِيّ",
+          "person_id": 800,
+          "canonical_name": "أبو سعيد الخدري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "رَسُول الله صلى الله عَلَيْهِ وَسلم",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا أَبُو الْحسن مَنْصُور بن عبد الله الديمرتي بِبَغْدَاد قَالَ سَأَلَ أَبُو عَمْرو عُثْمَان بن جحدة بن درامهم الكازروني بهَا قَالَ أخبرنَا أَبُو الْفَتْح أَحْمد بن الْحسن بن مُحَمَّد بن سهل الْمصْرِيّ الْمَعْرُوف بِابْن الْحِمصِي الْوَاعِظ بِالْبَصْرَةِ قَالَ حَدثنَا عَليّ بن جَعْفَر الْبَغْدَادِيّ قَالَ قَالَ أَبُو مُوسَى الديبلي حَدثنَا أَبُو يزِيد البسطامي حَدثنَا أَبُو عبد الرَّحْمَن السّديّ عَن عَمْرو بن قيس الْملَائي عَن عَطِيَّة الْعَوْفِيّ عَن أبي سعيد الْخُدْرِيّ قَالَ قَالَ رَسُول الله صلى الله عَلَيْهِ وَسلم",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الْحسن بن عَليّ بن حيويه الدَّامغَانِي",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو يزِيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت الْحسن بن عَليّ بن حيويه الدَّامغَانِي يَقُول سَمِعت الْحسن بن عُلْوِيَّهُ يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الْحسن بن عَليّ بن حيويه الدَّامغَانِي",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو يزِيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ سُئِلَ أَبُو يزِيد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "الْحسن بن عَليّ بن حيويه الدَّامغَانِي",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو يزِيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو يزِيد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "الْحسن بن عَليّ بن حيويه الدَّامغَانِي",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو يزِيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ أَبُو يزِيد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "الْحسن بن عَليّ بن حيويه الدَّامغَانِي",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو يزِيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو يزِيد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "الْحسن بن عَليّ بن حيويه الدَّامغَانِي",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو يزِيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو يزِيد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عمرَان مُوسَى بن عِيسَى الْمَعْرُوف بعمي",
+          "person_id": 1004,
+          "canonical_name": "أبو عمران موسى بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1091,
+          "canonical_name": "أبو موسى خادم البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول سَمِعت أَبَا عمرَان مُوسَى بن عِيسَى الْمَعْرُوف بعمي يَقُول سَمِعت أبي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عمرَان مُوسَى بن عِيسَى الْمَعْرُوف بعمي",
+          "person_id": 1004,
+          "canonical_name": "أبو عمران موسى بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1091,
+          "canonical_name": "أبو موسى خادم البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو يزِيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو يزِيد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عمرَان مُوسَى بن عِيسَى الْمَعْرُوف بعمي",
+          "person_id": 1004,
+          "canonical_name": "أبو عمران موسى بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1091,
+          "canonical_name": "أبو موسى خادم البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو يزِيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو يزِيد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عمرَان مُوسَى بن عِيسَى الْمَعْرُوف بعمي",
+          "person_id": 1004,
+          "canonical_name": "أبو عمران موسى بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1091,
+          "canonical_name": "أبو موسى خادم البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو يزِيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو يزِيد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَمْرو مُحَمَّد بن أَحْمد بن حمدَان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 583,
+          "canonical_name": "أبو أبي عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان سعيد بن إِسْمَاعِيل",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو يزِيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا عَمْرو مُحَمَّد بن أَحْمد بن حمدَان يَقُول وجدت بِخَط أبي سَمِعت أَبَا عُثْمَان سعيد بن إِسْمَاعِيل يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَمْرو مُحَمَّد بن أَحْمد بن حمدَان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1091,
+          "canonical_name": "أبو موسى خادم البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان سعيد بن إِسْمَاعِيل",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو يزِيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو يزِيد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَمْرو مُحَمَّد بن أَحْمد بن حمدَان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1091,
+          "canonical_name": "أبو موسى خادم البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان سعيد بن إِسْمَاعِيل",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو يزِيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو يزِيد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَمْرو مُحَمَّد بن أَحْمد بن حمدَان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1091,
+          "canonical_name": "أبو موسى خادم البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان سعيد بن إِسْمَاعِيل",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو يزِيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ سُئِلَ أَبُو يزِيد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر الْهَرَوِيّ",
+          "person_id": 1101,
+          "canonical_name": "أبو نصر الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يَعْقُوب بن إِسْحَاق",
+          "person_id": 2663,
+          "canonical_name": "يعقوب بن إسحاق الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الْهَرَوِيّ",
+          "person_id": 289,
+          "canonical_name": "إبراهيم الهروي",
+          "has_id": 271,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا يزِيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا نصر الْهَرَوِيّ يَقُول سَمِعت يَعْقُوب بن إِسْحَاق يَقُول سَمِعت إِبْرَاهِيم الْهَرَوِيّ يَقُول سَمِعت أَبَا يزِيد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر الْهَرَوِيّ",
+          "person_id": 1101,
+          "canonical_name": "أبو نصر الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يَعْقُوب بن إِسْحَاق",
+          "person_id": 2663,
+          "canonical_name": "يعقوب بن إسحاق الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الْهَرَوِيّ",
+          "person_id": 289,
+          "canonical_name": "إبراهيم الهروي",
+          "has_id": 271,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا يزِيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ سَمِعت أَبَا يزِيد يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر الْهَرَوِيّ",
+          "person_id": 1101,
+          "canonical_name": "أبو نصر الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يَعْقُوب بن إِسْحَاق",
+          "person_id": 2663,
+          "canonical_name": "يعقوب بن إسحاق الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الْهَرَوِيّ",
+          "person_id": 289,
+          "canonical_name": "إبراهيم الهروي",
+          "has_id": 271,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا يزِيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو يزِيد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يَعْقُوب بن إِسْحَاق",
+          "person_id": 2663,
+          "canonical_name": "يعقوب بن إسحاق الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الْهَرَوِيّ",
+          "person_id": 289,
+          "canonical_name": "إبراهيم الهروي",
+          "has_id": 271,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا يزِيد البسطامي",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول سَمِعت يَعْقُوب بن إِسْحَاق يَقُول سَمِعت إِبْرَاهِيم الْهَرَوِيّ يَقُول سَمِعت أَبَا يزِيد البسطامي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يَعْقُوب بن إِسْحَاق",
+          "person_id": 2663,
+          "canonical_name": "يعقوب بن إسحاق الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الْهَرَوِيّ",
+          "person_id": 289,
+          "canonical_name": "إبراهيم الهروي",
+          "has_id": 271,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا يزِيد البسطامي",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو يزِيد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يَعْقُوب بن إِسْحَاق",
+          "person_id": 2663,
+          "canonical_name": "يعقوب بن إسحاق الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الْهَرَوِيّ",
+          "person_id": 289,
+          "canonical_name": "إبراهيم الهروي",
+          "has_id": 271,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا يزِيد البسطامي",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو يزِيد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفرج الورثاني عبد الْوَاحِد بن بكر",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن إِبْرَاهِيم الدَّامغَانِي",
+          "person_id": 77,
+          "canonical_name": "الحسن بن إبراهيم الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُوسَى بن عِيسَى",
+          "person_id": 1004,
+          "canonical_name": "أبو عمران موسى بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1091,
+          "canonical_name": "أبو موسى خادم البسطامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا يزِيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْفرج الورثاني عبد الْوَاحِد بن بكر يَقُول قَالَ الْحسن بن إِبْرَاهِيم الدَّامغَانِي حَدثنَا مُوسَى بن عِيسَى قَالَ سَمِعت أبي يَقُول سَمِعت أَبَا يزِيد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن عَليّ بن مُحَمَّد الْقزْوِينِي الصُّوفِي",
+          "person_id": 433,
+          "canonical_name": "أبو الحسن علي بن محمد القزويني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الطّيب العكي",
+          "person_id": 481,
+          "canonical_name": "أبو الطيب العكي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن الْأَنْبَارِي",
+          "person_id": 3,
+          "canonical_name": "ابن ظبيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بعض تلامذة أبي يزِيد",
+          "person_id": 1340,
+          "canonical_name": "بعض تلامذة أبي يزيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو يزِيد البسطامي",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحسن عَليّ بن مُحَمَّد الْقزْوِينِي الصُّوفِي يَقُول سَمِعت أَبَا الطّيب العكي يَقُول سَمِعت ابْن الْأَنْبَارِي يَقُول قَالَ بعض تلامذة أبي يزِيد قَالَ لي أَبُو يزِيد البسطامي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن بكر",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "القناد",
+          "person_id": 216,
+          "canonical_name": "القناد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو مُوسَى الديبلي",
+          "person_id": 1088,
+          "canonical_name": "أبو موسى الديبلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا يزِيد البسطامي",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الْوَاحِد بن بكر يَقُول سَمِعت القناد يَقُول قَالَ أَبُو مُوسَى الديبلي سَمِعت أَبَا يزِيد البسطامي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن عَليّ بن جَعْفَر",
+          "person_id": 1226,
+          "canonical_name": "أحمد بن علي بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو يزِيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَحْمد بن عَليّ بن جَعْفَر يَقُول سَمِعت الْحسن بن عُلْوِيَّهُ يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو يزِيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحسن الْفَارِسِي يَقُول سَمِعت الْحسن بن عُلْوِيَّهُ يَقُول سُئِلَ أَبُو يزِيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو يزِيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده قَالَ أَبُو يزِيد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو يزِيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده قَالَ أَبُو يزِيد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو يزِيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده قَالَ سُئِلَ أَبُو يزِيد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو يزِيد",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده قَالَ أَبُو يزِيد",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أبي يَقُول",
+      "person_id": 580,
+      "canonical_name": "أبو أبي عبد الرحمن السلمي",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبُو مُوسَى الديبلي",
+      "relationship_type": "narrator",
+      "full_text": "قَالَ أَبُو مُوسَى الديبلي سَمِعت أَبَا يزِيد البسطامي يَقُول",
+      "person_id": 1088,
+      "canonical_name": "أبو موسى الديبلي",
+      "has_id": NaN
+    },
+    {
+      "name": "الْحسن بن عُلْوِيَّهُ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت الْحسن بن عُلْوِيَّهُ يَقُول",
+      "person_id": 92,
+      "canonical_name": "الحسن بن علوية الدامغاني",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا عُثْمَان سعيد بن إِسْمَاعِيل",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا عُثْمَان سعيد بن إِسْمَاعِيل يَقُول",
+      "person_id": 932,
+      "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+      "has_id": 419
+    },
+    {
+      "name": "إِبْرَاهِيم الْهَرَوِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت إِبْرَاهِيم الْهَرَوِيّ يَقُول",
+      "person_id": 289,
+      "canonical_name": "إبراهيم الهروي",
+      "has_id": 271
+    },
+    {
+      "name": "بعض تلامذة أبي يزِيد",
+      "relationship_type": "narrator",
+      "full_text": "قَالَ بعض تلامذة أبي يزِيد",
+      "person_id": 1340,
+      "canonical_name": "بعض تلامذة أبي يزيد",
+      "has_id": NaN
+    }
+  ]
+}

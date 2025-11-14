@@ -1,0 +1,270 @@
+{
+  "bio_id": "415",
+  "source": "sulami",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "البصرة",
+      "context": "lived",
+      "full_text": "كَانَ من أهل الْبَصْرَة"
+    },
+    {
+      "place": "السوس",
+      "context": "visited",
+      "full_text": "فَخرج إِلَى السوس"
+    },
+    {
+      "place": "السوس",
+      "context": "died",
+      "full_text": "فَمَاتَ بهَا وَبهَا قَبره"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفَتْح القواس",
+          "person_id": 517,
+          "canonical_name": "أبو الفتح يوسف بن عمر بن مسرور القواس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عبد الله الصبيحي",
+          "person_id": 874,
+          "canonical_name": "أبو عبد الله الصبيحي",
+          "has_id": 415,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْفَتْح القواس يَقُول قَالَ أَبُو عبد الله الصبيحي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفَتْح القواس",
+          "person_id": 517,
+          "canonical_name": "أبو الفتح يوسف بن عمر بن مسرور القواس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عبد الله الصبيحي",
+          "person_id": 874,
+          "canonical_name": "أبو عبد الله الصبيحي",
+          "has_id": 415,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد سَمِعت الصبيحي",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفَتْح القواس",
+          "person_id": 517,
+          "canonical_name": "أبو الفتح يوسف بن عمر بن مسرور القواس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عبد الله الصبيحي",
+          "person_id": 874,
+          "canonical_name": "أبو عبد الله الصبيحي",
+          "has_id": 415,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَبُو عبد الله الصبيحي",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفَتْح القواس",
+          "person_id": 517,
+          "canonical_name": "أبو الفتح يوسف بن عمر بن مسرور القواس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله الصبيحي",
+          "person_id": 874,
+          "canonical_name": "أبو عبد الله الصبيحي",
+          "has_id": 415,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْفَتْح القواس يَقُول سَمِعت أَبَا عبد الله الصبيحي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفَتْح القواس",
+          "person_id": 517,
+          "canonical_name": "أبو الفتح يوسف بن عمر بن مسرور القواس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله الصبيحي",
+          "person_id": 874,
+          "canonical_name": "أبو عبد الله الصبيحي",
+          "has_id": 415,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد سَمِعت أَبَا عبد الله الصبيحي يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفَتْح القواس",
+          "person_id": 517,
+          "canonical_name": "أبو الفتح يوسف بن عمر بن مسرور القواس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله الصبيحي",
+          "person_id": 874,
+          "canonical_name": "أبو عبد الله الصبيحي",
+          "has_id": 415,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد سَمِعت أَبَا عبد الله الصبيحي يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفَتْح القواس",
+          "person_id": 517,
+          "canonical_name": "أبو الفتح يوسف بن عمر بن مسرور القواس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله الصبيحي",
+          "person_id": 874,
+          "canonical_name": "أبو عبد الله الصبيحي",
+          "has_id": 415,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد سَمِعت أَبَا عبد الله الصبيحي يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفَتْح القواس",
+          "person_id": 517,
+          "canonical_name": "أبو الفتح يوسف بن عمر بن مسرور القواس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله الصبيحي",
+          "person_id": 874,
+          "canonical_name": "أبو عبد الله الصبيحي",
+          "has_id": 415,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد سَمِعت أَبَا عبد الله الصبيحي يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفَتْح القواس",
+          "person_id": 517,
+          "canonical_name": "أبو الفتح يوسف بن عمر بن مسرور القواس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله الصبيحي",
+          "person_id": 874,
+          "canonical_name": "أبو عبد الله الصبيحي",
+          "has_id": 415,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد سَمِعت أَبَا عبد الله الصبيحي مرّة أُخْرَى يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفَتْح القواس",
+          "person_id": 517,
+          "canonical_name": "أبو الفتح يوسف بن عمر بن مسرور القواس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله الصبيحي",
+          "person_id": 874,
+          "canonical_name": "أبو عبد الله الصبيحي",
+          "has_id": 415,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد سَمِعت أَبَا عبد الله الصبيحي يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفَتْح القواس",
+          "person_id": 517,
+          "canonical_name": "أبو الفتح يوسف بن عمر بن مسرور القواس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله الصبيحي",
+          "person_id": 874,
+          "canonical_name": "أبو عبد الله الصبيحي",
+          "has_id": 415,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد سَمِعت أَبَا عبد الله الصبيحي يَقُول",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أَبَا الْفَتْح القواس",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْفَتْح القواس يَقُول",
+      "person_id": 517,
+      "canonical_name": "أبو الفتح يوسف بن عمر بن مسرور القواس",
+      "has_id": NaN
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "bio_id": "686",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بصره",
+      "context": "lived",
+      "full_text": "از زهاد بصره است"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "سباع موصلی",
+          "person_id": 1586,
+          "canonical_name": "سباع الموصلي",
+          "has_id": 588,
+          "subj_added": false
+        },
+        {
+          "name": "داود",
+          "person_id": 1511,
+          "canonical_name": "داود",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که سباع موصلی گوید: کی داود گفت ﷷ:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وگفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "خالد معدان",
+          "person_id": 1495,
+          "canonical_name": "خالد معدان",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی خالد معدان گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بورجا عطاردی",
+          "person_id": 781,
+          "canonical_name": "أبو رجاء العطاردي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بورجا عطاردی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوطیب خراشی",
+          "person_id": 480,
+          "canonical_name": "أبو الطيب الخراشي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بوطیب خراشی گفته عکی باندلس،",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "اسماعیل عباد",
+          "person_id": 50,
+          "canonical_name": "اسماعيل عباد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت، که اسماعیل عبادگفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "سباع موصلی",
+      "relationship_type": "narrator",
+      "full_text": "سباع موصلی گوید:",
+      "person_id": 1586,
+      "canonical_name": "سباع الموصلي",
+      "has_id": 588
+    },
+    {
+      "name": "داود",
+      "relationship_type": "narrator",
+      "full_text": "داود گفت ﷷ:",
+      "person_id": 1511,
+      "canonical_name": "داود",
+      "has_id": NaN
+    },
+    {
+      "name": "خالد معدان",
+      "relationship_type": "narrator",
+      "full_text": "خالد معدان گوید:",
+      "person_id": 1495,
+      "canonical_name": "خالد معدان",
+      "has_id": NaN
+    },
+    {
+      "name": "بومعشر معروف بن احمد الزاهد",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "کی وقتی بومعشر معروف بن احمد الزاهد مات سنه اربع و سبعین فی ربیع الاول بباشان در مسجد بود",
+      "person_id": 1083,
+      "canonical_name": "أبو معشر معروف بن أحمد الزاهد",
+      "has_id": NaN
+    },
+    {
+      "name": "جعفر فقیه",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "با جعفر فقیه و بزرگان متفق شدندکه وی خضر بود ﷷ.",
+      "person_id": 1411,
+      "canonical_name": "جعفر فقيه",
+      "has_id": NaN
+    },
+    {
+      "name": "خضر",
+      "relationship_type": "interlocutor",
+      "full_text": "خضرگفت با موسیﷷ ، چون از وی بازگشتگفت: دل بیرایه است نگراز چه پر میکنی؟",
+      "person_id": 145,
+      "canonical_name": "الخضر",
+      "has_id": NaN
+    },
+    {
+      "name": "موسیﷷ",
+      "relationship_type": "interlocutor",
+      "full_text": "خضرگفت با موسیﷷ ، چون از وی بازگشتگفت: دل بیرایه است نگراز چه پر میکنی؟",
+      "person_id": 2567,
+      "canonical_name": "موسي",
+      "has_id": NaN
+    },
+    {
+      "name": "بورجا عطاردی",
+      "relationship_type": "narrator",
+      "full_text": "بورجا عطاردی گفت:",
+      "person_id": 781,
+      "canonical_name": "أبو رجاء العطاردي",
+      "has_id": NaN
+    },
+    {
+      "name": "ابراهیم",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "کی ابراهیم را به آتش انداختند",
+      "person_id": 270,
+      "canonical_name": "إبراهيم",
+      "has_id": NaN
+    },
+    {
+      "name": "بوطیب خراشی",
+      "relationship_type": "narrator",
+      "full_text": "بوطیب خراشی گفته عکی باندلس،",
+      "person_id": 480,
+      "canonical_name": "أبو الطيب الخراشي",
+      "has_id": NaN
+    },
+    {
+      "name": "اسماعیل عباد",
+      "relationship_type": "narrator",
+      "full_text": "اسماعیل عبادگفت:",
+      "person_id": 50,
+      "canonical_name": "اسماعيل عباد",
+      "has_id": NaN
+    }
+  ]
+}

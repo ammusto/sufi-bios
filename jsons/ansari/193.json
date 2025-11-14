@@ -1,0 +1,185 @@
+{
+  "bio_id": "193",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "مکه",
+      "context": "visited",
+      "full_text": "وی بمکه بود."
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که وی بمکه بود.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعبداللهّ خفیف٭",
+          "person_id": 22,
+          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 26,
+          "subj_added": false
+        },
+        {
+          "name": "بوالحسن مزین٭",
+          "person_id": 408,
+          "canonical_name": "أبو الحسن المزين",
+          "has_id": 295,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "بوعبداللهّ خفیف٭ گوید: کی بوالحسن مزین٭ گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که پردهٔ عزت اوی او ایذ، که او خود ار ایذ و تو تو.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالحسن مزین",
+          "person_id": 408,
+          "canonical_name": "أبو الحسن المزين",
+          "has_id": 295,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوالحسن مزین بروزگار میگفت: که کرای چون من آمدم، که شهادت بر سیدی دوست از آن او میعرضه کردم.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوعبداللّه خفیف",
+          "person_id": 22,
+          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 26,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و شیخ بوعبداللّه خفیف میگفت: که مرد درالوهیه میبسوخت، ورای پردهٔ عزت آمدند شهادت بر وی عرضه میکردند.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که از بایعقوب مذکوری پرسیدند: کی توکل چیست؟ گفت: ترک اختیار.",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "الجنید",
+        "relationship_type": "peer",
+        "relationship_phrase": "کاتب الجنید وراسله",
+        "full_text": "کاتب الجنید وراسله.",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت: که وی بمکه بود.",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "بوعبداللهّ خفیف٭",
+      "relationship_type": "narrator",
+      "full_text": "بوعبداللهّ خفیف٭ گوید: کی بوالحسن مزین٭ گفت:",
+      "person_id": 22,
+      "canonical_name": "أبو عبد الله بن خفيف",
+      "has_id": 26
+    },
+    {
+      "name": "بوالحسن مزین٭",
+      "relationship_type": "direct_narrator",
+      "full_text": "بوالحسن مزین٭ گفت: در مکه شدم، با یعقوب اقطع در حال رفتن بود از دنیا",
+      "person_id": 408,
+      "canonical_name": "أبو الحسن المزين",
+      "has_id": 295
+    },
+    {
+      "name": "شیخ بوعبداللهّ طافی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "محتضر بود؛ یکی شهادت بروی عرضه کرد؛ وی گفت: خاموش!",
+      "full_text": "شیخ بوعبداللهّ طافی محتضر بود، یکی شهادت بروی عرضه کرد، وی گفت: خاموش! قومی بیادبان بیحرمتان آمدهاند، و شهادت بر دوستی از آن او عرضه کنند، تو آن خود گوی، من آن خود گفتهام. توفنی مسلماً والحقنی بالصالحین.",
+      "person_id": 876,
+      "canonical_name": "أبو عبد الله الطافي",
+      "has_id": NaN
+    },
+    {
+      "name": "پیری از مشایخ",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "شهادت عرضه کردند؛ تلقین کرد تا همه شهادت بگفتند",
+      "full_text": "وقتی قومی بر پیری از مشایخ شهادت عرضه کردند، وی از آن غیرت برجست و شهادت بر یک یک عرضه میکرد، و تلقین میکرد، تا همه شهادت بگفتند، و سرباز نهاد و جان بداد.",
+      "person_id": 1680,
+      "canonical_name": "شيج",
+      "has_id": NaN
+    },
+    {
+      "name": "سهل تستری ٭",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "respondent to 'توکل چیست؟'",
+      "full_text": "و از سهل تستری ٭ پرسیدندگفت: تبری از توان خود",
+      "person_id": 1639,
+      "canonical_name": "سهل بن عبد الله التستري",
+      "has_id": 605
+    },
+    {
+      "name": "حلاج٭",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "respondent to 'توکل چیست؟'",
+      "full_text": "و از حلاج٭ پرسیدندگفت: دیدن مسبب.",
+      "person_id": 127,
+      "canonical_name": "الحسين بن منصور الحلاج",
+      "has_id": 232
+    },
+    {
+      "name": "فتح موصلی٭",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "respondent to 'توکل چیست؟'",
+      "full_text": "و از فتح موصلی٭ پرسیدند، گفت: ملال از سبب.",
+      "person_id": 2165,
+      "canonical_name": "فتح الموصلي",
+      "has_id": 728
+    },
+    {
+      "name": "شقیق بلخی٭",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "respondent to 'توکل چیست؟'",
+      "full_text": "و از شقیق بلخی٭ پرسیدندگفت: دیدار در عجز فرق.",
+      "person_id": 980,
+      "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+      "has_id": 622
+    },
+    {
+      "name": "شبلی٭",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "respondent to 'توکل چیست؟'",
+      "full_text": "و از شبلی٭ پرسیدند کی توکل چیست؟ گفت: در دیدار دل فراموش کردن همه کس.",
+      "person_id": 628,
+      "canonical_name": "أبو بكر الشبلي",
+      "has_id": 376
+    }
+  ]
+}

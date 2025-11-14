@@ -1,0 +1,1021 @@
+{
+  "bio_id": "524",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "271",
+    "full_text": "توفّي أَبُو صَالح حمدون سنة إِحْدَى وَسبعين وَمِائَتَيْنِ بنيسابور وَدفن فِي مَقْبرَة الْحيرَة وَأسْندَ الحَدِيث",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "نيسابور",
+      "context": "nisba",
+      "full_text": "النَّيْسَابُورِي"
+    },
+    {
+      "place": "نيسابور",
+      "context": "died",
+      "full_text": "بنيسابور"
+    },
+    {
+      "place": "مَقْبرَة الْحيرَة",
+      "context": "mentioned",
+      "full_text": "دفن فِي مَقْبرَة الْحيرَة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبي ﵀",
+          "person_id": 580,
+          "canonical_name": "أبو أبي عبد الرحمن السلمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون بن أَحْمد الْقصار",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الزراد",
+          "person_id": 281,
+          "canonical_name": "إبراهيم الزراد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن نمير",
+          "person_id": 36,
+          "canonical_name": "ابن نمير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْأَعْمَش",
+          "person_id": 59,
+          "canonical_name": "الأعمش",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن عبد الله",
+          "person_id": 1601,
+          "canonical_name": "سعيد بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي بَرزَة الْأَسْلَمِيّ",
+          "person_id": 607,
+          "canonical_name": "أبو برزة الأسلمي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حَدثنَا أبي ﵀ قَالَ حَدثنَا عبد الله بن مُحَمَّد بن منَازِل حَدثنَا حمدون بن أَحْمد الْقصار حَدثنَا إِبْرَاهِيم الزراد حَدثنَا ابْن نمير عَن الْأَعْمَش عَن سعيد بن عبد الله عَن أبي بَرزَة الْأَسْلَمِيّ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد الْفراء",
+          "person_id": 698,
+          "canonical_name": "أبو بكر محمد بن أحمد بن حمدون الفراء",
+          "has_id": 385,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّد بن أَحْمد الْفراء يَقُول سَمِعت عبد الله بن مُحَمَّد بن منَازِل يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد الْفراء",
+          "person_id": 698,
+          "canonical_name": "أبو بكر محمد بن أحمد بن حمدون الفراء",
+          "has_id": 385,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقيل لحمدون",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد الْفراء",
+          "person_id": 698,
+          "canonical_name": "أبو بكر محمد بن أحمد بن حمدون الفراء",
+          "has_id": 385,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ حمدون",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد الْفراء",
+          "person_id": 698,
+          "canonical_name": "أبو بكر محمد بن أحمد بن حمدون الفراء",
+          "has_id": 385,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَتَكَلَّمُوا يَوْمًا بَين يَدي أبي صَالح حمدون فِي حفظ الْأَمَانَات فَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد الْفراء",
+          "person_id": 698,
+          "canonical_name": "أبو بكر محمد بن أحمد بن حمدون الفراء",
+          "has_id": 385,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ لَهُ رجل من أَصْحَابه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد الْفراء",
+          "person_id": 698,
+          "canonical_name": "أبو بكر محمد بن أحمد بن حمدون الفراء",
+          "has_id": 385,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسَأَلَهُ يَوْمًا أَبُو الْقَاسِم الْمُنَادِي",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد الْفراء",
+          "person_id": 698,
+          "canonical_name": "أبو بكر محمد بن أحمد بن حمدون الفراء",
+          "has_id": 385,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله الْحجام",
+          "person_id": 1789,
+          "canonical_name": "عبد الله الحجام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت مُحَمَّد بن أَحْمد الْفراء يَقُول سَمِعت عبد الله الْحجام يَقُول سَمِعت حمدون يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد الْفراء",
+          "person_id": 698,
+          "canonical_name": "أبو بكر محمد بن أحمد بن حمدون الفراء",
+          "has_id": 385,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله الْحجام",
+          "person_id": 1789,
+          "canonical_name": "عبد الله الحجام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ عبد الله قَالَ حمدون",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد الْفراء",
+          "person_id": 698,
+          "canonical_name": "أبو بكر محمد بن أحمد بن حمدون الفراء",
+          "has_id": 385,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد بن منَازِل",
+          "person_id": 2319,
+          "canonical_name": "محمد بن أحمد بن منازل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي صَالح حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت مُحَمَّد بن أَحْمد الْفراء يَقُول سَمِعت مُحَمَّد بن أَحْمد بن منَازِل يَقُول قلت لأبي صَالح حمدون أوصني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد الْفراء",
+          "person_id": 698,
+          "canonical_name": "أبو بكر محمد بن أحمد بن حمدون الفراء",
+          "has_id": 385,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد بن منَازِل",
+          "person_id": 2319,
+          "canonical_name": "محمد بن أحمد بن منازل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي صَالح حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ حمدون",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد الْفراء",
+          "person_id": 698,
+          "canonical_name": "أبو بكر محمد بن أحمد بن حمدون الفراء",
+          "has_id": 385,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد بن منَازِل",
+          "person_id": 2319,
+          "canonical_name": "محمد بن أحمد بن منازل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي صَالح حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ حمدون",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد الْفراء",
+          "person_id": 698,
+          "canonical_name": "أبو بكر محمد بن أحمد بن حمدون الفراء",
+          "has_id": 385,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد بن منَازِل",
+          "person_id": 2319,
+          "canonical_name": "محمد بن أحمد بن منازل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي صَالح حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ رجل لحمدون أوصني",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد الْفراء",
+          "person_id": 698,
+          "canonical_name": "أبو بكر محمد بن أحمد بن حمدون الفراء",
+          "has_id": 385,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد بن منَازِل",
+          "person_id": 2319,
+          "canonical_name": "محمد بن أحمد بن منازل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي صَالح حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ حمدون",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه الْمعلم",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد ابْن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الله بن مُحَمَّد بن فضلويه الْمعلم يَقُول سَمِعت عبد الله بن مُحَمَّد ابْن منَازِل يَقُول سَمِعت حمدون يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه الْمعلم",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد ابْن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ حمدون",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه الْمعلم",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد ابْن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ لأَصْحَابه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه الْمعلم",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد ابْن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ حمدون",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه الْمعلم",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد ابْن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ حمدون",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه الْمعلم",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد ابْن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ حمدون",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه الْمعلم",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد ابْن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ حمدون عَن الزّهْد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه الْمعلم",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد ابْن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ حمدون",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه الْمعلم",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد ابْن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ حمدون",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه الْمعلم",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد ابْن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ حمدون",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه الْمعلم",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد ابْن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ حمدون",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه الْمعلم",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد ابْن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ حمدون",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه الْمعلم",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد ابْن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ حمدون",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه الْمعلم",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد ابْن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ حمدون",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد التَّمِيمِي",
+          "person_id": 2295,
+          "canonical_name": "محمد بن أحمد التميمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن حمدون",
+          "person_id": 1189,
+          "canonical_name": "أحمد بن حمدون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 593,
+          "canonical_name": "أبو أحمد بن حمدان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّد بن أَحْمد التَّمِيمِي يَقُول سَمِعت أَحْمد بن حمدون يَقُول سَمِعت أبي وَسُئِلَ عَن طَرِيق الْمَلَامَة يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد التَّمِيمِي",
+          "person_id": 2295,
+          "canonical_name": "محمد بن أحمد التميمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن حمدون",
+          "person_id": 1189,
+          "canonical_name": "أحمد بن حمدون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 593,
+          "canonical_name": "أبو أحمد بن حمدان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ حمدون",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [
+      {
+        "name": "عبد الله بن مُحَمَّد بن منَازِل",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "كأخذ ... عَنهُ",
+        "full_text": "وَلم يَأْخُذ عَنهُ طَرِيقَته أحد من أَصْحَابه كأخذ عبد الله بن مُحَمَّد بن منَازِل صَاحبه عَنهُ",
+        "person_id": 1065,
+        "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+        "has_id": 654
+      }
+    ],
+    "companions": [
+      {
+        "name": "سلم بن الْحسن الباروسي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب سلم بن الْحسن الباروسي",
+        "person_id": 423,
+        "canonical_name": "أبو الحسن سلم بن الحسن الباروسي",
+        "has_id": 291
+      },
+      {
+        "name": "أَبا تُرَاب النخشبي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب ... وَأَبا تُرَاب النخشبي",
+        "person_id": 721,
+        "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+        "has_id": 388
+      },
+      {
+        "name": "عليا النصراباذي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب ... وعليا النصراباذي",
+        "person_id": 1990,
+        "canonical_name": "علي النصراباذي",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "عبد الله بن مُحَمَّد بن منَازِل",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مُحَمَّد بن أَحْمد الْفراء يَقُول سَمِعت عبد الله بن مُحَمَّد بن منَازِل يَقُول",
+      "person_id": 1065,
+      "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+      "has_id": 654
+    },
+    {
+      "name": "عبد الله الْحجام",
+      "relationship_type": "narrator",
+      "full_text": "وَسمعت مُحَمَّد بن أَحْمد الْفراء يَقُول سَمِعت عبد الله الْحجام يَقُول",
+      "person_id": 1789,
+      "canonical_name": "عبد الله الحجام",
+      "has_id": NaN
+    },
+    {
+      "name": "مُحَمَّد بن أَحْمد بن منَازِل",
+      "relationship_type": "narrator",
+      "full_text": "وَسمعت مُحَمَّد بن أَحْمد الْفراء يَقُول سَمِعت مُحَمَّد بن أَحْمد بن منَازِل يَقُول",
+      "person_id": 2319,
+      "canonical_name": "محمد بن أحمد بن منازل",
+      "has_id": NaN
+    },
+    {
+      "name": "أَحْمد بن حمدون",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مُحَمَّد بن أَحْمد التَّمِيمِي يَقُول سَمِعت أَحْمد بن حمدون يَقُول",
+      "person_id": 1189,
+      "canonical_name": "أحمد بن حمدون",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل من أَصْحَابه",
+      "relationship_type": "questioner",
+      "context": "questioner",
+      "full_text": "قَالَ وَقَالَ لَهُ رجل من أَصْحَابه كَيفَ أعمل لَا بُد لي من مُعَاملَة هَؤُلَاءِ الْجند فَمَاذَا ترى لي",
+      "person_id": 1539,
+      "canonical_name": "رجل من أصحابه",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبُو الْقَاسِم الْمُنَادِي",
+      "relationship_type": "questioner",
+      "context": "questioner",
+      "full_text": "قَالَ وَسَأَلَهُ يَوْمًا أَبُو الْقَاسِم الْمُنَادِي عَن مَسْأَلَة",
+      "person_id": 542,
+      "canonical_name": "أبو القاسم المنادي",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "context": "questioner",
+      "full_text": "قَالَ وَقَالَ رجل لحمدون أوصني بِوَصِيَّة",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

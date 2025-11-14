@@ -1,0 +1,122 @@
+{
+  "bio_id": "631",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "مکه",
+      "context": "lived",
+      "full_text": "بمکه شیخ بوده"
+    },
+    {
+      "place": "شام",
+      "context": "died",
+      "full_text": "بشام بمرد"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حبیب عجمی",
+          "person_id": 1434,
+          "canonical_name": "حبيب عجمي",
+          "has_id": 509,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که حبیب عجمی گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حبیب عجمی",
+          "person_id": 1434,
+          "canonical_name": "حبيب عجمي",
+          "has_id": 509,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ",
+          "person_id": 1681,
+          "canonical_name": "عبد الرحمن الصابوني",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ با عبدالرحمن صابونی این بشنید زیادت کرد گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که،",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "عبدالرحمن صابونی",
+        "relationship_type": "peer",
+        "relationship_phrase": "با",
+        "full_text": "شیخ با عبدالرحمن صابونی این بشنید",
+        "person_id": 1681,
+        "canonical_name": "عبد الرحمن الصابوني",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت: که",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "حبیب عجمی",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "حبیب عجمی گفت: درین آیت، واذکر عبدنا ایوب. گفت: یعطی ویثنی.",
+      "person_id": 1434,
+      "canonical_name": "حبيب عجمي",
+      "has_id": 509
+    },
+    {
+      "name": "محمد",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "محمد با معتز بوده از هری مرد صاحب ادب بوده و علم",
+      "person_id": 2214,
+      "canonical_name": "محمد",
+      "has_id": NaN
+    },
+    {
+      "name": "معتز",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "محمد با معتز بوده",
+      "person_id": 1080,
+      "canonical_name": "أبو معتز",
+      "has_id": 766
+    }
+  ]
+}

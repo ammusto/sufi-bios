@@ -1,0 +1,2472 @@
+{
+  "bio_id": "228",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "mentioned",
+      "full_text": "ببغداد - سنة تسع وخمسين وثلاثمائة"
+    },
+    {
+      "place": "مكة",
+      "context": "visited",
+      "full_text": "اعتللت بمكة"
+    },
+    {
+      "place": "مكة",
+      "context": "visited",
+      "full_text": "فلما دخلت مكة بدأت بالطواف"
+    },
+    {
+      "place": "البادية",
+      "context": "visited",
+      "full_text": "دخلت البادية بعقد التوكل"
+    },
+    {
+      "place": "المغرب",
+      "context": "mentioned",
+      "full_text": "قال أنا فلان الجني، وقد جئت إليك من المغرب"
+    },
+    {
+      "place": "خراسان",
+      "context": "mentioned",
+      "full_text": "كتب إلي بعض إخواني من عقلاء أهل خراسان"
+    },
+    {
+      "place": "بغداد",
+      "context": "mentioned",
+      "full_text": "فقال من بغداد"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا القاسم الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن علي بن هارون بن محمد وأبا بكر محمد بن أحمد المفيد يقولان: سمعنا أبا القاسم الجنيد بن محمد غير مرة يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر محمد بن أحمد المفيد",
+          "person_id": 647,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
+          "subj_added": false
+        },
+        {
+          "name": "أبا القاسم الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن علي بن هارون بن محمد وأبا بكر محمد بن أحمد المفيد يقولان: سمعنا أبا القاسم الجنيد بن محمد غير مرة يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا محمد الخواص",
+          "person_id": 1038,
+          "canonical_name": "أبو محمد الخواص",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن أحمد بن محمد بن مقسم يقول سمعت أبا محمد الخواص يقول سمعت الجنيد بن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي الحسين محمد بن علي بن حبيش الناقد الصوفي صاحب أبي العباس بن عطاء",
+          "person_id": 465,
+          "canonical_name": "أبو الحسين محمد بن علي بن حبيش المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو القاسم الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قرأت على أبي الحسين محمد بن علي بن حبيش الناقد الصوفي صاحب أبي العباس بن عطاء ببغداد - سنة تسع وخمسين وثلاثمائة من كتابه فأقر به. قلت سمعت أبا القاسم الجنيد بن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الحسين بن موسى",
+          "person_id": 128,
+          "canonical_name": "الحسين بن موسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا نصر الطوسي",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الواحد بن علوان",
+          "person_id": 1909,
+          "canonical_name": "عبد الواحد بن علوان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت الحسين بن موسى يقول سمعت أبا نصر الطوسي يقول سمعت عبد الواحد بن علوان يقول سمعت الجنيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 983,
+          "canonical_name": "أبو علي محمد بن إبراهيم البزّاز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد بن نصير - فيما كتب إلي - وحدثني عنه محمد بن إبراهيم قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا الحسين بن الدراج",
+          "has_id": 443,
+          "person_id": 12,
+          "canonical_name": "أبو بكر بن أبي سعدان",
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول سمعت أبا الحسين بن الدراج يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين بن يحيى الفقيه الأسفيعاني",
+          "person_id": 134,
+          "canonical_name": "الحسين بن يحيى الفقيه الأسفيعاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر جعفر بن محمد - في كتابه - وحدثني عنه الحسين بن يحيى الفقيه الأسفيعاني قال سمعت الجنيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن علي بن حبيش",
+          "person_id": 465,
+          "canonical_name": "أبو الحسين محمد بن علي بن حبيش المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو القاسم الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وقرأت على محمد بن علي بن حبيش فقلت سمعت أبا القاسم الجنيد بن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الجنيد ابن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن علي بن هارون بن محمد السمسار يقول سمعت الجنيد ابن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "علي بن هارون",
+          "person_id": 435,
+          "canonical_name": "أبو الحسن علي بن هارون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت علي بن هارون يقول سمعت الجنيد بن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 983,
+          "canonical_name": "أبو علي محمد بن إبراهيم البزّاز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو القاسم الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر جعفر بن محمد بن نصر - في كتابه - وحدثني عنه محمد بن إبراهيم قال قال أبو القاسم الجنيد بن محمد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو بكر محمد بن أحمد بن يعقوب",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "أبا القاسم الجنيد ابن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو بكر محمد بن أحمد بن يعقوب قال سمعت أبا القاسم الجنيد ابن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر محمد بن أحمد",
+          "person_id": 647,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا بكر محمد بن أحمد يقول سمعت الجنيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر محمد بن أحمد",
+          "person_id": 647,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت الجنيد يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عطاء",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت عثمان بن محمد العثماني يقول سمعت أحمد بن عطاء يقول قال الجنيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بعض أصحابنا",
+          "person_id": 1338,
+          "canonical_name": "بعض أصحابنا",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عثمان بن محمد ثنا بعض أصحابنا قال قيل للجنيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "علي بن عبد الله الجهضمي",
+          "person_id": 2049,
+          "canonical_name": "علي بن عبد الله بن جهضم",
+          "has_id": 316,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عطاء",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحريض",
+          "person_id": 2224,
+          "canonical_name": "محمد بن الحريض",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت علي بن عبد الله الجهضمي يقول سمعت أحمد بن عطاء يقول سمعت محمد بن الحريض يقول لما قال الجنيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 983,
+          "canonical_name": "أبو علي محمد بن إبراهيم البزّاز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد بن نصير في كتابه وحدثني عنه محمد بن إبراهيم قال سمعت الجنيد بن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عبد الله الدارمي",
+          "person_id": 864,
+          "canonical_name": "أبو عبد الله الدارمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر العطوي",
+          "person_id": 639,
+          "canonical_name": "أبو بكر العطوي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أبا عبد الله الدارمي يقول سمعت أبا بكر العطوي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الحسن علي بن هارون",
+          "person_id": 435,
+          "canonical_name": "أبو الحسن علي بن هارون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا القاسم الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو الحسن علي بن هارون قال سمعت أبا القاسم الجنيد بن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "علي بن هارون",
+          "person_id": 435,
+          "canonical_name": "أبو الحسن علي بن هارون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا علي بن هارون قال سمعت الجنيد بن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن جعفر بن هانئ",
+          "person_id": 1188,
+          "canonical_name": "أحمد بن جعفر بن هانئ",
+          "has_id": 444,
+          "subj_added": false
+        },
+        {
+          "name": "أبا القاسم الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبي يقول سمعت أحمد بن جعفر بن هانئ يقول سألت أبا القاسم الجنيد بن محمد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن جعفر بن هانئ",
+          "person_id": 1188,
+          "canonical_name": "أحمد بن جعفر بن هانئ",
+          "has_id": 444,
+          "subj_added": false
+        },
+        {
+          "name": "أبا القاسم الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال أحمد: وسألته عن علامة الإيمان قال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن جعفر بن هانئ",
+          "person_id": 1188,
+          "canonical_name": "أحمد بن جعفر بن هانئ",
+          "has_id": 444,
+          "subj_added": false
+        },
+        {
+          "name": "أبا القاسم الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قل وسألته: ما الإيمان؟ فقال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد بن نصير - في كتابه - وحدثني عنه عثمان بن محمد العثماني قال سمعت الجنيد بن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1393,
+          "canonical_name": "جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر وحدثني عنه عثمان قال: كنت أمشي مع الجنيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1393,
+          "canonical_name": "جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت الجنيد يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا القاسم المطرز",
+          "person_id": 540,
+          "canonical_name": "أبو القاسم المطرز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول سمعت أبا القاسم المطرز يقول سمعت الجنيد بن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا الحسن المحلي",
+          "has_id": NaN,
+          "person_id": 9,
+          "canonical_name": "ابن النصراباذي",
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "[سمعت أبا الحسن بن مقسم يقول سمعت أبا الحسن المحلي يقول سمعت الجنيد يقول]",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا محمد الخواص",
+          "person_id": 1038,
+          "canonical_name": "أبو محمد الخواص",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول سمعت أبا محمد الخواص يقول سمعت الجنيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا محمد الخواص",
+          "person_id": 1038,
+          "canonical_name": "أبو محمد الخواص",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال الجنيد: إذا أصبت من يصبر على الحق فتمسك. به قال: قلت وأني به؟ هات من يصبر لي على سماع الحق لا يتعرض إليه.",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسن بن مقسم",
+          "person_id": 414,
+          "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر جعفر بن محمد - في كتابه - وحدثني عنه أبو الحسن بن مقسم قال سمعت الجنيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا محمد المرتعش",
+          "person_id": 1043,
+          "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
+          "has_id": 251,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول سمعت أبا محمد المرتعش يقول سمعت الجنيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا القاسم المطرز",
+          "person_id": 540,
+          "canonical_name": "أبو القاسم المطرز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول سمعت أبا القاسم المطرز يقول سمعت الجنيد بن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن إسحاق الرازي",
+          "person_id": 1174,
+          "canonical_name": "أحمد بن إسحاق الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "العباس بن عبد الله",
+          "person_id": 178,
+          "canonical_name": "العباس بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "[سمعت محمد بن الحسين يقول سمعت أحمد بن إسحاق الرازي يقول:\nسمعت العباس بن عبد الله يقول سمعت الجنيد بن محمد يقول: عليكم بحفظ الهمة فإن حفظ الهمة مقدمة الأشياء]",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن إسحاق الرازي",
+          "person_id": 1174,
+          "canonical_name": "أحمد بن إسحاق الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "العباس بن عبد الله",
+          "person_id": 178,
+          "canonical_name": "العباس بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "[سمعت محمد بن الحسين يقول سمعت أحمد بن إسحاق الرازي يقول:\nسمعت العباس بن عبد الله يقول سمعت الجنيد بن محمد يقول: المروءة امتحان ذلل الإخوان]",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الجنيد بن محمد أبا القاسم",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن علي بن هارون يقول سمعت الجنيد بن محمد أبا القاسم يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بعض أصحابنا",
+          "person_id": 1338,
+          "canonical_name": "بعض أصحابنا",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي القاسم الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن علي بن هارون يقول أخبرني بعض أصحابنا عن أبي القاسم الجنيد قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر محمد بن أحمد المفيد",
+          "person_id": 647,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا بكر محمد بن أحمد المفيد يقول حضرت الجنيد يوما",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن سعيد",
+          "person_id": 2356,
+          "canonical_name": "محمد بن سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول سمعت محمد بن سعيد يقول سمعت الجنيد بن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر بن سعيد",
+          "person_id": 670,
+          "canonical_name": "أبو بكر بن سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول سمعت أبا بكر بن سعيد وأبا بكر\nختن الجنيد يقولان سمعنا الجنيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر ختن الجنيد",
+          "person_id": 682,
+          "canonical_name": "أبو بكر ختن الجنيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول سمعت أبا بكر بن سعيد وأبا بكر\nختن الجنيد يقولان سمعنا الجنيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الحسن بن مقسم",
+          "person_id": 414,
+          "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر ختن الجنيد",
+          "person_id": 682,
+          "canonical_name": "أبو بكر ختن الجنيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أنشدني، أبو الحسن بن مقسم قال: أنشدني أبو بكر ختن الجنيد قال: أنشدني الجنيد بن محمد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الحسن بن مقسم",
+          "person_id": 414,
+          "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر ختن الجنيد",
+          "person_id": 682,
+          "canonical_name": "أبو بكر ختن الجنيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وأنشدنى:\nأناس أمناهم فنموا حديثنا … فلما كتمنا السر عنهم تقولوا\nولم يحفظوا الود الذي كان بيننا … ولا حين هموا بالقطيعة أجملوا.",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا القاسم المطرز",
+          "person_id": 540,
+          "canonical_name": "أبو القاسم المطرز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن يقول سمعت أبا القاسم المطرز يقول سمعت الجنيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا القاسم النقاشي الصوفي",
+          "person_id": 543,
+          "canonical_name": "أبو القاسم النقاشي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول سمعت أبا القاسم النقاشي الصوفي يقول سمعت الجنيد بن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا القاسم النقاشي",
+          "person_id": 543,
+          "canonical_name": "أبو القاسم النقاشي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن يقول سمعت أبا القاسم النقاشي يقول سمعت الجنيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الحسن بن مقسم",
+          "person_id": 414,
+          "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن الحسن القرشي",
+          "person_id": 1994,
+          "canonical_name": "علي بن الحسن القرشي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أنشدني أبو الحسن بن مقسم قال أنشدني علي بن الحسن القرشي قال انشدنى الجنيد بن محمد.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا القاسم الحفار",
+          "person_id": 533,
+          "canonical_name": "أبو القاسم الحفار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول سمعت أبا القاسم الحفار يقو ل سمعت الجنيد - وقد سأله رجل: كيف الطريق إلى الله تعالى؟ -",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن جعفر بن مالك",
+          "person_id": 1186,
+          "canonical_name": "أحمد بن جعفر بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا القاسم الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أحمد بن جعفر بن مالك يقول سمعت أبا القاسم الجنيد بن محمد\nيقول - وسأله سائل: العناية قبل أم البداية؟ -",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن جعفر بن مالك",
+          "person_id": 1186,
+          "canonical_name": "أحمد بن جعفر بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا القاسم الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت أبا القاسم الجنيد يقول: يا من هو كل يوم فى شأن اجعلنى من بعض شأنك.",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد - فيما كتب إلي - قال سمعت الجنيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت الجنيد يقول: اعتللت بمكة فقوي علي فيها الوجود حتى لم أقدر أن أقول سبحان الله والحمد لله.",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال سمعت الجنيد يقول: مكثت مدة طويلة لا يقدم أحد البلد من الفقراء إلا سلبت حالي ودفعت إلى حاله فأطلبه حتى إذا وجدته تكلمت بحاله وكنت لا أرى في النوم شيئا إلا رأيته في اليقظة.",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عمرو العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسن",
+          "has_id": NaN,
+          "person_id": 10,
+          "canonical_name": "ابن أبي الدنيا",
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا عمرو العثماني يقول سمعت أبا الحسن يقول سمعت الجنيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا الحسن",
+          "has_id": NaN,
+          "person_id": 11,
+          "canonical_name": "ابن أبي الورد",
+          "subj_added": false
+        },
+        {
+          "name": "أبا عبد الله الفارسي",
+          "person_id": 878,
+          "canonical_name": "أبو عبد الله الفارسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن الجهضمي يقول سمعت أبا الحسن يقول سمعت أبا عبد الله الفارسي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الجهضمي",
+          "person_id": 2049,
+          "canonical_name": "علي بن عبد الله بن جهضم",
+          "has_id": 316,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسن",
+          "person_id": 2225,
+          "canonical_name": "محمد بن الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو القاسم بردان الهاوندي",
+          "person_id": 547,
+          "canonical_name": "أبو القاسم بردان الهاوندي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا الجهضمي ثنا محمد بن الحسن ثنا أبو القاسم بردان الهاوندي قال سمعت الجنيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "علي بن عبد الله",
+          "person_id": 2049,
+          "canonical_name": "علي بن عبد الله بن جهضم",
+          "has_id": 316,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن أحمد",
+          "person_id": 2544,
+          "canonical_name": "منصور بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر الدئلي",
+          "person_id": 1394,
+          "canonical_name": "جعفر الدئلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا علي بن عبد الله ثنا منصور بن أحمد ثنا جعفر الدئلي قال سمعت الجنيد بن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حكيم بن محمد",
+          "person_id": 1468,
+          "canonical_name": "حكيم بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت عثمان بن محمد العثماني يقول سمعت حكيم بن محمد يقول حضر الجنيد أبو القاسم موضعا فيه قوم يتواجدون على سماع يسمعونه وهو مطرق",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "person_id": 647,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
+          "subj_added": false
+        },
+        {
+          "name": "أبا القاسم الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو بكر محمد بن أحمد بن محمد المفيد قال سمعت أبا القاسم الجنيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 983,
+          "canonical_name": "أبو علي محمد بن إبراهيم البزّاز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد بن نصير في كتابه وحدثني عنه محمد بن إبراهيم قال سمعت الجنيد بن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1393,
+          "canonical_name": "جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد",
+          "person_id": 2225,
+          "canonical_name": "محمد بن الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر في كتابه وحدثنا عنه محمد قال سمعت الجنيد بن محمد يقول.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو بكر محمد بن أحمد المفيد",
+          "person_id": 647,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو بكر محمد بن أحمد المفيد قال سمعت الجنيد بن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد بن هارون",
+          "person_id": 2320,
+          "canonical_name": "محمد بن أحمد بن هارون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن الحسين الغلاب",
+          "person_id": 2001,
+          "canonical_name": "علي بن الحسين الغلاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر محمد بن أحمد بن هارون قال سمعت علي بن الحسين الغلاب\nيقول قيل للجنيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 983,
+          "canonical_name": "أبو علي محمد بن إبراهيم البزّاز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا القاسم الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد في كتابه وحدثني عنه محمد بن إبراهيم قال سمعت أبا القاسم الجنيد بن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد",
+          "person_id": 2225,
+          "canonical_name": "محمد بن الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد ابن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد - في كتابه - وحدثني عنه محمد قال سمعت الجنيد ابن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد",
+          "person_id": 2225,
+          "canonical_name": "محمد بن الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد ابن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال: وسمعت الجنيد بن محمد يقول: لا نكون عبد الله بالكلية حتى لا تبقى عليك من غير الله بقية.",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد",
+          "person_id": 2225,
+          "canonical_name": "محمد بن الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت الجنيد يقول: لا تكن عبد الله حقا وأنت لشيء سواه مسترقا.",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو نصر محمد بن أحمد بن هارون",
+          "person_id": 1109,
+          "canonical_name": "أبو نصر محمد بن أحمد بن هارون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الواحد بن محمد الإصطخري أبا الأزهر",
+          "person_id": 381,
+          "canonical_name": "أبو الأزهر عبد الواحد بن محمد الإصطخري",
+          "has_id": 37,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن عثمان",
+          "person_id": 318,
+          "canonical_name": "إبراهيم بن عثمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد ابن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو نصر محمد بن أحمد بن هارون قال سمعت عبد الواحد بن محمد الإصطخري أبا الأزهر يقول: سمعت إبراهيم بن عثمان يقول سمعت الجنيد ابن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد - فيما كتب إلي - وحدثني عنه عثمان بن محمد قال سئل الجنيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسأله الحريري عن قول عيسى ﵇: ﴿(تعلم ما في نفسي ولا أعلم ما في نفسك)﴾",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد بن هارون",
+          "person_id": 2320,
+          "canonical_name": "محمد بن أحمد بن هارون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو زرعة الطبرى",
+          "person_id": 788,
+          "canonical_name": "أبو زرعة الطبرى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين بن ياسين",
+          "person_id": 131,
+          "canonical_name": "الحسين بن ياسين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن أحمد بن هارون قال سمعت أبا زرعة الطبرى يقول:\nسمعت الحسين بن ياسين يقول سمعت الجنيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد المفيد",
+          "person_id": 647,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الصمد بن محمد الجبلي",
+          "person_id": 1766,
+          "canonical_name": "عبد الصمد بن محمد الجبلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا محمد بن أحمد المفيد - في كتابه - وحدثنا عنه عثمان بن محمد قبل أن لقيته ثنا عبد الصمد بن محمد الجبلي قال: كتب الجنيد إلى أبي إسحاق المارستاني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن جعفر بن هانئ",
+          "person_id": 1188,
+          "canonical_name": "أحمد بن جعفر بن هانئ",
+          "has_id": 444,
+          "subj_added": false
+        },
+        {
+          "name": "أبا القاسم الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبي يقول سمعت أحمد بن جعفر بن هانئ يقول سألت أبا القاسم الجنيد بن محمد قلت",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "أبي عبيد",
+        "relationship_type": "student_of",
+        "relationship_phrase": "يتفقه على مذهب أصحاب الحديث مثل",
+        "full_text": "وكان في أول أمره يتفقه على مذهب أصحاب الحديث مثل أبي عبيد",
+        "person_id": 923,
+        "canonical_name": "أبو عبيد",
+        "has_id": NaN
+      },
+      {
+        "name": "أبي ثور",
+        "relationship_type": "student_of",
+        "relationship_phrase": "يتفقه على مذهب أصحاب الحديث مثل",
+        "full_text": "وكان في أول أمره يتفقه على مذهب أصحاب الحديث مثل أبي عبيد وأبي ثور",
+        "person_id": 724,
+        "canonical_name": "أبو ثور",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "الحارث بن أسد المحاسبي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وصحب الحارث بن أسد المحاسبي وخاله السري بن مفلس",
+        "person_id": 69,
+        "canonical_name": "الحارث بن أسد المحاسبي",
+        "has_id": 229
+      },
+      {
+        "name": "السري بن مفلس",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وصحب الحارث بن أسد المحاسبي وخاله السري بن مفلس",
+        "person_id": 161,
+        "canonical_name": "السري السقطي",
+        "has_id": 236
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أبا الحسن علي بن هارون بن محمد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا الحسن علي بن هارون بن محمد وأبا بكر محمد بن أحمد المفيد يقولان",
+      "has_id": NaN,
+      "person_id": 4,
+      "canonical_name": "ابن البرقي"
+    },
+    {
+      "name": "أبا بكر محمد بن أحمد المفيد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا الحسن علي بن هارون بن محمد وأبا بكر محمد بن أحمد المفيد يقولان",
+      "person_id": 647,
+      "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+      "has_id": 91
+    },
+    {
+      "name": "أبا محمد الخواص",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا الحسن أحمد بن محمد بن مقسم يقول سمعت أبا محمد الخواص يقول",
+      "person_id": 1038,
+      "canonical_name": "أبو محمد الخواص",
+      "has_id": NaN
+    },
+    {
+      "name": "أبي الحسين محمد بن علي بن حبيش الناقد الصوفي صاحب أبي العباس بن عطاء",
+      "relationship_type": "narrator",
+      "full_text": "قرأت على أبي الحسين محمد بن علي بن حبيش الناقد الصوفي صاحب أبي العباس بن عطاء ببغداد - سنة تسع وخمسين وثلاثمائة",
+      "person_id": 465,
+      "canonical_name": "أبو الحسين محمد بن علي بن حبيش المقرئ",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الواحد بن علوان",
+      "relationship_type": "narrator",
+      "full_text": "سمعت عبد الواحد بن علوان يقول",
+      "person_id": 1909,
+      "canonical_name": "عبد الواحد بن علوان",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن إبراهيم",
+      "relationship_type": "narrator",
+      "full_text": "وحدثني عنه محمد بن إبراهيم قال",
+      "person_id": 983,
+      "canonical_name": "أبو علي محمد بن إبراهيم البزّاز",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا الحسين بن الدراج",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا الحسين بن الدراج يقول",
+      "has_id": 27,
+      "person_id": 7,
+      "canonical_name": "ابن السماك"
+    },
+    {
+      "name": "الحسين بن يحيى الفقيه الأسفيعاني",
+      "relationship_type": "narrator",
+      "full_text": "وحدثني عنه الحسين بن يحيى الفقيه الأسفيعاني قال",
+      "person_id": 134,
+      "canonical_name": "الحسين بن يحيى الفقيه الأسفيعاني",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن علي بن حبيش",
+      "relationship_type": "narrator",
+      "full_text": "وقرأت على محمد بن علي بن حبيش",
+      "person_id": 465,
+      "canonical_name": "أبو الحسين محمد بن علي بن حبيش المقرئ",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا الحسن علي بن هارون بن محمد السمسار",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا الحسن علي بن هارون بن محمد السمسار يقول",
+      "has_id": NaN,
+      "person_id": 8,
+      "canonical_name": "ابن الفضل القاضي البلخي"
+    },
+    {
+      "name": "علي بن هارون",
+      "relationship_type": "narrator",
+      "full_text": "سمعت علي بن هارون يقول",
+      "person_id": 435,
+      "canonical_name": "أبو الحسن علي بن هارون",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو بكر محمد بن أحمد بن يعقوب",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا أبو بكر محمد بن أحمد بن يعقوب قال",
+      "person_id": 702,
+      "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+      "has_id": 380
+    },
+    {
+      "name": "أبا بكر محمد بن أحمد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر محمد بن أحمد يقول",
+      "person_id": 647,
+      "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+      "has_id": 91
+    },
+    {
+      "name": "أحمد بن عطاء",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أحمد بن عطاء يقول",
+      "person_id": 498,
+      "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+      "has_id": 340
+    },
+    {
+      "name": "بعض أصحابنا",
+      "relationship_type": "narrator",
+      "full_text": "ثنا بعض أصحابنا قال",
+      "person_id": 1338,
+      "canonical_name": "بعض أصحابنا",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن الحريض",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن الحريض يقول",
+      "person_id": 2224,
+      "canonical_name": "محمد بن الحريض",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا عبد الله الدارمي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا عبد الله الدارمي يقول",
+      "person_id": 864,
+      "canonical_name": "أبو عبد الله الدارمي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا بكر العطوي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر العطوي يقول",
+      "person_id": 639,
+      "canonical_name": "أبو بكر العطوي",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد بن جعفر بن هانئ",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أحمد بن جعفر بن هانئ يقول",
+      "person_id": 1188,
+      "canonical_name": "أحمد بن جعفر بن هانئ",
+      "has_id": 444
+    },
+    {
+      "name": "عثمان بن محمد العثماني",
+      "relationship_type": "narrator",
+      "full_text": "سمعت عثمان بن محمد العثماني يقول",
+      "person_id": 1021,
+      "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا القاسم المطرز",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا القاسم المطرز يقول",
+      "person_id": 540,
+      "canonical_name": "أبو القاسم المطرز",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا الحسن المحلي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا الحسن المحلي يقول",
+      "has_id": NaN,
+      "person_id": 5,
+      "canonical_name": "أبو الحسن المحلي"
+    },
+    {
+      "name": "أبو الحسن بن مقسم",
+      "relationship_type": "narrator",
+      "full_text": "وحدثني عنه أبو الحسن بن مقسم قال",
+      "person_id": 414,
+      "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا محمد المرتعش",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا محمد المرتعش يقول",
+      "person_id": 1043,
+      "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
+      "has_id": 251
+    },
+    {
+      "name": "العباس بن عبد الله",
+      "relationship_type": "narrator",
+      "full_text": "سمعت العباس بن عبد الله يقول",
+      "person_id": 178,
+      "canonical_name": "العباس بن عبد الله",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن سعيد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن سعيد يقول",
+      "person_id": 2356,
+      "canonical_name": "محمد بن سعيد",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا بكر بن سعيد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر بن سعيد وأبا بكر\nختن الجنيد يقولان",
+      "person_id": 670,
+      "canonical_name": "أبو بكر بن سعيد",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا بكر ختن الجنيد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر بن سعيد وأبا بكر\nختن الجنيد يقولان",
+      "person_id": 682,
+      "canonical_name": "أبو بكر ختن الجنيد",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا القاسم النقاشي الصوفي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا القاسم النقاشي الصوفي يقول",
+      "person_id": 543,
+      "canonical_name": "أبو القاسم النقاشي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا القاسم النقاشي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا القاسم النقاشي يقول",
+      "person_id": 543,
+      "canonical_name": "أبو القاسم النقاشي",
+      "has_id": NaN
+    },
+    {
+      "name": "علي بن الحسن القرشي",
+      "relationship_type": "narrator",
+      "full_text": "أنشدني علي بن الحسن القرشي قال",
+      "person_id": 1994,
+      "canonical_name": "علي بن الحسن القرشي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا القاسم الحفار",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا القاسم الحفار يقو ل",
+      "person_id": 533,
+      "canonical_name": "أبو القاسم الحفار",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد بن جعفر بن مالك",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أحمد بن جعفر بن مالك يقول",
+      "person_id": 1186,
+      "canonical_name": "أحمد بن جعفر بن مالك",
+      "has_id": NaN
+    },
+    {
+      "name": "جعفر بن محمد",
+      "relationship_type": "narrator",
+      "full_text": "أخبرنا جعفر بن محمد - فيما كتب إلي - قال",
+      "person_id": 1405,
+      "canonical_name": "جعفر بن محمد الخلدي",
+      "has_id": 495
+    },
+    {
+      "name": "أبا عمرو العثماني",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا عمرو العثماني يقول",
+      "person_id": 1021,
+      "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا الحسن",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا الحسن يقول",
+      "has_id": NaN,
+      "person_id": 6,
+      "canonical_name": "أبو الحسن"
+    },
+    {
+      "name": "أبا عبد الله الفارسي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا عبد الله الفارسي يقول",
+      "person_id": 878,
+      "canonical_name": "أبو عبد الله الفارسي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو القاسم بردان الهاوندي",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أبو القاسم بردان الهاوندي قال",
+      "person_id": 547,
+      "canonical_name": "أبو القاسم بردان الهاوندي",
+      "has_id": NaN
+    },
+    {
+      "name": "جعفر الدئلي",
+      "relationship_type": "narrator",
+      "full_text": "ثنا جعفر الدئلي قال",
+      "person_id": 1394,
+      "canonical_name": "جعفر الدئلي",
+      "has_id": NaN
+    },
+    {
+      "name": "حكيم بن محمد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت حكيم بن محمد يقول",
+      "person_id": 1468,
+      "canonical_name": "حكيم بن محمد",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا أبو بكر محمد بن أحمد بن محمد المفيد قال",
+      "person_id": 647,
+      "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+      "has_id": 91
+    },
+    {
+      "name": "محمد",
+      "relationship_type": "narrator",
+      "full_text": "وحدثنا عنه محمد قال",
+      "person_id": 2225,
+      "canonical_name": "محمد بن الحسن",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن أحمد بن هارون",
+      "relationship_type": "narrator",
+      "full_text": "أخبر محمد بن أحمد بن هارون قال",
+      "person_id": 2320,
+      "canonical_name": "محمد بن أحمد بن هارون",
+      "has_id": NaN
+    },
+    {
+      "name": "علي بن الحسين الغلاب",
+      "relationship_type": "narrator",
+      "full_text": "سمعت علي بن الحسين الغلاب\nيقول",
+      "person_id": 2001,
+      "canonical_name": "علي بن الحسين الغلاب",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الواحد بن محمد الإصطخري أبا الأزهر",
+      "relationship_type": "narrator",
+      "full_text": "سمعت عبد الواحد بن محمد الإصطخري أبا الأزهر يقول",
+      "person_id": 381,
+      "canonical_name": "أبو الأزهر عبد الواحد بن محمد الإصطخري",
+      "has_id": 37
+    },
+    {
+      "name": "إبراهيم بن عثمان",
+      "relationship_type": "narrator",
+      "full_text": "سمعت إبراهيم بن عثمان يقول",
+      "person_id": 318,
+      "canonical_name": "إبراهيم بن عثمان",
+      "has_id": NaN
+    },
+    {
+      "name": "عثمان بن محمد",
+      "relationship_type": "narrator",
+      "full_text": "وحدثني عنه عثمان قال",
+      "person_id": 1021,
+      "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+      "has_id": NaN
+    },
+    {
+      "name": "جعفر",
+      "relationship_type": "questioner",
+      "context": "سائل",
+      "full_text": "وسأله جعفر: ما تقول أكرمك الله في الذكر الخفي ما هو الذي لا تعلمه الحفظة، ومن أين زاد عمل السر على عمل العلانية سبعين ضعفا؟",
+      "person_id": 1393,
+      "canonical_name": "جعفر",
+      "has_id": NaN
+    },
+    {
+      "name": "أصحابه",
+      "relationship_type": "questioner",
+      "context": "سائلون",
+      "full_text": "سأله أصحابه فقالوا: يا أستاذ متى يكون الله ﷿ مقبلا على عبده؟",
+      "person_id": 1302,
+      "canonical_name": "أصحابه",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "context": "سائل",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول سمعت أبا القاسم الحفار يقو ل سمعت الجنيد - وقد سأله رجل: كيف الطريق إلى الله تعالى؟ -",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    },
+    {
+      "name": "سائل",
+      "relationship_type": "questioner",
+      "context": "سائل",
+      "full_text": "سمعت أحمد بن جعفر بن مالك يقول سمعت أبا القاسم الجنيد بن محمد\nيقول - وسأله سائل: العناية قبل أم البداية؟ -",
+      "person_id": 1585,
+      "canonical_name": "سائل",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو عبد الله المغربي",
+      "relationship_type": "interlocutor",
+      "full_text": "وقف أبو عبد الله المغربي على الجنيد وقد سئل عن قوله ﴿(سنقرئك فلا تنسى)﴾ ... فقال المغربي: حرجت أمة أنت بين ظهرانيها لا تفوض أمرها إليك.",
+      "person_id": 885,
+      "canonical_name": "أبو عبد الله المغربي",
+      "has_id": 416
+    },
+    {
+      "name": "الشبلي",
+      "relationship_type": "interlocutor",
+      "full_text": "كنت أمشي مع الجنيد فلقيه الشبلي فقال له: يا أبا القاسم ما تقول فيمن الحق حسبه نعتا وعلما ووجودا؟",
+      "person_id": 628,
+      "canonical_name": "أبو بكر الشبلي",
+      "has_id": 376
+    },
+    {
+      "name": "الحريري",
+      "relationship_type": "questioner",
+      "context": "سائل",
+      "full_text": "قال وسأله الحريري عن قول عيسى ﵇: ﴿(تعلم ما في نفسي ولا أعلم ما في نفسك)﴾",
+      "person_id": 1035,
+      "canonical_name": "أبو محمد الجريري",
+      "has_id": 431
+    },
+    {
+      "name": "أبو إسحاق المارستاني",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "كاتب إليه",
+      "full_text": "كتب الجنيد إلى أبي إسحاق المارستاني",
+      "person_id": 573,
+      "canonical_name": "أبو إسحاق إبراهيم المارستاني",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو الحسن السدي",
+      "relationship_type": "interlocutor",
+      "full_text": "قال سمعت الجنيد يقول: جئت إلى أبي الحسن السدي يوما فدققت عليه الباب فقال: من هذا؟ فقلت: جنيد.",
+      "person_id": 293,
+      "canonical_name": "إبراهيم بن السري السقطي",
+      "has_id": 272
+    },
+    {
+      "name": "السري السقطي",
+      "relationship_type": "interlocutor",
+      "full_text": "دخلت يوما على سري السقطي فرأيت عليه هما",
+      "person_id": 161,
+      "canonical_name": "السري السقطي",
+      "has_id": 236
+    },
+    {
+      "name": "السري بن المغلس بن الحسين",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "كنت يوما عند السري بن المغلس بن الحسين وهو متزر بمئزر",
+      "person_id": 161,
+      "canonical_name": "السري السقطي",
+      "has_id": 236
+    },
+    {
+      "name": "رويم",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "ورأى رويما وقد تولى القضاء فقال: من أراد أن ينظر إلى من خبأ في سره حب الدنيا عشرين سنة فلينظر إلى هذا.",
+      "person_id": 1553,
+      "canonical_name": "رويم بن أحمد",
+      "has_id": 578
+    },
+    {
+      "name": "فلان الجني",
+      "relationship_type": "interlocutor",
+      "full_text": "فقلت: من أنت؟ قال أنا فلان الجني، وقد جئت إليك من المغرب.",
+      "person_id": 2171,
+      "canonical_name": "فلان الجني",
+      "has_id": NaN
+    }
+  ]
+}

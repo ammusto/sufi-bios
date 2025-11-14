@@ -1,0 +1,58 @@
+{
+  "bio_id": "368",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عمر",
+          "person_id": 1228,
+          "canonical_name": "أحمد بن عمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن عبيد",
+          "person_id": 1840,
+          "canonical_name": "عبد الله بن عبيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو إسحاق القرشي التيمي",
+          "person_id": 571,
+          "canonical_name": "أبو إسحاق القرشي التيمي",
+          "has_id": 368,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا أحمد بن عمر ثنا عبد الله بن عبيد قال: أنشدني أبو إسحاق القرشي التيمي",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "عبد الله بن عبيد",
+      "relationship_type": "narrator",
+      "full_text": "ثنا عبد الله بن عبيد قال: أنشدني أبو إسحاق القرشي التيمي",
+      "person_id": 1840,
+      "canonical_name": "عبد الله بن عبيد",
+      "has_id": NaN
+    }
+  ]
+}

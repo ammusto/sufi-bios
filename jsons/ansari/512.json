@@ -1,0 +1,138 @@
+{
+  "bio_id": "512",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": ">300",
+    "full_text": "استاذنا حسن المسوحی مات بعد الثلثمائه",
+    "certainty": "approximate"
+  },
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "جنید",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "جنید گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوحمزه",
+          "person_id": 768,
+          "canonical_name": "أبو حمزه",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و بوحمزه گوید.",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "سری سقطی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد سری سقطی و بشر حافی٭",
+        "person_id": 161,
+        "canonical_name": "السري السقطي",
+        "has_id": 236
+      },
+      {
+        "name": "بشر حافی٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد سری سقطی و بشر حافی٭",
+        "person_id": 1323,
+        "canonical_name": "بشر بن الحارث الحافي",
+        "has_id": 470
+      }
+    ],
+    "students": [
+      {
+        "name": "جنید",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "از استادان",
+        "full_text": "از استادان جنید و بوحمزه٭ است",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "بوحمزه٭",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "از استادان",
+        "full_text": "از استادان جنید و بوحمزه٭ است",
+        "person_id": 763,
+        "canonical_name": "أبو حمزة",
+        "has_id": NaN
+      }
+    ],
+    "companions": [
+      {
+        "name": "جنید",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "اما از اقران ایشانست",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "بوحمزه٭",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "اما از اقران ایشانست",
+        "person_id": 763,
+        "canonical_name": "أبو حمزة",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "جنید",
+      "relationship_type": "direct_narrator",
+      "full_text": "جنید گوید:",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    },
+    {
+      "name": "بوحمزه",
+      "relationship_type": "direct_narrator",
+      "full_text": "و بوحمزه گوید. استاذنا حسن المسوحی مات بعد الثلثمائه",
+      "person_id": 768,
+      "canonical_name": "أبو حمزه",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد نفیسه",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "interlocutor",
+      "full_text": "سخن محمد نفیسه با محمد عبداللّه گازر را",
+      "person_id": 2267,
+      "canonical_name": "محمد بن النفيسه",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد عبداللّه گازر",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "interlocutor",
+      "full_text": "سخن محمد نفیسه با محمد عبداللّه گازر را",
+      "person_id": 2390,
+      "canonical_name": "محمد بن عبد الله گازر",
+      "has_id": NaN
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "bio_id": "592",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "عطا",
+      "relationship_type": "narrator",
+      "context": "interlocutor",
+      "full_text": "سعدون گفت: و علیکم السلام عطا و من کشف عنک الغطا؟",
+      "person_id": 1963,
+      "canonical_name": "عطاء",
+      "has_id": NaN
+    }
+  ]
+}

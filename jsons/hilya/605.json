@@ -1,0 +1,1537 @@
+{
+  "bio_id": "605",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "تستر",
+      "context": "nisba",
+      "full_text": "التستري"
+    },
+    {
+      "place": "الحرم",
+      "context": "visited",
+      "full_text": "ولقي أبا الفيض ذا النون المصري بالحرم"
+    },
+    {
+      "place": "تستر",
+      "context": "lived",
+      "full_text": "فلما رجع إلى تستر"
+    },
+    {
+      "place": "الأهواز",
+      "context": "mentioned",
+      "full_text": "في بعض كور الأهواز"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر الجوربي",
+          "person_id": 614,
+          "canonical_name": "أبو بكر الحربي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا محمد سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبي يقول سمعت أبا بكر الجوربي يقول سمعت أبا محمد سهل بن عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر الجوربي",
+          "person_id": 614,
+          "canonical_name": "أبو بكر الحربي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا محمد سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر الجوربي",
+          "person_id": 614,
+          "canonical_name": "أبو بكر الحربي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا محمد سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وسئل هل للمقتدي اختيار بالاستحسان؟",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر الجوربي",
+          "person_id": 614,
+          "canonical_name": "أبو بكر الحربي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا محمد سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت سهلا يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عمر عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر محمد بن يحيى بن أبي بدر",
+          "person_id": 714,
+          "canonical_name": "أبو بكر محمد بن يحيى بن أبي بدر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا محمد سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا عمر عثمان بن محمد العثماني يقول: سمعت أبا بكر محمد بن يحيى بن أبي بدر يقول سمعت أبا محمد سهل بن عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عمر عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر محمد بن يحيى بن أبي بدر",
+          "person_id": 714,
+          "canonical_name": "أبو بكر محمد بن يحيى بن أبي بدر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا محمد سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال: وسمعت أبا محمد سهل بن عبد الله يقول في قوله تعالى ﴿(ومن يتق الله يجعل له مخرجا)﴾",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عمر عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر محمد بن يحيى بن أبي بدر",
+          "person_id": 714,
+          "canonical_name": "أبو بكر محمد بن يحيى بن أبي بدر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا محمد سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال: وسمعت أبا محمد يقول: أركان الدين النصيحة والرحمة والصدق والإنصاف والتفضل والاقتداء بالنبي ﷺ والاستعانة بالله على ذلك إلى الممات",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عمر عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر محمد بن يحيى بن أبي بدر",
+          "person_id": 714,
+          "canonical_name": "أبو بكر محمد بن يحيى بن أبي بدر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا محمد سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت أبا محمد يقول: دخل قوم على النبي ﷺ فقال: «من القوم؟ فقالوا مؤمنون...",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "العباس بن أحمد",
+          "person_id": 175,
+          "canonical_name": "العباس بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عثمان بن محمد ثنا العباس بن أحمد قال سهل بن عبد الله",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "العباس بن أحمد",
+          "person_id": 175,
+          "canonical_name": "العباس بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال: وسئل سهل بن عبد الله: متى يستريح الفقير من نفسه؟",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد",
+          "person_id": 2292,
+          "canonical_name": "محمد بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أصحابنا",
+          "person_id": 1301,
+          "canonical_name": "أصحابنا",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "[حدثنا عثمان بن محمد قال سمعت محمد بن أحمد يقول سمعت أصحابنا يقولون: إن أول ما حفظ من كلام سهل بن عبد الله أن قال]",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو القاسم عبد الجبار بن شيرياز بن زيد النهرجوطي",
+          "person_id": 552,
+          "canonical_name": "أبو القاسم عبد الجبار بن شيرياز بن زيد النهرجوطي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو القاسم عبد الجبار بن شيرياز بن زيد النهرجوطي - في كتابه - وحدثني عنه عثمان بن محمد العثماني قال قال سهل بن عبد الله",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي الحسن أحمد بن محمد الأنصاري",
+          "person_id": 410,
+          "canonical_name": "أبو الحسن أحمد بن محمد الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد بن سلمة النيسابوري",
+          "person_id": 2307,
+          "canonical_name": "محمد بن أحمد بن سلمة النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا محمد سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عثمان بن محمد قال قرئ على أبي الحسن أحمد بن محمد الأنصاري قال سمعت محمد بن أحمد بن سلمة النيسابوري قال سمعت أبا محمد سهل بن عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي الحسن أحمد بن محمد الأنصاري",
+          "person_id": 410,
+          "canonical_name": "أبو الحسن أحمد بن محمد الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد بن سلمة النيسابوري",
+          "person_id": 2307,
+          "canonical_name": "محمد بن أحمد بن سلمة النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا محمد سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت سهل بن عبد الله يقول: إذا خلا العبد من الدنيا...",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو محمد بن صهيب",
+          "person_id": 1051,
+          "canonical_name": "أبو محمد بن صهيب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل وابن عبد الله",
+          "person_id": 1647,
+          "canonical_name": "سهل وابن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت عثمان بن محمد يقول سمعت أبا محمد بن صهيب يقول سمعت سهل وابن عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو محمد بن صهيب",
+          "person_id": 1051,
+          "canonical_name": "أبو محمد بن صهيب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عثمان بن محمد العثماني قال سمعت أبا محمد بن صهيب يقول سمعت سهل بن عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر بن المنذر الهجيمي",
+          "person_id": 660,
+          "canonical_name": "أبو بكر بن المنذر الهجيمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن أحمد بن محمد بن مقسم يقول سمعت أبا بكر بن المنذر الهجيمي يقول سمعت سهل بن عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا الحسن النحاس جارنا",
+          "has_id": NaN,
+          "person_id": 89,
+          "canonical_name": "الحسن بن عبد الله القرشي",
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول سمعت أبا الحسن النحاس جارنا يقول سمعت سهل بن عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن المنذر",
+          "person_id": 2264,
+          "canonical_name": "محمد بن المنذر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن يقول سمعت محمد بن المنذر يقول سمعت سهل بن عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر الجوربي",
+          "person_id": 614,
+          "canonical_name": "أبو بكر الحربي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبي يقول سمعت أبا بكر الجوربي يقول سئل سهل بن عبد الله",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر",
+          "person_id": 614,
+          "canonical_name": "أبو بكر الحربي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبي يقول سمعت أبا بكر يقول سمعت سهل بن عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا الفضل الشيرجي جعفر بن أحمد",
+          "person_id": 526,
+          "canonical_name": "أبو الفضل جعفر بن أحمد  الشيرجي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول سمعت أبا الفضل الشيرجي جعفر بن أحمد يقول سمعت سهل بن عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسن الفارسي",
+          "has_id": NaN,
+          "person_id": 90,
+          "canonical_name": "الحسن بن عبيد الله القطّان",
+          "subj_added": false
+        },
+        {
+          "name": "عباس بن عصام",
+          "person_id": 181,
+          "canonical_name": "العباس بن عصام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن الحسين بن موسى قال سمعت أبا الحسن الفارسي يقول سمعت عباس بن عصام يقول سمعت سهل بن عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خالي أحمد بن محمد بن يوسف",
+          "person_id": 1498,
+          "canonical_name": "خالي أحمد بن محمد بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبي يقول سمعت خالي أحمد بن محمد بن يوسف يقول سمعت سهل بن عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي الحسن أحمد بن محمد بن عيسى",
+          "person_id": 412,
+          "canonical_name": "أبو الحسن أحمد بن محمد بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله محمد بن أحمد بن سلمة النيسابوري",
+          "person_id": 912,
+          "canonical_name": "أبو عبد الله محمد بن أحمد بن سلمة النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عثمان بن محمد قال قرئ على أبي الحسن أحمد بن محمد بن عيسى سمعت أبا عبد الله محمد بن أحمد بن سلمة النيسابوري يقول سمعت سهل بن عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي الحسن",
+          "person_id": 6,
+          "canonical_name": "أبو الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن الحسين",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عثمان بن محمد قال قرئ على أبي الحسن قال يوسف بن الحسين سئل سهل بن عبد الله",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "العباس بن أحمد",
+          "person_id": 175,
+          "canonical_name": "العباس بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عثمان بن محمد قال العباس بن أحمد سئل سهل متى يستريح الفقير من نفسه؟",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الحسن علي بن أحمد بن عبد الرحمن الغزالي الأصبهاني بالبصرة",
+          "person_id": 429,
+          "canonical_name": "أبو الحسن علي بن أحمد بن عبد الرحمن الغزالي الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن أحمد بن نوح الأهوازي",
+          "person_id": 2022,
+          "canonical_name": "علي بن أحمد بن نوح الأهوازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو الحسن علي بن أحمد بن عبد الرحمن الغزالي الأصبهاني بالبصرة ثنا علي بن أحمد بن نوح الأهوازي قال سمعت سهل بن عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر الجوني",
+          "person_id": 613,
+          "canonical_name": "أبو بكر الجوني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبي يقول سمعت أبا بكر الجوني يقول سمعت سهل بن عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسن",
+          "person_id": 2225,
+          "canonical_name": "محمد بن الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين الفارسي",
+          "has_id": NaN,
+          "person_id": 91,
+          "canonical_name": "الحسن بن عرفة",
+          "subj_added": false
+        },
+        {
+          "name": "أبا يعقوب البلدي",
+          "person_id": 1131,
+          "canonical_name": "أبو يعقوب البلدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن الحسن قال سمعت أبا الحسين الفارسي يقول سمعت أبا يعقوب البلدي يقول سمعت سهل بن عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو حفص عمر بن أحمد بن شاهين الواعظ",
+          "person_id": 761,
+          "canonical_name": "أبو حفص عمر بن أحمد بن شاهين الواعظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر ابن محمد بن يعقوب الثقفي",
+          "person_id": 1410,
+          "canonical_name": "جعفر بن محمد بن يعقوب الثقفي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا محمد سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو حفص عمر بن أحمد بن شاهين الواعظ قال قرأت على جعفر ابن محمد بن يعقوب الثقفي سمعت أبا محمد سهل بن عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الجبار بن شيراز",
+          "person_id": 1729,
+          "canonical_name": "عبد الجبار بن شيراز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا عبد الجبار بن شيراز - في كتابه - وحدثني عنه عثمان بن محمد العثماني قال سمعت سهل بن عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "طاهر بن الحسن",
+          "person_id": 1697,
+          "canonical_name": "طاهر بن الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم البرجي",
+          "person_id": 273,
+          "canonical_name": "إبراهيم البرجي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن بن جهضم يقول حدثني طاهر بن الحسن قال سمعت إبراهيم البرجي يقول: سمعت سهل بن عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو بكر الدينوري",
+          "person_id": 622,
+          "canonical_name": "أبو بكر الدينوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن يقول ثنا أبو بكر الدينوري قال سمعت سهل بن عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خالي أبا بكر أحمد بن محمد بن يوسف",
+          "person_id": 1497,
+          "canonical_name": "خالي أبو بكر أحمد بن محمد بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبي يقول سمعت خالي أبا بكر أحمد بن محمد بن يوسف يقول قال سهل بن عبد الله",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الحسن علي بن أحمد بن عبد الرحمن الأصبهاني - الغزال بالبصرة -",
+          "person_id": 429,
+          "canonical_name": "أبو الحسن علي بن أحمد بن عبد الرحمن الغزالي الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بشر عيسى بن إبراهيم بن دستكوثا",
+          "person_id": 609,
+          "canonical_name": "أبو بشر عيسى بن إبراهيم بن دستكوثا",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو الحسن علي بن أحمد بن عبد الرحمن الأصبهاني - الغزال بالبصرة - ثنا أبو بشر عيسى بن إبراهيم بن دستكوثا قال قال سهل بن عبد الله",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الجبار بن شيرياز",
+          "person_id": 1729,
+          "canonical_name": "عبد الجبار بن شيراز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا عبد الجبار بن شيرياز - فيما كتب إلي - وحدثني عنه عثمان بن محمد العثماني قال سمعت سهل بن عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسن بن جهضم",
+          "person_id": 2049,
+          "canonical_name": "علي بن عبد الله بن جهضم",
+          "has_id": 316,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الفضل الشيرجي",
+          "person_id": 526,
+          "canonical_name": "أبو الفضل جعفر بن أحمد  الشيرجي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد بن نصير - في كتابه - وحدثني عنه أبو الحسن بن جهضم قال حدثني أبو الفضل الشيرجي قال سمعت سهل بن عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الجبار بن شيراز",
+          "person_id": 1729,
+          "canonical_name": "عبد الجبار بن شيراز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسن بن جهضم",
+          "person_id": 2049,
+          "canonical_name": "علي بن عبد الله بن جهضم",
+          "has_id": 316,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبد الله",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا عبد الجبار بن شيراز - في كتابه - وحدثني عنه أبو الحسن بن جهضم قال سمعت سهل بن عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسن بن علي",
+          "person_id": 2231,
+          "canonical_name": "محمد بن الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن سالم",
+          "person_id": 896,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسن بن علي قال سمعت أحمد بن محمد بن سالم يقول كنت عند سهل بن عبد الله",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر محمد بن عبد الله ابن شاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بن سالم",
+          "person_id": 896,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين بن موسى يقول سمعت أبا بكر محمد بن عبد الله ابن شاذان يقول اسمعت بن سالم يقول: سئل سهل بن عبد الله",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا نصر عبد الله بن علي",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عطاء",
+          "person_id": 1219,
+          "canonical_name": "أحمد بن عطاء",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسن",
+          "person_id": 2225,
+          "canonical_name": "محمد بن الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أبا نصر عبد الله بن علي يقول سمعت أحمد بن عطاء يقول سمعت محمد بن الحسن قال قال سهل",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "محمد بن سوار",
+        "relationship_type": "student_of",
+        "relationship_phrase": "تخرج عن",
+        "full_text": "تخرج عن خاله محمد بن سوار",
+        "person_id": 2363,
+        "canonical_name": "محمد بن سوار",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "أبا الفيض ذا النون المصري",
+        "relationship_type": "peer",
+        "relationship_phrase": "ولقي",
+        "full_text": "ولقي أبا الفيض ذا النون المصري بالحرم",
+        "person_id": 1523,
+        "canonical_name": "ذو النون المصري",
+        "has_id": 570
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أبو بكر الجوربي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر الجوربي يقول",
+      "person_id": 614,
+      "canonical_name": "أبو بكر الحربي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو بكر محمد بن يحيى بن أبي بدر",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر محمد بن يحيى بن أبي بدر يقول",
+      "person_id": 714,
+      "canonical_name": "أبو بكر محمد بن يحيى بن أبي بدر",
+      "has_id": NaN
+    },
+    {
+      "name": "العباس بن أحمد",
+      "relationship_type": "narrator",
+      "full_text": "ثنا العباس بن أحمد",
+      "person_id": 175,
+      "canonical_name": "العباس بن أحمد",
+      "has_id": NaN
+    },
+    {
+      "name": "أصحابنا",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أصحابنا يقولون",
+      "person_id": 1301,
+      "canonical_name": "أصحابنا",
+      "has_id": NaN
+    },
+    {
+      "name": "عثمان بن محمد العثماني",
+      "relationship_type": "narrator",
+      "full_text": "وحدثني عنه عثمان بن محمد العثماني قال قال سهل بن عبد الله",
+      "person_id": 1021,
+      "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن أحمد بن سلمة النيسابوري",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن أحمد بن سلمة النيسابوري قال سمعت أبا محمد سهل بن عبد الله يقول",
+      "person_id": 2307,
+      "canonical_name": "محمد بن أحمد بن سلمة النيسابوري",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو محمد بن صهيب",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا محمد بن صهيب يقول",
+      "person_id": 1051,
+      "canonical_name": "أبو محمد بن صهيب",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو بكر بن المنذر الهجيمي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر بن المنذر الهجيمي يقول",
+      "person_id": 660,
+      "canonical_name": "أبو بكر بن المنذر الهجيمي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا الحسن النحاس جارنا",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا الحسن النحاس جارنا يقول",
+      "has_id": NaN,
+      "person_id": 88,
+      "canonical_name": "الحسن بن صالح"
+    },
+    {
+      "name": "محمد بن المنذر",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن المنذر يقول",
+      "person_id": 2264,
+      "canonical_name": "محمد بن المنذر",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا بكر",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر يقول",
+      "person_id": 614,
+      "canonical_name": "أبو بكر الحربي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو الفضل الشيرجي جعفر بن أحمد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبو الفضل الشيرجي جعفر بن أحمد يقول",
+      "person_id": 526,
+      "canonical_name": "أبو الفضل جعفر بن أحمد  الشيرجي",
+      "has_id": NaN
+    },
+    {
+      "name": "عباس بن عصام",
+      "relationship_type": "narrator",
+      "full_text": "سمعت عباس بن عصام يقول",
+      "person_id": 181,
+      "canonical_name": "العباس بن عصام",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد بن محمد بن يوسف",
+      "relationship_type": "narrator",
+      "full_text": "سمعت خالي أحمد بن محمد بن يوسف يقول",
+      "person_id": 1267,
+      "canonical_name": "أحمد بن محمد بن يوسف",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو عبد الله محمد بن أحمد بن سلمة النيسابوري",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا عبد الله محمد بن أحمد بن سلمة النيسابوري يقول",
+      "person_id": 912,
+      "canonical_name": "أبو عبد الله محمد بن أحمد بن سلمة النيسابوري",
+      "has_id": NaN
+    },
+    {
+      "name": "يوسف بن الحسين",
+      "relationship_type": "narrator",
+      "full_text": "قال يوسف بن الحسين سئل سهل بن عبد الله",
+      "person_id": 1140,
+      "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+      "has_id": 847
+    },
+    {
+      "name": "علي بن أحمد بن نوح الأهوازي",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت سهل بن عبد الله يقول",
+      "person_id": 2022,
+      "canonical_name": "علي بن أحمد بن نوح الأهوازي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو بكر الجوني",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر الجوني يقول",
+      "person_id": 613,
+      "canonical_name": "أبو بكر الجوني",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو يعقوب البلدي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا يعقوب البلدي يقول",
+      "person_id": 1131,
+      "canonical_name": "أبو يعقوب البلدي",
+      "has_id": NaN
+    },
+    {
+      "name": "جعفر ابن محمد بن يعقوب الثقفي",
+      "relationship_type": "narrator",
+      "full_text": "قرأت على جعفر ابن محمد بن يعقوب الثقفي سمعت أبا محمد سهل بن عبد الله يقول",
+      "person_id": 1410,
+      "canonical_name": "جعفر بن محمد بن يعقوب الثقفي",
+      "has_id": NaN
+    },
+    {
+      "name": "إبراهيم البرجي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت إبراهيم البرجي يقول",
+      "person_id": 273,
+      "canonical_name": "إبراهيم البرجي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو بكر الدينوري",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أبو بكر الدينوري قال سمعت سهل بن عبد الله يقول",
+      "person_id": 622,
+      "canonical_name": "أبو بكر الدينوري",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو بكر أحمد بن محمد بن يوسف",
+      "relationship_type": "narrator",
+      "full_text": "سمعت خالي أبا بكر أحمد بن محمد بن يوسف يقول",
+      "person_id": 658,
+      "canonical_name": "أبو بكر أحمد بن محمد بن يوسف",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو بشر عيسى بن إبراهيم بن دستكوثا",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أبو بشر عيسى بن إبراهيم بن دستكوثا قال قال سهل بن عبد الله",
+      "person_id": 609,
+      "canonical_name": "أبو بشر عيسى بن إبراهيم بن دستكوثا",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو الحسن بن جهضم",
+      "relationship_type": "narrator",
+      "full_text": "وحدثني عنه أبو الحسن بن جهضم قال سمعت سهل بن عبد الله يقول",
+      "person_id": 2049,
+      "canonical_name": "علي بن عبد الله بن جهضم",
+      "has_id": 316
+    },
+    {
+      "name": "محمد بن الحسن",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن الحسن قال قال سهل",
+      "person_id": 2225,
+      "canonical_name": "محمد بن الحسن",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد بن محمد بن سالم",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أحمد بن محمد بن سالم يقول كنت عند سهل بن عبد الله",
+      "person_id": 896,
+      "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+      "has_id": 139
+    },
+    {
+      "name": "بن سالم",
+      "relationship_type": "narrator",
+      "full_text": "اسمعت بن سالم يقول: سئل سهل بن عبد الله",
+      "person_id": 896,
+      "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+      "has_id": 139
+    },
+    {
+      "name": "إبراهيم",
+      "relationship_type": "questioner",
+      "full_text": "فقال له إبراهيم - كالمنكر عليه - يا أخي إيش هذا؟",
+      "person_id": 273,
+      "canonical_name": "إبراهيم البرجي",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "full_text": "وسأله رجل فقال: يا أبا محمد إلى من تأمرني أن أجلس؟",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    },
+    {
+      "name": "بعض أصحابه",
+      "relationship_type": "questioner",
+      "full_text": "فقال له بعض أصحابه: لو قبلت ذلك المال وفرقته على الفقراء.",
+      "person_id": 1339,
+      "canonical_name": "بعض أصحابه",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن أحمد بن سلمة النيسابوري",
+      "relationship_type": "interlocutor",
+      "full_text": "قلت: يا أبا محمد زدنا من هذا الضرب رحمك الله",
+      "person_id": 2307,
+      "canonical_name": "محمد بن أحمد بن سلمة النيسابوري",
+      "has_id": NaN
+    }
+  ]
+}

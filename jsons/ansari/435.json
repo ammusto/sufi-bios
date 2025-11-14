@@ -1,0 +1,819 @@
+{
+  "bio_id": "435",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "261",
+    "full_text": "وفات وی\nدر سنه احدی و ستین و مائتین بود «و نیز گفتند که در سنه اربع و مائتین،\nولیکن در سنه احدی و ستین در ستر است».",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "بسطام",
+      "context": "nisba",
+      "full_text": "بسطامی"
+    },
+    {
+      "place": "بسطام",
+      "context": "died",
+      "full_text": "استاذوی کردی بود، پهلوی وی در گورست ببسطام بایزید درخواست که گورمن فروتر ازان استاذ من برید حرمت استاذ را،"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوعثمان الغربی",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و قال ابوعثمان الغربی٭",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حصری",
+          "person_id": 394,
+          "canonical_name": "أبو الحسن الحصري",
+          "has_id": 301,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "حصری ٭ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جریری",
+          "person_id": 1035,
+          "canonical_name": "أبو محمد الجريري",
+          "has_id": 431,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "جریری:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر داشگر",
+          "person_id": 684,
+          "canonical_name": "أبو بكر داشگر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بومعشر معروف",
+          "person_id": 1082,
+          "canonical_name": "أبو معشر معروف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوبکر حفید",
+          "person_id": 617,
+          "canonical_name": "أبو بكر الحفيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عباس حمزه",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی بوبکر داشگر و اسحق حافظ٭ هر دو فرامن گفتند، کی بومعشر معروف گفت، کی بوبکر حفیدگفت، کی جد من گفت عباس حمزه ٭",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "اسحق حافظ",
+          "person_id": 46,
+          "canonical_name": "اسحق حافظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بومعشر معروف",
+          "person_id": 1082,
+          "canonical_name": "أبو معشر معروف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوبکر حفید",
+          "person_id": 617,
+          "canonical_name": "أبو بكر الحفيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عباس حمزه",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی بوبکر داشگر و اسحق حافظ٭ هر دو فرامن گفتند، کی بومعشر معروف گفت، کی بوبکر حفیدگفت، کی جد من گفت عباس حمزه ٭",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر واسطی",
+          "person_id": 653,
+          "canonical_name": "أبو بكر الواسطي",
+          "has_id": 379,
+          "subj_added": false
+        },
+        {
+          "name": "بایزید",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "بوبکر واسطی ٭\nگوید: کی بایزید بدر مرگ گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابویزید",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال ابویزید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابویزید",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و قال:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوموسی دبیلی",
+          "person_id": 1092,
+          "canonical_name": "أبو موسي الدبيلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بایزید",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "ابوموسی دبیلی گویدکی بایزید گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوموسی الدبیلی",
+          "person_id": 1092,
+          "canonical_name": "أبو موسي الدبيلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال ابوموسی:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوموسی",
+          "person_id": 1090,
+          "canonical_name": "أبو موسى بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بایزید",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "ابوموسی گوید شاگرد وی که بایزیدگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حلاج",
+          "person_id": 127,
+          "canonical_name": "الحسين بن منصور الحلاج",
+          "has_id": 232,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "حلاج گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "قاضی ابراهیم باخرزی",
+          "person_id": 272,
+          "canonical_name": "إبراهيم الباخرزي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که قاضی ابراهیم باخرزی مرا گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سلیمان دارانی",
+          "person_id": 1623,
+          "canonical_name": "سليماالن داراني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "با سلیمان دارانی٭ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "علی شریفی",
+          "person_id": 2079,
+          "canonical_name": "علي شريفي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت که علی شریفی مرا گفتا:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سری سقطی",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سری سقطی٭ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوسعد محبوری",
+          "person_id": 797,
+          "canonical_name": "أبو سعد محأبوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بونصر ترشیزی",
+          "person_id": 1104,
+          "canonical_name": "أبو نصر ترشيزي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوزرعهٔ طبری",
+          "person_id": 789,
+          "canonical_name": "أبو زرعة الطبري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مرتعش",
+          "person_id": 1043,
+          "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
+          "has_id": 251,
+          "subj_added": false
+        },
+        {
+          "name": "بوعثمان حیری",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        },
+        {
+          "name": "حفص حداد نیشابوری",
+          "person_id": 759,
+          "canonical_name": "أبو حفص الحداد النيسابوري",
+          "has_id": 715,
+          "subj_added": false
+        },
+        {
+          "name": "سلمهٔ بخاری",
+          "person_id": 1613,
+          "canonical_name": "سلمة البخاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: قدس اللّه روحه: که بوسعد محبوری مرا گفت: کی بونصر ترشیزی گفت، که بوزرعهٔ طبری گفت، که مرتعش٭ گفت، که بوعثمان حیری گفت: کی باحفص حداد نیشابوری ٭ گفت که سلمهٔ بخاری گفت.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوسعد مالینی",
+          "person_id": 796,
+          "canonical_name": "أبو سعد الماليني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حصری",
+          "person_id": 394,
+          "canonical_name": "أبو الحسن الحصري",
+          "has_id": 301,
+          "subj_added": false
+        },
+        {
+          "name": "حفص شقاق",
+          "person_id": 1464,
+          "canonical_name": "حفص شقاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوتراب نخشبی",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بوسعد مالینی گویدکه حصری ٭ گفت، که با حفص شقاق گفت، که بوتراب نخشبی٭ گفت،",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ذوالنون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "ذوالنون٭ گوید:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "حفص",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده بود",
+        "full_text": "با\nحفص و یحیی معاذ و شیقیق بلخی ٭ دیده بود.",
+        "person_id": 759,
+        "canonical_name": "أبو حفص الحداد النيسابوري",
+        "has_id": 715
+      },
+      {
+        "name": "یحیی معاذ",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده بود",
+        "full_text": "با\nحفص و یحیی معاذ و شیقیق بلخی ٭ دیده بود.",
+        "person_id": 2650,
+        "canonical_name": "يحيى بن معاذ الرازي",
+        "has_id": 844
+      },
+      {
+        "name": "شیقیق بلخی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده بود",
+        "full_text": "با\nحفص و یحیی معاذ و شیقیق بلخی ٭ دیده بود.",
+        "person_id": 980,
+        "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+        "has_id": 622
+      }
+    ],
+    "students": [
+      {
+        "name": "ابوموسی الدبیلی",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "من اصحاب ابی یزید",
+        "full_text": "ابو موسی الدبیلی من اصحاب ابی یزید",
+        "person_id": 1092,
+        "canonical_name": "أبو موسي الدبيلي",
+        "has_id": NaN
+      }
+    ],
+    "companions": [
+      {
+        "name": "احمد خضرویه",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "بایزید از اقران احمد خضرویه است",
+        "person_id": 1194,
+        "canonical_name": "أحمد بن خضرويه البلخي",
+        "has_id": 440
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت که",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "ابوعثمان الغربی",
+      "relationship_type": "narrator",
+      "full_text": "و قال ابوعثمان الغربی٭",
+      "person_id": 942,
+      "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+      "has_id": 156
+    },
+    {
+      "name": "حصری",
+      "relationship_type": "narrator",
+      "full_text": "حصری ٭ گوید:",
+      "person_id": 394,
+      "canonical_name": "أبو الحسن الحصري",
+      "has_id": 301
+    },
+    {
+      "name": "جریری",
+      "relationship_type": "narrator",
+      "full_text": "جریری: گفت",
+      "person_id": 1035,
+      "canonical_name": "أبو محمد الجريري",
+      "has_id": 431
+    },
+    {
+      "name": "بوبکر داشگر",
+      "relationship_type": "narrator",
+      "full_text": "بوبکر داشگر و اسحق حافظ٭ هر دو فرامن گفتند",
+      "person_id": 684,
+      "canonical_name": "أبو بكر داشگر",
+      "has_id": NaN
+    },
+    {
+      "name": "اسحق حافظ",
+      "relationship_type": "narrator",
+      "full_text": "بوبکر داشگر و اسحق حافظ٭ هر دو فرامن گفتند",
+      "person_id": 46,
+      "canonical_name": "اسحق حافظ",
+      "has_id": NaN
+    },
+    {
+      "name": "بومعشر معروف",
+      "relationship_type": "narrator",
+      "full_text": "کی بومعشر معروف گفت",
+      "person_id": 1082,
+      "canonical_name": "أبو معشر معروف",
+      "has_id": NaN
+    },
+    {
+      "name": "بوبکر حفید",
+      "relationship_type": "narrator",
+      "full_text": "کی بوبکر حفیدگفت",
+      "person_id": 617,
+      "canonical_name": "أبو بكر الحفيد",
+      "has_id": NaN
+    },
+    {
+      "name": "عباس حمزه",
+      "relationship_type": "narrator",
+      "full_text": "کی جد من گفت عباس حمزه ٭",
+      "person_id": 521,
+      "canonical_name": "أبو الفضل العباس بن حمزة",
+      "has_id": 647
+    },
+    {
+      "name": "بوبکر واسطی",
+      "relationship_type": "direct_narrator",
+      "full_text": "بوبکر واسطی ٭\nگوید: کی بایزید بدر مرگ گفت:",
+      "person_id": 653,
+      "canonical_name": "أبو بكر الواسطي",
+      "has_id": 379
+    },
+    {
+      "name": "ابوموسی دبیلی",
+      "relationship_type": "direct_narrator",
+      "full_text": "ابوموسی دبیلی گویدکی بایزید گفت:",
+      "person_id": 1092,
+      "canonical_name": "أبو موسي الدبيلي",
+      "has_id": NaN
+    },
+    {
+      "name": "ابوموسی الدبیلی",
+      "relationship_type": "narrator",
+      "full_text": "قال ابوموسی:",
+      "person_id": 1092,
+      "canonical_name": "أبو موسي الدبيلي",
+      "has_id": NaN
+    },
+    {
+      "name": "سلمهٔ بخاری",
+      "relationship_type": "direct_narrator",
+      "full_text": "سلمهٔ بخاری گفت. کی من حاضر بودم",
+      "person_id": 1613,
+      "canonical_name": "سلمة البخاري",
+      "has_id": NaN
+    },
+    {
+      "name": "بوعثمان حیری",
+      "relationship_type": "narrator",
+      "full_text": "که بوعثمان حیری گفت:",
+      "person_id": 932,
+      "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+      "has_id": 419
+    },
+    {
+      "name": "مرتعش",
+      "relationship_type": "narrator",
+      "full_text": "که مرتعش٭ گفت",
+      "person_id": 1043,
+      "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
+      "has_id": 251
+    },
+    {
+      "name": "بوزرعهٔ طبری",
+      "relationship_type": "narrator",
+      "full_text": "که بوزرعهٔ طبری گفت",
+      "person_id": 789,
+      "canonical_name": "أبو زرعة الطبري",
+      "has_id": NaN
+    },
+    {
+      "name": "بونصر ترشیزی",
+      "relationship_type": "narrator",
+      "full_text": "کی بونصر ترشیزی گفت",
+      "person_id": 1104,
+      "canonical_name": "أبو نصر ترشيزي",
+      "has_id": NaN
+    },
+    {
+      "name": "بوسعد محبوری",
+      "relationship_type": "narrator",
+      "full_text": "که بوسعد محبوری مرا گفت:",
+      "person_id": 797,
+      "canonical_name": "أبو سعد محأبوري",
+      "has_id": NaN
+    },
+    {
+      "name": "حفص حداد نیشابوری",
+      "relationship_type": "narrator",
+      "full_text": "کی باحفص حداد نیشابوری ٭ گفت",
+      "person_id": 759,
+      "canonical_name": "أبو حفص الحداد النيسابوري",
+      "has_id": 715
+    },
+    {
+      "name": "بوسعد مالینی",
+      "relationship_type": "narrator",
+      "full_text": "که بوسعد مالینی گوید",
+      "person_id": 796,
+      "canonical_name": "أبو سعد الماليني",
+      "has_id": NaN
+    },
+    {
+      "name": "حفص شقاق",
+      "relationship_type": "narrator",
+      "full_text": "که با حفص شقاق گفت",
+      "person_id": 1464,
+      "canonical_name": "حفص شقاق",
+      "has_id": NaN
+    },
+    {
+      "name": "بوتراب نخشبی",
+      "relationship_type": "direct_narrator",
+      "context": "questioner",
+      "full_text": "که بوتراب نخشبی٭ گفت، کی بایزد بسطامی را گفتم:",
+      "person_id": 721,
+      "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+      "has_id": 388
+    },
+    {
+      "name": "حلاج",
+      "relationship_type": "narrator",
+      "full_text": "حلاج گوید:",
+      "person_id": 127,
+      "canonical_name": "الحسين بن منصور الحلاج",
+      "has_id": 232
+    },
+    {
+      "name": "قاضی ابراهیم باخرزی",
+      "relationship_type": "narrator",
+      "full_text": "که قاضی ابراهیم باخرزی مرا گفت:",
+      "person_id": 272,
+      "canonical_name": "إبراهيم الباخرزي",
+      "has_id": NaN
+    },
+    {
+      "name": "سری سقطی",
+      "relationship_type": "narrator",
+      "full_text": "سری سقطی٭ گوید:",
+      "person_id": 161,
+      "canonical_name": "السري السقطي",
+      "has_id": 236
+    },
+    {
+      "name": "با سلیمان دارانی",
+      "relationship_type": "narrator",
+      "full_text": "با سلیمان دارانی٭ گوید:",
+      "person_id": 817,
+      "canonical_name": "أبو سليمان الداراني",
+      "has_id": 404
+    },
+    {
+      "name": "علی شریفی",
+      "relationship_type": "narrator",
+      "full_text": "علی شریفی مرا گفتا:",
+      "person_id": 2079,
+      "canonical_name": "علي شريفي",
+      "has_id": NaN
+    },
+    {
+      "name": "عراقیه",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "عجوزی بود عراقیه نام",
+      "person_id": 1956,
+      "canonical_name": "عراقية",
+      "has_id": NaN
+    },
+    {
+      "name": "شاگردی از آن بایزید",
+      "relationship_type": "questioner",
+      "full_text": "شاگردی از آن بایزید پرسید ویرا:",
+      "person_id": 1659,
+      "canonical_name": "شاگردي از آن بايزيد",
+      "has_id": NaN
+    }
+  ]
+}

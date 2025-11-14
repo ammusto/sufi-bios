@@ -1,0 +1,1265 @@
+{
+  "bio_id": "243",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "187",
+    "full_text": "مَاتَ فِي الْمحرم سنة سبع وَثَمَانِينَ وَمِائَة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "مرو",
+      "context": "mentioned",
+      "full_text": "من نَاحيَة مرو"
+    },
+    {
+      "place": "فندين",
+      "context": "mentioned",
+      "full_text": "من قَرْيَة يُقَال لَهَا فندين"
+    },
+    {
+      "place": "سمرقند",
+      "context": "born",
+      "full_text": "ولد بسمرقند"
+    },
+    {
+      "place": "أبيورد",
+      "context": "lived",
+      "full_text": "وَنَشَأ بأبيورد"
+    },
+    {
+      "place": "الْكُوفَة",
+      "context": "mentioned",
+      "full_text": "وَالْأَصْل من الْكُوفَة"
+    },
+    {
+      "place": "بخاري",
+      "context": "mentioned",
+      "full_text": "فُضَيْل بن عِيَاض بخاري الأَصْل"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "يحيى بن مُحَمَّد العكرمي",
+          "person_id": 2648,
+          "canonical_name": "يحيى بن محمد العكرمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحُسَيْن بن مُحَمَّد بن الفرزدق",
+          "person_id": 122,
+          "canonical_name": "الحسين بن محمد بن الفرزدق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن حموك",
+          "person_id": 1191,
+          "canonical_name": "أحمد بن حموك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "نصر بن الْحُسَيْن البُخَارِيّ",
+          "person_id": 2581,
+          "canonical_name": "نصر بن الحسين البخاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن الْأَشْعَث",
+          "person_id": 290,
+          "canonical_name": "إبراهيم بن الأشعث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "فِيمَا أخبرنَا بِهِ يحيى بن مُحَمَّد العكرمي بِالْكُوفَةِ قَالَ سَمِعت الْحُسَيْن بن مُحَمَّد بن الفرزدق بِمصْر قَالَ سَمِعت أَحْمد بن حموك قَالَ سَمِعت نصر بن الْحُسَيْن البُخَارِيّ قَالَ سَمِعت إِبْرَاهِيم بن الْأَشْعَث يذكر ذَلِك",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إِبْرَاهِيم بن شماس",
+          "person_id": 313,
+          "canonical_name": "إبراهيم بن شماس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَذكر إِبْرَاهِيم بن شماس أَنه ولد بسمرقند وَنَشَأ بأبيورد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن مُحَمَّد بن رُمَيْح",
+          "person_id": 1250,
+          "canonical_name": "أحمد بن محمد بن رميح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن نصر الضَّبِّيّ",
+          "person_id": 330,
+          "canonical_name": "إبراهيم بن نصر الضّبّي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّدًا بن عَليّ بن الْحسن بن شَقِيق",
+          "person_id": 2414,
+          "canonical_name": "محمد بن علي بن الحسين البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن شماس",
+          "person_id": 313,
+          "canonical_name": "إبراهيم بن شماس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل بن عِيَاض",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "كَذَلِك سَمِعت أَحْمد بن مُحَمَّد بن رُمَيْح يَقُول سَمِعت إِبْرَاهِيم بن نصر الضَّبِّيّ بسمرقند يَقُول يَقُول سَمِعت مُحَمَّدًا بن عَليّ بن الْحسن بن شَقِيق يَقُول سَمِعت إِبْرَاهِيم بن شماس قَالَ سَمِعت الفضيل بن عِيَاض يَقُول ولدت بسمرقند ونشأت بأبيورد وَرَأَيْت بسمرقند عشرَة آلَاف جوزة بدرهم",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا مُحَمَّد السَّمرقَنْدِي",
+          "person_id": 1041,
+          "canonical_name": "أبو محمد السمرقندي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "السراج",
+          "person_id": 160,
+          "canonical_name": "السراج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْجَوْهَرِي",
+          "person_id": 68,
+          "canonical_name": "الجوهري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عُبَيْدَة بن الفضيل بن عِيَاض",
+          "person_id": 930,
+          "canonical_name": "أبو عبيدة بن الفضيل بن عياض",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "فُضَيْل بن عِيَاض",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا مُحَمَّد السَّمرقَنْدِي يَقُول سَمِعت السراج يَقُول سَمِعت الْجَوْهَرِي يَقُول حَدثنِي أَبُو عُبَيْدَة بن الفضيل بن عِيَاض قَالَ أَبى فُضَيْل ابْن عِيَاض بن مَسْعُود بن بشر يكنى بِأبي عَليّ من بني تَمِيم من بني يَرْبُوع من أنفسهم ولد بسمرقند وَنَشَأ بأبيورد وَالْأَصْل من الْكُوفَة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن الْحَارِث",
+          "person_id": 1863,
+          "canonical_name": "عبد الله بن محمد بن الحارث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ عبد الله بن مُحَمَّد بن الْحَارِث فُضَيْل بن عِيَاض بخاري الأَصْل وَالله أعلم",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو جَعْفَر مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحُسَيْن بن دَاوُد الْبَلْخِي",
+          "person_id": 114,
+          "canonical_name": "الحسين بن داود البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "فُضَيْل بن عِيَاض",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        },
+        {
+          "name": "مَنْصُور",
+          "person_id": 2541,
+          "canonical_name": "منصور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم",
+          "person_id": 2692,
+          "canonical_name": "إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَلْقَمَة",
+          "person_id": 1980,
+          "canonical_name": "علقمة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مَسْعُود",
+          "person_id": 1880,
+          "canonical_name": "عبد الله بن مسعود",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا أَبُو جَعْفَر مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ قَالَ أخبرنَا الْحُسَيْن بن دَاوُد الْبَلْخِي قَالَ أخبرنَا فُضَيْل بن عِيَاض قَالَ أخبرنَا مَنْصُور عَن إِبْرَاهِيم عَن عَلْقَمَة عَن عبد الله بن مَسْعُود ﵁ قَالَ قَالَ رَسُول الله ﷺ (يَقُول الله تَعَالَى للدنيا يَا دنيا مري على أوليائي وَلَا تحلولي لَهُم فتفتنيهم)",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو مُحَمَّد عبد الله بن مُحَمَّد بن عبد الله بن عبد الرَّحْمَن الرَّازِيّ",
+          "person_id": 1063,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن عبد الله الشعراني",
+          "has_id": 432,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّدًا بن نصر بن مَنْصُور الصَّائِغ",
+          "person_id": 2460,
+          "canonical_name": "محمد بن نصر بن منصور الصائغ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مرْدَوَيْه الصَّائِغ",
+          "person_id": 2491,
+          "canonical_name": "مردويه الصائغ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل بن عِيَاض",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا أَبُو مُحَمَّد عبد الله بن مُحَمَّد بن عبد الله بن عبد الرَّحْمَن الرَّازِيّ قَالَ سَمِعت مُحَمَّدًا بن نصر بن مَنْصُور الصَّائِغ قَالَ سَمِعت مرْدَوَيْه الصَّائِغ قَالَ سَمِعت الفضيل بن عِيَاض يَقُول من يجلس مَعَ صَاحب بِدعَة لم يُعْط الْحِكْمَة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو مُحَمَّد عبد الله بن مُحَمَّد بن عبد الله بن عبد الرَّحْمَن الرَّازِيّ",
+          "person_id": 1063,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن عبد الله الشعراني",
+          "has_id": 432,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّدًا بن نصر بن مَنْصُور الصَّائِغ",
+          "person_id": 2460,
+          "canonical_name": "محمد بن نصر بن منصور الصائغ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مرْدَوَيْه الصَّائِغ",
+          "person_id": 2491,
+          "canonical_name": "مردويه الصائغ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل بن عِيَاض",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت الفضيل يَقُول فِي آخر الزَّمَان أَقوام يكونُونَ إخْوَان الْعَلَانِيَة أَعدَاء السريرة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو مُحَمَّد عبد الله بن مُحَمَّد بن عبد الله بن عبد الرَّحْمَن الرَّازِيّ",
+          "person_id": 1063,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن عبد الله الشعراني",
+          "has_id": 432,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّدًا بن نصر بن مَنْصُور الصَّائِغ",
+          "person_id": 2460,
+          "canonical_name": "محمد بن نصر بن منصور الصائغ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مرْدَوَيْه الصَّائِغ",
+          "person_id": 2491,
+          "canonical_name": "مردويه الصائغ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل بن عِيَاض",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ سَمِعت الفضيل يَقُول أَحَق النَّاس بِالرِّضَا عَن الله أهل الْمعرفَة بِاللَّه ﷿",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو مُحَمَّد عبد الله بن مُحَمَّد بن عبد الله بن عبد الرَّحْمَن الرَّازِيّ",
+          "person_id": 1063,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن عبد الله الشعراني",
+          "has_id": 432,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّدًا بن نصر بن مَنْصُور الصَّائِغ",
+          "person_id": 2460,
+          "canonical_name": "محمد بن نصر بن منصور الصائغ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مرْدَوَيْه الصَّائِغ",
+          "person_id": 2491,
+          "canonical_name": "مردويه الصائغ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل بن عِيَاض",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت الفضيل يَقُول لَا يَنْبَغِي لحامل الْقُرْآن أَن يكون لَهُ إِلَى خلق حَاجَة لَا إِلَى الْخُلَفَاء فَمن دونهم يَنْبَغِي أَن تكون حوائج الْخلق كلهم إِلَيْهِ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو مُحَمَّد عبد الله بن مُحَمَّد بن عبد الله بن عبد الرَّحْمَن الرَّازِيّ",
+          "person_id": 1063,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن عبد الله الشعراني",
+          "has_id": 432,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّدًا بن نصر بن مَنْصُور الصَّائِغ",
+          "person_id": 2460,
+          "canonical_name": "محمد بن نصر بن منصور الصائغ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مرْدَوَيْه الصَّائِغ",
+          "person_id": 2491,
+          "canonical_name": "مردويه الصائغ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل بن عِيَاض",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت الفضيل يَقُول لم يدْرك عندنَا من أدْرك بِكَثْرَة صِيَام وَلَا صَلَاة وَإِنَّمَا أدْرك بسخاء الْأَنْفس وسلامة الصَّدْر والنصح للْأمة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو مُحَمَّد عبد الله بن مُحَمَّد بن عبد الله بن عبد الرَّحْمَن الرَّازِيّ",
+          "person_id": 1063,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن عبد الله الشعراني",
+          "has_id": 432,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّدًا بن نصر بن مَنْصُور الصَّائِغ",
+          "person_id": 2460,
+          "canonical_name": "محمد بن نصر بن منصور الصائغ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مرْدَوَيْه الصَّائِغ",
+          "person_id": 2491,
+          "canonical_name": "مردويه الصائغ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل بن عِيَاض",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت الفضيل يَقُول لم يتزين النَّاس بِشَيْء أفضل من الصدْق وَطلب الْحَلَال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو مُحَمَّد عبد الله بن مُحَمَّد بن عبد الله بن عبد الرَّحْمَن الرَّازِيّ",
+          "person_id": 1063,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن عبد الله الشعراني",
+          "has_id": 432,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّدًا بن نصر بن مَنْصُور الصَّائِغ",
+          "person_id": 2460,
+          "canonical_name": "محمد بن نصر بن منصور الصائغ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مرْدَوَيْه الصَّائِغ",
+          "person_id": 2491,
+          "canonical_name": "مردويه الصائغ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل بن عِيَاض",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت الفضيل يَقُول أصل الزّهْد الرِّضَا عَن الله تَعَالَى",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو مُحَمَّد عبد الله بن مُحَمَّد بن عبد الله بن عبد الرَّحْمَن الرَّازِيّ",
+          "person_id": 1063,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن عبد الله الشعراني",
+          "has_id": 432,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّدًا بن نصر بن مَنْصُور الصَّائِغ",
+          "person_id": 2460,
+          "canonical_name": "محمد بن نصر بن منصور الصائغ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مرْدَوَيْه الصَّائِغ",
+          "person_id": 2491,
+          "canonical_name": "مردويه الصائغ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل بن عِيَاض",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول من عرف النَّاس استراح",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو مُحَمَّد عبد الله بن مُحَمَّد بن عبد الله بن عبد الرَّحْمَن الرَّازِيّ",
+          "person_id": 1063,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن عبد الله الشعراني",
+          "has_id": 432,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّدًا بن نصر بن مَنْصُور الصَّائِغ",
+          "person_id": 2460,
+          "canonical_name": "محمد بن نصر بن منصور الصائغ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مرْدَوَيْه الصَّائِغ",
+          "person_id": 2491,
+          "canonical_name": "مردويه الصائغ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل بن عِيَاض",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول إِنِّي لَا أعتقد إخاء الرجل فِي الرِّضَا وَلَكِنِّي أعتقد إخاءه فِي الْغَضَب إِذا أغضبته",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبيد الله بن مُحَمَّد بن مُحَمَّد بن حمدَان العكبري",
+          "person_id": 1934,
+          "canonical_name": "عبيد الله بن محمد بن محمد بن حمدان العكبري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو مُحَمَّد بن الراجيان",
+          "person_id": 1047,
+          "canonical_name": "أبو محمد بن الراجيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "فتح بن شخرف",
+          "person_id": 2166,
+          "canonical_name": "فتح بن شخرف المروزي",
+          "has_id": 726,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن خبيق",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبيد الله بن مُحَمَّد بن مُحَمَّد بن حمدَان العكبري قَالَ حَدثنَا أَبُو مُحَمَّد بن الراجيان قَالَ حَدثنَا فتح بن شخرف قَالَ حَدثنَا عبد الله بن خبيق قَالَ قَالَ الفضيل تبَاعد من الْقُرَّاء فَإِنَّهُم إِن أحبوك مدحوك بِمَا لَيْسَ فِيك وَإِن أبغضوك شهدُوا عَلَيْك وَقبل مِنْهُم",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّدًا بن الْحسن بن خَالِد الْبَغْدَادِيّ",
+          "person_id": 2230,
+          "canonical_name": "محمد بن الحسن بن خالد البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن مُحَمَّد ابْن صَالح",
+          "person_id": 1255,
+          "canonical_name": "أحمد بن محمد بن صالح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن جَعْفَر",
+          "person_id": 2330,
+          "canonical_name": "محمد بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِسْمَاعِيل بن يزِيد",
+          "person_id": 370,
+          "canonical_name": "إسماعيل بن يزيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم",
+          "person_id": 290,
+          "canonical_name": "إبراهيم بن الأشعث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل بن عِيَاض",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّدًا بن الْحسن بن خَالِد الْبَغْدَادِيّ بنيسابور يَقُول سَمِعت أَحْمد بن مُحَمَّد ابْن صَالح يَقُول حَدثنَا مُحَمَّد بن جَعْفَر قَالَ حَدثنَا إِسْمَاعِيل بن يزِيد حَدثنَا إِبْرَاهِيم قَالَ سَأَلت الفضيل بن عِيَاض عَن التَّوَاضُع فَقَالَ أَن تخضع للحق وتنقاد لَهُ وَتقبل الْحق من كل من تسمعه مِنْهُ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبيد الله بن عُثْمَان",
+          "person_id": 1931,
+          "canonical_name": "عبيد الله بن عثمان بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّدًا بن الْحُسَيْن",
+          "person_id": 2237,
+          "canonical_name": "محمد بن الحسين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْمروزِي",
+          "person_id": 232,
+          "canonical_name": "المروزي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بشرا بن الْحَارِث",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل بن عِيَاض",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبيد الله بن عُثْمَان يَقُول سَمِعت مُحَمَّدًا بن الْحُسَيْن يَقُول سَمِعت الْمروزِي يَقُول سَمِعت بشرا بن الْحَارِث يَقُول قَالَ الفضيل بن عِيَاض أشتهي مَرضا بِلَا عواد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو مُحَمَّد عبد الله بن أَحْمد بن جَعْفَر الشَّيْبَانِيّ",
+          "person_id": 1056,
+          "canonical_name": "أبو محمد عبد الله بن أحمد بن جعفر الشيباني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زَنْجوَيْه ابْن الْحسن اللباد",
+          "person_id": 1563,
+          "canonical_name": "زنجويه بن الحسن اللباد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحسن الْهِلَالِي",
+          "person_id": 1995,
+          "canonical_name": "علي بن الحسن الهلالي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن الْأَشْعَث",
+          "person_id": 290,
+          "canonical_name": "إبراهيم بن الأشعث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل بن عِيَاض",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا أَبُو مُحَمَّد عبد الله بن أَحْمد بن جَعْفَر الشَّيْبَانِيّ قَالَ سَمِعت زَنْجوَيْه ابْن الْحسن اللباد قَالَ حَدثنَا عَليّ بن الْحسن الْهِلَالِي قَالَ حَدثنَا إِبْرَاهِيم بن\nالْأَشْعَث قَالَ سَمِعت الفضيل بن عِيَاض يَقُول إِن فِيكُم خَصْلَتَيْنِ هما من الْجَهْل الضحك من غير عجب والتصبح من غير سهر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو مُحَمَّد عبد الله بن أَحْمد بن جَعْفَر الشَّيْبَانِيّ",
+          "person_id": 1056,
+          "canonical_name": "أبو محمد عبد الله بن أحمد بن جعفر الشيباني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زَنْجوَيْه ابْن الْحسن اللباد",
+          "person_id": 1563,
+          "canonical_name": "زنجويه بن الحسن اللباد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحسن الْهِلَالِي",
+          "person_id": 1995,
+          "canonical_name": "علي بن الحسن الهلالي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن الْأَشْعَث",
+          "person_id": 290,
+          "canonical_name": "إبراهيم بن الأشعث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل بن عِيَاض",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول من أظهر لِأَخِيهِ الود والصفاء بِلِسَانِهِ وأضمر لَهُ الْعَدَاوَة والبغضاء لَعنه الله فأصمه وأعمى بَصِيرَة قلبه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو مُحَمَّد عبد الله بن أَحْمد بن جَعْفَر الشَّيْبَانِيّ",
+          "person_id": 1056,
+          "canonical_name": "أبو محمد عبد الله بن أحمد بن جعفر الشيباني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زَنْجوَيْه ابْن الْحسن اللباد",
+          "person_id": 1563,
+          "canonical_name": "زنجويه بن الحسن اللباد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحسن الْهِلَالِي",
+          "person_id": 1995,
+          "canonical_name": "علي بن الحسن الهلالي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن الْأَشْعَث",
+          "person_id": 290,
+          "canonical_name": "إبراهيم بن الأشعث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل بن عِيَاض",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت الفضيل بن عِيَاض يَقُول فِي قَول الله تَعَالَى ﴿إِن فِي هَذَا لبلاغا لقوم عابدين﴾ الْآيَة ﴿الْأَنْبِيَاء﴾ لذين يُحَافِظُونَ على الصَّلَوَات الْخمس",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو مُحَمَّد عبد الله بن أَحْمد بن جَعْفَر الشَّيْبَانِيّ",
+          "person_id": 1056,
+          "canonical_name": "أبو محمد عبد الله بن أحمد بن جعفر الشيباني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زَنْجوَيْه ابْن الْحسن اللباد",
+          "person_id": 1563,
+          "canonical_name": "زنجويه بن الحسن اللباد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحسن الْهِلَالِي",
+          "person_id": 1995,
+          "canonical_name": "علي بن الحسن الهلالي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن الْأَشْعَث",
+          "person_id": 290,
+          "canonical_name": "إبراهيم بن الأشعث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل بن عِيَاض",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول كَانَ يُقَال جعل الشَّرّ كُله فِي بَيت وَجعل مفتاحه الرَّغْبَة فِي الدُّنْيَا وَجعل الْخَيْر كُله فِي بَيت وَجعل مفتاحه الزّهْد فِي الدُّنْيَا",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو مُحَمَّد عبد الله بن أَحْمد بن جَعْفَر الشَّيْبَانِيّ",
+          "person_id": 1056,
+          "canonical_name": "أبو محمد عبد الله بن أحمد بن جعفر الشيباني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زَنْجوَيْه ابْن الْحسن اللباد",
+          "person_id": 1563,
+          "canonical_name": "زنجويه بن الحسن اللباد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحسن الْهِلَالِي",
+          "person_id": 1995,
+          "canonical_name": "علي بن الحسن الهلالي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن الْأَشْعَث",
+          "person_id": 290,
+          "canonical_name": "إبراهيم بن الأشعث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل بن عِيَاض",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول من كف شَره فَمَا ضيع مَا سره",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو مُحَمَّد عبد الله بن أَحْمد بن جَعْفَر الشَّيْبَانِيّ",
+          "person_id": 1056,
+          "canonical_name": "أبو محمد عبد الله بن أحمد بن جعفر الشيباني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زَنْجوَيْه ابْن الْحسن اللباد",
+          "person_id": 1563,
+          "canonical_name": "زنجويه بن الحسن اللباد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحسن الْهِلَالِي",
+          "person_id": 1995,
+          "canonical_name": "علي بن الحسن الهلالي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن الْأَشْعَث",
+          "person_id": 290,
+          "canonical_name": "إبراهيم بن الأشعث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ الفضيل ثَلَاث خِصَال تقسي الْقلب كَثْرَة الْأكل وَكَثْرَة النّوم وَكَثْرَة الْكَلَام",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو مُحَمَّد عبد الله بن أَحْمد بن جَعْفَر الشَّيْبَانِيّ",
+          "person_id": 1056,
+          "canonical_name": "أبو محمد عبد الله بن أحمد بن جعفر الشيباني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زَنْجوَيْه ابْن الْحسن اللباد",
+          "person_id": 1563,
+          "canonical_name": "زنجويه بن الحسن اللباد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحسن الْهِلَالِي",
+          "person_id": 1995,
+          "canonical_name": "علي بن الحسن الهلالي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن الْأَشْعَث",
+          "person_id": 290,
+          "canonical_name": "إبراهيم بن الأشعث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل بن عِيَاض",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت الفضيل يَقُول خير الْعَمَل أخفاه وأمنعه من الشَّيْطَان وأبعده من الرِّيَاء",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو مُحَمَّد عبد الله بن أَحْمد بن جَعْفَر الشَّيْبَانِيّ",
+          "person_id": 1056,
+          "canonical_name": "أبو محمد عبد الله بن أحمد بن جعفر الشيباني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زَنْجوَيْه ابْن الْحسن اللباد",
+          "person_id": 1563,
+          "canonical_name": "زنجويه بن الحسن اللباد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحسن الْهِلَالِي",
+          "person_id": 1995,
+          "canonical_name": "علي بن الحسن الهلالي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن الْأَشْعَث",
+          "person_id": 290,
+          "canonical_name": "إبراهيم بن الأشعث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول إِن من شكر النِّعْمَة أَن نُحدث بهَا",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو مُحَمَّد عبد الله بن أَحْمد بن جَعْفَر الشَّيْبَانِيّ",
+          "person_id": 1056,
+          "canonical_name": "أبو محمد عبد الله بن أحمد بن جعفر الشيباني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زَنْجوَيْه ابْن الْحسن اللباد",
+          "person_id": 1563,
+          "canonical_name": "زنجويه بن الحسن اللباد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحسن الْهِلَالِي",
+          "person_id": 1995,
+          "canonical_name": "علي بن الحسن الهلالي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن الْأَشْعَث",
+          "person_id": 290,
+          "canonical_name": "إبراهيم بن الأشعث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ الفضيل أَبى الله إِلَّا أَن يَجْعَل أرزاق الْمُتَّقِينَ من حَيْثُ لَا يحتسبون",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو مُحَمَّد عبد الله بن أَحْمد بن جَعْفَر الشَّيْبَانِيّ",
+          "person_id": 1056,
+          "canonical_name": "أبو محمد عبد الله بن أحمد بن جعفر الشيباني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زَنْجوَيْه ابْن الْحسن اللباد",
+          "person_id": 1563,
+          "canonical_name": "زنجويه بن الحسن اللباد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحسن الْهِلَالِي",
+          "person_id": 1995,
+          "canonical_name": "علي بن الحسن الهلالي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن الْأَشْعَث",
+          "person_id": 290,
+          "canonical_name": "إبراهيم بن الأشعث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ الفضيل لَا عمل لمن لَا نِيَّة لَهُ وَلَا أجر لمن لَا حسبَة لَهُ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو مُحَمَّد عبد الله بن أَحْمد بن جَعْفَر الشَّيْبَانِيّ",
+          "person_id": 1056,
+          "canonical_name": "أبو محمد عبد الله بن أحمد بن جعفر الشيباني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زَنْجوَيْه ابْن الْحسن اللباد",
+          "person_id": 1563,
+          "canonical_name": "زنجويه بن الحسن اللباد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحسن الْهِلَالِي",
+          "person_id": 1995,
+          "canonical_name": "علي بن الحسن الهلالي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن الْأَشْعَث",
+          "person_id": 290,
+          "canonical_name": "إبراهيم بن الأشعث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفضيل",
+          "person_id": 200,
+          "canonical_name": "الفضيل بن عياض",
+          "has_id": 243,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ طُوبَى لمن استوحش من النَّاس وَأنس بربه وَبكى على خطيئته",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "إِبْرَاهِيم ابْن الْأَشْعَث",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَاحبه",
+        "full_text": "كَذَلِك ذكره إِبْرَاهِيم ابْن الْأَشْعَث صَاحبه",
+        "person_id": 290,
+        "canonical_name": "إبراهيم بن الأشعث",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "إِبْرَاهِيم بن شماس",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت إِبْرَاهِيم بن شماس قَالَ سَمِعت الفضيل بن عِيَاض",
+      "person_id": 313,
+      "canonical_name": "إبراهيم بن شماس",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبُو عُبَيْدَة بن الفضيل بن عِيَاض",
+      "relationship_type": "narrator",
+      "full_text": "حَدثنِي أَبُو عُبَيْدَة بن الفضيل بن عِيَاض قَالَ أَبى فُضَيْل",
+      "person_id": 930,
+      "canonical_name": "أبو عبيدة بن الفضيل بن عياض",
+      "has_id": NaN
+    },
+    {
+      "name": "الْحُسَيْن بن دَاوُد الْبَلْخِي",
+      "relationship_type": "narrator",
+      "full_text": "قَالَ أخبرنَا الْحُسَيْن بن دَاوُد الْبَلْخِي قَالَ أخبرنَا فُضَيْل بن عِيَاض",
+      "person_id": 114,
+      "canonical_name": "الحسين بن داود البلخي",
+      "has_id": NaN
+    },
+    {
+      "name": "مرْدَوَيْه الصَّائِغ",
+      "relationship_type": "narrator",
+      "full_text": "قَالَ سَمِعت مرْدَوَيْه الصَّائِغ قَالَ سَمِعت الفضيل بن عِيَاض",
+      "person_id": 2491,
+      "canonical_name": "مردويه الصائغ",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الله بن خبيق",
+      "relationship_type": "narrator",
+      "full_text": "حَدثنَا عبد الله بن خبيق قَالَ قَالَ الفضيل",
+      "person_id": 1057,
+      "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+      "has_id": 661
+    },
+    {
+      "name": "إِبْرَاهِيم",
+      "relationship_type": "questioner",
+      "full_text": "حَدثنَا إِبْرَاهِيم قَالَ سَأَلت الفضيل بن عِيَاض عَن التَّوَاضُع",
+      "person_id": 290,
+      "canonical_name": "إبراهيم بن الأشعث",
+      "has_id": NaN
+    },
+    {
+      "name": "بشرا بن الْحَارِث",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت بشرا بن الْحَارِث يَقُول قَالَ الفضيل بن عِيَاض",
+      "person_id": 1323,
+      "canonical_name": "بشر بن الحارث الحافي",
+      "has_id": 470
+    },
+    {
+      "name": "إِبْرَاهِيم بن الْأَشْعَث",
+      "relationship_type": "narrator",
+      "full_text": "قَالَ حَدثنَا إِبْرَاهِيم بن\nالْأَشْعَث قَالَ سَمِعت الفضيل بن عِيَاض",
+      "person_id": 290,
+      "canonical_name": "إبراهيم بن الأشعث",
+      "has_id": NaN
+    }
+  ]
+}

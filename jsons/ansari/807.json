@@ -1,0 +1,65 @@
+{
+  "bio_id": "807",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "کرمانشاه",
+      "context": "nisba",
+      "full_text": "کرمانشاهی"
+    },
+    {
+      "place": "جبل",
+      "context": "visited",
+      "full_text": "از مهمان مشایخ جبل است"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:که وی شب سه قسمکرده بود:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلامگفت: ازان باو حاجت نبود،کش حاجت همه او بود و بس.",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "عبداللّه خراز",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "صحبت کرده با عبداللّه خراز",
+        "person_id": 1791,
+        "canonical_name": "عبد الله بن محمد الخراز الرازي",
+        "has_id": 653
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت:که وی شب سه قسمکرده بود:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "استاد عباس بن الشاعر ایذ",
+      "relationship_type": "questioner",
+      "full_text": "استاد عباس بن الشاعر ایذ از وی پرسیدند: که فقیر که\nبود؟",
+      "person_id": 1719,
+      "canonical_name": "عباس بن شاعر الأزدي",
+      "has_id": 648
+    }
+  ]
+}

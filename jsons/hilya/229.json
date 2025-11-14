@@ -1,0 +1,749 @@
+{
+  "bio_id": "229",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "باب الطاق",
+      "context": "visited",
+      "full_text": "بباب الطاق في وسط الطريق"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد الخواص",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد ابن مقسم",
+          "person_id": 1263,
+          "canonical_name": "أحمد بن محمد بن مقسم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر جعفر بن محمد الخواص - في كتابه - وحدثني عنه أحمد بن محمد ابن مقسم قال سمعت الجنيد بن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن مقسم",
+          "person_id": 414,
+          "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر جعفر بن محمد - في كتابه - وحدثني عنه أحمد بن محمد بن مقسم قال سمعت الجنيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسن",
+          "person_id": 6,
+          "canonical_name": "أبو الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر جعفر بن محمد - في كتابه - وحدثني عنه أبو الحسن قال سمعت الجنيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسن",
+          "person_id": 6,
+          "canonical_name": "أبو الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر جعفر وحدثني عنه أبو الحسن قال سمعت الجنيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا علي بن خيران الفقيه",
+          "person_id": 976,
+          "canonical_name": "أبو علي بن خيران الفقيه",
+          "has_id": 162,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول سمعت أبا علي بن خيران الفقيه يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن إسحاق بن الإمام",
+          "person_id": 2280,
+          "canonical_name": "محمد بن إسحاق بن الإمام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1045,
+          "canonical_name": "أبو محمد إسحاق بن الإمام",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول حدثني محمد بن إسحاق بن الإمام حدثني أبي قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد الخواص",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أبو على الحسين ابن يحيى بن زكريا الفقيه",
+          "person_id": 954,
+          "canonical_name": "أبو علي الحسين بن يحيى بن زكريا الفقيه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا العباس بن مسروق والجنيد بن محمد",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر جعفر بن محمد الخواص - في كتابه - وحدثني عنه أبو على الحسين ابن يحيى بن زكريا الفقيه قال سمعت أبا العباس بن مسروق والجنيد بن محمد يقولان سمعنا الحارث المحاسبي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أبو طاهر محمد بن إبراهيم بن أحمد",
+          "person_id": 834,
+          "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عثمان البلدي",
+          "person_id": 934,
+          "canonical_name": "أبو عثمان البلدي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر جعفر - في كتابه - وحدثني عنه أبو طاهر محمد بن إبراهيم بن أحمد قال سمعت أبا عثمان البلدي يقول: بلغني عن الحارث المحاسبي أنه قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أبو طاهر محمد بن إبراهيم بن أحمد",
+          "person_id": 834,
+          "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عثمان البلدي",
+          "person_id": 934,
+          "canonical_name": "أبو عثمان البلدي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وقال الحارث",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو جعفر",
+          "person_id": 725,
+          "canonical_name": "أبو جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 834,
+          "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر أبو جعفر - في كتابه - وحدثني عنه محمد بن إبراهيم قال سمعت الجنيد بن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو جعفر",
+          "person_id": 725,
+          "canonical_name": "أبو جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 834,
+          "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال قال الحارث",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو جعفر",
+          "person_id": 725,
+          "canonical_name": "أبو جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 834,
+          "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 834,
+          "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر جعفر بن محمد في كتابه وحدثني عنه محمد بن إبراهيم قال سمعت الجنيد بن محمد يقول قال الحارث بن أسد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو بكر محمد بن أحمد",
+          "person_id": 691,
+          "canonical_name": "أبو بكر محمد بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله أحمد بن عبد الله بن ميمون",
+          "person_id": 893,
+          "canonical_name": "أبو عبد الله أحمد بن عبد الله بن ميمون",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر أبو بكر محمد بن أحمد - في كتابه قبل أن لقيته - وحدثني بهذا عنه عثمان بن محمد العثماني حدثني أبو عبد الله أحمد بن عبد الله بن ميمون قال سمعت الحارث بن أسد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو بكر محمد بن أحمد",
+          "person_id": 691,
+          "canonical_name": "أبو بكر محمد بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله أحمد بن عبد الله بن ميمون",
+          "person_id": 893,
+          "canonical_name": "أبو عبد الله أحمد بن عبد الله بن ميمون",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر أبو بكر محمد بن أحمد - في كتابه قبل أن لقيته - وحدثني عنه عثمان بن محمد العثماني حدثني أبو عبد الله أحمد بن عبد الله بن ميمون قال سمعت الحارث بن أسد المحاسبي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد",
+          "person_id": 2314,
+          "canonical_name": "محمد بن أحمد بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو العباس بن مسروق",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا محمد بن أحمد وحدثني عنه عثمان بن محمد - قبل أن لقيته - ثنا أبو العباس بن مسروق قال سمعت الحارث بن أسد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد",
+          "person_id": 2314,
+          "canonical_name": "محمد بن أحمد بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو العباس بن مسروق",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا محمد بن أحمد وحدثني عنه عثمان ثنا أبو العباس بن مسروق قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد",
+          "person_id": 2314,
+          "canonical_name": "محمد بن أحمد بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عبد الله بن ميمون",
+          "person_id": 1214,
+          "canonical_name": "أحمد بن عبد الله بن ميمون",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا محمد في كتابه قال: أنبأنا أحمد بن عبد الله بن ميمون قال قال الحارث بن أسد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد بن محمد",
+          "person_id": 2314,
+          "canonical_name": "محمد بن أحمد بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عبد الله بن ميمون",
+          "person_id": 1214,
+          "canonical_name": "أحمد بن عبد الله بن ميمون",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا محمد بن أحمد بن محمد - في كتابه قبل أن لقيته - وحدثني عنه عثمان بن محمد العثماني ثنا أحمد بن عبد الله بن ميمون قال قلت للحارث بن أسد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 834,
+          "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عثمان البلدي",
+          "person_id": 934,
+          "canonical_name": "أبو عثمان البلدي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد بن نصر في كتابه وحدثني عنه محمد بن إبراهيم قال سمعت أبا عثمان البلدي يقول: بلغني عن الحارث بن أسد أنه قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد",
+          "person_id": 2314,
+          "canonical_name": "محمد بن أحمد بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن مسروق",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا محمد بن أحمد - في كتابه قبل أن لقيته - وحدثني عنه عثمان بن محمد العثماني ثنا أحمد بن محمد بن مسروق قال قال الحارث بن أسد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن مقسم",
+          "person_id": 414,
+          "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد - في كتابه - وحدثني عنه أحمد بن محمد بن مقسم قال سمعت الجنيد بن محمد يقول سمعت الحارث بن أسد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد",
+          "person_id": 2314,
+          "canonical_name": "محمد بن أحمد بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله أحمد بن عبد الله بن ميمون",
+          "person_id": 893,
+          "canonical_name": "أبو عبد الله أحمد بن عبد الله بن ميمون",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا محمد بن أحمد - في كتابه - وحدثني عنه أولا عثمان بن محمد ثنا أبو عبد الله أحمد بن عبد الله بن ميمون قال سمعت الحارث بن أسد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد",
+          "person_id": 2314,
+          "canonical_name": "محمد بن أحمد بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن مسروق",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا محمد بن أحمد وحدثني عنه عثمان ثنا أحمد بن محمد بن مسروق قال سئل الحارث بن أسد عن مقام ذكر الموت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد بن نصير - في كتابه - وحدثني عنه عثمان بن محمد العثماني قال سمعت الجنيد يقول سمعت أبا عبد الله الحارث بن أسد يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "الجنيد بن محمد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت الجنيد بن محمد يقول",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    },
+    {
+      "name": "أبا علي بن خيران الفقيه",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا علي بن خيران الفقيه يقول",
+      "person_id": 976,
+      "canonical_name": "أبو علي بن خيران الفقيه",
+      "has_id": 162
+    },
+    {
+      "name": "أبا عثمان البلدي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا عثمان البلدي يقول",
+      "person_id": 934,
+      "canonical_name": "أبو عثمان البلدي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو عبد الله أحمد بن عبد الله بن ميمون",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت الحارث بن أسد يقول",
+      "person_id": 893,
+      "canonical_name": "أبو عبد الله أحمد بن عبد الله بن ميمون",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو العباس بن مسروق",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت الحارث بن أسد يقول",
+      "person_id": 505,
+      "canonical_name": "أبو العباس بن مسروق الطوسي",
+      "has_id": 451
+    },
+    {
+      "name": "أحمد بن محمد بن مسروق",
+      "relationship_type": "narrator",
+      "full_text": "قال قال الحارث بن أسد",
+      "person_id": 505,
+      "canonical_name": "أبو العباس بن مسروق الطوسي",
+      "has_id": 451
+    },
+    {
+      "name": "أبي",
+      "relationship_type": "questioner",
+      "full_text": "حدثني أبي قال: سألت الحارث بن أسد المحاسبي",
+      "person_id": 585,
+      "canonical_name": "أبو أبي نعيم الأصفهاني",
+      "has_id": NaN
+    }
+  ]
+}

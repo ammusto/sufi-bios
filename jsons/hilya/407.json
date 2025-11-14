@@ -1,0 +1,121 @@
+{
+  "bio_id": "407",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "براثا",
+      "context": "nisba",
+      "full_text": "البراثي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو بكر محمد بن أحمد المفيد",
+          "person_id": 647,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
+          "subj_added": false
+        },
+        {
+          "name": "العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن مسروق",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        },
+        {
+          "name": "البرجلاني",
+          "person_id": 2239,
+          "canonical_name": "محمد بن الحسين البرجلاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عبد الله البراثي",
+          "person_id": 856,
+          "canonical_name": "أبو عبد الله البراثي",
+          "has_id": 407,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر أبو بكر محمد بن أحمد المفيد فيما كتب إلي وحدثني عنه العثماني ثنا أحمد بن مسروق حدثني البرجلاني قال سمعت أبا عبد الله البراثي يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد",
+          "person_id": 2214,
+          "canonical_name": "محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن مسروق",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 2239,
+          "canonical_name": "محمد بن الحسين البرجلاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حكيم بن جعفر",
+          "person_id": 1467,
+          "canonical_name": "حكيم بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عبد الله البراثي",
+          "person_id": 856,
+          "canonical_name": "أبو عبد الله البراثي",
+          "has_id": 407,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا محمد في كتابه ثنا أحمد بن مسروق ثنا محمد بن الحسين حدثني حكيم بن جعفر قال سمعت أبا عبد الله البراثي يقول:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "البرجلاني",
+      "relationship_type": "narrator",
+      "full_text": "حدثني البرجلاني",
+      "person_id": 2239,
+      "canonical_name": "محمد بن الحسين البرجلاني",
+      "has_id": NaN
+    },
+    {
+      "name": "حكيم بن جعفر",
+      "relationship_type": "narrator",
+      "full_text": "حدثني حكيم بن جعفر",
+      "person_id": 1467,
+      "canonical_name": "حكيم بن جعفر",
+      "has_id": NaN
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "bio_id": "312",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "<320",
+    "full_text": "مات قبل العشرین و ثلثمائه.",
+    "certainty": "approximate"
+  },
+  "geographical_locations": [
+    {
+      "place": "نشاپور",
+      "context": "lived",
+      "full_text": "از مهینان مشایخ نشاپورست"
+    }
+  ],
+  "isnads": [],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "عثمان٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "از قدیمان اصحاب با",
+        "full_text": "از قدیمان اصحاب با عثمان٭",
+        "person_id": 1947,
+        "canonical_name": "عثمان",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": []
+}

@@ -1,0 +1,272 @@
+{
+  "bio_id": "242",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1855,
+          "canonical_name": "عبد الله بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1855,
+          "canonical_name": "عبد الله بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سلمة بن شبيب",
+          "person_id": 1614,
+          "canonical_name": "سلمة بن شبيب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عاصم",
+          "person_id": 1638,
+          "canonical_name": "سهل بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو روح الفرج بن سعيد الصوفي",
+          "person_id": 785,
+          "canonical_name": "أبو روح الفرج بن سعيد الصوفي",
+          "has_id": 242,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان بن عمار",
+          "person_id": 1953,
+          "canonical_name": "عثمان بن عمار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حماد بن زيد",
+          "person_id": 1471,
+          "canonical_name": "حماد بن زيد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد ثنا عبد الله بن محمد ثنا سلمة بن شبيب ثنا سهل بن عاصم ثنا أبو روح الفرج بن سعيد الصوفي قال: حدثني عثمان بن عمار قال سمعت حماد بن زيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ثابت",
+          "person_id": 2326,
+          "canonical_name": "محمد بن ثابت البناني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 785,
+          "canonical_name": "أبو روح الفرج بن سعيد الصوفي",
+          "has_id": 242,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "فقال ثابت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "قال ابن عون",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ثابت",
+          "person_id": 2326,
+          "canonical_name": "محمد بن ثابت البناني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 785,
+          "canonical_name": "أبو روح الفرج بن سعيد الصوفي",
+          "has_id": 242,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال ثابت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "يونس بن عبيد",
+          "person_id": 2688,
+          "canonical_name": "يونس بن عبيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 785,
+          "canonical_name": "أبو روح الفرج بن سعيد الصوفي",
+          "has_id": 242,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "فقال يونس بن عبيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أيوب",
+          "person_id": 1314,
+          "canonical_name": "أيوب السختياتى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 785,
+          "canonical_name": "أبو روح الفرج بن سعيد الصوفي",
+          "has_id": 242,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "فقال أيوب",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حماد",
+          "person_id": 1471,
+          "canonical_name": "حماد بن زيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 785,
+          "canonical_name": "أبو روح الفرج بن سعيد الصوفي",
+          "has_id": 242,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال حماد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "يونس",
+          "person_id": 2688,
+          "canonical_name": "يونس بن عبيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 785,
+          "canonical_name": "أبو روح الفرج بن سعيد الصوفي",
+          "has_id": 242,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "فقال يونس",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "عثمان بن عمار",
+        "relationship_type": "student_of",
+        "relationship_phrase": "حدثني",
+        "full_text": "قال: حدثني عثمان بن عمار",
+        "person_id": 1953,
+        "canonical_name": "عثمان بن عمار",
+        "has_id": NaN
+      }
+    ],
+    "students": [
+      {
+        "name": "سهل بن عاصم",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا سهل بن عاصم ثنا أبو روح الفرج بن سعيد الصوفي",
+        "person_id": 1638,
+        "canonical_name": "سهل بن عاصم",
+        "has_id": NaN
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "سهل بن عاصم",
+      "relationship_type": "narrator",
+      "full_text": "ثنا سهل بن عاصم ثنا أبو روح الفرج بن سعيد الصوفي",
+      "person_id": 1638,
+      "canonical_name": "سهل بن عاصم",
+      "has_id": NaN
+    },
+    {
+      "name": "ثابت البناني",
+      "relationship_type": "questioner",
+      "full_text": "فقال ثابت: يا هؤلاء كيف يكون العبد إذا ادعا الله فاستجاب له دعاءه",
+      "person_id": 2326,
+      "canonical_name": "محمد بن ثابت البناني",
+      "has_id": NaN
+    },
+    {
+      "name": "ابن عون",
+      "relationship_type": "interlocutor",
+      "full_text": "قال ابن عون: يكون البلاء في نفسه.",
+      "has_id": NaN,
+      "person_id": 19,
+      "canonical_name": "ابن حاتم العكلي"
+    },
+    {
+      "name": "يونس بن عبيد",
+      "relationship_type": "interlocutor",
+      "full_text": "فقال يونس بن عبيد: لا يكون العبد يعجب بصنع الله له إلا وهو مستدرج.",
+      "person_id": 2688,
+      "canonical_name": "يونس بن عبيد",
+      "has_id": NaN
+    },
+    {
+      "name": "أيوب السختياتى",
+      "relationship_type": "questioner",
+      "full_text": "فقال أيوب وما علامة المستدرج؟",
+      "person_id": 1314,
+      "canonical_name": "أيوب السختياتى",
+      "has_id": NaN
+    },
+    {
+      "name": "ابن عمر",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "سئل عن الاستدراج",
+      "full_text": "إن ابن عمر سئل عن الاستدراج فقال: ذلك مكره بالعباد المضيعين.",
+      "has_id": NaN,
+      "person_id": 28,
+      "canonical_name": "ابن عمر"
+    }
+  ]
+}

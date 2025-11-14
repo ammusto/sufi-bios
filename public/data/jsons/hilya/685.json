@@ -1,0 +1,52 @@
+{
+  "bio_id": "685",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "أصبهان",
+      "context": "visited",
+      "full_text": "رجع إلى أصبهان"
+    },
+    {
+      "place": "أصبهان",
+      "context": "lived",
+      "full_text": "وسكنها"
+    }
+  ],
+  "isnads": [],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "سفيان الثوري",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب سفيان الثوري ثلاث عشرة سنة",
+        "person_id": 1607,
+        "canonical_name": "سفيان الثوري",
+        "has_id": 598
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "سفيان الثوري",
+      "relationship_type": "interlocutor",
+      "full_text": "فقال لسفيان: لو أتيتهم؟ فقال سفيان: أتراني أخاف هوانهم؟ إنما أخاف كرامتهم.",
+      "person_id": 1607,
+      "canonical_name": "سفيان الثوري",
+      "has_id": 598
+    },
+    {
+      "name": "أمير المؤمنين المهدي",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "الخليفة",
+      "full_text": "وكان رسوله إلى أمير المؤمنين المهدي، فعرض عليه المهدي برا ومالا فلم يقبل",
+      "person_id": 1309,
+      "canonical_name": "أمير المؤمنين المهدي",
+      "has_id": NaN
+    }
+  ]
+}

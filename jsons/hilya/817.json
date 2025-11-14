@@ -1,0 +1,122 @@
+{
+  "bio_id": "817",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا محمد بن حيان",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سمعت أبا محمد بن حيان يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله محمد بن جعفر",
+          "person_id": 1889,
+          "canonical_name": "عبد الله محمد بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن يحيى بن منده",
+          "person_id": 2471,
+          "canonical_name": "محمد بن يحيى بن منده",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "موسى بن عبد الرحمن",
+          "person_id": 2563,
+          "canonical_name": "موسى بن عبد الرحمن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبيه",
+          "person_id": 1149,
+          "canonical_name": "أبوه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "النعمان",
+          "person_id": 247,
+          "canonical_name": "النعمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سفيان",
+          "person_id": 1606,
+          "canonical_name": "سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمرو بن دينار",
+          "person_id": 2123,
+          "canonical_name": "عمرو بن دينار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي الزبير",
+          "person_id": 478,
+          "canonical_name": "أبو الزبير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جابر",
+          "person_id": 1372,
+          "canonical_name": "جابر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "النبي ﷺ",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله محمد بن جعفر ثنا محمد بن يحيى بن منده ثنا موسى بن عبد الرحمن عن أبيه عن النعمان عن سفيان عن عمرو بن دينار وأبي الزبير عن جابر عن النبي ﷺ",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا محمد بن حيان",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا محمد بن حيان يقول",
+      "person_id": 1050,
+      "canonical_name": "أبو محمد بن حيان",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن يحيى بن منده",
+      "relationship_type": "narrator",
+      "full_text": "ثنا محمد بن يحيى بن منده ثنا موسى بن عبد الرحمن",
+      "person_id": 2471,
+      "canonical_name": "محمد بن يحيى بن منده",
+      "has_id": NaN
+    }
+  ]
+}

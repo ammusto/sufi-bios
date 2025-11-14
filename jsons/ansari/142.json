@@ -1,0 +1,368 @@
+{
+  "bio_id": "142",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "نباج",
+      "context": "nisba",
+      "full_text": "النباجی"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "نباجی",
+          "person_id": 888,
+          "canonical_name": "أبو عبد الله النباجي",
+          "has_id": 142,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "نباجی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "نباجی",
+          "person_id": 888,
+          "canonical_name": "أبو عبد الله النباجي",
+          "has_id": 142,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعبداللّه نباجی",
+          "person_id": 888,
+          "canonical_name": "أبو عبد الله النباجي",
+          "has_id": 142,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بوعبداللّه نباجی گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعبداللّه نباجی",
+          "person_id": 888,
+          "canonical_name": "أبو عبد الله النباجي",
+          "has_id": 142,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوعبداللّه نباجی گوید در تفسیر این:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعبداللّه نباجی",
+          "person_id": 888,
+          "canonical_name": "أبو عبد الله النباجي",
+          "has_id": 142,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "هم بوعبداللّه نباجی گوید،",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "کتانی٭",
+          "person_id": 712,
+          "canonical_name": "أبو بكر محمد بن علي الكتاني",
+          "has_id": 378,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 888,
+          "canonical_name": "أبو عبد الله النباجي",
+          "has_id": 142,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وکتانی٭ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حلاج٭",
+          "person_id": 127,
+          "canonical_name": "الحسين بن منصور الحلاج",
+          "has_id": 232,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 888,
+          "canonical_name": "أبو عبد الله النباجي",
+          "has_id": 142,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و حلاج٭ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعبداللّه انطاکی",
+          "person_id": 1208,
+          "canonical_name": "أحمد بن عاصم الأنطاكي",
+          "has_id": 446,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 888,
+          "canonical_name": "أبو عبد الله النباجي",
+          "has_id": 142,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بوعبداللّه انطاکی گوید.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعلی دقاق٭",
+          "person_id": 956,
+          "canonical_name": "أبو علي الدقاق",
+          "has_id": 113,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 888,
+          "canonical_name": "أبو عبد الله النباجي",
+          "has_id": 142,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوعلی دقاق٭ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "با یعقوب گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ذوالنون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 888,
+          "canonical_name": "أبو عبد الله النباجي",
+          "has_id": 142,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "ذوالنون مرا گفت.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "من گفتم:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سباع موصلی",
+          "person_id": 1586,
+          "canonical_name": "سباع الموصلي",
+          "has_id": 588,
+          "subj_added": false
+        },
+        {
+          "name": "داود",
+          "person_id": 1511,
+          "canonical_name": "داود",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 888,
+          "canonical_name": "أبو عبد الله النباجي",
+          "has_id": 142,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که سباع موصلی گوید، که داود گفت ﷷ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلامگفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "احمد بوالحواری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "استادان",
+        "full_text": "استادان احمد بوالحواریست٭",
+        "person_id": 1177,
+        "canonical_name": "أحمد بن أبي الحواري",
+        "has_id": 442
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "ذوالنون مصری٭",
+        "relationship_type": "peer",
+        "relationship_phrase": "اقران",
+        "full_text": "اقران ذوالنون مصری٭ است",
+        "person_id": 1523,
+        "canonical_name": "ذو النون المصري",
+        "has_id": 570
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "سهل عاصم",
+      "relationship_type": "narrator",
+      "full_text": "سهل عاصم کتاب هد، کرده، و از وی حکایت و سخن آر دران ازو، وویرا دیده،",
+      "person_id": 1638,
+      "canonical_name": "سهل بن عاصم",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت: که بوعبداللّه نباجی گوید:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "کتانی٭",
+      "relationship_type": "narrator",
+      "full_text": "وکتانی٭ گوید: که چون قصد درست ویرا بیافتی!",
+      "person_id": 712,
+      "canonical_name": "أبو بكر محمد بن علي الكتاني",
+      "has_id": 378
+    },
+    {
+      "name": "حلاج٭",
+      "relationship_type": "narrator",
+      "full_text": "و حلاج٭ گوید: لانعرج!",
+      "person_id": 127,
+      "canonical_name": "الحسين بن منصور الحلاج",
+      "has_id": 232
+    },
+    {
+      "name": "بوعلی دقاق٭",
+      "relationship_type": "narrator",
+      "full_text": "بوعلی دقاق٭ گوید: معرفة رسمیة که قطره و سمیة لا علیه تشفی، و لا غلیلا تسقی.",
+      "person_id": 956,
+      "canonical_name": "أبو علي الدقاق",
+      "has_id": 113
+    },
+    {
+      "name": "سباع موصلی",
+      "relationship_type": "narrator",
+      "full_text": "سباع موصلی گوید، که داود گفت ﷷ خداوندا! مرا گفتی: که دست و روی بشوی خدمت را، اکنون می با صحبت خوانی! دل من چه چیز بشوید صحبت را؟",
+      "person_id": 1586,
+      "canonical_name": "سباع الموصلي",
+      "has_id": 588
+    },
+    {
+      "name": "یعقوب هاشمی",
+      "relationship_type": "interlocutor",
+      "full_text": "شیخ الاسلام گفت که با یعقوب هاشمی بوده،",
+      "person_id": 1138,
+      "canonical_name": "أبو يعقوب الهاشمي",
+      "has_id": 460
+    },
+    {
+      "name": "ذوالنون",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "ذوالنون مرا گفت.",
+      "person_id": 1523,
+      "canonical_name": "ذو النون المصري",
+      "has_id": 570
+    },
+    {
+      "name": "داود",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "داود گفت ﷷ خداوندا! مرا گفتی: که دست و روی بشوی خدمت را، اکنون می با صحبت خوانی! دل من چه چیز بشوید صحبت را؟",
+      "person_id": 1511,
+      "canonical_name": "داود",
+      "has_id": NaN
+    },
+    {
+      "name": "موسی",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "موسی گفت ﷷ الهی! من ترا کجا یابم؟",
+      "person_id": 2567,
+      "canonical_name": "موسي",
+      "has_id": NaN
+    },
+    {
+      "name": "بوعبداللّه انطاکی",
+      "relationship_type": "narrator",
+      "full_text": "بوعبداللّه انطاکی گوید.",
+      "person_id": 1208,
+      "canonical_name": "أحمد بن عاصم الأنطاكي",
+      "has_id": 446
+    }
+  ]
+}

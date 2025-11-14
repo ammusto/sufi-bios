@@ -1,0 +1,969 @@
+{
+  "bio_id": "419",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "298",
+    "full_text": "مَاتَ أَبُو عُثْمَان بنيسابور سنة ثَمَان وَتِسْعين وَمِائَتَيْنِ",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "حير",
+      "context": "nisba",
+      "full_text": "الْحِيرِي"
+    },
+    {
+      "place": "نيسابور",
+      "context": "nisba",
+      "full_text": "النَّيْسَابُورِي"
+    },
+    {
+      "place": "الرّيّ",
+      "context": "born",
+      "full_text": "وَأَصله من الرّيّ"
+    },
+    {
+      "place": "نيسابور",
+      "context": "visited",
+      "full_text": "ثمَّ رَحل إِلَى نيسابور"
+    },
+    {
+      "place": "نيسابور",
+      "context": "died",
+      "full_text": "مَاتَ أَبُو عُثْمَان بنيسابور"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن عبد الرَّحْمَن الرَّازِيّ",
+          "person_id": 1063,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن عبد الله الشعراني",
+          "has_id": 432,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الله بن مُحَمَّد بن عبد الرَّحْمَن الرَّازِيّ يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد بن حمدَان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّد بن أَحْمد بن حمدَان يذكر ذَلِك",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سعيد بن عبد الله بن سعيد بن إِسْمَاعِيل",
+          "person_id": 1602,
+          "canonical_name": "سعيد بن عبد الله بن سعيد بن إسماعيل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو صَالح حمدون الْقصار",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن يحيى النَّيْسَابُورِي",
+          "person_id": 2470,
+          "canonical_name": "محمد بن يحيى النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "قُتَيْبَة",
+          "person_id": 2177,
+          "canonical_name": "قتيبة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَبْثَر",
+          "person_id": 1723,
+          "canonical_name": "عبثر بن القاسم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَشْعَث",
+          "person_id": 1294,
+          "canonical_name": "أشعث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "نَافِع",
+          "person_id": 2576,
+          "canonical_name": "نافع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن عمر",
+          "person_id": 28,
+          "canonical_name": "ابن عمر",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا سعيد بن عبد الله بن سعيد بن إِسْمَاعِيل قَالَ وجدت فِي كتاب جدي أبي عُثْمَان بِخَط يَده حَدثنِي أَبُو صَالح حمدون الْقصار صاحبنا قَالَ حَدثنَا مُحَمَّد بن يحيى النَّيْسَابُورِي حَدثنَا قُتَيْبَة حَدثنَا عَبْثَر عَن أَشْعَث عَن مُحَمَّد عَن نَافِع عَن ابْن عمر قَالَ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَمْرو بن حمدَان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 583,
+          "canonical_name": "أبو أبي عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا عَمْرو بن حمدَان يَقُول وجدت فِي كتاب أبي سَمِعت أَبَا عُثْمَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَمْرو بن حمدَان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت أَبَا عُثْمَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَمْرو بن حمدَان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت أَبَا عُثْمَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَمْرو بن حمدَان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وسمعته يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَمْرو بن حمدَان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وسمعته يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَمْرو بن حمدَان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 583,
+          "canonical_name": "أبو أبي عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَوجدت بِخَط أبي قلت لأبي عُثْمَان",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَمْرو بن حمدَان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت أَبَا عُثْمَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَمْرو بن حمدَان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت أَبَا عُثْمَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَمْرو بن مطر",
+          "person_id": 1018,
+          "canonical_name": "أبو عمرو بن مطر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا عَمْرو بن مطر يَقُول سَمِعت أَبَا عُثْمَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن يُوسُف",
+          "person_id": 703,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول سَمِعت أَبَا بكر مُحَمَّد بن أَحْمد بن يُوسُف يَقُول سَمِعت أَبَا عُثْمَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن يُوسُف",
+          "person_id": 703,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عُثْمَان",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن يُوسُف",
+          "person_id": 703,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عُثْمَان",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن يُوسُف",
+          "person_id": 703,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عُثْمَان",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن يُوسُف",
+          "person_id": 703,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عُثْمَان",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن يُوسُف",
+          "person_id": 703,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عُثْمَان",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن يُوسُف",
+          "person_id": 703,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عُثْمَان",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن يُوسُف",
+          "person_id": 703,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عُثْمَان",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن يُوسُف",
+          "person_id": 703,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عُثْمَان",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن يُوسُف",
+          "person_id": 703,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عُثْمَان",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن يُوسُف",
+          "person_id": 703,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عُثْمَان",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن يُوسُف",
+          "person_id": 703,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عُثْمَان",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن يُوسُف",
+          "person_id": 703,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عُثْمَان",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 697,
+          "canonical_name": "أبو بكر محمد بن أحمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحُسَيْن الْوراق",
+          "person_id": 454,
+          "canonical_name": "أبو الحسين الوراق النيسابوري",
+          "has_id": 312,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم يَقُول سَمِعت أَبَا الْحُسَيْن الْوراق يَقُول سَمِعت أَبَا عُثْمَان وَسُئِلَ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+          "person_id": 697,
+          "canonical_name": "أبو بكر محمد بن أحمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحُسَيْن الْوراق",
+          "person_id": 454,
+          "canonical_name": "أبو الحسين الوراق النيسابوري",
+          "has_id": 312,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عُثْمَان",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَحْفُوظًا",
+          "person_id": 2212,
+          "canonical_name": "محفوظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مَحْفُوظًا يَقُول سَأَلت أَبَا عُثْمَان",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَحْفُوظًا",
+          "person_id": 2212,
+          "canonical_name": "محفوظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَسُئِلَ أَبُو عُثْمَان",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَحْفُوظًا",
+          "person_id": 2212,
+          "canonical_name": "محفوظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عُثْمَان",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "أبي حَفْص",
+        "relationship_type": "student_of",
+        "relationship_phrase": "أخذ عَنهُ طَرِيقَته",
+        "full_text": "ثمَّ رَحل إِلَى نيسابور إِلَى أبي حَفْص وَصَحبه وَأخذ عَنهُ طَرِيقَته",
+        "person_id": 759,
+        "canonical_name": "أبو حفص الحداد النيسابوري",
+        "has_id": 715
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "يحيى بن معَاذ الرَّازِيّ",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب قَدِيما يحيى بن معَاذ الرَّازِيّ",
+        "person_id": 2650,
+        "canonical_name": "يحيى بن معاذ الرازي",
+        "has_id": 844
+      },
+      {
+        "name": "شاه بن شُجَاع الْكرْمَانِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وصحب قديما ... وشاه بن شُجَاع الْكرْمَانِي",
+        "person_id": 1661,
+        "canonical_name": "شاه بن شجاع الكرماني",
+        "has_id": 614
+      },
+      {
+        "name": "أبي حَفْص",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحبه",
+        "full_text": "إِلَى أبي حَفْص وَصَحبه وَأخذ عَنهُ طَرِيقَته",
+        "person_id": 759,
+        "canonical_name": "أبو حفص الحداد النيسابوري",
+        "has_id": 715
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "عبد الله بن مُحَمَّد بن عبد الرَّحْمَن الرَّازِيّ",
+      "relationship_type": "narrator",
+      "context": "about_subject",
+      "full_text": "سَمِعت عبد الله بن مُحَمَّد بن عبد الرَّحْمَن الرَّازِيّ يَقُول",
+      "person_id": 1063,
+      "canonical_name": "أبو محمد عبد الله بن محمد بن عبد الله الشعراني",
+      "has_id": 432
+    },
+    {
+      "name": "مُحَمَّد بن أَحْمد بن حمدَان",
+      "relationship_type": "narrator",
+      "context": "about_death",
+      "full_text": "سَمِعت مُحَمَّد بن أَحْمد بن حمدَان يذكر ذَلِك",
+      "person_id": 1023,
+      "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+      "has_id": NaN
+    },
+    {
+      "name": "سعيد بن عبد الله بن سعيد بن إِسْمَاعِيل",
+      "relationship_type": "narrator",
+      "context": "via_book",
+      "full_text": "أخبرنَا سعيد بن عبد الله بن سعيد بن إِسْمَاعِيل",
+      "person_id": 1602,
+      "canonical_name": "سعيد بن عبد الله بن سعيد بن إسماعيل",
+      "has_id": NaN
+    },
+    {
+      "name": "أبي",
+      "relationship_type": "narrator",
+      "context": "via_book_direct",
+      "full_text": "وجدت فِي كتاب أبي سَمِعت أَبَا عُثْمَان يَقُول",
+      "person_id": 580,
+      "canonical_name": "أبو أبي عبد الرحمن السلمي",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا عَمْرو بن حمدَان",
+      "relationship_type": "narrator",
+      "context": "direct_from_subject",
+      "full_text": "سَمِعت أَبَا عَمْرو بن حمدَان يَقُول",
+      "person_id": 1023,
+      "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا عَمْرو بن مطر",
+      "relationship_type": "narrator",
+      "context": "direct_from_subject",
+      "full_text": "سَمِعت أَبَا عَمْرو بن مطر يَقُول",
+      "person_id": 1018,
+      "canonical_name": "أبو عمرو بن مطر",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن يُوسُف",
+      "relationship_type": "narrator",
+      "context": "direct_from_subject",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن أَحْمد بن يُوسُف يَقُول",
+      "person_id": 703,
+      "canonical_name": "أبو بكر محمد بن أحمد بن يوسف",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا الْحُسَيْن الْوراق",
+      "relationship_type": "narrator",
+      "context": "direct_from_subject",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْوراق يَقُول",
+      "person_id": 454,
+      "canonical_name": "أبو الحسين الوراق النيسابوري",
+      "has_id": 312
+    },
+    {
+      "name": "مَحْفُوظًا",
+      "relationship_type": "questioner",
+      "context": "direct_dialogue",
+      "full_text": "سَمِعت مَحْفُوظًا يَقُول سَأَلت أَبَا عُثْمَان",
+      "person_id": 2212,
+      "canonical_name": "محفوظ",
+      "has_id": NaN
+    }
+  ]
+}

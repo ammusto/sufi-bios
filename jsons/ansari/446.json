@@ -1,0 +1,198 @@
+{
+  "bio_id": "446",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "انطاکیه",
+      "context": "nisba",
+      "full_text": "الانطاکی"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "احمد بن عاصم الانطاکی",
+          "person_id": 1217,
+          "canonical_name": "أحمد بن عصام الأنطاكي",
+          "has_id": 446,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که وی گفت.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "احمد بن عاصم الانطاکی",
+          "person_id": 1217,
+          "canonical_name": "أحمد بن عصام الأنطاكي",
+          "has_id": 446,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم احمدگوید.",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "احمد بن عاصم الانطاکی",
+          "person_id": 1217,
+          "canonical_name": "أحمد بن عصام الأنطاكي",
+          "has_id": 446,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم احمد عاصم گوید.",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "نصرآبادی",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1217,
+          "canonical_name": "أحمد بن عصام الأنطاكي",
+          "has_id": 446,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "نصرآبادی گوید.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "احمد عاصم",
+          "person_id": 1207,
+          "canonical_name": "أحمد بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1217,
+          "canonical_name": "أحمد بن عصام الأنطاكي",
+          "has_id": 446,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "احمد عاصم گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "احمد بواحواری",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "احمد بن عاصم الانطاکی",
+          "person_id": 1217,
+          "canonical_name": "أحمد بن عصام الأنطاكي",
+          "has_id": 446,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "و احمد بواحواری گویدکه وی گفت.",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "فضیل عیاض",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده بود",
+        "full_text": "وگفتندکی فضیل عیاض دیده بود",
+        "person_id": 200,
+        "canonical_name": "الفضيل بن عياض",
+        "has_id": 243
+      }
+    ],
+    "students": [
+      {
+        "name": "احمد بن ابی الحواری",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "از استادان",
+        "full_text": "از استادان احمد بن ابی الحواری ٭.",
+        "person_id": 1177,
+        "canonical_name": "أحمد بن أبي الحواري",
+        "has_id": 442
+      }
+    ],
+    "companions": [
+      {
+        "name": "بشر حافی",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "از اقران بشر حافی و سری و حارث محاسبی ٭",
+        "person_id": 1323,
+        "canonical_name": "بشر بن الحارث الحافي",
+        "has_id": 470
+      },
+      {
+        "name": "سری",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "از اقران بشر حافی و سری و حارث محاسبی ٭",
+        "person_id": 161,
+        "canonical_name": "السري السقطي",
+        "has_id": 236
+      },
+      {
+        "name": "حارث محاسبی",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "از اقران بشر حافی و سری و حارث محاسبی ٭",
+        "person_id": 69,
+        "canonical_name": "الحارث بن أسد المحاسبي",
+        "has_id": 229
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت: که وی گفت.",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "نصرآبادی",
+      "relationship_type": "direct_narrator",
+      "full_text": "نصرآبادی گوید.",
+      "person_id": 545,
+      "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+      "has_id": 360
+    },
+    {
+      "name": "احمد بواحواری",
+      "relationship_type": "direct_narrator",
+      "full_text": "و احمد بواحواری گویدکه وی گفت.",
+      "person_id": 1177,
+      "canonical_name": "أحمد بن أبي الحواري",
+      "has_id": 442
+    }
+  ]
+}

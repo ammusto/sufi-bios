@@ -1,0 +1,57 @@
+{
+  "bio_id": "784",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "نسا",
+      "context": "nisba",
+      "full_text": "النسوي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد الفراء",
+          "person_id": 698,
+          "canonical_name": "أبو بكر محمد بن أحمد بن حمدون الفراء",
+          "has_id": 385,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عليان",
+          "person_id": 2420,
+          "canonical_name": "محمد بن عليان",
+          "has_id": 784,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين بن موسى يقول سمعت محمد بن أحمد الفراء يقول سمعت محمد بن عليان يقول:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "محمد بن أحمد الفراء",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن أحمد الفراء يقول",
+      "person_id": 698,
+      "canonical_name": "أبو بكر محمد بن أحمد بن حمدون الفراء",
+      "has_id": 385
+    }
+  ]
+}

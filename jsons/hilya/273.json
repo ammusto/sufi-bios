@@ -1,0 +1,394 @@
+{
+  "bio_id": "273",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عمرو بن واضح",
+          "person_id": 2130,
+          "canonical_name": "عمرو بن واضح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن المولد",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت عمرو بن واضح يقول سمعت إبراهيم بن المولد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن المولد",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول أنشدني منصور بن عبد الله قال: أنشدني إبراهيم بن المولد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الفضل الطوسي نصر بن محمد بن أحمد بن يعقوب العطار",
+          "person_id": 528,
+          "canonical_name": "أبو الفضل نصر بن محمد الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد ابن يوسف",
+          "person_id": 2478,
+          "canonical_name": "محمد بن يوسف بن معدان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سالم بن العباس الوليد الحمصي",
+          "person_id": 1582,
+          "canonical_name": "سالم بن العباس الوليد الحمصي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الرحمن بن أيوب بن سعيد",
+          "person_id": 1742,
+          "canonical_name": "عبد الرحمن بن أيوب بن سعيد السكوني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أيوب السكوني",
+          "person_id": 1316,
+          "canonical_name": "أيوب السكوني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "العطاف بن خالد",
+          "person_id": 188,
+          "canonical_name": "العطاف بن خالد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "نافع",
+          "person_id": 2576,
+          "canonical_name": "نافع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عمر",
+          "has_id": NaN,
+          "person_id": 28,
+          "canonical_name": "ابن عمر",
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو الفضل الطوسي نصر بن محمد بن أحمد بن يعقوب العطار - قدم نيسابور وكتبت عنه حديث إبراهيم بن أحمد بن المولد الصوفى - ثنا محمد ابن يوسف - بدمشق - ثنا سالم بن العباس الوليد الحمصي ثنا عبد الرحمن بن أيوب بن سعيد عن أيوب السكوني ثنا العطاف بن خالد عن نافع عن ابن عمر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن المظفر",
+          "person_id": 2262,
+          "canonical_name": "محمد بن المظفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن سليمان",
+          "person_id": 2361,
+          "canonical_name": "محمد بن سليمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الرحمن بن أيوب الحمصي",
+          "person_id": 1741,
+          "canonical_name": "عبد الرحمن بن أيوب الحمصي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "العطاف بن خالد",
+          "person_id": 188,
+          "canonical_name": "العطاف بن خالد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "نافع",
+          "person_id": 2576,
+          "canonical_name": "نافع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عمر",
+          "has_id": NaN,
+          "person_id": 28,
+          "canonical_name": "ابن عمر",
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثناه عاليا محمد بن المظفر ثنا محمد بن سليمان ثنا عبد الرحمن بن أيوب الحمصي ثنا العطاف بن خالد عن نافع عن ابن عمر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو بكر محمد بن يحيى بن محمد بن المصري",
+          "person_id": 715,
+          "canonical_name": "أبو بكر محمد بن يحيى بن محمد بن المصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الفتح أحمد بن إبراهيم بن برهان المقرئ",
+          "person_id": 514,
+          "canonical_name": "أبو الفتح أحمد بن إبراهيم بن برهان المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم ابن المولد الصوفي",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عبد الله بن علي الناقد",
+          "person_id": 1213,
+          "canonical_name": "أحمد بن عبد الله بن علي الناقد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يزيد القراطيسي",
+          "person_id": 1129,
+          "canonical_name": "أبو يزيد القراطيسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أسد بن موسى",
+          "person_id": 1289,
+          "canonical_name": "أسد بن موسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن حازم",
+          "person_id": 2336,
+          "canonical_name": "محمد بن حازم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو رجاء",
+          "person_id": 780,
+          "canonical_name": "أبو رجاء",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو سنان",
+          "person_id": 819,
+          "canonical_name": "أبو سنان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "واثلة",
+          "person_id": 2610,
+          "canonical_name": "واثلة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو هريرة",
+          "person_id": 1120,
+          "canonical_name": "أبو هريرة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو بكر محمد بن يحيى بن محمد بن المصري - قدم علينا رفيق ابن منده - ثنا أبو الفتح أحمد بن إبراهيم بن برهان المقرئ ثنا إبراهيم ابن المولد الصوفي ثنا أحمد بن عبد الله بن علي الناقد - بمصر - ثنا أبو يزيد القراطيسي ثنا أسد بن موسى ثنا محمد بن حازم عن أبي رجاء عن أبي سنان عن واثلة عن أبي هريرة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سليمان بن أحمد",
+          "person_id": 1626,
+          "canonical_name": "سليمان بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الرحمن بن سلم",
+          "person_id": 1747,
+          "canonical_name": "عبد الرحمن بن سلم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عثمان",
+          "person_id": 1640,
+          "canonical_name": "سهل بن عثمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "المحاربي",
+          "person_id": 229,
+          "canonical_name": "المحاربي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو رجاء محرز بن عبد الله",
+          "person_id": 783,
+          "canonical_name": "أبو رجاء محرز بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يزيد بن سنان",
+          "person_id": 2658,
+          "canonical_name": "يزيد بن سنان البصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مكحول",
+          "person_id": 2529,
+          "canonical_name": "مكحول",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "واثلة ابن الأسقع",
+          "person_id": 2611,
+          "canonical_name": "واثلة بن الأسقع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو هريرة",
+          "person_id": 1120,
+          "canonical_name": "أبو هريرة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا سليمان بن أحمد ثنا عبد الرحمن بن سلم ثنا سهل بن عثمان ثنا المحاربي عن أبي رجاء محرز بن عبد الله عن يزيد بن سنان عن مكحول عن واثلة ابن الأسقع عن أبي هريرة",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أبا عبد الله الجلاء",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أبا عبد الله الجلاء وإبراهيم بن داود القصار الرقي.",
+        "person_id": 898,
+        "canonical_name": "أبو عبد الله بن الجلاء",
+        "has_id": 410
+      },
+      {
+        "name": "إبراهيم بن داود القصار الرقي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أبا عبد الله الجلاء وإبراهيم بن داود القصار الرقي.",
+        "person_id": 284,
+        "canonical_name": "إبراهيم القصار الرقي",
+        "has_id": 13
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "عمرو بن واضح",
+      "relationship_type": "narrator",
+      "full_text": "سمعت عمرو بن واضح يقول سمعت إبراهيم بن المولد يقول",
+      "person_id": 2130,
+      "canonical_name": "عمرو بن واضح",
+      "has_id": NaN
+    },
+    {
+      "name": "منصور بن عبد الله",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن الحسين يقول أنشدني منصور بن عبد الله قال: أنشدني إبراهيم بن المولد",
+      "person_id": 2547,
+      "canonical_name": "منصور بن عبد الله",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو الفتح أحمد بن إبراهيم بن برهان المقرئ",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أبو الفتح أحمد بن إبراهيم بن برهان المقرئ ثنا إبراهيم ابن المولد الصوفي",
+      "person_id": 514,
+      "canonical_name": "أبو الفتح أحمد بن إبراهيم بن برهان المقرئ",
+      "has_id": NaN
+    }
+  ]
+}

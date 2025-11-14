@@ -1,0 +1,145 @@
+{
+  "bio_id": "640",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "قدس",
+      "context": "nisba",
+      "full_text": "مقدسی"
+    },
+    {
+      "place": "شام",
+      "context": "lived",
+      "full_text": "در شام"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت قدس اللّه روحه:کی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": " طاهر مقدسی",
+          "person_id": 1696,
+          "canonical_name": "طاهر المقدسي",
+          "has_id": 640,
+          "subj_added": false
+        },
+        {
+          "name": "ذوالنون مصری",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که طاهر مقدسی گوید: کی ذوالنون مصری فرامن گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "طاهر مقدسی",
+          "person_id": 1696,
+          "canonical_name": "طاهر المقدسي",
+          "has_id": 640,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "طاهر مقدسی گوید: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "طاهر",
+          "person_id": 1696,
+          "canonical_name": "طاهر المقدسي",
+          "has_id": 640,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و قال طاهر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلامگفت که:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "ذوالنون مصری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "را دیده",
+        "full_text": "ذوالنون مصری را دیده،",
+        "person_id": 1523,
+        "canonical_name": "ذو النون المصري",
+        "has_id": 570
+      },
+      {
+        "name": "یحیی جلا٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "با یحیی جلا٭ صحبت کرده",
+        "person_id": 2655,
+        "canonical_name": "يحيي بن الجلاء",
+        "has_id": NaN
+      },
+      {
+        "name": "ذوالنون مصری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "فرامن گفت",
+        "full_text": "ذوالنون مصری فرامن گفت",
+        "person_id": 1523,
+        "canonical_name": "ذو النون المصري",
+        "has_id": 570
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت قدس اللّه روحه:کی",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "ذوالنون مصری",
+      "relationship_type": "interlocutor",
+      "full_text": "ذوالنون مصری فرامن گفت: العلم فی ذات الحق جهل والکلام فی حقیقة المعرفه حیرة والاشارة عن المشیر شرک.",
+      "person_id": 1523,
+      "canonical_name": "ذو النون المصري",
+      "has_id": 570
+    },
+    {
+      "name": "شبلی٭",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "و گویند که شبلی٭ گفته ویرا.",
+      "person_id": 628,
+      "canonical_name": "أبو بكر الشبلي",
+      "has_id": 376
+    }
+  ]
+}

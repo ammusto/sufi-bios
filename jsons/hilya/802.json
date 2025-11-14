@@ -1,0 +1,86 @@
+{
+  "bio_id": "802",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "المغرب",
+      "context": "nisba",
+      "full_text": "المغربي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1855,
+          "canonical_name": "عبد الله بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن العباس",
+          "person_id": 1864,
+          "canonical_name": "عبد الله بن محمد بن العباس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سلمة بن شبيب",
+          "person_id": 1614,
+          "canonical_name": "سلمة بن شبيب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عاصم",
+          "person_id": 1638,
+          "canonical_name": "سهل بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "كرد بن عنبسة",
+          "person_id": 2195,
+          "canonical_name": "كرد بن عنبسة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مساور بن لبيب المغربي",
+          "person_id": 2499,
+          "canonical_name": "مساور بن لبيب المغربي",
+          "has_id": 802,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "• حدثنا عبد الله بن محمد ثنا عبد الله بن محمد بن العباس ثنا سلمة بن شبيب ثنا سهل بن عاصم عن كرد بن عنبسة. قال قال مساور بن لبيب المغربي:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "كرد بن عنبسة",
+      "relationship_type": "narrator",
+      "full_text": "عن كرد بن عنبسة",
+      "person_id": 2195,
+      "canonical_name": "كرد بن عنبسة",
+      "has_id": NaN
+    },
+    {
+      "name": "راهب",
+      "relationship_type": "interlocutor",
+      "full_text": "وقفت على راهب ذكروا لي أنه لم يكلم أحدا منذ أربعين سنة، ولم ينزل فيها من صومعته.",
+      "person_id": 1524,
+      "canonical_name": "راهب",
+      "has_id": NaN
+    }
+  ]
+}

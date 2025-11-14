@@ -1,0 +1,64 @@
+{
+  "bio_id": "694",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "البغدادی"
+    },
+    {
+      "place": "عراق",
+      "context": "lived",
+      "full_text": "از قدیمان مشایخ عراقست"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "علی بن الموفق",
+          "person_id": 2008,
+          "canonical_name": "علي بن الموفق",
+          "has_id": 694,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که علی بن الموفق گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "ذوالنون مصری٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده بود",
+        "full_text": "ذوالنون مصری٭ دیده بود",
+        "person_id": 1523,
+        "canonical_name": "ذو النون المصري",
+        "has_id": 570
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت: که علی بن الموفق گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "bio_id": "698",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "حلب",
+      "context": "mentioned",
+      "full_text": "حججت من حلب ماشيا على قدمي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين اليقطيني",
+          "person_id": 2232,
+          "canonical_name": "محمد بن الحسن بن علي اليقطيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن عبد الحميد العطائري",
+          "person_id": 2040,
+          "canonical_name": "علي بن عبد الحميد العطائري",
+          "has_id": 698,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين اليقطيني ومحمد بن إبراهيم يقولان سمعنا علي بن عبد الحميد العطائري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن عبد الحميد العطائري",
+          "person_id": 2040,
+          "canonical_name": "علي بن عبد الحميد العطائري",
+          "has_id": 698,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين اليقطيني ومحمد بن إبراهيم يقولان سمعنا علي بن عبد الحميد العطائري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الحسن السري بن المغلس السقطي",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2040,
+          "canonical_name": "علي بن عبد الحميد العطائري",
+          "has_id": 698,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "فسمعته يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن علي بن عاصم",
+          "person_id": 2419,
+          "canonical_name": "محمد بن علي بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن عبد الحميد العطائري",
+          "person_id": 2040,
+          "canonical_name": "علي بن عبد الحميد العطائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "سوار بن عبد الله",
+          "person_id": 1649,
+          "canonical_name": "سوار بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "معتمر بن سليمان",
+          "person_id": 2520,
+          "canonical_name": "معتمر بن سليمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سفيان الثوري",
+          "person_id": 1607,
+          "canonical_name": "سفيان الثوري",
+          "has_id": 598,
+          "subj_added": false
+        },
+        {
+          "name": "معاوية بن صالح",
+          "person_id": 2518,
+          "canonical_name": "معاوية بن صالح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن ربيعة",
+          "person_id": 2349,
+          "canonical_name": "محمد بن ربيعة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن عامر",
+          "person_id": 1834,
+          "canonical_name": "عبد الله بن عامر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "معاوية",
+          "person_id": 2518,
+          "canonical_name": "معاوية بن صالح",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن علي بن عاصم ثنا علي بن عبد الحميد العطائري - وكان من الأبدال - ثنا سوار بن عبد الله ثنا معتمر بن سليمان ثنا سفيان الثوري عن معاوية بن صالح عن محمد بن ربيعة عن عبد الله بن عامر قال سمعت معاوية يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "أبو الحسن السري بن المغلس السقطي",
+        "relationship_type": "student_of",
+        "relationship_phrase": "سمعته يقول",
+        "full_text": "دققت على أبي الحسن السري بن المغلس السقطي بابه فسمعته يقول: اللهم من شغلني عنك فاشغله بك عني.",
+        "person_id": 161,
+        "canonical_name": "السري السقطي",
+        "has_id": 236
+      },
+      {
+        "name": "سوار بن عبد الله",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا سوار بن عبد الله",
+        "person_id": 1649,
+        "canonical_name": "سوار بن عبد الله",
+        "has_id": NaN
+      }
+    ],
+    "students": [
+      {
+        "name": "محمد بن الحسين اليقطيني",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "سمعنا",
+        "full_text": "سمعت محمد بن الحسين اليقطيني ومحمد بن إبراهيم يقولان سمعنا علي بن عبد الحميد العطائري يقول",
+        "person_id": 2232,
+        "canonical_name": "محمد بن الحسن بن علي اليقطيني",
+        "has_id": NaN
+      },
+      {
+        "name": "محمد بن إبراهيم",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "سمعنا",
+        "full_text": "سمعت محمد بن الحسين اليقطيني ومحمد بن إبراهيم يقولان سمعنا علي بن عبد الحميد العطائري يقول",
+        "person_id": 2269,
+        "canonical_name": "محمد بن إبراهيم",
+        "has_id": NaN
+      },
+      {
+        "name": "محمد بن علي بن عاصم",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "حدثنا محمد بن علي بن عاصم ثنا علي بن عبد الحميد العطائري - وكان من الأبدال -",
+        "person_id": 2419,
+        "canonical_name": "محمد بن علي بن عاصم",
+        "has_id": NaN
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "محمد بن الحسين اليقطيني",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن الحسين اليقطيني ومحمد بن إبراهيم يقولان سمعنا علي بن عبد الحميد العطائري يقول",
+      "person_id": 2232,
+      "canonical_name": "محمد بن الحسن بن علي اليقطيني",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن إبراهيم",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن الحسين اليقطيني ومحمد بن إبراهيم يقولان سمعنا علي بن عبد الحميد العطائري يقول",
+      "person_id": 2269,
+      "canonical_name": "محمد بن إبراهيم",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن علي بن عاصم",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا محمد بن علي بن عاصم ثنا علي بن عبد الحميد العطائري - وكان من الأبدال -",
+      "person_id": 2419,
+      "canonical_name": "محمد بن علي بن عاصم",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو الحسن السري بن المغلس السقطي",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "دققت على أبي الحسن السري بن المغلس السقطي بابه فسمعته يقول: اللهم من شغلني عنك فاشغله بك عني.",
+      "person_id": 161,
+      "canonical_name": "السري السقطي",
+      "has_id": 236
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "bio_id": "391",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "الحرم",
+      "context": "lived",
+      "full_text": "جاورا الحرم سنين عدة"
+    },
+    {
+      "place": "مكة",
+      "context": "died",
+      "full_text": "وماتا بمكة"
+    },
+    {
+      "place": "البادية",
+      "context": "visited",
+      "full_text": "دخلت البادية على التجريد حافيا حاسرا"
+    },
+    {
+      "place": "الربذة",
+      "context": "visited",
+      "full_text": "وكنت قاعدا على بركة الربذة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "والدي",
+          "person_id": 2615,
+          "canonical_name": "والدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا جعفر المزين الكبير",
+          "person_id": 742,
+          "canonical_name": "أبو جعفر المزين الكبير",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت والدي يقول سمعت أبا جعفر المزين الكبير يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا جعفر الخياط الأصبهاني",
+          "person_id": 730,
+          "canonical_name": "أبو جعفر الخياط الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا جعفر المزين",
+          "person_id": 742,
+          "canonical_name": "أبو جعفر المزين الكبير",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا جعفر الخياط الأصبهاني - بمكة - يقول سمعت أبا جعفر المزين يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن أبي عمران الهروي",
+          "person_id": 523,
+          "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو نصر الهروى",
+          "person_id": 1100,
+          "canonical_name": "أبو نصر الهروى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسن المزين الصغير",
+          "has_id": NaN,
+          "person_id": 47,
+          "canonical_name": "اسحق محمود",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أحمد بن أبي عمران الهروي يقول حكى أبو نصر الهروى قال سمعت أبا الحسن المزين الصغير يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد المنعم بن عمر",
+          "person_id": 1895,
+          "canonical_name": "عبد المنعم بن عمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "المرتَعِش",
+          "person_id": 1043,
+          "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
+          "has_id": 251,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسن المزين",
+          "person_id": 408,
+          "canonical_name": "أبو الحسن المزين",
+          "has_id": 295,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت عبد المنعم بن عمر يقول سمعت المرتعش يقول قال أبو الحسن المزين",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "والدي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت والدي يقول",
+      "person_id": 2615,
+      "canonical_name": "والدي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا جعفر الخياط الأصبهاني",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا جعفر الخياط الأصبهاني - بمكة - يقول",
+      "person_id": 730,
+      "canonical_name": "أبو جعفر الخياط الأصبهاني",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو نصر الهروى",
+      "relationship_type": "narrator",
+      "full_text": "حكى أبو نصر الهروى",
+      "person_id": 1100,
+      "canonical_name": "أبو نصر الهروى",
+      "has_id": NaN
+    },
+    {
+      "name": "المرتَعِش",
+      "relationship_type": "narrator",
+      "full_text": "سمعت المرتعش يقول",
+      "person_id": 1043,
+      "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
+      "has_id": 251
+    },
+    {
+      "name": "إنسان",
+      "relationship_type": "interlocutor",
+      "full_text": "فجذبني إنسان من ورائي وجعل يقول: يا حجام كم تحدث نفسك بالأباطيل؟",
+      "person_id": 372,
+      "canonical_name": "إنسان",
+      "has_id": NaN
+    }
+  ]
+}

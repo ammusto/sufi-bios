@@ -1,0 +1,95 @@
+{
+  "bio_id": "412",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "~350",
+    "full_text": "پس از سنه خمسین و ثلثمائه برفته از دنیا.",
+    "certainty": "approximate"
+  },
+  "geographical_locations": [
+    {
+      "place": "تروغبد",
+      "context": "nisba",
+      "full_text": "تروغبدی"
+    },
+    {
+      "place": "طوس",
+      "context": "lived",
+      "full_text": "از اجلهٔ مشایخ طوس بود"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "ابو عبداللّه تروغبدی",
+          "person_id": 857,
+          "canonical_name": "أبو عبد الله التروغبذي",
+          "has_id": 412,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "اوگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابو عبداللّه تروغبدی",
+          "person_id": 857,
+          "canonical_name": "أبو عبد الله التروغبذي",
+          "has_id": 412,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "هم وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابو عبداللّه تروغبدی",
+          "person_id": 857,
+          "canonical_name": "أبو عبد الله التروغبذي",
+          "has_id": 412,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابو عبداللّه تروغبدی",
+          "person_id": 857,
+          "canonical_name": "أبو عبد الله التروغبذي",
+          "has_id": 412,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "هم وی گفت:",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "بوعثمان حیری٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "با بوعثمان حیری٭ صحبت کرده",
+        "person_id": 932,
+        "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+        "has_id": 419
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": []
+}

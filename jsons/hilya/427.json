@@ -1,0 +1,57 @@
+{
+  "bio_id": "427",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "مرو",
+      "context": "nisba",
+      "full_text": "المروزي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد",
+          "person_id": 2292,
+          "canonical_name": "محمد بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا العباس الثقفي",
+          "has_id": NaN,
+          "person_id": 53,
+          "canonical_name": "اصحاب ذوالنون",
+          "subj_added": false
+        },
+        {
+          "name": "أبا عمرو المروزي",
+          "person_id": 1013,
+          "canonical_name": "أبو عمرو المروزي",
+          "has_id": 427,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن أحمد قال سمعت أبا العباس الثقفي يقول سمعت أبا عمرو المروزي يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا العباس الثقفي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا العباس الثقفي يقول",
+      "has_id": NaN,
+      "person_id": 52,
+      "canonical_name": "أبو العباس الثقفي"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "bio_id": "437",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "330",
+    "full_text": "و آنجا برفته در سنه ثلثین و ثلثمائه.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "نهر جوری",
+      "context": "nisba",
+      "full_text": "نهر جوری"
+    },
+    {
+      "place": "مکه",
+      "context": "lived",
+      "full_text": "بمکه بوده و سالها مجاور"
+    },
+    {
+      "place": "مکه",
+      "context": "died",
+      "full_text": "و آنجا برفته در سنه ثلثین و ثلثمائه."
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "یک تن",
+          "person_id": 2668,
+          "canonical_name": "يك تن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بایعقوب نهر جوری",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که من یک تن دیدهام، که میگفت: که من ویرا دیدهام\n«اما مرا یقین نمیشود» بایعقوب نهر جوری گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابراهیم بن فاتک",
+          "person_id": 321,
+          "canonical_name": "إبراهيم بن فاتك",
+          "has_id": 32,
+          "subj_added": false
+        },
+        {
+          "name": "ابویعقوب",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "و قال ابراهیم بن فاتک٭ قال ابویعقوب:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابویعقوب",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و قالاابویعقوب:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ با یعقوب خراط عسقلانی",
+          "person_id": 1133,
+          "canonical_name": "أبو يعقوب الخراط العسقلاني",
+          "has_id": 195,
+          "subj_added": false
+        },
+        {
+          "name": "بوالحسین نوری",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1137,
+          "canonical_name": "أبو يعقوب النهرجوري",
+          "has_id": 437,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: شیخ با یعقوب خراط عسقلانی گویدکه: در بوالحسین نوری٭ شدم با محبر مرا گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "جنید",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "صحبت کرده با جنید و عمر و عثمان مکی.",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "عمر",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "صحبت کرده با جنید و عمر و عثمان مکی.",
+        "person_id": 2084,
+        "canonical_name": "عمر",
+        "has_id": NaN
+      },
+      {
+        "name": "عثمان مکی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "صحبت کرده با جنید و عمر و عثمان مکی.",
+        "person_id": 2126,
+        "canonical_name": "عمرو بن عثمان المكي",
+        "has_id": 716
+      },
+      {
+        "name": "با یعقوب سوسی٭ ایذ",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد با یعقوب سوسی٭ ایذ،",
+        "person_id": 1136,
+        "canonical_name": "أبو يعقوب السوسي",
+        "has_id": 196
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "یک تن",
+      "relationship_type": "direct_narrator",
+      "full_text": "من یک تن دیدهام، که میگفت:",
+      "person_id": 2668,
+      "canonical_name": "يك تن",
+      "has_id": NaN
+    },
+    {
+      "name": "ابراهیم بن فاتک",
+      "relationship_type": "direct_narrator",
+      "full_text": "و قال ابراهیم بن فاتک٭",
+      "person_id": 321,
+      "canonical_name": "إبراهيم بن فاتك",
+      "has_id": 32
+    },
+    {
+      "name": "شیخ با یعقوب خراط عسقلانی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ با یعقوب خراط عسقلانی گویدکه:",
+      "person_id": 1133,
+      "canonical_name": "أبو يعقوب الخراط العسقلاني",
+      "has_id": 195
+    },
+    {
+      "name": "بوالحسین نوری",
+      "relationship_type": "interlocutor",
+      "full_text": "مرا گفت: ای پسر! میخواهی که چیزی نویسی؟",
+      "person_id": 452,
+      "canonical_name": "أبو الحسين النوري",
+      "has_id": 439
+    }
+  ]
+}

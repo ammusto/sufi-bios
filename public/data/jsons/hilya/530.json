@@ -1,0 +1,89 @@
+{
+  "bio_id": "530",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "البصرة",
+      "context": "nisba",
+      "full_text": "بصري"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسن بن أبان",
+          "person_id": 417,
+          "canonical_name": "أبو الحسن بن أبان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن عبيد",
+          "person_id": 1873,
+          "canonical_name": "عبد الله بن محمد بن عبيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين بن يحيى بن كثير العنبري",
+          "person_id": 136,
+          "canonical_name": "الحسين بن يحيى بن كثير العنبري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خزيمة بن محمد العابد",
+          "person_id": 1502,
+          "canonical_name": "خزيمة بن محمد العابد",
+          "has_id": 530,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا أبو الحسن بن أبان ثنا عبد الله بن محمد بن عبيد قال:\nحدثني الحسين بن يحيى بن كثير العنبري عن خزيمة بن محمد العابد",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "الحسين بن يحيى بن كثير العنبري",
+      "relationship_type": "narrator",
+      "full_text": "حدثني الحسين بن يحيى بن كثير العنبري عن خزيمة بن محمد العابد",
+      "person_id": 136,
+      "canonical_name": "الحسين بن يحيى بن كثير العنبري",
+      "has_id": NaN
+    },
+    {
+      "name": "نبي من الأنبياء",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "anecdote",
+      "full_text": "مر نبي من الأنبياء برجل قد نبذه أهله من البلاء",
+      "person_id": 2577,
+      "canonical_name": "نبي من الأنبياء",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "anecdote",
+      "full_text": "مر نبي من الأنبياء برجل قد نبذه أهله من البلاء",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

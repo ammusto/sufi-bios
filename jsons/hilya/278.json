@@ -1,0 +1,158 @@
+{
+  "bio_id": "278",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا محمد بن حيان",
+          "person_id": 1086,
+          "canonical_name": "أبو منصور الصابوني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حيوة بن أبي شداد",
+          "person_id": 1528,
+          "canonical_name": "رجاء عبد اللهّ الجهباني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو جعفر الداني",
+          "person_id": 757,
+          "canonical_name": "أبو حفص الأبار عمر بن عبد الرحمن",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا محمد بن حيان يقول ثنا حيوة بن أبي شداد - بنهاوند - حدثني أبو جعفر الداني قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد بن جعفر",
+          "person_id": 1915,
+          "canonical_name": "عبد الواحد بن محمد بن عمرو",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "العباس أحمد بن محمد البزاز المدني",
+          "person_id": 172,
+          "canonical_name": "العباس أحمد بن محمد البزاز المدني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن عيسى الزاهد",
+          "person_id": 327,
+          "canonical_name": "إبراهيم بن محمد بن يحيى النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد الدينوري",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        },
+        {
+          "name": "عبد العزيز ابن يحيى",
+          "person_id": 1822,
+          "canonical_name": "عبد الله بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسماعيل بن عياش",
+          "person_id": 374,
+          "canonical_name": "أبان بن عبد الله البجلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الرحمن بن عبد الله بن دينار",
+          "person_id": 1794,
+          "canonical_name": "عبد الله السياري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبيه",
+          "person_id": 1185,
+          "canonical_name": "أحمد بن جعفر بن سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عمر",
+          "has_id": NaN,
+          "person_id": 28,
+          "canonical_name": "ابن عمر",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد بن جعفر - إملاء - ثنا العباس أحمد بن محمد البزاز المدني ثنا إبراهيم بن عيسى الزاهد ثنا أحمد الدينوري ثنا عبد العزيز ابن يحيى ثنا إسماعيل بن عياش عن عبد الرحمن بن عبد الله بن دينار عن أبيه عن ابن عمر.",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "أبو داود الطيالسي",
+        "relationship_type": "student_of",
+        "relationship_phrase": "سمع من",
+        "full_text": "وسمع من أبي داود الطيالسي",
+        "person_id": 801,
+        "canonical_name": "أبو سعيد الخراز",
+        "has_id": 123
+      },
+      {
+        "name": "محمد ابن المقرئ",
+        "relationship_type": "student_of",
+        "relationship_phrase": "سمع من",
+        "full_text": "وسمع من أبي داود الطيالسي ومحمد ابن المقرئ.",
+        "person_id": 2313,
+        "canonical_name": "محمد بن أحمد بن فارس الحافظ البغدادي",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "معروف الكرخي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب معروف الكرخي",
+        "person_id": 2579,
+        "canonical_name": "نصر بن الحارث",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أبو جعفر الداني",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا محمد بن حيان يقول ثنا حيوة بن أبي شداد - بنهاوند - حدثني أبو جعفر الداني قال",
+      "person_id": 757,
+      "canonical_name": "أبو حفص الأبار عمر بن عبد الرحمن",
+      "has_id": NaN
+    },
+    {
+      "name": "ابن عمر",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا عبد الله بن محمد بن جعفر - إملاء - ثنا العباس أحمد بن محمد البزاز المدني ثنا إبراهيم بن عيسى الزاهد ثنا أحمد الدينوري ثنا عبد العزيز ابن يحيى ثنا إسماعيل بن عياش عن عبد الرحمن بن عبد الله بن دينار عن أبيه عن ابن عمر.",
+      "has_id": NaN,
+      "person_id": 28,
+      "canonical_name": "ابن عمر"
+    }
+  ]
+}

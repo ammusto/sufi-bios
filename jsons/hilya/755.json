@@ -1,0 +1,59 @@
+{
+  "bio_id": "755",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد بن جعفر",
+          "person_id": 1868,
+          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن العباس",
+          "person_id": 1864,
+          "canonical_name": "عبد الله بن محمد بن العباس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو تراب الزاهد",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        },
+        {
+          "name": "مجاهد الصوفي",
+          "person_id": 2209,
+          "canonical_name": "مجاهد الصوفي",
+          "has_id": 755,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد بن جعفر ثنا عبد الله بن محمد بن العباس ثنا أبو تراب الزاهد قال قال مجاهد الصوفي",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبو تراب الزاهد",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "ثنا أبو تراب الزاهد قال قال مجاهد الصوفي",
+      "person_id": 721,
+      "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+      "has_id": 388
+    }
+  ]
+}

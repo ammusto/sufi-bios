@@ -1,0 +1,120 @@
+{
+  "bio_id": "416",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "المغرب",
+      "context": "nisba",
+      "full_text": "المغربى"
+    },
+    {
+      "place": "جبل طور سينا",
+      "context": "mentioned",
+      "full_text": "قبره بجبل طور سينا"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا عبد الله محمد بن أحمد بن دينار الدينوري",
+          "person_id": 902,
+          "canonical_name": "أبو عبد الله بن دينار الدينوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن شيبان",
+          "person_id": 314,
+          "canonical_name": "إبراهيم بن شيبان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عبد الله المغربي",
+          "person_id": 885,
+          "canonical_name": "أبو عبد الله المغربي",
+          "has_id": 416,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا عبد الله محمد بن أحمد بن دينار الدينوري - بمكة - يقول سمعت إبراهيم بن شيبان يقول سمعت أبا عبد الله المغربي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "الورثاني",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله المغربى",
+          "person_id": 885,
+          "canonical_name": "أبو عبد الله المغربي",
+          "has_id": 416,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وأنشدني محمد بن الحسين قال أنشدني الورثاني لأبي عبد الله المغربى",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "علي بن رزين",
+        "relationship_type": "student_of",
+        "relationship_phrase": "أستاذه",
+        "full_text": "عند قبر أستاذه علي بن رزين",
+        "person_id": 2030,
+        "canonical_name": "علي بن رزين",
+        "has_id": 696
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "علي بن رزين",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب علي بن رزين",
+        "person_id": 2030,
+        "canonical_name": "علي بن رزين",
+        "has_id": 696
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "إبراهيم بن شيبان",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "سمعت إبراهيم بن شيبان يقول سمعت أبا عبد الله المغربي يقول",
+      "person_id": 314,
+      "canonical_name": "إبراهيم بن شيبان",
+      "has_id": NaN
+    },
+    {
+      "name": "الورثاني",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "أنشدني الورثاني لأبي عبد الله المغربى",
+      "person_id": 519,
+      "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+      "has_id": NaN
+    }
+  ]
+}

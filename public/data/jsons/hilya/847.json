@@ -1,0 +1,974 @@
+{
+  "bio_id": "847",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "الري",
+      "context": "nisba",
+      "full_text": "الرازي"
+    },
+    {
+      "place": "الري",
+      "context": "lived",
+      "full_text": "فلما جئت الري سألت عن دار يوسف"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن موسى",
+          "person_id": 2457,
+          "canonical_name": "محمد بن موسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن علي الطوسي",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا جعفر الرازي",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن الحسين",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن موسى يقول سمعت عبد الله بن علي الطوسي يقول سمعت أبا جعفر الرازي يقول سمعت يوسف بن الحسين يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن موسى",
+          "person_id": 2457,
+          "canonical_name": "محمد بن موسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن علي الطوسي",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا جعفر الرازي",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن الحسين",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وقال رجل ليوسف",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر الرازي",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف ابن الحسين",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أبا بكر الرازي يقول قال يوسف ابن الحسين",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر الرازي",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن الحسين",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا بكر الرازي بنيسابور يقول قال يوسف بن الحسين",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر الرازي",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن الحسين",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا بكر الرازي يقول قال يوسف بن الحسين",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن موسى",
+          "person_id": 2457,
+          "canonical_name": "محمد بن موسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر الرازى",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف ابن الحسين",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن موسى يقول سمعت أبا بكر الرازى يقول قال يوسف ابن الحسين",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا الفضل أحمد بن أبي عمران الهروي",
+          "person_id": 523,
+          "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله الهروي",
+          "person_id": 2550,
+          "canonical_name": "منصور بن عبد الله الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يتيمك الرازي",
+          "person_id": 2622,
+          "canonical_name": "يتيمك الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الفضل أحمد بن أبي عمران الهروي يقول سمعت منصور بن عبد الله الهروي يقول سمعت يتيمك الرازي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "سمعت أبا الحسن علي بن هارون صاحب الجنيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "أبا سليمان الداراني",
+          "person_id": 817,
+          "canonical_name": "أبو سليمان الداراني",
+          "has_id": 404,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وسمعت أحمد بن أبي الحواري يقول سمعت أبا سليمان الداراني يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الفيض ذا النون بن إبراهيم",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وسمعت أبا الفيض ذا النون بن إبراهيم يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عمرو العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن عيسى",
+          "person_id": 1260,
+          "canonical_name": "أحمد بن محمد بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن الحسين",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "ذا النون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا عمرو العثماني يقول أخبرنا أحمد بن محمد بن عيسى قال سمعت يوسف بن الحسين يقول سمعت ذا النون يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن عيسى",
+          "person_id": 1260,
+          "canonical_name": "أحمد بن محمد بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن الحسين",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عثمان بن محمد ثنا أحمد بن محمد بن عيسى ثنا يوسف بن الحسين",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن عيسى",
+          "person_id": 1260,
+          "canonical_name": "أحمد بن محمد بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن الحسين",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال يوسف",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن عيسى",
+          "person_id": 1260,
+          "canonical_name": "أحمد بن محمد بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن الحسين",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال يوسف: وسألت ذا النون يوما من الأيام",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن عيسى",
+          "person_id": 1260,
+          "canonical_name": "أحمد بن محمد بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن الحسين",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت يوسف يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن عيسى",
+          "person_id": 1260,
+          "canonical_name": "أحمد بن محمد بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن الحسين",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت ذا النون",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن عيسى",
+          "person_id": 1260,
+          "canonical_name": "أحمد بن محمد بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن الحسين",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت يوسف بن الحسين يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن عيسى",
+          "person_id": 1260,
+          "canonical_name": "أحمد بن محمد بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن الحسين",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال يوسف",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسين الصوفي محمد بن عبد الله الرازي",
+          "person_id": 446,
+          "canonical_name": "أبو الحسين الصوفي محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يعقوب يوسف بن الحسين الصوفي الرازي",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن حنبل",
+          "person_id": 1192,
+          "canonical_name": "أحمد بن حنبل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مروان بن معاوية",
+          "person_id": 2495,
+          "canonical_name": "مروان بن معاوية",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "هلال بن سعيد أبو المعلى",
+          "person_id": 2604,
+          "canonical_name": "هلال بن سعيد أبو المعلى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أنس بن مالك",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عثمان بن محمد ثنا أبو الحسين الصوفي محمد بن عبد الله الرازي - بدمشق - حدثني أبو يعقوب يوسف بن الحسين الصوفي الرازي ثنا أحمد بن حنبل ثنا مروان بن معاوية ثنا هلال بن سعيد أبو المعلى عن أنس بن مالك",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسين الصوفي محمد بن عبد الله الرازي",
+          "person_id": 446,
+          "canonical_name": "أبو الحسين الصوفي محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو يعقوب يوسف بن الحسين الصوفي الرازي",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن حنبل",
+          "person_id": 1192,
+          "canonical_name": "أحمد بن حنبل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مروان بن معاوية",
+          "person_id": 2495,
+          "canonical_name": "مروان بن معاوية",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "هلال بن سعيد أبو المعلى",
+          "person_id": 2604,
+          "canonical_name": "هلال بن سعيد أبو المعلى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أنس بن مالك",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال يوسف",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "شيخنا القاضي أبو أحمد محمد بن أحمد بن إبراهيم",
+          "person_id": 599,
+          "canonical_name": "أبو أحمد محمد بن أحمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن الحسين الرازي الصوفي",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن حنبل",
+          "person_id": 1192,
+          "canonical_name": "أحمد بن حنبل",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحدث بهذا الحديث عن يوسف بن الحسين شيخنا القاضي أبو أحمد محمد بن أحمد بن إبراهيم - فيما أملاه - ثنا يوسف بن الحسين الرازي الصوفي ثنا أحمد بن حنبل",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شيخنا القاضي أبو أحمد محمد بن أحمد بن إبراهيم",
+          "person_id": 599,
+          "canonical_name": "أبو أحمد محمد بن أحمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن الحسين الرازي الصوفي",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن حنبل",
+          "person_id": 1192,
+          "canonical_name": "أحمد بن حنبل",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "بإسناده مثله",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو محمد بن حيان",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عصام الرازي",
+          "person_id": 1218,
+          "canonical_name": "أحمد بن عصام الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن الحسين",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "عامر بن سيار",
+          "person_id": 1708,
+          "canonical_name": "عامر بن سيار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن زياد",
+          "person_id": 2352,
+          "canonical_name": "محمد بن زياد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ميمون بن مهران",
+          "person_id": 2573,
+          "canonical_name": "ميمون بن مهران",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عباس",
+          "has_id": NaN,
+          "person_id": 26,
+          "canonical_name": "ابن عباس",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو محمد بن حيان - إملاء - ثنا أحمد بن عصام الرازي حدثني يوسف بن الحسين ثنا عامر بن سيار ثنا محمد بن زياد عن ميمون بن مهران عن ابن عباس",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "ذا النون",
+        "relationship_type": "student_of",
+        "relationship_phrase": "سمعت",
+        "full_text": "سمعت يوسف بن الحسين يقول سمعت ذا النون يقول",
+        "person_id": 1523,
+        "canonical_name": "ذو النون المصري",
+        "has_id": 570
+      },
+      {
+        "name": "أبو يزيد البسطامي",
+        "relationship_type": "student_of",
+        "relationship_phrase": "سمعت",
+        "full_text": "سمعت أبا يزيد البسطامي يقول",
+        "person_id": 1128,
+        "canonical_name": "أبو يزيد البسطامي",
+        "has_id": 435
+      },
+      {
+        "name": "الفتح بن شخرف",
+        "relationship_type": "student_of",
+        "relationship_phrase": "سمعت",
+        "full_text": "سمعت الفتح بن شخرف يقول",
+        "person_id": 191,
+        "canonical_name": "الفتح بن شخرف",
+        "has_id": NaN
+      },
+      {
+        "name": "محمد بن يحيى السرخسي الناسك",
+        "relationship_type": "student_of",
+        "relationship_phrase": "حدثني",
+        "full_text": "حدثني محمد بن يحيى السرخسي الناسك",
+        "person_id": 2469,
+        "canonical_name": "محمد بن يحيى السرخسي الناسك",
+        "has_id": NaN
+      },
+      {
+        "name": "أحمد بن حنبل",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أحمد بن حنبل",
+        "person_id": 1192,
+        "canonical_name": "أحمد بن حنبل",
+        "has_id": NaN
+      }
+    ],
+    "students": [
+      {
+        "name": "أبو جعفر الرازي",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "سمعت ... يقول",
+        "full_text": "سمعت أبا جعفر الرازي يقول سمعت يوسف بن الحسين يقول",
+        "person_id": 748,
+        "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+        "has_id": NaN
+      },
+      {
+        "name": "أبا بكر الرازي",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "يقول قال",
+        "full_text": "سمعت أبا بكر الرازي يقول قال يوسف بن الحسين",
+        "person_id": 707,
+        "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+        "has_id": NaN
+      },
+      {
+        "name": "أبا بكر الرازى",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "يقول قال",
+        "full_text": "سمعت أبا بكر الرازى يقول قال يوسف ابن الحسين",
+        "person_id": 707,
+        "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+        "has_id": NaN
+      },
+      {
+        "name": "أحمد بن محمد بن عيسى",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "قال سمعت",
+        "full_text": "أخبرنا أحمد بن محمد بن عيسى قال سمعت يوسف بن الحسين يقول",
+        "person_id": 1260,
+        "canonical_name": "أحمد بن محمد بن عيسى",
+        "has_id": NaN
+      },
+      {
+        "name": "أبو الحسين الصوفي محمد بن عبد الله الرازي",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "ثنا ... حدثني",
+        "full_text": "ثنا أبو الحسين الصوفي محمد بن عبد الله الرازي - بدمشق - حدثني أبو يعقوب يوسف بن الحسين الصوفي الرازي",
+        "person_id": 446,
+        "canonical_name": "أبو الحسين الصوفي محمد بن عبد الله الرازي",
+        "has_id": NaN
+      },
+      {
+        "name": "شيخنا القاضي أبو أحمد محمد بن أحمد بن إبراهيم",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "شيخنا القاضي أبو أحمد محمد بن أحمد بن إبراهيم - فيما أملاه - ثنا يوسف بن الحسين الرازي الصوفي",
+        "person_id": 599,
+        "canonical_name": "أبو أحمد محمد بن أحمد بن إبراهيم",
+        "has_id": NaN
+      },
+      {
+        "name": "أحمد بن عصام الرازي",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "حدثني",
+        "full_text": "ثنا أحمد بن عصام الرازي حدثني يوسف بن الحسين",
+        "person_id": 1218,
+        "canonical_name": "أحمد بن عصام الرازي",
+        "has_id": NaN
+      }
+    ],
+    "companions": [
+      {
+        "name": "ذا النون المصري",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب ذا النون المصري",
+        "person_id": 1523,
+        "canonical_name": "ذو النون المصري",
+        "has_id": 570
+      },
+      {
+        "name": "أبا تراب النخشبي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وأبا تراب النخشبي",
+        "person_id": 721,
+        "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+        "has_id": 388
+      },
+      {
+        "name": "أبا سعيد الخزاز",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وأبا سعيد الخزاز",
+        "person_id": 801,
+        "canonical_name": "أبو سعيد الخراز",
+        "has_id": 123
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أبو جعفر الرازي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا جعفر الرازي يقول",
+      "person_id": 748,
+      "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا بكر الرازي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر الرازي بنيسابور يقول",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا بكر الرازى",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر الرازى يقول",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد بن محمد بن عيسى",
+      "relationship_type": "narrator",
+      "full_text": "أخبرنا أحمد بن محمد بن عيسى قال سمعت يوسف بن الحسين يقول",
+      "person_id": 1260,
+      "canonical_name": "أحمد بن محمد بن عيسى",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو الحسين الصوفي محمد بن عبد الله الرازي",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أبو الحسين الصوفي محمد بن عبد الله الرازي - بدمشق - حدثني أبو يعقوب يوسف بن الحسين الصوفي الرازي",
+      "person_id": 446,
+      "canonical_name": "أبو الحسين الصوفي محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "شيخنا القاضي أبو أحمد محمد بن أحمد بن إبراهيم",
+      "relationship_type": "narrator",
+      "full_text": "شيخنا القاضي أبو أحمد محمد بن أحمد بن إبراهيم - فيما أملاه - ثنا يوسف بن الحسين الرازي الصوفي",
+      "person_id": 599,
+      "canonical_name": "أبو أحمد محمد بن أحمد بن إبراهيم",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد بن عصام الرازي",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أحمد بن عصام الرازي حدثني يوسف بن الحسين",
+      "person_id": 1218,
+      "canonical_name": "أحمد بن عصام الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "context": "دلني على طريق المعرفة",
+      "full_text": "قال وقال رجل ليوسف: دلني على طريق المعرفة",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    },
+    {
+      "name": "ذا النون",
+      "relationship_type": "interlocutor",
+      "full_text": "سألت ذا النون: من أجالس؟",
+      "person_id": 1523,
+      "canonical_name": "ذو النون المصري",
+      "has_id": 570
+    },
+    {
+      "name": "طاهر المقدسي",
+      "relationship_type": "interlocutor",
+      "full_text": "فعرضت هذه الكلمة على طاهر المقدسي فقال",
+      "person_id": 1696,
+      "canonical_name": "طاهر المقدسي",
+      "has_id": 640
+    },
+    {
+      "name": "يتيمك الرازي",
+      "relationship_type": "interlocutor",
+      "full_text": "فقال لي: من أين أقبلت؟ قلت: من بغداد",
+      "person_id": 2622,
+      "canonical_name": "يتيمك الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا عبد الله",
+      "relationship_type": "interlocutor",
+      "full_text": "قال يوسف: كنت أتيت أبا عبد الله في أيام المتوكل فسألني عن بلدي وقال: ما حاجتك، وفي أي شيء جئت إلي؟",
+      "person_id": 852,
+      "canonical_name": "أبو عبد الله",
+      "has_id": NaN
+    }
+  ]
+}

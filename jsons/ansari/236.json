@@ -1,0 +1,286 @@
+{
+  "bio_id": "236",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "253",
+    "full_text": "بامداد روز سه شنبه برفته سیوم ماه رمضان سنه ثلث و خمسین و مائتین",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "visited",
+      "full_text": "در بغداد سخن گفت: بزبان توحید و حقائق احوال"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "جنید",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال جنید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سری سقطی",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت کی سری سقطی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "رسول اللّه ﷺ",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "و قال رسول اللّه ﷺ:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "رسول اللّه ﷺ",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و قال:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "رجل من خزاعه",
+          "person_id": 1542,
+          "canonical_name": "رجل من خزاعه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "و انشد رجل من خزاعه:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعبداللّه با کو",
+          "person_id": 15,
+          "canonical_name": "ابن باكوية الشيرازي",
+          "has_id": 150,
+          "subj_added": false
+        },
+        {
+          "name": "بو طبیب فرخان",
+          "person_id": 483,
+          "canonical_name": "أبو الطيب محمد بن فرخان بن روز به السامري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جنید",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "سری",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت:که بوعبداللّه با کوگفت، بو طبیب فرخان گفت، کی جنید گفت، که سری گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعبداللّه با کو",
+          "person_id": 15,
+          "canonical_name": "ابن باكوية الشيرازي",
+          "has_id": 150,
+          "subj_added": false
+        },
+        {
+          "name": "بو طبیب فرخان",
+          "person_id": 483,
+          "canonical_name": "أبو الطيب محمد بن فرخان بن روز به السامري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جنید",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "سری",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "معروف کرخی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد معروف کرخی ٭ بود",
+        "person_id": 2524,
+        "canonical_name": "معروف الكرخي",
+        "has_id": 810
+      }
+    ],
+    "students": [
+      {
+        "name": "جنید",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "استاذ",
+        "full_text": "استاذ جنید",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ],
+    "companions": [
+      {
+        "name": "حارث محاسبی",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "از اقران حارث محاسبی و بشر حافی٭",
+        "person_id": 69,
+        "canonical_name": "الحارث بن أسد المحاسبي",
+        "has_id": 229
+      },
+      {
+        "name": "بشر حافی",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "از اقران حارث محاسبی و بشر حافی٭",
+        "person_id": 1323,
+        "canonical_name": "بشر بن الحارث الحافي",
+        "has_id": 470
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت کی سری سقطی گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "جنید",
+      "relationship_type": "direct_narrator",
+      "full_text": "کی جنید گفت، که سری گفت:",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    },
+    {
+      "name": "بوعبداللّه با کو",
+      "relationship_type": "narrator",
+      "full_text": "که بوعبداللّه با کوگفت،",
+      "person_id": 15,
+      "canonical_name": "ابن باكوية الشيرازي",
+      "has_id": 150
+    },
+    {
+      "name": "بو طبیب فرخان",
+      "relationship_type": "narrator",
+      "full_text": "بو طبیب فرخان گفت،",
+      "person_id": 483,
+      "canonical_name": "أبو الطيب محمد بن فرخان بن روز به السامري",
+      "has_id": NaN
+    },
+    {
+      "name": "رسول اللّه ﷺ",
+      "relationship_type": "narrator",
+      "full_text": "و قال رسول اللّه ﷺ:",
+      "person_id": 246,
+      "canonical_name": "النبي",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل من خزاعه",
+      "relationship_type": "narrator",
+      "full_text": "و انشد رجل من خزاعه:",
+      "person_id": 1542,
+      "canonical_name": "رجل من خزاعه",
+      "has_id": NaN
+    }
+  ]
+}

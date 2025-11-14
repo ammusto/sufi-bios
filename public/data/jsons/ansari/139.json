@@ -1,0 +1,118 @@
+{
+  "bio_id": "139",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بصره",
+      "context": "nisba",
+      "full_text": "البصری"
+    },
+    {
+      "place": "بصره",
+      "context": "lived",
+      "full_text": "ببصره بود"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "بوعبداللّه سالمی",
+          "person_id": 870,
+          "canonical_name": "أبو عبد الله السالمي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی بوعبداللّه سالمی گفته بود",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوعبداللّه خفیف",
+          "person_id": 22,
+          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 26,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ بوعبداللّه خفیف گوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوعبداللّه خفیف",
+          "person_id": 22,
+          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 26,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "اوگفت:",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "سهل تستری٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "ببصره بود شاگرد سهل تستری٭ سی سال باوی تا شصت سال و طریقت از ویگرفته بود اما مست.",
+        "person_id": 1639,
+        "canonical_name": "سهل بن عبد الله التستري",
+        "has_id": 605
+      },
+      {
+        "name": "سهل تستری٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "طریقت از ویگرفته بود",
+        "full_text": "ببصره بود شاگرد سهل تستری٭ سی سال باوی تا شصت سال و طریقت از ویگرفته بود اما مست.",
+        "person_id": 1639,
+        "canonical_name": "سهل بن عبد الله التستري",
+        "has_id": 605
+      },
+      {
+        "name": "سهل تستری٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "باوی",
+        "full_text": "سی سال باوی تا شصت سال",
+        "person_id": 1639,
+        "canonical_name": "سهل بن عبد الله التستري",
+        "has_id": 605
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت: کی بوعبداللّه سالمی گفته بود: که اللّه در ازل همه چیز میدید، ویرا مهجور کرده بودند باین سبب.",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ بوعبداللّه خفیف",
+      "relationship_type": "narrator",
+      "full_text": "شیخ بوعبداللّه خفیف گوید: که این قدم دهر بود.",
+      "person_id": 22,
+      "canonical_name": "أبو عبد الله بن خفيف",
+      "has_id": 26
+    }
+  ]
+}

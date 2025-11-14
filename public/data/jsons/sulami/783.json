@@ -1,0 +1,603 @@
+{
+  "bio_id": "783",
+  "source": "sulami",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "ترمذ",
+      "context": "nisba",
+      "full_text": "التِّرْمِذِيّ"
+    },
+    {
+      "place": "خُرَاسَان",
+      "context": "lived",
+      "full_text": "وَهُوَ من كبار مَشَايِخ خُرَاسَان"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "القَاضِي أَبُو مُحَمَّد يحيى بن مَنْصُور",
+          "person_id": 214,
+          "canonical_name": "القاضي أبو محمد يحيى بن منصور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عبد الله مُحَمَّد ابْن عَليّ التِّرْمِذِيّ",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن رزام الأبلي",
+          "person_id": 2350,
+          "canonical_name": "محمد بن رزام الآبلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عَطاء الهُجَيْمِي",
+          "person_id": 2406,
+          "canonical_name": "محمد بن عطاء الهجيمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن نصر",
+          "person_id": 2459,
+          "canonical_name": "محمد بن نصر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَطاء بن أبي رَبَاح",
+          "person_id": 1966,
+          "canonical_name": "عطاء بن أبي رباح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن عَبَّاس",
+          "person_id": 26,
+          "canonical_name": "ابن عباس",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حَدثنَا القَاضِي أَبُو مُحَمَّد يحيى بن مَنْصُور قَالَ حَدثنَا أَبُو عبد الله مُحَمَّد ابْن عَليّ التِّرْمِذِيّ حَدثنَا مُحَمَّد بن رزام الأبلي حَدثنَا مُحَمَّد بن عَطاء\nالهُجَيْمِي حَدثنَا مُحَمَّد بن نصر عَن عَطاء بن أبي رَبَاح عَن ابْن عَبَّاس",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عَليّ التِّرْمِذِيّ",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول قَالَ مُحَمَّد بن عَليّ التِّرْمِذِيّ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عَليّ التِّرْمِذِيّ",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ مُحَمَّد بن عَليّ من شَرَائِط الخدام التَّوَاضُع والاستسلام",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عَليّ التِّرْمِذِيّ",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ مُحَمَّد بن عَليّ النَّاس فِي اسْتِمَاع الْحِكْمَة رجلَانِ عَاقل وعامل فالعاقل يتعجب وَهُوَ لما يسمعهُ يَشْتَهِي وَالْعَامِل يتقلب كَأَن قلبه مِنْهُ حَيَّة تلتوي",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عَليّ التِّرْمِذِيّ",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ مُحَمَّد بن عَليّ لَيْسَ فِي الدُّنْيَا حمل أثقل من الْبر لِأَن من برك فقد أوثقك وَمن جفاك فقد أطلقك",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عَليّ التِّرْمِذِيّ",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ مُحَمَّد كفى بِالْمَرْءِ عَيْبا أَن يسره مَا يضرّهُ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عَليّ",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عَليّ التِّرْمِذِيّ",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول سَمِعت الْحسن بن عَليّ يَقُول سَمِعت مُحَمَّد بن عَليّ التِّرْمِذِيّ يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عَليّ",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عَليّ التِّرْمِذِيّ",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ مُحَمَّد بن عَليّ الْعَاقِل من اتَّقى ربه وحاسب نَفسه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عَليّ",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عَليّ التِّرْمِذِيّ",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ مُحَمَّد بن عَليّ من جهل أَوْصَاف الْعُبُودِيَّة فَهُوَ بنعوت الربانية أَجْهَل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عَليّ",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عَليّ التِّرْمِذِيّ",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ مُحَمَّد بن عَليّ صَلَاح خَمْسَة أَصْنَاف فِي خَمْسَة مَوَاطِن صَلَاح الصّبيان فِي الْكتاب وَصَلَاح القطاع فِي السجْن وَصَلَاح النِّسَاء فِي الْبيُوت وَصَلَاح الفتيان فِي الْعلم وَصَلَاح الكهول فِي الْمَسَاجِد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عَليّ",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عَليّ التِّرْمِذِيّ",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ مُحَمَّد بن عَليّ ضمن الله تَعَالَى للعباد الرزق وَفرض عَلَيْهِم التَّوَكُّل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عَليّ",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عَليّ التِّرْمِذِيّ",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ مُحَمَّد بن عَليّ حَقِيقَة محبَّة الله دوَام الْأنس بِذكرِهِ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عَليّ",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عَليّ التِّرْمِذِيّ",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ مُحَمَّد بن عَليّ الْمُؤمن بشره فِي وَجهه وحزنه فِي قلبه وَالْمُنَافِق حزنه فِي وَجهه وبشره فِي قلبه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عَليّ",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عَليّ التِّرْمِذِيّ",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ مُحَمَّد بن عَليّ الدُّنْيَا عروس الْمُلُوك ومرآة الزهاد أما الْمُلُوك فتجملوا بهَا وَأما الزهاد فنظروا إِلَى آفتها فتركوها",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عَليّ",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عَليّ التِّرْمِذِيّ",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ سُئِلَ مُحَمَّد بن عَليّ عَن الْخلق فَقَالَ ضعف ظَاهر وَدَعوى عريضة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عَليّ",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عَليّ التِّرْمِذِيّ",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ مُحَمَّد بن عَليّ اجْعَل مراقبتك لمن لَا يغيب عَن نظره إِلَيْك وَاجعَل شكرك لمن لَا تَنْقَطِع نعمه عَنْك وَاجعَل خضوعك لمن لَا تخرج عَن ملكه وسلطانه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عَليّ",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عَليّ التِّرْمِذِيّ",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ مُحَمَّد بن عَليّ ملاك الْقُلُوب بِكَمَال الخشية وملامك النُّفُوس بِكَمَال التَّقْوَى",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عَليّ",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عَليّ التِّرْمِذِيّ",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ مُحَمَّد بن عَليّ المكلم والمحدث إِذا تحققا فِي درجتهما لم يخافا من حَدِيث النَّفس وكما أَن النُّبُوَّة مَحْفُوظَة بالنسخ لإلقاء الشَّيْطَان كَذَلِك مَحل المكالمة والمحادثة مصونة من الْإِلْقَاء النَّفس وفتنتها محروسة بِالْحَقِّ والسكينة لِأَن السكينَة حجاب المكلم والمحدث عَن نَفسه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عَليّ",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عَليّ التِّرْمِذِيّ",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ سُئِلَ مُحَمَّد بن عَليّ هَل يخَاف المحدثون سوء الْعَاقِبَة فَقَالَ خوف هول وقلق يكون كالخطرات ثمَّ يمْضِي فَإِن الله تَعَالَى لَا يحب أَن يكدر عَلَيْهِم مننه",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أَبَا تُرَاب النخشبي",
+        "relationship_type": "peer",
+        "relationship_phrase": "لَقِي",
+        "full_text": "لَقِي أَبَا تُرَاب النخشبي",
+        "person_id": 721,
+        "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+        "has_id": 388
+      },
+      {
+        "name": "يحيى الْجلاء",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب",
+        "full_text": "صَحب يحيى الْجلاء",
+        "person_id": 2625,
+        "canonical_name": "يحيى بن الجلاء",
+        "has_id": NaN
+      },
+      {
+        "name": "أحمد بن خضرويه",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب",
+        "full_text": "وَأحمد بن خضرويه",
+        "person_id": 1194,
+        "canonical_name": "أحمد بن خضرويه البلخي",
+        "has_id": 440
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "القَاضِي أَبُو مُحَمَّد يحيى بن مَنْصُور",
+      "relationship_type": "narrator",
+      "full_text": "حَدثنَا القَاضِي أَبُو مُحَمَّد يحيى بن مَنْصُور",
+      "person_id": 214,
+      "canonical_name": "القاضي أبو محمد يحيى بن منصور",
+      "has_id": NaN
+    },
+    {
+      "name": "مَنْصُور بن عبد الله",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول",
+      "person_id": 2547,
+      "canonical_name": "منصور بن عبد الله",
+      "has_id": NaN
+    },
+    {
+      "name": "الْحسن بن عَليّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت الْحسن بن عَليّ يَقُول",
+      "person_id": 94,
+      "canonical_name": "الحسن بن علي",
+      "has_id": NaN
+    }
+  ]
+}

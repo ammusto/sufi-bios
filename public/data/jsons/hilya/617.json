@@ -1,0 +1,87 @@
+{
+  "bio_id": "617",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "البصرة",
+      "context": "lived",
+      "full_text": "كان بالبصرة رجل يقال له شداد"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد بن جعفر",
+          "person_id": 1868,
+          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن العباس",
+          "person_id": 1864,
+          "canonical_name": "عبد الله بن محمد بن العباس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سلمة ابن شبيب",
+          "person_id": 1614,
+          "canonical_name": "سلمة بن شبيب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عاصم",
+          "person_id": 1638,
+          "canonical_name": "سهل بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عيينة",
+          "person_id": 2427,
+          "canonical_name": "محمد بن عيينة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مخلد بن الحسين",
+          "person_id": 2487,
+          "canonical_name": "مخلد بن الحسين",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد بن جعفر ثنا عبد الله بن محمد بن العباس ثنا سلمة ابن شبيب ثنا سهل بن عاصم ثنا محمد بن عيينة عن مخلد بن الحسين",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "مخلد بن الحسين",
+      "relationship_type": "narrator",
+      "full_text": "عن مخلد بن الحسين",
+      "person_id": 2487,
+      "canonical_name": "مخلد بن الحسين",
+      "has_id": NaN
+    },
+    {
+      "name": "عواده من أصحاب الحسن",
+      "relationship_type": "questioner",
+      "context": "عواده",
+      "full_text": "فدخل عليه عواده من أصحاب الحسن. فقالوا: كيف تجدك؟",
+      "person_id": 2134,
+      "canonical_name": "عواده من أصحاب الحسن",
+      "has_id": NaN
+    }
+  ]
+}

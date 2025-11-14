@@ -1,0 +1,62 @@
+{
+  "bio_id": "377",
+  "source": "hilya",
+  "death_date": {
+    "year_hijri": "340",
+    "full_text": "وتوفي بها سنة أربعين وثلاثمائة.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "طمستان",
+      "context": "nisba",
+      "full_text": "الطمستاني"
+    },
+    {
+      "place": "أصبهان",
+      "context": "visited",
+      "full_text": "قدم أصبهان"
+    },
+    {
+      "place": "نيسابور",
+      "context": "visited",
+      "full_text": "وخرج منها إلى نيسابور"
+    },
+    {
+      "place": "نيسابور",
+      "context": "died",
+      "full_text": "وتوفي بها سنة أربعين وثلاثمائة."
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا حامد أحمد بن محمد بن رستة الجمال الصوفي",
+          "person_id": 754,
+          "canonical_name": "أبو حامد أحمد بن محمد بن رستة الجمال الصوفي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا حامد أحمد بن محمد بن رستة الجمال الصوفي يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا حامد أحمد بن محمد بن رستة الجمال الصوفي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا حامد أحمد بن محمد بن رستة الجمال الصوفي يقول",
+      "person_id": 754,
+      "canonical_name": "أبو حامد أحمد بن محمد بن رستة الجمال الصوفي",
+      "has_id": NaN
+    }
+  ]
+}

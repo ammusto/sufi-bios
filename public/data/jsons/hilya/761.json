@@ -1,0 +1,121 @@
+{
+  "bio_id": "761",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "نيسابور",
+      "context": "nisba",
+      "full_text": "النيسابوري"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا عمرو محمد بن أحمد بن حمدان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محفوظ بن محمود",
+          "person_id": 2213,
+          "canonical_name": "محفوظ بن محمود",
+          "has_id": 761,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا عمرو محمد بن أحمد بن حمدان يقول سمعت محفوظ بن محمود يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محفوظ",
+          "person_id": 2213,
+          "canonical_name": "محفوظ بن محمود",
+          "has_id": 761,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول قال محفوظ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محفوظ",
+          "person_id": 2213,
+          "canonical_name": "محفوظ بن محمود",
+          "has_id": 761,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محفوظ",
+          "person_id": 2213,
+          "canonical_name": "محفوظ بن محمود",
+          "has_id": 761,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا عمرو محمد بن أحمد بن حمدان",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا عمرو محمد بن أحمد بن حمدان يقول",
+      "person_id": 1023,
+      "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن الحسين",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن الحسين يقول",
+      "person_id": 2237,
+      "canonical_name": "محمد بن الحسين",
+      "has_id": NaN
+    }
+  ]
+}

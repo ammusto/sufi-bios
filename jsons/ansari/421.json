@@ -1,0 +1,72 @@
+{
+  "bio_id": "421",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "جوزجان",
+      "context": "nisba",
+      "full_text": "الجوزجانی"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "ابوعلی الجوزجانی",
+          "person_id": 949,
+          "canonical_name": "أبو علي الجوزجاني",
+          "has_id": 421,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وی گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "محمدعلی ترمذی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "صحبت کرده بود با محمدعلی ترمذی و محمد فضل بلخی٭",
+        "person_id": 917,
+        "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+        "has_id": 783
+      },
+      {
+        "name": "محمد فضل بلخی٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "صحبت کرده بود با محمدعلی ترمذی و محمد فضل بلخی٭",
+        "person_id": 2254,
+        "canonical_name": "محمد بن الفضل البلخي",
+        "has_id": 770
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "محمدعلی ترمذی",
+        "relationship_type": "peer",
+        "relationship_phrase": "قریب سن است از ایشان",
+        "full_text": "و قریب سن است از ایشان.",
+        "person_id": 917,
+        "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+        "has_id": 783
+      },
+      {
+        "name": "محمد فضل بلخی٭",
+        "relationship_type": "peer",
+        "relationship_phrase": "قریب سن است از ایشان",
+        "full_text": "و قریب سن است از ایشان.",
+        "person_id": 2254,
+        "canonical_name": "محمد بن الفضل البلخي",
+        "has_id": 770
+      }
+    ]
+  },
+  "associates": []
+}

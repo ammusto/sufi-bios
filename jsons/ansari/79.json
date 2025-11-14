@@ -1,0 +1,329 @@
+{
+  "bio_id": "79",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "374",
+    "full_text": "المقیم بالحرم و مات بها فی سنه اربع و سبعین و ثلثمائه",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "طرسوس",
+      "context": "nisba",
+      "full_text": "الطرسوسی"
+    },
+    {
+      "place": "حرم",
+      "context": "nisba",
+      "full_text": "حرمی"
+    },
+    {
+      "place": "مکه",
+      "context": "lived",
+      "full_text": "بمکه بوده مجاور"
+    },
+    {
+      "place": "مکه",
+      "context": "lived",
+      "full_text": "سالها شیخ مکه بود"
+    },
+    {
+      "place": "مکه",
+      "context": "died",
+      "full_text": "در سنه اربع و سبعین برفته بمکه."
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت قدس اللّه روحه وکرم وجهه:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ عباس فقیر",
+          "person_id": 1718,
+          "canonical_name": "عباس الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شیخ بوبکر حرمی",
+          "person_id": 615,
+          "canonical_name": "أبو بكر الحرمي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت که شیخ عباس فقیرگفت مرا که شیخ بوبکر حرمی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ عباس فقیر",
+          "person_id": 1718,
+          "canonical_name": "عباس الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شیخ بوبکر حرمی",
+          "person_id": 615,
+          "canonical_name": "أبو بكر الحرمي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقتی دیگر شیخ الاسلام این حکایت کرد وگفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالفرج ورثانی٭",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بوالفرج ورثانی٭ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمدعمر نشاپوری",
+          "person_id": 2421,
+          "canonical_name": "محمد بن عمر النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی محمدعمر نشاپوری گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که صوفی در شهر ابله میرفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالحسین دراجی٭",
+          "person_id": 397,
+          "canonical_name": "أبو الحسين الدراج",
+          "has_id": 318,
+          "subj_added": false
+        },
+        {
+          "name": "فوطی",
+          "person_id": 201,
+          "canonical_name": "الفوطي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "بوالحسین دراجی٭ و فوطی حکایت کنند.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "دراج",
+          "person_id": 397,
+          "canonical_name": "أبو الحسين الدراج",
+          "has_id": 318,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "این را دراج گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوعبداللّه جلا٭",
+          "person_id": 901,
+          "canonical_name": "أبو عبد الله بن جلاء",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ بوعبداللّه جلا٭ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوعمرو علوان",
+          "person_id": 1022,
+          "canonical_name": "أبو عمرو علوان",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ بوعمرو علوان گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که وقتی درویشی در دعوتی بود",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "بوالحسین مالکی٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد بوالحسین مالکی٭ بوده",
+        "person_id": 450,
+        "canonical_name": "أبو الحسين المالكي",
+        "has_id": 321
+      },
+      {
+        "name": "ابراهیم بن شیبان کرمان شاهی٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرد، با",
+        "full_text": "صحبت کرد، با ابراهیم بن شیبان کرمان شاهی٭ و نسبت باوکردی.",
+        "person_id": 314,
+        "canonical_name": "إبراهيم بن شيبان",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "شیخ سیروانی٭",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "شیخ سلمی ویرا در تاریخ نیاورده ویرا دیده و از اقران شیخ سیروانی٭ بوده.",
+        "person_id": 165,
+        "canonical_name": "السيرواني",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ عباس فقیر",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ عباس فقیرگفت مرا",
+      "person_id": 1718,
+      "canonical_name": "عباس الهروي",
+      "has_id": NaN
+    },
+    {
+      "name": "بوالفرج ورثانی٭",
+      "relationship_type": "narrator",
+      "full_text": "بوالفرج ورثانی٭ گوید",
+      "person_id": 519,
+      "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+      "has_id": NaN
+    },
+    {
+      "name": "محمدعمر نشاپوری",
+      "relationship_type": "narrator",
+      "full_text": "محمدعمر نشاپوری گوید",
+      "person_id": 2421,
+      "canonical_name": "محمد بن عمر النيسابوري",
+      "has_id": NaN
+    },
+    {
+      "name": "بوالحسین دراجی٭",
+      "relationship_type": "narrator",
+      "full_text": "بوالحسین دراجی٭ و فوطی حکایت کنند.",
+      "person_id": 397,
+      "canonical_name": "أبو الحسين الدراج",
+      "has_id": 318
+    },
+    {
+      "name": "فوطی",
+      "relationship_type": "narrator",
+      "full_text": "بوالحسین دراجی٭ و فوطی حکایت کنند.",
+      "person_id": 201,
+      "canonical_name": "الفوطي",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ بوعبداللّه جلا٭",
+      "relationship_type": "narrator",
+      "full_text": "شیخ بوعبداللّه جلا٭ گوید",
+      "person_id": 901,
+      "canonical_name": "أبو عبد الله بن جلاء",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ بوعمرو علوان",
+      "relationship_type": "narrator",
+      "full_text": "شیخ بوعمرو علوان گوید",
+      "person_id": 1022,
+      "canonical_name": "أبو عمرو علوان",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ سلمی",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "شیخ سلمی ویرا در تاریخ نیاورده ویرا دیده",
+      "person_id": 845,
+      "canonical_name": "أبو عبد الرحمن السلمي",
+      "has_id": 133
+    },
+    {
+      "name": "ابوالقاسم سایح",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "ابوالقاسم سایح جائی نشسته بود در مهمانی با قومی",
+      "person_id": 551,
+      "canonical_name": "أبو القاسم سايح",
+      "has_id": NaN
+    },
+    {
+      "name": "ایوب نجارکوز پشت",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "ایوب نجارکوز پشت بود",
+      "person_id": 269,
+      "canonical_name": "ايوب نجاركوز پشت",
+      "has_id": NaN
+    },
+    {
+      "name": "جبله",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "یکی نام جبله",
+      "person_id": 1379,
+      "canonical_name": "جبلة",
+      "has_id": NaN
+    },
+    {
+      "name": "زریق",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "نام دیگر زریق",
+      "person_id": 1559,
+      "canonical_name": "زريق",
+      "has_id": NaN
+    }
+  ]
+}

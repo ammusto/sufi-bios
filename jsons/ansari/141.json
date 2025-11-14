@@ -1,0 +1,246 @@
+{
+  "bio_id": "141",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "366",
+    "full_text": "در سنه ست و ستین و ثلثمائه برفته از دنیا.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "شیخ سلمی",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ سلمی گوید: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "با منصور صابونی",
+          "person_id": 1086,
+          "canonical_name": "أبو منصور الصابوني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوعبداللّه مقری",
+          "person_id": 886,
+          "canonical_name": "أبو عبد الله المقرى",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "با منصور صابونی گوید: کی از بوعبداللّه مقری شنودم که گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سلمی",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "شیخ بوالقاسم مقری رازی",
+          "person_id": 537,
+          "canonical_name": "أبو القاسم العباس الرازي المقرئ",
+          "has_id": 418,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "و سلمی گوید: که از شیخ بوالقاسم مقری رازی شنودم که گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سلمی",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "شیخ بوالقاسم مقری رازی",
+          "person_id": 537,
+          "canonical_name": "أبو القاسم العباس الرازي المقرئ",
+          "has_id": 418,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "سلمی",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "شیخ بوالقاسم مقری رازی",
+          "person_id": 537,
+          "canonical_name": "أبو القاسم العباس الرازي المقرئ",
+          "has_id": 418,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعلی صفار رازی",
+          "person_id": 964,
+          "canonical_name": "أبو علي الصفار الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوعبداللهّ مقری",
+          "person_id": 887,
+          "canonical_name": "أبو عبد الله المقرئ",
+          "has_id": 418,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "و بوعلی صفار رازی گوید: کی بوعبداللهّ مقری گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالفرج ورثانی",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوعبداللّه مقری",
+          "person_id": 886,
+          "canonical_name": "أبو عبد الله المقرى",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "بوالفرج ورثانی گوید: که بوعبداللّه مقری گفت",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "یوسف حسین رازی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "و بوعبداللّه صحبت کرده بود با یوسف حسین رازی وعبداللّه خراز رازی و مظفرکرمان شاهی و رویم و حریری وابن عطا٭",
+        "person_id": 1140,
+        "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+        "has_id": 847
+      },
+      {
+        "name": "عبداللّه خراز رازی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "و بوعبداللّه صحبت کرده بود با یوسف حسین رازی وعبداللّه خراز رازی و مظفرکرمان شاهی و رویم و حریری وابن عطا٭",
+        "person_id": 1791,
+        "canonical_name": "عبد الله بن محمد الخراز الرازي",
+        "has_id": 653
+      },
+      {
+        "name": "مظفرکرمان شاهی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "و بوعبداللّه صحبت کرده بود با یوسف حسین رازی وعبداللّه خراز رازی و مظفرکرمان شاهی و رویم و حریری وابن عطا٭",
+        "person_id": 2513,
+        "canonical_name": "مظفر القرميسيني",
+        "has_id": 807
+      },
+      {
+        "name": "رویم",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "و بوعبداللّه صحبت کرده بود با یوسف حسین رازی وعبداللّه خراز رازی و مظفرکرمان شاهی و رویم و حریری وابن عطا٭",
+        "person_id": 1553,
+        "canonical_name": "رويم بن أحمد",
+        "has_id": 578
+      },
+      {
+        "name": "حریری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "و بوعبداللّه صحبت کرده بود با یوسف حسین رازی وعبداللّه خراز رازی و مظفرکرمان شاهی و رویم و حریری وابن عطا٭",
+        "person_id": 1442,
+        "canonical_name": "حريري",
+        "has_id": NaN
+      },
+      {
+        "name": "ابن عطا٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "و بوعبداللّه صحبت کرده بود با یوسف حسین رازی وعبداللّه خراز رازی و مظفرکرمان شاهی و رویم و حریری وابن عطا٭",
+        "person_id": 498,
+        "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+        "has_id": 340
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "با منصور صابونی",
+      "relationship_type": "direct_narrator",
+      "full_text": "با منصور صابونی گوید: کی از بوعبداللّه مقری شنودم که گفت:",
+      "person_id": 1086,
+      "canonical_name": "أبو منصور الصابوني",
+      "has_id": NaN
+    },
+    {
+      "name": "بوعلی صفار رازی",
+      "relationship_type": "direct_narrator",
+      "full_text": "و بوعلی صفار رازی گوید: کی بوعبداللهّ مقری گفت برادر بوالقاسم:",
+      "person_id": 964,
+      "canonical_name": "أبو علي الصفار الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "بوالفرج ورثانی",
+      "relationship_type": "direct_narrator",
+      "full_text": "بوالفرج ورثانی گوید: که بوعبداللّه مقری گفت:",
+      "person_id": 519,
+      "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ سلمی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ سلمی گوید: که کسی ندیدهام از مشایخ در سمت و وقار او",
+      "person_id": 845,
+      "canonical_name": "أبو عبد الرحمن السلمي",
+      "has_id": 133
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "bio_id": "716",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "مكة",
+      "context": "nisba",
+      "full_text": "المكي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا محمد بن عبد الله بن محمد بن جعفر",
+          "person_id": 1052,
+          "canonical_name": "أبو محمد بن عبد الله بن محمد بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عبد الله عمرو بن عثمان المكي",
+          "person_id": 2126,
+          "canonical_name": "عمرو بن عثمان المكي",
+          "has_id": 716,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا محمد بن عبد الله بن محمد بن جعفر يقول سمعت أبا عبد الله عمرو بن عثمان المكي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا محمد عبد الله بن محمد",
+          "person_id": 1058,
+          "canonical_name": "أبو محمد عبد الله بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمرو بن عثمان",
+          "person_id": 2126,
+          "canonical_name": "عمرو بن عثمان المكي",
+          "has_id": 716,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا محمد عبد الله بن محمد يقول سمعت عمرو بن عثمان يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا محمد عبد الله بن محمد بن جعفر",
+          "person_id": 1062,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمرو بن عثمان المكي",
+          "person_id": 2126,
+          "canonical_name": "عمرو بن عثمان المكي",
+          "has_id": 716,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا محمد عبد الله بن محمد بن جعفر يقول سمعت عمرو بن عثمان المكي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا محمد عبد الله بن محمد",
+          "person_id": 1058,
+          "canonical_name": "أبو محمد عبد الله بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمرو بن عثمان",
+          "person_id": 2126,
+          "canonical_name": "عمرو بن عثمان المكي",
+          "has_id": 716,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا محمد عبد الله بن محمد يقول سمعت عمرو بن عثمان يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا محمد",
+          "person_id": 1033,
+          "canonical_name": "أبو محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمرو بن عثمان",
+          "person_id": 2126,
+          "canonical_name": "عمرو بن عثمان المكي",
+          "has_id": 716,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا محمد يقول سمعت عمرو بن عثمان يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الشيخ",
+          "person_id": 169,
+          "canonical_name": "الشيخ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2126,
+          "canonical_name": "عمرو بن عثمان المكي",
+          "has_id": 716,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال الشيخ رضي الله تعالى عنه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1855,
+          "canonical_name": "عبد الله بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمرو بن عثمان",
+          "person_id": 2126,
+          "canonical_name": "عمرو بن عثمان المكي",
+          "has_id": 716,
+          "subj_added": false
+        },
+        {
+          "name": "يونس بن عبد الأعلى",
+          "person_id": 2687,
+          "canonical_name": "يونس بن عبد الأعلى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عيينة",
+          "has_id": NaN,
+          "person_id": 29,
+          "canonical_name": "ابن عيينة",
+          "subj_added": false
+        },
+        {
+          "name": "ابن عجلان",
+          "has_id": NaN,
+          "person_id": 103,
+          "canonical_name": "الحسن بن ناصح المخرمي",
+          "subj_added": false
+        },
+        {
+          "name": "أبيه",
+          "person_id": 1149,
+          "canonical_name": "أبوه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي هريرة",
+          "person_id": 1120,
+          "canonical_name": "أبو هريرة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد ثنا عمرو بن عثمان ثنا يونس بن عبد الأعلى ثنا ابن عيينة عن ابن عجلان عن أبيه عن أبي هريرة",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا محمد بن عبد الله بن محمد بن جعفر",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا محمد بن عبد الله بن محمد بن جعفر يقول",
+      "person_id": 1052,
+      "canonical_name": "أبو محمد بن عبد الله بن محمد بن جعفر",
+      "has_id": NaN
+    },
+    {
+      "name": "السائل",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "questioner",
+      "full_text": "في جواب مسألة سئل عنها يخاطب السائل",
+      "person_id": 159,
+      "canonical_name": "السائل",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا محمد عبد الله بن محمد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا محمد عبد الله بن محمد يقول",
+      "person_id": 1058,
+      "canonical_name": "أبو محمد عبد الله بن محمد",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا محمد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا محمد يقول",
+      "person_id": 1033,
+      "canonical_name": "أبو محمد",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الله بن محمد",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا عبد الله بن محمد",
+      "person_id": 1855,
+      "canonical_name": "عبد الله بن محمد",
+      "has_id": NaN
+    },
+    {
+      "name": "الشيخ",
+      "relationship_type": "narrator",
+      "full_text": "قال الشيخ رضي الله تعالى عنه",
+      "person_id": 169,
+      "canonical_name": "الشيخ",
+      "has_id": NaN
+    }
+  ]
+}

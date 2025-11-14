@@ -1,0 +1,189 @@
+{
+  "bio_id": "476",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "316",
+    "full_text": "آنجا برفت از دنیا در ماه رمضان سنه ست عشرة و ثلثمائه.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "مصر",
+      "context": "nisba",
+      "full_text": "المصری"
+    },
+    {
+      "place": "واسط",
+      "context": "mentioned",
+      "full_text": "باصل از واسط بود"
+    },
+    {
+      "place": "مصر",
+      "context": "lived",
+      "full_text": "بمصر نشستی"
+    },
+    {
+      "place": "مصر",
+      "context": "died",
+      "full_text": "آنجا برفت از دنیا"
+    },
+    {
+      "place": "تیه بنیاسرائیل",
+      "context": "visited",
+      "full_text": "در تیه بنیاسرائیل میرفتم"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوعلی رودباری٭",
+          "person_id": 959,
+          "canonical_name": "أبو علي الروذباري",
+          "has_id": 422,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 421,
+          "canonical_name": "أبو الحسن بنان الحمال",
+          "has_id": 476,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ بوعلی رودباری٭ حکایت کرده از وی، بنان گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الدقی",
+          "person_id": 621,
+          "canonical_name": "أبو بكر الدقي",
+          "has_id": 382,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 421,
+          "canonical_name": "أبو الحسن بنان الحمال",
+          "has_id": 476,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قال الدقی سمعت بنان یقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بنان حمال",
+          "person_id": 421,
+          "canonical_name": "أبو الحسن بنان الحمال",
+          "has_id": 476,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بنان حمال گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کب بوالحسن مزین دو بودهاند، یکی کبیر و یکی صغیر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که گرد کردارگرد، که ازگفتار جزگرفتاری ناید.",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "جتید",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود",
+        "full_text": "با جتید صحبت کرده بود",
+        "person_id": 1381,
+        "canonical_name": "جتيد",
+        "has_id": NaN
+      },
+      {
+        "name": "خراز",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود",
+        "full_text": "و خراز و از مشایخ آن وقت",
+        "person_id": 801,
+        "canonical_name": "أبو سعيد الخراز",
+        "has_id": 123
+      }
+    ],
+    "students": [
+      {
+        "name": "حصری",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "از استاذان",
+        "full_text": "گویندکه از استاذان حصری است.",
+        "person_id": 394,
+        "canonical_name": "أبو الحسن الحصري",
+        "has_id": 301
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ بوعلی رودباری٭",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ بوعلی رودباری٭ حکایت کرده از وی",
+      "person_id": 959,
+      "canonical_name": "أبو علي الروذباري",
+      "has_id": 422
+    },
+    {
+      "name": "الدقی",
+      "relationship_type": "direct_narrator",
+      "full_text": "قال الدقی سمعت بنان یقول",
+      "person_id": 621,
+      "canonical_name": "أبو بكر الدقي",
+      "has_id": 382
+    },
+    {
+      "name": "ابن طیلون",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "ابن طیلون ویرا در خانه کرد در چاه باشیر، که احتساب کرده بود و امر معروف.",
+      "person_id": 24,
+      "canonical_name": "أبو الحسن البوسنجى",
+      "has_id": NaN
+    },
+    {
+      "name": "شخصی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "interlocutor",
+      "full_text": "شخصی دیدم مهول بجای آوردم کی از اهل غیبست نه از شیطان. ویرا گفتم: مرا وصیتی کن: گفت: بنان!",
+      "person_id": 1662,
+      "canonical_name": "شخصي",
+      "has_id": NaN
+    }
+  ]
+}

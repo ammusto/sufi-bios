@@ -1,0 +1,1213 @@
+{
+  "bio_id": "236",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "251",
+    "full_text": "مَاتَ سري السَّقطِي سنة إِحْدَى وَخمسين وَمِائَتَيْنِ",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "visited",
+      "full_text": "أول من تكلم بِبَغْدَاد فِي لِسَان التَّوْحِيد وحقائق الْأَحْوَال"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن بن مقسم الْمُقْرِئ",
+          "person_id": 414,
+          "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سَمِعت أَبَا الْحسن بن مقسم الْمُقْرِئ بِبَغْدَاد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله بن الْمطلب الشَّيْبَانِيّ",
+          "person_id": 2386,
+          "canonical_name": "محمد بن عبد الله بن المطلب الشيباني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْعَبَّاس بن يُوسُف الشكلي",
+          "person_id": 185,
+          "canonical_name": "العباس بن يوسف الشكلي",
+          "has_id": 649,
+          "subj_added": false
+        },
+        {
+          "name": "سري السَّقطِي",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن معن الْغِفَارِيّ",
+          "person_id": 2453,
+          "canonical_name": "محمد بن معن الغفاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خَالِد بن سعيد",
+          "person_id": 1489,
+          "canonical_name": "خالد بن سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي زَيْنَب مولى حَازِم بن حَرْمَلَة",
+          "person_id": 793,
+          "canonical_name": "أبو زينب مولى حازم بن حرملة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حَازِم بن حَرْمَلَة الْغِفَارِيّ",
+          "person_id": 1425,
+          "canonical_name": "حازم بن حرملة الغفاري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا مُحَمَّد بن عبد الله بن الْمطلب الشَّيْبَانِيّ بِالْكُوفَةِ حَدثنَا الْعَبَّاس بن يُوسُف الشكلي حَدثنَا سري السَّقطِي حَدثنَا مُحَمَّد بن معن الْغِفَارِيّ حَدثنَا خَالِد بن سعيد عَن أبي زَيْنَب مولى حَازِم بن حَرْمَلَة عَن حَازِم بن حَرْمَلَة الْغِفَارِيّ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جَعْفَر بن مُحَمَّد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت جَعْفَر بن مُحَمَّد بن نصير يَقُول سَمِعت الْجُنَيْد يَقُول سَمِعت السّري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جَعْفَر بن مُحَمَّد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جَعْفَر بن مُحَمَّد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عمر الْأنمَاطِي",
+          "person_id": 989,
+          "canonical_name": "أبو عمر الأنماطي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان الرَّازِيّ يَقُول سَمِعت أَبَا عمر الْأنمَاطِي يَقُول سَمِعت الْجُنَيْد يَقُول سَمِعت السّري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن الْحسن الْبَغْدَادِيّ",
+          "person_id": 507,
+          "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن مُحَمَّد بن صَالح",
+          "person_id": 1255,
+          "canonical_name": "أحمد بن محمد بن صالح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبدون",
+          "person_id": 2396,
+          "canonical_name": "محمد بن عبدون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد القدوس بن الْقَاسِم",
+          "person_id": 1780,
+          "canonical_name": "عبد القدوس بن القاسم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّد بن الْحسن الْبَغْدَادِيّ يَقُول حَدثنَا أَحْمد بن مُحَمَّد بن صَالح حَدثنَا مُحَمَّد بن عبدون حَدثنَا عبد القدوس بن الْقَاسِم قَالَ سَمِعت السّري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن الْحسن الْبَغْدَادِيّ",
+          "person_id": 507,
+          "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن مُحَمَّد بن صَالح",
+          "person_id": 1255,
+          "canonical_name": "أحمد بن محمد بن صالح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبدون",
+          "person_id": 2396,
+          "canonical_name": "محمد بن عبدون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد القدوس بن الْقَاسِم",
+          "person_id": 1780,
+          "canonical_name": "عبد القدوس بن القاسم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن الْحسن الْبَغْدَادِيّ",
+          "person_id": 507,
+          "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن مُحَمَّد بن صَالح",
+          "person_id": 1255,
+          "canonical_name": "أحمد بن محمد بن صالح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبدون",
+          "person_id": 2396,
+          "canonical_name": "محمد بن عبدون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد القدوس بن الْقَاسِم",
+          "person_id": 1780,
+          "canonical_name": "عبد القدوس بن القاسم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس الْبَغْدَادِيّ",
+          "person_id": 507,
+          "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا الْخُلْدِيِّ",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْعَبَّاس الْبَغْدَادِيّ يَقُول سَمِعت جعفرا الْخُلْدِيِّ يَقُول سَمِعت الْجُنَيْد يَقُول قَالَ السّري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن مُحَمَّد بن زَكَرِيَّا",
+          "person_id": 500,
+          "canonical_name": "أبو العباس أحمد بن محمد بن زكريا النسوي",
+          "has_id": 107,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الله",
+          "person_id": 2045,
+          "canonical_name": "علي بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحسن السيرواني",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَحْمد بن مُحَمَّد بن زَكَرِيَّا يَقُول سَمِعت عَليّ بن عبد الله يَقُول سَمِعت أَبَا الْحسن السيرواني يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن عَليّ بن جَعْفَر",
+          "person_id": 1226,
+          "canonical_name": "أحمد بن علي بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا الْخُلْدِيِّ",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَحْمد بن عَليّ بن جَعْفَر يَقُول سَمِعت جعفرا الْخُلْدِيِّ يَقُول سَمِعت الْجُنَيْد يَقُول سَمِعت السّري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفضل أَحْمد بن مُحَمَّد بن حمدون الشرمقاني",
+          "person_id": 524,
+          "canonical_name": "أبو الفضل أحمد بن محمد بن حمدون الشرمقاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الحميد الغضائري",
+          "person_id": 2041,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْفضل أَحْمد بن مُحَمَّد بن حمدون الشرمقاني يَقُول سَمِعت عَليّ بن عبد الحميد الغضائري يَقُول سَمِعت السّري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفضل أَحْمد بن مُحَمَّد بن حمدون الشرمقاني",
+          "person_id": 524,
+          "canonical_name": "أبو الفضل أحمد بن محمد بن حمدون الشرمقاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الحميد الغضائري",
+          "person_id": 2041,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو الْعَبَّاس أَحْمد بن عبد الله القرميسيني",
+          "person_id": 497,
+          "canonical_name": "أبو العباس أحمد بن عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَاهُ",
+          "person_id": 597,
+          "canonical_name": "أبو أحمد عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الحميد الغضائري",
+          "person_id": 2041,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أَخْبرنِي أَبُو الْعَبَّاس أَحْمد بن عبد الله القرميسيني مشافهة ومناولة أَن أَبَاهُ حَدثهُ قَالَ حَدثنَا عَليّ بن عبد الحميد الغضائري قَالَ سَمِعت السّري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو الْعَبَّاس أَحْمد بن عبد الله القرميسيني",
+          "person_id": 497,
+          "canonical_name": "أبو العباس أحمد بن عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَاهُ",
+          "person_id": 597,
+          "canonical_name": "أبو أحمد عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الحميد الغضائري",
+          "person_id": 2041,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو الْعَبَّاس أَحْمد بن عبد الله القرميسيني",
+          "person_id": 497,
+          "canonical_name": "أبو العباس أحمد بن عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَاهُ",
+          "person_id": 597,
+          "canonical_name": "أبو أحمد عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الحميد الغضائري",
+          "person_id": 2041,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو الْعَبَّاس أَحْمد بن عبد الله القرميسيني",
+          "person_id": 497,
+          "canonical_name": "أبو العباس أحمد بن عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَاهُ",
+          "person_id": 597,
+          "canonical_name": "أبو أحمد عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الحميد الغضائري",
+          "person_id": 2041,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو الْعَبَّاس أَحْمد بن عبد الله القرميسيني",
+          "person_id": 497,
+          "canonical_name": "أبو العباس أحمد بن عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَاهُ",
+          "person_id": 597,
+          "canonical_name": "أبو أحمد عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الحميد الغضائري",
+          "person_id": 2041,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو الْعَبَّاس أَحْمد بن عبد الله القرميسيني",
+          "person_id": 497,
+          "canonical_name": "أبو العباس أحمد بن عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَاهُ",
+          "person_id": 597,
+          "canonical_name": "أبو أحمد عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الحميد الغضائري",
+          "person_id": 2041,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو الْعَبَّاس أَحْمد بن عبد الله القرميسيني",
+          "person_id": 497,
+          "canonical_name": "أبو العباس أحمد بن عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَاهُ",
+          "person_id": 597,
+          "canonical_name": "أبو أحمد عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الحميد الغضائري",
+          "person_id": 2041,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو الْعَبَّاس أَحْمد بن عبد الله القرميسيني",
+          "person_id": 497,
+          "canonical_name": "أبو العباس أحمد بن عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَاهُ",
+          "person_id": 597,
+          "canonical_name": "أبو أحمد عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الحميد الغضائري",
+          "person_id": 2041,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو الْعَبَّاس أَحْمد بن عبد الله القرميسيني",
+          "person_id": 497,
+          "canonical_name": "أبو العباس أحمد بن عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَاهُ",
+          "person_id": 597,
+          "canonical_name": "أبو أحمد عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الحميد الغضائري",
+          "person_id": 2041,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو الْعَبَّاس أَحْمد بن عبد الله القرميسيني",
+          "person_id": 497,
+          "canonical_name": "أبو العباس أحمد بن عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَاهُ",
+          "person_id": 597,
+          "canonical_name": "أبو أحمد عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الحميد الغضائري",
+          "person_id": 2041,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو الْعَبَّاس أَحْمد بن عبد الله القرميسيني",
+          "person_id": 497,
+          "canonical_name": "أبو العباس أحمد بن عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَاهُ",
+          "person_id": 597,
+          "canonical_name": "أبو أحمد عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الحميد الغضائري",
+          "person_id": 2041,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو الْعَبَّاس أَحْمد بن عبد الله القرميسيني",
+          "person_id": 497,
+          "canonical_name": "أبو العباس أحمد بن عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَاهُ",
+          "person_id": 597,
+          "canonical_name": "أبو أحمد عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الحميد الغضائري",
+          "person_id": 2041,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو الْعَبَّاس أَحْمد بن عبد الله القرميسيني",
+          "person_id": 497,
+          "canonical_name": "أبو العباس أحمد بن عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَاهُ",
+          "person_id": 597,
+          "canonical_name": "أبو أحمد عبد الله القرميسيني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الحميد الغضائري",
+          "person_id": 2041,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن مُحَمَّد بن أَحْمد بن إِبْرَاهِيم الْفَارِسِي",
+          "person_id": 463,
+          "canonical_name": "أبو الحسين محمد بن أحمد بن إبراهيم الفارسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْحُسَيْن",
+          "person_id": 2237,
+          "canonical_name": "محمد بن الحسين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الحميد الغضائري",
+          "person_id": 2041,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن مُحَمَّد بن أَحْمد بن إِبْرَاهِيم الْفَارِسِي يَقُول سَمِعت مُحَمَّد بن الْحُسَيْن يَقُول سَمِعت عَليّ بن عبد الحميد الغضائري بحلب يَقُول سَمِعت السّري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن مُحَمَّد بن أَحْمد بن إِبْرَاهِيم الْفَارِسِي",
+          "person_id": 463,
+          "canonical_name": "أبو الحسين محمد بن أحمد بن إبراهيم الفارسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْحُسَيْن",
+          "person_id": 2237,
+          "canonical_name": "محمد بن الحسين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الحميد الغضائري",
+          "person_id": 2041,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن مُحَمَّد بن أَحْمد بن إِبْرَاهِيم الْفَارِسِي",
+          "person_id": 463,
+          "canonical_name": "أبو الحسين محمد بن أحمد بن إبراهيم الفارسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْحُسَيْن",
+          "person_id": 2237,
+          "canonical_name": "محمد بن الحسين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الحميد الغضائري",
+          "person_id": 2041,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
+          "has_id": 698,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر الطوسي",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا الْخُلْدِيِّ",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا نصر الطوسي يَقُول سَمِعت جعفرا الْخُلْدِيِّ يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن بن مقسم",
+          "person_id": 414,
+          "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا الْخُلْدِيِّ",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحسن بن مقسم بِبَغْدَاد يَقُول سَمِعت جعفرا الْخُلْدِيِّ يَقُول سَمِعت الْجُنَيْد يَقُول سَمِعت السّري يَقُول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [
+      {
+        "name": "الْجُنَيْد",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "أستاذه",
+        "full_text": "يُقَال إِنَّه خَال الْجُنَيْد وأستاذه",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ],
+    "companions": [
+      {
+        "name": "مَعْرُوفا الْكَرْخِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب مَعْرُوفا الْكَرْخِي",
+        "person_id": 2524,
+        "canonical_name": "معروف الكرخي",
+        "has_id": 810
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَبَا الْحسن بن مقسم الْمُقْرِئ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْحسن بن مقسم الْمُقْرِئ بِبَغْدَاد يَقُول",
+      "person_id": 414,
+      "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
+      "has_id": NaN
+    },
+    {
+      "name": "الْعَبَّاس بن يُوسُف الشكلي",
+      "relationship_type": "narrator",
+      "full_text": "حَدثنَا الْعَبَّاس بن يُوسُف الشكلي حَدثنَا سري السَّقطِي",
+      "person_id": 185,
+      "canonical_name": "العباس بن يوسف الشكلي",
+      "has_id": 649
+    },
+    {
+      "name": "الْجُنَيْد",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت الْجُنَيْد يَقُول سَمِعت السّري يَقُول",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    },
+    {
+      "name": "عبد القدوس بن الْقَاسِم",
+      "relationship_type": "narrator",
+      "full_text": "حَدثنَا عبد القدوس بن الْقَاسِم قَالَ سَمِعت السّري يَقُول",
+      "person_id": 1780,
+      "canonical_name": "عبد القدوس بن القاسم",
+      "has_id": NaN
+    },
+    {
+      "name": "عَليّ بن عبد الحميد الغضائري",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت عَليّ بن عبد الحميد الغضائري يَقُول سَمِعت السّري يَقُول",
+      "person_id": 2041,
+      "canonical_name": "علي بن عبد الحميد الغضائري",
+      "has_id": 698
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "full_text": "قَالَ رجل لسري السَّقطِي كَيفَ أَنْت",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "bio_id": "691",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد بن إبراهيم",
+          "person_id": 2305,
+          "canonical_name": "محمد بن أحمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "عمر بن ملكان",
+          "person_id": 2111,
+          "canonical_name": "عمر بن ملكان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبيه",
+          "person_id": 1149,
+          "canonical_name": "أبوه",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن أحمد بن إبراهيم يقول سمعت جعفر بن محمد بن نصير يقول: ذكر عمر بن ملكان عن أبيه قال:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أبيه",
+        "relationship_type": "peer",
+        "relationship_phrase": "مؤاخاة",
+        "full_text": "كان بيني وبين علي السامري مؤاخاة",
+        "person_id": 1149,
+        "canonical_name": "أبوه",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أبيه",
+      "relationship_type": "narrator",
+      "context": "interlocutor",
+      "full_text": "عن أبيه قال: كان بيني وبين علي السامري مؤاخاة",
+      "person_id": 1149,
+      "canonical_name": "أبوه",
+      "has_id": NaN
+    }
+  ]
+}

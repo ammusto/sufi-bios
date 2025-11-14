@@ -1,0 +1,210 @@
+{
+  "bio_id": "839",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "الشام",
+      "context": "visited",
+      "full_text": "لقي بالشام أبا سليمان الداراني ومحمد بن المبارك الصورى وأحمد ابن عاصم الأنطاكي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو محمد بن حيان",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن العباس",
+          "person_id": 1864,
+          "canonical_name": "عبد الله بن محمد بن العباس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الرحمن الراعي",
+          "person_id": 844,
+          "canonical_name": "أبو عبد الرحمن الراعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "دحيم",
+          "person_id": 1518,
+          "canonical_name": "دحيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن قديد",
+          "has_id": NaN,
+          "person_id": 115,
+          "canonical_name": "الحسين بن عبد الرحمن",
+          "subj_added": false
+        },
+        {
+          "name": "يحيى بن أبي خالد",
+          "person_id": 2630,
+          "canonical_name": "يحيى بن أبي خالد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن أبي سعيد الأنصاري",
+          "has_id": NaN,
+          "person_id": 116,
+          "canonical_name": "الحسين بن عبد الرحمن القاضي",
+          "subj_added": false
+        },
+        {
+          "name": "أبيه",
+          "person_id": 1149,
+          "canonical_name": "أبوه",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو محمد بن حيان - من أصله - ثنا عبد الله بن محمد بن العباس ثنا أبو عبد الرحمن الراعي ثنا دحيم ثنا ابن قديد ثنا يحيى بن أبي خالد عن ابن أبي سعيد الأنصاري عن أبيه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو محمد بن حيان",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبيدة بن الوليد",
+          "person_id": 2402,
+          "canonical_name": "محمد بن عبيدة بن الوليد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الرحمن الراعي",
+          "person_id": 844,
+          "canonical_name": "أبو عبد الرحمن الراعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "هارون بن سعيد",
+          "person_id": 2592,
+          "canonical_name": "هارون بن سعيد الراعي",
+          "has_id": 839,
+          "subj_added": false
+        },
+        {
+          "name": "عبد العزيز بن عمران",
+          "person_id": 1774,
+          "canonical_name": "عبد العزيز بن عمران",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن صالح",
+          "person_id": 1833,
+          "canonical_name": "عبد الله بن صالح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "معاوية بن صالح",
+          "person_id": 2518,
+          "canonical_name": "معاوية بن صالح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن أبي طلحة",
+          "person_id": 2015,
+          "canonical_name": "علي بن أبي طلحة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عباس",
+          "has_id": NaN,
+          "person_id": 26,
+          "canonical_name": "ابن عباس",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو محمد بن حيان ثنا محمد بن عبيدة بن الوليد ثنا أبو عبد الرحمن الراعي ثنا هارون بن سعيد ثنا عبد العزيز بن عمران ثنا عبد الله بن صالح ثنا معاوية بن صالح عن علي بن أبي طلحة عن ابن عباس",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "عبد الرحمن بن إبراهيم بن دحيم",
+        "relationship_type": "student_of",
+        "relationship_phrase": "سمع من",
+        "full_text": "سمع من عبد الرحمن بن إبراهيم بن دحيم ومحمد بن أبي السري العسقلاني وطبقتهم.",
+        "person_id": 1736,
+        "canonical_name": "عبد الرحمن بن إبراهيم بن دحيم",
+        "has_id": NaN
+      },
+      {
+        "name": "محمد بن أبي السري العسقلاني",
+        "relationship_type": "student_of",
+        "relationship_phrase": "سمع من",
+        "full_text": "سمع من عبد الرحمن بن إبراهيم بن دحيم ومحمد بن أبي السري العسقلاني وطبقتهم.",
+        "person_id": 2285,
+        "canonical_name": "محمد بن أبي السري العسقلاني",
+        "has_id": NaN
+      }
+    ],
+    "students": [
+      {
+        "name": "أبو مسعود الرازي",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "حدث عنه",
+        "full_text": "حدث عنه أبو مسعود الرازي في مسنده",
+        "person_id": 1073,
+        "canonical_name": "أبو مسعود الرازي",
+        "has_id": NaN
+      }
+    ],
+    "companions": [
+      {
+        "name": "أبا سليمان الداراني",
+        "relationship_type": "peer",
+        "relationship_phrase": "لقي",
+        "full_text": "لقي بالشام أبا سليمان الداراني ومحمد بن المبارك الصورى وأحمد ابن عاصم الأنطاكي",
+        "person_id": 817,
+        "canonical_name": "أبو سليمان الداراني",
+        "has_id": 404
+      },
+      {
+        "name": "محمد بن المبارك الصورى",
+        "relationship_type": "peer",
+        "relationship_phrase": "لقي",
+        "full_text": "لقي بالشام أبا سليمان الداراني ومحمد بن المبارك الصورى وأحمد ابن عاصم الأنطاكي",
+        "person_id": 2258,
+        "canonical_name": "محمد بن المبارك الصورى",
+        "has_id": NaN
+      },
+      {
+        "name": "أحمد ابن عاصم الأنطاكي",
+        "relationship_type": "peer",
+        "relationship_phrase": "لقي",
+        "full_text": "لقي بالشام أبا سليمان الداراني ومحمد بن المبارك الصورى وأحمد ابن عاصم الأنطاكي",
+        "person_id": 1208,
+        "canonical_name": "أحمد بن عاصم الأنطاكي",
+        "has_id": 446
+      }
+    ]
+  },
+  "associates": []
+}

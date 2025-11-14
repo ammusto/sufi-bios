@@ -1,0 +1,513 @@
+{
+  "bio_id": "605",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "283",
+    "full_text": "اما پیش از جنید برفته از دنیا، فی المحرم سنه ثلاث و ثمانین و مائتین گفتند: کی سنه ثلاث و سبعین و مائتین در ستر است",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "تستر",
+      "context": "nisba",
+      "full_text": "التستـری"
+    },
+    {
+      "place": "بصره",
+      "context": "lived",
+      "full_text": "ببصره،"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت که از سهل پرسیدند کی نشان بدبختی چیست؟ گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "علی خطیب",
+          "person_id": 2078,
+          "canonical_name": "علي خطيب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوعبداللّه بوذهل",
+          "person_id": 890,
+          "canonical_name": "أبو عبد الله أبو ذهل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عتبهٔ غسال",
+          "person_id": 1945,
+          "canonical_name": "عتبة غسال",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی بعلی خطیب مرا گفت، که بوعبداللّه بوذهل گفت: فرا عتبهٔ غسال گفتند ببغداد بوده",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عتبه غسال",
+          "person_id": 1946,
+          "canonical_name": "عتبه غسال",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که عتبه غسال گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی هیچ نشان نیست بدبختی روشنتر از روز بتری",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سهل",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سهل گوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سهل",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سهل گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام «گفت»کی صوفی ابن الوقت است نه این الامل",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سهل",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و قال سهل",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابن سالم",
+          "person_id": 896,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال ابن سالم عرفت سهلا سنین من عمره، کان یقوم اللیل علی فرد رجل حتی یصبح یناحی ربه عز وجل و هو علی تلک الحالة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابن باکویة الشیرازی",
+          "person_id": 15,
+          "canonical_name": "ابن باكوية الشيرازي",
+          "has_id": 150,
+          "subj_added": false
+        },
+        {
+          "name": "احمد بن بقاع",
+          "person_id": 1180,
+          "canonical_name": "أحمد بن بقاع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "اسحق بن ایوب",
+          "person_id": 45,
+          "canonical_name": "اسحق بن ايوب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عبداللهّ",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "اخبرنا شیخ الاسلام قال حدثنا ابن باکویة الشیرازی ٭ قال حدثنا احمد بن بقاعن اسحق بن ایوب، قال سهل بن عبداللهّ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که ریاضت سهل شصت سال بود",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سهل",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سهل گوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سهل",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سهل گوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سهل",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و قال سهل فی قوله عز وجل",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "تستری",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "تستری «گوید» که اللهّ پدیدار آورد خلق را بکرم",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سهل",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سهل گویدکی شبی خوش شده بودم بصحرا بیرون شدم کی نفس زنم",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سهل",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سهل گویدکی شیطان از خفتهٔ گرسنه گریزد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی از سهل پرسیدند: که از مسلمانان یکافری که نزدیکتر؟",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعبداللّه سالمی",
+          "person_id": 870,
+          "canonical_name": "أبو عبد الله السالمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوعبداللّه سالمی ٭ گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سهل",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سهل گوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که سهل تستری بواسیر داشت- سالها بر خلق وبال بود",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بونصر ترشیزی",
+          "person_id": 1104,
+          "canonical_name": "أبو نصر ترشيزي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی بونصر ترشیزی گفت مرا",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "ذوالنون مصری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد ذوالنون مصری ٭",
+        "person_id": 1523,
+        "canonical_name": "ذو النون المصري",
+        "has_id": 570
+      },
+      {
+        "name": "محمد بن سوار",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "و صحبت کرده با خال خود\nمحمد بن سوار",
+        "person_id": 2363,
+        "canonical_name": "محمد بن سوار",
+        "has_id": NaN
+      },
+      {
+        "name": "محمدبن سوار",
+        "relationship_type": "student_of",
+        "relationship_phrase": "خال و استاد",
+        "full_text": "محمدبن سوار خال و استاد سهل است",
+        "person_id": 2363,
+        "canonical_name": "محمد بن سوار",
+        "has_id": NaN
+      }
+    ],
+    "students": [
+      {
+        "name": "بوعبداللهّ سالمی",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "استاد",
+        "full_text": "استاد بوعبداللهّ سالمی ٭",
+        "person_id": 870,
+        "canonical_name": "أبو عبد الله السالمي",
+        "has_id": NaN
+      },
+      {
+        "name": "اسحق ایوب",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "این اسحق ایوب شاگرد سهل بود",
+        "person_id": 44,
+        "canonical_name": "ابن الفرحي",
+        "has_id": NaN
+      }
+    ],
+    "companions": [
+      {
+        "name": "جنید",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "از اقران جنید و جز ازو",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "علی خطیب",
+      "relationship_type": "narrator",
+      "full_text": "بعلی خطیب مرا گفت",
+      "person_id": 2078,
+      "canonical_name": "علي خطيب",
+      "has_id": NaN
+    },
+    {
+      "name": "بوعبداللّه بوذهل",
+      "relationship_type": "narrator",
+      "full_text": "بوعبداللّه بوذهل گفت",
+      "person_id": 890,
+      "canonical_name": "أبو عبد الله أبو ذهل",
+      "has_id": NaN
+    },
+    {
+      "name": "عتبهٔ غسال",
+      "relationship_type": "interlocutor",
+      "full_text": "عتبهٔ غسال گفت",
+      "person_id": 1945,
+      "canonical_name": "عتبة غسال",
+      "has_id": NaN
+    },
+    {
+      "name": "ابن سالم",
+      "relationship_type": "narrator",
+      "full_text": "قال ابن سالم عرفت سهلا سنین من عمره",
+      "person_id": 896,
+      "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+      "has_id": 139
+    },
+    {
+      "name": "ابن باکویة الشیرازی",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا ابن باکویة الشیرازی",
+      "person_id": 15,
+      "canonical_name": "ابن باكوية الشيرازي",
+      "has_id": 150
+    },
+    {
+      "name": "احمد بن بقاع",
+      "relationship_type": "narrator",
+      "full_text": "قال حدثنا احمد بن بقاع",
+      "person_id": 1180,
+      "canonical_name": "أحمد بن بقاع",
+      "has_id": NaN
+    },
+    {
+      "name": "اسحق بن ایوب",
+      "relationship_type": "direct_narrator",
+      "full_text": "اسحق بن ایوب",
+      "person_id": 45,
+      "canonical_name": "اسحق بن ايوب",
+      "has_id": NaN
+    },
+    {
+      "name": "بوعبداللّه سالمی",
+      "relationship_type": "narrator",
+      "full_text": "بوعبداللّه سالمی ٭ گفت",
+      "person_id": 870,
+      "canonical_name": "أبو عبد الله السالمي",
+      "has_id": NaN
+    },
+    {
+      "name": "بونصر ترشیزی",
+      "relationship_type": "questioner",
+      "full_text": "بونصر ترشیزی گفت مرا",
+      "person_id": 1104,
+      "canonical_name": "أبو نصر ترشيزي",
+      "has_id": NaN
+    },
+    {
+      "name": "مردی",
+      "relationship_type": "questioner",
+      "full_text": "مردی بر سهل آمد و گفت",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    },
+    {
+      "name": "پیری",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "پیری آمده ببصره",
+      "person_id": 1680,
+      "canonical_name": "شيج",
+      "has_id": NaN
+    }
+  ]
+}

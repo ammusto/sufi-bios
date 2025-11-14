@@ -1,0 +1,168 @@
+{
+  "bio_id": "703",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "اصفهان",
+      "context": "nisba",
+      "full_text": "الاصفهانی"
+    },
+    {
+      "place": "اصفهان",
+      "context": "lived",
+      "full_text": "باصفهان"
+    },
+    {
+      "place": "اصفهان",
+      "context": "lived",
+      "full_text": "بسپاهان"
+    },
+    {
+      "place": "بصره",
+      "context": "visited",
+      "full_text": "ببصره رسیدم"
+    },
+    {
+      "place": "بصره",
+      "context": "lived",
+      "full_text": "ببصره بنشستم"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "شیخ عباس فقیر",
+          "person_id": 1718,
+          "canonical_name": "عباس الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبدالعزیز مرغری",
+          "person_id": 1771,
+          "canonical_name": "عبد العزيز المرغري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوالحسین مراغی",
+          "person_id": 468,
+          "canonical_name": "أبو الحسين مراغي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علی حمزهٔ حلاج",
+          "person_id": 2028,
+          "canonical_name": "علي بن حمزة الحلاج",
+          "has_id": 703,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: نه حلاج بود چون حسین منصور٭ شاگرد محمد بن یوسف بنا٭ بود باصفهان شیخ عباس فقیر مرا گفت، که عبدالعزیز مرغری گفت، کی بوالحسین مراغی گفت: کی علی حمزهٔ حلاجگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که این کار این کار است دوستی این سخنان و دوستی این قوم، عین این کارست کامستید که انکار برین کار این کار بودید که ار حقیقت هیچیز مجاز نرود.",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "محمد بن یوسف بنا٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد محمد بن یوسف بنا٭ بود باصفهان",
+        "person_id": 2477,
+        "canonical_name": "محمد بن يوسف البناء",
+        "has_id": 791
+      },
+      {
+        "name": "محمد یوسف رازه٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "بنزدیک ... میبودم",
+        "full_text": "من بروزگار، بنزدیک محمد یوسف رازه٭ میبودم بسپاهان، و با او مینشستم، و او در علم حلال خوردن، فراوان گفتی، از حکایات او مینوشتم.",
+        "person_id": 2477,
+        "canonical_name": "محمد بن يوسف البناء",
+        "has_id": 791
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ عباس فقیر",
+      "relationship_type": "narrator",
+      "full_text": "شیخ عباس فقیر مرا گفت،",
+      "person_id": 1718,
+      "canonical_name": "عباس الهروي",
+      "has_id": NaN
+    },
+    {
+      "name": "عبدالعزیز مرغری",
+      "relationship_type": "narrator",
+      "full_text": "عبدالعزیز مرغری گفت،",
+      "person_id": 1771,
+      "canonical_name": "عبد العزيز المرغري",
+      "has_id": NaN
+    },
+    {
+      "name": "بوالحسین مراغی",
+      "relationship_type": "direct_narrator",
+      "full_text": "کی بوالحسین مراغی گفت: کی علی حمزهٔ حلاجگفت:",
+      "person_id": 468,
+      "canonical_name": "أبو الحسين مراغي",
+      "has_id": NaN
+    },
+    {
+      "name": "سهل تستری٭",
+      "relationship_type": "interlocutor",
+      "context": "در خواب",
+      "full_text": "آن شب سهل تستری٭ را بخواب دیدم، مرا گفت: ای مبارک! رنجه شدی؟ که آن دفترهای تو در آب افتاد.",
+      "person_id": 1639,
+      "canonical_name": "سهل بن عبد الله التستري",
+      "has_id": 605
+    },
+    {
+      "name": "مصطفیﷺ",
+      "relationship_type": "interlocutor",
+      "context": "در خواب",
+      "full_text": "مصطفیﷺ بخندید بر شادی",
+      "person_id": 246,
+      "canonical_name": "النبي",
+      "has_id": NaN
+    },
+    {
+      "name": "جماعتی از یاران از اصحاب صفه",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "در خواب",
+      "full_text": "مصطفی را دیدم ﷺ، کی میآمد با جماعتی از یاران از اصحاب صفه",
+      "person_id": 1415,
+      "canonical_name": "جماعتي از ياران از اصحاب صفه",
+      "has_id": NaN
+    },
+    {
+      "name": "حسین منصور٭",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "نه حلاج بود چون حسین منصور٭",
+      "person_id": 127,
+      "canonical_name": "الحسين بن منصور الحلاج",
+      "has_id": 232
+    }
+  ]
+}

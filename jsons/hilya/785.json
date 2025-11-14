@@ -1,0 +1,372 @@
+{
+  "bio_id": "785",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "المغرب",
+      "context": "nisba",
+      "full_text": "المغربي"
+    },
+    {
+      "place": "مصر",
+      "context": "visited",
+      "full_text": "ما رأيت بمصر أصلح منه"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد بن جعفر",
+          "person_id": 1868,
+          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسحاق بن أحمد الفارسي",
+          "person_id": 345,
+          "canonical_name": "إسحاق بن أحمد الفارسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو زرعة",
+          "person_id": 786,
+          "canonical_name": "أبو زرعة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2424,
+          "canonical_name": "محمد بن عمرو المغربي",
+          "has_id": 785,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد بن جعفر ثنا إسحاق بن أحمد الفارسي قال سمعت أبا زرعة يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو محمد بن حيان",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن يحيى",
+          "person_id": 2468,
+          "canonical_name": "محمد بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن أبي أيوب",
+          "person_id": 296,
+          "canonical_name": "إبراهيم بن أبي أيوب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عمرو المغربي",
+          "person_id": 2424,
+          "canonical_name": "محمد بن عمرو المغربي",
+          "has_id": 785,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو محمد بن حيان ثنا محمد بن يحيى ثنا إبراهيم بن أبي أيوب ثنا محمد بن عمرو المغربي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن علي",
+          "person_id": 2407,
+          "canonical_name": "محمد بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسن بن قتيبة",
+          "person_id": 2235,
+          "canonical_name": "محمد بن الحسن بن قتيبة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عمرو المغربي",
+          "person_id": 2424,
+          "canonical_name": "محمد بن عمرو المغربي",
+          "has_id": 785,
+          "subj_added": false
+        },
+        {
+          "name": "الوليد بن مسلم",
+          "person_id": 258,
+          "canonical_name": "الوليد بن مسلم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الرحمن بن يزيد بن جابر",
+          "person_id": 1757,
+          "canonical_name": "عبد الرحمن بن يزيد بن جابر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مولاة أبي أمامة",
+          "person_id": 2570,
+          "canonical_name": "مولاة أبي أمامة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن علي ثنا محمد بن الحسن بن قتيبة ثنا محمد بن عمرو المغربي ثنا الوليد بن مسلم عن عبد الرحمن بن يزيد بن جابر قال: حدثتني مولاة أبي أمامة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "قال ابن جابر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسن",
+          "person_id": 2225,
+          "canonical_name": "محمد بن الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عمرو المغربى",
+          "has_id": NaN,
+          "person_id": 108,
+          "canonical_name": "الحسين بن أحمد الرازي",
+          "subj_added": false
+        },
+        {
+          "name": "عثمان ابن سعيد",
+          "person_id": 1950,
+          "canonical_name": "عثمان بن سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن مهاجر",
+          "person_id": 2455,
+          "canonical_name": "محمد بن مهاجر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن حلبس",
+          "has_id": NaN,
+          "person_id": 109,
+          "canonical_name": "الحسين بن أحمد بن الماذرائي",
+          "subj_added": false
+        },
+        {
+          "name": "أبو إدريس عائذ الله",
+          "person_id": 569,
+          "canonical_name": "أبو إدريس عائذ الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2424,
+          "canonical_name": "محمد بن عمرو المغربي",
+          "has_id": 785,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن إبراهيم ثنا محمد بن الحسن ثنا ابن عمرو المغربى ثنا عثمان ابن سعيد ثنا محمد بن مهاجر عن ابن حلبس ثنا أبو إدريس عائذ الله.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن علي",
+          "person_id": 2407,
+          "canonical_name": "محمد بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو العباس بن قتيبة",
+          "person_id": 504,
+          "canonical_name": "أبو العباس بن قتيبة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عمرو المغربي",
+          "person_id": 2424,
+          "canonical_name": "محمد بن عمرو المغربي",
+          "has_id": 785,
+          "subj_added": false
+        },
+        {
+          "name": "عطاف بن خالد",
+          "person_id": 1968,
+          "canonical_name": "عطاف بن خالد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أبي بكر بن مطرف بن عبد الرحمن بن عوف",
+          "person_id": 2288,
+          "canonical_name": "محمد بن أبي بكر بن مطرف بن عبد الرحمن بن عوف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عائشة",
+          "person_id": 1710,
+          "canonical_name": "عائشة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن علي ثنا أبو العباس بن قتيبة ثنا محمد بن عمرو المغربي ثنا عطاف بن خالد عن محمد بن أبي بكر بن مطرف بن عبد الرحمن بن عوف قال: قالت عائشة",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "الوليد بن مسلم",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا الوليد بن مسلم",
+        "person_id": 258,
+        "canonical_name": "الوليد بن مسلم",
+        "has_id": NaN
+      },
+      {
+        "name": "عثمان ابن سعيد",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا عثمان ابن سعيد",
+        "person_id": 1950,
+        "canonical_name": "عثمان بن سعيد",
+        "has_id": NaN
+      },
+      {
+        "name": "عطاف بن خالد",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا عطاف بن خالد",
+        "person_id": 1968,
+        "canonical_name": "عطاف بن خالد",
+        "has_id": NaN
+      }
+    ],
+    "students": [
+      {
+        "name": "إبراهيم بن أبي أيوب",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا إبراهيم بن أبي أيوب ثنا محمد بن عمرو المغربي",
+        "person_id": 296,
+        "canonical_name": "إبراهيم بن أبي أيوب",
+        "has_id": NaN
+      },
+      {
+        "name": "محمد بن الحسن بن قتيبة",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا محمد بن الحسن بن قتيبة ثنا محمد بن عمرو المغربي",
+        "person_id": 2235,
+        "canonical_name": "محمد بن الحسن بن قتيبة",
+        "has_id": NaN
+      },
+      {
+        "name": "محمد بن الحسن",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا محمد بن الحسن ثنا ابن عمرو المغربى",
+        "person_id": 2225,
+        "canonical_name": "محمد بن الحسن",
+        "has_id": NaN
+      },
+      {
+        "name": "أبو العباس بن قتيبة",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أبو العباس بن قتيبة ثنا محمد بن عمرو المغربي",
+        "person_id": 504,
+        "canonical_name": "أبو العباس بن قتيبة",
+        "has_id": NaN
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبو زرعة",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت أبا زرعة يقول",
+      "person_id": 786,
+      "canonical_name": "أبو زرعة",
+      "has_id": NaN
+    },
+    {
+      "name": "إبراهيم بن أبي أيوب",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "ثنا إبراهيم بن أبي أيوب ثنا محمد بن عمرو المغربي",
+      "person_id": 296,
+      "canonical_name": "إبراهيم بن أبي أيوب",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن الحسن بن قتيبة",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "ثنا محمد بن الحسن بن قتيبة ثنا محمد بن عمرو المغربي",
+      "person_id": 2235,
+      "canonical_name": "محمد بن الحسن بن قتيبة",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن الحسن",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "ثنا محمد بن الحسن ثنا ابن عمرو المغربى",
+      "person_id": 2225,
+      "canonical_name": "محمد بن الحسن",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو العباس بن قتيبة",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "ثنا أبو العباس بن قتيبة ثنا محمد بن عمرو المغربي",
+      "person_id": 504,
+      "canonical_name": "أبو العباس بن قتيبة",
+      "has_id": NaN
+    }
+  ]
+}

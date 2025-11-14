@@ -1,0 +1,128 @@
+{
+  "bio_id": "136",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "موصل",
+      "context": "visited",
+      "full_text": "لقیت ابا عبداللّه الحصری بالموصل"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "ابا عبداللّه الحصری",
+          "person_id": 861,
+          "canonical_name": "أبو عبد الله الحصري",
+          "has_id": 136,
+          "subj_added": false
+        },
+        {
+          "name": "فتح الموصلی",
+          "person_id": 2165,
+          "canonical_name": "فتح الموصلي",
+          "has_id": 728,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت شیخ الاسلام گفت رحمه اللّه سمعت ابا عبداللّه الحصری یقول سمعت فتح الموصلی یقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمدبن احمد النحاط",
+          "person_id": 2300,
+          "canonical_name": "محمد بن أحمد النحاط",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 861,
+          "canonical_name": "أبو عبد الله الحصري",
+          "has_id": 136,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال محمدبن احمد النحاط:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوعبداللّه الحصری",
+          "person_id": 861,
+          "canonical_name": "أبو عبد الله الحصري",
+          "has_id": 136,
+          "subj_added": false
+        },
+        {
+          "name": "ابن الفرجی",
+          "person_id": 749,
+          "canonical_name": "أبو جعفر محمد بن يعقوب الفرجي",
+          "has_id": 21,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت شیخ الاسلام زاده اللهّ کرامة یقول: قال ابوعبداللّه الحصری سمعت ابن الفرجی یقول:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "فتح موصلی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "من المشایخ القدیم شاگرد فتح موصلی٭ ایذ و جز ازو.",
+        "person_id": 2165,
+        "canonical_name": "فتح الموصلي",
+        "has_id": 728
+      },
+      {
+        "name": "فتح الموصلی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "سمعت ... یقول",
+        "full_text": "سمعت فتح الموصلی یقول",
+        "person_id": 2165,
+        "canonical_name": "فتح الموصلي",
+        "has_id": 728
+      },
+      {
+        "name": "ابن الفرجی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "سمعت ... یقول",
+        "full_text": "سمعت ابن الفرجی یقول",
+        "person_id": 749,
+        "canonical_name": "أبو جعفر محمد بن يعقوب الفرجي",
+        "has_id": 21
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "direct_narrator",
+      "full_text": "سمعت شیخ الاسلام گفت رحمه اللّه",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "محمدبن احمد النحاط",
+      "relationship_type": "narrator",
+      "full_text": "قال محمدبن احمد النحاط: لقیت ابا عبداللّه الحصری بالموصل فذاکرته فلم ننکره.",
+      "person_id": 2300,
+      "canonical_name": "محمد بن أحمد النحاط",
+      "has_id": NaN
+    }
+  ]
+}

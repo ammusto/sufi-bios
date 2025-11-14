@@ -1,0 +1,84 @@
+{
+  "bio_id": "533",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بالكام",
+      "context": "mentioned",
+      "full_text": "سألت رجلا بالكام"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسن محمد بن أحمد",
+          "has_id": NaN,
+          "person_id": 81,
+          "canonical_name": "الحسن بن بشر البلخى",
+          "subj_added": false
+        },
+        {
+          "name": "عبيد البسرى",
+          "person_id": 1923,
+          "canonical_name": "عبيد البسرى",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عثمان بن محمد العثماني قال سمعت أبا الحسن محمد بن أحمد يقول ثنا عبيد البسرى.",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "عبيد البسرى",
+      "relationship_type": "narrator",
+      "full_text": "ثنا عبيد البسرى",
+      "person_id": 1923,
+      "canonical_name": "عبيد البسرى",
+      "has_id": NaN
+    },
+    {
+      "name": "رجلا بالكام",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "interlocutor",
+      "full_text": "قال: سألت رجلا بالكام: ما الذي أجلسك في هذا الموضع؟",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    },
+    {
+      "name": "جماعة",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "interlocutors",
+      "full_text": "فبينا أنا على ذلك إذا أنا بجماعة فقالوا: ما فعل الفتى",
+      "person_id": 1412,
+      "canonical_name": "جماعة",
+      "has_id": NaN
+    },
+    {
+      "name": "إبراهيم الخليل ﵇",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "comparison",
+      "full_text": "قلبه على قلب إبراهيم الخليل ﵇",
+      "person_id": 277,
+      "canonical_name": "إبراهيم الخليل",
+      "has_id": NaN
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "bio_id": "489",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "الرحبة",
+      "context": "nisba",
+      "full_text": "الرحبي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد بن يعقوب",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "أبو جعفر الخصاف",
+          "person_id": 729,
+          "canonical_name": "أبو جعفر الخصاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جابر الرحبي",
+          "person_id": 1373,
+          "canonical_name": "جابر الرحبي",
+          "has_id": 489,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن أحمد بن يعقوب قال سمعت الجنيد بن محمد يقول حدثني أبو جعفر الخصاف قال قال لي جابر الرحبي",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبو جعفر الخصاف",
+      "relationship_type": "narrator",
+      "full_text": "قال قال لي جابر الرحبي يوما وأنا أماشيه",
+      "person_id": 729,
+      "canonical_name": "أبو جعفر الخصاف",
+      "has_id": NaN
+    }
+  ]
+}

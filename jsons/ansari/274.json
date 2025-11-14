@@ -1,0 +1,509 @@
+{
+  "bio_id": "274",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "",
+    "full_text": "و بشام برفت از دنیا",
+    "certainty": ""
+  },
+  "geographical_locations": [
+    {
+      "place": "بلخ",
+      "context": "nisba",
+      "full_text": "البلخی"
+    },
+    {
+      "place": "بلخ",
+      "context": "born",
+      "full_text": "از اهل بلخ است"
+    },
+    {
+      "place": "مکه",
+      "context": "visited",
+      "full_text": "بمکه رفت"
+    },
+    {
+      "place": "شام",
+      "context": "lived",
+      "full_text": "بشام رفت، آنجا کسب میکرد در طلب حلال"
+    },
+    {
+      "place": "شام",
+      "context": "died",
+      "full_text": "و بشام برفت از دنیا"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت رضی اللّه عنه:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت، کی وی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی مردی با ابراهیم ادهم همراه افتاد، باوی دیر درنگ شد چون می جدا خواست شدگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان عماره",
+          "person_id": 1954,
+          "canonical_name": "عثمان بن عمارة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گوید قدس اللّه روحه: کی عثمان عماره گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت کرم اللّه وجهه:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وگفت: کی من ترک را ناتانم.",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وگفت صوفی بیخدمت نبود، اما تصوف نه خدمت است،",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالقسم نصر آبادی",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوالقسم نصر آبادی ٭ گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالقسم نصر آبادی",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت برین لفظ.",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "حلاج",
+          "person_id": 127,
+          "canonical_name": "الحسين بن منصور الحلاج",
+          "has_id": 232,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و حلاج ٭ گفت با پسر خود در وصیت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوتراب نخشبی",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوتراب نخشبی ٭ گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: ابراهیم ادهم ٭ و علی بکار و حذیفه مرعشی وسلم خواص باران یکدیگر بودند با یکدیگر بیعت کردندکی از آن بسر نشود،",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی ازین چهار، ابراهیم ادهم و حذیفه کم است کی علی بکار بنزدیک علمامه است از ابراهیم ادهم.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حذیفه مرعشی",
+          "person_id": 1441,
+          "canonical_name": "حذيفة المرعشي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت کی حذیفه مرعشی گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: یعنی نظر من و حکم من در خود بپسند",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی وقت بود مرد را در طاعت! افکنده",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "یحیی معاذ",
+          "person_id": 2650,
+          "canonical_name": "يحيى بن معاذ الرازي",
+          "has_id": 844,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و یحیی معاذ ٭ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوبکر زقاق مصری",
+          "person_id": 625,
+          "canonical_name": "أبو بكر الزقاق",
+          "has_id": 375,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ بوبکر زقاق مصری ٭ میگوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شافعی",
+          "person_id": 166,
+          "canonical_name": "الشافعي",
+          "has_id": 613,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت، کی شافعی رحمة اللّه گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوالحسن نوری",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ بوالحسن نوری ٭ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی اگر انکار عالم نیستی و رعونت مدعیان نیستی و نفس بیقرار آن نیستی، ازین کار نشان نیستی.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفتکی:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی نوحه از معصیت زده خوش آید و غنا از مطرب عاشقگرمتر آید،",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی پرسیدنداز عبداللّه مبارک ٭ بی زاد در بادیه رفتن روا بود؟",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت کی ابراهیم رباطی شاگرد ابراهیم ستنبه بود و طریقت توکل از وی گرفته",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی سه چیز یاد دارید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعبداللّه با کو",
+          "person_id": 15,
+          "canonical_name": "ابن باكوية الشيرازي",
+          "has_id": 150,
+          "subj_added": false
+        },
+        {
+          "name": "عبدالواحد بن بکر",
+          "person_id": 1908,
+          "canonical_name": "عبد الواحد بن بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابراهیم اطروش",
+          "person_id": 271,
+          "canonical_name": "إبراهيم الأطروش",
+          "has_id": 1,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت کی بوعبداللّه با کو ٭ مرا گفت، کی عبدالواحد بن بکر ٭ گفت، که ابراهیم اطروش گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی هرکه برین بیفزاید، کار فرادست خود دهد، کی دران درماند.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الامام الابراهیم الخواص",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "انشدنا الامام الابراهیم الخواص ٭.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "والشیخ الاسلام لنفسه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوتراب النخشبی",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال ابوتراب النخشبی:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الشبلی",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و قال الشبلی:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "سفین ثوری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرد",
+        "full_text": "بمکه رفت آنجا باسفین ثوری ٭ و فضیل عیاض ٭ بو یوسف غسولی صحبت کرد",
+        "person_id": 1607,
+        "canonical_name": "سفيان الثوري",
+        "has_id": 598
+      },
+      {
+        "name": "فضیل عیاض",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرد",
+        "full_text": "بمکه رفت آنجا باسفین ثوری ٭ و فضیل عیاض ٭ بو یوسف غسولی صحبت کرد",
+        "person_id": 200,
+        "canonical_name": "الفضيل بن عياض",
+        "has_id": 243
+      },
+      {
+        "name": "بو یوسف غسولی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرد",
+        "full_text": "بمکه رفت آنجا باسفین ثوری ٭ و فضیل عیاض ٭ بو یوسف غسولی صحبت کرد",
+        "person_id": 1147,
+        "canonical_name": "أبو يوسف الغسولي",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "ابو یوسف لاغسولی معروف بطرسوسی",
+        "relationship_type": "peer",
+        "relationship_phrase": "من اصحاب",
+        "full_text": "وکان من اصحاب ابراهیم بن ادهم رضی اللهّ عنهم اجمعین.",
+        "person_id": 1148,
+        "canonical_name": "أبو يوسف لاغسولي معروف بطرسوسي",
+        "has_id": NaN
+      },
+      {
+        "name": "علی بکار",
+        "relationship_type": "peer",
+        "relationship_phrase": "خواص باران یکدیگر بودند با یکدیگر بیعت کردند",
+        "full_text": "شیخ الاسلام گفت: ابراهیم ادهم ٭ و علی بکار و حذیفه مرعشی وسلم خواص باران یکدیگر بودند با یکدیگر بیعت کردندکی از آن بسر نشود",
+        "person_id": 1991,
+        "canonical_name": "علي بكار",
+        "has_id": NaN
+      },
+      {
+        "name": "حذیفه مرعشی",
+        "relationship_type": "peer",
+        "relationship_phrase": "خواص باران یکدیگر بودند با یکدیگر بیعت کردند",
+        "full_text": "شیخ الاسلام گفت: ابراهیم ادهم ٭ و علی بکار و حذیفه مرعشی وسلم خواص باران یکدیگر بودند با یکدیگر بیعت کردندکی از آن بسر نشود",
+        "person_id": 1441,
+        "canonical_name": "حذيفة المرعشي",
+        "has_id": NaN
+      },
+      {
+        "name": "سلم خواص",
+        "relationship_type": "peer",
+        "relationship_phrase": "خواص باران یکدیگر بودند با یکدیگر بیعت کردند",
+        "full_text": "شیخ الاسلام گفت: ابراهیم ادهم ٭ و علی بکار و حذیفه مرعشی وسلم خواص باران یکدیگر بودند با یکدیگر بیعت کردندکی از آن بسر نشود",
+        "person_id": 1611,
+        "canonical_name": "سلم الخواص",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "context": "",
+      "full_text": "شیخ الاسلام گفت رضی اللّه عنه:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "عثمان عماره",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "عثمان عماره گوید: کی بزمین حجر بودم با ابراهیم ادهم و محمد ثوبان و عباد منقری سخن میگفتم",
+      "person_id": 1954,
+      "canonical_name": "عثمان بن عمارة",
+      "has_id": NaN
+    },
+    {
+      "name": "مردی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "همراه",
+      "full_text": "کی مردی با ابراهیم ادهم همراه افتاد، باوی دیر درنگ شد چون می جدا خواست شدگفت: مگر از من درین صحبت رنجه گشتی؟",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد ثوبان",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "",
+      "full_text": "با ابراهیم ادهم و محمد ثوبان و عباد منقری سخن میگفتم",
+      "person_id": 2328,
+      "canonical_name": "محمد بن ثوبان",
+      "has_id": NaN
+    },
+    {
+      "name": "عباد منقری",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "",
+      "full_text": "با ابراهیم ادهم و محمد ثوبان و عباد منقری سخن میگفتم",
+      "person_id": 1713,
+      "canonical_name": "عباد منقري",
+      "has_id": NaN
+    },
+    {
+      "name": "جوانی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "مرید",
+      "full_text": "جوانی بود فراتر نشسته، مرید پس با نیاز.",
+      "person_id": 1420,
+      "canonical_name": "جواني",
+      "has_id": NaN
+    },
+    {
+      "name": "بوعبداللّه با کو",
+      "relationship_type": "narrator",
+      "context": "",
+      "full_text": "بوعبداللّه با کو ٭ مرا گفت",
+      "person_id": 15,
+      "canonical_name": "ابن باكوية الشيرازي",
+      "has_id": 150
+    },
+    {
+      "name": "عبدالواحد بن بکر",
+      "relationship_type": "narrator",
+      "context": "",
+      "full_text": "عبدالواحد بن بکر ٭ گفت",
+      "person_id": 1908,
+      "canonical_name": "عبد الواحد بن بكر",
+      "has_id": NaN
+    },
+    {
+      "name": "ابراهیم اطروش",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "",
+      "full_text": "ابراهیم اطروش گفت:که رکوهٔ صوفی کف صوفی باید، و بالش او دست او، و خزینهٔ او باید یعنی حق.",
+      "person_id": 271,
+      "canonical_name": "إبراهيم الأطروش",
+      "has_id": 1
+    }
+  ]
+}

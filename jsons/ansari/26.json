@@ -1,0 +1,601 @@
+{
+  "bio_id": "26",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "371",
+    "full_text": "در سنهٔ احدی و سبعین و ثلث مائه برفته.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "شیراز",
+      "context": "nisba",
+      "full_text": "شیرازی است"
+    },
+    {
+      "place": "شیراز",
+      "context": "lived",
+      "full_text": "من در شیراز هزار مرید دارم"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالحسن بشری سجزی",
+          "person_id": 430,
+          "canonical_name": "أبو الحسن علي بن بشريى السجزي",
+          "has_id": 298,
+          "subj_added": false
+        },
+        {
+          "name": "شیخ سید",
+          "person_id": 1655,
+          "canonical_name": "سيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 22,
+          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 26,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بوالحسن بشری سجزی مرا گفت که شیخ سیدگفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوعبداللّه باکو٭",
+          "person_id": 15,
+          "canonical_name": "ابن باكوية الشيرازي",
+          "has_id": 150,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 22,
+          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 26,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که شیخ بوعبداللّه باکو٭ گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وی گوید:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "گفت: بگوی.",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "گفت: اذاسقط الخلاف",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "پس گفتکلکل بخور!",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ سیروانی",
+          "person_id": 165,
+          "canonical_name": "السيرواني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 22,
+          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 26,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ سیروانی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سفینان عیینه",
+          "person_id": 1608,
+          "canonical_name": "سفيان بن عيينة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 22,
+          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 26,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سفینان عیینه گوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سفینان عیینه",
+          "person_id": 1608,
+          "canonical_name": "سفيان بن عيينة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 22,
+          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 26,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و گفت: الحمداللّه الذی صدقنا وعده",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "سفینان عیینه",
+          "person_id": 1608,
+          "canonical_name": "سفيان بن عيينة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 22,
+          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 26,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وگفت: پسر عیینه!",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "علی بن المولد",
+          "person_id": 2009,
+          "canonical_name": "علي بن المولد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 22,
+          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 26,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال علی بن المولد:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوعبداللهّ",
+          "person_id": 853,
+          "canonical_name": "أبو عبد اللهّ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 22,
+          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 26,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ بوعبداللهّ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "گفت شبی آواز طرکست آمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوطالب",
+          "person_id": 830,
+          "canonical_name": "أبو طالب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 22,
+          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 26,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ بوطالب گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت قدس اللّه روحه:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام «گفت» رضی اللهّ عنه:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعبداللّه خفیف",
+          "person_id": 22,
+          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 26,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوعبداللّه خفیف گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابن خفیف",
+          "person_id": 22,
+          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 26,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و هم ابن خفیف گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "شیخ بوطالب خزرج بغدادی٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد شیخ بوطالب خزرج بغدادی٭ بود",
+        "person_id": 832,
+        "canonical_name": "أبو طالب خزرج بغدادي",
+        "has_id": NaN
+      },
+      {
+        "name": "رویم",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده",
+        "full_text": "رویم دیده وکتانی و یوسف حسین رازی و وبالحسین مالکی و بوالحسین مزین و بوالحسین دراج٭",
+        "person_id": 1553,
+        "canonical_name": "رويم بن أحمد",
+        "has_id": 578
+      },
+      {
+        "name": "کتانی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده",
+        "full_text": "رویم دیده وکتانی و یوسف حسین رازی و وبالحسین مالکی و بوالحسین مزین و بوالحسین دراج٭",
+        "person_id": 712,
+        "canonical_name": "أبو بكر محمد بن علي الكتاني",
+        "has_id": 378
+      },
+      {
+        "name": "یوسف حسین رازی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده",
+        "full_text": "رویم دیده وکتانی و یوسف حسین رازی و وبالحسین مالکی و بوالحسین مزین و بوالحسین دراج٭",
+        "person_id": 1140,
+        "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+        "has_id": 847
+      },
+      {
+        "name": "بوالحسین مالکی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده",
+        "full_text": "رویم دیده وکتانی و یوسف حسین رازی و وبالحسین مالکی و بوالحسین مزین و بوالحسین دراج٭",
+        "person_id": 450,
+        "canonical_name": "أبو الحسين المالكي",
+        "has_id": 321
+      },
+      {
+        "name": "بوالحسین مزین",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده",
+        "full_text": "رویم دیده وکتانی و یوسف حسین رازی و وبالحسین مالکی و بوالحسین مزین و بوالحسین دراج٭",
+        "person_id": 408,
+        "canonical_name": "أبو الحسن المزين",
+        "has_id": 295
+      },
+      {
+        "name": "بوالحسین دراج٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده",
+        "full_text": "رویم دیده وکتانی و یوسف حسین رازی و وبالحسین مالکی و بوالحسین مزین و بوالحسین دراج٭",
+        "person_id": 397,
+        "canonical_name": "أبو الحسين الدراج",
+        "has_id": 318
+      },
+      {
+        "name": "طاهر مقدسی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "و صحبت کرده با طاهر مقدسی و بابو عمر و دمشقی٭",
+        "person_id": 1696,
+        "canonical_name": "طاهر المقدسي",
+        "has_id": 640
+      },
+      {
+        "name": "ابو عمر دمشقی٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "و صحبت کرده با طاهر مقدسی و بابو عمر و دمشقی٭",
+        "person_id": 1010,
+        "canonical_name": "أبو عمرو الدمشقي",
+        "has_id": 425
+      }
+    ],
+    "students": [
+      {
+        "name": "دولتی",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "شاگردان",
+        "full_text": "واشاگردان دولتی و مرزوق و ایام موافق و دولتی.",
+        "person_id": 1521,
+        "canonical_name": "دولتي",
+        "has_id": NaN
+      },
+      {
+        "name": "مرزوق",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "شاگردان",
+        "full_text": "واشاگردان دولتی و مرزوق و ایام موافق و دولتی.",
+        "person_id": 2492,
+        "canonical_name": "مرزوق",
+        "has_id": NaN
+      },
+      {
+        "name": "ایام موافق",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "شاگردان",
+        "full_text": "واشاگردان دولتی و مرزوق و ایام موافق و دولتی.",
+        "person_id": 268,
+        "canonical_name": "ايام موافق",
+        "has_id": NaN
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "بوالحسن بشری سجزی",
+      "relationship_type": "narrator",
+      "full_text": "بوالحسن بشری سجزی مرا گفت",
+      "person_id": 430,
+      "canonical_name": "أبو الحسن علي بن بشريى السجزي",
+      "has_id": 298
+    },
+    {
+      "name": "شیخ سید",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ سیدگفت بوعبداللّه خفیف",
+      "person_id": 1655,
+      "canonical_name": "سيد",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ بوعبداللّه باکو٭",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ بوعبداللّه باکو٭ گفت",
+      "person_id": 15,
+      "canonical_name": "ابن باكوية الشيرازي",
+      "has_id": 150
+    },
+    {
+      "name": "شیخ بوالخیر مالکی",
+      "relationship_type": "interlocutor",
+      "full_text": "شیخ بوالخیر مالکی بود وقتی دیگر این حکایت بکرد ... درآمد بنزدیک من بنشست",
+      "person_id": 476,
+      "canonical_name": "أبو الخير المالكي",
+      "has_id": 329
+    },
+    {
+      "name": "شیخ حکمی",
+      "relationship_type": "interlocutor",
+      "full_text": "شیخ حکمی گفت از مشایخ آن دیار بود، درآمد بنزدیک من بنشست",
+      "person_id": 1465,
+      "canonical_name": "حكمي",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ موسی عمران جیرفتی",
+      "relationship_type": "interlocutor",
+      "full_text": "موسی عمران جواب باز فرستادکه من در جیرفت هزار دشمن دارم",
+      "person_id": 2569,
+      "canonical_name": "موسي عمران جيرفتي",
+      "has_id": NaN
+    },
+    {
+      "name": "علی دیلم",
+      "relationship_type": "questioner",
+      "full_text": "علی دیلم پرسید از ابوعبداللّه خفیف",
+      "person_id": 2029,
+      "canonical_name": "علي بن ديلم",
+      "has_id": NaN
+    },
+    {
+      "name": "بوسعد مالینی",
+      "relationship_type": "narrator",
+      "context": "این حکایت بوسعد مالینی آرد ازوی.",
+      "full_text": "این حکایت بوسعد مالینی آرد ازوی.",
+      "person_id": 796,
+      "canonical_name": "أبو سعد الماليني",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ سیروانی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ سیروانی گفت: که آخر ما یخرج من قلوب الصدیقین حب الریاسة",
+      "person_id": 165,
+      "canonical_name": "السيرواني",
+      "has_id": NaN
+    },
+    {
+      "name": "سفینان عیینه",
+      "relationship_type": "narrator",
+      "full_text": "سفینان عیینه گوید امام فقهاء مکه استاد شافعی واحمد و جز ازو:",
+      "person_id": 1608,
+      "canonical_name": "سفيان بن عيينة",
+      "has_id": NaN
+    },
+    {
+      "name": "علی بن المولد",
+      "relationship_type": "narrator",
+      "full_text": "قال علی بن المولد:",
+      "person_id": 2009,
+      "canonical_name": "علي بن المولد",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ بوطالب",
+      "relationship_type": "interlocutor",
+      "full_text": "شیخ بوطالب گفت: شیرازی! بناز دار «یعنی: غنیمت شمار»",
+      "person_id": 830,
+      "canonical_name": "أبو طالب",
+      "has_id": NaN
+    }
+  ]
+}

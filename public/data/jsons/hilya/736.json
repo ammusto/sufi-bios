@@ -1,0 +1,131 @@
+{
+  "bio_id": "736",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "من متقدمي البغداديين"
+    },
+    {
+      "place": "الكعبة",
+      "context": "visited",
+      "full_text": "بينا أنا أطوف بالكعبة ليلا"
+    },
+    {
+      "place": "دار يحيى البرمكي",
+      "context": "mentioned",
+      "full_text": "خارجا من دار يحيى البرمكي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "الثوري",
+          "person_id": 1607,
+          "canonical_name": "سفيان الثوري",
+          "has_id": 598,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "ما حكاه عنه الثوري أنه قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد المنعم بن عمر",
+          "person_id": 1895,
+          "canonical_name": "عبد المنعم بن عمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا سعيد بن زياد الأعرابي",
+          "person_id": 807,
+          "canonical_name": "أبو سعيد بن الأعرابي",
+          "has_id": 400,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن المؤمل القرشي",
+          "person_id": 2265,
+          "canonical_name": "محمد بن المؤمل القرشي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو هاشم محمد بن سعيد أبو علي",
+          "person_id": 1118,
+          "canonical_name": "أبو هاشم محمد بن سعيد أبو علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 586,
+          "canonical_name": "أبو أبي هاشم محمد بن سعيد أبو علي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت عبد المنعم بن عمر يقول سمعت أبا سعيد بن زياد الأعرابي يقول:\nثنا محمد بن المؤمل القرشي ثنا أبو هاشم محمد بن سعيد أبو علي قال سمعت أبي يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [
+      {
+        "name": "سفيان الثوري",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "أخذت منه",
+        "full_text": "ما زلت أرائي وأنا لا أشعر إلى أن جالست أبا هاشم فأخذت منه ترك الرياء",
+        "person_id": 1607,
+        "canonical_name": "سفيان الثوري",
+        "has_id": 598
+      }
+    ],
+    "companions": [
+      {
+        "name": "سفيان الثوري",
+        "relationship_type": "peer",
+        "relationship_phrase": "جلس إليه",
+        "full_text": "جلس إليه سفيان الثوري فحمد طريقته وملازمته للصفاء والوفاء",
+        "person_id": 1607,
+        "canonical_name": "سفيان الثوري",
+        "has_id": 598
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "سفيان الثوري",
+      "relationship_type": "narrator",
+      "full_text": "ما حكاه عنه الثوري أنه قال",
+      "person_id": 1607,
+      "canonical_name": "سفيان الثوري",
+      "has_id": 598
+    },
+    {
+      "name": "شريك بن عبد الله القاضي",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "أنه رأى شريك بن عبد الله القاضي خارجا من دار يحيى البرمكي يطرق بين يديه",
+      "person_id": 1669,
+      "canonical_name": "شريك بن عبد الله القاضي",
+      "has_id": NaN
+    },
+    {
+      "name": "يحيى البرمكي",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "خارجا من دار يحيى البرمكي",
+      "person_id": 2624,
+      "canonical_name": "يحيى البرمكي",
+      "has_id": NaN
+    }
+  ]
+}

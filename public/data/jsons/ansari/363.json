@@ -1,0 +1,771 @@
+{
+  "bio_id": "363",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "ترمذ",
+      "context": "nisba",
+      "full_text": "الترمذی"
+    },
+    {
+      "place": "ترمذ",
+      "context": "lived",
+      "full_text": "بترمذ مذکری کردی"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی نام وی حبال بن احمد است",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بوالمظفر ترمذی و استاد وی محمد حامد و استاد وی بوبکر وراق ترمذی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر وراق",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 559,
+          "canonical_name": "أبو المظفر الترمذي",
+          "has_id": 363,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوبکر وراق گویدکه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "پدر من",
+          "person_id": 377,
+          "canonical_name": "أببي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "امیرجهٔ سفال فروش",
+          "person_id": 266,
+          "canonical_name": "اميرجة سفال فروش",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 559,
+          "canonical_name": "أبو المظفر الترمذي",
+          "has_id": 363,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی پدر من گفت: که امیرجهٔ سفال فروش",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "پدر من",
+          "person_id": 377,
+          "canonical_name": "أببي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "امیرجهٔ سفال فروش",
+          "person_id": 266,
+          "canonical_name": "اميرجة سفال فروش",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 559,
+          "canonical_name": "أبو المظفر الترمذي",
+          "has_id": 363,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "هم وی گوید: که",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "پدر من",
+          "person_id": 377,
+          "canonical_name": "أببي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوالمظفر ترمذی",
+          "person_id": 559,
+          "canonical_name": "أبو المظفر الترمذي",
+          "has_id": 363,
+          "subj_added": false
+        },
+        {
+          "name": "این الخراسانی",
+          "person_id": 5,
+          "canonical_name": "أبو الحسن المحلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبدالرحمن",
+          "person_id": 1681,
+          "canonical_name": "عبد الرحمن الصابوني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شبلی",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که پدر من گفت، کی بوالمظفر ترمذی گفت، که این الخراسانی گفت عبدالرحمن، که شبلی٭ مرا گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبدالرحمن خراسانی",
+          "person_id": 1734,
+          "canonical_name": "عبد الرحمن الخراساني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 559,
+          "canonical_name": "أبو المظفر الترمذي",
+          "has_id": 363,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "عبدالرحمن خراسانی گوید: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوحاتم رازی",
+          "person_id": 810,
+          "canonical_name": "أبو سعيد عبد الله بن محمد بن عبد الوهاب الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زید عبداللهّ اصبهانی",
+          "person_id": 1578,
+          "canonical_name": "زيد عبد اللهّ اصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 559,
+          "canonical_name": "أبو المظفر الترمذي",
+          "has_id": 363,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: بوحاتم رازی مرا گفت، که زید عبداللهّ اصبهانی گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بونصر ازهری",
+          "person_id": 1096,
+          "canonical_name": "أبو نصر ازهري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 559,
+          "canonical_name": "أبو المظفر الترمذي",
+          "has_id": 363,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بونصر ازهری گوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "امام جهان",
+          "person_id": 260,
+          "canonical_name": "امام جهان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 559,
+          "canonical_name": "أبو المظفر الترمذي",
+          "has_id": 363,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "امام جهان گفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوسعد مالینی",
+          "person_id": 796,
+          "canonical_name": "أبو سعد الماليني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوالعباس",
+          "person_id": 485,
+          "canonical_name": "أبو العباس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 559,
+          "canonical_name": "أبو المظفر الترمذي",
+          "has_id": 363,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "بوسعد مالینی گوید: که بوالعباس گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابونجم",
+          "person_id": 1093,
+          "canonical_name": "أبو نجم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "هلال بن احمد بن یوسف البردعی",
+          "person_id": 2603,
+          "canonical_name": "هلال بن أحمد بن يوسف البردعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 559,
+          "canonical_name": "أبو المظفر الترمذي",
+          "has_id": 363,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "ابونجم گوید، هلال بن احمد بن یوسف البردعی: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالقاسم",
+          "person_id": 529,
+          "canonical_name": "أبو القاسم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حسن بن احمد البغدادی",
+          "person_id": 1446,
+          "canonical_name": "حسن بن أحمد البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 559,
+          "canonical_name": "أبو المظفر الترمذي",
+          "has_id": 363,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "بوالقاسم گوید حسن بن احمد البغدادی که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابن باکوی",
+          "person_id": 15,
+          "canonical_name": "ابن باكوية الشيرازي",
+          "has_id": 150,
+          "subj_added": false
+        },
+        {
+          "name": "عبدالوهاب بن احمد الاباری",
+          "person_id": 1918,
+          "canonical_name": "عبد الوهاب بن أحمد الاباري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 559,
+          "canonical_name": "أبو المظفر الترمذي",
+          "has_id": 363,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت، که ابن باکوی گفت، که عبدالوهاب بن احمد الاباری گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابن باکوی",
+          "person_id": 15,
+          "canonical_name": "ابن باكوية الشيرازي",
+          "has_id": 150,
+          "subj_added": false
+        },
+        {
+          "name": "علی بن محمد بن قزوینی",
+          "person_id": 433,
+          "canonical_name": "أبو الحسن علي بن محمد القزويني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "قناد",
+          "person_id": 2182,
+          "canonical_name": "قناد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 559,
+          "canonical_name": "أبو المظفر الترمذي",
+          "has_id": 363,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که ابن باکوی گفت، که علی بن محمد بن قزوینی گفت: که قنادگفت: کی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابن باکوی",
+          "person_id": 15,
+          "canonical_name": "ابن باكوية الشيرازي",
+          "has_id": 150,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 559,
+          "canonical_name": "أبو المظفر الترمذي",
+          "has_id": 363,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم ابن باکوی٭ گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبداللّه بن محمد الدینوری",
+          "person_id": 1858,
+          "canonical_name": "عبد الله بن محمد الدينوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 559,
+          "canonical_name": "أبو المظفر الترمذي",
+          "has_id": 363,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "عبداللّه بن محمد الدینوری گوید، که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن زبرقان",
+          "person_id": 2351,
+          "canonical_name": "محمد بن زبرقان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوعلی رودباری",
+          "person_id": 959,
+          "canonical_name": "أبو علي الروذباري",
+          "has_id": 422,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 559,
+          "canonical_name": "أبو المظفر الترمذي",
+          "has_id": 363,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "محمد بن زبرقان گوید، که بوعلی رودباری گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حسین بن احمد الفارسی",
+          "person_id": 1455,
+          "canonical_name": "حسين بن أحمد الفارسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوعلی رودباری",
+          "person_id": 959,
+          "canonical_name": "أبو علي الروذباري",
+          "has_id": 422,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 559,
+          "canonical_name": "أبو المظفر الترمذي",
+          "has_id": 363,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "و حسین بن احمد الفارسی گوید، که بوعلی رودباری٭ گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوجعفر",
+          "person_id": 725,
+          "canonical_name": "أبو جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن احمد للنجار",
+          "person_id": 2299,
+          "canonical_name": "محمد بن أحمد النجار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوعلی رودباری",
+          "person_id": 959,
+          "canonical_name": "أبو علي الروذباري",
+          "has_id": 422,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 559,
+          "canonical_name": "أبو المظفر الترمذي",
+          "has_id": 363,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "بوجعفرگوید، محمد بن احمد للنجارکه بوعلی رودباریگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ عمو",
+          "person_id": 1683,
+          "canonical_name": "شيخ عمو",
+          "has_id": 717,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 559,
+          "canonical_name": "أبو المظفر الترمذي",
+          "has_id": 363,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و شیخ عموگفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ عباس «فقیر» هروی",
+          "person_id": 1718,
+          "canonical_name": "عباس الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 559,
+          "canonical_name": "أبو المظفر الترمذي",
+          "has_id": 363,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و شیخ عباس «فقیر» هروی گفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ عباس",
+          "person_id": 1718,
+          "canonical_name": "عباس الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 559,
+          "canonical_name": "أبو المظفر الترمذي",
+          "has_id": 363,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که شیخ عباس گفت مرا بشیراز بودم",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوالحسین سال به",
+          "person_id": 459,
+          "canonical_name": "أبو الحسين سال به",
+          "has_id": 44,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 559,
+          "canonical_name": "أبو المظفر الترمذي",
+          "has_id": 363,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که شیخ بوالحسین سال به گفت: که",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "محمد حامد واشگردی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد محمد حامد واشگردی بود",
+        "person_id": 2338,
+        "canonical_name": "محمد بن حامد الواشگردي",
+        "has_id": NaN
+      },
+      {
+        "name": "بوبکر وراق٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد بوبکر وراق٭",
+        "person_id": 702,
+        "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+        "has_id": 380
+      }
+    ],
+    "students": [
+      {
+        "name": "پیر شیخ الاسلام",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "پیر و استاد",
+        "full_text": "پیر و استاد پیر شیخ الاسلام بود",
+        "person_id": 1682,
+        "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+        "has_id": 36
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "پدر من",
+      "relationship_type": "direct_narrator",
+      "full_text": "پدر من گفت، کی بوالمظفر ترمذی گفت",
+      "person_id": 377,
+      "canonical_name": "أببي",
+      "has_id": NaN
+    },
+    {
+      "name": "بوبکر وراق",
+      "relationship_type": "narrator",
+      "full_text": "بوبکر وراق گویدکه",
+      "person_id": 702,
+      "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+      "has_id": 380
+    },
+    {
+      "name": "شیخ عمو",
+      "relationship_type": "narrator",
+      "full_text": "شیخ عموگفت: که",
+      "person_id": 1683,
+      "canonical_name": "شيخ عمو",
+      "has_id": 717
+    },
+    {
+      "name": "شیخ عباس «فقیر» هروی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ عباس «فقیر» هروی گفت: که",
+      "person_id": 1718,
+      "canonical_name": "عباس الهروي",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ بوالحسین سال به",
+      "relationship_type": "narrator",
+      "full_text": "شیخ بوالحسین سال به گفت: که",
+      "person_id": 459,
+      "canonical_name": "أبو الحسين سال به",
+      "has_id": 44
+    },
+    {
+      "name": "عبدالرحمن خراسانی",
+      "relationship_type": "narrator",
+      "full_text": "عبدالرحمن خراسانی گوید: که",
+      "person_id": 1734,
+      "canonical_name": "عبد الرحمن الخراساني",
+      "has_id": NaN
+    },
+    {
+      "name": "بوحاتم رازی",
+      "relationship_type": "narrator",
+      "full_text": "بوحاتم رازی مرا گفت",
+      "person_id": 810,
+      "canonical_name": "أبو سعيد عبد الله بن محمد بن عبد الوهاب الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "بونصر ازهری",
+      "relationship_type": "narrator",
+      "full_text": "بونصر ازهری گوید",
+      "person_id": 1096,
+      "canonical_name": "أبو نصر ازهري",
+      "has_id": NaN
+    },
+    {
+      "name": "بوسعد مالینی",
+      "relationship_type": "narrator",
+      "full_text": "بوسعد مالینی گوید: که",
+      "person_id": 796,
+      "canonical_name": "أبو سعد الماليني",
+      "has_id": NaN
+    },
+    {
+      "name": "ابونجم",
+      "relationship_type": "narrator",
+      "full_text": "ابونجم گوید، هلال بن احمد بن یوسف البردعی: که",
+      "person_id": 1093,
+      "canonical_name": "أبو نجم",
+      "has_id": NaN
+    },
+    {
+      "name": "بوالقاسم",
+      "relationship_type": "narrator",
+      "full_text": "بوالقاسم گوید حسن بن احمد البغدادی که",
+      "person_id": 529,
+      "canonical_name": "أبو القاسم",
+      "has_id": NaN
+    },
+    {
+      "name": "ابن باکوی",
+      "relationship_type": "narrator",
+      "full_text": "ابن باکوی گفت",
+      "person_id": 15,
+      "canonical_name": "ابن باكوية الشيرازي",
+      "has_id": 150
+    },
+    {
+      "name": "خضر ﷷ",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "در مجلس وی میبودی",
+      "full_text": "و خضر ﷷ در مجلس وی میبودی",
+      "person_id": 145,
+      "canonical_name": "الخضر",
+      "has_id": NaN
+    },
+    {
+      "name": "مردی",
+      "relationship_type": "questioner",
+      "context": "پرسید شبلی را",
+      "full_text": "مردی پرسید شبلی را",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    },
+    {
+      "name": "پیر",
+      "relationship_type": "narrator",
+      "full_text": "پیر حکایت کرد ما را که",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    }
+  ]
+}

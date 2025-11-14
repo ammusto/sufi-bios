@@ -1,0 +1,319 @@
+{
+  "bio_id": "360",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "367",
+    "full_text": "تا برفت در سنه سبع و ستین و ثلثمائه فی ربیع الاول.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "نصر آباد",
+      "context": "nisba",
+      "full_text": "النصر آبادی"
+    },
+    {
+      "place": "نشاپور",
+      "context": "lived",
+      "full_text": "در زمان خود بنشاپور."
+    },
+    {
+      "place": "نشاپور",
+      "context": "born",
+      "full_text": "اصل و مولود وی بنشاپور بوده"
+    },
+    {
+      "place": "مکه",
+      "context": "visited",
+      "full_text": "بآخر عمر بمکه رفت و حج کرد"
+    },
+    {
+      "place": "مکه",
+      "context": "lived",
+      "full_text": "و آنجا میبود مجاور"
+    },
+    {
+      "place": "مکه",
+      "context": "died",
+      "full_text": "تا برفت در سنه سبع و ستین و ثلثمائه فی ربیع الاول."
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "اسماعیل",
+          "person_id": 49,
+          "canonical_name": "اسماعيل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "پسر نصرآبادی",
+          "person_id": 9,
+          "canonical_name": "ابن النصراباذي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که اسماعیل گفت پسر نصرآبادی مرا کی وی گفت.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "اسماعیل",
+          "person_id": 49,
+          "canonical_name": "اسماعيل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "پسر نصرآبادی",
+          "person_id": 9,
+          "canonical_name": "ابن النصراباذي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفته:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "اسماعیل",
+          "person_id": 49,
+          "canonical_name": "اسماعيل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "پسر نصرآبادی",
+          "person_id": 9,
+          "canonical_name": "ابن النصراباذي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و قال:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "الحسین بن محمد الباشانی ابا عبداللّه",
+          "person_id": 121,
+          "canonical_name": "الحسين بن محمد الباشاني أبو عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابا عثمان المغربی٭",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت شیخ الاسلام یقول سمعت الحسین بن محمد الباشانی ابا عبداللّه، یقول سمعت ابا عثمان المغربی٭ بنشاپور یقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوبکر رازی",
+          "person_id": 624,
+          "canonical_name": "أبو بكر الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان آدمی٭",
+          "person_id": 1949,
+          "canonical_name": "عثمان آدمي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ بوبکر رازی گوید: که عثمان آدمی٭ گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ عمو٭",
+          "person_id": 1683,
+          "canonical_name": "شيخ عمو",
+          "has_id": 717,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ عمو٭ با من گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "ابراهیم شیبان",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد ابراهیم شیبان بود",
+        "person_id": 283,
+        "canonical_name": "إبراهيم الشيبان",
+        "has_id": NaN
+      },
+      {
+        "name": "شبلی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده",
+        "full_text": "و شبلی و واسطی دیده",
+        "person_id": 628,
+        "canonical_name": "أبو بكر الشبلي",
+        "has_id": 376
+      },
+      {
+        "name": "واسطی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده",
+        "full_text": "و شبلی و واسطی دیده",
+        "person_id": 653,
+        "canonical_name": "أبو بكر الواسطي",
+        "has_id": 379
+      },
+      {
+        "name": "شبلی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "و صحبت کرده با شبلی",
+        "person_id": 628,
+        "canonical_name": "أبو بكر الشبلي",
+        "has_id": 376
+      },
+      {
+        "name": "بوعلی رودباری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "و با بوعلی رودباری",
+        "person_id": 959,
+        "canonical_name": "أبو علي الروذباري",
+        "has_id": 422
+      },
+      {
+        "name": "مرتعش",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "و مرتعش",
+        "person_id": 1043,
+        "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
+        "has_id": 251
+      },
+      {
+        "name": "بوبکر طاهر ابهری٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "و بوبکر طاهر ابهری٭",
+        "person_id": 686,
+        "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+        "has_id": 29
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "اسماعیل",
+      "relationship_type": "narrator",
+      "full_text": "اسماعیل گفت پسر نصرآبادی مرا",
+      "person_id": 49,
+      "canonical_name": "اسماعيل",
+      "has_id": NaN
+    },
+    {
+      "name": "پسر نصرآبادی",
+      "relationship_type": "direct_narrator",
+      "full_text": "پسر نصرآبادی مرا کی وی گفت.",
+      "person_id": 9,
+      "canonical_name": "ابن النصراباذي",
+      "has_id": NaN
+    },
+    {
+      "name": "عثمان مغربی",
+      "relationship_type": "interlocutor",
+      "full_text": "چون در مکه شد، با عثمان مغربی پیش او آمدگفت: چه جای تست مکه، بطبیب!",
+      "person_id": 942,
+      "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+      "has_id": 156
+    },
+    {
+      "name": "الحسین بن محمد الباشانی ابا عبداللّه",
+      "relationship_type": "narrator",
+      "full_text": "سمعت الحسین بن محمد الباشانی ابا عبداللّه،",
+      "person_id": 121,
+      "canonical_name": "الحسين بن محمد الباشاني أبو عبد الله",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ بوبکر رازی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ بوبکر رازی گوید:",
+      "person_id": 624,
+      "canonical_name": "أبو بكر الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ عمو٭",
+      "relationship_type": "narrator",
+      "full_text": "شیخ عمو٭ با من گفت:",
+      "person_id": 1683,
+      "canonical_name": "شيخ عمو",
+      "has_id": 717
+    }
+  ]
+}

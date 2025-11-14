@@ -1,0 +1,184 @@
+{
+  "bio_id": "378",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "بغدادى"
+    },
+    {
+      "place": "مكة",
+      "context": "lived",
+      "full_text": "سكن مكة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا جعفر الخياط الأصبهاني",
+          "person_id": 730,
+          "canonical_name": "أبو جعفر الخياط الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 712,
+          "canonical_name": "أبو بكر محمد بن علي الكتاني",
+          "has_id": 378,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سمعت أبا جعفر الخياط الأصبهاني يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن موسى",
+          "person_id": 2457,
+          "canonical_name": "محمد بن موسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسن القزويني",
+          "has_id": NaN,
+          "person_id": 36,
+          "canonical_name": "ابن نمير",
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر الكتاني",
+          "person_id": 712,
+          "canonical_name": "أبو بكر محمد بن علي الكتاني",
+          "has_id": 378,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن موسى يقول سمعت أبا الحسن القزويني يقول سمعت أبا بكر الكتاني يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن علي بن جعفر",
+          "person_id": 1226,
+          "canonical_name": "أحمد بن علي بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الكتانى",
+          "person_id": 712,
+          "canonical_name": "أبو بكر محمد بن علي الكتاني",
+          "has_id": 378,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أحمد بن علي بن جعفر يقول سمعت الكتانى يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الرحمن بن أحمد الصائغ الأصبهاني",
+          "person_id": 1740,
+          "canonical_name": "عبد الرحمن بن أحمد الصائغ الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الكتاني",
+          "person_id": 712,
+          "canonical_name": "أبو بكر محمد بن علي الكتاني",
+          "has_id": 378,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت عبد الرحمن بن أحمد الصائغ الأصبهاني بمكة يقول سمعت الكتاني يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "الجنيد",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب الجنيد والخزاز والنوري.",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "الخزاز",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب الجنيد والخزاز والنوري.",
+        "person_id": 801,
+        "canonical_name": "أبو سعيد الخراز",
+        "has_id": 123
+      },
+      {
+        "name": "النوري",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب الجنيد والخزاز والنوري.",
+        "person_id": 452,
+        "canonical_name": "أبو الحسين النوري",
+        "has_id": 439
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أبا جعفر الخياط الأصبهاني",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا جعفر الخياط الأصبهاني يقول",
+      "person_id": 730,
+      "canonical_name": "أبو جعفر الخياط الأصبهاني",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا الحسن القزويني",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا الحسن القزويني يقول",
+      "has_id": NaN,
+      "person_id": 35,
+      "canonical_name": "أبو الحسن القزويني"
+    },
+    {
+      "name": "أحمد بن علي بن جعفر",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أحمد بن علي بن جعفر يقول",
+      "person_id": 1226,
+      "canonical_name": "أحمد بن علي بن جعفر",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الرحمن بن أحمد الصائغ الأصبهاني",
+      "relationship_type": "narrator",
+      "full_text": "سمعت عبد الرحمن بن أحمد الصائغ الأصبهاني بمكة يقول",
+      "person_id": 1740,
+      "canonical_name": "عبد الرحمن بن أحمد الصائغ الأصبهاني",
+      "has_id": NaN
+    }
+  ]
+}

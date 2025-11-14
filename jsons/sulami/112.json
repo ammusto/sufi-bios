@@ -1,0 +1,575 @@
+{
+  "bio_id": "112",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "328",
+    "full_text": "سَمِعت أبي ﵀ يَقُول مَاتَ أَبُو عَليّ سنة ثَمَان وَعشْرين وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبي ﵀",
+          "person_id": 580,
+          "canonical_name": "أبو أبي عبد الرحمن السلمي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أبي ﵀ يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر مُحَمَّد بن عبد الله بن زَكَرِيَّا",
+          "person_id": 709,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن زكريا النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد الْوَهَّاب الثَّقَفِيّ",
+          "person_id": 2392,
+          "canonical_name": "محمد بن عبد الوهّاب الثّقفي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْأَحْوَص مُحَمَّد بن الْهَيْثَم",
+          "person_id": 384,
+          "canonical_name": "أبو الأحوص محمد بن الهيثم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن عفير",
+          "person_id": 27,
+          "canonical_name": "ابن عفير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْفضل بن الْمُخْتَار الْبَصْرِيّ",
+          "person_id": 194,
+          "canonical_name": "الفضل بن المختار البصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "هِشَام بن حسان",
+          "person_id": 2598,
+          "canonical_name": "هشام بن حسان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن",
+          "person_id": 75,
+          "canonical_name": "الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أنس",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "اُخْبُرْنَا أَبُو بكر مُحَمَّد بن عبد الله بن زَكَرِيَّا قَالَ حَدثنَا مُحَمَّد بن عبد الْوَهَّاب الثَّقَفِيّ قَالَ حَدثنَا أَبُو الْأَحْوَص مُحَمَّد بن الْهَيْثَم حَدثنَا ابْن عفير قَالَ حَدثنَا الْفضل بن الْمُخْتَار الْبَصْرِيّ عَن هِشَام بن حسان عَن الْحسن عَن أنس",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو الْحُسَيْن مُحَمَّد بن مُحَمَّد بن الْحسن الكارزي",
+          "person_id": 466,
+          "canonical_name": "أبو الحسين محمد بن محمد بن الحسن الكارزي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عَليّ مُحَمَّد بن عبد الْوَهَّاب الثَّقَفِيّ",
+          "person_id": 987,
+          "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِسْمَاعِيل بن إِسْحَاق",
+          "person_id": 358,
+          "canonical_name": "إسماعيل بن إسحاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن سَلمَة",
+          "person_id": 1830,
+          "canonical_name": "عبد الله بن سلمة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مَالك",
+          "person_id": 2203,
+          "canonical_name": "مالك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِسْحَاق بن عبد الله بن أبي طَلْحَة",
+          "person_id": 352,
+          "canonical_name": "إسحاق بن عبد الله بن أبي طلحة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أنس بن مَالك ﵁",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا أَبُو الْحُسَيْن مُحَمَّد بن مُحَمَّد بن الْحسن الكارزي قَالَ حَدثنَا أَبُو عَليّ مُحَمَّد بن عبد الْوَهَّاب الثَّقَفِيّ قَالَ حَدثنَا إِسْمَاعِيل بن إِسْحَاق قَالَ حَدثنَا عبد الله بن سَلمَة عَن مَالك عَن إِسْحَاق بن عبد الله بن أبي طَلْحَة عَن أنس بن مَالك ﵁",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَليّ الثَّقَفِيّ",
+          "person_id": 987,
+          "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول سَمِعت أَبَا عَليّ الثَّقَفِيّ يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَليّ الثَّقَفِيّ",
+          "person_id": 987,
+          "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَبُو عَليّ الثَّقَفِيّ لكل شَيْء حد وَكَمَال فَمن صحب الاشياء على حُدُودهَا فقد أَفْلح وأنجح وَمن قصر عَن حُدُودهَا فقد ضيع حَقّهَا وَمن تجَاوز حَدهَا فقد اشرف على هَلَاك نَفسه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَليّ الثَّقَفِيّ",
+          "person_id": 987,
+          "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَبُو عَليّ الثَّقَفِيّ لبَعض أَصْحَابه يَنْبَغِي أَلا تفارق هَذِه الْخلال الْأَرْبَعَة صدق القَوْل وَصدق الْعَمَل وَصدق الْمَوَدَّة وَصدق الْأَمَانَة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَليّ الثَّقَفِيّ",
+          "person_id": 987,
+          "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَبُو عَليّ الثَّقَفِيّ لَا يقبل الله من الْأَعْمَال إِلَّا مَا كَانَ صَوَابا وَمن صوابها إِلَّا مَا كَانَ خَالِصا وَمن خالصها إِلَّا مَا وَافق السّنة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَليّ الثَّقَفِيّ",
+          "person_id": 987,
+          "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَبُو عَليّ الثَّقَفِيّ من صحب الأكابر على غير طَرِيق الْحُرْمَة حرم فوائدهم وبركات نظرهم وَلَا يظْهر عَلَيْهِ من أنوارهم شَيْء",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَليّ الثَّقَفِيّ",
+          "person_id": 987,
+          "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَبُو عَليّ الثَّقَفِيّ تَمام الْعلم انْقِطَاع الرَّجَاء عَن بُلُوغ كنهه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَليّ الثَّقَفِيّ",
+          "person_id": 987,
+          "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَبُو عَليّ أُفٍّ من اشغال الدُّنْيَا إِذا أَقبلت وأف من حسراتها إِذا أَدْبَرت والعاقل من لَا يركن إِلَى شَيْء إِذا أقبل كَانَ شغلا وَإِذا أدبر كَانَ حسرة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَليّ الثَّقَفِيّ",
+          "person_id": 987,
+          "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَبُو عَليّ لَا تلبس تَقْوِيم مَا لَا يَسْتَقِيم وَلَا تَأْدِيب من لَا يتأدب",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَليّ الثَّقَفِيّ",
+          "person_id": 987,
+          "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَبُو عَليّ الْعلم حَيَاة الْقلب من الْجَهْل وَنور الْعين من الظلمَة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور ben عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَليّ الثَّقَفِيّ",
+          "person_id": 987,
+          "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَبُو عَليّ يَا من بَاعَ كل شَيْء بِلَا شَيْء وَاشْترى لَا شَيْء بِكُل شَيْء",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَليّ الثَّقَفِيّ",
+          "person_id": 987,
+          "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَبُو عَليّ الْفُرُوع الصَّحِيحَة لَا تتفرع إِلَّا من أصل صَحِيح فَمن أَرَادَ أَن تصح لَهُ أَفعاله على السّنة فليصحح الْإِخْلَاص من قلبه فَإِن تَصْحِيح ظواهر الْأَعْمَال بِصِحَّة بواطن الْإِخْلَاص",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَبُو عَليّ الثَّقَفِيّ من غَلبه هَوَاهُ توارى عَنهُ عقله",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَبُو عَليّ الْغَفْلَة وسعت على الْخلق الطّرق فِي مَعَايشهمْ وأفعالهم والورع واليقظة ضيقت عَلَيْهِم ذَلِك",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ ابو عَليّ الْمَعْرُوف كنز لَا يبعد من بر وَلَا فَاجر",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَبُو عَليّ الثَّقَفِيّ أَرْبَعَة اشياء لَا بُد للعاقل من حفظهن الْأَمَانَة والصدق وَالْأَخ الصَّالح والسريرة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابا عَليّ الثَّقَفِيّ",
+          "person_id": 987,
+          "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول سَمِعت ابا عَليّ الثَّقَفِيّ يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابا عَليّ الثَّقَفِيّ",
+          "person_id": 987,
+          "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَبُو عَليّ لَيْسَ شَيْء أولى بِأَن تمسكه من نَفسك وَلَا شَيْء أولى بِأَن تغلبه من هَوَاك",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابا عَليّ الثَّقَفِيّ",
+          "person_id": 987,
+          "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَبُو عَليّ يأتى على هَذِه الْأمة زمَان لَا تطيب الْمَعيشَة فِيهِ لمُؤْمِن إِلَّا بعد استناده إِلَى مُنَافِق",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أَبَا حَفْص",
+        "relationship_type": "peer",
+        "relationship_phrase": "لَقِي",
+        "full_text": "لَقِي أَبَا حَفْص وحمدونا الْقصار",
+        "person_id": 759,
+        "canonical_name": "أبو حفص الحداد النيسابوري",
+        "has_id": 715
+      },
+      {
+        "name": "حمدونا الْقصار",
+        "relationship_type": "peer",
+        "relationship_phrase": "لَقِي",
+        "full_text": "لَقِي أَبَا حَفْص وحمدونا الْقصار",
+        "person_id": 827,
+        "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+        "has_id": 524
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "مَنْصُور بن عبد الله",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول سَمِعت أَبَا عَليّ الثَّقَفِيّ يَقُول",
+      "person_id": 2547,
+      "canonical_name": "منصور بن عبد الله",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا بكر الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول حضرت مجْلِس أبي عَليّ الثَّقَفِيّ فَتكلم فِي الْمحبَّة وأحوال المحبين وَأنْشد فِي خلال تِلْكَ الْأَحْوَال هَذِه الأبيات",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبُو بكر مُحَمَّد بن عبد الله بن زَكَرِيَّا",
+      "relationship_type": "narrator",
+      "full_text": "اُخْبُرْنَا أَبُو بكر مُحَمَّد بن عبد الله بن زَكَرِيَّا قَالَ حَدثنَا مُحَمَّد بن عبد الْوَهَّاب الثَّقَفِيّ",
+      "person_id": 709,
+      "canonical_name": "أبو بكر محمد بن عبد الله بن زكريا النيسابوري",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبُو الْحُسَيْن مُحَمَّد بن مُحَمَّد بن الْحسن الكارزي",
+      "relationship_type": "narrator",
+      "full_text": "أخبرنَا أَبُو الْحُسَيْن مُحَمَّد بن مُحَمَّد بن الْحسن الكارزي قَالَ حَدثنَا أَبُو عَليّ مُحَمَّد بن عبد الْوَهَّاب الثَّقَفِيّ",
+      "person_id": 466,
+      "canonical_name": "أبو الحسين محمد بن محمد بن الحسن الكارزي",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبُو عُثْمَان الْحِيرِي",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "وَكَانَ أَبُو عُثْمَان الْحِيرِي يَقُول إِنَّه لينفعني فِي نَفسِي إِذا نظرت إِلَى خشوع هَذَا الْفَتى يَعْنِي أَبَا عَليّ الثَّقَفِيّ",
+      "person_id": 932,
+      "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+      "has_id": 419
+    }
+  ]
+}

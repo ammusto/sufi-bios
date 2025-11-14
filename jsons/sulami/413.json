@@ -1,0 +1,421 @@
+{
+  "bio_id": "413",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "369",
+    "full_text": "مَاتَ بصور فِي ذِي الْحجَّة سنة تسع وَسِتِّينَ وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "الرُّوذَبَارِي",
+      "context": "nisba",
+      "full_text": "الرُّوذَبَارِي"
+    },
+    {
+      "place": "صور",
+      "context": "died",
+      "full_text": "مَاتَ بصور"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن عَطاء الرُّوذَبَارِي",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الله العباسي",
+          "person_id": 2047,
+          "canonical_name": "علي بن عبد الله العباسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن سعد",
+          "person_id": 85,
+          "canonical_name": "الحسن بن سعد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أبي عُمَيْر",
+          "person_id": 2289,
+          "canonical_name": "محمد بن أبي عمير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "هِشَام بن سَالم",
+          "person_id": 2599,
+          "canonical_name": "هشام بن سالم",
+          "has_id": 139,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عبد الله جَعْفَر بن مُحَمَّد الصَّادِق ﵁",
+          "person_id": 906,
+          "canonical_name": "أبو عبد الله جعفر بن محمد الصادق",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أَخْبرنِي أَحْمد بن عَطاء الرُّوذَبَارِي إجَازَة قَالَ حَدثنَا عَليّ بن عبد الله العباسي قَالَ حَدثنَا الْحسن بن سعد قَالَ قَالَ مُحَمَّد بن أبي عُمَيْر قَالَ هِشَام بن سَالم قَالَ أَبُو عبد الله جَعْفَر بن مُحَمَّد الصَّادِق ﵁",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو عَليّ مُحَمَّد بن سعيد",
+          "person_id": 986,
+          "canonical_name": "أبو علي محمد بن سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن عَطاء الرُّوذَبَارِي",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا أَبُو عَليّ مُحَمَّد بن سعيد قَالَ سَمِعت أَحْمد بن عَطاء الرُّوذَبَارِي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو عَليّ مُحَمَّد بن سعيد",
+          "person_id": 986,
+          "canonical_name": "أبو علي محمد بن سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن عَطاء الرُّوذَبَارِي",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن مُحَمَّد بن نصر",
+          "person_id": 1264,
+          "canonical_name": "أحمد بن محمد بن نصر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وأنشدي أَحْمد بن مُحَمَّد بن نصر لنَفسِهِ فِي هَذَا الْمَعْنى",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا نصر عبد الله بن عَليّ الطوسي",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله الرُّوذَبَارِي",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت ابا نصر عبد الله بن عَليّ الطوسي يَقُول سَمِعت أَبَا عبد الله الرُّوذَبَارِي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا نصر عبد الله بن عَليّ الطوسي",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله الرُّوذَبَارِي",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عبد الله",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا نصر عبد الله بن عَليّ الطوسي",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله الرُّوذَبَارِي",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عبد الله الرُّوذَبَارِي",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا نصر عبد الله بن عَليّ الطوسي",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله الرُّوذَبَارِي",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عبد الله الرُّوذَبَارِي",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا نصر عبد الله بن عَليّ الطوسي",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله الرُّوذَبَارِي",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عبد الله",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا نصر عبد الله بن عَليّ الطوسي",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله الرُّوذَبَارِي",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عبد الله",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعيد",
+          "person_id": 2034,
+          "canonical_name": "علي بن سعيد الثغري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن عَطاء الرُّوذَبَارِي",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عَليّ بن سعيد يَقُول سَمِعت أَحْمد بن عَطاء الرُّوذَبَارِي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعيد",
+          "person_id": 2034,
+          "canonical_name": "علي بن سعيد الثغري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن عَطاء الرُّوذَبَارِي",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو عبد الله",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا نصر يَقُول سَمِعت أَبَا عبد الله يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعيد الثغري",
+          "person_id": 2034,
+          "canonical_name": "علي بن سعيد الثغري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن عَطاء الرُّوذَبَارِي",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أَنْشدني عَليّ بن سعيد الثغري قَالَ أَنْشدني أَحْمد بن عَطاء الرُّوذَبَارِي لنَفسِهِ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعيد",
+          "person_id": 2034,
+          "canonical_name": "علي بن سعيد الثغري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن عَطاء",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عَليّ بن سعيد يَقُول سَمِعت أَحْمد بن عَطاء يَقُول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أَبُو عَليّ مُحَمَّد بن سعيد",
+      "relationship_type": "narrator",
+      "full_text": "أخبرنَا أَبُو عَليّ مُحَمَّد بن سعيد قَالَ سَمِعت أَحْمد بن عَطاء الرُّوذَبَارِي يَقُول",
+      "person_id": 986,
+      "canonical_name": "أبو علي محمد بن سعيد",
+      "has_id": NaN
+    },
+    {
+      "name": "ابا نصر عبد الله بن عَليّ الطوسي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت ابا نصر عبد الله بن عَليّ الطوسي يَقُول سَمِعت أَبَا عبد الله الرُّوذَبَارِي يَقُول",
+      "person_id": 1108,
+      "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+      "has_id": NaN
+    },
+    {
+      "name": "عَليّ بن سعيد",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت عَليّ بن سعيد يَقُول سَمِعت أَحْمد بن عَطاء الرُّوذَبَارِي",
+      "person_id": 2034,
+      "canonical_name": "علي بن سعيد الثغري",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا نصر",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا نصر يَقُول سَمِعت أَبَا عبد الله يَقُول",
+      "person_id": 1108,
+      "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+      "has_id": NaN
+    },
+    {
+      "name": "عَليّ بن سعيد الثغري",
+      "relationship_type": "narrator",
+      "full_text": "أَنْشدني عَليّ بن سعيد الثغري قَالَ أَنْشدني أَحْمد بن عَطاء الرُّوذَبَارِي لنَفسِهِ",
+      "person_id": 2034,
+      "canonical_name": "علي بن سعيد الثغري",
+      "has_id": NaN
+    },
+    {
+      "name": "أَحْمد بن مُحَمَّد بن نصر",
+      "relationship_type": "narrator",
+      "full_text": "وأنشدي أَحْمد بن مُحَمَّد بن نصر لنَفسِهِ فِي هَذَا الْمَعْنى",
+      "person_id": 1264,
+      "canonical_name": "أحمد بن محمد بن نصر",
+      "has_id": NaN
+    }
+  ]
+}

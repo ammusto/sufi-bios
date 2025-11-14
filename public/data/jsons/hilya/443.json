@@ -1,0 +1,119 @@
+{
+  "bio_id": "443",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "بغدادي الأصل"
+    },
+    {
+      "place": "طرسوس",
+      "context": "lived",
+      "full_text": "أقام بطرسوس مدة"
+    },
+    {
+      "place": "الروم",
+      "context": "visited",
+      "full_text": "فبعث رسولا إلى الروم"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا القاسم الرازي",
+          "person_id": 549,
+          "canonical_name": "أبو القاسم جعفر بن أحمد الرازي",
+          "has_id": 357,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر بن أبي سعدان",
+          "person_id": 12,
+          "canonical_name": "أبو بكر بن أبي سعدان",
+          "has_id": 443,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين بن موسى يقول سمعت أبا القاسم الرازي يقول سمعت أبا بكر بن أبي سعدان يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن إبراهيم بن أحمد",
+          "person_id": 834,
+          "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر بن أبي سعدان",
+          "person_id": 12,
+          "canonical_name": "أبو بكر بن أبي سعدان",
+          "has_id": 443,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن إبراهيم بن أحمد يقول سمعت أبا بكر بن أبي سعدان يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن إبراهيم بن أحمد",
+          "person_id": 834,
+          "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر بن أبي سعدان",
+          "person_id": 12,
+          "canonical_name": "أبو بكر بن أبي سعدان",
+          "has_id": 443,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال:",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا القاسم الرازي",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "سمعت أبا القاسم الرازي يقول",
+      "person_id": 549,
+      "canonical_name": "أبو القاسم جعفر بن أحمد الرازي",
+      "has_id": 357
+    },
+    {
+      "name": "محمد بن إبراهيم بن أحمد",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "سمعت محمد بن إبراهيم بن أحمد يقول",
+      "person_id": 834,
+      "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
+      "has_id": NaN
+    }
+  ]
+}

@@ -1,0 +1,555 @@
+{
+  "bio_id": "29",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "~330",
+    "full_text": "مَاتَ قرب الثَّلَاثِينَ وثلاثمائة",
+    "certainty": "approximate"
+  },
+  "geographical_locations": [
+    {
+      "place": "أبهر",
+      "context": "nisba",
+      "full_text": "الْأَبْهَرِيّ"
+    },
+    {
+      "place": "الجبل",
+      "context": "lived",
+      "full_text": "بِالْجَبَلِ"
+    },
+    {
+      "place": "الكعبة",
+      "context": "visited",
+      "full_text": "يودع الْكَعْبَة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ",
+          "person_id": 1848,
+          "canonical_name": "عبد الله بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مهلب بن أَحْمد الْمصْرِيّ",
+          "person_id": 2557,
+          "canonical_name": "مهلب بن أحمد المصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الله بن عَليّ يَقُول سَمِعت مهلب بن أَحْمد الْمصْرِيّ يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو يَعْقُوب يُوسُف بن إِبْرَاهِيم بن عَامر الْأَبْهَرِيّ الْمُقْرِئ الْمَعْرُوف بالشافعي",
+          "person_id": 1141,
+          "canonical_name": "أبو يعقوب يوسف بن إبراهيم بن عامر الأبهري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو بكر عبد الله بن طَاهِر الْأَبْهَرِيّ الصُّوفِي",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": false
+        },
+        {
+          "name": "عبيد بن عبد الْوَاحِد",
+          "person_id": 1938,
+          "canonical_name": "عبيد بن عبد الواحد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "آدم بن أبي إِيَاس",
+          "person_id": 1318,
+          "canonical_name": "آدم بن أبي إياس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِسْمَاعِيل بن عَيَّاش",
+          "person_id": 366,
+          "canonical_name": "إسماعيل بن عياش",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْمِطعم بن الْمِقْدَام",
+          "person_id": 237,
+          "canonical_name": "المطعم بن المقدام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عنبسة بن سعيد الكلَاعِي",
+          "person_id": 2133,
+          "canonical_name": "عنبسة بن سعيد الكلاعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "نصيح الْعَنسِي",
+          "person_id": 2586,
+          "canonical_name": "نصيح العنسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ركب الْمصْرِيّ",
+          "person_id": 1549,
+          "canonical_name": "ركب المصري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا أَبُو يَعْقُوب يُوسُف بن إِبْرَاهِيم بن عَامر الْأَبْهَرِيّ الْمُقْرِئ الْمَعْرُوف بالشافعي قَالَ حَدثنَا أَبُو بكر عبد الله بن طَاهِر الْأَبْهَرِيّ الصُّوفِي قَالَ حَدثنَا عبيد بن عبد الْوَاحِد قَالَ حَدثنَا آدم بن أبي إِيَاس قَالَ حَدثنَا إِسْمَاعِيل بن عَيَّاش عَن الْمطعم بن الْمِقْدَام وعنبسة بن سعيد الكلَاعِي عَن نصيح الْعَنسِي عَن ركب الْمصْرِيّ قَالَ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن طَاهِر",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ يَقُول سَمِعت أَبَا بكر بن طَاهِر يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن طَاهِر",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن مُحَمَّد",
+          "person_id": 1912,
+          "canonical_name": "عبد الواحد بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنْدَار بن الْحُسَيْن",
+          "person_id": 1364,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الْوَاحِد بن مُحَمَّد يَقُول سَمِعت بنْدَار بن الْحُسَيْن يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن طَاهِر",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّد بن عبد الله يَقُول سَمِعت أَبَا بكر بن طَاهِر يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن طَاهِر",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته وَسُئِلَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن طَاهِر",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول سَمِعت أَبَا بكر بن طَاهِر يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن طَاهِر",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وسمعته يَقُول سَمِعت أَبَا بكر يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعيد الثغري",
+          "person_id": 2034,
+          "canonical_name": "علي بن سعيد الثغري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن عَليّ الوَاسِطِيّ",
+          "person_id": 1223,
+          "canonical_name": "أحمد بن علي الواسطي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن طَاهِر",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عَليّ بن سعيد الثغري يَقُول سَمِعت أَحْمد بن عَليّ الوَاسِطِيّ يَقُول سَمِعت أَبَا بكر بن طَاهِر ينشد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن طَاهِر",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت أَبَا بكر بن طَاهِر يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الْحُسَيْن بن أَحْمد",
+          "person_id": 107,
+          "canonical_name": "الحسين بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن طَاهِر",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت الْحُسَيْن بن أَحْمد يَقُول سَأَلت أَبَا بكر بن طَاهِر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الْحُسَيْن بن أَحْمد",
+          "person_id": 107,
+          "canonical_name": "الحسين بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن طَاهِر",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو بكر",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "الْحُسَيْن بن أَحْمد",
+          "person_id": 107,
+          "canonical_name": "الحسين بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن طَاهِر",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو بكر",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "الْحُسَيْن بن أَحْمد",
+          "person_id": 107,
+          "canonical_name": "الحسين بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن طَاهِر",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو بكر",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن بكر",
+          "person_id": 1908,
+          "canonical_name": "عبد الواحد بن بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بعض أَصْحَابنَا",
+          "person_id": 1338,
+          "canonical_name": "بعض أصحابنا",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الْوَاحِد بن بكر يَقُول سَمِعت بعض أَصْحَابنَا يَقُول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "الشبلي",
+        "relationship_type": "peer",
+        "relationship_phrase": "من أَقْرَان",
+        "full_text": "وَهُوَ من أَقْرَان الشبلي",
+        "person_id": 628,
+        "canonical_name": "أبو بكر الشبلي",
+        "has_id": 376
+      },
+      {
+        "name": "يُوسُف بن الْحُسَيْن",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب يُوسُف بن الْحُسَيْن",
+        "person_id": 1140,
+        "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+        "has_id": 847
+      },
+      {
+        "name": "مظفرا القرميسيني",
+        "relationship_type": "peer",
+        "relationship_phrase": "رافق",
+        "full_text": "ورافق مظفرا القرميسيني",
+        "person_id": 2513,
+        "canonical_name": "مظفر القرميسيني",
+        "has_id": 807
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "مهلب بن أَحْمد الْمصْرِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مهلب بن أَحْمد الْمصْرِيّ يَقُول",
+      "person_id": 2557,
+      "canonical_name": "مهلب بن أحمد المصري",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبُو يَعْقُوب يُوسُف بن إِبْرَاهِيم بن عَامر الْأَبْهَرِيّ الْمُقْرِئ الْمَعْرُوف بالشافعي",
+      "relationship_type": "narrator",
+      "full_text": "أخبرنَا أَبُو يَعْقُوب يُوسُف بن إِبْرَاهِيم بن عَامر الْأَبْهَرِيّ الْمُقْرِئ الْمَعْرُوف بالشافعي",
+      "person_id": 1141,
+      "canonical_name": "أبو يعقوب يوسف بن إبراهيم بن عامر الأبهري",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ يَقُول",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "مُحَمَّد بن عبد الله",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مُحَمَّد بن عبد الله يَقُول",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "مَنْصُور بن عبد الله",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول",
+      "person_id": 2547,
+      "canonical_name": "منصور بن عبد الله",
+      "has_id": NaN
+    },
+    {
+      "name": "أَحْمد بن عَليّ الوَاسِطِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَحْمد بن عَليّ الوَاسِطِيّ يَقُول سَمِعت أَبَا بكر بن طَاهِر",
+      "person_id": 1223,
+      "canonical_name": "أحمد بن علي الواسطي",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا بكر الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "الْحُسَيْن بن أَحْمد",
+      "relationship_type": "questioner",
+      "full_text": "سَأَلت أَبَا بكر بن طَاهِر عَن الْحَقِيقَة",
+      "person_id": 107,
+      "canonical_name": "الحسين بن أحمد",
+      "has_id": NaN
+    },
+    {
+      "name": "بعض أَصْحَابنَا",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت بعض أَصْحَابنَا يَقُول",
+      "person_id": 1338,
+      "canonical_name": "بعض أصحابنا",
+      "has_id": NaN
+    }
+  ]
+}

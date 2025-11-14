@@ -1,0 +1,132 @@
+{
+  "bio_id": "275",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "أولاس",
+      "context": "visited",
+      "full_text": "وأنا بأولاس"
+    },
+    {
+      "place": "الساحل",
+      "context": "visited",
+      "full_text": "ونزلت إلى الساحل فإذا أنا بإبراهيم بن سعد قائما يصلي"
+    },
+    {
+      "place": "البحر",
+      "context": "visited",
+      "full_text": "فأوقفني على البحر"
+    },
+    {
+      "place": "اللكام",
+      "context": "mentioned",
+      "full_text": "وأنا أريد اللكام"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد المنعم بن عمرو بن عبد الله",
+          "person_id": 1898,
+          "canonical_name": "عبد المنعم بن عمرو بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن بن يحيى بن حمويه الكرمانى",
+          "person_id": 104,
+          "canonical_name": "الحسن بن يحيى بن حمويه الكرمانى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسن التمارى",
+          "person_id": 393,
+          "canonical_name": "أبو الحسن التمارى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحارث الأولاسي",
+          "person_id": 389,
+          "canonical_name": "أبو الحارث الأولاسي",
+          "has_id": 290,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد المنعم بن عمرو بن عبد الله ثنا الحسن بن يحيى بن حمويه الكرمانى بمكة قال قال أبو الحسن التمارى قال أبو الحارث الأولاسي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد المنعم بن عمرو",
+          "person_id": 1898,
+          "canonical_name": "عبد المنعم بن عمرو بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن بن يحيى",
+          "person_id": 104,
+          "canonical_name": "الحسن بن يحيى بن حمويه الكرمانى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن محبوب العماني",
+          "person_id": 2436,
+          "canonical_name": "محمد بن محبوب العماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحارث الأولاسي",
+          "has_id": 290,
+          "person_id": 389,
+          "canonical_name": "أبو الحارث الأولاسي",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد المنعم بن عمرو ثنا الحسن بن يحيى قال محمد بن محبوب العماني سمعت أبا الحارث الأولاسي يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبو الحارث الأولاسي",
+      "relationship_type": "narrator",
+      "full_text": "قال أبو الحارث الأولاسي",
+      "person_id": 389,
+      "canonical_name": "أبو الحارث الأولاسي",
+      "has_id": 290
+    },
+    {
+      "name": "أبو بشر الصياد",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "إنسان كان بأولاس",
+      "full_text": "أين أبو بشر الصياد - إنسان كان بأولاس - هذه الساعة؟",
+      "person_id": 608,
+      "canonical_name": "أبو بشر الصياد",
+      "has_id": NaN
+    },
+    {
+      "name": "واضحا",
+      "relationship_type": "interlocutor",
+      "context": "مولى لإبراهيم بن سعد",
+      "full_text": "وكان اسمه واضحا مولى لإبراهيم بن سعد",
+      "person_id": 2613,
+      "canonical_name": "واضح",
+      "has_id": NaN
+    }
+  ]
+}

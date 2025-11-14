@@ -1,0 +1,78 @@
+{
+  "bio_id": "428",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "الشام",
+      "context": "lived",
+      "full_text": "وكان من عباد أهل الشام"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو بكر محمد بن أحمد بن محمد المؤذن",
+          "person_id": 701,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المؤذن",
+          "has_id": 91,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسن بن أبان",
+          "person_id": 417,
+          "canonical_name": "أبو الحسن بن أبان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر بن سفيان",
+          "person_id": 671,
+          "canonical_name": "أبو بكر بن سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "عيسى بن الهذيل",
+          "person_id": 2141,
+          "canonical_name": "عيسى بن الهذيل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا كريمة",
+          "person_id": 1031,
+          "canonical_name": "أبو كريمة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "• حدثنا أبو بكر محمد بن أحمد بن محمد المؤذن ثنا أبو الحسن بن أبان ثنا أبو بكر بن سفيان قال: بلغني عن أحمد بن أبي الحواري قال: حدثني عيسى بن الهذيل قال سمعت أبا كريمة - وكان من عباد أهل الشام - يقول:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "عيسى بن الهذيل",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت أبا كريمة - وكان من عباد أهل الشام - يقول",
+      "person_id": 2141,
+      "canonical_name": "عيسى بن الهذيل",
+      "has_id": NaN
+    }
+  ]
+}

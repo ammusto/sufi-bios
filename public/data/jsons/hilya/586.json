@@ -1,0 +1,692 @@
+{
+  "bio_id": "586",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "البابي",
+      "context": "nisba",
+      "full_text": "البابي"
+    },
+    {
+      "place": "البصرة",
+      "context": "visited",
+      "full_text": "أردت الخروج من البصرة"
+    },
+    {
+      "place": "أصبهان",
+      "context": "mentioned",
+      "full_text": "وكان بأصبهان الوباء والمجاعة"
+    },
+    {
+      "place": "البصرة",
+      "context": "mentioned",
+      "full_text": "في مسجد البصرة"
+    },
+    {
+      "place": "البصرة",
+      "context": "mentioned",
+      "full_text": "حشوش الأرض بالبصرة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن جعفر",
+          "person_id": 1822,
+          "canonical_name": "عبد الله بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عاصم",
+          "person_id": 1207,
+          "canonical_name": "أحمد بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زهير بن نعيم",
+          "person_id": 1567,
+          "canonical_name": "زهير بن نعيم",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا عبد الله بن جعفر - فيما قرئ عليه وأذن لي فيه - ثنا أحمد بن عاصم. قال قال زهير بن نعيم",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله",
+          "person_id": 1822,
+          "canonical_name": "عبد الله بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عاصم",
+          "person_id": 1207,
+          "canonical_name": "أحمد بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد العزيز بن يوسف",
+          "person_id": 1778,
+          "canonical_name": "عبد العزيز بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا عبد الله ثنا أحمد بن عاصم قال سمعت خالي عبد العزيز بن يوسف يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله",
+          "person_id": 1822,
+          "canonical_name": "عبد الله بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عاصم",
+          "person_id": 1207,
+          "canonical_name": "أحمد بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا عبد الله ثنا أحمد بن عاصم قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله",
+          "person_id": 1822,
+          "canonical_name": "عبد الله بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عاصم",
+          "person_id": 1207,
+          "canonical_name": "أحمد بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحصين بن جميل",
+          "person_id": 137,
+          "canonical_name": "الحصين بن جميل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زهيرا",
+          "person_id": 1567,
+          "canonical_name": "زهير بن نعيم",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قال أحمد: وسمعت الحصين بن جميل يقول سمعت زهيرا يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حصين",
+          "person_id": 1458,
+          "canonical_name": "حصين",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وقال لي حصين",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "زهير بن نعيم",
+          "person_id": 1567,
+          "canonical_name": "زهير بن نعيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "معدي",
+          "person_id": 2522,
+          "canonical_name": "معدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "رجل يكنى بأبي البغيل",
+          "person_id": 1545,
+          "canonical_name": "رجل يكنى بأبي البغيل",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "ثم قال: حدثني معدي عن رجل يكنى بأبي البغيل",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "زهير",
+          "person_id": 1567,
+          "canonical_name": "زهير بن نعيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "معدي",
+          "person_id": 2522,
+          "canonical_name": "معدي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قال زهير قال معدي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله",
+          "person_id": 1822,
+          "canonical_name": "عبد الله بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عاصم",
+          "person_id": 1207,
+          "canonical_name": "أحمد بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الباهلي",
+          "person_id": 63,
+          "canonical_name": "الباهلي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قال أحمد: وبلغني عن الباهلي قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن عاصم",
+          "person_id": 1207,
+          "canonical_name": "أحمد بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال أحمد: وبلغني أنه كان شاكيا",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن عاصم",
+          "person_id": 1207,
+          "canonical_name": "أحمد بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال أحمد: ودخلت عليه يوما",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله",
+          "person_id": 1822,
+          "canonical_name": "عبد الله بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عاصم",
+          "person_id": 1207,
+          "canonical_name": "أحمد بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الرحمن ابن عمر",
+          "person_id": 1752,
+          "canonical_name": "عبد الرحمن بن عمر",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قال أحمد: وأخبرني عبد الرحمن ابن عمر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "زهير",
+          "person_id": 1567,
+          "canonical_name": "زهير بن نعيم",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "فقال زهير: زنديق زنديق، أما زنديق فلا ولكني رجل سوء",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد بن جعفر",
+          "person_id": 1868,
+          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن العباس",
+          "person_id": 1864,
+          "canonical_name": "عبد الله بن محمد بن العباس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سلمة بن شبيب",
+          "person_id": 1614,
+          "canonical_name": "سلمة بن شبيب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عاصم",
+          "person_id": 1638,
+          "canonical_name": "سهل بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم",
+          "person_id": 270,
+          "canonical_name": "إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "رجلا",
+          "person_id": 1530,
+          "canonical_name": "رجل",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد بن جعفر ثنا عبد الله بن محمد بن العباس ثنا سلمة بن شبيب ثنا سهل بن عاصم قال سمعت إبراهيم يقول سمعت رجلا يقول لزهير بن نعيم",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد بن جعفر",
+          "person_id": 1868,
+          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن العباس",
+          "person_id": 1864,
+          "canonical_name": "عبد الله بن محمد بن العباس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سلمة ابن شبيب",
+          "person_id": 1614,
+          "canonical_name": "سلمة بن شبيب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عاصم",
+          "person_id": 1638,
+          "canonical_name": "سهل بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد بن جعفر ثنا عبد الله بن محمد بن العباس ثنا سلمة ابن شبيب ثنا سهل بن عاصم. قال: قلت لزهير بن نعيم",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد بن جعفر",
+          "person_id": 1868,
+          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن العباس",
+          "person_id": 1864,
+          "canonical_name": "عبد الله بن محمد بن العباس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سلمة ابن شبيب",
+          "person_id": 1614,
+          "canonical_name": "سلمة بن شبيب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عاصم",
+          "person_id": 1638,
+          "canonical_name": "سهل بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "سهل",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن سعيد بن أنس",
+          "person_id": 311,
+          "canonical_name": "إبراهيم بن سعيد بن أنس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زهير بن نعيم",
+          "person_id": 1567,
+          "canonical_name": "زهير بن نعيم",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "ثنا سهل ثنا إبراهيم بن سعيد بن أنس قال سمعت زهير بن نعيم يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سهل",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        },
+        {
+          "name": "عمشط بن زياد",
+          "person_id": 2131,
+          "canonical_name": "عمشط بن زياد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زهير بن نعيم",
+          "person_id": 1567,
+          "canonical_name": "زهير بن نعيم",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحدثنا سهل قال سمعت عمشط بن زياد يقول: سمعت زهير بن نعيم يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سهل",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        },
+        {
+          "name": "من سمع",
+          "person_id": 2537,
+          "canonical_name": "من سمع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زهيرا",
+          "person_id": 1567,
+          "canonical_name": "زهير بن نعيم",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قال سهل: وسمعت من سمع زهيرا يحلف بالله الذي لا إله إلا هو",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سهل",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        },
+        {
+          "name": "زهيرا",
+          "person_id": 1567,
+          "canonical_name": "زهير بن نعيم",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قال سهل: وسمعت زهيرا يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سهل",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن عبد الغفار الكرماني",
+          "person_id": 1837,
+          "canonical_name": "عبد الله بن عبد الغفار الكرماني",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قال سهل: وحدثنا عبد الله بن عبد الغفار الكرماني قال: صعدت إلى زهير ابن نعيم",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أحمد بن عاصم",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أحمد بن عاصم. قال قال زهير بن نعيم",
+      "person_id": 1207,
+      "canonical_name": "أحمد بن عاصم",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد العزيز بن يوسف",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت خالي عبد العزيز بن يوسف يقول",
+      "person_id": 1778,
+      "canonical_name": "عبد العزيز بن يوسف",
+      "has_id": NaN
+    },
+    {
+      "name": "الحصين بن جميل",
+      "relationship_type": "narrator",
+      "full_text": "وسمعت الحصين بن جميل يقول سمعت زهيرا يقول",
+      "person_id": 137,
+      "canonical_name": "الحصين بن جميل",
+      "has_id": NaN
+    },
+    {
+      "name": "إبراهيم بن سعيد بن أنس",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت زهير بن نعيم يقول",
+      "person_id": 311,
+      "canonical_name": "إبراهيم بن سعيد بن أنس",
+      "has_id": NaN
+    },
+    {
+      "name": "عمشط بن زياد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت عمشط بن زياد يقول: سمعت زهير بن نعيم يقول",
+      "person_id": 2131,
+      "canonical_name": "عمشط بن زياد",
+      "has_id": NaN
+    },
+    {
+      "name": "من سمع",
+      "relationship_type": "narrator",
+      "full_text": "سمعت من سمع زهيرا يحلف بالله الذي لا إله إلا هو",
+      "person_id": 2537,
+      "canonical_name": "من سمع",
+      "has_id": NaN
+    },
+    {
+      "name": "سهل",
+      "relationship_type": "narrator",
+      "full_text": "وسمعت زهيرا يقول",
+      "person_id": 1639,
+      "canonical_name": "سهل بن عبد الله التستري",
+      "has_id": 605
+    },
+    {
+      "name": "عبد الرحمن ابن عمر",
+      "relationship_type": "narrator",
+      "full_text": "وأخبرني عبد الرحمن ابن عمر",
+      "person_id": 1752,
+      "canonical_name": "عبد الرحمن بن عمر",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الله بن عبد الغفار الكرماني",
+      "relationship_type": "narrator",
+      "full_text": "وحدثنا عبد الله بن عبد الغفار الكرماني قال: صعدت إلى زهير ابن نعيم",
+      "person_id": 1837,
+      "canonical_name": "عبد الله بن عبد الغفار الكرماني",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل من هؤلاء الخبثاء القدرية",
+      "relationship_type": "questioner",
+      "full_text": "انتهى إلينا يوما رجل من هؤلاء الخبثاء القدرية فقال له: يا أبا عبد الرحمن بلغني أنك زنديق.",
+      "person_id": 1544,
+      "canonical_name": "رجل من هؤلاء الخبثاء القدرية",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "full_text": "سمعت رجلا يقول لزهير بن نعيم: ممن أنت يا أبا عبد الرحمن؟",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    },
+    {
+      "name": "يحيى بن أكتم",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "visitor",
+      "full_text": "ذهب يحيى بن أكتم يعوده",
+      "person_id": 2636,
+      "canonical_name": "يحيى بن أكتم",
+      "has_id": NaN
+    },
+    {
+      "name": "يحيى بن سعيد",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "farewell",
+      "full_text": "بدأت بيحيى بن سعيد فودعته",
+      "person_id": 2642,
+      "canonical_name": "يحيى بن سعيد",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الرحمن بن مهدي",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "farewell",
+      "full_text": "ثم ودعت عبد الرحمن بن مهدي",
+      "person_id": 1755,
+      "canonical_name": "عبد الرحمن بن مهدي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو الدرداء",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "example",
+      "full_text": "وقد ضرب لهما أبو الدرداء مثلا فقال",
+      "person_id": 110,
+      "canonical_name": "أبو الدرداء",
+      "has_id": NaN
+    },
+    {
+      "name": "الباهلي",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "guide",
+      "full_text": "بلغني عن الباهلي قال: كنت أقود زهيرا",
+      "person_id": 63,
+      "canonical_name": "الباهلي",
+      "has_id": NaN
+    }
+  ]
+}

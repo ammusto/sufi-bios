@@ -1,0 +1,347 @@
+{
+  "bio_id": "96",
+  "source": "sulami",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "أرمية",
+      "context": "lived",
+      "full_text": "من أهل أرمية"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر مُحَمَّد بن عبد الله بن عبد الْعَزِيز بن شَاذان الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو بكر الْحُسَيْن بن عَليّ بن يزدانيار الصُّوفِي",
+          "person_id": 616,
+          "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
+          "has_id": 231,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن يُونُس بن مُوسَى الْبَصْرِيّ",
+          "person_id": 2480,
+          "canonical_name": "محمد بن يونس بن موسى البصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عَاصِم الضَّحَّاك بن مخلد النَّبِيل",
+          "person_id": 840,
+          "canonical_name": "أبو عاصم الضّحّاك بن مخلد النبيل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن جريج",
+          "person_id": 17,
+          "canonical_name": "ابن جريج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي الزبير",
+          "person_id": 478,
+          "canonical_name": "أبو الزبير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جَابر",
+          "person_id": 1372,
+          "canonical_name": "جابر",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا أَبُو بكر مُحَمَّد بن عبد الله بن عبد الْعَزِيز بن شَاذان الرَّازِيّ قَالَ أخبرنَا أَبُو بكر الْحُسَيْن بن عَليّ بن يزدانيار الصُّوفِي قَالَ حَدثنَا مُحَمَّد بن يُونُس بن مُوسَى الْبَصْرِيّ قَالَ حَدثنَا أَبُو عَاصِم الضَّحَّاك بن مخلد النَّبِيل قَالَ حَدثنَا ابْن جريج عَن أبي الزبير عَن جَابر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن يزدانيار",
+          "person_id": 616,
+          "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
+          "has_id": 231,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت أَبَا بكر بن يزدانيار يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفرج الورثاني",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الرَّحْمَن الْموصِلِي",
+          "person_id": 849,
+          "canonical_name": "أبو عبد الرحمن الموصلي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْفرج الورثاني يَقُول سَمِعت أَبَا عبد الرَّحْمَن الْموصِلِي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفرج",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن إِبْرَاهِيم الأرموي",
+          "person_id": 2010,
+          "canonical_name": "علي بن إبراهيم الأرموي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن يزدانيار",
+          "person_id": 616,
+          "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
+          "has_id": 231,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْفرج يَقُول سَمِعت عَليّ بن إِبْرَاهِيم الأرموي يَقُول سَمِعت ابْن يزدانيار يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن يزدانيار",
+          "person_id": 616,
+          "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
+          "has_id": 231,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت أَبَا بكر بن يزدانيار",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن يزدانيار",
+          "person_id": 616,
+          "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
+          "has_id": 231,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت ابْن يزدانيار يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن يزدانيار",
+          "person_id": 616,
+          "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
+          "has_id": 231,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت ابْن يزدانيار يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن يزدانيار",
+          "person_id": 616,
+          "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
+          "has_id": 231,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت ابْن يزدانيار يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن يزدانيار",
+          "person_id": 616,
+          "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
+          "has_id": 231,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت ابْن يزدانيار يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن يزدانيار",
+          "person_id": 616,
+          "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
+          "has_id": 231,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت ابْن يزدانيار يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن يزدانيار",
+          "person_id": 616,
+          "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
+          "has_id": 231,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت ابْن يزدانيار يَقُول أَيْضا",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن يزدانيار",
+          "person_id": 616,
+          "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
+          "has_id": 231,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت ابْن يزدانيار يَقُول",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أَبُو بكر مُحَمَّد بن عبد الله بن عبد الْعَزِيز بن شَاذان الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "أخبرنَا أَبُو بكر مُحَمَّد بن عبد الله بن عبد الْعَزِيز بن شَاذان الرَّازِيّ قَالَ أخبرنَا أَبُو بكر الْحُسَيْن بن عَليّ بن يزدانيار الصُّوفِي",
+      "person_id": 711,
+      "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا بكر الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت أَبَا بكر بن يزدانيار يَقُول",
+      "person_id": 711,
+      "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا عبد الرَّحْمَن الْموصِلِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْفرج الورثاني يَقُول سَمِعت أَبَا عبد الرَّحْمَن الْموصِلِي يَقُول رَأَيْت ابْن يزدانيار فِي الْقَوْم وَهُوَ يحدث أَصْحَابه",
+      "person_id": 849,
+      "canonical_name": "أبو عبد الرحمن الموصلي",
+      "has_id": NaN
+    },
+    {
+      "name": "عَليّ بن إِبْرَاهِيم الأرموي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْفرج يَقُول سَمِعت عَليّ بن إِبْرَاهِيم الأرموي يَقُول سَمِعت ابْن يزدانيار يَقُول",
+      "person_id": 2010,
+      "canonical_name": "علي بن إبراهيم الأرموي",
+      "has_id": NaN
+    }
+  ]
+}

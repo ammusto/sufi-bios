@@ -1,0 +1,276 @@
+{
+  "bio_id": "156",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "373",
+    "full_text": "بنشاپور برفت در سنه ثلث و سبعین و ثلثمائه.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "مغرب",
+      "context": "nisba",
+      "full_text": "مغربی"
+    },
+    {
+      "place": "قیروان",
+      "context": "born",
+      "full_text": "از ناحیت قیروان مغرب بوده"
+    },
+    {
+      "place": "مکه",
+      "context": "lived",
+      "full_text": "بمکه بوده سالها مجاور"
+    },
+    {
+      "place": "نیشاپور",
+      "context": "visited",
+      "full_text": "بنشاپور آمد"
+    },
+    {
+      "place": "نیشاپور",
+      "context": "lived",
+      "full_text": "آنچا بود سالها"
+    },
+    {
+      "place": "نیشاپور",
+      "context": "died",
+      "full_text": "بنشاپور برفت در سنه ثلث و سبعین و ثلثمائه."
+    },
+    {
+      "place": "نیشاپور",
+      "context": "mentioned",
+      "full_text": "گور وی در نشاپور است پهلوی بوعثمان حیری٭ و بوعثمان نصیبی."
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "حسین کواشانی",
+          "person_id": 1452,
+          "canonical_name": "حسين الكواشاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شیخ بوعثمان مغربی",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که حسین کواشانی مرا گفت، که شیخ بوعثمان مغربی گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حسین",
+          "person_id": 1449,
+          "canonical_name": "حسين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "حسین گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعثمن",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوعثمن گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعثمن",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "ووی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعثمن",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "هم وی گفت،",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعثمن",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعثمن",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعثمان مغربی",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوعثمان مغربی گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "بوالحسن صایغ دینوری٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد بوالحسن صایغ دینوری٭",
+        "person_id": 415,
+        "canonical_name": "أبو الحسن بن الصائغ الدينوري",
+        "has_id": 293
+      },
+      {
+        "name": "بعلی کاتب٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود",
+        "full_text": "و صحبت کرده بود بابعلی کاتب٭",
+        "person_id": 973,
+        "canonical_name": "أبو علي بن الكاتب",
+        "has_id": 23
+      },
+      {
+        "name": "حبیب مغربی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود",
+        "full_text": "و حبیب مغربی",
+        "person_id": 1435,
+        "canonical_name": "حبيب مغربي",
+        "has_id": NaN
+      },
+      {
+        "name": "بوعمرو زجاج",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود",
+        "full_text": "و بوعمرو زجاج",
+        "person_id": 1011,
+        "canonical_name": "أبو عمرو الزجاجي",
+        "has_id": 426
+      },
+      {
+        "name": "یعقوب نهر جوری٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "«دیده بود»",
+        "full_text": "و با یعقوب نهر جوری٭ «دیده بود»",
+        "person_id": 2667,
+        "canonical_name": "يعقوب نهر جوري",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "حسین کواشانی",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "حسین کواشانی مرا گفت",
+      "person_id": 1452,
+      "canonical_name": "حسين الكواشاني",
+      "has_id": NaN
+    },
+    {
+      "name": "بوعثمان حیری٭",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "burial_neighbor",
+      "full_text": "پهلوی بوعثمان حیری٭",
+      "person_id": 932,
+      "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+      "has_id": 419
+    },
+    {
+      "name": "بوعثمان نصیبی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "burial_neighbor",
+      "full_text": "و بوعثمان نصیبی.",
+      "person_id": 937,
+      "canonical_name": "أبو عثمان النصيبي",
+      "has_id": NaN
+    },
+    {
+      "name": "طلحه نبلی",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "طلحه نبلی",
+      "person_id": 1700,
+      "canonical_name": "طلحة النبلي",
+      "has_id": NaN
+    }
+  ]
+}

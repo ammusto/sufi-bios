@@ -1,0 +1,86 @@
+{
+  "bio_id": "594",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد بن محمد",
+          "person_id": 2314,
+          "canonical_name": "محمد بن أحمد بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عباس بن يوسف",
+          "person_id": 185,
+          "canonical_name": "العباس بن يوسف الشكلي",
+          "has_id": 649,
+          "subj_added": false
+        },
+        {
+          "name": "ميسرة الخادم",
+          "person_id": 2572,
+          "canonical_name": "ميسرة الخادم",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن أحمد بن محمد وحدثني عنه عثمان بن محمد العثماني ثنا عباس بن يوسف قال قال ميسرة الخادم:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد بن محمد",
+          "person_id": 2314,
+          "canonical_name": "محمد بن أحمد بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عباس بن يوسف",
+          "person_id": 185,
+          "canonical_name": "العباس بن يوسف الشكلي",
+          "has_id": 649,
+          "subj_added": false
+        },
+        {
+          "name": "ميسرة الخادم",
+          "person_id": 2572,
+          "canonical_name": "ميسرة الخادم",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن أحمد بن محمد وحدثني عنه عثمان بن محمد العثماني ثنا عباس بن يوسف قال قال ميسرة الخادم:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "ميسرة الخادم",
+      "relationship_type": "narrator",
+      "full_text": "قال قال ميسرة الخادم:",
+      "person_id": 2572,
+      "canonical_name": "ميسرة الخادم",
+      "has_id": NaN
+    }
+  ]
+}

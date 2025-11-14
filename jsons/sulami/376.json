@@ -1,0 +1,1049 @@
+{
+  "bio_id": "376",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "334",
+    "full_text": "مَات فِي ذِي الْحجَّة سنة أَربع وَثَلَاثِينَ وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "خراسان",
+      "context": "mentioned",
+      "full_text": "خراساني الأَصْل"
+    },
+    {
+      "place": "بغداد",
+      "context": "lived",
+      "full_text": "بغدادي المنشأ"
+    },
+    {
+      "place": "بغداد",
+      "context": "born",
+      "full_text": "بغدادي المنشأ والمولد"
+    },
+    {
+      "place": "أسروشنة",
+      "context": "mentioned",
+      "full_text": "وَأَصله من أسروشنة"
+    },
+    {
+      "place": "سامرا",
+      "context": "born",
+      "full_text": "ومولده كَمَا قيل سامرا"
+    },
+    {
+      "place": "بغداد",
+      "context": "mentioned",
+      "full_text": "رَأَيْته بِبَغْدَاد مَكْتُوبًا على قَبره"
+    },
+    {
+      "place": "مَقْبرَة الخيزران",
+      "context": "died",
+      "full_text": "وَدفن فِي مَقْبرَة الخيزران"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن الْعَبَّاس",
+          "person_id": 1902,
+          "canonical_name": "عبد الواحد بن العباس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْجمال",
+          "person_id": 1992,
+          "canonical_name": "علي بن الجمال",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن مهْدي الْمصْرِيّ",
+          "person_id": 2456,
+          "canonical_name": "محمد بن مهدي المصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَمْرو بن أبي سَلمَة",
+          "person_id": 2120,
+          "canonical_name": "عمرو بن أبي سلمة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "صَدَقَة بن عبد الله",
+          "person_id": 1687,
+          "canonical_name": "صدقة بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "طَلْحَة بن زيد",
+          "person_id": 1701,
+          "canonical_name": "طلحة بن زيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي فَرْوَة الرهاوي",
+          "person_id": 1027,
+          "canonical_name": "أبو فروة الرهاوي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَطاء",
+          "person_id": 1963,
+          "canonical_name": "عطاء",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي سعيد",
+          "person_id": 798,
+          "canonical_name": "أبو سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حَدثنَا عبد الْوَاحِد بن الْعَبَّاس حَدثنَا عَليّ بن الْجمال قَالَ سَمِعت أَبَا بكر الشبلي يَقُول حَدثنَا مُحَمَّد بن مهْدي الْمصْرِيّ حَدثنَا عَمْرو بن أبي سَلمَة حَدثنَا صَدَقَة بن عبد الله عَن طَلْحَة بن زيد عَن أبي فَرْوَة الرهاوي عَن عَطاء عَن أبي سعيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله الْهَرَوِيّ",
+          "person_id": 2550,
+          "canonical_name": "منصور بن عبد الله الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله الْهَرَوِيّ يَقُول سَمِعت الشبلي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر المزوق",
+          "person_id": 2088,
+          "canonical_name": "عمر المزوق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت عمر المزوق يَقُول سَمِعت الشبلي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ يَقُول سَمِعت الشبلي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم النصراباذي",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        },
+        {
+          "name": "الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْقَاسِم النصراباذي يَقُول سَمِعت الشبلي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن بكر",
+          "person_id": 1908,
+          "canonical_name": "عبد الواحد بن بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الْوَاحِد بن بكر يَقُول سَمِعت الشبلي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن الْحسن الْبَغْدَادِيّ",
+          "person_id": 507,
+          "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّد بن الْحسن الْبَغْدَادِيّ يَقُول سَمِعت الشبلي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم عبد الله بن مُحَمَّد الدِّمَشْقِي",
+          "person_id": 556,
+          "canonical_name": "أبو القاسم عبد الله بن محمد الدمشقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سَمِعت أَبَا الْقَاسِم عبد الله بن مُحَمَّد الدِّمَشْقِي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا سعيد الرَّازِيّ",
+          "person_id": 810,
+          "canonical_name": "أبو سعيد عبد الله بن محمد بن عبد الوهاب الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا سعيد الرَّازِيّ يَقُول سَمِعت الشبلي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا سعيد الرَّازِيّ",
+          "person_id": 810,
+          "canonical_name": "أبو سعيد عبد الله بن محمد بن عبد الوهاب الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت الشبلي يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا سعيد الرَّازِيّ",
+          "person_id": 810,
+          "canonical_name": "أبو سعيد عبد الله بن محمد بن عبد الوهاب الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ سَمِعت الشبلي وَسُئِلَ مَا الدُّنْيَا",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا سعيد الرَّازِيّ",
+          "person_id": 810,
+          "canonical_name": "أبو سعيد عبد الله بن محمد بن عبد الوهاب الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ سَمِعت الشبلي وَسُئِلَ بِمَ يقمع الْهوى",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا سعيد الرَّازِيّ",
+          "person_id": 810,
+          "canonical_name": "أبو سعيد عبد الله بن محمد بن عبد الوهاب الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ سَمِعت الشبلي يَقُول لَيْسَ يخْطر الْكَوْن ببالي",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس مُحَمَّد بن الْحسن بن الخشاب",
+          "person_id": 508,
+          "canonical_name": "أبو العباس محمد بن الحسن بن الخشاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بعض أَصْحَاب الشبلي",
+          "person_id": 1336,
+          "canonical_name": "بعض أصحاب الشبلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْعَبَّاس مُحَمَّد بن الْحسن بن الخشاب يَقُول سَمِعت بعض أَصْحَاب الشبلي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا سعيد الرَّازِيّ",
+          "person_id": 810,
+          "canonical_name": "أبو سعيد عبد الله بن محمد بن عبد الوهاب الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا سعيد الرَّازِيّ يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن بكر",
+          "person_id": 1908,
+          "canonical_name": "عبد الواحد بن بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر بن عبد الله",
+          "person_id": 2101,
+          "canonical_name": "عمر بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الْوَاحِد بن بكر يَقُول سَمِعت عمر بن عبد الله يَقُول سَمِعت الشبلي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر الطوسي",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحصري",
+          "person_id": 394,
+          "canonical_name": "أبو الحسن الحصري",
+          "has_id": 301,
+          "subj_added": false
+        },
+        {
+          "name": "الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت أَبَا نصر الطوسي يَقُول سَمِعت الحصري يَقُول سَمِعت الشبلي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس النسوي",
+          "person_id": 500,
+          "canonical_name": "أبو العباس أحمد بن محمد بن زكريا النسوي",
+          "has_id": 107,
+          "subj_added": false
+        },
+        {
+          "name": "السيرواني",
+          "person_id": 165,
+          "canonical_name": "السيرواني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْعَبَّاس النسوي يَقُول سَمِعت السيرواني يَقُول سَمِعت الشبلي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ الْجَعْفَرِي",
+          "person_id": 948,
+          "canonical_name": "أبو علي الجعفري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بعض الْمَشَايِخ",
+          "person_id": 1331,
+          "canonical_name": "بعض المشايخ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن ظريف",
+          "person_id": 316,
+          "canonical_name": "إبراهيم بن ظريف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وسمعته يَقُول سَمِعت أَبَا عَليّ الْجَعْفَرِي يَقُول سَمِعت بعض الْمَشَايِخ يَقُول سَمِعت إِبْرَاهِيم بن ظريف يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الْبَغْدَادِيّ",
+          "person_id": 1849,
+          "canonical_name": "عبد الله بن علي البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الله بن عَليّ الْبَغْدَادِيّ يَقُول سَمِعت الشبلي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الْبَغْدَادِيّ",
+          "person_id": 1849,
+          "canonical_name": "عبد الله بن علي البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ سَمِعت الشبلي الْفَرح بِاللَّه أولى من الْحزن بَين يَدي الله",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الْبَغْدَادِيّ",
+          "person_id": 1849,
+          "canonical_name": "عبد الله بن علي البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ سَمِعت الشبلي يَقُول قُلُوب أهل الْحق طائرة إِلَيْهِ بأجنحة الْمعرفَة ومستبشرة إِلَيْهِ بموالاة الْمحبَّة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الْبَغْدَادِيّ",
+          "person_id": 1849,
+          "canonical_name": "عبد الله بن علي البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ سَمِعت الشبلي يَقُول الْحُرِّيَّة هِيَ حريَّة الْقلب لَا غير",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الْبَغْدَادِيّ",
+          "person_id": 1849,
+          "canonical_name": "عبد الله بن علي البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ سَمِعت الشبلي يَقُول لَيْسَ من احتجب بالخلق عَن الْحق كمن احتجب بِالْحَقِّ عَن الْخلق وَلَيْسَ من جذبته أنوار قدسه إِلَى أنسه كمن جذبته أنوار رَحمته إِلَى مغفرته",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "الْحُسَيْن بن عبد الله",
+          "person_id": 117,
+          "canonical_name": "الحسين بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد الخلقاني",
+          "person_id": 1229,
+          "canonical_name": "أحمد بن عمر الخلقاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت الْحُسَيْن بن عبد الله يَقُول سَمِعت أَحْمد الخلقاني يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا سهل مُحَمَّد بن سلمَان",
+          "person_id": 821,
+          "canonical_name": "أبو سهل محمد بن سلمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت الشَّيْخ أَبَا سهل مُحَمَّد بن سلمَان يَقُول سَمِعت الشبلي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا سهل مُحَمَّد بن سلمَان",
+          "person_id": 821,
+          "canonical_name": "أبو سهل محمد بن سلمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ سَمِعت الشبلي يَقُول من كَانَ بِالْحَقِّ تلفه كَانَ الْحلق خلقه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم عبد الله بن مُحَمَّد الدِّمَشْقِي",
+          "person_id": 556,
+          "canonical_name": "أبو القاسم عبد الله بن محمد الدمشقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سَمِعت أَبَا الْقَاسِم عبد الله بن مُحَمَّد الدِّمَشْقِي قَالَ كُنَّا يَوْمًا فِي بَيت الشبلي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم عبد الله بن مُحَمَّد الدِّمَشْقِي",
+          "person_id": 556,
+          "canonical_name": "أبو القاسم عبد الله بن محمد الدمشقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ رؤى الشبلي فِي يَوْم عيد خَارِجا من الْمَسْجِد وَهُوَ يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت الشبلي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو بكر الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وأنشدنا أَبُو بكر الرَّازِيّ قَالَ أنشدنا أَبُو بكر الشبلي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو بكر الشبلي",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ الشبلي",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الطّيب العكي",
+          "person_id": 481,
+          "canonical_name": "أبو الطيب العكي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الله بن عَليّ الطوسي يَقُول سَمِعت أَبَا الطّيب العكي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم عبد الله بن مُحَمَّد الدِّمَشْقِي",
+          "person_id": 556,
+          "canonical_name": "أبو القاسم عبد الله بن محمد الدمشقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سَمِعت أَبَا الْقَاسِم عبد الله بن مُحَمَّد الدِّمَشْقِي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابا الْقَاسِم عبد الله بن عَليّ الْبَصْرِيّ",
+          "person_id": 555,
+          "canonical_name": "أبو القاسم عبد الله بن علي البصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سَمِعت ابا الْقَاسِم عبد الله بن عَليّ الْبَصْرِيّ يَقُول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "خير النساج",
+        "relationship_type": "student_of",
+        "relationship_phrase": "تَابَ فِي مجْلِس",
+        "full_text": "تَابَ فِي مجْلِس خير النساج",
+        "person_id": 1510,
+        "canonical_name": "خير النساج",
+        "has_id": 564
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "الْجُنَيْد",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب",
+        "full_text": "وَصَحب الْجُنَيْد",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "مَنْصُور بن عبد الله الْهَرَوِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله الْهَرَوِيّ يَقُول سَمِعت الشبلي",
+      "person_id": 2550,
+      "canonical_name": "منصور بن عبد الله الهروي",
+      "has_id": NaN
+    },
+    {
+      "name": "عمر المزوق",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت عمر المزوق يَقُول سَمِعت الشبلي",
+      "person_id": 2088,
+      "canonical_name": "عمر المزوق",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ يَقُول سَمِعت الشبلي يَقُول",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا الْقَاسِم النصراباذي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْقَاسِم النصراباذي يَقُول سَمِعت الشبلي يَقُول",
+      "person_id": 545,
+      "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+      "has_id": 360
+    },
+    {
+      "name": "عبد الْوَاحِد بن بكر",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت عبد الْوَاحِد بن بكر يَقُول سَمِعت الشبلي يَقُول",
+      "person_id": 1908,
+      "canonical_name": "عبد الواحد بن بكر",
+      "has_id": NaN
+    },
+    {
+      "name": "مُحَمَّد بن الْحسن الْبَغْدَادِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مُحَمَّد بن الْحسن الْبَغْدَادِيّ يَقُول سَمِعت الشبلي يَقُول",
+      "person_id": 507,
+      "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا سعيد الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا سعيد الرَّازِيّ يَقُول سَمِعت الشبلي",
+      "person_id": 810,
+      "canonical_name": "أبو سعيد عبد الله بن محمد بن عبد الوهاب الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "عمر بن عبد الله",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت عبد الْوَاحِد بن بكر يَقُول سَمِعت عمر بن عبد الله يَقُول سَمِعت الشبلي يَقُول",
+      "person_id": 2101,
+      "canonical_name": "عمر بن عبد الله",
+      "has_id": NaN
+    },
+    {
+      "name": "الحصري",
+      "relationship_type": "narrator",
+      "full_text": "وَسمعت أَبَا نصر الطوسي يَقُول سَمِعت الحصري يَقُول سَمِعت الشبلي يَقُول",
+      "person_id": 394,
+      "canonical_name": "أبو الحسن الحصري",
+      "has_id": 301
+    },
+    {
+      "name": "السيرواني",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْعَبَّاس النسوي يَقُول سَمِعت السيرواني يَقُول سَمِعت الشبلي يَقُول",
+      "person_id": 165,
+      "canonical_name": "السيرواني",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الله بن عَليّ الْبَغْدَادِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت عبد الله بن عَليّ الْبَغْدَادِيّ يَقُول سَمِعت الشبلي يَقُول",
+      "person_id": 1849,
+      "canonical_name": "عبد الله بن علي البغدادي",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا سهل مُحَمَّد بن سلمَان",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت الشَّيْخ أَبَا سهل مُحَمَّد بن سلمَان يَقُول سَمِعت الشبلي يَقُول",
+      "person_id": 821,
+      "canonical_name": "أبو سهل محمد بن سلمان",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا بكر الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت الشبلي يَقُول",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "full_text": "وَسمعت أَبَا سعيد الرَّازِيّ يَقُول قَالَ رجل للشبلي ادْع الله لي",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    },
+    {
+      "name": "سائل",
+      "relationship_type": "questioner",
+      "full_text": "سَمِعت أَبَا الْقَاسِم عبد الله بن مُحَمَّد الدِّمَشْقِي يَقُول كنت وَاقِفًا على حَلقَة الشبلي فِي جَامع الْمَدِينَة فَوقف سَائل على حلقته وَجعل يَقُول يَا الله يَا جواد",
+      "person_id": 1585,
+      "canonical_name": "سائل",
+      "has_id": NaN
+    }
+  ]
+}

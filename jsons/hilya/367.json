@@ -1,0 +1,285 @@
+{
+  "bio_id": "367",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "بغدادي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد الخلدي",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أبو العباس بن مسروق",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الآجري",
+          "person_id": 689,
+          "canonical_name": "أبو بكر محمد بن الحسين الآجري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد الخلدي - في كتابه - وحدثني عنه أبو عمر العثماني ثنا أبو العباس بن مسروق وأبو محمد الحريرى وأبو أحمد المغازلي وغيرهم عن إبراهيم الآجري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد الخلدي",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أبو محمد الحريرى",
+          "person_id": 1036,
+          "canonical_name": "أبو محمد الحريرى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الآجري",
+          "person_id": 689,
+          "canonical_name": "أبو بكر محمد بن الحسين الآجري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد الخلدي - في كتابه - وحدثني عنه أبو عمر العثماني ثنا أبو العباس بن مسروق وأبو محمد الحريرى وأبو أحمد المغازلي وغيرهم عن إبراهيم الآجري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد الخلدي",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أبو أحمد المغازلي",
+          "person_id": 592,
+          "canonical_name": "أبو أحمد المغازلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الآجري",
+          "person_id": 689,
+          "canonical_name": "أبو بكر محمد بن الحسين الآجري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد الخلدي - في كتابه - وحدثني عنه أبو عمر العثماني ثنا أبو العباس بن مسروق وأبو محمد الحريرى وأبو أحمد المغازلي وغيرهم عن إبراهيم الآجري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو عمر العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن محمد الخلدي",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أبو العباس بن مسروق",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الآجري",
+          "person_id": 689,
+          "canonical_name": "أبو بكر محمد بن الحسين الآجري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد الخلدي - في كتابه - وحدثني عنه أبو عمر العثماني ثنا أبو العباس بن مسروق وأبو محمد الحريرى وأبو أحمد المغازلي وغيرهم عن إبراهيم الآجري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو عمر العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن محمد الخلدي",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أبو محمد الحريرى",
+          "person_id": 1036,
+          "canonical_name": "أبو محمد الحريرى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الآجري",
+          "person_id": 689,
+          "canonical_name": "أبو بكر محمد بن الحسين الآجري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد الخلدي - في كتابه - وحدثني عنه أبو عمر العثماني ثنا أبو العباس بن مسروق وأبو محمد الحريرى وأبو أحمد المغازلي وغيرهم عن إبراهيم الآجري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو عمر العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن محمد الخلدي",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أبو أحمد المغازلي",
+          "person_id": 592,
+          "canonical_name": "أبو أحمد المغازلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الآجري",
+          "person_id": 689,
+          "canonical_name": "أبو بكر محمد بن الحسين الآجري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد الخلدي - في كتابه - وحدثني عنه أبو عمر العثماني ثنا أبو العباس بن مسروق وأبو محمد الحريرى وأبو أحمد المغازلي وغيرهم عن إبراهيم الآجري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "عبدون الزجاج",
+          "person_id": 1922,
+          "canonical_name": "عبدون الزجاج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الآجري",
+          "person_id": 689,
+          "canonical_name": "أبو بكر محمد بن الحسين الآجري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد في كتابه قال: سمعت الجنيد بن محمد يقول سمعت عبدون الزجاج يقول قال لي إبراهيم الآجري",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبو العباس بن مسروق",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أبو العباس بن مسروق وأبو محمد الحريرى وأبو أحمد المغازلي وغيرهم عن إبراهيم الآجري",
+      "person_id": 505,
+      "canonical_name": "أبو العباس بن مسروق الطوسي",
+      "has_id": 451
+    },
+    {
+      "name": "أبو محمد الحريرى",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أبو العباس بن مسروق وأبو محمد الحريرى وأبو أحمد المغازلي وغيرهم عن إبراهيم الآجري",
+      "person_id": 1036,
+      "canonical_name": "أبو محمد الحريرى",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو أحمد المغازلي",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أبو العباس بن مسروق وأبو محمد الحريرى وأبو أحمد المغازلي وغيرهم عن إبراهيم الآجري",
+      "person_id": 592,
+      "canonical_name": "أبو أحمد المغازلي",
+      "has_id": NaN
+    },
+    {
+      "name": "عبدون الزجاج",
+      "relationship_type": "narrator",
+      "full_text": "سمعت عبدون الزجاج يقول قال لي إبراهيم الآجري",
+      "person_id": 1922,
+      "canonical_name": "عبدون الزجاج",
+      "has_id": NaN
+    },
+    {
+      "name": "يهودى",
+      "relationship_type": "questioner",
+      "full_text": "جاء يهودى يقتضيه شيئا من ثمن قصب فكلمه فقال له: أرني شيئا أعرف به شرف الإسلام وفضله على ديني حتى أسلم.",
+      "person_id": 2671,
+      "canonical_name": "يهودى",
+      "has_id": NaN
+    }
+  ]
+}

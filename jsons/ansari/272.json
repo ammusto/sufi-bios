@@ -1,0 +1,87 @@
+{
+  "bio_id": "272",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "مرو",
+      "context": "nisba",
+      "full_text": "مروزی"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "بوعمر",
+          "person_id": 988,
+          "canonical_name": "أبو عمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "نجید٭",
+          "person_id": 2578,
+          "canonical_name": "نجيد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "بوعمر و نجید٭ گوید: که",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "محمد فضل بلخی٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده",
+        "full_text": "و محمد فضل بلخی٭ دیده",
+        "person_id": 2254,
+        "canonical_name": "محمد بن الفضل البلخي",
+        "has_id": 770
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "بوعثمن حیرب",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اصحاب",
+        "full_text": "از اصحاب بوعثمن حیرب است",
+        "person_id": 932,
+        "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+        "has_id": 419
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "بوعمر",
+      "relationship_type": "narrator",
+      "full_text": "بوعمر و نجید٭ گوید",
+      "person_id": 988,
+      "canonical_name": "أبو عمر",
+      "has_id": NaN
+    },
+    {
+      "name": "نجید٭",
+      "relationship_type": "narrator",
+      "full_text": "بوعمر و نجید٭ گوید",
+      "person_id": 2578,
+      "canonical_name": "نجيد",
+      "has_id": NaN
+    },
+    {
+      "name": "بوعثمان",
+      "relationship_type": "interlocutor",
+      "context": "respondent",
+      "full_text": "احمد بن سری از بوعثمان پرسید: کی سماع چیست؟ گفت:",
+      "person_id": 932,
+      "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+      "has_id": 419
+    }
+  ]
+}

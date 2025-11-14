@@ -1,0 +1,141 @@
+{
+  "bio_id": "51",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "306",
+    "full_text": "در سنه ست و ثلثمائه برفته از دنیا",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "visited",
+      "full_text": "در بغداد جنید دیده و صحبت کرده"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبدالعزیز بحرانی",
+          "person_id": 1814,
+          "canonical_name": "عبد الله بن أحمد بن حنبل",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی عبدالعزیز بحرانی، بکران مجلس بوالعباس سریج شد گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبدالعزیز بحرانی",
+          "person_id": 1814,
+          "canonical_name": "عبد الله بن أحمد بن حنبل",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "گفت: ایها القاضی!کی شوان گو سپندان به بگوشد بعصا؟",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبدالعزیز بحرانی",
+          "person_id": 1814,
+          "canonical_name": "عبد الله بن أحمد بن حنبل",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "گفت آنگه کی داندکی بر وی کی شوان است؟",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالعباس",
+          "person_id": 502,
+          "canonical_name": "أبو العباس بن حكويه الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوالعباس گفت: کی بروزگار.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که آن رقیب دل بودید، و آن عصا نظر بودید و آن شوان که او میگفت مرید بودید.",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "جنید",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده و صحبت کرده",
+        "full_text": "در بغداد جنید دیده و صحبت کرده",
+        "person_id": 550,
+        "canonical_name": "أبو القاسم حنانه",
+        "has_id": NaN
+      },
+      {
+        "name": "جنید٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "پیر ... بودهام و صحبت کردهام",
+        "full_text": "با پیر شما جنید٭ بودهام و صحبت کردهام",
+        "person_id": 550,
+        "canonical_name": "أبو القاسم حنانه",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "بوعبداللّه صوفی کبیر",
+        "relationship_type": "peer",
+        "relationship_phrase": "با",
+        "full_text": "با بوعبداللّه صوفی کبیر.",
+        "person_id": 904,
+        "canonical_name": "أبو عبد الله بن علان",
+        "has_id": 30
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1725,
+      "canonical_name": "عبد الأعلى بن أبي المساور",
+      "has_id": NaN
+    },
+    {
+      "name": "عبدالعزیز بحرانی",
+      "relationship_type": "direct_narrator",
+      "context": "questioner",
+      "full_text": "کی عبدالعزیز بحرانی، بکران مجلس بوالعباس سریج شد گفت",
+      "person_id": 1814,
+      "canonical_name": "عبد الله بن أحمد بن حنبل",
+      "has_id": NaN
+    },
+    {
+      "name": "بوعبداللّه صوفی کبیر",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "با بوعبداللّه صوفی کبیر.",
+      "person_id": 904,
+      "canonical_name": "أبو عبد الله بن علان",
+      "has_id": 30
+    }
+  ]
+}

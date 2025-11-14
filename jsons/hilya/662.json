@@ -1,0 +1,67 @@
+{
+  "bio_id": "662",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "سنديلة",
+      "context": "mentioned",
+      "full_text": "سنديلة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "والدي",
+          "person_id": 2615,
+          "canonical_name": "والدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن يحيى بن منده",
+          "person_id": 2471,
+          "canonical_name": "محمد بن يحيى بن منده",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن داود",
+          "person_id": 1824,
+          "canonical_name": "عبد الله بن داود",
+          "has_id": 662,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت والدي يحكي عن محمد بن يحيى بن منده أنه سمع عبد الله بن داود يقول:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "الحسين بن حفص",
+        "relationship_type": "student_of",
+        "relationship_phrase": "يحدث عن",
+        "full_text": "يحدث عن الحسين بن حفص.",
+        "person_id": 113,
+        "canonical_name": "الحسين بن حفص",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "محمد بن يحيى بن منده",
+      "relationship_type": "narrator",
+      "full_text": "يحكي عن محمد بن يحيى بن منده أنه سمع عبد الله بن داود يقول",
+      "person_id": 2471,
+      "canonical_name": "محمد بن يحيى بن منده",
+      "has_id": NaN
+    }
+  ]
+}

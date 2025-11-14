@@ -1,0 +1,122 @@
+{
+  "bio_id": "251",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "328",
+    "full_text": "و آنجا برفته در سنه ثمان و عشرین و ثلثمائه.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "نیشاپور",
+      "context": "nisba",
+      "full_text": "نشاپوریست"
+    },
+    {
+      "place": "محلهٔ حیره",
+      "context": "lived",
+      "full_text": "از محلهٔ حیره ببغداد بود"
+    },
+    {
+      "place": "بغداد",
+      "context": "lived",
+      "full_text": "از محلهٔ حیره ببغداد بود"
+    },
+    {
+      "place": "مسجد شو نیزیه",
+      "context": "lived",
+      "full_text": "مرتعش در مسجد شو نیزیه بوده بود"
+    },
+    {
+      "place": "بغداد",
+      "context": "lived",
+      "full_text": "مقیم در بغداد"
+    },
+    {
+      "place": "بغداد",
+      "context": "died",
+      "full_text": "و آنجا برفته"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "مرتعش",
+          "person_id": 1043,
+          "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
+          "has_id": 251,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که مرتعش گفت امام ظرف:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مرتعش",
+          "person_id": 1043,
+          "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
+          "has_id": 251,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال المرتعش:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "جنید٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "را دیده",
+        "full_text": "و جنید٭ را دیده",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "باحفص",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اصحاب",
+        "full_text": "از اصحاب باحفص بود",
+        "person_id": 759,
+        "canonical_name": "أبو حفص الحداد النيسابوري",
+        "has_id": 715
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت: که مرتعش گفت امام ظرف:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شبلی٭",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "عجایب عراق سه ایذ زعقه «به معنی فریاد، صیحه» شبلی٭",
+      "person_id": 628,
+      "canonical_name": "أبو بكر الشبلي",
+      "has_id": 376
+    },
+    {
+      "name": "جعفر خلدی",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "و حکایات جعفر خلدی.",
+      "person_id": 1405,
+      "canonical_name": "جعفر بن محمد الخلدي",
+      "has_id": 495
+    }
+  ]
+}

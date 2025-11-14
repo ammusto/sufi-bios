@@ -1,0 +1,1020 @@
+{
+  "bio_id": "661",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "أنطاكية",
+      "context": "lived",
+      "full_text": "سكن من الثغور أنطاكية."
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو يعلى الحسين بن محمد بن الحسين الزبيري",
+          "person_id": 1143,
+          "canonical_name": "أبو يعلى الحسين بن محمد بن الحسين الزبيري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن المسيب الأرغياني",
+          "person_id": 2261,
+          "canonical_name": "محمد بن المسيب الأرغياني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن خبيق بن سابق",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو يعلى الحسين بن محمد بن الحسين الزبيري ثنا محمد بن المسيب الأرغياني ثنا عبد الله بن خبيق بن سابق.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو يعلى الحسين بن محمد بن المسيب",
+          "person_id": 1144,
+          "canonical_name": "أبو يعلى الحسين بن محمد بن المسيب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن خبيق",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو يعلى الحسين بن محمد بن المسيب ثنا عبد الله بن خبيق",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الحسين",
+          "person_id": 105,
+          "canonical_name": "الحسين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد",
+          "person_id": 2214,
+          "canonical_name": "محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا الحسين ثنا محمد ثنا عبد الله",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الحسين",
+          "person_id": 105,
+          "canonical_name": "الحسين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد",
+          "person_id": 2214,
+          "canonical_name": "محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و به قال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "الحسين",
+          "person_id": 105,
+          "canonical_name": "الحسين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد",
+          "person_id": 2214,
+          "canonical_name": "محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا الحسين ثنا محمد ثنا عبد الله",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الحسين",
+          "person_id": 105,
+          "canonical_name": "الحسين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد",
+          "person_id": 2214,
+          "canonical_name": "محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا الحسين ثنا محمد ثنا عبد الله",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن علي بن الخليل",
+          "person_id": 2415,
+          "canonical_name": "محمد بن علي بن الخليل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن جعفر بن سوار",
+          "person_id": 2333,
+          "canonical_name": "محمد بن جعفر بن سوار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن خبيق",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن الحسين بن موسى قال سمعت محمد بن علي بن الخليل يقول سمعت محمد بن جعفر بن سوار يقول سمعت عبد الله بن خبيق يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد بن عثمان الواسطي",
+          "person_id": 1874,
+          "canonical_name": "عبد الله بن محمد بن عثمان الواسطي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر بن عبد الله الهجري",
+          "person_id": 762,
+          "canonical_name": "أبو حفص عمر بن عبد الله بن عمر البحراني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن خبيق",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد بن عثمان الواسطي ثنا عمر بن عبد الله الهجري قال سمعت عبد الله بن خبيق يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن محمد بن الحسن",
+          "person_id": 325,
+          "canonical_name": "إبراهيم بن محمد بن الحسن النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن خبيق",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        },
+        {
+          "name": "موسى بن طريف",
+          "person_id": 2561,
+          "canonical_name": "موسى بن طريف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن أسباط",
+          "person_id": 2677,
+          "canonical_name": "يوسف بن أسباط",
+          "has_id": 846,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا إبراهيم بن محمد بن الحسن ثنا عبد الله بن خبيق قال حدثني موسى بن طريف قال لي سمعت يوسف بن أسباط يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم",
+          "person_id": 325,
+          "canonical_name": "إبراهيم بن محمد بن الحسن النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن أسباط",
+          "person_id": 2677,
+          "canonical_name": "يوسف بن أسباط",
+          "has_id": 846,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا إبراهيم ثنا عبد الله قال قال لي يوسف بن أسباط:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم",
+          "person_id": 325,
+          "canonical_name": "إبراهيم بن محمد بن الحسن النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن أسباط",
+          "person_id": 2677,
+          "canonical_name": "يوسف بن أسباط",
+          "has_id": 846,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا إبراهيم ثنا عبد الله قال قال لي يوسف بن أسباط:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن جابر الطرسوسي",
+          "person_id": 1821,
+          "canonical_name": "عبد الله بن جابر الطرسوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن خبيق",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن أسباط",
+          "person_id": 2677,
+          "canonical_name": "يوسف بن أسباط",
+          "has_id": 846,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن إبراهيم ثنا عبد الله بن جابر الطرسوسي ثنا عبد الله بن خبيق قال سمعت يوسف بن أسباط يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد",
+          "person_id": 2214,
+          "canonical_name": "محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن خبيق",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد ثنا عبد الله ثنا عبد الله بن خبيق",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر بن عبد الله بن عمر الهجري",
+          "person_id": 762,
+          "canonical_name": "أبو حفص عمر بن عبد الله بن عمر البحراني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله ابن خبيق",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن أسباط",
+          "person_id": 2677,
+          "canonical_name": "يوسف بن أسباط",
+          "has_id": 846,
+          "subj_added": false
+        },
+        {
+          "name": "سفيان الثوري",
+          "person_id": 1607,
+          "canonical_name": "سفيان الثوري",
+          "has_id": 598,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن جحادة",
+          "person_id": 2329,
+          "canonical_name": "محمد بن جحادة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "قتادة",
+          "person_id": 2176,
+          "canonical_name": "قتادة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أنس",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا عمر بن عبد الله بن عمر الهجري - بالأبلة - ثنا عبد الله ابن خبيق ثنا يوسف بن أسباط عن سفيان الثوري عن محمد بن جحادة عن قتادة عن أنس",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن علي بن حبيش",
+          "person_id": 465,
+          "canonical_name": "أبو الحسين محمد بن علي بن حبيش المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن موسى بن عبد الله المروزي",
+          "person_id": 2683,
+          "canonical_name": "يوسف بن موسى بن عبد الله المروزي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن خبيق",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن أسباط",
+          "person_id": 2677,
+          "canonical_name": "يوسف بن أسباط",
+          "has_id": 846,
+          "subj_added": false
+        },
+        {
+          "name": "حبيب بن حسان",
+          "person_id": 1433,
+          "canonical_name": "حبيب بن حسان بن إبراهيم التيمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زيد بن وهب",
+          "person_id": 1577,
+          "canonical_name": "زيد بن وهب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مسعود",
+          "person_id": 1880,
+          "canonical_name": "عبد الله بن مسعود",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن علي بن حبيش ثنا يوسف بن موسى بن عبد الله المروزي ثنا عبد الله بن خبيق ثنا يوسف بن أسباط عن حبيب بن حسان عن زيد بن وهب عن عبد الله بن مسعود قال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إبراهيم بن محمد النيسابوري",
+          "person_id": 325,
+          "canonical_name": "إبراهيم بن محمد بن الحسن النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن المسيب",
+          "person_id": 2261,
+          "canonical_name": "محمد بن المسيب الأرغياني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن خبيق",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن أسباط",
+          "person_id": 2677,
+          "canonical_name": "يوسف بن أسباط",
+          "has_id": 846,
+          "subj_added": false
+        },
+        {
+          "name": "حبيب بن حسان بن إبراهيم التيمي",
+          "person_id": 1433,
+          "canonical_name": "حبيب بن حسان بن إبراهيم التيمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبيه",
+          "person_id": 1149,
+          "canonical_name": "أبوه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو ذر",
+          "person_id": 777,
+          "canonical_name": "أبو ذر",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إبراهيم بن محمد النيسابوري ثنا محمد بن المسيب ثنا عبد الله بن خبيق ثنا يوسف بن أسباط عن حبيب بن حسان بن إبراهيم التيمي عن أبيه عن أبي ذر.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن محمد بن الحسن",
+          "person_id": 325,
+          "canonical_name": "إبراهيم بن محمد بن الحسن النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن خبيق",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        },
+        {
+          "name": "الهيثم بن جميل",
+          "person_id": 253,
+          "canonical_name": "الهيثم بن جميل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مبارك بن فضالة",
+          "person_id": 2206,
+          "canonical_name": "مبارك بن فضالة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن",
+          "person_id": 75,
+          "canonical_name": "الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "النعمان بن بشير",
+          "person_id": 248,
+          "canonical_name": "النعمان بن بشير",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا إبراهيم بن محمد بن الحسن ثنا عبد الله بن خبيق ثنا الهيثم بن جميل عن مبارك بن فضالة عن الحسن عن النعمان بن بشير قال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو يعلى الحسين بن محمد الزبيري",
+          "person_id": 1143,
+          "canonical_name": "أبو يعلى الحسين بن محمد بن الحسين الزبيري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن المسيب",
+          "person_id": 2261,
+          "canonical_name": "محمد بن المسيب الأرغياني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله ابن خبيق",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        },
+        {
+          "name": "الهيثم بن جميل",
+          "person_id": 253,
+          "canonical_name": "الهيثم بن جميل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مبارك بن فضالة",
+          "person_id": 2206,
+          "canonical_name": "مبارك بن فضالة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن",
+          "person_id": 75,
+          "canonical_name": "الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أنس",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو يعلى الحسين بن محمد الزبيري ثنا محمد بن المسيب ثنا عبد الله ابن خبيق ثنا الهيثم بن جميل ثنا مبارك بن فضالة عن الحسن عن أنس.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو يعلى",
+          "person_id": 1143,
+          "canonical_name": "أبو يعلى الحسين بن محمد بن الحسين الزبيري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد",
+          "person_id": 2214,
+          "canonical_name": "محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن خبيق",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن أسباط",
+          "person_id": 2677,
+          "canonical_name": "يوسف بن أسباط",
+          "has_id": 846,
+          "subj_added": false
+        },
+        {
+          "name": "ابن أبي ذيب",
+          "has_id": NaN,
+          "person_id": 96,
+          "canonical_name": "الحسن بن علي بن خلف البربهاري",
+          "subj_added": false
+        },
+        {
+          "name": "القاسم",
+          "person_id": 202,
+          "canonical_name": "القاسم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بكير بن عبد الله بن الأشج",
+          "person_id": 1358,
+          "canonical_name": "بكير بن عبد الله بن الأشج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مكرز",
+          "person_id": 2530,
+          "canonical_name": "مكرز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو هريرة",
+          "person_id": 1120,
+          "canonical_name": "أبو هريرة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو يعلى ثنا محمد ثنا عبد الله بن خبيق ثنا يوسف بن أسباط عن ابن أبي ذيب عن القاسم عن بكير بن عبد الله بن الأشج عن مكرز - رجل من أهل الشام من بني عامر بن لؤي - عن أبي هريرة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو يعلى",
+          "person_id": 1143,
+          "canonical_name": "أبو يعلى الحسين بن محمد بن الحسين الزبيري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد",
+          "person_id": 2214,
+          "canonical_name": "محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن أسباط",
+          "person_id": 2677,
+          "canonical_name": "يوسف بن أسباط",
+          "has_id": 846,
+          "subj_added": false
+        },
+        {
+          "name": "سفيان الثوري",
+          "person_id": 1607,
+          "canonical_name": "سفيان الثوري",
+          "has_id": 598,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1404,
+          "canonical_name": "جعفر بن محمد",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أبيه",
+          "person_id": 1149,
+          "canonical_name": "أبوه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن الحسين",
+          "person_id": 1998,
+          "canonical_name": "علي بن الحسين",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو يعلى ثنا محمد ثنا عبد الله ثنا يوسف بن أسباط عن سفيان الثوري عن جعفر بن محمد عن أبيه عن علي بن الحسين",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد بن جعفر",
+          "person_id": 1868,
+          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الطيب أحمد بن روح",
+          "person_id": 482,
+          "canonical_name": "أبو الطيب أحمد بن روح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله ابن خبيق",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن عبد الرحمن",
+          "person_id": 1598,
+          "canonical_name": "سعيد بن عبد الرحمن",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد بن جعفر ثنا أبو الطيب أحمد بن روح ثنا عبد الله ابن خبيق ثنا سعيد بن عبد الرحمن",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حذيفة المرعشي",
+          "person_id": 1441,
+          "canonical_name": "حذيفة المرعشي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال قال لي حذيفة المرعشي: كيف تفلح والدنيا أحب إليك من أحب الناس إليك؟",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "يوسف بن أسباط",
+        "relationship_type": "student_of",
+        "relationship_phrase": "تخرج على",
+        "full_text": "تخرج على يوسف بن أسباط",
+        "person_id": 2677,
+        "canonical_name": "يوسف بن أسباط",
+        "has_id": 846
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "محمد بن المسيب الأرغياني",
+      "relationship_type": "narrator",
+      "full_text": "ثنا محمد بن المسيب الأرغياني ثنا عبد الله بن خبيق بن سابق.",
+      "person_id": 2261,
+      "canonical_name": "محمد بن المسيب الأرغياني",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو يعلى الحسين بن محمد بن المسيب",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا أبو يعلى الحسين بن محمد بن المسيب ثنا عبد الله بن خبيق",
+      "person_id": 1144,
+      "canonical_name": "أبو يعلى الحسين بن محمد بن المسيب",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد",
+      "relationship_type": "narrator",
+      "full_text": "ثنا محمد ثنا عبد الله.",
+      "person_id": 2214,
+      "canonical_name": "محمد",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الله",
+      "relationship_type": "narrator",
+      "full_text": "ثنا عبد الله ثنا عبد الله بن خبيق.",
+      "person_id": 1057,
+      "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+      "has_id": 661
+    },
+    {
+      "name": "عبد الله بن جابر الطرسوسي",
+      "relationship_type": "narrator",
+      "full_text": "ثنا عبد الله بن جابر الطرسوسي ثنا عبد الله بن خبيق",
+      "person_id": 1821,
+      "canonical_name": "عبد الله بن جابر الطرسوسي",
+      "has_id": NaN
+    },
+    {
+      "name": "عمر بن عبد الله بن عمر الهجري",
+      "relationship_type": "narrator",
+      "full_text": "ثنا عمر بن عبد الله بن عمر الهجري - بالأبلة - ثنا عبد الله ابن خبيق",
+      "person_id": 762,
+      "canonical_name": "أبو حفص عمر بن عبد الله بن عمر البحراني",
+      "has_id": NaN
+    },
+    {
+      "name": "يوسف بن موسى بن عبد الله المروزي",
+      "relationship_type": "narrator",
+      "full_text": "ثنا يوسف بن موسى بن عبد الله المروزي ثنا عبد الله بن خبيق",
+      "person_id": 2683,
+      "canonical_name": "يوسف بن موسى بن عبد الله المروزي",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن المسيب",
+      "relationship_type": "narrator",
+      "full_text": "ثنا محمد بن المسيب ثنا عبد الله بن خبيق",
+      "person_id": 2261,
+      "canonical_name": "محمد بن المسيب الأرغياني",
+      "has_id": NaN
+    },
+    {
+      "name": "إبراهيم بن محمد بن الحسن",
+      "relationship_type": "narrator",
+      "full_text": "ثنا إبراهيم بن محمد بن الحسن ثنا عبد الله بن خبيق",
+      "person_id": 325,
+      "canonical_name": "إبراهيم بن محمد بن الحسن النيسابوري",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن جعفر بن سوار",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن جعفر بن سوار يقول سمعت عبد الله بن خبيق يقول:",
+      "person_id": 2333,
+      "canonical_name": "محمد بن جعفر بن سوار",
+      "has_id": NaN
+    },
+    {
+      "name": "عمر بن عبد الله الهجري",
+      "relationship_type": "narrator",
+      "full_text": "ثنا عمر بن عبد الله الهجري قال سمعت عبد الله بن خبيق يقول:",
+      "person_id": 762,
+      "canonical_name": "أبو حفص عمر بن عبد الله بن عمر البحراني",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو الطيب أحمد بن روح",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أبو الطيب أحمد بن روح ثنا عبد الله ابن خبيق",
+      "person_id": 482,
+      "canonical_name": "أبو الطيب أحمد بن روح",
+      "has_id": NaN
+    },
+    {
+      "name": "يوسف بن أسباط",
+      "relationship_type": "interlocutor",
+      "context": "advice",
+      "full_text": "قال قال لي يوسف بن أسباط: إياك أن تكون من قراء السوق.",
+      "person_id": 2677,
+      "canonical_name": "يوسف بن أسباط",
+      "has_id": 846
+    },
+    {
+      "name": "حذيفة المرعشي",
+      "relationship_type": "interlocutor",
+      "context": "advice",
+      "full_text": "قال قال لي حذيفة المرعشي: كيف تفلح والدنيا أحب إليك من أحب الناس إليك؟",
+      "person_id": 1441,
+      "canonical_name": "حذيفة المرعشي",
+      "has_id": NaN
+    }
+  ]
+}

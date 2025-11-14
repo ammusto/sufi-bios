@@ -1,0 +1,82 @@
+{
+  "bio_id": "203",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "~207",
+    "full_text": "در روزگار سنه سبع و مائتین برفته، یا پس آن باندک.",
+    "certainty": "approximate"
+  },
+  "geographical_locations": [
+    {
+      "place": "بصره",
+      "context": "lived",
+      "full_text": "ببصره بود"
+    },
+    {
+      "place": "مسجد شونیزیه",
+      "context": "lived",
+      "full_text": "اندر مسجد شونیزیه بوده"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "جنید",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و جنید گوید:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "ابو حاتم عطار",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "بابو حاتم عطار صحبت کرده",
+        "person_id": 751,
+        "canonical_name": "أبو حاتم العطّار البصري",
+        "has_id": 109
+      }
+    ],
+    "students": [
+      {
+        "name": "ابویعقوب زیادت",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "استاد",
+        "full_text": "استاد ابویعقوب زیادت",
+        "person_id": 1135,
+        "canonical_name": "أبو يعقوب الزيات",
+        "has_id": 436
+      }
+    ],
+    "companions": [
+      {
+        "name": "بشر حافی",
+        "relationship_type": "peer",
+        "relationship_phrase": "از یاران",
+        "full_text": "احمدبن وهب الزیادت از یاران بشر حافی بوده",
+        "person_id": 1323,
+        "canonical_name": "بشر بن الحارث الحافي",
+        "has_id": 470
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "جنید",
+      "relationship_type": "narrator",
+      "full_text": "و جنید گوید: فقدنا علوم الحقایق بموت احمد بن وهب، و اللّه اعلم.",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "bio_id": "324",
+  "source": "hilya",
+  "death_date": {
+    "year_hijri": "~340",
+    "full_text": "توفى بعد الأربعين.",
+    "certainty": "approximate"
+  },
+  "geographical_locations": [
+    {
+      "place": "تيتان",
+      "context": "nisba",
+      "full_text": "التيتانى"
+    },
+    {
+      "place": "جبل الكام",
+      "context": "visited",
+      "full_text": "بجبل الكام"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن الحسين الرازي",
+          "person_id": 1162,
+          "canonical_name": "أحمد بن الحسين الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الخير",
+          "has_id": NaN,
+          "person_id": 30,
+          "canonical_name": "أبو الخير",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين بن موسى يقول سمعت أحمد بن الحسين الرازي يقول سمعت أبا الخير يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إسماعيل ابن نجيد",
+          "person_id": 1015,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+          "has_id": 176,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قال وسمعت جدى إسماعيل ابن نجيد يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا الفضل أحمد بن أبي عمران الهروي",
+          "person_id": 523,
+          "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الخير الأقطع",
+          "has_id": NaN,
+          "person_id": 31,
+          "canonical_name": "ابن فراس",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الفضل أحمد بن أبي عمران الهروي يقول سمعت منصور بن عبد الله يقول سمعت أبا الخير الأقطع يقول:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أحمد بن الحسين الرازي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أحمد بن الحسين الرازي يقول",
+      "person_id": 1162,
+      "canonical_name": "أحمد بن الحسين الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "إسماعيل ابن نجيد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت جدى إسماعيل ابن نجيد يقول",
+      "person_id": 1015,
+      "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+      "has_id": 176
+    },
+    {
+      "name": "منصور بن عبد الله",
+      "relationship_type": "narrator",
+      "full_text": "سمعت منصور بن عبد الله يقول",
+      "person_id": 2548,
+      "canonical_name": "منصور بن عبد الله الإصفهاني",
+      "has_id": NaN
+    },
+    {
+      "name": "جماعة من البغداديين",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "دخل على أبي الخير جماعة من البغداديين يتكلمون بشطحهم بحضرته",
+      "person_id": 1413,
+      "canonical_name": "جماعة من البغداديين",
+      "has_id": NaN
+    }
+  ]
+}

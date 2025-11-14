@@ -1,0 +1,69 @@
+{
+  "bio_id": "275",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "lived",
+      "full_text": "از اهل بغداد"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [
+      {
+        "name": "بوالحارث اولاسی",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "استاد",
+        "full_text": "ابن ابراهیم بن سعد استاد بوالحارث اولاسی است، سید بوده از مشایخ.",
+        "person_id": 389,
+        "canonical_name": "أبو الحارث الأولاسي",
+        "has_id": 290
+      }
+    ],
+    "companions": [
+      {
+        "name": "ابراهیم ادهم",
+        "relationship_type": "peer",
+        "relationship_phrase": "نظیر",
+        "full_text": "صاحب کرامات ظاهر، نظیر ابراهیم ادهم.",
+        "person_id": 301,
+        "canonical_name": "إبراهيم بن أدهم",
+        "has_id": 274
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "بوالحارث اولاسی",
+      "relationship_type": "interlocutor",
+      "full_text": "و بوالحارث گفت: دست بیاور!",
+      "person_id": 389,
+      "canonical_name": "أبو الحارث الأولاسي",
+      "has_id": 290
+    }
+  ]
+}

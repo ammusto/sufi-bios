@@ -1,0 +1,220 @@
+{
+  "bio_id": "832",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو بكر محمد بن أحمد المعدل",
+          "person_id": 695,
+          "canonical_name": "أبو بكر محمد بن أحمد المعدل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن عمر",
+          "person_id": 1259,
+          "canonical_name": "أحمد بن محمد بن عمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسحاق\nابن سفيان",
+          "person_id": 336,
+          "canonical_name": "إسحاق ابن سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "نصر بن الحريش الصامت",
+          "person_id": 2580,
+          "canonical_name": "نصر بن الحريش الصامت",
+          "has_id": 832,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو بكر محمد بن أحمد المعدل ثنا أحمد بن محمد بن عمر ثنا إسحاق\nابن سفيان ثنا نصر بن الحريش الصامت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد بن الحسن",
+          "person_id": 2302,
+          "canonical_name": "محمد بن أحمد بن الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن بن علي بن الوليد الفسوي",
+          "person_id": 95,
+          "canonical_name": "الحسن بن علي بن الوليد الفسوي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "نصر بن الحريش الصامت",
+          "person_id": 2580,
+          "canonical_name": "نصر بن الحريش الصامت",
+          "has_id": 832,
+          "subj_added": false
+        },
+        {
+          "name": "المشمعل بن ملحان",
+          "person_id": 235,
+          "canonical_name": "المشمعل بن ملحان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن بن دينار",
+          "person_id": 83,
+          "canonical_name": "ابن كاسب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أيوب",
+          "person_id": 1313,
+          "canonical_name": "أيوب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو قلابة",
+          "person_id": 1029,
+          "canonical_name": "أبو قلابة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عائشة",
+          "person_id": 1710,
+          "canonical_name": "عائشة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن أحمد بن الحسن ثنا الحسن بن علي بن الوليد الفسوي ثنا نصر بن الحريش الصامت ثنا المشمعل بن ملحان عن الحسن بن دينار عن أيوب عن أبي قلابة عن عائشة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو بكر محمد بن أحمد",
+          "person_id": 695,
+          "canonical_name": "أبو بكر محمد بن أحمد المعدل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسن بن أبان",
+          "person_id": 417,
+          "canonical_name": "أبو الحسن بن أبان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسحاق بن سنين",
+          "person_id": 350,
+          "canonical_name": "إسحاق بن سنين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "نصر بن الحريش الصامت",
+          "person_id": 2580,
+          "canonical_name": "نصر بن الحريش الصامت",
+          "has_id": 832,
+          "subj_added": false
+        },
+        {
+          "name": "المشمعل بن ملحان",
+          "person_id": 235,
+          "canonical_name": "المشمعل بن ملحان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سويد بن عمر",
+          "person_id": 1653,
+          "canonical_name": "سويد بن عمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سالم الأفطس",
+          "person_id": 1581,
+          "canonical_name": "سالم الأفطس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن جبير",
+          "person_id": 1596,
+          "canonical_name": "سعيد بن جبير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عمر",
+          "has_id": NaN,
+          "person_id": 28,
+          "canonical_name": "ابن عمر",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو بكر محمد بن أحمد ثنا أبو الحسن بن أبان ثنا إسحاق بن سنين ثنا نصر بن الحريش الصامت ثنا المشمعل بن ملحان عن سويد بن عمر عن سالم الأفطس عن سعيد بن جبير عن ابن عمر",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "المشمعل بن ملحان",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا نصر بن الحريش الصامت ثنا المشمعل بن ملحان",
+        "person_id": 235,
+        "canonical_name": "المشمعل بن ملحان",
+        "has_id": NaN
+      }
+    ],
+    "students": [
+      {
+        "name": "إسحاق\nابن سفيان",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا إسحاق\nابن سفيان ثنا نصر بن الحريش الصامت",
+        "person_id": 336,
+        "canonical_name": "إسحاق ابن سفيان",
+        "has_id": NaN
+      },
+      {
+        "name": "الحسن بن علي بن الوليد الفسوي",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا الحسن بن علي بن الوليد الفسوي ثنا نصر بن الحريش الصامت",
+        "person_id": 95,
+        "canonical_name": "الحسن بن علي بن الوليد الفسوي",
+        "has_id": NaN
+      },
+      {
+        "name": "إسحاق بن سنين",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا إسحاق بن سنين ثنا نصر بن الحريش الصامت",
+        "person_id": 350,
+        "canonical_name": "إسحاق بن سنين",
+        "has_id": NaN
+      }
+    ],
+    "companions": []
+  },
+  "associates": []
+}

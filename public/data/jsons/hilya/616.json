@@ -1,0 +1,74 @@
+{
+  "bio_id": "616",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2272,
+          "canonical_name": "محمد بن إبراهيم بن أبان السراج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الواحد بن أحمد",
+          "person_id": 1904,
+          "canonical_name": "عبد الواحد بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الفرج بن بكر",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد العزيز بن أحمد",
+          "person_id": 1772,
+          "canonical_name": "عبد العزيز بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو موسى الطويل البصري",
+          "person_id": 1089,
+          "canonical_name": "أبو موسى الطويل البصري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن إبراهيم ثنا عبد الواحد بن أحمد ثنا أبو الفرج بن بكر عن عبد العزيز بن أحمد عن أبي موسى الطويل البصري.",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبو موسى الطويل البصري",
+      "relationship_type": "narrator",
+      "full_text": "عن أبي موسى الطويل البصري",
+      "person_id": 1089,
+      "canonical_name": "أبو موسى الطويل البصري",
+      "has_id": NaN
+    },
+    {
+      "name": "امرأة شبل",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "زوجة",
+      "full_text": "وقع في حجر امرأة شبل",
+      "person_id": 263,
+      "canonical_name": "امرأة شبل",
+      "has_id": NaN
+    }
+  ]
+}

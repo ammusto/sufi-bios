@@ -1,0 +1,598 @@
+{
+  "bio_id": "25",
+  "source": "sulami",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "سعيد بن الْقَاسِم بن الْعَلَاء البرذعي",
+          "person_id": 1019,
+          "canonical_name": "أبو عمرو سعيد بن القاسم بن العلاء البرذعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو طَلْحَة أَحْمد ابْن مُحَمَّد بن عبد الْكَرِيم الْقَارئ بِالْبَصْرَةِ",
+          "person_id": 837,
+          "canonical_name": "أبو طلحة أحمد بن محمد بن عبد الكريم القارئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أبي الْورْد",
+          "person_id": 2287,
+          "canonical_name": "محمد بن أبي الورد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بشر بن الْحَارِث",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": false
+        },
+        {
+          "name": "الْمعَافى بن عمرَان",
+          "person_id": 238,
+          "canonical_name": "المعافى بن عمران",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِسْرَائِيل",
+          "person_id": 356,
+          "canonical_name": "إسرائيل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُسلم",
+          "person_id": 2502,
+          "canonical_name": "مسلم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حَبَّة",
+          "person_id": 1429,
+          "canonical_name": "حبّة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن أبي طَالب",
+          "person_id": 2014,
+          "canonical_name": "علي بن أبي طالب",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا سعيد بن الْقَاسِم بن الْعَلَاء البرذعي قَالَ حَدثنَا أَبُو طَلْحَة أَحْمد ابْن مُحَمَّد بن عبد الْكَرِيم الْقَارئ بِالْبَصْرَةِ قَالَ سَمِعت مُحَمَّد بن أبي الْورْد قَالَ سَمِعت بشر بن الْحَارِث يَقُول حَدثنَا الْمعَافى بن عمرَان عَن إِسْرَائِيل عَن مُسلم عَن حَبَّة عَن عَليّ بن أبي طَالب",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفرج الورثاني عبد الْوَاحِد بن بكر",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْعَبَّاس الدِّمَشْقِي",
+          "person_id": 487,
+          "canonical_name": "أبو العباس الدمشقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أبي الْورْد",
+          "person_id": 2287,
+          "canonical_name": "محمد بن أبي الورد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1178,
+          "canonical_name": "أحمد بن أبي الورد",
+          "has_id": 25,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْفرج الورثاني عبد الْوَاحِد بن بكر يَقُول سَمِعت أَبَا الْعَبَّاس الدِّمَشْقِي يَقُول سَمِعت الْجُنَيْد يَقُول سَمِعت مُحَمَّد بن أبي الْورْد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا الْخُلْدِيِّ",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد ابْن أبي الْورْد",
+          "person_id": 1178,
+          "canonical_name": "أحمد بن أبي الورد",
+          "has_id": 25,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول سَمِعت جعفرا الْخُلْدِيِّ يَقُول قَالَ أَحْمد ابْن أبي الْورْد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا الْخُلْدِيِّ",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد ابْن أبي الْورْد",
+          "person_id": 1178,
+          "canonical_name": "أحمد بن أبي الورد",
+          "has_id": 25,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد سَمِعت أَحْمد بن أبي الْورْد يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا الْخُلْدِيِّ",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد ابْن أبي الْورْد",
+          "person_id": 1178,
+          "canonical_name": "أحمد بن أبي الورد",
+          "has_id": 25,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد سَمِعت مُحَمَّד بن أبي الْورْد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا الْخُلْدِيِّ",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد ابْن أبي الْورْد",
+          "person_id": 1178,
+          "canonical_name": "أحمد بن أبي الورد",
+          "has_id": 25,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ مُحَمَّد بن أبي الْورْد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا الْخُلْدِيِّ",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد ابْن أبي الْورْد",
+          "person_id": 1178,
+          "canonical_name": "أحمد بن أبي الورد",
+          "has_id": 25,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد سَمِعت أَحْمد بن أبي الْورْد يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا الْخُلْدِيِّ",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد ابْن أبي الْورْد",
+          "person_id": 1178,
+          "canonical_name": "أحمد بن أبي الورد",
+          "has_id": 25,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد سَمِعت مُحَمَّد بن أبي الْورْد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا الْخُلْدِيِّ",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد ابْن أبي الْورْد",
+          "person_id": 1178,
+          "canonical_name": "أحمد بن أبي الورد",
+          "has_id": 25,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد سَمِعت أَحْمد بن أبي الْورْد يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا الْخُلْدِيِّ",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد ابْن أبي الْورْد",
+          "person_id": 1178,
+          "canonical_name": "أحمد بن أبي الورد",
+          "has_id": 25,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد سَمِعت مُحَمَّد بن أبي الْورْد يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا الْخُلْدِيِّ",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد ابْن أبي الْورْد",
+          "person_id": 1178,
+          "canonical_name": "أحمد بن أبي الورد",
+          "has_id": 25,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد سَمِعت بن أبي الْورْد يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن أَحْمد بن وَاصل",
+          "person_id": 2023,
+          "canonical_name": "علي بن أحمد بن واصل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الْخَالِق بن الْحسن الْبَغَوِيّ",
+          "person_id": 1731,
+          "canonical_name": "عبد الخالق بن الحسن البغوي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن هَارُون الْهَاشِمِي",
+          "person_id": 2464,
+          "canonical_name": "محمد بن هارون الهاشمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أبي الْورْد",
+          "person_id": 2287,
+          "canonical_name": "محمد بن أبي الورد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بشر بن الْحَارِث",
+          "person_id": 1323,
+          "canonical_name": "بشر بن الحارث الحافي",
+          "has_id": 470,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1178,
+          "canonical_name": "أحمد بن أبي الورد",
+          "has_id": 25,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا عَليّ بن أَحْمد بن وَاصل قَالَ حَدثنَا عبد الْخَالِق بن الْحسن الْبَغَوِيّ قَالَ حَدثنَا مُحَمَّد بن هَارُون الْهَاشِمِي قَالَ حَدثنَا مُحَمَّد بن أبي الْورْد قَالَ سَمِعت بشر بن الْحَارِث",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عِيسَى",
+          "person_id": 2143,
+          "canonical_name": "عيسى بن يونس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن عرَاك بن مَالك",
+          "person_id": 1846,
+          "canonical_name": "عبد الله بن عراك بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبِيه",
+          "person_id": 1149,
+          "canonical_name": "أبوه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي هُرَيْرَة ﵁",
+          "person_id": 1120,
+          "canonical_name": "أبو هريرة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1178,
+          "canonical_name": "أحمد بن أبي الورد",
+          "has_id": 25,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "فَقَالَ عِيسَى نعم حَدثنَا عبد الله بن عرَاك بن مَالك عَن أَبِيه عَن أبي هُرَيْرَة ﵁",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عِيسَى",
+          "person_id": 2143,
+          "canonical_name": "عيسى بن يونس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَمْرو بن عبيد الْمُحدث المذموم",
+          "person_id": 2125,
+          "canonical_name": "عمرو بن عبيد المحدث المذموم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن",
+          "person_id": 75,
+          "canonical_name": "الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَائِشَة",
+          "person_id": 1710,
+          "canonical_name": "عائشة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1178,
+          "canonical_name": "أحمد بن أبي الورد",
+          "has_id": 25,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "ثمَّ قَالَ عِيسَى وَحدثنَا عَمْرو بن عبيد الْمُحدث المذموم عَن الْحسن عَن عَائِشَة",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "الْجُنَيْد",
+        "relationship_type": "peer",
+        "relationship_phrase": "من جلساء",
+        "full_text": "وَكَانَا من جلساء الْجُنَيْد وأقرانه",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "سريا السَّقطِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحبا",
+        "full_text": "صحبا سريا السَّقطِي وَأَبا الْفَتْح الْحمال وحارثا المحاسبي وبشرا الحافي",
+        "person_id": 161,
+        "canonical_name": "السري السقطي",
+        "has_id": 236
+      },
+      {
+        "name": "أَبا الْفَتْح الْحمال",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحبا",
+        "full_text": "صحبا سريا السَّقطِي وَأَبا الْفَتْح الْحمال وحارثا المحاسبي وبشرا الحافي",
+        "person_id": 512,
+        "canonical_name": "أبو الفتح الحمال",
+        "has_id": NaN
+      },
+      {
+        "name": "حارثا المحاسبي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحبا",
+        "full_text": "صحبا سريا السَّقطِي وَأَبا الْفَتْح الْحمال وحارثا المحاسبي وبشرا الحافي",
+        "person_id": 69,
+        "canonical_name": "الحارث بن أسد المحاسبي",
+        "has_id": 229
+      },
+      {
+        "name": "بشرا الحافي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحبا",
+        "full_text": "صحبا سريا السَّقطِي وَأَبا الْفَتْح الْحمال وحارثا المحاسبي وبشرا الحافي",
+        "person_id": 1323,
+        "canonical_name": "بشر بن الحارث الحافي",
+        "has_id": 470
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَبُو طَلْحَة أَحْمد ابْن مُحَمَّد بن عبد الْكَرِيم الْقَارئ بِالْبَصْرَةِ",
+      "relationship_type": "narrator",
+      "full_text": "حَدثنَا أَبُو طَلْحَة أَحْمد ابْن مُحَمَّد بن عبد الْكَرِيم الْقَارئ بِالْبَصْرَةِ قَالَ سَمِعت مُحَمَّد بن أبي الْورْد",
+      "person_id": 837,
+      "canonical_name": "أبو طلحة أحمد بن محمد بن عبد الكريم القارئ",
+      "has_id": NaN
+    },
+    {
+      "name": "الْجُنَيْد",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت الْجُنَيْد يَقُول سَمِعت مُحَمَّد بن أبي الْورْد يَقُول",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    },
+    {
+      "name": "جعفرا الْخُلْدِيِّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت جعفرا الْخُلْدِيِّ يَقُول قَالَ أَحْمد ابْن أبي الْورْد",
+      "person_id": 1405,
+      "canonical_name": "جعفر بن محمد الخلدي",
+      "has_id": 495
+    },
+    {
+      "name": "مُحَمَّد بن هَارُون الْهَاشِمِي",
+      "relationship_type": "narrator",
+      "full_text": "حَدثنَا مُحَمَّد بن هَارُون الْهَاشِمِي قَالَ حَدثنَا مُحَمَّد بن أبي الْورْد",
+      "person_id": 2464,
+      "canonical_name": "محمد بن هارون الهاشمي",
+      "has_id": NaN
+    },
+    {
+      "name": "عِيسَى بن يُونُس",
+      "relationship_type": "interlocutor",
+      "full_text": "فَقَالَ لي مَا الَّذِي أقدمك قلت أَحْبَبْت لقاءك وَالنَّظَر إِلَيْك",
+      "person_id": 2143,
+      "canonical_name": "عيسى بن يونس",
+      "has_id": NaN
+    }
+  ]
+}

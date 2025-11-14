@@ -1,0 +1,431 @@
+{
+  "bio_id": "377",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "~341",
+    "full_text": "وَمَات بهَا بعد سنة أَرْبَعِينَ وثلاثمائة",
+    "certainty": "approximate"
+  },
+  "geographical_locations": [
+    {
+      "place": "طمستان",
+      "context": "nisba",
+      "full_text": "الطمستاني"
+    },
+    {
+      "place": "فارس",
+      "context": "nisba",
+      "full_text": "الْفَارِسِي"
+    },
+    {
+      "place": "نيسابور",
+      "context": "visited",
+      "full_text": "ورد نيسابور"
+    },
+    {
+      "place": "نيسابور",
+      "context": "died",
+      "full_text": "وَمَات بهَا"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر الطمستاني",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قَالَ أَبُو بكر الطمستاني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو بكر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو بكر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر الطمستاني",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو بكر الطمستاني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو بكر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "ثمَّ قَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر الطمستاني",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَكَانَ أَبُو بكر الطمستاني يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو بكر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو بكر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو بكر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو بكر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو بكر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر الطمستاني",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو بكر الطمستاني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو بكر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر الطمستاني",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو بكر الطمستاني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر الطمستاني",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو بكر الطمستاني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو بكر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر الطمستاني",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو بكر الطمستاني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر الطمستاني",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو بكر الطمستاني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر الطمستاني",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو بكر الطمستاني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو بكر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر الطمستاني",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو بكر الطمستاني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر الطمستاني",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو بكر الطمستاني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر الطمستاني",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو بكر الطمستاني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو بكر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو بكر الطمستاني",
+          "person_id": 634,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَقَالَ أَبُو بكر الطمستاني",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "إِبْرَاهِيم الدّباغ",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب إِبْرَاهِيم الدّباغ وَغَيره من مَشَايِخ الْفرس",
+        "person_id": 279,
+        "canonical_name": "إبراهيم الدباغ",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَبُو بكر الشبلي",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "وَكَانَ أَبُو بكر الشبلي يبجله وَيعرف لَهُ مَحَله",
+      "person_id": 628,
+      "canonical_name": "أبو بكر الشبلي",
+      "has_id": 376
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "context": "أوصني",
+      "full_text": "وَقَالَ رجل لأبي بكر الطمستاني أوصني",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

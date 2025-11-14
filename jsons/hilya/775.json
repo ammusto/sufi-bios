@@ -1,0 +1,58 @@
+{
+  "bio_id": "775",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن عمر",
+          "person_id": 1259,
+          "canonical_name": "أحمد بن محمد بن عمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن سفيان",
+          "person_id": 1870,
+          "canonical_name": "عبد الله بن محمد بن سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أبي القاسم مولى بن هاشم",
+          "person_id": 2286,
+          "canonical_name": "محمد بن أبي القاسم",
+          "has_id": 775,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا أحمد بن محمد بن عمر ثنا عبد الله بن محمد بن سفيان قال:\nحدثني محمد بن أبي القاسم مولى بن هاشم - وكان قد قارب المائة - قال:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "عبد الله بن محمد بن سفيان",
+      "relationship_type": "narrator",
+      "full_text": "ثنا عبد الله بن محمد بن سفيان",
+      "person_id": 1870,
+      "canonical_name": "عبد الله بن محمد بن سفيان",
+      "has_id": NaN
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "bio_id": "478",
+  "source": "hilya",
+  "death_date": {
+    "year_hijri": "353",
+    "full_text": "توفي سنة ثلاث وخمسين وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن عبد الله بن مبشر الواسطي",
+          "person_id": 2051,
+          "canonical_name": "علي بن عبد الله بن مبشر الواسطي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن سنان",
+          "person_id": 2362,
+          "canonical_name": "محمد بن سنان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الرحمن بن مهدي",
+          "person_id": 1755,
+          "canonical_name": "عبد الرحمن بن مهدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مالك بن أنس",
+          "person_id": 2204,
+          "canonical_name": "مالك بن أنس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد المقبري",
+          "person_id": 1594,
+          "canonical_name": "سعيد بن أبي سعيد المقبري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي سلمة",
+          "person_id": 814,
+          "canonical_name": "أبو سلمة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا محمد بن الحسين في كتابه ثنا علي بن عبد الله بن مبشر الواسطي ثنا محمد بن سنان ثنا عبد الرحمن بن مهدي ثنا مالك بن أنس عن سعيد المقبري عن أبي سلمة قال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو بكر بن خلاد",
+          "person_id": 668,
+          "canonical_name": "أبو بكر بن خلاد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن غالب",
+          "person_id": 2428,
+          "canonical_name": "محمد بن غالب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "القعنبي",
+          "person_id": 215,
+          "canonical_name": "القعنبي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مالك",
+          "person_id": 2203,
+          "canonical_name": "مالك",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو بكر بن خلاد ثنا محمد بن غالب ثنا القعنبي عن مالك به.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الواحد بن محمد بن بندار",
+          "person_id": 1914,
+          "canonical_name": "عبد الواحد بن محمد بن بندار",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت عبد الواحد بن محمد بن بندار يقول: سألت بندار بن الحسن",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الواحد بن محمد بن بندار",
+          "person_id": 1914,
+          "canonical_name": "عبد الواحد بن محمد بن بندار",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "فقال: إن الصوفي من اختاره الحق لنفسه فصافاه وعن نفسه عافاه، ومن التكلف برأه - والصوفي على زنة عوفي، أي عافاه. وكوفي أي كافاه، وجوزي أي جازاه الله، ففعل الله ظاهر في اسمه.\nوأما المتقرى فهو المتكلف بنفسه، المظهر لزهده مع كمون رغبته وترئية بشريته، واسمه مضمر في فعله لرؤيته نفسه ودعواه.",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الواحد بن محمد بن بندار",
+          "person_id": 1914,
+          "canonical_name": "عبد الواحد بن محمد بن بندار",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وسئل أيضا عن الفرق بين التقري والتصوف فقال: القارئ هو الحافظ لربه من صفات أوامره. والصوفي الناظر إلى الحق فيما حفظ عليه من حاله.",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الواحد بن محمد بن بندار",
+          "person_id": 1914,
+          "canonical_name": "عبد الواحد بن محمد بن بندار",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال:\nالصوفي حروفه ثلاثة، كل حرف لثلاث معان: فالصاد دلالة صدقه وصبره وصفائه. والواو دلالة وده ووروده ووفائه. والفاء دلالة فقره وفقده وفنائه. والياء للإضافة والنسبة، وأهل الحروف والإشارات يقيمون حرف الياء في الابتداء والانتهاء، ففي الابتداء النداء وفي الانتهاء النسبة والإضافة، ففي الابتداء يا عبد، وفي الانتهاء يا عبدي. ففي الأول للنداء وفي الانتهاء للإضافة والنسبة.",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الواحد بن محمد بن بندار",
+          "person_id": 1914,
+          "canonical_name": "عبد الواحد بن محمد بن بندار",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وكان يقول: الجمع ما كان بالحق والتفرقة ما كان للحق.",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الواحد بن محمد بن بندار",
+          "person_id": 1914,
+          "canonical_name": "عبد الواحد بن محمد بن بندار",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وكان يقول: لا تخاصم لنفسك فانها ليست لك، دعها لمالكها يفعل بها ما يشاء.",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الواحد بن محمد بن بندار",
+          "person_id": 1914,
+          "canonical_name": "عبد الواحد بن محمد بن بندار",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وكان يقول: دع ما تهوى لما تؤمل.",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الواحد بن محمد بن بندار",
+          "person_id": 1914,
+          "canonical_name": "عبد الواحد بن محمد بن بندار",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال: القلب مضغة وهو محل الأنوار، وموارد الزوائد من الجبار، وبها يصح الاعتبار. جعل الله القلب أميرا فقال: ﴿(إن في ذلك لذكرى لمن كان له قلب)﴾ ثم جعله لديه أسيرا فقال: ﴿(يحول بين المرء وقلبه)﴾.",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبو زرعة الطبري",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "وحضر مجلسه أبو زرعة الطبري، شيرازي المولد، سكن أرجان.",
+      "person_id": 789,
+      "canonical_name": "أبو زرعة الطبري",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الواحد بن محمد بن بندار",
+      "relationship_type": "questioner",
+      "full_text": "سمعت عبد الواحد بن محمد بن بندار يقول: سألت بندار بن الحسن",
+      "person_id": 1914,
+      "canonical_name": "عبد الواحد بن محمد بن بندار",
+      "has_id": NaN
+    }
+  ]
+}

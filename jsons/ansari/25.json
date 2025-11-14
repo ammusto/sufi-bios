@@ -1,0 +1,85 @@
+{
+  "bio_id": "25",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "«شیخ الاسلام گفت: که کنیت محمدبن ابی الورد، ابوالحسن است شاگردبشر حافی.»",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "سری السقطی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبا",
+        "full_text": "صحبا سری السقطی و ابا الفتح الحمال و حارث المحاسبی و بشر الحافی،",
+        "person_id": 161,
+        "canonical_name": "السري السقطي",
+        "has_id": 236
+      },
+      {
+        "name": "ابا الفتح الحمال",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبا",
+        "full_text": "صحبا سری السقطی و ابا الفتح الحمال و حارث المحاسبی و بشر الحافی،",
+        "person_id": 512,
+        "canonical_name": "أبو الفتح الحمال",
+        "has_id": NaN
+      },
+      {
+        "name": "حارث المحاسبی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبا",
+        "full_text": "صحبا سری السقطی و ابا الفتح الحمال و حارث المحاسبی و بشر الحافی،",
+        "person_id": 69,
+        "canonical_name": "الحارث بن أسد المحاسبي",
+        "has_id": 229
+      },
+      {
+        "name": "بشر الحافی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبا",
+        "full_text": "صحبا سری السقطی و ابا الفتح الحمال و حارث المحاسبی و بشر الحافی،",
+        "person_id": 1323,
+        "canonical_name": "بشر بن الحارث الحافي",
+        "has_id": 470
+      },
+      {
+        "name": "بشر حافی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "«شیخ الاسلام گفت: که کنیت محمدبن ابی الورد، ابوالحسن است شاگردبشر حافی.»",
+        "person_id": 1323,
+        "canonical_name": "بشر بن الحارث الحافي",
+        "has_id": 470
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "الجنید",
+        "relationship_type": "peer",
+        "relationship_phrase": "من جلسأ",
+        "full_text": "هما من جلسأ الجنید واقرانه",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "«شیخ الاسلام گفت: که کنیت محمدبن ابی الورد، ابوالحسن است شاگردبشر حافی.»",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    }
+  ]
+}

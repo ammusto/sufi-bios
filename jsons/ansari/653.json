@@ -1,0 +1,110 @@
+{
+  "bio_id": "653",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "~310",
+    "full_text": "بیش از عشر و ثلثمائه برفت از دنیا.",
+    "certainty": "approximate"
+  },
+  "geographical_locations": [
+    {
+      "place": "ری",
+      "context": "lived",
+      "full_text": "از مهینان مشایخ ری بوده"
+    },
+    {
+      "place": "مکه",
+      "context": "lived",
+      "full_text": "بمکه مجاور بوده سالها باورع"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبداللهّ خراز",
+          "person_id": 1791,
+          "canonical_name": "عبد الله بن محمد الخراز الرازي",
+          "has_id": 653,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی عبداللهّ خرازگوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "یوسف بن الحسین",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1791,
+          "canonical_name": "عبد الله بن محمد الخراز الرازي",
+          "has_id": 653,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال یوسف بن الحسین",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "شیخ عمران کبیر",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "صحبت کرده بود با شیخ عمران کبیر",
+        "person_id": 2117,
+        "canonical_name": "عمران كبير",
+        "has_id": NaN
+      },
+      {
+        "name": "حفص نشابوری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده بود",
+        "full_text": "و باحفص نشابوری دیده بود",
+        "person_id": 759,
+        "canonical_name": "أبو حفص الحداد النيسابوري",
+        "has_id": 715
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "اصحاب بایزید٭",
+        "relationship_type": "peer",
+        "relationship_phrase": "واصحاب بایزید٭ ویرا بزرگ میداشتند",
+        "full_text": "واصحاب بایزید٭ ویرا بزرگ میداشتند",
+        "person_id": 52,
+        "canonical_name": "أبو العباس الثقفي",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت: کی عبداللهّ خرازگوید",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "یوسف بن الحسین",
+      "relationship_type": "narrator",
+      "full_text": "قال یوسف بن الحسین",
+      "person_id": 1140,
+      "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+      "has_id": 847
+    }
+  ]
+}

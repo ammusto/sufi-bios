@@ -1,0 +1,117 @@
+{
+  "bio_id": "761",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "304",
+    "full_text": "در قدیم برفته در اربع و ثلثمائه",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "نشاپور",
+      "context": "lived",
+      "full_text": "از قدیمان مشایخ نشاپور"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محفوظ بن محمود",
+          "person_id": 2213,
+          "canonical_name": "محفوظ بن محمود",
+          "has_id": 761,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محفوظ بن محمود",
+          "person_id": 2213,
+          "canonical_name": "محفوظ بن محمود",
+          "has_id": 761,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "حفص حداد",
+        "relationship_type": "student_of",
+        "relationship_phrase": "از اصحاب",
+        "full_text": "از اصحاب باحفص حداد٭",
+        "person_id": 759,
+        "canonical_name": "أبو حفص الحداد النيسابوري",
+        "has_id": 715
+      },
+      {
+        "name": "حفص حداد",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "پس\nباحفص حداد و حمدون گازر وسلم الباروسی و علی نصر آبادی٭ صحبت\nکرده",
+        "person_id": 759,
+        "canonical_name": "أبو حفص الحداد النيسابوري",
+        "has_id": 715
+      },
+      {
+        "name": "حمدون گازر",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "پس\nباحفص حداد و حمدون گازر وسلم الباروسی و علی نصر آبادی٭ صحبت\nکرده",
+        "person_id": 827,
+        "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+        "has_id": 524
+      },
+      {
+        "name": "سلم الباروسی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "پس\nباحفص حداد و حمدون گازر وسلم الباروسی و علی نصر آبادی٭ صحبت\nکرده",
+        "person_id": 423,
+        "canonical_name": "أبو الحسن سلم بن الحسن الباروسي",
+        "has_id": 291
+      },
+      {
+        "name": "علی نصر آبادی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "پس\nباحفص حداد و حمدون گازر وسلم الباروسی و علی نصر آبادی٭ صحبت\nکرده",
+        "person_id": 1990,
+        "canonical_name": "علي النصراباذي",
+        "has_id": NaN
+      },
+      {
+        "name": "شیخ بوعثمان حیری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "صحبت\nکرده با شیخ بوعثمان حیری٭ پیوسته،",
+        "person_id": 932,
+        "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+        "has_id": 419
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "یوسف حسین رازی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "synchronism_of_death",
+      "full_text": "در آن سال کی یوسف حسین رازی برفت",
+      "person_id": 1140,
+      "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+      "has_id": 847
+    }
+  ]
+}

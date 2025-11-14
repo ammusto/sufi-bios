@@ -1,0 +1,223 @@
+{
+  "bio_id": "702",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "353",
+    "full_text": "در سنه ثلث و خمسین و ثلثمائه برفته",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "ارگان",
+      "context": "nisba",
+      "full_text": "الارگانی"
+    },
+    {
+      "place": "شیراز",
+      "context": "born",
+      "full_text": "از اهل شیراز است"
+    },
+    {
+      "place": "ارگان",
+      "context": "lived",
+      "full_text": "به ارگان بوده"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "اسحق حافظ",
+          "person_id": 46,
+          "canonical_name": "اسحق حافظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علی یوسف شیرازی",
+          "person_id": 2077,
+          "canonical_name": "علي بن يوسف الشيرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شیخ بوالحسن جهنم همدانی",
+          "person_id": 2049,
+          "canonical_name": "علي بن عبد الله بن جهضم",
+          "has_id": 316,
+          "subj_added": false
+        },
+        {
+          "name": "بندار ارگانی",
+          "person_id": 1364,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت، که اسحق حافظ گفت، که علی یوسف شیرازی گفت حافظ: که شیخ بوالحسن جهنم همدانی گفت، که بندار ارگانی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بندار",
+          "person_id": 1364,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و بندارگفته:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بندار بن الحسین",
+          "person_id": 1364,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و انشد بندار بن الحسین:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "شبلی٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد شبلی٭ بود",
+        "person_id": 628,
+        "canonical_name": "أبو بكر الشبلي",
+        "has_id": 376
+      }
+    ],
+    "students": [
+      {
+        "name": "بوعبداللّه خفیف",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "استاد",
+        "full_text": "استاد بوعبداللّه خفیف بود",
+        "person_id": 22,
+        "canonical_name": "أبو عبد الله بن خفيف",
+        "has_id": 26
+      }
+    ],
+    "companions": [
+      {
+        "name": "بوعبداللّه خفیف",
+        "relationship_type": "peer",
+        "relationship_phrase": "معارضات",
+        "full_text": "میان او و بوعبداللّه خفیف معارضات در مسایل پرگند",
+        "person_id": 22,
+        "canonical_name": "أبو عبد الله بن خفيف",
+        "has_id": 26
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "اسحق حافظ",
+      "relationship_type": "narrator",
+      "full_text": "اسحق حافظ گفت",
+      "person_id": 46,
+      "canonical_name": "اسحق حافظ",
+      "has_id": NaN
+    },
+    {
+      "name": "علی یوسف شیرازی",
+      "relationship_type": "narrator",
+      "full_text": "علی یوسف شیرازی گفت حافظ:",
+      "person_id": 2077,
+      "canonical_name": "علي بن يوسف الشيرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ بوالحسن جهنم همدانی",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ بوالحسن جهنم همدانی گفت",
+      "person_id": 2049,
+      "canonical_name": "علي بن عبد الله بن جهضم",
+      "has_id": 316
+    },
+    {
+      "name": "شیخ بوعلی کاتب",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "با شیخ بوعلی کاتب بهم",
+      "person_id": 973,
+      "canonical_name": "أبو علي بن الكاتب",
+      "has_id": 23
+    },
+    {
+      "name": "شیخ بوزرعهٔ طبری",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "washed_him",
+      "full_text": "شیخ بوزرعهٔ طبری ویرا بشسته",
+      "person_id": 789,
+      "canonical_name": "أبو زرعة الطبري",
+      "has_id": NaN
+    },
+    {
+      "name": "عیاری",
+      "relationship_type": "interlocutor",
+      "full_text": "عیاری فرا صوفی گفت: کی فرق میان ما ومیان شما آنست: که ماهرکه بگوئیم بکنیم، و هرکه شما بیندیشید، و بر دل گذرد بکنید",
+      "person_id": 2137,
+      "canonical_name": "عياري",
+      "has_id": NaN
+    },
+    {
+      "name": "صوفی",
+      "relationship_type": "interlocutor",
+      "full_text": "عیاری فرا صوفی گفت: کی فرق میان ما ومیان شما آنست: که ماهرکه بگوئیم بکنیم، و هرکه شما بیندیشید، و بر دل گذرد بکنید",
+      "person_id": 1692,
+      "canonical_name": "صوفي",
+      "has_id": NaN
+    }
+  ]
+}

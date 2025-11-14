@@ -1,0 +1,320 @@
+{
+  "bio_id": "770",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بلخ",
+      "context": "nisba",
+      "full_text": "بلخي الأصل"
+    },
+    {
+      "place": "سمرقند",
+      "context": "lived",
+      "full_text": "سكن سمرقند."
+    },
+    {
+      "place": "سمرقند",
+      "context": "mentioned",
+      "full_text": "- بسمرقند -"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا بكر محمد بن عبد الله الرازي",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا بكر محمد بن عبد الله الرازي - بنيسابور - يقول سمعت محمد بن\nالفضل يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر محمد بن عبد الله الرازي",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر محمد بن عبد الله الرازي",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر محمد بن عبد الله الرازي",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول قال محمد بن الفضل:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال محمد بن الفضل:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن القاسم الخطابي",
+          "person_id": 391,
+          "canonical_name": "أبو الحارث علي بن القاسم الخطابي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله محمد بن الفضل الزاهد",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        },
+        {
+          "name": "قتيبة بن سعيد",
+          "person_id": 2178,
+          "canonical_name": "قتيبة بن سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الليث ابن سعد",
+          "person_id": 222,
+          "canonical_name": "الليث بن سعد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن أبي سعيد المقبري",
+          "person_id": 1594,
+          "canonical_name": "سعيد بن أبي سعيد المقبري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبيه",
+          "person_id": 1149,
+          "canonical_name": "أبوه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو هريرة",
+          "person_id": 1120,
+          "canonical_name": "أبو هريرة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا محمد بن الحسين ثنا علي بن القاسم الخطابي ثنا أبو عبد الله محمد بن الفضل الزاهد - بسمرقند - ثنا قتيبة بن سعيد ثنا الليث ابن سعد عن سعيد بن أبي سعيد المقبري عن أبيه عن أبي هريرة.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو عمرو بن حمدان",
+          "person_id": 1023,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن بن سفيان",
+          "person_id": 86,
+          "canonical_name": "الحسن بن سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "قتيبة بن سعيد",
+          "person_id": 2178,
+          "canonical_name": "قتيبة بن سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو عمرو بن حمدان ثنا الحسن بن سفيان ثنا قتيبة بن سعيد",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "قتيبة بن سعيد",
+        "relationship_type": "student_of",
+        "relationship_phrase": "سمع الحديث الكثير من",
+        "full_text": "وسمع الحديث الكثير من قتيبة بن سعيد",
+        "person_id": 2178,
+        "canonical_name": "قتيبة بن سعيد",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "أحمد بن خضرويه المروزي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أحمد بن خضرويه المروزي.",
+        "person_id": 1194,
+        "canonical_name": "أحمد بن خضرويه البلخي",
+        "has_id": 440
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أبا بكر محمد بن عبد الله الرازي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر محمد بن عبد الله الرازي - بنيسابور - يقول",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن الحسين",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن الحسين يقول",
+      "person_id": 2237,
+      "canonical_name": "محمد بن الحسين",
+      "has_id": NaN
+    },
+    {
+      "name": "علي بن القاسم الخطابي",
+      "relationship_type": "narrator",
+      "full_text": "ثنا علي بن القاسم الخطابي",
+      "person_id": 391,
+      "canonical_name": "أبو الحارث علي بن القاسم الخطابي",
+      "has_id": NaN
+    }
+  ]
+}

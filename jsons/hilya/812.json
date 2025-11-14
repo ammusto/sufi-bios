@@ -1,0 +1,58 @@
+{
+  "bio_id": "812",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد",
+          "person_id": 1239,
+          "canonical_name": "أحمد بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد القرشي",
+          "person_id": 1862,
+          "canonical_name": "عبد الله بن محمد القرشي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شيخ من قريش",
+          "person_id": 2539,
+          "canonical_name": "من قريش",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا أحمد بن محمد ثنا عبد الله بن محمد القرشي قال: حدثني شيخ من قريش.",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شيخ من قريش",
+      "relationship_type": "narrator",
+      "full_text": "قال: حدثني شيخ من قريش.",
+      "person_id": 2539,
+      "canonical_name": "من قريش",
+      "has_id": NaN
+    }
+  ]
+}

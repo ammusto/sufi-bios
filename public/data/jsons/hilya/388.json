@@ -1,0 +1,1994 @@
+{
+  "bio_id": "388",
+  "source": "hilya",
+  "death_date": {
+    "year_hijri": "245",
+    "full_text": "توفي بالبادية ونهشته السباع سنة خمس وأربعين ومائتين.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "نخشب",
+      "context": "nisba",
+      "full_text": "النخشبي"
+    },
+    {
+      "place": "أصبهان",
+      "context": "visited",
+      "full_text": "دخل أصبهان"
+    },
+    {
+      "place": "مكة",
+      "context": "visited",
+      "full_text": "بمكة"
+    },
+    {
+      "place": "الحجاز",
+      "context": "visited",
+      "full_text": "وبالحجاز مدة مديدة"
+    },
+    {
+      "place": "البادية",
+      "context": "visited",
+      "full_text": "بالبادية"
+    },
+    {
+      "place": "البصرة",
+      "context": "visited",
+      "full_text": "وأكلة بالبصرة"
+    },
+    {
+      "place": "النباج",
+      "context": "visited",
+      "full_text": "وأكلة بالنباج"
+    },
+    {
+      "place": "بين مكة والمدينة",
+      "context": "died",
+      "full_text": "مات أبو تراب بين مكة والمدينة نهشته السباع."
+    },
+    {
+      "place": "نخشب",
+      "context": "nisba",
+      "full_text": "النخشبى"
+    },
+    {
+      "place": "البادية",
+      "context": "died",
+      "full_text": "توفي بالبادية"
+    },
+    {
+      "place": "عرفات",
+      "context": "visited",
+      "full_text": "رأيت الناس بعرفات"
+    },
+    {
+      "place": "جمع",
+      "context": "visited",
+      "full_text": "وبتنا بجمع"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو محمد بن حبان",
+          "person_id": 1049,
+          "canonical_name": "أبو محمد بن حبان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الرزاق ابني",
+          "person_id": 1761,
+          "canonical_name": "عبد الرزاق ابني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله محمد بن أحمد الكسائي المقرى",
+          "person_id": 910,
+          "canonical_name": "أبو عبد الله محمد بن أحمد الكسائي المقرى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو محمد بن حبان قال سمعت عبد الرزاق ابني يحكي عن أبي عبد الله محمد بن أحمد الكسائي المقرى قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد بن جعفر",
+          "person_id": 1868,
+          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن زكريا",
+          "person_id": 1869,
+          "canonical_name": "عبد الله بن محمد بن زكريا",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو تراب",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد بن جعفر ثنا عبد الله بن محمد بن زكريا ثنا أبو تراب",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1868,
+          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1869,
+          "canonical_name": "عبد الله بن محمد بن زكريا",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو تراب",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد ثنا عبد الله بن محمد قال قال أبو تراب",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "جدي إسماعيل بن عبيد",
+          "person_id": 1387,
+          "canonical_name": "جدي إسماعيل بن عبيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت جدي إسماعيل بن عبيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو محمد بن حبان",
+          "person_id": 1049,
+          "canonical_name": "أبو محمد بن حبان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن زكريا",
+          "person_id": 1869,
+          "canonical_name": "عبد الله بن محمد بن زكريا",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو تراب",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن نصير النيسابوري",
+          "person_id": 1280,
+          "canonical_name": "أحمد بن نصير النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو غسان الكوفي",
+          "person_id": 1026,
+          "canonical_name": "أبو غسان الكوفي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مسلمة بن جعفر",
+          "person_id": 2505,
+          "canonical_name": "مسلمة بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "وهب بن منبه",
+          "person_id": 2620,
+          "canonical_name": "وهب بن منبه",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو محمد بن حبان ثنا عبد الله بن محمد بن زكريا ثنا أبو تراب ثنا أحمد بن نصير النيسابوري عن أبي غسان الكوفي ثنا مسلمة بن جعفر قال قال وهب بن منبه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن علي",
+          "person_id": 1848,
+          "canonical_name": "عبد الله بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الرقي",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله بن الجلاء",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن الحسين قال سمعت عبد الله بن علي يقول سمعت الرقي يقول سمعت أبا عبد الله بن الجلاء يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسن بن موسى",
+          "person_id": 2236,
+          "canonical_name": "محمد بن الحسن بن موسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا العباس محمد بن الحسن البغدادي",
+          "person_id": 507,
+          "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله الفارسي",
+          "person_id": 878,
+          "canonical_name": "أبو عبد الله الفارسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسن الرازي",
+          "person_id": 71,
+          "canonical_name": "أبو الحسن الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن الحسين",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "أبو تراب",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسن بن موسى يقول سمعت أبا العباس محمد بن الحسن البغدادي يقول سمعت أبا عبد الله الفارسي يقول سمعت أبا الحسن الرازي يقول سمعت يوسف بن الحسين يقول سمعت أبا تراب يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن إسحاق",
+          "person_id": 1173,
+          "canonical_name": "أحمد بن إسحاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر بن أبي عاصم",
+          "person_id": 664,
+          "canonical_name": "أبو بكر بن أبي عاصم النبيل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "با تراب الزاهد",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        },
+        {
+          "name": "حاتما الأصم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "شقيق",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أحمد بن إسحاق يقول سمعت أبا بكر بن أبي عاصم يقول سمعت با تراب الزاهد يقول سمعت حاتما الأصم يقول عن شقيق قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن أبي عمران الهروي",
+          "person_id": 523,
+          "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسماعيل بن نجيد",
+          "person_id": 1015,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+          "has_id": 176,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أحمد بن أبي عمران الهروي يقول سمعت إسماعيل بن نجيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو سعيد القلانسي",
+          "person_id": 803,
+          "canonical_name": "أبو سعيد القلانسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الرقي",
+          "person_id": 284,
+          "canonical_name": "إبراهيم القصار الرقي",
+          "has_id": 13,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله ابن الجلاء",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا سعيد القلانسي يقول سمعت الرقي يقول سمعت أبا عبد الله ابن الجلاء يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسين القزويني",
+          "person_id": 433,
+          "canonical_name": "أبو الحسن علي بن محمد القزويني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن عبدك",
+          "person_id": 2052,
+          "canonical_name": "علي بن عبدك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عمران الطبرستاني",
+          "person_id": 1000,
+          "canonical_name": "أبو عمران الطبرستاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن الفرحي",
+          "has_id": NaN,
+          "person_id": 44,
+          "canonical_name": "ابن الفرحي",
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين بن موسى يقول سمعت أبا الحسين القزويني يقول سمعت علي بن عبدك يقول سمعت أبا عمران الطبرستاني يقول سمعت ابن الفرحي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد بن جعفر",
+          "person_id": 1868,
+          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن زكريا",
+          "person_id": 1869,
+          "canonical_name": "عبد الله بن محمد بن زكريا",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو تراب",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد بن جعفر ثنا عبد الله بن محمد بن زكريا قال سمعت أبا تراب يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1868,
+          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1869,
+          "canonical_name": "عبد الله بن محمد بن زكريا",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو تراب",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد ثنا عبد الله بن محمد قال سمعت أبا تراب يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد الله بن شاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عثمان الآدمي",
+          "person_id": 933,
+          "canonical_name": "أبو عثمان الأدمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الخواص",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": false
+        },
+        {
+          "name": "أخ لى",
+          "person_id": 1283,
+          "canonical_name": "أخ لي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت محمد بن عبد الله بن شاذان يقول سمعت أبا عثمان الآدمي يقول سمعت إبراهيم الخواص يقول حدثني أخ لى كان يصحب أبا تراب",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا الفضل أحمد بن موسى الصارم ومحمد بن الحسين",
+          "person_id": 525,
+          "canonical_name": "أبو الفضل أحمد بن موسى الصارم ومحمد بن الحسين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2549,
+          "canonical_name": "منصور بن عبد الله الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا على الروزبادى",
+          "person_id": 960,
+          "canonical_name": "أبو علي الروزبادى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن الجلاء",
+          "has_id": 410,
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "subj_added": false
+        },
+        {
+          "name": "أبا تراب النخشبي",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الفضل أحمد بن موسى الصارم ومحمد بن الحسين يقولان سمعنا منصور بن عبد الله يقول سمعت أبا على الروزبادى يقول سمعت ابن الجلاء يقول سمعت أبا تراب النخشبي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2549,
+          "canonical_name": "منصور بن عبد الله الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله بن الجلاء",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت منصور بن عبد الله يقول وحكى عن أبي عبد الله بن الجلاء قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو عمرو الإصطخري",
+          "person_id": 1006,
+          "canonical_name": "أبو عمرو الإصطخري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وقال أبو عمرو الإصطخري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسن",
+          "person_id": 507,
+          "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد الله",
+          "person_id": 2376,
+          "canonical_name": "محمد بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عثمان الآدمي",
+          "person_id": 933,
+          "canonical_name": "أبو عثمان الأدمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الخواص",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسن يقول سمعت محمد بن عبد الله يقول سمعت أبا عثمان الآدمي يقول سمعت إبراهيم الخواص يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله بن الجلاء",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": false
+        },
+        {
+          "name": "أبو تراب",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبي يقول حكي لي عن أبي عبد الله بن الجلاء قال سمعت أبا تراب",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن إسحاق",
+          "person_id": 1173,
+          "canonical_name": "أحمد بن إسحاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عمرو بن أبي عاصم",
+          "person_id": 1232,
+          "canonical_name": "أحمد بن عمرو بن أبي عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو تراب",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        },
+        {
+          "name": "حاتم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد بن إسحاق ثنا أحمد بن عمرو بن أبي عاصم قال سمعت أبا تراب يقول سمعت حاتما يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2549,
+          "canonical_name": "منصور بن عبد الله الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو جعفر بن تركان",
+          "person_id": 746,
+          "canonical_name": "أبو جعفر بن تركان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يعقوب بن الوليد",
+          "person_id": 2661,
+          "canonical_name": "يعقوب بن الوليد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو تراب",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن الحسين قال سمعت منصور بن عبد الله يقول سمعت أبا جعفر بن تركان يقول سمعت يعقوب بن الوليد يقول سمعت أبا تراب يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد السلام بن محمد المخرمي",
+          "person_id": 554,
+          "canonical_name": "أبو القاسم عبد السلام بن محمد المخزومي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن أبي شيخ",
+          "has_id": NaN,
+          "person_id": 13,
+          "canonical_name": "ابن أبي شيخ",
+          "subj_added": false
+        },
+        {
+          "name": "علي بن حسن التميمي",
+          "person_id": 2027,
+          "canonical_name": "علي بن حسن التميمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو تراب",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر عبد السلام بن محمد المخرمي قال سمعت ابن أبي شيخ يقول سمعت علي بن حسن التميمي يقول سمعت أبا تراب",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن إسحاق",
+          "person_id": 1173,
+          "canonical_name": "أحمد بن إسحاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد الله بن مصعب",
+          "person_id": 2389,
+          "canonical_name": "محمد بن عبد الله بن مصعب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو تراب عسكر بن محمد الزاهد",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن ثابت",
+          "person_id": 2326,
+          "canonical_name": "محمد بن ثابت البناني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شريك",
+          "person_id": 1667,
+          "canonical_name": "شريك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله",
+          "person_id": 1782,
+          "canonical_name": "عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الأعمش",
+          "person_id": 59,
+          "canonical_name": "الأعمش",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي سفيان",
+          "person_id": 812,
+          "canonical_name": "أبو سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جابر",
+          "person_id": 1372,
+          "canonical_name": "جابر",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "ومما أسند حدثنا أحمد بن إسحاق ثنا محمد بن عبد الله بن مصعب ثنا أبو تراب عسكر بن محمد الزاهد ثنا محمد بن ثابت عن شريك عن عبد الله عن الأعمش عن أبي سفيان عن جابر قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن إسماعيل الوراق",
+          "person_id": 2283,
+          "canonical_name": "محمد بن إسماعيل بن العباس الوراق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الصمد بن علي بن مكرم",
+          "person_id": 1765,
+          "canonical_name": "عبد الصمد بن علي بن مكرم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن سليمان بن المبارك",
+          "person_id": 1203,
+          "canonical_name": "أحمد بن سليمان بن المبارك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو تراب الزاهد البلخي",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        },
+        {
+          "name": "واصل ابن إبراهيم",
+          "person_id": 2612,
+          "canonical_name": "واصل بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو حمزة",
+          "person_id": 763,
+          "canonical_name": "أبو حمزة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "رقبة",
+          "person_id": 1546,
+          "canonical_name": "رقبة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سلمة بن كهيل",
+          "person_id": 1616,
+          "canonical_name": "سلمة بن كهيل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جندب بن سفيان",
+          "person_id": 1416,
+          "canonical_name": "جندب بن سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن إسماعيل الوراق ثنا عبد الصمد بن علي بن مكرم حدثني أحمد بن سليمان بن المبارك ثنا أبو تراب الزاهد البلخي ثنا واصل ابن إبراهيم ثنا أبو حمزة عن رقبة عن سلمة بن كهيل عن جندب بن سفيان قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عبد الله أحمد بن إسحاق",
+          "person_id": 891,
+          "canonical_name": "أبو عبد الله أحمد بن إسحاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر أحمد بن أبي عاصم",
+          "person_id": 654,
+          "canonical_name": "أبو بكر أحمد بن أبي عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو تراب الزاهد",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا عبد الله أحمد بن إسحاق يقول سمعت أبا بكر أحمد بن أبي عاصم يقول سمعت أبا تراب الزاهد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حاتم الأصم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت حاتما الأصم يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شقيق",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "عن شقيق قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد بن جعفر",
+          "person_id": 1868,
+          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن زكريا",
+          "person_id": 1869,
+          "canonical_name": "عبد الله بن محمد بن زكريا",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو تراب الزاهد",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد بن جعفر ثنا عبد الله بن محمد بن زكريا قال سمعت أبا تراب الزاهد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حاتم الأصم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال حاتم الأصم",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "والدي",
+          "person_id": 2615,
+          "canonical_name": "والدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله بن الجلاء",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت والدي يقول سمعت أبا عبد الله بن الجلاء - بمكة - يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو تراب",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال وكان أبو تراب يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو محمد بن حيان",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر بن أبي عاصم",
+          "person_id": 664,
+          "canonical_name": "أبو بكر بن أبي عاصم النبيل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عسكر ابن الحصين السائح",
+          "person_id": 1961,
+          "canonical_name": "عسكر بن الحصين السائح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو محمد بن حيان ثنا أبو بكر بن أبي عاصم ثنا عسكر ابن الحصين السائح",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا القاسم عبد السلام بن محمد البغدادي",
+          "person_id": 554,
+          "canonical_name": "أبو القاسم عبد السلام بن محمد المخزومي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا القاسم عبد السلام بن محمد البغدادي بمكة يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن إسحاق",
+          "person_id": 1173,
+          "canonical_name": "أحمد بن إسحاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عمرو بن أبي عاصم",
+          "person_id": 1232,
+          "canonical_name": "أحمد بن عمرو بن أبي عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو تراب",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أحمد بن إسحاق يقول ثنا أحمد بن عمرو بن أبي عاصم قال سمعت أبا تراب يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حاتم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت حاتما يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو محمد بن حيان",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن زكريا",
+          "person_id": 1869,
+          "canonical_name": "عبد الله بن محمد بن زكريا",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو تراب عسكر بن الحصين",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو محمد بن حيان ثنا عبد الله بن محمد بن زكريا ثنا أبو تراب عسكر بن الحصين",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن إسحاق",
+          "person_id": 1173,
+          "canonical_name": "أحمد بن إسحاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد الله بن مصعب",
+          "person_id": 2389,
+          "canonical_name": "محمد بن عبد الله بن مصعب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو تراب الزاهد عسكر بن الحصين",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن نمير",
+          "person_id": 2462,
+          "canonical_name": "محمد بن نمير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن ثابت",
+          "person_id": 2326,
+          "canonical_name": "محمد بن ثابت البناني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شريك ابن عبد الله",
+          "person_id": 1668,
+          "canonical_name": "شريك بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الأعمش",
+          "person_id": 59,
+          "canonical_name": "الأعمش",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو سفيان",
+          "person_id": 812,
+          "canonical_name": "أبو سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جابر",
+          "person_id": 1372,
+          "canonical_name": "جابر",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد بن إسحاق ثنا محمد بن عبد الله بن مصعب ثنا أبو تراب الزاهد عسكر بن الحصين ثنا محمد بن نمير ثنا محمد بن ثابت عن شريك ابن عبد الله عن الأعمش عن أبي سفيان عن جابر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو محمد بن حيان",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن زكريا",
+          "person_id": 1869,
+          "canonical_name": "عبد الله بن محمد بن زكريا",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو تراب",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        },
+        {
+          "name": "نعيم ابن حماد المصري",
+          "person_id": 2587,
+          "canonical_name": "نعيم بن حماد المصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "معاذ بن أسد",
+          "person_id": 2516,
+          "canonical_name": "معاذ بن أسد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفضل بن موسى السيانى",
+          "person_id": 199,
+          "canonical_name": "الفضل بن موسى السيانى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين ابن واقد",
+          "person_id": 130,
+          "canonical_name": "الحسين بن واقد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أيوب السختياني",
+          "person_id": 1315,
+          "canonical_name": "أيوب السختياني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "نافع",
+          "person_id": 2576,
+          "canonical_name": "نافع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عمر",
+          "has_id": NaN,
+          "person_id": 28,
+          "canonical_name": "ابن عمر",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو محمد بن حيان ثنا عبد الله بن محمد بن زكريا ثنا أبو تراب ثنا نعيم ابن حماد المصري ومعاذ بن أسد قالا: عن الفضل بن موسى السيانى عن الحسين ابن واقد عن أيوب السختياني عن نافع عن ابن عمر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن إسماعيل بن العباس الوراق",
+          "person_id": 2283,
+          "canonical_name": "محمد بن إسماعيل بن العباس الوراق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الصمد بن علي بن مكرم",
+          "person_id": 1765,
+          "canonical_name": "عبد الصمد بن علي بن مكرم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن سليمان بن المبارك",
+          "person_id": 1203,
+          "canonical_name": "أحمد بن سليمان بن المبارك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو تراب الزاهد البلخي",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        },
+        {
+          "name": "واصل بن إبراهيم",
+          "person_id": 2612,
+          "canonical_name": "واصل بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو حمزة",
+          "person_id": 767,
+          "canonical_name": "أبو حمزة العطار البصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "رقية",
+          "person_id": 1548,
+          "canonical_name": "رقية",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سلمة بن كهيل",
+          "person_id": 1616,
+          "canonical_name": "سلمة بن كهيل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جندب ابن سفيان",
+          "person_id": 1416,
+          "canonical_name": "جندب بن سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن إسماعيل بن العباس الوراق ثنا عبد الصمد بن علي بن مكرم قال حدثني أحمد بن سليمان بن المبارك ثنا أبو تراب الزاهد البلخي ثنا واصل بن إبراهيم ثنا أبو حمزة عن رقية عن سلمة بن كهيل عن جندب ابن سفيان",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو محمد بن حيان",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن زكريا",
+          "person_id": 1869,
+          "canonical_name": "عبد الله بن محمد بن زكريا",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو تراب",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن نصر",
+          "person_id": 1276,
+          "canonical_name": "أحمد بن نصر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد المنعم بن إدريس",
+          "person_id": 1893,
+          "canonical_name": "عبد المنعم بن إدريس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبيه",
+          "person_id": 1149,
+          "canonical_name": "أبوه",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو محمد بن حيان ثنا عبد الله بن محمد بن زكريا ثنا أبو تراب ثنا أحمد بن نصر ثنا عبد المنعم بن إدريس عن أبيه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "وهب بن منبه",
+          "person_id": 2620,
+          "canonical_name": "وهب بن منبه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال قال وهب بن منبه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إبراهيم بن محمد بن يحيى النيسابوري",
+          "person_id": 327,
+          "canonical_name": "إبراهيم بن محمد بن يحيى النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عبيد حازم ابن أبي حازم",
+          "person_id": 928,
+          "canonical_name": "أبو عبيد حازم بن أبي حازم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أخي أحمد بن محمد",
+          "person_id": 1285,
+          "canonical_name": "أخي أحمد بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو تراب النخشبي",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إبراهيم بن محمد بن يحيى النيسابوري قال سمعت أبا عبيد حازم ابن أبي حازم يقول سمعت أخي أحمد بن محمد يقول قال أبو تراب النخشبي",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "حاتم الأصم",
+        "relationship_type": "student_of",
+        "relationship_phrase": "تأدب ب",
+        "full_text": "تأدب بحاتم الأصم وعلي الرازي المذبوح",
+        "person_id": 1424,
+        "canonical_name": "حاتم الأصم",
+        "has_id": 505
+      },
+      {
+        "name": "علي الرازي المذبوح",
+        "relationship_type": "student_of",
+        "relationship_phrase": "تأدب ب",
+        "full_text": "تأدب بحاتم الأصم وعلي الرازي المذبوح",
+        "person_id": 1987,
+        "canonical_name": "علي الرازي المذبوح",
+        "has_id": NaN
+      },
+      {
+        "name": "عبد الله بن محمد بن زكريا",
+        "relationship_type": "student_of",
+        "relationship_phrase": "سمع من",
+        "full_text": "دخل أصبهان وسمع من عبد الله بن محمد بن زكريا",
+        "person_id": 1869,
+        "canonical_name": "عبد الله بن محمد بن زكريا",
+        "has_id": NaN
+      },
+      {
+        "name": "محمد بن عبد الله ابن مصعب",
+        "relationship_type": "student_of",
+        "relationship_phrase": "سمع من",
+        "full_text": "وسمع من عبد الله بن محمد بن زكريا ومحمد بن عبد الله ابن مصعب",
+        "person_id": 2389,
+        "canonical_name": "محمد بن عبد الله بن مصعب",
+        "has_id": NaN
+      },
+      {
+        "name": "عثمان بن صخر الزاهد",
+        "relationship_type": "student_of",
+        "relationship_phrase": "أستاذ",
+        "full_text": "وكان الثلاثة عثمان بن صخر الزاهد أستاذ أبي تراب",
+        "person_id": 1951,
+        "canonical_name": "عثمان بن صخر الزاهد",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "جدي محمد بن يوسف",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحبه",
+        "full_text": "وصحبه جدي محمد بن يوسف بمكة وبالحجاز مدة مديدة",
+        "person_id": 1389,
+        "canonical_name": "جدي محمد بن يوسف",
+        "has_id": NaN
+      },
+      {
+        "name": "أبو بكر أحمد بن عمرو بن أبي عاصم النبيل",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحبه",
+        "full_text": "وكذلك صحبه أبو بكر أحمد بن عمرو بن أبي عاصم النبيل بالبادية.",
+        "person_id": 656,
+        "canonical_name": "أبو بكر أحمد بن عمرو بن أبي عاصم النبيل",
+        "has_id": NaN
+      },
+      {
+        "name": "أخ لى",
+        "relationship_type": "peer",
+        "relationship_phrase": "كان يصحب",
+        "full_text": "حدثني أخ لى كان يصحب أبا تراب",
+        "person_id": 1283,
+        "canonical_name": "أخ لي",
+        "has_id": NaN
+      },
+      {
+        "name": "ابن الجلاء",
+        "relationship_type": "peer",
+        "relationship_phrase": "من أصحابه",
+        "full_text": "رأيت حول أبي تراب من أصحابه مائة وعشرين ركوة قعودا حول الأساطين ما مات أحد منهم على الفقر إلا ابن الجلاء وأبو عبيدة السري.",
+        "has_id": 410,
+        "person_id": 898,
+        "canonical_name": "أبو عبد الله بن الجلاء"
+      },
+      {
+        "name": "أبو عبيدة السري",
+        "relationship_type": "peer",
+        "relationship_phrase": "من أصحابه",
+        "full_text": "رأيت حول أبي تراب من أصحابه مائة وعشرين ركوة قعودا حول الأساطين ما مات أحد منهم على الفقر إلا ابن الجلاء وأبو عبيدة السري.",
+        "person_id": 929,
+        "canonical_name": "أبو عبيدة السري",
+        "has_id": NaN
+      },
+      {
+        "name": "حاتم الأصم",
+        "relationship_type": "peer",
+        "relationship_phrase": "صاحب",
+        "full_text": "صاحب حاتم الأصم",
+        "person_id": 1424,
+        "canonical_name": "حاتم الأصم",
+        "has_id": 505
+      },
+      {
+        "name": "أبا حمزة العطار البصري.",
+        "relationship_type": "peer",
+        "relationship_phrase": "ولقي",
+        "full_text": "ولقي أبا حمزة العطار البصري.",
+        "person_id": 767,
+        "canonical_name": "أبو حمزة العطار البصري",
+        "has_id": NaN
+      },
+      {
+        "name": "أبو بكر بن أبي عاصم النبيل",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحبه",
+        "full_text": "صحبه أبو بكر بن أبي عاصم النبيل، وأبو عبد الله بن الجلاء وأبو عبيدة البسري.",
+        "person_id": 664,
+        "canonical_name": "أبو بكر بن أبي عاصم النبيل",
+        "has_id": NaN
+      },
+      {
+        "name": "أبو عبد الله بن الجلاء",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحبه",
+        "full_text": "وأبو عبد الله بن الجلاء",
+        "person_id": 898,
+        "canonical_name": "أبو عبد الله بن الجلاء",
+        "has_id": 410
+      },
+      {
+        "name": "أبو عبيدة البسري",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحبه",
+        "full_text": "وأبو عبيدة البسري.",
+        "person_id": 924,
+        "canonical_name": "أبو عبيد البسري",
+        "has_id": 409
+      },
+      {
+        "name": "يحيى بن معاذ الرازي",
+        "relationship_type": "peer",
+        "relationship_phrase": "رأيت",
+        "full_text": "فرأيت يحيى بن معاذ الرازي فقصصت عليه الرؤيا فقال",
+        "person_id": 2650,
+        "canonical_name": "يحيى بن معاذ الرازي",
+        "has_id": 844
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "عبد الله بن محمد بن زكريا",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا عبد الله بن محمد بن جعفر ثنا عبد الله بن محمد بن زكريا قال سمعت أبا تراب يقول",
+      "person_id": 1869,
+      "canonical_name": "عبد الله بن محمد بن زكريا",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الله بن محمد",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا عبد الله بن محمد ثنا عبد الله بن محمد قال سمعت أبا تراب يقول",
+      "person_id": 1868,
+      "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+      "has_id": NaN
+    },
+    {
+      "name": "يوسف بن الحسين",
+      "relationship_type": "narrator",
+      "full_text": "سمعت يوسف بن الحسين يقول سمعت أبا تراب يقول",
+      "person_id": 1140,
+      "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+      "has_id": 847
+    },
+    {
+      "name": "أبو بكر بن أبي عاصم",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر بن أبي عاصم يقول سمعت با تراب الزاهد يقول",
+      "person_id": 664,
+      "canonical_name": "أبو بكر بن أبي عاصم النبيل",
+      "has_id": NaN
+    },
+    {
+      "name": "إسماعيل بن نجيد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت إسماعيل بن نجيد يقول كان أبو تراب يقول",
+      "person_id": 1015,
+      "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+      "has_id": 176
+    },
+    {
+      "name": "أبو عبد الله ابن الجلاء",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا عبد الله ابن الجلاء يقول كان أبو تراب يقول",
+      "person_id": 898,
+      "canonical_name": "أبو عبد الله بن الجلاء",
+      "has_id": 410
+    },
+    {
+      "name": "ابن الفرحي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت ابن الفرحي يقول: رأيت حول أبي تراب من أصحابه مائة وعشرين ركوة قعودا حول الأساطين ما مات أحد منهم على الفقر إلا ابن الجلاء وأبو عبيدة السري.",
+      "has_id": NaN,
+      "person_id": 43,
+      "canonical_name": "إدريس بن عبد الكريم الحداد"
+    },
+    {
+      "name": "أخ لى",
+      "relationship_type": "narrator",
+      "full_text": "قال حدثني أخ لى كان يصحب أبا تراب",
+      "person_id": 1283,
+      "canonical_name": "أخ لي",
+      "has_id": NaN
+    },
+    {
+      "name": "ابن الجلاء",
+      "relationship_type": "narrator",
+      "full_text": "سمعت ابن الجلاء يقول سمعت أبا تراب النخشبي يقول",
+      "has_id": 410,
+      "person_id": 898,
+      "canonical_name": "أبو عبد الله بن الجلاء"
+    },
+    {
+      "name": "إبراهيم الخواص",
+      "relationship_type": "narrator",
+      "full_text": "سمعت إبراهيم الخواص يقول: مات أبو تراب بين مكة والمدينة نهشته السباع.",
+      "person_id": 278,
+      "canonical_name": "أبو إسحاق إبراهيم الخواص",
+      "has_id": 268
+    },
+    {
+      "name": "أحمد بن عمرو بن أبي عاصم",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أحمد بن عمرو بن أبي عاصم قال سمعت أبا تراب يقول",
+      "person_id": 1232,
+      "canonical_name": "أحمد بن عمرو بن أبي عاصم",
+      "has_id": NaN
+    },
+    {
+      "name": "يعقوب بن الوليد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت يعقوب بن الوليد يقول سمعت أبا تراب يقول",
+      "person_id": 2661,
+      "canonical_name": "يعقوب بن الوليد",
+      "has_id": NaN
+    },
+    {
+      "name": "علي بن حسن التميمي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت علي بن حسن التميمي يقول سمعت أبا تراب",
+      "person_id": 2027,
+      "canonical_name": "علي بن حسن التميمي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو عمرو الإصطخري",
+      "relationship_type": "narrator",
+      "full_text": "وقال أبو عمرو الإصطخري: رأيت أبا تراب ميتا بالبادية قائما منتصبا لا يمسكه شيء",
+      "person_id": 1006,
+      "canonical_name": "أبو عمرو الإصطخري",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "full_text": "وقال له رجل: ألك حاجة؟",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو بكر أحمد بن أبي عاصم",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر أحمد بن أبي عاصم يقول سمعت أبا تراب الزاهد يقول",
+      "person_id": 654,
+      "canonical_name": "أبو بكر أحمد بن أبي عاصم",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الله بن محمد بن زكريا",
+      "relationship_type": "narrator",
+      "full_text": "ثنا عبد الله بن محمد بن زكريا قال سمعت أبا تراب الزاهد يقول",
+      "person_id": 1869,
+      "canonical_name": "عبد الله بن محمد بن زكريا",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد بن عمرو بن أبي عاصم",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أحمد بن عمرو بن أبي عاصم قال سمعت أبا تراب يقول",
+      "person_id": 1269,
+      "canonical_name": "أحمد بن مزاحم",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن عبد الله بن مصعب",
+      "relationship_type": "narrator",
+      "full_text": "ثنا محمد بن عبد الله بن مصعب ثنا أبو تراب الزاهد عسكر بن الحصين",
+      "person_id": 2389,
+      "canonical_name": "محمد بن عبد الله بن مصعب",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد بن سليمان بن المبارك",
+      "relationship_type": "narrator",
+      "full_text": "قال حدثني أحمد بن سليمان بن المبارك ثنا أبو تراب الزاهد البلخي",
+      "person_id": 1203,
+      "canonical_name": "أحمد بن سليمان بن المبارك",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو بكر بن أبي عاصم",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أبو بكر بن أبي عاصم ثنا عسكر ابن الحصين السائح",
+      "person_id": 664,
+      "canonical_name": "أبو بكر بن أبي عاصم النبيل",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا عبد الله بن الجلاء",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا عبد الله بن الجلاء - بمكة - يقول",
+      "person_id": 898,
+      "canonical_name": "أبو عبد الله بن الجلاء",
+      "has_id": 410
+    },
+    {
+      "name": "أخي أحمد بن محمد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أخي أحمد بن محمد يقول قال أبو تراب النخشبي",
+      "person_id": 1285,
+      "canonical_name": "أخي أحمد بن محمد",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا القاسم عبد السلام بن محمد البغدادي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا القاسم عبد السلام بن محمد البغدادي بمكة يقول",
+      "person_id": 554,
+      "canonical_name": "أبو القاسم عبد السلام بن محمد المخزومي",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "questioner",
+      "full_text": "قال رجل لأبي تراب يوما: ألك حاجة؟",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

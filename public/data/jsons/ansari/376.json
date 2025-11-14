@@ -1,0 +1,373 @@
+{
+  "bio_id": "376",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "334",
+    "full_text": "در سنه اربع و ثلثین و ثلثمائه برفته از دنیا در ماه ذی الحجه فی سنة التی خلع المستکفی باللّه ثم استخلف المطیع للّه",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "مصر",
+      "context": "nisba",
+      "full_text": "وی مصریست"
+    },
+    {
+      "place": "بغداد",
+      "context": "visited",
+      "full_text": "ببغداد آمد"
+    },
+    {
+      "place": "بغداد",
+      "context": "mentioned",
+      "full_text": "و برگور وی جعفر بن یونس نوشته است ببغداد"
+    },
+    {
+      "place": "اسرو شنه",
+      "context": "mentioned",
+      "full_text": "وگفتهاند، کی اصل شبلی از اسرو شنه «بود و مولد» بسامره."
+    },
+    {
+      "place": "سامره",
+      "context": "born",
+      "full_text": "وگفتهاند، کی اصل شبلی از اسرو شنه «بود و مولد» بسامره."
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: قدس اللّه روحه و عظم کرامته، کی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الجنید",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376
+        },
+        {
+          "name": NaN,
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال الجنید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جنید",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "جنیدگفته:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعبداللّه",
+          "person_id": 852,
+          "canonical_name": "أبو عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن یحیی الفرغانی",
+          "person_id": 2472,
+          "canonical_name": "محمد بن يحيي الفرغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابوبکر تفلیسی",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        },
+        {
+          "name": "ابن زیری",
+          "person_id": 23,
+          "canonical_name": "ابن زيري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جنید",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بوعبداللّه گفت، کی محمد بن یحیی الفرغانی گفته: کی از ابوبکر تفلیسی شنیدهم، و از ابن زیری که جنیدگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جنید",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "جنیدگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شبلی",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شبلی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوسعد مالینی",
+          "person_id": 796,
+          "canonical_name": "أبو سعد الماليني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شبلی",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی شیخ بوسعد مالینی حافظ صوفی آورده این حکایت از شبلی، که وی گفته:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت و وصیت کرد که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "شبلی",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و شبلی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "کسی",
+          "person_id": 1530,
+          "canonical_name": "رجل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "کسی فرا شبلی گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "جنید",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد جنید٭ ایذ عالم بوده",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت: قدس اللّه روحه و عظم کرامته، کی",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "بوعبداللّه",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت: که بوعبداللّه گفت، کی محمد بن یحیی الفرغانی گفته: کی از ابوبکر تفلیسی شنیدهم، و از ابن زیری که جنیدگفت:",
+      "person_id": 852,
+      "canonical_name": "أبو عبد الله",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن یحیی الفرغانی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت: که بوعبداللّه گفت، کی محمد بن یحیی الفرغانی گفته: کی از ابوبکر تفلیسی شنیدهم، و از ابن زیری که جنیدگفت:",
+      "person_id": 2472,
+      "canonical_name": "محمد بن يحيي الفرغاني",
+      "has_id": NaN
+    },
+    {
+      "name": "ابوبکر تفلیسی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت: که بوعبداللّه گفت، کی محمد بن یحیی الفرغانی گفته: کی از ابوبکر تفلیسی شنیدهم، و از ابن زیری که جنیدگفت:",
+      "person_id": 612,
+      "canonical_name": "أبو بكر التفليسي",
+      "has_id": NaN
+    },
+    {
+      "name": "ابن زیری",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت: که بوعبداللّه گفت، کی محمد بن یحیی الفرغانی گفته: کی از ابوبکر تفلیسی شنیدهم، و از ابن زیری که جنیدگفت:",
+      "person_id": 23,
+      "canonical_name": "ابن زيري",
+      "has_id": NaN
+    },
+    {
+      "name": "الجنید",
+      "relationship_type": "narrator",
+      "full_text": "قال الجنید",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    },
+    {
+      "name": "شیخ بوسعد مالینی",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت: کی شیخ بوسعد مالینی حافظ صوفی آورده این حکایت از شبلی، که وی گفته:",
+      "person_id": 796,
+      "canonical_name": "أبو سعد الماليني",
+      "has_id": NaN
+    },
+    {
+      "name": "خیر نساج٭",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "در مجلس خیر نساج٭ توبه کرد",
+      "full_text": "در مجلس خیر نساج٭ توبه کرد",
+      "person_id": 1510,
+      "canonical_name": "خير النساج",
+      "has_id": 564
+    },
+    {
+      "name": "ابن عطا",
+      "relationship_type": "interlocutor",
+      "full_text": "فقال له ابن عطا هکذی یا باالقاسم!فقال نعم یا احمد!",
+      "person_id": 498,
+      "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+      "has_id": 340
+    },
+    {
+      "name": "کسی",
+      "relationship_type": "questioner",
+      "context": "مرا دعا کن",
+      "full_text": "کسی فرا شبلی گفت: کی مرا دعا کن، این بیت برخواند.",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

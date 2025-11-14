@@ -1,0 +1,146 @@
+{
+  "bio_id": "29",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "330",
+    "full_text": "در سنه ثلثین و ثلثمائه برفته از دنیا.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "ابهر",
+      "context": "nisba",
+      "full_text": "الابهری"
+    },
+    {
+      "place": "جبل",
+      "context": "lived",
+      "full_text": "از مهینان مشایخ جبل است"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "مهلب بن احمدبن مرزوق",
+          "person_id": 2558,
+          "canonical_name": "مهلب بن أحمد بن مرزوق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ مهلب مصری گوید، مهلب بن احمدبن مرزوق:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوبکر بن طاهر",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و قال ابوبکر بن طاهر:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوبکر بن طاهر",
+          "person_id": 686,
+          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+          "has_id": 29,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و قال",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "یوسف حسن رازی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "صحبت کرده با یوسف حسن رازی.",
+        "person_id": 1140,
+        "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+        "has_id": 847
+      }
+    ],
+    "students": [
+      {
+        "name": "مهلب بن احمدبن مرزوق",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "صحبت",
+        "full_text": "صحبت شیخ بوبکر طاهر ابهری.",
+        "person_id": 2558,
+        "canonical_name": "مهلب بن أحمد بن مرزوق",
+        "has_id": NaN
+      }
+    ],
+    "companions": [
+      {
+        "name": "شبلی٭",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "از اقران شبلی٭ بوده",
+        "person_id": 628,
+        "canonical_name": "أبو بكر الشبلي",
+        "has_id": 376
+      },
+      {
+        "name": "مظفر کرمانشاهی",
+        "relationship_type": "peer",
+        "relationship_phrase": "رفیق",
+        "full_text": "رفیق مظفر کرمانشاهی بوده",
+        "person_id": 2513,
+        "canonical_name": "مظفر القرميسيني",
+        "has_id": 807
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "مهلب بن احمدبن مرزوق",
+      "relationship_type": "narrator",
+      "full_text": "شیخ مهلب مصری گوید، مهلب بن احمدبن مرزوق:",
+      "person_id": 2558,
+      "canonical_name": "مهلب بن أحمد بن مرزوق",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    }
+  ]
+}

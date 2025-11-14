@@ -1,0 +1,112 @@
+{
+  "bio_id": "401",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "الشام",
+      "context": "mentioned",
+      "full_text": "من كبار العارفين بالشام"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد بن جعفر",
+          "person_id": 1868,
+          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسحاق بن أبي حسان",
+          "person_id": 343,
+          "canonical_name": "إسحاق بن أبي حسان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد ابن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "أبو سعيد البراقعي",
+          "person_id": 799,
+          "canonical_name": "أبو سعيد البراقعي",
+          "has_id": 401,
+          "subj_added": false
+        },
+        {
+          "name": "عبيد الله بن زحر الحداد",
+          "person_id": 1930,
+          "canonical_name": "عبيد الله بن زحر الحداد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "صالح المري",
+          "person_id": 1684,
+          "canonical_name": "صالح المري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حوشب",
+          "person_id": 1483,
+          "canonical_name": "حوشب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن",
+          "person_id": 75,
+          "canonical_name": "الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد بن جعفر ثنا إسحاق بن أبي حسان ثنا أحمد ابن أبي الحواري ثنا أبو سعيد البراقعي ثنا عبيد الله بن زحر الحداد عن صالح المري عن حوشب عن الحسن",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "عبيد الله بن زحر الحداد",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا عبيد الله بن زحر الحداد",
+        "person_id": 1930,
+        "canonical_name": "عبيد الله بن زحر الحداد",
+        "has_id": NaN
+      }
+    ],
+    "students": [
+      {
+        "name": "أحمد ابن أبي الحواري",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أبو سعيد البراقعي",
+        "person_id": 1177,
+        "canonical_name": "أحمد بن أبي الحواري",
+        "has_id": 442
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أحمد ابن أبي الحواري",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أحمد ابن أبي الحواري",
+      "person_id": 1177,
+      "canonical_name": "أحمد بن أبي الحواري",
+      "has_id": 442
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "bio_id": "313",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "مصر",
+      "context": "lived",
+      "full_text": "از اجلهٔ مشایخ مصر بوده"
+    },
+    {
+      "place": "تیه",
+      "context": "visited",
+      "full_text": "در تیه برفت"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "بوعثمان مغربی٭",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        },
+        {
+          "name": "بوعلی کاتب",
+          "person_id": 973,
+          "canonical_name": "أبو علي بن الكاتب",
+          "has_id": 23,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 457,
+          "canonical_name": "أبو الحسين بن بنان",
+          "has_id": 313,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "بوعثمان مغربی٭ گوید، که بوعلی کاتب گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالحسین بنان",
+          "person_id": 457,
+          "canonical_name": "أبو الحسين بن بنان",
+          "has_id": 313,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوالحسین بنان گفته:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالحسین بنان",
+          "person_id": 457,
+          "canonical_name": "أبو الحسين بن بنان",
+          "has_id": 313,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالحسین بنان",
+          "person_id": 457,
+          "canonical_name": "أبو الحسين بن بنان",
+          "has_id": 313,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "شیخ بوسعید خراز٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "با شیخ بوسعید خراز٭ صحبت کرده",
+        "person_id": 801,
+        "canonical_name": "أبو سعيد الخراز",
+        "has_id": 123
+      },
+      {
+        "name": "شیخ بوسعید خراز٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "بوی نسبت کند",
+        "full_text": "بوی نسبت کند",
+        "person_id": 801,
+        "canonical_name": "أبو سعيد الخراز",
+        "has_id": 123
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "بوعثمان مغربی٭",
+      "relationship_type": "narrator",
+      "full_text": "بوعثمان مغربی٭ گوید",
+      "person_id": 942,
+      "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+      "has_id": 156
+    },
+    {
+      "name": "بوعلی کاتب",
+      "relationship_type": "narrator",
+      "full_text": "بوعلی کاتب گفت:",
+      "person_id": 973,
+      "canonical_name": "أبو علي بن الكاتب",
+      "has_id": 23
+    },
+    {
+      "name": "بوسعید خراز٭",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "بوسعید خراز ویرا دست میزِد.",
+      "person_id": 801,
+      "canonical_name": "أبو سعيد الخراز",
+      "has_id": 123
+    }
+  ]
+}

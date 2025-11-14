@@ -1,0 +1,79 @@
+{
+  "bio_id": "805",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو بكر محمد بن أحمد المؤذن",
+          "person_id": 696,
+          "canonical_name": "أبو بكر محمد بن أحمد المؤذن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبان",
+          "person_id": 1175,
+          "canonical_name": "أحمد بن أبان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر بن سفيان",
+          "person_id": 671,
+          "canonical_name": "أبو بكر بن سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 2239,
+          "canonical_name": "محمد بن الحسين البرجلاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مسكين بن عبيد الصوفي",
+          "person_id": 2501,
+          "canonical_name": "مسكين بن عبيد الصوفي",
+          "has_id": 804,
+          "subj_added": false
+        },
+        {
+          "name": "المتوكل ابن الحسين العابد",
+          "person_id": 225,
+          "canonical_name": "المتوكل بن الحسين العابد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن أدهم",
+          "person_id": 301,
+          "canonical_name": "إبراهيم بن أدهم",
+          "has_id": 274,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو بكر محمد بن أحمد المؤذن ثنا أحمد بن أبان ثنا أبو بكر بن سفيان ثنا محمد بن الحسين ثنا مسكين بن عبيد الصوفي. قال: حدثنى المتوكل ابن الحسين العابد. قال قال إبراهيم بن أدهم",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "محمد بن الحسين",
+      "relationship_type": "narrator",
+      "full_text": "ثنا محمد بن الحسين ثنا مسكين بن عبيد الصوفي",
+      "person_id": 845,
+      "canonical_name": "أبو عبد الرحمن السلمي",
+      "has_id": 133
+    }
+  ]
+}

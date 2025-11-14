@@ -1,0 +1,326 @@
+{
+  "bio_id": "702",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "353",
+    "full_text": "مَاتَ سنة ثَلَاث وَخمسين وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "شيراز",
+      "context": "born",
+      "full_text": "من أهل شيراز"
+    },
+    {
+      "place": "أرجان",
+      "context": "lived",
+      "full_text": "سكن أرجان"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن مُحَمَّد الإصبهاني",
+          "person_id": 1913,
+          "canonical_name": "عبد الواحد بن محمد الإصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنْدَار بن الْحُسَيْن",
+          "person_id": 1364,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الْوَاحِد بن مُحَمَّد الإصبهاني يَقُول سَمِعت بنْدَار بن الْحُسَيْن",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن مُحَمَّد الإصبهاني",
+          "person_id": 1913,
+          "canonical_name": "عبد الواحد بن محمد الإصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنْدَار بن الْحُسَيْن",
+          "person_id": 1364,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت بنْدَار بن الْحُسَيْن يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن مُحَمَّد",
+          "person_id": 1913,
+          "canonical_name": "عبد الواحد بن محمد الإصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنْدَار",
+          "person_id": 1364,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الْوَاحِد بن مُحَمَّد يَقُول سَمِعت بنْدَار يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن مُحَمَّد",
+          "person_id": 1913,
+          "canonical_name": "عبد الواحد بن محمد الإصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنْدَار",
+          "person_id": 1364,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت بنْدَار يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن مُحَمَّد",
+          "person_id": 1913,
+          "canonical_name": "عبد الواحد بن محمد الإصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنْدَار",
+          "person_id": 1364,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ بنْدَار",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن مُحَمَّد",
+          "person_id": 1913,
+          "canonical_name": "عبد الواحد بن محمد الإصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنْدَار",
+          "person_id": 1364,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت بنْدَار يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن مُحَمَّد",
+          "person_id": 1913,
+          "canonical_name": "عبد الواحد بن محمد الإصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنْدَار",
+          "person_id": 1364,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت بنْدَار وَسَأَلته عَن الْفرق بَين الْمحبَّة وَالْحيَاء",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن مُحَمَّد",
+          "person_id": 1913,
+          "canonical_name": "عبد الواحد بن محمد الإصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنْدَار",
+          "person_id": 1364,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت بنْدَار يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن مُحَمَّد",
+          "person_id": 1913,
+          "canonical_name": "عبد الواحد بن محمد الإصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنْدَار",
+          "person_id": 1364,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت بنْدَار يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن مُحَمَّد",
+          "person_id": 1913,
+          "canonical_name": "عبد الواحد بن محمد الإصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنْدَار",
+          "person_id": 1364,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت بنْدَار يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن مُحَمَّد",
+          "person_id": 1913,
+          "canonical_name": "عبد الواحد بن محمد الإصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنْدَار",
+          "person_id": 1364,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت بنْدَار يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنْدَار",
+          "person_id": 1364,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أَنْشدني مُحَمَّد بن عبد الله الرَّازِيّ قَالَ أَنْشدني بنْدَار",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أَبُو بكر الشبلي",
+        "relationship_type": "peer",
+        "relationship_phrase": "يُكرمهُ ويعظم قدره",
+        "full_text": "وَكَانَ أَبُو بكر الشبلي يُكرمهُ ويعظم قدره",
+        "person_id": 628,
+        "canonical_name": "أبو بكر الشبلي",
+        "has_id": 376
+      },
+      {
+        "name": "أبي عبد الله بن خَفِيف",
+        "relationship_type": "peer",
+        "relationship_phrase": "وَبَينه وَبَين",
+        "full_text": "وَبَينه وَبَين أبي عبد الله بن خَفِيف مفاوضات فِي مسَائِل شَتَّى",
+        "person_id": 22,
+        "canonical_name": "أبو عبد الله بن خفيف",
+        "has_id": 26
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "عبد الْوَاحِد بن مُحَمَّد الإصبهاني",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت عبد الْوَاحِد بن مُحَمَّد الإصبهاني يَقُول",
+      "person_id": 1913,
+      "canonical_name": "عبد الواحد بن محمد الإصبهاني",
+      "has_id": NaN
+    },
+    {
+      "name": "مُحَمَّد بن عبد الله الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "أَنْشدني مُحَمَّد بن عبد الله الرَّازِيّ",
+      "person_id": 2380,
+      "canonical_name": "محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبُو زرْعَة الطَّبَرِيّ",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "غسله",
+      "full_text": "وغسله أَبُو زرْعَة الطَّبَرِيّ",
+      "person_id": 789,
+      "canonical_name": "أبو زرعة الطبري",
+      "has_id": NaN
+    }
+  ]
+}

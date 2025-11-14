@@ -1,0 +1,115 @@
+{
+  "bio_id": "250",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1855,
+          "canonical_name": "عبد الله بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن محمد العسكري",
+          "person_id": 2065,
+          "canonical_name": "علي بن محمد العسكري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم ابن جعفر الحلوذاني",
+          "person_id": 307,
+          "canonical_name": "إبراهيم بن جعفر الحلوذاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن معاوية الأزرق",
+          "person_id": 2451,
+          "canonical_name": "محمد بن معاوية الأزرق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو هاشم",
+          "person_id": 1117,
+          "canonical_name": "أبو هاشم الزاهد",
+          "has_id": 434,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد ثنا علي بن محمد العسكري قال: حدثنى إبراهيم ابن جعفر الحلوذاني قال حدثني محمد بن معاوية الأزرق قال قال أبو هاشم",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد بن سعيد",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عباس ابن حمزة",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "أبو هاشم",
+          "person_id": 1117,
+          "canonical_name": "أبو هاشم الزاهد",
+          "has_id": 434,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن الحسين بن موسى ثنا محمد بن أحمد بن سعيد ثنا عباس ابن حمزة ثنا أحمد بن أبي الحواري. قال سمعت أبا هاشم يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "محمد بن معاوية الأزرق",
+      "relationship_type": "narrator",
+      "full_text": "قال حدثني محمد بن معاوية الأزرق قال قال أبو هاشم",
+      "person_id": 2451,
+      "canonical_name": "محمد بن معاوية الأزرق",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد بن أبي الحواري",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أحمد بن أبي الحواري. قال سمعت أبا هاشم يقول",
+      "person_id": 1177,
+      "canonical_name": "أحمد بن أبي الحواري",
+      "has_id": 442
+    }
+  ]
+}

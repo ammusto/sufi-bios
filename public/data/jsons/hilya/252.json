@@ -1,0 +1,83 @@
+{
+  "bio_id": "252",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "أصبهان",
+      "context": "nisba",
+      "full_text": "من أهل أصبهان"
+    },
+    {
+      "place": "المدينة",
+      "context": "mentioned",
+      "full_text": "وهو على سور المدينة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا محمد بن حيان",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبى عبد الله الكسائى",
+          "person_id": 883,
+          "canonical_name": "أبو عبد الله الكسائى",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا محمد بن حيان يحكي عن أبى عبد الله الكسائى قال",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "سفيان الثوري",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب سفيان الثوري ومالك بن أنس.",
+        "person_id": 1607,
+        "canonical_name": "سفيان الثوري",
+        "has_id": 598
+      },
+      {
+        "name": "مالك بن أنس",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب سفيان الثوري ومالك بن أنس.",
+        "person_id": 2204,
+        "canonical_name": "مالك بن أنس",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أبى عبد الله الكسائى",
+      "relationship_type": "narrator",
+      "full_text": "يحكي عن أبى عبد الله الكسائى قال",
+      "person_id": 883,
+      "canonical_name": "أبو عبد الله الكسائى",
+      "has_id": NaN
+    },
+    {
+      "name": "رجلا",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "رأى في المنام",
+      "full_text": "بلغني أن رجلا رأى في المنام",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

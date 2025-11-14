@@ -1,0 +1,473 @@
+{
+  "bio_id": "478",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "نشاپور",
+      "context": "lived",
+      "full_text": "از متاخران در نشاپور"
+    },
+    {
+      "place": "نشاپور",
+      "context": "visited",
+      "full_text": "بنشاپور بابوعثمان حیری و محفوظ٭ صحبت کرده،"
+    },
+    {
+      "place": "سمرقند",
+      "context": "visited",
+      "full_text": "و بسمرقند با محمد فضل بلخی٭"
+    },
+    {
+      "place": "بلخ",
+      "context": "visited",
+      "full_text": "و ببلخ بامحمد\nحامد٭"
+    },
+    {
+      "place": "گوز گانان",
+      "context": "visited",
+      "full_text": "و بگوز گانان بابوعلی گوزگانی٭"
+    },
+    {
+      "place": "ری",
+      "context": "visited",
+      "full_text": "و بری با یوسف حسین رازی٭"
+    },
+    {
+      "place": "بغداد",
+      "context": "visited",
+      "full_text": "و ببغداد جنید دیده و رویم و سمنون و بوالعباس عطا و جریری٭"
+    },
+    {
+      "place": "شام",
+      "context": "visited",
+      "full_text": "و بشام باطاهر مقدسی، و بابوعبداللّه جلا و بابوعمرو دمشقی،"
+    },
+    {
+      "place": "دمشق",
+      "context": "visited",
+      "full_text": "علی بندارگوید: که در دمشق شدم بنزدیک بوعبداللّه جلی رفتم"
+    },
+    {
+      "place": "مصر",
+      "context": "visited",
+      "full_text": "و بمصر بابوکر مصری و بابوبکر مصری و بابوبکر زقاق و بوعلی رودباری٭ صحبت کرده،"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "علی بندار",
+          "person_id": 431,
+          "canonical_name": "أبو الحسن علي بن بندار الصيرفي",
+          "has_id": 478,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "علی بندارگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "علی بندار",
+          "person_id": 431,
+          "canonical_name": "أبو الحسن علي بن بندار الصيرفي",
+          "has_id": 478,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "علی بندارگوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الامام",
+          "person_id": 55,
+          "canonical_name": "الامام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 431,
+          "canonical_name": "أبو الحسن علي بن بندار الصيرفي",
+          "has_id": 478,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وانشدنا الامام لنفسه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمدبن علی بن بندار الصیر فی",
+          "person_id": 2417,
+          "canonical_name": "محمد بن علي بن بندار الصيرفي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "واسطی٭",
+          "person_id": 653,
+          "canonical_name": "أبو بكر الواسطي",
+          "has_id": 379,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 431,
+          "canonical_name": "أبو الحسن علي بن بندار الصيرفي",
+          "has_id": 478,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بحط محمدبن علی بن بندار الصیر فی دیدم: در کتابی: که واسطی٭ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "ابوعثمان حیری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "بنشاپور بابوعثمان حیری و محفوظ٭ صحبت کرده،",
+        "person_id": 932,
+        "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+        "has_id": 419
+      },
+      {
+        "name": "محفوظ٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "بنشاپور بابوعثمان حیری و محفوظ٭ صحبت کرده،",
+        "person_id": 2212,
+        "canonical_name": "محفوظ",
+        "has_id": NaN
+      },
+      {
+        "name": "محمد فضل بلخی٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "با ...",
+        "full_text": "و بسمرقند با محمد فضل بلخی٭",
+        "person_id": 2254,
+        "canonical_name": "محمد بن الفضل البلخي",
+        "has_id": 770
+      },
+      {
+        "name": "محمد\nحامد٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "با ...",
+        "full_text": "و ببلخ بامحمد\nحامد٭",
+        "person_id": 2337,
+        "canonical_name": "محمد بن حامد الترمذي",
+        "has_id": 381
+      },
+      {
+        "name": "ابوعلی گوزگانی٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "با ...",
+        "full_text": "و بگوز گانان بابوعلی گوزگانی٭",
+        "person_id": 966,
+        "canonical_name": "أبو علي الگوزگاني",
+        "has_id": NaN
+      },
+      {
+        "name": "یوسف حسین رازی٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "با ...",
+        "full_text": "و بری با یوسف حسین رازی٭",
+        "person_id": 1140,
+        "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+        "has_id": 847
+      },
+      {
+        "name": "جنید",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده",
+        "full_text": "و ببغداد جنید دیده و رویم و سمنون و بوالعباس عطا و جریری٭",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "رویم",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده",
+        "full_text": "و ببغداد جنید دیده و رویم و سمنون و بوالعباس عطا و جریری٭",
+        "person_id": 1553,
+        "canonical_name": "رويم بن أحمد",
+        "has_id": 578
+      },
+      {
+        "name": "سمنون",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده",
+        "full_text": "و ببغداد جنید دیده و رویم و سمنون و بوالعباس عطا و جریری٭",
+        "person_id": 1634,
+        "canonical_name": "سمنون بن حمزة المحب",
+        "has_id": 603
+      },
+      {
+        "name": "بوالعباس عطا",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده",
+        "full_text": "و ببغداد جنید دیده و رویم و سمنون و بوالعباس عطا و جریری٭",
+        "person_id": 498,
+        "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+        "has_id": 340
+      },
+      {
+        "name": "جریری٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده",
+        "full_text": "و ببغداد جنید دیده و رویم و سمنون و بوالعباس عطا و جریری٭",
+        "person_id": 1035,
+        "canonical_name": "أبو محمد الجريري",
+        "has_id": 431
+      },
+      {
+        "name": "طاهر مقدسی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "با ... صحبت کرده",
+        "full_text": "و بشام باطاهر مقدسی، و بابوعبداللّه جلا و بابوعمرو دمشقی، و بمصر بابوکر مصری و بابوبکر مصری و بابوبکر زقاق و بوعلی رودباری٭ صحبت کرده،",
+        "person_id": 1696,
+        "canonical_name": "طاهر المقدسي",
+        "has_id": 640
+      },
+      {
+        "name": "بوعبداللّه جلا",
+        "relationship_type": "student_of",
+        "relationship_phrase": "با ... صحبت کرده",
+        "full_text": "و بشام باطاهر مقدسی، و بابوعبداللّه جلا و بابوعمرو دمشقی، و بمصر بابوکر مصری و بابوبکر مصری و بابوبکر زقاق و بوعلی رودباری٭ صحبت کرده،",
+        "person_id": 901,
+        "canonical_name": "أبو عبد الله بن جلاء",
+        "has_id": NaN
+      },
+      {
+        "name": "بوعمرو دمشقی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "با ... صحبت کرده",
+        "full_text": "و بشام باطاهر مقدسی، و بابوعبداللّه جلا و بابوعمرو دمشقی، و بمصر بابوکر مصری و بابوبکر مصری و بابوبکر زقاق و بوعلی رودباری٭ صحبت کرده،",
+        "person_id": 1010,
+        "canonical_name": "أبو عمرو الدمشقي",
+        "has_id": 425
+      },
+      {
+        "name": "ابوکر مصری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "با ... صحبت کرده",
+        "full_text": "و بشام باطاهر مقدسی، و بابوعبداللّه جلا و بابوعمرو دمشقی، و بمصر بابوکر مصری و بابوبکر مصری و بابوبکر زقاق و بوعلی رودباری٭ صحبت کرده،",
+        "person_id": 1030,
+        "canonical_name": "أبو كر مصري",
+        "has_id": NaN
+      },
+      {
+        "name": "ابوبکر مصری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "با ... صحبت کرده",
+        "full_text": "و بشام باطاهر مقدسی، و بابوعبداللّه جلا و بابوعمرو دمشقی، و بمصر بابوکر مصری و بابوبکر مصری و بابوبکر زقاق و بوعلی رودباری٭ صحبت کرده،",
+        "person_id": 645,
+        "canonical_name": "أبو بكر المصري",
+        "has_id": 89
+      },
+      {
+        "name": "ابوبکر زقاق",
+        "relationship_type": "student_of",
+        "relationship_phrase": "با ... صحبت کرده",
+        "full_text": "و بشام باطاهر مقدسی، و بابوعبداللّه جلا و بابوعمرو دمشقی، و بمصر بابوکر مصری و بابوبکر مصری و بابوبکر زقاق و بوعلی رودباری٭ صحبت کرده،",
+        "person_id": 625,
+        "canonical_name": "أبو بكر الزقاق",
+        "has_id": 375
+      },
+      {
+        "name": "بوعلی رودباری٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "با ... صحبت کرده",
+        "full_text": "و بشام باطاهر مقدسی، و بابوعبداللّه جلا و بابوعمرو دمشقی، و بمصر بابوکر مصری و بابوبکر مصری و بابوبکر زقاق و بوعلی رودباری٭ صحبت کرده،",
+        "person_id": 959,
+        "canonical_name": "أبو علي الروذباري",
+        "has_id": 422
+      }
+    ],
+    "students": [
+      {
+        "name": "قاضی",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "از روی حدیث سماع دشتند",
+        "full_text": "قاضی با منصور ازدی هروی و با منصور فقیه نباح ویرا دیده بود و از روی حدیث سماع دشتند.",
+        "person_id": 212,
+        "canonical_name": "القاضي",
+        "has_id": NaN
+      },
+      {
+        "name": "منصور ازدی هروی",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "از روی حدیث سماع دشتند",
+        "full_text": "قاضی با منصور ازدی هروی و با منصور فقیه نباح ویرا دیده بود و از روی حدیث سماع دشتند.",
+        "person_id": 2542,
+        "canonical_name": "منصور الأزدي الهروي",
+        "has_id": NaN
+      },
+      {
+        "name": "منصور فقیه نباح",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "از روی حدیث سماع دشتند",
+        "full_text": "قاضی با منصور ازدی هروی و با منصور فقیه نباح ویرا دیده بود و از روی حدیث سماع دشتند.",
+        "person_id": 2555,
+        "canonical_name": "منصور فقيه نباح",
+        "has_id": NaN
+      }
+    ],
+    "companions": [
+      {
+        "name": "نصر آبادی",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "از اقران نصر آبادی و بوعثمان مغربی و بوعبداللّه خفیف٭ و جز ایشان،",
+        "person_id": 545,
+        "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+        "has_id": 360
+      },
+      {
+        "name": "بوعثمان مغربی",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "از اقران نصر آبادی و بوعثمان مغربی و بوعبداللّه خفیف٭ و جز ایشان،",
+        "person_id": 942,
+        "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+        "has_id": 156
+      },
+      {
+        "name": "بوعبداللّه خفیف٭",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "از اقران نصر آبادی و بوعثمان مغربی و بوعبداللّه خفیف٭ و جز ایشان،",
+        "person_id": 22,
+        "canonical_name": "أبو عبد الله بن خفيف",
+        "has_id": 26
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت: که مهینه نسبت این طایفه دیدار پیرانست و صحبت بایشان.",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "الامام",
+      "relationship_type": "narrator",
+      "full_text": "وانشدنا الامام لنفسه",
+      "person_id": 55,
+      "canonical_name": "الامام",
+      "has_id": NaN
+    },
+    {
+      "name": "محمدبن علی بن بندار الصیر فی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت: که بحط محمدبن علی بن بندار الصیر فی دیدم: در کتابی: که واسطی٭ گوید: کی هر چه این طایف دارند، ازین کار از علم و",
+      "person_id": 2417,
+      "canonical_name": "محمد بن علي بن بندار الصيرفي",
+      "has_id": NaN
+    },
+    {
+      "name": "واسطی٭",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت: که بحط محمدبن علی بن بندار الصیر فی دیدم: در کتابی: که واسطی٭ گوید: کی هر چه این طایف دارند، ازین کار از علم و",
+      "person_id": 653,
+      "canonical_name": "أبو بكر الواسطي",
+      "has_id": 379
+    },
+    {
+      "name": "قاضی",
+      "relationship_type": "narrator",
+      "context": "direct_narrator؛ از روی حدیث سماع داشت",
+      "full_text": "قاضی با منصور ازدی هروی و با منصور فقیه نباح ویرا دیده بود و از روی حدیث سماع دشتند.",
+      "person_id": 212,
+      "canonical_name": "القاضي",
+      "has_id": NaN
+    },
+    {
+      "name": "منصور ازدی هروی",
+      "relationship_type": "narrator",
+      "context": "direct_narrator؛ از روی حدیث سماع داشت",
+      "full_text": "قاضی با منصور ازدی هروی و با منصور فقیه نباح ویرا دیده بود و از روی حدیث سماع دشتند.",
+      "person_id": 2542,
+      "canonical_name": "منصور الأزدي الهروي",
+      "has_id": NaN
+    },
+    {
+      "name": "منصور فقیه نباح",
+      "relationship_type": "narrator",
+      "context": "direct_narrator؛ از روی حدیث سماع داشت",
+      "full_text": "قاضی با منصور ازدی هروی و با منصور فقیه نباح ویرا دیده بود و از روی حدیث سماع دشتند.",
+      "person_id": 2555,
+      "canonical_name": "منصور فقيه نباح",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ بوعبداللّه خفیف٭",
+      "relationship_type": "interlocutor",
+      "full_text": "وقتی این علی بندار با شیخ بوعبداللّه خفیف٭ میرفت، در راه در تنگی پل رسیدند، شیخ بوعبداللّه خفیف ویرا گفت: فرا پیش رو وی گفت: فرا پیش تو. گفت: ابح گفت: چرا؟ گفتی: تو جنید دیدهٔ من ندیدهام.",
+      "person_id": 22,
+      "canonical_name": "أبو عبد الله بن خفيف",
+      "has_id": 26
+    },
+    {
+      "name": "بوعبداللّه جلی",
+      "relationship_type": "interlocutor",
+      "full_text": "علی بندارگوید: که در دمشق شدم بنزدیک بوعبداللّه جلی رفتم مرا گفت: علی! کی در دمشق آمدی؟ گفتم: سه روز است. گفت: کجا بودی که درین سه روز برمن نیامدی؟ گفتم؟ بابن جرصا بودم بحدیث نوشتن. گفت: شغلک الفضل عن الفرض گفت: فضیله تو از فریضه مشغول داشت «یعنی فضایل و نوافل و سنت. تر از فریضه مشغول کرد».",
+      "person_id": 901,
+      "canonical_name": "أبو عبد الله بن جلاء",
+      "has_id": NaN
+    },
+    {
+      "name": "ابن جرصا",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "حدیث نوشتن",
+      "full_text": "گفتم؟ بابن جرصا بودم بحدیث نوشتن.",
+      "person_id": 16,
+      "canonical_name": "أبو الحسن السري بن المغلس",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "فرزند",
+      "full_text": "علی بندار پسری داشت محمدنام، نجیب بن عزیز بود وعارف بن عارف، نادر بود.",
+      "person_id": 2214,
+      "canonical_name": "محمد",
+      "has_id": NaN
+    }
+  ]
+}

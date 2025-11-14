@@ -1,0 +1,920 @@
+{
+  "bio_id": "388",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "245",
+    "full_text": "توفّي فِي الْبَادِيَة قيل نهشته السبَاع سنة خمس وَأَرْبَعين وَمِائَتَيْنِ",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "نخشب",
+      "context": "nisba",
+      "full_text": "النخشبي"
+    },
+    {
+      "place": "الْبَادِيَة",
+      "context": "died",
+      "full_text": "توفّي فِي الْبَادِيَة"
+    },
+    {
+      "place": "الْبَادِيَة",
+      "context": "visited",
+      "full_text": "قلت لأبي تُرَاب وَقد أَخذ طَرِيق الْبَادِيَة"
+    },
+    {
+      "place": "خُرَاسَان",
+      "context": "mentioned",
+      "full_text": "وَهُوَ من جلة مَشَايِخ خُرَاسَان"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن الْقزْوِينِي",
+          "person_id": 433,
+          "canonical_name": "أبو الحسن علي بن محمد القزويني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عَبدك",
+          "person_id": 2052,
+          "canonical_name": "علي بن عبدك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابا عمرَان الطبرستاني",
+          "person_id": 1000,
+          "canonical_name": "أبو عمران الطبرستاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن الْفَرَجِيِّ",
+          "person_id": 749,
+          "canonical_name": "أبو جعفر محمد بن يعقوب الفرجي",
+          "has_id": 21,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحسن الْقزْوِينِي يَقُول سَمِعت عَليّ بن عَبدك يَقُول سَمِعت ابا عمرَان الطبرستاني يَقُول سَمِعت ابْن الْفَرَجِيِّ يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ الطوسي",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن دَاوُد الدقي الدينَوَرِي",
+          "person_id": 621,
+          "canonical_name": "أبو بكر الدقي",
+          "has_id": 382,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله بن الْجلاء",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الله بن عَليّ الطوسي يَقُول سَمِعت مُحَمَّد بن دَاوُد الدقي الدينَوَرِي يَقُول سَمِعت أَبَا عبد الله بن الْجلاء يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد بن فَارس الْحَافِظ الْبَغْدَادِيّ",
+          "person_id": 2313,
+          "canonical_name": "محمد بن أحمد بن فارس الحافظ البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله ابْن مُحَمَّد بن جَعْفَر الْأَصْبَهَانِيّ",
+          "person_id": 1868,
+          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد الله بن مُصعب",
+          "person_id": 2389,
+          "canonical_name": "محمد بن عبد الله بن مصعب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو تُرَاب عَسْكَر بن حُصَيْن",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن نمير",
+          "person_id": 2462,
+          "canonical_name": "محمد بن نمير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن ثَابت",
+          "person_id": 2326,
+          "canonical_name": "محمد بن ثابت البناني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شريك",
+          "person_id": 1667,
+          "canonical_name": "شريك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْأَعْمَش",
+          "person_id": 59,
+          "canonical_name": "الأعمش",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي سُفْيَان",
+          "person_id": 812,
+          "canonical_name": "أبو سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جَابر",
+          "person_id": 1372,
+          "canonical_name": "جابر",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا مُحَمَّد بن أَحْمد بن فَارس الْحَافِظ الْبَغْدَادِيّ بهَا قَالَ حَدثنَا عبد الله ابْن مُحَمَّد بن جَعْفَر الْأَصْبَهَانِيّ قَالَ حَدثنَا مُحَمَّد بن عبد الله بن مُصعب حَدثنَا أَبُو تُرَاب عَسْكَر بن حُصَيْن حَدثنَا مُحَمَّد بن نمير حَدثنَا مُحَمَّد بن ثَابت حَدثنَا شريك عَن الْأَعْمَش عَن أبي سُفْيَان عَن جَابر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن جَعْفَر الْأَصْبَهَانِيّ",
+          "person_id": 1868,
+          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مَنْصُور بن عبد الله الْأَصْبَهَانِيّ",
+          "person_id": 2549,
+          "canonical_name": "منصور بن عبد الله الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا جَعْفَر بن ترْكَان",
+          "person_id": 746,
+          "canonical_name": "أبو جعفر بن تركان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يَعْقُوب بن الْوَلِيد",
+          "person_id": 2661,
+          "canonical_name": "يعقوب بن الوليد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا تُرَاب",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا عبد الله بن مُحَمَّد بن جَعْفَر الْأَصْبَهَانِيّ إجَازَة بذلك قَالَ سَمِعت مَنْصُور بن عبد الله الْأَصْبَهَانِيّ يَقُول سَمِعت أَبَا جَعْفَر بن ترْكَان يَقُول سَمِعت يَعْقُوب بن الْوَلِيد يَقُول سَمِعت أَبَا تُرَاب يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر عبد الله بن عَليّ",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحُسَيْن",
+          "person_id": 2000,
+          "canonical_name": "علي بن الحسين التميمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا نصر عبد الله بن عَليّ يَقُول سَمِعت عَليّ بن الْحُسَيْن يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر عبد الله بن عَليّ",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحُسَيْن",
+          "person_id": 2000,
+          "canonical_name": "علي بن الحسين التميمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو تُرَاب اشرف الْقُلُوب قلب حَيّ بِنور الْفَهم عَن الله تَعَالَى",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر عبد الله بن عَليّ",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحُسَيْن",
+          "person_id": 2000,
+          "canonical_name": "علي بن الحسين التميمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو تُرَاب سَبَب الْوُصُول إِلَى الله سبع عشرَة دَرَجَة أدناها الْإِجَابَة وأعلاها التَّوَكُّل على الله بحقيقته",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر عبد الله بن عَليّ",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحُسَيْن",
+          "person_id": 2000,
+          "canonical_name": "علي بن الحسين التميمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو تُرَاب لَيْسَ من الْعِبَادَات شَيْء أَنْفَع من إصْلَاح خواطر الْقُلُوب",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر عبد الله بن عَليّ",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحُسَيْن",
+          "person_id": 2000,
+          "canonical_name": "علي بن الحسين التميمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو تُرَاب الْفَقِير قوته مَا وجد ولباسه مَا ستر ومسكنه حَيْثُ نزل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر عبد الله بن عَليّ",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحُسَيْن",
+          "person_id": 2000,
+          "canonical_name": "علي بن الحسين التميمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو تُرَاب إِذا صدق العَبْد فِي الْعَمَل وجد حلاوته قبل مُبَاشرَة الْعَمَل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر عبد الله بن عَليّ",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحُسَيْن",
+          "person_id": 2000,
+          "canonical_name": "علي بن الحسين التميمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو تُرَاب من شغل مَشْغُولًا بِاللَّه عَن الله أدْركهُ المقت من سَاعَته",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعيد الثغري",
+          "person_id": 2034,
+          "canonical_name": "علي بن سعيد الثغري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد السَّلَام بن مُحَمَّد المخرمي",
+          "person_id": 554,
+          "canonical_name": "أبو القاسم عبد السلام بن محمد المخزومي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن أبي شيخ",
+          "person_id": 13,
+          "canonical_name": "ابن أبي شيخ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحُسَيْن التَّمِيمِي",
+          "person_id": 2000,
+          "canonical_name": "علي بن الحسين التميمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا تُرَاب",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عَليّ بن سعيد الثغري يَقُول سَمِعت عبد السَّلَام بن مُحَمَّد المخرمي يَقُول سَمِعت ابْن أبي شيخ يَقُول سَمِعت عَليّ بن الْحُسَيْن التَّمِيمِي يَقُول سَمِعت أَبَا تُرَاب يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعيد الثغري",
+          "person_id": 2034,
+          "canonical_name": "علي بن سعيد الثغري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد السَّلَام بن مُحَمَّد المخرمي",
+          "person_id": 554,
+          "canonical_name": "أبو القاسم عبد السلام بن محمد المخزومي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن أبي شيخ",
+          "person_id": 13,
+          "canonical_name": "ابن أبي شيخ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحُسَيْن التَّمِيمِي",
+          "person_id": 2000,
+          "canonical_name": "علي بن الحسين التميمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا تُرَاب",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ رجل لأبي تُرَاب أَلَك حَاجَة فَقَالَ لَهُ يَوْم يكون لي إِلَيْك وَإِلَى أمثالك حَاجَة لَا يكون لي إِلَى الله حَاجَة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعيد الثغري",
+          "person_id": 2034,
+          "canonical_name": "علي بن سعيد الثغري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد السَّلَام بن مُحَمَّد المخرمي",
+          "person_id": 554,
+          "canonical_name": "أبو القاسم عبد السلام بن محمد المخزومي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن أبي شيخ",
+          "person_id": 13,
+          "canonical_name": "ابن أبي شيخ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحُسَيْن التَّمِيمِي",
+          "person_id": 2000,
+          "canonical_name": "علي بن الحسين التميمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا تُرَاب",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو تُرَاب حَقِيقَة الْغنى أَن تَسْتَغْنِي عَمَّن هُوَ مثلك وَحَقِيقَة الْفقر أَن تفْتَقر إِلَى من هُوَ مثلك",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن سعيد الثغري",
+          "person_id": 2034,
+          "canonical_name": "علي بن سعيد الثغري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد السَّلَام بن مُحَمَّد المخرمي",
+          "person_id": 554,
+          "canonical_name": "أبو القاسم عبد السلام بن محمد المخزومي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن أبي شيخ",
+          "person_id": 13,
+          "canonical_name": "ابن أبي شيخ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحُسَيْن التَّمِيمِي",
+          "person_id": 2000,
+          "canonical_name": "علي بن الحسين التميمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا تُرَاب",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو تُرَاب الَّذِي منع الصَّادِقين الشكوى إِلَى غير الله الْخَوْف من الله ﷿",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن مُحَمَّد بن زَكَرِيَّا النسوي",
+          "person_id": 500,
+          "canonical_name": "أبو العباس أحمد بن محمد بن زكريا النسوي",
+          "has_id": 107,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن إِبْرَاهِيم الشقيقي",
+          "person_id": 2012,
+          "canonical_name": "علي بن إبراهيم الشقيقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن المولد",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد الرَّافِعِيّ",
+          "person_id": 2297,
+          "canonical_name": "محمد بن أحمد الرافعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحُسَيْن التَّمِيمِي",
+          "person_id": 2000,
+          "canonical_name": "علي بن الحسين التميمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا تُرَاب النخشبي",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَحْمد بن مُحَمَّد بن زَكَرِيَّا النسوي يَقُول سَمِعت عَليّ بن إِبْرَاهِيم الشقيقي يَقُول سَمِعت إِبْرَاهِيم بن المولد يَقُول سَمِعت مُحَمَّد بن أَحْمد الرَّافِعِيّ يَقُول سَمِعت عَليّ بن الْحُسَيْن التَّمِيمِي يَقُول سَمِعت أَبَا تُرَاب النخشبي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن مُحَمَّد بن زَكَرِيَّا النسوي",
+          "person_id": 500,
+          "canonical_name": "أبو العباس أحمد بن محمد بن زكريا النسوي",
+          "has_id": 107,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن إِبْرَاهِيم الشقيقي",
+          "person_id": 2012,
+          "canonical_name": "علي بن إبراهيم الشقيقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن المولد",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد الرَّافِعِيّ",
+          "person_id": 2297,
+          "canonical_name": "محمد بن أحمد الرافعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحُسَيْن التَّمِيمِي",
+          "person_id": 2000,
+          "canonical_name": "علي بن الحسين التميمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا تُرَاب النخشبي",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو تُرَاب إِن الله ﷿ ينْطق الْعلمَاء فِي كل زمَان بِمَا يشاكل أَعمال أهل ذَلِك الزَّمَان",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن مُحَمَّد بن زَكَرِيَّا النسوي",
+          "person_id": 500,
+          "canonical_name": "أبو العباس أحمد بن محمد بن زكريا النسوي",
+          "has_id": 107,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن إِبْرَاهِيم الشقيقي",
+          "person_id": 2012,
+          "canonical_name": "علي بن إبراهيم الشقيقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن المولد",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد الرَّافِعِيّ",
+          "person_id": 2297,
+          "canonical_name": "محمد بن أحمد الرافعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحُسَيْن التَّمِيمِي",
+          "person_id": 2000,
+          "canonical_name": "علي بن الحسين التميمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا تُرَاب النخشبي",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو تُرَاب احفظ همك فَإِنَّهُ مُقَدّمَة الاشياء فَمن صَحَّ لَهُ همه صَحَّ لَهُ مَا بعد ذَلِك من أَفعاله وأحواله",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن مُحَمَّد بن زَكَرِيَّا النسوي",
+          "person_id": 500,
+          "canonical_name": "أبو العباس أحمد بن محمد بن زكريا النسوي",
+          "has_id": 107,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن إِبْرَاهِيم الشقيقي",
+          "person_id": 2012,
+          "canonical_name": "علي بن إبراهيم الشقيقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن المولد",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد الرَّافِعِيّ",
+          "person_id": 2297,
+          "canonical_name": "محمد بن أحمد الرافعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحُسَيْن التَّمِيمِي",
+          "person_id": 2000,
+          "canonical_name": "علي بن الحسين التميمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا تُرَاب النخشبي",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو تُرَاب القناعة أَخذ الْقُوت من الله ﷿",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن مُحَمَّد بن زَكَرِيَّا النسوي",
+          "person_id": 500,
+          "canonical_name": "أبو العباس أحمد بن محمد بن زكريا النسوي",
+          "has_id": 107,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن إِبْرَاهِيم الشقيقي",
+          "person_id": 2012,
+          "canonical_name": "علي بن إبراهيم الشقيقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن المولد",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد الرَّافِعِيّ",
+          "person_id": 2297,
+          "canonical_name": "محمد بن أحمد الرافعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن الْحُسَيْن التَّمِيمِي",
+          "person_id": 2000,
+          "canonical_name": "علي بن الحسين التميمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا تُرَاب النخشبي",
+          "person_id": 721,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو تُرَاب من استفتح أَبْوَاب المعاش بِغَيْر مَفَاتِيح الأقدار وكل إِلَى حوله وقوته فَسئلَ مَا مَفَاتِيح الأقدار فَقَالَ الرِّضَا بِمَا يرد عَلَيْهِ فِي كل وَقت من أَسبَاب الْغَيْب",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أَبَا حَاتِم الْعَطَّار الْبَصْرِيّ",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَا حَاتِم الْعَطَّار الْبَصْرِيّ وحاتما الْأَصَم الْبَلْخِي",
+        "person_id": 751,
+        "canonical_name": "أبو حاتم العطّار البصري",
+        "has_id": 109
+      },
+      {
+        "name": "حاتما الْأَصَم الْبَلْخِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَا حَاتِم الْعَطَّار الْبَصْرِيّ وحاتما الْأَصَم الْبَلْخِي",
+        "person_id": 1424,
+        "canonical_name": "حاتم الأصم",
+        "has_id": 505
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "ابْن الْفَرَجِيِّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت ابْن الْفَرَجِيِّ يَقُول",
+      "person_id": 749,
+      "canonical_name": "أبو جعفر محمد بن يعقوب الفرجي",
+      "has_id": 21
+    },
+    {
+      "name": "أَبَا عبد الله بن الْجلاء",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا عبد الله بن الْجلاء يَقُول",
+      "person_id": 898,
+      "canonical_name": "أبو عبد الله بن الجلاء",
+      "has_id": 410
+    },
+    {
+      "name": "جَابر",
+      "relationship_type": "narrator",
+      "full_text": "عَن جَابر",
+      "person_id": 1372,
+      "canonical_name": "جابر",
+      "has_id": NaN
+    },
+    {
+      "name": "يَعْقُوب بن الْوَلِيد",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت يَعْقُوب بن الْوَلِيد يَقُول",
+      "person_id": 2661,
+      "canonical_name": "يعقوب بن الوليد",
+      "has_id": NaN
+    },
+    {
+      "name": "عَليّ بن الْحُسَيْن",
+      "relationship_type": "interlocutor",
+      "full_text": "قلت لأبي تُرَاب",
+      "person_id": 2000,
+      "canonical_name": "علي بن الحسين التميمي",
+      "has_id": NaN
+    },
+    {
+      "name": "عَليّ بن الْحُسَيْن التَّمِيمِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت عَليّ بن الْحُسَيْن التَّمِيمِي يَقُول",
+      "person_id": 2000,
+      "canonical_name": "علي بن الحسين التميمي",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "full_text": "قَالَ وَقَالَ رجل لأبي تُرَاب أَلَك حَاجَة",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

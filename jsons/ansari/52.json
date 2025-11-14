@@ -1,0 +1,165 @@
+{
+  "bio_id": "52",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "نسا",
+      "context": "nisba",
+      "full_text": "نساوی"
+    },
+    {
+      "place": "نسا",
+      "context": "born",
+      "full_text": "از نسا بود"
+    },
+    {
+      "place": "مصر",
+      "context": "lived",
+      "full_text": "بمصر نشستی"
+    },
+    {
+      "place": "مکه",
+      "context": "visited",
+      "full_text": "بمکه"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عباس",
+          "person_id": 1716,
+          "canonical_name": "عباس",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "عباس مرا گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "آن شیخ گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ عمو",
+          "person_id": 1683,
+          "canonical_name": "شيخ عمو",
+          "has_id": 717,
+          "subj_added": false
+        },
+        {
+          "name": "شیخ بوالعباس نسوی",
+          "person_id": 500,
+          "canonical_name": "أبو العباس أحمد بن محمد بن زكريا النسوي",
+          "has_id": 107,
+          "subj_added": false
+        },
+        {
+          "name": "احمد بن الحسین",
+          "person_id": 1163,
+          "canonical_name": "أحمد بن الحسين بن طلاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابراهیم بن محمد الواعظ",
+          "person_id": 324,
+          "canonical_name": "إبراهيم بن محمد الواعظ",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "القصه شیخ عموگفت که شیخ بوالعباس نسوی گفت بمکه که از احمد بن الحسین شنیدم، کی از ابراهیم بن محمد الواعظ شنیدم که گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلامگفت کی:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "احمد بن الحسین",
+        "relationship_type": "student_of",
+        "relationship_phrase": "از ... شنیدم",
+        "full_text": "از احمد بن الحسین شنیدم",
+        "person_id": 1161,
+        "canonical_name": "أحمد بن الحسين",
+        "has_id": NaN
+      },
+      {
+        "name": "ابراهیم بن محمد الواعظ",
+        "relationship_type": "student_of",
+        "relationship_phrase": "از ... شنیدم",
+        "full_text": "از ابراهیم بن محمد الواعظ شنیدم",
+        "person_id": 324,
+        "canonical_name": "إبراهيم بن محمد الواعظ",
+        "has_id": NaN
+      }
+    ],
+    "students": [
+      {
+        "name": "شیخ عباس",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "ویرا بمصر دیده بود",
+        "full_text": "شیخ عباس ویرا بمصر دیده بود",
+        "person_id": 1716,
+        "canonical_name": "عباس",
+        "has_id": NaN
+      },
+      {
+        "name": "شیخ عمو",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "گفت",
+        "full_text": "القصه شیخ عموگفت که شیخ بوالعباس نسوی گفت بمکه",
+        "person_id": 1683,
+        "canonical_name": "شيخ عمو",
+        "has_id": 717
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ عباس",
+      "relationship_type": "direct_narrator",
+      "full_text": "عباس مرا گفت:",
+      "person_id": 1716,
+      "canonical_name": "عباس",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ عمو",
+      "relationship_type": "direct_narrator",
+      "full_text": "القصه شیخ عموگفت که شیخ بوالعباس نسوی گفت بمکه",
+      "person_id": 1683,
+      "canonical_name": "شيخ عمو",
+      "has_id": 717
+    },
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    }
+  ]
+}

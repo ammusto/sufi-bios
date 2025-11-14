@@ -1,0 +1,113 @@
+{
+  "bio_id": "656",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "الري",
+      "context": "nisba",
+      "full_text": "الرازي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "نصر بن أبي نصر العطار الصوفي",
+          "person_id": 2582,
+          "canonical_name": "نصر بن أبي نصر العطّار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن داود الدينوري",
+          "person_id": 2347,
+          "canonical_name": "محمد بن داود الدينوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن الحداد",
+          "person_id": 1783,
+          "canonical_name": "عبد الله الحداد الرازي",
+          "has_id": 656,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت نصر بن أبي نصر العطار الصوفي يقول سمعت محمد بن داود الدينوري يقول قال عبد الله بن الحداد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "نصر بن أبي نصر العطار الصوفي",
+          "person_id": 2582,
+          "canonical_name": "نصر بن أبي نصر العطّار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن داود الدينوري",
+          "person_id": 2347,
+          "canonical_name": "محمد بن داود الدينوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن الحداد",
+          "person_id": 1783,
+          "canonical_name": "عبد الله الحداد الرازي",
+          "has_id": 656,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "نصر بن أبي نصر العطار الصوفي",
+          "person_id": 2582,
+          "canonical_name": "نصر بن أبي نصر العطّار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن داود الدينوري",
+          "person_id": 2347,
+          "canonical_name": "محمد بن داود الدينوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن الحداد",
+          "person_id": 1783,
+          "canonical_name": "عبد الله الحداد الرازي",
+          "has_id": 656,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وكان يقول",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "محمد بن داود الدينوري",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن داود الدينوري يقول",
+      "person_id": 2347,
+      "canonical_name": "محمد بن داود الدينوري",
+      "has_id": NaN
+    }
+  ]
+}

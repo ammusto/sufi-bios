@@ -1,0 +1,94 @@
+{
+  "bio_id": "813",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "دير الخلق",
+      "context": "mentioned",
+      "full_text": "قال قال لي راهب بدير الخلق"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو بكر المؤذن",
+          "person_id": 650,
+          "canonical_name": "أبو بكر المؤذن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبان",
+          "person_id": 1175,
+          "canonical_name": "أحمد بن أبان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر بن عبيد",
+          "person_id": 673,
+          "canonical_name": "أبو بكر بن عبيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 2239,
+          "canonical_name": "محمد بن الحسين البرجلاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن الحكم الرقي",
+          "person_id": 2675,
+          "canonical_name": "يوسف بن الحكم الرقي",
+          "has_id": 13,
+          "subj_added": false
+        },
+        {
+          "name": "فياض بن محمد بن سنان",
+          "person_id": 2174,
+          "canonical_name": "فياض بن محمد بن سنان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مغيث الأسود",
+          "person_id": 2527,
+          "canonical_name": "مغيث الأسود",
+          "has_id": 813,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو بكر المؤذن ثنا أحمد بن أبان ثنا أبو بكر بن عبيد قال: حدثني محمد بن الحسين قال حدثني يوسف بن الحكم الرقي ثنا فياض بن محمد بن سنان قال قال لي مغيث الأسود",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "فياض بن محمد بن سنان",
+      "relationship_type": "narrator",
+      "full_text": "ثنا فياض بن محمد بن سنان قال قال لي مغيث الأسود",
+      "person_id": 2174,
+      "canonical_name": "فياض بن محمد بن سنان",
+      "has_id": NaN
+    },
+    {
+      "name": "راهب بدير الخلق",
+      "relationship_type": "interlocutor",
+      "context": "questioner",
+      "full_text": "قال قال لي راهب بدير الخلق: ما لي أراك طويل الحزن؟",
+      "person_id": 1525,
+      "canonical_name": "راهب بدير الخلق",
+      "has_id": NaN
+    }
+  ]
+}

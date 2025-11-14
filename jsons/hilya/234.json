@@ -1,0 +1,98 @@
+{
+  "bio_id": "234",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "البحر",
+      "context": "visited",
+      "full_text": "ثم أخذ بيدي فمر بي إلى البحر"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1855,
+          "canonical_name": "عبد الله بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الجبار بن عبد الله",
+          "person_id": 1730,
+          "canonical_name": "عبد الجبار بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "آدم بن أبي إياس",
+          "person_id": 1318,
+          "canonical_name": "آدم بن أبي إياس",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد قال قرأت على شيخ ابن حاتم العكلي حدثت عن عبد الجبار بن عبد الله عن آدم بن أبي إياس",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "آدم بن أبي إياس",
+          "person_id": 1318,
+          "canonical_name": "آدم بن أبي إياس",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال: كان شاب يكتب عني",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "آدم بن أبي إياس",
+        "relationship_type": "student_of",
+        "relationship_phrase": "يكتب عني",
+        "full_text": "كان شاب يكتب عني",
+        "person_id": 1318,
+        "canonical_name": "آدم بن أبي إياس",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "آدم بن أبي إياس",
+      "relationship_type": "narrator",
+      "full_text": "عن آدم بن أبي إياس، قال:",
+      "person_id": 1318,
+      "canonical_name": "آدم بن أبي إياس",
+      "has_id": NaN
+    },
+    {
+      "name": "شيخ ابن حاتم العكلي",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "قرأت على",
+      "full_text": "قال قرأت على شيخ ابن حاتم العكلي",
+      "person_id": 19,
+      "canonical_name": "ابن حاتم العكلي",
+      "has_id": NaN
+    },
+    {
+      "name": "شاب",
+      "relationship_type": "interlocutor",
+      "full_text": "ثم قال: اشرب",
+      "person_id": 1657,
+      "canonical_name": "شاب",
+      "has_id": NaN
+    }
+  ]
+}

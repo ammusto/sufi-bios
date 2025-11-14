@@ -1,0 +1,75 @@
+{
+  "bio_id": "248",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الواحد بن بكر",
+          "person_id": 1908,
+          "canonical_name": "عبد الواحد بن بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله القلانسي",
+          "person_id": 881,
+          "canonical_name": "أبو عبد الله القلانسي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن الحسين ثنا عبد الواحد بن بكر أن أبا عبد الله القلانسي",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "عبد الواحد بن بكر",
+      "relationship_type": "narrator",
+      "full_text": "ثنا عبد الواحد بن بكر أن أبا عبد الله القلانسي",
+      "person_id": 1908,
+      "canonical_name": "عبد الواحد بن بكر",
+      "has_id": NaN
+    },
+    {
+      "name": "أهل المركب",
+      "relationship_type": "questioner",
+      "full_text": "وقالوا: أي عبد الله كلنا قد عاهدنا الله ونذرنا نذرا إن نجانا الله، فانذر أنت نذرا وعاهد الله عهدا",
+      "person_id": 1311,
+      "canonical_name": "أهل المركب",
+      "has_id": NaN
+    },
+    {
+      "name": "ترجمانه",
+      "relationship_type": "questioner",
+      "full_text": "وسألني ترجمانه فأخبرته بالقصة وما جرى على القوم",
+      "person_id": 1366,
+      "canonical_name": "ترجمانه",
+      "has_id": NaN
+    },
+    {
+      "name": "ملكهم",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "فجملونى إلى ملكهم",
+      "person_id": 2533,
+      "canonical_name": "ملكهم",
+      "has_id": NaN
+    }
+  ]
+}

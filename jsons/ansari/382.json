@@ -1,0 +1,336 @@
+{
+  "bio_id": "382",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "359",
+    "full_text": "سنه تسع و خمسین و ثلثمائه برفت از دنیا.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "دمشق",
+      "context": "nisba",
+      "full_text": "الدمشقی"
+    },
+    {
+      "place": "دینور",
+      "context": "born",
+      "full_text": "باصل دینوری بود"
+    },
+    {
+      "place": "شام",
+      "context": "lived",
+      "full_text": "بشام نشست"
+    },
+    {
+      "place": "نصیبین",
+      "context": "visited",
+      "full_text": "به نصیبین شدیم"
+    },
+    {
+      "place": "بادیه",
+      "context": "visited",
+      "full_text": "در بادیه"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعبداللّه باکو",
+          "person_id": 15,
+          "canonical_name": "ابن باكوية الشيرازي",
+          "has_id": 150,
+          "subj_added": false
+        },
+        {
+          "name": "غلام دقی",
+          "person_id": 2148,
+          "canonical_name": "غلام الدقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "دقی",
+          "person_id": 621,
+          "canonical_name": "أبو بكر الدقي",
+          "has_id": 382,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بوعبداللّه باکو گفت کی غلام دقی گفت که دقی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حصری",
+          "person_id": 394,
+          "canonical_name": "أبو الحسن الحصري",
+          "has_id": 301,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 621,
+          "canonical_name": "أبو بكر الدقي",
+          "has_id": 382,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و حصری گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر دقی",
+          "person_id": 621,
+          "canonical_name": "أبو بكر الدقي",
+          "has_id": 382,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت که بوبکر دقی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "دقی",
+          "person_id": 621,
+          "canonical_name": "أبو بكر الدقي",
+          "has_id": 382,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی دقی وقتی در بادیه بزاریدگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر رازی",
+          "person_id": 624,
+          "canonical_name": "أبو بكر الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "دقی",
+          "person_id": 621,
+          "canonical_name": "أبو بكر الدقي",
+          "has_id": 382,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "بوبکر رازی گوید، کی دقی گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر رازی",
+          "person_id": 624,
+          "canonical_name": "أبو بكر الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "دقی",
+          "person_id": 621,
+          "canonical_name": "أبو بكر الدقي",
+          "has_id": 382,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابونصر الطوسی",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 621,
+          "canonical_name": "أبو بكر الدقي",
+          "has_id": 382,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قال ابونصر الطوسی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابونصر الطوسی",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 621,
+          "canonical_name": "أبو بكر الدقي",
+          "has_id": 382,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال:",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "شیخ بوعبداللهّ جلا٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "صحبت کرده بود با شیخ بوعبداللهّ جلا٭ و باو نسبت کند.",
+        "person_id": 898,
+        "canonical_name": "أبو عبد الله بن الجلاء",
+        "has_id": 410
+      },
+      {
+        "name": "بوبکر زقاق مهین٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "و شاگرد بوبکر زقاق مهین٭",
+        "person_id": 627,
+        "canonical_name": "أبو بكر الزقاق مهين",
+        "has_id": NaN
+      },
+      {
+        "name": "جنید",
+        "relationship_type": "student_of",
+        "relationship_phrase": "را دیده بود",
+        "full_text": "جنید را دیده بود",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "بوبکر مصری٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود",
+        "full_text": "و با بوبکر مصری٭ صحبت کرده بود",
+        "person_id": 716,
+        "canonical_name": "أبو بكر مصري",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "بوعلی رودباری",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "از اقران بوعلی رودباری بوده",
+        "person_id": 959,
+        "canonical_name": "أبو علي الروذباري",
+        "has_id": 422
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت که بوبکر دقی گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "بوعبداللّه باکو",
+      "relationship_type": "narrator",
+      "full_text": "بوعبداللّه باکو گفت کی غلام دقی گفت که دقی گفت:",
+      "person_id": 15,
+      "canonical_name": "ابن باكوية الشيرازي",
+      "has_id": 150
+    },
+    {
+      "name": "غلام دقی",
+      "relationship_type": "direct_narrator",
+      "full_text": "غلام دقی گفت که دقی گفت:",
+      "person_id": 2148,
+      "canonical_name": "غلام الدقي",
+      "has_id": NaN
+    },
+    {
+      "name": "حصری",
+      "relationship_type": "narrator",
+      "full_text": "حصری گفت: ما للصوفی والعافیه؟ صوفی را باعافیت چکار؟",
+      "person_id": 394,
+      "canonical_name": "أبو الحسن الحصري",
+      "has_id": 301
+    },
+    {
+      "name": "شیخ بوعبداللّه رودباری",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "شیخ بوعبداللّه رودباری برکنار دریا وسوسهٔ داشت طهارت میکرد، و بادمی آمد و دست و پای میطرکید و خون میآمد. درماندگفت: الهی! العافیه! آواز دادندکی: العافیه فی العلم یعنی الشریعة.",
+      "person_id": 894,
+      "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+      "has_id": 413
+    },
+    {
+      "name": "سمیعی",
+      "relationship_type": "interlocutor",
+      "context": "host",
+      "full_text": "کی به نصیبین شدیم مهمان سمیعی، وقت خوش بود «و قوال خوش بود» ... سمیعی گفت: وقت طبیب و قوال طبیب و ما فینا ضد فما هذا الخمود؟",
+      "person_id": 1635,
+      "canonical_name": "سميعي",
+      "has_id": NaN
+    },
+    {
+      "name": "بوبکر رازی",
+      "relationship_type": "direct_narrator",
+      "full_text": "بوبکر رازی گوید، کی دقی گوید: علامة القرب الا نقطاع عن کل شیئی سوی اللّه.",
+      "person_id": 624,
+      "canonical_name": "أبو بكر الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "ابونصر الطوسی",
+      "relationship_type": "direct_narrator",
+      "full_text": "قال ابونصر الطوسی سئل الدقی عن سوء ادب الفقراء مع اللّه فی احوالهم.",
+      "person_id": 1108,
+      "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+      "has_id": NaN
+    }
+  ]
+}

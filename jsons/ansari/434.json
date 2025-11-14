@@ -1,0 +1,289 @@
+{
+  "bio_id": "434",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "شام",
+      "context": "lived",
+      "full_text": "شیخ بوده بشام"
+    },
+    {
+      "place": "کوفه",
+      "context": "nisba",
+      "full_text": "باصل کوفیست"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "از شیخ الاسلام شنودم کرم اللّه وجهه کی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سفین ثوری",
+          "person_id": 1607,
+          "canonical_name": "سفيان الثوري",
+          "has_id": 598,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و سفین ثوری گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "منصور عمارد مشقی",
+          "person_id": 2554,
+          "canonical_name": "منصور عمارد مشقي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی منصور عمارد مشقی گوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت کرم اللهّ وجهه:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الامام",
+          "person_id": 55,
+          "canonical_name": "الامام",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وانشد نا الامام لبعضهم",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوهشم",
+          "person_id": 1121,
+          "canonical_name": "أبو هشم",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و هم بوهشم گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ سیروانی٭",
+          "person_id": 165,
+          "canonical_name": "السيرواني",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ سیروانی٭ گفته است:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الجنیدکی",
+          "person_id": 2223,
+          "canonical_name": "محمد بن الجنيدكي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "و شیخ الاسلام املا کرد بر ما از محمد بن الجنیدکی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوجعفر",
+          "person_id": 725,
+          "canonical_name": "أبو جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفته قدس اللّه روحه: کی شیخ بوجعفر مرا گفت بدامغان",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوجعفر",
+          "person_id": 725,
+          "canonical_name": "أبو جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "با محمد طینی",
+          "person_id": 1042,
+          "canonical_name": "أبو محمد الطيني",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "گفت، از با محمد طینی شنیدم:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الامام",
+          "person_id": 55,
+          "canonical_name": "الامام",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "انشدنا الامام:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "سفین ثوری",
+        "relationship_type": "peer",
+        "relationship_phrase": "در ایام ... بوده",
+        "full_text": "در ایام سفین ثوری بوده",
+        "person_id": 1607,
+        "canonical_name": "سفيان الثوري",
+        "has_id": 598
+      },
+      {
+        "name": "ابراهیم بن ادهم",
+        "relationship_type": "peer",
+        "relationship_phrase": "ایضاً",
+        "full_text": "و ابراهیم بن ادهم ایضاً رحمت اللّه علیه.",
+        "person_id": 301,
+        "canonical_name": "إبراهيم بن أدهم",
+        "has_id": 274
+      },
+      {
+        "name": "شریک نخعی",
+        "relationship_type": "peer",
+        "relationship_phrase": "دید",
+        "full_text": "وقتی بوهشم، شریک نخعی دیدکیبیرون آمد از سرای یحیی خالد",
+        "person_id": 1670,
+        "canonical_name": "شريك نخعي",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "از شیخ الاسلام شنودم کرم اللّه وجهه کی گفت",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "سفین ثوری",
+      "relationship_type": "narrator",
+      "full_text": "و سفین ثوری گوید",
+      "person_id": 1607,
+      "canonical_name": "سفيان الثوري",
+      "has_id": 598
+    },
+    {
+      "name": "منصور عمارد مشقی",
+      "relationship_type": "direct_narrator",
+      "full_text": "کی منصور عمارد مشقی گوید",
+      "person_id": 2554,
+      "canonical_name": "منصور عمارد مشقي",
+      "has_id": NaN
+    },
+    {
+      "name": "الامام",
+      "relationship_type": "narrator",
+      "full_text": "انشدنا الامام",
+      "person_id": 55,
+      "canonical_name": "الامام",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ سیروانی٭",
+      "relationship_type": "narrator",
+      "full_text": "شیخ سیروانی٭ گفته است",
+      "person_id": 165,
+      "canonical_name": "السيرواني",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن الجنیدکی",
+      "relationship_type": "narrator",
+      "full_text": "از محمد بن الجنیدکی گفت",
+      "person_id": 2223,
+      "canonical_name": "محمد بن الجنيدكي",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ بوجعفر",
+      "relationship_type": "narrator",
+      "full_text": "شیخ بوجعفر مرا گفت بدامغان نام وی محمد قصاب دامغانی، شاگرد شیخ بوالعباس قصاب آملی٭ رحمهم اللّه",
+      "person_id": 725,
+      "canonical_name": "أبو جعفر",
+      "has_id": NaN
+    },
+    {
+      "name": "با محمد طینی",
+      "relationship_type": "narrator",
+      "full_text": "از با محمد طینی شنیدم",
+      "person_id": 1042,
+      "canonical_name": "أبو محمد الطيني",
+      "has_id": NaN
+    },
+    {
+      "name": "شریک نخعی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "seen_by_subject",
+      "full_text": "وقتی بوهشم، شریک نخعی دیدکیبیرون آمد از سرای یحیی خالدگفت: اعوذ باللّه من علم لا ینفع",
+      "person_id": 1670,
+      "canonical_name": "شريك نخعي",
+      "has_id": NaN
+    },
+    {
+      "name": "یحیی خالد",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "house_of",
+      "full_text": "بیرون آمد از سرای یحیی خالد",
+      "person_id": 2656,
+      "canonical_name": "يحيي بن خالد",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ بوالعباس قصاب آملی٭",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "شاگرد شیخ بوالعباس قصاب آملی٭ رحمهم اللّه",
+      "person_id": 495,
+      "canonical_name": "أبو العباس القصاب الآملي",
+      "has_id": 358
+    }
+  ]
+}

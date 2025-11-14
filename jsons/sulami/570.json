@@ -1,0 +1,1272 @@
+{
+  "bio_id": "570",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "245",
+    "full_text": "توفّي سنة خمس وَأَرْبَعين وَمِائَتَيْنِ",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "مصر",
+      "context": "nisba",
+      "full_text": "الْمصْرِيّ"
+    },
+    {
+      "place": "أخميم",
+      "context": "nisba",
+      "full_text": "الأخميمي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عليا بن عمر بن أَحْمد بن مهْدي الْحَافِظ",
+          "person_id": 2057,
+          "canonical_name": "علي بن عمر بن أحمد بن مهدي الحافظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحُسَيْن بن أَحْمد بن الماذرائي",
+          "person_id": 109,
+          "canonical_name": "الحسين بن أحمد بن الماذرائي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عمر الْكِنْدِيّ",
+          "person_id": 991,
+          "canonical_name": "أبو عمر الكندي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عليا بن عمر بن أَحْمد بن مهْدي الْحَافِظ بِبَغْدَاد يَقُول أَخْبرنِي الْحُسَيْن بن أَحْمد بن الماذرائي قَالَ قَرَأَ عَليّ أَبُو عمر الْكِنْدِيّ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن عمر",
+          "person_id": 2057,
+          "canonical_name": "علي بن عمر بن أحمد بن مهدي الحافظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن رَشِيق الْمصْرِيّ",
+          "person_id": 84,
+          "canonical_name": "الحسن بن رشيق المصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جبلة بن مُحَمَّد الصَّدَفِي",
+          "person_id": 1380,
+          "canonical_name": "جبلة بن محمد الصدفي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن سعيد بن كثير ابْن عفير",
+          "person_id": 1828,
+          "canonical_name": "عبد الله بن سعيد بن كثير بن عفير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "كذلك أَخْبرنِي عَليّ بن عمر أَخْبرنِي الْحسن بن رَشِيق الْمصْرِيّ إجَازَة حَدثنِي جبلة بن مُحَمَّد الصَّدَفِي حَدثنَا عبد الله بن سعيد بن كثير ابْن عفير بذلك",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن الْحُسَيْن بن إِبْرَاهِيم الصُّوفِي",
+          "person_id": 1801,
+          "canonical_name": "عبد الله بن الحسين بن إبراهيم الصوفي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن حمدون بن مَالك الْبَغْدَادِيّ",
+          "person_id": 2343,
+          "canonical_name": "محمد بن حمدون بن مالك البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن أَحْمد بن الْمُبَارك",
+          "person_id": 80,
+          "canonical_name": "ابن طولون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا عبد الله بن الْحُسَيْن بن إِبْرَاهِيم الصُّوفِي أخبرنَا مُحَمَّد بن حمدون بن مَالك الْبَغْدَادِيّ أخبرنَا الْحسن بن أَحْمد بن الْمُبَارك",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن صليح الفيومي",
+          "person_id": 1206,
+          "canonical_name": "أحمد بن صليح الفيومي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ذُو النُّون الْمصْرِيّ",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        },
+        {
+          "name": "اللَّيْث بن سعد",
+          "person_id": 222,
+          "canonical_name": "الليث بن سعد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "نَافِع",
+          "person_id": 2576,
+          "canonical_name": "نافع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن عمر",
+          "person_id": 28,
+          "canonical_name": "ابن عمر",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وأخْبرنَا أَحْمد بن صليح الفيومي أخبرنَا ذُو النُّون الْمصْرِيّ عَن اللَّيْث بن سعد عَن نَافِع عَن ابْن عمر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْعَبَّاس بن عبد الله الوَاسِطِيّ",
+          "person_id": 179,
+          "canonical_name": "العباس بن عبد الله الواسطي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن يُونُس",
+          "person_id": 334,
+          "canonical_name": "إبراهيم بن يونس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول سَمِعت الْعَبَّاس بن عبد الله الوَاسِطِيّ قَالَ سَمِعت إِبْرَاهِيم بن يُونُس يَقُول سَمِعت ذَا النُّون يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْعَبَّاس بن عبد الله الوَاسِطِيّ",
+          "person_id": 179,
+          "canonical_name": "العباس بن عبد الله الواسطي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن يُونُس",
+          "person_id": 334,
+          "canonical_name": "إبراهيم بن يونس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ سَمِعت ذَا النُّون",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "الْحسن بن رَشِيق",
+          "person_id": 84,
+          "canonical_name": "الحسن بن رشيق المصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن يَعْقُوب بن سُوَيْد الْوراق",
+          "person_id": 2076,
+          "canonical_name": "علي بن يعقوب بن سويد الوراق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن إِبْرَاهِيم الْبَغْدَادِيّ",
+          "person_id": 2270,
+          "canonical_name": "محمد بن إبراهيم البغدادي",
+          "has_id": 773,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن سعيد الْخَوَارِزْمِيّ",
+          "person_id": 2357,
+          "canonical_name": "محمد بن سعيد الخوارزمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا الْحسن بن رَشِيق إجَازَة قَالَ حَدثنَا عَليّ بن يَعْقُوب بن سُوَيْد الْوراق حَدثنَا مُحَمَّد بن إِبْرَاهِيم الْبَغْدَادِيّ حَدثنَا مُحَمَّد بن سعيد الْخَوَارِزْمِيّ قَالَ سَمِعت ذَا النُّون وَسُئِلَ عَن الْمحبَّة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يُوسُف ابْن الْحُسَيْن",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان الرَّازِيّ يَقُول سَمِعت يُوسُف ابْن الْحُسَيْن يَقُول سَمِعت ذَا النُّون يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد بن يَعْقُوب",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن مَيْمُون",
+          "person_id": 1877,
+          "canonical_name": "عبد الله بن محمد بن ميمون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أَخْبرنِي مُحَمَّد بن أَحْمد بن يَعْقُوب إجَازَة أَن عبد الله بن مُحَمَّد بن مَيْمُون حَدثهمْ قَالَ سَأَلت ذَا النُّون",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد بن يَعْقُوب",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن مَيْمُون",
+          "person_id": 1877,
+          "canonical_name": "عبد الله بن محمد بن ميمون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ سَمِعت ذَا النُّون يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان سعيد بن أَحْمد بن جَعْفَر",
+          "person_id": 941,
+          "canonical_name": "أبو عثمان سعيد بن أحمد بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد ابْن مُحَمَّد بن سهل",
+          "person_id": 2317,
+          "canonical_name": "محمد بن أحمد بن محمد بن سهل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن عُثْمَان الْخياط",
+          "person_id": 1603,
+          "canonical_name": "سعيد بن عثمان الخياط",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا عُثْمَان سعيد بن أَحْمد بن جَعْفَر يَقُول سَمِعت مُحَمَّد بن أَحْمد ابْن مُحَمَّد بن سهل يَقُول سَمِعت سعيد بن عُثْمَان الْخياط يَقُول سَمِعت ذَا النُّون يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان سعيد بن أَحْمد بن جَعْفَر",
+          "person_id": 941,
+          "canonical_name": "أبو عثمان سعيد بن أحمد بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد ابْن مُحَمَّد بن سهل",
+          "person_id": 2317,
+          "canonical_name": "محمد بن أحمد بن محمد بن سهل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن عُثْمَان الْخياط",
+          "person_id": 1603,
+          "canonical_name": "سعيد بن عثمان الخياط",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت سعيد بن عُثْمَان يَقُول سَمِعت ذَا النُّون يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان سعيد بن أَحْمد بن جَعْفَر",
+          "person_id": 941,
+          "canonical_name": "أبو عثمان سعيد بن أحمد بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد ابْن مُحَمَّد بن سهل",
+          "person_id": 2317,
+          "canonical_name": "محمد بن أحمد بن محمد بن سهل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن عُثْمَان الْخياط",
+          "person_id": 1603,
+          "canonical_name": "سعيد بن عثمان الخياط",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ سَمِعت ذَا النُّون يَقُول لم أر شَيْئا أبْعث لطلب الْإِخْلَاص من الْوحدَة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان سعيد بن أَحْمد بن جَعْفَر",
+          "person_id": 941,
+          "canonical_name": "أبو عثمان سعيد بن أحمد بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد ابْن مُحَمَّد بن سهل",
+          "person_id": 2317,
+          "canonical_name": "محمد بن أحمد بن محمد بن سهل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن عُثْمَان الْخياط",
+          "person_id": 1603,
+          "canonical_name": "سعيد بن عثمان الخياط",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ سَمِعت ذَا النُّون يَقُول من عَلَامَات الْمحبَّة لله مُتَابعَة حبيب الله",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان سعيد بن أَحْمد بن جَعْفَر",
+          "person_id": 941,
+          "canonical_name": "أبو عثمان سعيد بن أحمد بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن أَحْمد ابْن مُحَمَّد بن سهل",
+          "person_id": 2317,
+          "canonical_name": "محمد بن أحمد بن محمد بن سهل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن عُثْمَان الْخياط",
+          "person_id": 1603,
+          "canonical_name": "سعيد بن عثمان الخياط",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وسمعته يَقُول إِذا صَحَّ الْيَقِين فِي الْقلب صَحَّ الْخَوْف فِيهِ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْعَبَّاس بن يُوسُف",
+          "person_id": 183,
+          "canonical_name": "العباس بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن عُثْمَان",
+          "person_id": 1603,
+          "canonical_name": "سعيد بن عثمان الخياط",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ذُو النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول سَمِعت الْعَبَّاس بن يُوسُف يَقُول سَمِعت سعيد بن عُثْمَان يَقُول أَنْشدني ذُو النُّون",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْعَبَّاس بن يُوسُف",
+          "person_id": 183,
+          "canonical_name": "العباس بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن عُثْمَان",
+          "person_id": 1603,
+          "canonical_name": "سعيد بن عثمان الخياط",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ذُو النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت ذَا النُّون يَقُول لَئِن مددت يَدي إِلَيْك دَاعيا",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْعَبَّاس بن يُوسُف",
+          "person_id": 183,
+          "canonical_name": "العباس بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن عُثْمَان",
+          "person_id": 1603,
+          "canonical_name": "سعيد بن عثمان الخياط",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ذُو النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ ذُو النُّون كل مُدع مَحْجُوب بِدَعْوَاهُ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْعَبَّاس بن يُوسُف",
+          "person_id": 183,
+          "canonical_name": "العباس بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن عُثْمَان",
+          "person_id": 1603,
+          "canonical_name": "سعيد بن عثمان الخياط",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ذُو النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه قَالَ ذُو النُّون من أنس بالخلق فقد استمكن من بِسَاط الفراعنة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن عَليّ بن مُحَمَّد الْقزْوِينِي",
+          "person_id": 433,
+          "canonical_name": "أبو الحسن علي بن محمد القزويني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن أَحمد ابْن مُحَمَّد البزناني",
+          "person_id": 2020,
+          "canonical_name": "علي بن أحمد بن محمد البزناني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْحُسَيْن",
+          "person_id": 2237,
+          "canonical_name": "محمد بن الحسين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "فَارِسًا",
+          "person_id": 2158,
+          "canonical_name": "فارس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحسن عَليّ بن مُحَمَّد الْقزْوِينِي يَقُول سَمِعت عَليّ بن أَحمد ابْن مُحَمَّد البزناني يَقُول سَمِعت مُحَمَّد بن الْحُسَيْن يَقُول سَمِعت فَارِسًا يَقُول سَمِعت يُوسُف بن الْحُسَيْن يَقُول سَمِعت ذَا النُّون يَقُول الصدْق سيف الله فِي أرضه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن عَليّ بن مُحَمَّد الْقزْوِينِي",
+          "person_id": 433,
+          "canonical_name": "أبو الحسن علي بن محمد القزويني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن أَحمد ابْن مُحَمَّد البزناني",
+          "person_id": 2020,
+          "canonical_name": "علي بن أحمد بن محمد البزناني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن الْحُسَيْن",
+          "person_id": 2237,
+          "canonical_name": "محمد بن الحسين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "فَارِسًا",
+          "person_id": 2158,
+          "canonical_name": "فارس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده قَالَ ذُو النُّون من تزين بِعَمَلِهِ كَانَت حَسَنَاته سيئات",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن عَليّ بن جَعْفَر",
+          "person_id": 1226,
+          "canonical_name": "أحمد بن علي بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "فَارِسًا",
+          "person_id": 2158,
+          "canonical_name": "فارس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَحْمد بن عَليّ بن جَعْفَر يَقُول سَمِعت فَارِسًا يَقُول سَمِعت يُوسُف بن الْحُسَيْن يَقُول سَمِعت ذَا النُّون يَقُول بِأول قدم تطلبه تُدْرِكهُ وتجده",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن عَليّ بن جَعْفَر",
+          "person_id": 1226,
+          "canonical_name": "أحمد بن علي بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "فَارِسًا",
+          "person_id": 2158,
+          "canonical_name": "فارس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده قَالَ سَمِعت ذَا النُّون يَقُول أدنى منَازِل الْأنس أَن يلقى فِي النَّار",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا سعيد أَحْمد بن مُحَمَّد بن رُمَيْح الْحَافِظ",
+          "person_id": 806,
+          "canonical_name": "أبو سعيد أحمد بن محمد بن رميح الحافظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا يعلى ابْن خلف",
+          "person_id": 1145,
+          "canonical_name": "أبو يعلى بن خلف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن البرقي",
+          "person_id": 4,
+          "canonical_name": "ابن البرقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا سعيد أَحْمد بن مُحَمَّد بن رُمَيْح الْحَافِظ يَقُول سَمِعت أَبَا يعلى ابْن خلف يَقُول سَمِعت ابْن البرقي يَقُول سَمِعت ذَا النُّون يَقُول الْأنس بِاللَّه نور سَاطِع والأنس بالخلق غم وَاقع",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "نصر بن مُحَمَّد بن أَحْمد بن يَعْقُوب الْعَطَّار",
+          "person_id": 2582,
+          "canonical_name": "نصر بن أبي نصر العطّار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد البلاذري",
+          "person_id": 1246,
+          "canonical_name": "أحمد بن محمد بن إبراهيم البلاذري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت نصر بن مُحَمَّد بن أَحْمد بن يَعْقُوب الْعَطَّار يَقُول سَمِعت أَبَا مُحَمَّد البلاذري يَقُول سَمِعت يُوسُف بن الْحُسَيْن يَقُول سَمِعت ذَا النُّون يَقُول لله عباد تركُوا الذَّنب استحياء من كرمه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "نصر بن مُحَمَّد بن أَحْمد بن يَعْقُوب الْعَطَّار",
+          "person_id": 2582,
+          "canonical_name": "نصر بن أبي نصر العطّار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد البلاذري",
+          "person_id": 1246,
+          "canonical_name": "أحمد بن محمد بن إبراهيم البلاذري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده قَالَ ذُو النُّون الْخَوْف رَقِيب الْعَمَل والرجاء شَفِيع المحن",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "نصر بن مُحَمَّد بن أَحْمد بن يَعْقُوب الْعَطَّار",
+          "person_id": 2582,
+          "canonical_name": "نصر بن أبي نصر العطّار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد البلاذري",
+          "person_id": 1246,
+          "canonical_name": "أحمد بن محمد بن إبراهيم البلاذري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده قَالَ ذُو النُّون اطلب الْحَاجة بِلِسَان الْفقر لَا بِلِسَان الحكم",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن عَليّ بن جَعْفَر",
+          "person_id": 1226,
+          "canonical_name": "أحمد بن علي بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن سهل بن عَاصِم",
+          "person_id": 87,
+          "canonical_name": "الحسن بن سهل بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الله الكرجي",
+          "person_id": 2048,
+          "canonical_name": "علي بن عبد الله الكرجي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَحْمد بن عَليّ بن جَعْفَر يَقُول سَمِعت الْحسن بن سهل بن عَاصِم يَقُول سَمِعت عَليّ بن عبد الله الكرجي يَقُول سَمِعت ذَا النُّون يَقُول مِفْتَاح الْعِبَادَة الفكرة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن عَليّ بن جَعْفَر",
+          "person_id": 1226,
+          "canonical_name": "أحمد بن علي بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "فَارِسًا",
+          "person_id": 2158,
+          "canonical_name": "فارس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَحْمد بن عَليّ بن جَعْفَر يَقُول سَمِعت فَارِسًا يَقُول سَمِعت يُوسُف بن الْحُسَيْن يَقُول سَمِعت ذَا النُّون يَقُول كَانَ لي صديق فَقير فَمَاتَ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْفضل الْعَبَّاس بن حَمْزَة",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا جَعْفَر مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ يَقُول سَمِعت أَبَا الْفضل الْعَبَّاس بن حَمْزَة قَالَ سَمِعت ذَا النُّون يَقُول كَانَ الرجل من أهل الْعلم",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن مُحَمَّد بن أَحْمد الْفَارِسِي",
+          "person_id": 462,
+          "canonical_name": "أبو الحسين محمد بن أحمد الفارسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "فَارِسًا",
+          "person_id": 2158,
+          "canonical_name": "فارس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن مُحَمَّد بن أَحْمد الْفَارِسِي يَقُول سَمِعت فَارِسًا يَقُول سَمِعت يُوسُف بن الْحُسَيْن يَقُول سَمِعت ذَا النُّون يَقُول الْعَارِف كل يَوْم أخشع",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن مُحَمَّد بن أَحْمد الْفَارِسِي",
+          "person_id": 462,
+          "canonical_name": "أبو الحسين محمد بن أحمد الفارسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "فَارِسًا",
+          "person_id": 2158,
+          "canonical_name": "فارس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يُوسُف بن الْحُسَيْن",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت ذَا النُّون يَقُول يَا معشر المريدين",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا جَعْفَر الرَّازِيّ",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْعَبَّاس بن حَمْزَة",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "ذَا النُّون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا جَعْفَر الرَّازِيّ يَقُول سَمِعت الْعَبَّاس بن حَمْزَة يَقُول سَمِعت ذَا النُّون يَقُول إِن الْعَارِف لَا يلْزم حَالَة وَاحِدَة",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أَحْمد بن صليح الفيومي",
+      "relationship_type": "narrator",
+      "full_text": "وأخْبرنَا أَحْمد بن صليح الفيومي أخبرنَا ذُو النُّون الْمصْرِيّ عَن اللَّيْث بن سعد",
+      "person_id": 1206,
+      "canonical_name": "أحمد بن صليح الفيومي",
+      "has_id": NaN
+    },
+    {
+      "name": "إِبْرَاهِيم بن يُونُس",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت إِبْرَاهِيم بن يُونُس يَقُول سَمِعت ذَا النُّون يَقُول",
+      "person_id": 334,
+      "canonical_name": "إبراهيم بن يونس",
+      "has_id": NaN
+    },
+    {
+      "name": "مُحَمَّد بن سعيد الْخَوَارِزْمِيّ",
+      "relationship_type": "narrator",
+      "full_text": "حَدثنَا مُحَمَّد بن سعيد الْخَوَارِزْمِيّ قَالَ سَمِعت ذَا النُّون",
+      "person_id": 2357,
+      "canonical_name": "محمد بن سعيد الخوارزمي",
+      "has_id": NaN
+    },
+    {
+      "name": "يُوسُف ابْن الْحُسَيْن",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت يُوسُف ابْن الْحُسَيْن يَقُول سَمِعت ذَا النُّون يَقُول",
+      "person_id": 1140,
+      "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+      "has_id": 847
+    },
+    {
+      "name": "عبد الله بن مُحَمَّد بن مَيْمُون",
+      "relationship_type": "questioner",
+      "context": "questioner",
+      "full_text": "أَن عبد الله بن مُحَمَّد بن مَيْمُون حَدثهمْ قَالَ سَأَلت ذَا النُّون",
+      "person_id": 1877,
+      "canonical_name": "عبد الله بن محمد بن ميمون",
+      "has_id": NaN
+    },
+    {
+      "name": "سعيد بن عُثْمَان الْخياط",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت سعيد بن عُثْمَان الْخياط يَقُول سَمِعت ذَا النُّون يَقُول",
+      "person_id": 1603,
+      "canonical_name": "سعيد بن عثمان الخياط",
+      "has_id": NaN
+    },
+    {
+      "name": "ابْن البرقي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت ابْن البرقي يَقُول سَمِعت ذَا النُّون يَقُول",
+      "person_id": 4,
+      "canonical_name": "ابن البرقي",
+      "has_id": NaN
+    },
+    {
+      "name": "عَليّ بن عبد الله الكرجي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت عَليّ بن عبد الله الكرجي يَقُول سَمِعت ذَا النُّون يَقُول",
+      "person_id": 2048,
+      "canonical_name": "علي بن عبد الله الكرجي",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا الْفضل الْعَبَّاس بن حَمْزَة",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْفضل الْعَبَّاس بن حَمْزَة قَالَ سَمِعت ذَا النُّون يَقُول",
+      "person_id": 521,
+      "canonical_name": "أبو الفضل العباس بن حمزة",
+      "has_id": 647
+    }
+  ]
+}

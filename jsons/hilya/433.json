@@ -1,0 +1,121 @@
+{
+  "bio_id": "433",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "بغدادي"
+    },
+    {
+      "place": "الكرخ",
+      "context": "visited",
+      "full_text": "اجتزت أنا وأبو نصر المحب بالكرخ"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "أخبر جعفر بن محمد في كتابه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الحسن بن مقسم",
+          "person_id": 414,
+          "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحدثني عنه أبو الحسن بن مقسم",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الحسن بن مقسم",
+          "person_id": 414,
+          "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا العباس بن مسروق",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قال سمعت أبا العباس بن مسروق يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا الحسن بن مقسم",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول",
+      "has_id": NaN,
+      "person_id": 57,
+      "canonical_name": "أبو الحسن بن مقسم"
+    },
+    {
+      "name": "جعفر بن محمد",
+      "relationship_type": "narrator",
+      "full_text": "أخبر جعفر بن محمد في كتابه",
+      "person_id": 1405,
+      "canonical_name": "جعفر بن محمد الخلدي",
+      "has_id": 495
+    },
+    {
+      "name": "أبا العباس بن مسروق",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت أبا العباس بن مسروق يقول",
+      "person_id": 505,
+      "canonical_name": "أبو العباس بن مسروق الطوسي",
+      "has_id": 451
+    },
+    {
+      "name": "سائل",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "beggar",
+      "full_text": "فإذا نحن بسائل يسأل ويقول: شفيعي إليكم محمد ﷺ",
+      "person_id": 1585,
+      "canonical_name": "سائل",
+      "has_id": NaN
+    }
+  ]
+}

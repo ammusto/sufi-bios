@@ -1,0 +1,182 @@
+{
+  "bio_id": "524",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "271",
+    "full_text": "در سنه احدی و سبعین و مائتین برفت از دنیا بنشاپور",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "نیشاپور",
+      "context": "nisba",
+      "full_text": "نیشاپوری"
+    },
+    {
+      "place": "نیشاپور",
+      "context": "lived",
+      "full_text": "شیخ و امام ملامت بنشاپور"
+    },
+    {
+      "place": "نیشاپور",
+      "context": "died",
+      "full_text": "در سنه احدی و سبعین و مائتین برفت از دنیا بنشاپور"
+    },
+    {
+      "place": "حیره",
+      "context": "mentioned",
+      "full_text": "و گوروی به حیره است"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "حمدون گازر",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت حمدون گازر گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و قال حمدون:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و قال:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوالحسن الباروسی",
+          "person_id": 423,
+          "canonical_name": "أبو الحسن سلم بن الحسن الباروسي",
+          "has_id": 291,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وی گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وگفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "عبداللّه منازل",
+        "relationship_type": "student_of",
+        "relationship_phrase": "استاد",
+        "full_text": "طریقت او استاد عبدالله منازل ٭ است",
+        "person_id": 1065,
+        "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+        "has_id": 654
+      },
+      {
+        "name": "سلم بن الحسن الباروسی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت داشته با",
+        "full_text": "حمدون گازر صحبت داشته باسلم بن الحسن الباروسی",
+        "person_id": 423,
+        "canonical_name": "أبو الحسن سلم بن الحسن الباروسي",
+        "has_id": 291
+      },
+      {
+        "name": "ابو تراب نخشبی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت داشته با",
+        "full_text": "حمدون گازر صحبت داشته ... بابو تراب نخشبی.",
+        "person_id": 721,
+        "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+        "has_id": 388
+      },
+      {
+        "name": "ابوالحسن الباروسی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "از استاذان",
+        "full_text": "ابوالحسن الباروسی نام وی سلم بن الحسن و سالم، گفتندکی کنیت وی بوعمران بود از قدیمان مشایخ نشاپور، از استاذان حمدونگازر و مستجاب الدعوه بود.",
+        "person_id": 423,
+        "canonical_name": "أبو الحسن سلم بن الحسن الباروسي",
+        "has_id": 291
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت حمدون گازر گوید:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "مردی",
+      "relationship_type": "questioner",
+      "context": "",
+      "full_text": "مردی فراوی گفت: که مدعی معجب بود؟",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

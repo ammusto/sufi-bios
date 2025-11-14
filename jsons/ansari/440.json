@@ -1,0 +1,280 @@
+{
+  "bio_id": "440",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "240",
+    "full_text": "در سنه اربعین و\nمائتین برفته از دنیا",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "بلخ",
+      "context": "nisba",
+      "full_text": "البلخی"
+    },
+    {
+      "place": "بلخ",
+      "context": "born",
+      "full_text": "از بلخ"
+    },
+    {
+      "place": "خراسان",
+      "context": "lived",
+      "full_text": "از مهینان مشایخ خراسان بوده"
+    },
+    {
+      "place": "نشا بور",
+      "context": "visited",
+      "full_text": "بنشا بور آمدگی به حج رفت"
+    },
+    {
+      "place": "بسطام",
+      "context": "visited",
+      "full_text": "و ببسطام رفت بزیارت بایزید"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "احمد خضرویه",
+          "person_id": 1194,
+          "canonical_name": "أحمد بن خضرويه البلخي",
+          "has_id": 440,
+          "subj_added": false
+        },
+        {
+          "name": "ابراهیم ادهم",
+          "person_id": 301,
+          "canonical_name": "إبراهيم بن أدهم",
+          "has_id": 274,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وی گوید: که ابراهیم ادهم گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حفص حداد",
+          "person_id": 759,
+          "canonical_name": "أبو حفص الحداد النيسابوري",
+          "has_id": 715,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1194,
+          "canonical_name": "أحمد بن خضرويه البلخي",
+          "has_id": 440,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 1194,
+          "canonical_name": "أحمد بن خضرويه البلخي",
+          "has_id": 440
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "گفت ندیدم کس مه از احمد خضرویه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "احمد خضرویه",
+          "person_id": 1194,
+          "canonical_name": "أحمد بن خضرويه البلخي",
+          "has_id": 440,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که احمد خضرویه گوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "احمد بن خضرویه",
+          "person_id": 1194,
+          "canonical_name": "أحمد بن خضرويه البلخي",
+          "has_id": 440,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و قال احمد بن خضرویه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبداللّه بن منازل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1194,
+          "canonical_name": "أحمد بن خضرويه البلخي",
+          "has_id": 440,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال عبداللّه بن\nمنازل",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوحمزة البغدادی",
+          "person_id": 764,
+          "canonical_name": "أبو حمزة البغدادي",
+          "has_id": 397,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1194,
+          "canonical_name": "أحمد بن خضرويه البلخي",
+          "has_id": 440,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 1194,
+          "canonical_name": "أحمد بن خضرويه البلخي",
+          "has_id": 440
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال ابوحمزة البغدادی ٭ رحمه اللّه تعالی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "یوسف بن الحسین الرازی",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "الجنید",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1194,
+          "canonical_name": "أحمد بن خضرويه البلخي",
+          "has_id": 440,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "کتب یوسف بن الحسین الرازی الی الجنید فقال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "بوتراب نخشبی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود",
+        "full_text": "با بوتراب نخشبی ٭ صحبت کرده بود",
+        "person_id": 721,
+        "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+        "has_id": 388
+      },
+      {
+        "name": "حاتم اصم",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده بود",
+        "full_text": "و با حاتم اصم و ابراهیم ادهم ٭ دیده بود",
+        "person_id": 1424,
+        "canonical_name": "حاتم الأصم",
+        "has_id": 505
+      },
+      {
+        "name": "ابراهیم ادهم",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده بود",
+        "full_text": "و با حاتم اصم و ابراهیم ادهم ٭ دیده بود",
+        "person_id": 301,
+        "canonical_name": "إبراهيم بن أدهم",
+        "has_id": 274
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "بایزید",
+        "relationship_type": "peer",
+        "relationship_phrase": "از نظیران",
+        "full_text": "از نظیران بایزید و با حفص است،",
+        "person_id": 1128,
+        "canonical_name": "أبو يزيد البسطامي",
+        "has_id": 435
+      },
+      {
+        "name": "حفص",
+        "relationship_type": "peer",
+        "relationship_phrase": "از نظیران",
+        "full_text": "از نظیران بایزید و با حفص است،",
+        "person_id": 759,
+        "canonical_name": "أبو حفص الحداد النيسابوري",
+        "has_id": 715
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت: که احمد خضرویه گوید",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "حفص حداد",
+      "relationship_type": "narrator",
+      "full_text": "فرا باحفص حداد ٭\nگفتند: که مه دیدندی ازین طبقه؟ گفت ندیدم کس مه از احمد خضرویه\nبهمت و صدق احوال.",
+      "person_id": 759,
+      "canonical_name": "أبو حفص الحداد النيسابوري",
+      "has_id": 715
+    },
+    {
+      "name": "کسی",
+      "relationship_type": "questioner",
+      "full_text": "کسی احمد را گفت: مرا وصیتی کن!",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

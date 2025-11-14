@@ -1,0 +1,894 @@
+{
+  "bio_id": "439",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغ",
+      "context": "nisba",
+      "full_text": "يعرف بابن البغوي"
+    },
+    {
+      "place": "الرقة",
+      "context": "lived",
+      "full_text": "أقام بالرقة سنين"
+    },
+    {
+      "place": "بغداد",
+      "context": "lived",
+      "full_text": "ثم عاد بعد المدة المديدة إلى بغداد"
+    },
+    {
+      "place": "مكة",
+      "context": "visited",
+      "full_text": "قدم أبو الحسين النوري ... من مكة"
+    },
+    {
+      "place": "الحرم",
+      "context": "visited",
+      "full_text": "رئي النوري في رجوعه من الحرم"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد المنعم بن حيان",
+          "person_id": 1894,
+          "canonical_name": "عبد المنعم بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو سعيد الأعرابي",
+          "person_id": 807,
+          "canonical_name": "أبو سعيد بن الأعرابي",
+          "has_id": 400,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت عبد المنعم بن حيان يحكي عن أبي سعيد الأعرابي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر محمد بن حمدان",
+          "person_id": 704,
+          "canonical_name": "أبو بكر محمد بن حمدان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد ابن أحمد أبي سفيان",
+          "person_id": 2301,
+          "canonical_name": "محمد بن أحمد أبي سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن علي القحطبي",
+          "person_id": 2411,
+          "canonical_name": "محمد بن علي القحطبي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عثمان بن محمد العثماني ثنا أبو بكر محمد بن حمدان ثنا محمد ابن أحمد أبي سفيان ومحمد بن علي القحطبي قالا",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر البناء - البغدادي بمكة -",
+          "person_id": 2086,
+          "canonical_name": "عمر البناء المزوق البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439
+        },
+        {
+          "name": NaN,
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سمعت عمر البناء - البغدادي بمكة - يحكي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الفضل الهروي",
+          "person_id": 523,
+          "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن الزبير الهاشمي",
+          "person_id": 1395,
+          "canonical_name": "جعفر بن الزبير الهاشمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو الفضل الهروي قال حكى لي عن جعفر بن الزبير الهاشمي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا الفرج الورثاني",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن عبد الرحيم",
+          "person_id": 2043,
+          "canonical_name": "علي بن عبد الرحيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الفرج الورثاني يقول سمعت علي بن عبد الرحيم يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن موسى",
+          "person_id": 2457,
+          "canonical_name": "محمد بن موسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد الله",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو العباس بن عطاء",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسين النوري",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن موسى يقول سمعت محمد بن عبد الله يقول سمعت أبا العباس بن عطاء يقول سمعت أبا الحسين النوري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن موسى",
+          "person_id": 2457,
+          "canonical_name": "محمد بن موسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "فارس الجمال",
+          "person_id": 2160,
+          "canonical_name": "فارس الحمال",
+          "has_id": 722,
+          "subj_added": false
+        },
+        {
+          "name": "النوري",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن موسى يقول حكى فارس الجمال عن النوري قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا الفضل نصر بن أبي نصر الطوسي",
+          "person_id": 528,
+          "canonical_name": "أبو الفضل نصر بن محمد الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن عبد الله البغدادي",
+          "person_id": 2046,
+          "canonical_name": "علي بن عبد الله البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "فارسا الجمال",
+          "person_id": 2160,
+          "canonical_name": "فارس الحمال",
+          "has_id": 722,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الفضل نصر بن أبي نصر الطوسي يقول سمعت علي بن عبد الله البغدادي يقول سمعت فارسا الجمال يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "علي بن عبد الله الجهضمي",
+          "person_id": 2049,
+          "canonical_name": "علي بن عبد الله بن جهضم",
+          "has_id": 316,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن عبيد الله الخياط",
+          "person_id": 2053,
+          "canonical_name": "علي بن عبيد الله الخياط",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو محمد المرتعش",
+          "person_id": 1043,
+          "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
+          "has_id": 251,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسين النوري",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت علي بن عبد الله الجهضمي يقول سمعت علي بن عبيد الله الخياط يقول سمعت أبا محمد المرتعش يقول سمعت أبا الحسين النوري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الواحد بن بكر",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن عبد الرحيم",
+          "person_id": 2043,
+          "canonical_name": "علي بن عبد الرحيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن يقول حدثني عبد الواحد بن بكر حدثني علي بن عبد الرحيم قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو محمد عبد الله بن محمد الرازي",
+          "person_id": 1060,
+          "canonical_name": "أبو محمد عبد الله بن محمد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسين النوري",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت عثمان بن محمد العثماني يقول قرأت على أبي محمد عبد الله بن محمد الرازي - بنيسابور - عن أبي الحسين النوري قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو محمد عبد الله بن محمد الرازي",
+          "person_id": 1060,
+          "canonical_name": "أبو محمد عبد الله بن محمد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "النورى",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عثمان بن محمد العثماني قال: قرأت على أبي محمد عبد الله بن محمد الرازي قال أنشدنا النورى",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن الحسين",
+          "person_id": 1163,
+          "canonical_name": "أحمد بن الحسين بن طلاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسن القناد",
+          "has_id": NaN,
+          "person_id": 62,
+          "canonical_name": "أبو الحسن القناد",
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثني عثمان بن محمد قال أخبرني أحمد بن الحسين قال سمعت أبا الحسن القناد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن بن أحمد أبو علي الصوفي",
+          "person_id": 79,
+          "canonical_name": "الحسن بن أحمد أبو علي الصوفي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عثمان بن محمد قال أخبرنا الحسن بن أحمد أبو علي الصوفي قال كتب النوري إلى الجنيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر محمد بن عبد الله الرزى",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "القناد",
+          "person_id": 216,
+          "canonical_name": "القناد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسين النوري",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أبا بكر محمد بن عبد الله الرزى يقول سمعت القناد يقول سمعت أبا الحسين النوري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن عمر بن الفضل بن غالب",
+          "person_id": 2422,
+          "canonical_name": "محمد بن عمر بن الفضل بن غالب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "ومن مسانيد حديثه فيما أخبرنيه محمد بن عمر بن الفضل بن غالب في كتابه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن عيسى الدهقان",
+          "person_id": 2426,
+          "canonical_name": "محمد بن عيسى الدهقان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن عيسى الدهقان قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "السري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        },
+        {
+          "name": "معروف الكرخي",
+          "person_id": 2524,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": false
+        },
+        {
+          "name": "ابن السماك",
+          "has_id": 27,
+          "person_id": 7,
+          "canonical_name": "ابن السماك",
+          "subj_added": false
+        },
+        {
+          "name": "الثوري",
+          "person_id": 1607,
+          "canonical_name": "سفيان الثوري",
+          "has_id": 598,
+          "subj_added": false
+        },
+        {
+          "name": "الأعمش",
+          "person_id": 59,
+          "canonical_name": "الأعمش",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أنس",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "النبي ﷺ",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "فقال: ثنا السري عن معروف الكرخي عن ابن السماك عن الثوري عن الأعمش عن أنس عن النبي ﷺ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "السري السقطي",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        },
+        {
+          "name": "معروف بن فيروز",
+          "person_id": 2524,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "فقال: سمعت معروف بن فيروز يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "السماك",
+          "person_id": 163,
+          "canonical_name": "السماك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الثوري",
+          "person_id": 1607,
+          "canonical_name": "سفيان الثوري",
+          "has_id": 598,
+          "subj_added": false
+        },
+        {
+          "name": "الأعمش",
+          "person_id": 59,
+          "canonical_name": "الأعمش",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "فقال: حدثني الثوري عن الأعمش",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "السري",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "فقال: ثنا السري عن معروف الكرخي عن ابن السماك عن الثوري عن الأعمش عن أنس عن النبي ﷺ",
+        "person_id": 161,
+        "canonical_name": "السري السقطي",
+        "has_id": 236
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "أحمد بن أبي الحواري",
+        "relationship_type": "peer",
+        "relationship_phrase": "لقي",
+        "full_text": "لقي أحمد بن أبي الحواري",
+        "person_id": 1177,
+        "canonical_name": "أحمد بن أبي الحواري",
+        "has_id": 442
+      },
+      {
+        "name": "سريا السقطي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب سريا السقطي.",
+        "person_id": 161,
+        "canonical_name": "السري السقطي",
+        "has_id": 236
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أبو سعيد الأعرابي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت عبد المنعم بن حيان يحكي عن أبي سعيد الأعرابي",
+      "person_id": 807,
+      "canonical_name": "أبو سعيد بن الأعرابي",
+      "has_id": 400
+    },
+    {
+      "name": "محمد ابن أحمد أبي سفيان",
+      "relationship_type": "narrator",
+      "full_text": "ثنا محمد ابن أحمد أبي سفيان",
+      "person_id": 2301,
+      "canonical_name": "محمد بن أحمد أبي سفيان",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن علي القحطبي",
+      "relationship_type": "narrator",
+      "full_text": "ومحمد بن علي القحطبي قالا",
+      "person_id": 2411,
+      "canonical_name": "محمد بن علي القحطبي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا الحسن بن مقسم",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول",
+      "has_id": NaN,
+      "person_id": 61,
+      "canonical_name": "الأوزاعي"
+    },
+    {
+      "name": "عمر البناء - البغدادي بمكة -",
+      "relationship_type": "narrator",
+      "full_text": "سمعت عمر البناء - البغدادي بمكة - يحكي",
+      "person_id": 2086,
+      "canonical_name": "عمر البناء المزوق البغدادي",
+      "has_id": NaN
+    },
+    {
+      "name": "جعفر بن الزبير الهاشمي",
+      "relationship_type": "narrator",
+      "full_text": "قال حكى لي عن جعفر بن الزبير الهاشمي",
+      "person_id": 1395,
+      "canonical_name": "جعفر بن الزبير الهاشمي",
+      "has_id": NaN
+    },
+    {
+      "name": "علي بن عبد الرحيم",
+      "relationship_type": "narrator",
+      "full_text": "سمعت علي بن عبد الرحيم يقول",
+      "person_id": 2043,
+      "canonical_name": "علي بن عبد الرحيم",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو العباس بن عطاء",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا العباس بن عطاء يقول",
+      "person_id": 498,
+      "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+      "has_id": 340
+    },
+    {
+      "name": "فارس الجمال",
+      "relationship_type": "narrator",
+      "full_text": "حكى فارس الجمال عن النوري قال",
+      "person_id": 2160,
+      "canonical_name": "فارس الحمال",
+      "has_id": 722
+    },
+    {
+      "name": "أبو محمد المرتعش",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا محمد المرتعش يقول",
+      "person_id": 1043,
+      "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
+      "has_id": 251
+    },
+    {
+      "name": "أبو محمد عبد الله بن محمد الرازي",
+      "relationship_type": "narrator",
+      "full_text": "قرأت على أبي محمد عبد الله بن محمد الرازي - بنيسابور - عن أبي الحسين النوري قال",
+      "person_id": 1060,
+      "canonical_name": "أبو محمد عبد الله بن محمد الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا الحسن القناد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا الحسن القناد يقول",
+      "has_id": NaN,
+      "person_id": 60,
+      "canonical_name": "الأنماطي"
+    },
+    {
+      "name": "الحسن بن أحمد أبو علي الصوفي",
+      "relationship_type": "narrator",
+      "full_text": "أخبرنا الحسن بن أحمد أبو علي الصوفي",
+      "person_id": 79,
+      "canonical_name": "الحسن بن أحمد أبو علي الصوفي",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن عمر بن الفضل بن غالب",
+      "relationship_type": "narrator",
+      "full_text": "فيما أخبرنيه محمد بن عمر بن الفضل بن غالب في كتابه",
+      "person_id": 2422,
+      "canonical_name": "محمد بن عمر بن الفضل بن غالب",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن عيسى الدهقان",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا محمد بن عيسى الدهقان قال",
+      "person_id": 2426,
+      "canonical_name": "محمد بن عيسى الدهقان",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "full_text": "فقال له رجل: هل يلحق الأسرار ما يلحق الصفات؟",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    },
+    {
+      "name": "السياف",
+      "relationship_type": "interlocutor",
+      "full_text": "فقال له: السياف: ما دعاك إلى الابتدار إلى القتل من بين أصحابك؟",
+      "person_id": 164,
+      "canonical_name": "السياف",
+      "has_id": NaN
+    },
+    {
+      "name": "الخليفة",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "فأدخلوا على الخليفة فأمر بضرب أعناقهم",
+      "person_id": 146,
+      "canonical_name": "الخليفة",
+      "has_id": NaN
+    },
+    {
+      "name": "إسماعيل بن إسحاق",
+      "relationship_type": "questioner",
+      "full_text": "فقدم إليه النوري فسأله عن مسائل في العبادات والطهارة والصلاة",
+      "person_id": 358,
+      "canonical_name": "إسماعيل بن إسحاق",
+      "has_id": NaN
+    },
+    {
+      "name": "السلطان",
+      "relationship_type": "questioner",
+      "full_text": "وسأله السلطان يومئذ من أين يأكلون؟",
+      "person_id": 162,
+      "canonical_name": "السلطان",
+      "has_id": NaN
+    },
+    {
+      "name": "الجنيد",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "فبلغ ذلك الجنيد فقال: كان حكمه أن يخرج له أفعى فتلدغه.",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    },
+    {
+      "name": "الشبلى",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "فبلغ ذلك الشبلى. فأنشأ يقول:",
+      "person_id": 628,
+      "canonical_name": "أبو بكر الشبلي",
+      "has_id": 376
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "bio_id": "375",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "مصر",
+      "context": "nisba",
+      "full_text": "بوبکر زقاق مصری"
+    },
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "بغدادیست"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "شیخ بوبکرکتانی",
+          "person_id": 712,
+          "canonical_name": "أبو بكر محمد بن علي الكتاني",
+          "has_id": 378,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ بوبکرکتانی گفت: انقطع حجة الفقراء فی دخولهم مصراً",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر زقاق کهین",
+          "person_id": 626,
+          "canonical_name": "أبو بكر الزقاق الكبير",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوبکر زقاق کهین گفت: کی چهل سالست کی از جنید سخنی شنیدهام در فنا، هنوز برجای آن در سر منست.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی بوبکر زقاقکهین بغدادیست شاگرد بوبکر زقاق مهین ایذ بابتدا دست در حدیث داشت، حدیث مینوشت، پس با طریقت اهل حقیقت گشت و یک چشم بود.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوبکر رازی",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ بوبکر رازی گوید، که ویرا گفتم: سبب چشم بشدن تو چه بود؟",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوبکر رازی",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "گفت:",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "بوبکر زقاق مهین",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد بوبکر زقاق مهین ایذ",
+        "person_id": 627,
+        "canonical_name": "أبو بكر الزقاق مهين",
+        "has_id": NaN
+      },
+      {
+        "name": "جنید",
+        "relationship_type": "student_of",
+        "relationship_phrase": "از ... شنیدهام",
+        "full_text": "بوبکر زقاق کهین گفت: کی چهل سالست کی از جنید سخنی شنیدهام در فنا، هنوز برجای آن در سر منست.",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "جنید",
+        "relationship_type": "peer",
+        "relationship_phrase": "از یاران و اقران",
+        "full_text": "و بوبکر مصری از یاران و اقران جنید بوده.",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ بوبکرکتانی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ بوبکرکتانی گفت: انقطع حجة الفقراء فی دخولهم مصراً",
+      "person_id": 712,
+      "canonical_name": "أبو بكر محمد بن علي الكتاني",
+      "has_id": 378
+    },
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت: کی بوبکر زقاقکهین بغدادیست شاگرد بوبکر زقاق مهین ایذ بابتدا دست در حدیث داشت، حدیث مینوشت، پس با طریقت اهل حقیقت گشت و یک چشم بود.",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ بوبکر رازی",
+      "relationship_type": "narrator",
+      "context": "questioner; direct_narrator",
+      "full_text": "شیخ بوبکر رازی گوید، که ویرا گفتم: سبب چشم بشدن تو چه بود؟",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    }
+  ]
+}

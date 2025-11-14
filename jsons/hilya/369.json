@@ -1,0 +1,94 @@
+{
+  "bio_id": "369",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "الرقة",
+      "context": "nisba",
+      "full_text": "الرقي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن موسى",
+          "person_id": 2510,
+          "canonical_name": "مطرب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين بن أحمد",
+          "person_id": 107,
+          "canonical_name": "الحسين بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم القصار الرقي",
+          "person_id": 288,
+          "canonical_name": "إبراهيم المغربي",
+          "has_id": 270,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن موسى يقول سمعت الحسين بن أحمد يقول سمعت إبراهيم. القصار الرقي يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الفضل نصر بن محمد الطوسي",
+          "person_id": 546,
+          "canonical_name": "أبو القاسم باوردي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن أحمد بن المولد",
+          "person_id": 304,
+          "canonical_name": "إبراهيم بن آدم",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا أبو الفضل نصر بن محمد الطوسي قال سمعت إبراهيم بن أحمد بن المولد يقول:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "الحسين بن أحمد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت الحسين بن أحمد يقول",
+      "person_id": 107,
+      "canonical_name": "الحسين بن أحمد",
+      "has_id": NaN
+    },
+    {
+      "name": "إبراهيم بن أحمد بن المولد",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت إبراهيم بن أحمد بن المولد يقول",
+      "person_id": 304,
+      "canonical_name": "إبراهيم بن آدم",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "full_text": "سأل رجل إبراهيم القصار الرقي فقال",
+      "person_id": 1573,
+      "canonical_name": "زيد بن أخزم",
+      "has_id": NaN
+    }
+  ]
+}

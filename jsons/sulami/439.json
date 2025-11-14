@@ -1,0 +1,839 @@
+{
+  "bio_id": "439",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "295",
+    "full_text": "توفّي سنة خمس وَتِسْعين وَمِائَتَيْنِ",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "بغدادي"
+    },
+    {
+      "place": "بغداد",
+      "context": "born",
+      "full_text": "بغدادي المنشأ والمولد"
+    },
+    {
+      "place": "بغداد",
+      "context": "lived",
+      "full_text": "بغدادي المنشأ والمولد"
+    },
+    {
+      "place": "خراسان",
+      "context": "mentioned",
+      "full_text": "خراساني الأَصْل"
+    },
+    {
+      "place": "هراة",
+      "context": "mentioned",
+      "full_text": "من قَرْيَة بَين هراة ومرو الروذ يُقَال لَهَا بغشور"
+    },
+    {
+      "place": "مرو الروذ",
+      "context": "mentioned",
+      "full_text": "من قَرْيَة بَين هراة ومرو الروذ يُقَال لَهَا بغشور"
+    },
+    {
+      "place": "بغشور",
+      "context": "mentioned",
+      "full_text": "من قَرْيَة بَين هراة ومرو الروذ يُقَال لَهَا بغشور"
+    },
+    {
+      "place": "بغداد",
+      "context": "visited",
+      "full_text": "بِبَغْدَاد"
+    },
+    {
+      "place": "الْكُوفَة",
+      "context": "mentioned",
+      "full_text": "خرجت من الْكُوفَة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن الْحسن بن خَالِد",
+          "person_id": 2230,
+          "canonical_name": "محمد بن الحسن بن خالد البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن الْأَعرَابِي",
+          "person_id": 807,
+          "canonical_name": "أبو سعيد بن الأعرابي",
+          "has_id": 400,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّد بن الْحسن بن خَالِد يَقُول سَمِعت ابْن الْأَعرَابِي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله ابْن عبد الْعَزِيز الطَّبَرِيّ",
+          "person_id": 2387,
+          "canonical_name": "محمد بن عبد الله بن عبد العزيز الطبري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الرَّحِيم",
+          "person_id": 2043,
+          "canonical_name": "علي بن عبد الرحيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "كَذَلِك سَمِعت مُحَمَّد بن عبد الله ابْن عبد الْعَزِيز الطَّبَرِيّ يَقُول سَمِعت عَليّ بن عبد الرَّحِيم يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو الْقَاسِم عبد الرَّحِيم بن عَليّ الْبَزَّاز الْحَافِظ",
+          "person_id": 553,
+          "canonical_name": "أبو القاسم عبد الرحيم بن علي البزّاز الحافظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عبد الله مُحَمَّد بن عمر بن الْفضل",
+          "person_id": 918,
+          "canonical_name": "أبو عبد الله محمد بن عمر بن الفضل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عِيسَى الدهْقَان",
+          "person_id": 2426,
+          "canonical_name": "محمد بن عيسى الدهقان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا أَبُو الْقَاسِم عبد الرَّحِيم بن عَليّ الْبَزَّاز الْحَافِظ بِبَغْدَاد قَالَ حَدثنَا أَبُو عبد الله مُحَمَّد بن عمر بن الْفضل حَدثنَا مُحَمَّد بن عِيسَى الدهْقَان",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "السّري",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        },
+        {
+          "name": "مَعْرُوف الْكَرْخِي",
+          "person_id": 2524,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن السماك",
+          "person_id": 7,
+          "canonical_name": "ابن السماك",
+          "has_id": 27,
+          "subj_added": false
+        },
+        {
+          "name": "الثَّوْريّ",
+          "person_id": 1607,
+          "canonical_name": "سفيان الثوري",
+          "has_id": 598,
+          "subj_added": false
+        },
+        {
+          "name": "الْأَعْمَش",
+          "person_id": 59,
+          "canonical_name": "الأعمش",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أنس",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "فَقَالَ حَدثنَا السّري عَن مَعْرُوف الْكَرْخِي عَن ابْن السماك عَن الثَّوْريّ عَن الْأَعْمَش عَن أنس",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عِيسَى الدهْقَان",
+          "person_id": 2426,
+          "canonical_name": "محمد بن عيسى الدهقان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قَالَ مُحَمَّد بن عِيسَى الدهْقَان",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سري السَّقطِي",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        },
+        {
+          "name": "مَعْرُوف بن فَيْرُوز الْكَرْخِي",
+          "person_id": 2524,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "فَقَالَ سَمِعت مَعْرُوف بن فَيْرُوز الْكَرْخِي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابْن السماك",
+          "person_id": 7,
+          "canonical_name": "ابن السماك",
+          "has_id": 27,
+          "subj_added": false
+        },
+        {
+          "name": "الثَّوْريّ",
+          "person_id": 1607,
+          "canonical_name": "سفيان الثوري",
+          "has_id": 598,
+          "subj_added": false
+        },
+        {
+          "name": "الْأَعْمَش",
+          "person_id": 59,
+          "canonical_name": "الأعمش",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "فَقَالَ حَدثنِي الثَّوْريّ عَن الْأَعْمَش مثله",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جَعْفَر بن مُحَمَّد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان يَقُول سَمِعت جَعْفَر بن مُحَمَّد يُقَال قَالَ النوري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن بكر",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الرَّحِيم",
+          "person_id": 2043,
+          "canonical_name": "علي بن عبد الرحيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "النوري",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الْوَاحِد بن بكر يَقُول سَمِعت عَليّ بن عبد الرَّحِيم يَقُول سَمِعت النوري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن بكر",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الرَّحِيم",
+          "person_id": 2043,
+          "canonical_name": "علي بن عبد الرحيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "النوري",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت النوري يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفرغاني",
+          "person_id": 193,
+          "canonical_name": "الفرغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أَنْشدني مَنْصُور بن عبد الله قَالَ سَمِعت الفرغاني ينشد لأبي الْحُسَيْن النوري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الفرغاني",
+          "person_id": 193,
+          "canonical_name": "الفرغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ النوري",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "القناد",
+          "person_id": 216,
+          "canonical_name": "القناد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحُسَيْن النوري",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ يَقُول سَمِعت القناد يَقُول سَمِعت أَبَا الْحُسَيْن النوري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "القناد",
+          "person_id": 216,
+          "canonical_name": "القناد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحُسَيْن النوري",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ النوري عَن التصوف فَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن بكر",
+          "person_id": 519,
+          "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عليا الْفَتى",
+          "person_id": 1989,
+          "canonical_name": "علي الفتى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحُسَيْن النوري",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الْوَاحِد بن بكر يَقُول سَمِعت عليا الْفَتى يَقُول سَمِعت أَبَا الْحُسَيْن النوري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "نصر بن أبي نصر الْعَطَّار",
+          "person_id": 2582,
+          "canonical_name": "نصر بن أبي نصر العطّار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الله الْبَغْدَادِيّ",
+          "person_id": 2046,
+          "canonical_name": "علي بن عبد الله البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "فَارِسًا الْحمال",
+          "person_id": 2160,
+          "canonical_name": "فارس الحمال",
+          "has_id": 722,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت نصر بن أبي نصر الْعَطَّار يَقُول سَمِعت عَليّ بن عبد الله الْبَغْدَادِيّ يَقُول سَمِعت فَارِسًا الْحمال يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 321,
+          "canonical_name": "إبراهيم بن فاتك",
+          "has_id": 32,
+          "subj_added": false
+        },
+        {
+          "name": "النوري",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول سَمِعت إِبْرَاهِيم بن فاتك يَقُول سَمِعت النوري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 321,
+          "canonical_name": "إبراهيم بن فاتك",
+          "has_id": 32,
+          "subj_added": false
+        },
+        {
+          "name": "النوري",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ النوري",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 321,
+          "canonical_name": "إبراهيم بن فاتك",
+          "has_id": 32,
+          "subj_added": false
+        },
+        {
+          "name": "النوري",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ النوري",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 321,
+          "canonical_name": "إبراهيم بن فاتك",
+          "has_id": 32,
+          "subj_added": false
+        },
+        {
+          "name": "النوري",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ النوري عَن الْفَقِير الصَّادِق فَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 321,
+          "canonical_name": "إبراهيم بن فاتك",
+          "has_id": 32,
+          "subj_added": false
+        },
+        {
+          "name": "النوري",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وأنشدنا النوري",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن فاتك",
+          "person_id": 321,
+          "canonical_name": "إبراهيم بن فاتك",
+          "has_id": 32,
+          "subj_added": false
+        },
+        {
+          "name": "النوري",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وأحضر النوري مَجْلِسا للسُّلْطَان فَقَالَ",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "سريا السَّقطِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب سريا السَّقطِي",
+        "person_id": 161,
+        "canonical_name": "السري السقطي",
+        "has_id": 236
+      },
+      {
+        "name": "مُحَمّد بن عَليّ القصاب",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب سريا السَّقطِي وَمُحَمّد بن عَليّ القصاب",
+        "person_id": 2412,
+        "canonical_name": "محمد بن علي القصاب",
+        "has_id": NaN
+      },
+      {
+        "name": "أَحْمد بن أبي الْحوَاري",
+        "relationship_type": "peer",
+        "relationship_phrase": "رَأى",
+        "full_text": "وَرَأى أَحْمد بن أبي الْحوَاري",
+        "person_id": 1177,
+        "canonical_name": "أحمد بن أبي الحواري",
+        "has_id": 442
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "ابْن الْأَعرَابِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مُحَمَّد بن الْحسن بن خَالِد يَقُول سَمِعت ابْن الْأَعرَابِي يَقُول",
+      "person_id": 807,
+      "canonical_name": "أبو سعيد بن الأعرابي",
+      "has_id": 400
+    },
+    {
+      "name": "عَليّ بن عبد الرَّحِيم",
+      "relationship_type": "narrator",
+      "full_text": "كَذَلِك سَمِعت مُحَمَّد بن عبد الله ابْن عبد الْعَزِيز الطَّبَرِيّ يَقُول سَمِعت عَليّ بن عبد الرَّحِيم يَقُول",
+      "person_id": 2043,
+      "canonical_name": "علي بن عبد الرحيم",
+      "has_id": NaN
+    },
+    {
+      "name": "مُحَمَّد بن عِيسَى الدهْقَان",
+      "relationship_type": "narrator",
+      "full_text": "أخبرنَا أَبُو الْقَاسِم ... حَدثنَا مُحَمَّد بن عِيسَى الدهْقَان",
+      "person_id": 2426,
+      "canonical_name": "محمد بن عيسى الدهقان",
+      "has_id": NaN
+    },
+    {
+      "name": "جَعْفَر بن مُحَمَّد",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان يَقُول سَمِعت جَعْفَر بن مُحَمَّد يُقَال",
+      "person_id": 1405,
+      "canonical_name": "جعفر بن محمد الخلدي",
+      "has_id": 495
+    },
+    {
+      "name": "القناد",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ يَقُول سَمِعت القناد يَقُول",
+      "person_id": 216,
+      "canonical_name": "القناد",
+      "has_id": NaN
+    },
+    {
+      "name": "عليا الْفَتى",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت عبد الْوَاحِد بن بكر يَقُول سَمِعت عليا الْفَتى يَقُول",
+      "person_id": 1989,
+      "canonical_name": "علي الفتى",
+      "has_id": NaN
+    },
+    {
+      "name": "فَارِسًا الْحمال",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت عَليّ بن عبد الله الْبَغْدَادِيّ يَقُول سَمِعت فَارِسًا الْحمال يَقُول",
+      "person_id": 2160,
+      "canonical_name": "فارس الحمال",
+      "has_id": 722
+    },
+    {
+      "name": "إِبْرَاهِيم بن فاتك",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول سَمِعت إِبْرَاهِيم بن فاتك يَقُول",
+      "person_id": 321,
+      "canonical_name": "إبراهيم بن فاتك",
+      "has_id": 32
+    },
+    {
+      "name": "الفرغاني",
+      "relationship_type": "narrator",
+      "full_text": "أَنْشدني مَنْصُور بن عبد الله قَالَ سَمِعت الفرغاني ينشد لأبي الْحُسَيْن النوري",
+      "person_id": 193,
+      "canonical_name": "الفرغاني",
+      "has_id": NaN
+    },
+    {
+      "name": "غُلَاما جميلا",
+      "relationship_type": "interlocutor",
+      "full_text": "رَأَيْت غُلَاما جميلا بِبَغْدَاد",
+      "person_id": 2151,
+      "canonical_name": "غلاما جميلا",
+      "has_id": NaN
+    },
+    {
+      "name": "السُّلْطَان",
+      "relationship_type": "questioner",
+      "full_text": "وأحضر النوري مَجْلِسا للسُّلْطَان فَقَالَ لَهُ من أَيْن تَأْكُلُونَ",
+      "person_id": 162,
+      "canonical_name": "السلطان",
+      "has_id": NaN
+    }
+  ]
+}

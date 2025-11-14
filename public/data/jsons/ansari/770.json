@@ -1,0 +1,122 @@
+{
+  "bio_id": "770",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بلخ",
+      "context": "nisba",
+      "full_text": "البلخی"
+    },
+    {
+      "place": "سمرقند",
+      "context": "lived",
+      "full_text": "ساکن سمرقند"
+    },
+    {
+      "place": "بلخ",
+      "context": "born",
+      "full_text": "اصل او از بلخ است"
+    },
+    {
+      "place": "شهرکرد",
+      "context": "visited",
+      "full_text": "روی فرا شهرکرد."
+    },
+    {
+      "place": "سمرقند",
+      "context": "visited",
+      "full_text": "به سمرقند رفت"
+    },
+    {
+      "place": "نشاپور",
+      "context": "visited",
+      "full_text": "رفت بنشاپور"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر واسطی",
+          "person_id": 653,
+          "canonical_name": "أبو بكر الواسطي",
+          "has_id": 379,
+          "subj_added": false
+        },
+        {
+          "name": "محمدبن الفضل بلخی",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بوبکر واسطی٭ گوید، و خود هیچکس چنون گوید، و حکایت کم کند، کی وی سخن خود گوید حکایت کند یکی از آن اینست، که وی گفت: محمدبن الفضل بلخی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "احمد خضرویه٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "صحبت کرده با احمد خضرویه٭",
+        "person_id": 1194,
+        "canonical_name": "أحمد بن خضرويه البلخي",
+        "has_id": 440
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "بوبکر واسطی٭",
+      "relationship_type": "direct_narrator",
+      "full_text": "بوبکر واسطی٭ گوید",
+      "person_id": 653,
+      "canonical_name": "أبو بكر الواسطي",
+      "has_id": 379
+    },
+    {
+      "name": "یکی",
+      "relationship_type": "questioner",
+      "context": "به مصطفی گفت: که مرا وصیتی بکن",
+      "full_text": "یکی گفت مصطفی را ﷺ. که مرا وصیتی بکن",
+      "person_id": 2670,
+      "canonical_name": "يكي",
+      "has_id": NaN
+    },
+    {
+      "name": "مصطفی",
+      "relationship_type": "interlocutor",
+      "full_text": "مصطفی را ﷺ. «گفت:» قل آمنت باللّه ثم استقم",
+      "person_id": 246,
+      "canonical_name": "النبي",
+      "has_id": NaN
+    }
+  ]
+}

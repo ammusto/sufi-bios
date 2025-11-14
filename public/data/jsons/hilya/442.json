@@ -1,0 +1,4285 @@
+{
+  "bio_id": "442",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "دير حرملة",
+      "context": "visited",
+      "full_text": "قلت لراهب في دير حرملة"
+    },
+    {
+      "place": "الفرات",
+      "context": "visited",
+      "full_text": "فحمل كتبه إلى شط الفرات فجلس يبكي ساعة طويلة"
+    },
+    {
+      "place": "مكة",
+      "context": "visited",
+      "full_text": "التقى أحمد بن حنبل وأحمد بن أبي الحواري بمكة"
+    },
+    {
+      "place": "بلاد الشام",
+      "context": "visited",
+      "full_text": "بينا أنا ذات يوم فى بلاد الشام فى قبة من قباب المقابر"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "إسحاق بن أحمد بن علي",
+          "person_id": 346,
+          "canonical_name": "إسحاق بن أحمد بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن يوسف",
+          "person_id": 331,
+          "canonical_name": "إبراهيم بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إسحاق بن أحمد بن علي ثنا إبراهيم بن يوسف ثنا أحمد بن أبي الحواري قال قلت لأبي صفوان الرعيني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إسحاق بن أحمد",
+          "person_id": 344,
+          "canonical_name": "إسحاق بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم",
+          "person_id": 331,
+          "canonical_name": "إبراهيم بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إسحاق بن أحمد ثنا إبراهيم ثنا أحمد بن أبي الحواري قال قلت لراهب في دير حرملة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إسحاق",
+          "person_id": 344,
+          "canonical_name": "إسحاق بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم",
+          "person_id": 331,
+          "canonical_name": "إبراهيم بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إسحاق ثنا إبراهيم ثنا أحمد قال سمعت أبي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إسحاق",
+          "person_id": 344,
+          "canonical_name": "إسحاق بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم",
+          "person_id": 331,
+          "canonical_name": "إبراهيم بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إسحاق ثنا إبراهيم ثنا أحمد قال سمعت أبا سليمان يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إسحاق",
+          "person_id": 344,
+          "canonical_name": "إسحاق بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم",
+          "person_id": 331,
+          "canonical_name": "إبراهيم بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إسحاق ثنا إبراهيم ثنا أحمد قال: كنت إذا شكوت إلى أبي سليمان",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو أحمد محمد بن محمد بن إسحاق الحافظ",
+          "person_id": 601,
+          "canonical_name": "أبو أحمد محمد بن محمد بن إسحاق الحافظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن عبد العزيز الحلبي",
+          "person_id": 1599,
+          "canonical_name": "سعيد بن عبد العزيز الحلبي",
+          "has_id": 597,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو أحمد محمد بن محمد بن إسحاق الحافظ ثنا سعيد بن عبد العزيز الحلبي قال سمعت أحمد بن أبي الحواري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن جعفر بن مطر",
+          "person_id": 2334,
+          "canonical_name": "محمد بن جعفر بن مطر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن يوسف",
+          "person_id": 331,
+          "canonical_name": "إبراهيم بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن الحسين بن موسى قال سمعت محمد بن جعفر بن مطر يقول سمعت إبراهيم بن يوسف يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد الله الطبري",
+          "person_id": 2382,
+          "canonical_name": "محمد بن عبد الله الطبري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن الحسين",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن الحسين قال سمعت محمد بن عبد الله الطبري يقول: سمعت يوسف بن الحسين يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 580,
+          "canonical_name": "أبو أبي عبد الرحمن السلمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن شيبان",
+          "person_id": 314,
+          "canonical_name": "إبراهيم بن شيبان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن الحسين قال سمعت أبي يقول قال إبراهيم بن شيبان يحكي عن أحمد بن أبي الحواري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر محمد بن عبد الله بن عبد العزيز الرازي المذكر",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عمرو البيكندي",
+          "person_id": 1009,
+          "canonical_name": "أبو عمرو البيكندي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا بكر محمد بن عبد الله بن عبد العزيز الرازي المذكر يقول سمعت أبا عمرو البيكندي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو أحمد محمد بن أحمد بن حمدان الرازي النيسابوري",
+          "person_id": 600,
+          "canonical_name": "أبو أحمد محمد بن أحمد بن حمدان الرازي النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر محمد بن عبد الله النيسابوري حفيد العباس بن حمزة",
+          "person_id": 709,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن زكريا النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جدي العباس ابن حمزة",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو أحمد محمد بن أحمد بن حمدان الرازي النيسابوري ثنا أبو بكر محمد بن عبد الله النيسابوري حفيد العباس بن حمزة ثنا جدي العباس ابن حمزة قال قال أحمد بن أبي الحواري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو أحمد",
+          "person_id": 600,
+          "canonical_name": "أبو أحمد محمد بن أحمد بن حمدان الرازي النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد",
+          "person_id": 2214,
+          "canonical_name": "محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جدي العباس",
+          "person_id": 1386,
+          "canonical_name": "جدي العباس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو أحمد ثنا محمد ثنا جدي العباس قال قال أحمد بن أبي الحواري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن جعفر بن يوسف",
+          "person_id": 2335,
+          "canonical_name": "محمد بن جعفر بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن يعقوب",
+          "person_id": 1879,
+          "canonical_name": "عبد الله بن محمد بن يعقوب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو حاتم",
+          "person_id": 751,
+          "canonical_name": "أبو حاتم العطّار البصري",
+          "has_id": 109,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن جعفر بن يوسف ثنا عبد الله بن محمد بن يعقوب ثنا أبو حاتم ثنا أحمد بن أبي الحواري قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد",
+          "person_id": 2214,
+          "canonical_name": "محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله",
+          "person_id": 1879,
+          "canonical_name": "عبد الله بن محمد بن يعقوب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو حاتم",
+          "person_id": 751,
+          "canonical_name": "أبو حاتم العطّار البصري",
+          "has_id": 109,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد ثنا عبد الله ثنا أبو حاتم ثنا أحمد بن أبي الحواري ثنا يحيى ابن زكريا",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد",
+          "person_id": 2214,
+          "canonical_name": "محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله",
+          "person_id": 1879,
+          "canonical_name": "عبد الله بن محمد بن يعقوب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو حاتم",
+          "person_id": 751,
+          "canonical_name": "أبو حاتم العطّار البصري",
+          "has_id": 109,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد ثنا عبد الله ثنا أبو حاتم ثنا أحمد بن أبي الحواري حدثني إسحاق بن خلف",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد",
+          "person_id": 2214,
+          "canonical_name": "محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله",
+          "person_id": 1879,
+          "canonical_name": "عبد الله بن محمد بن يعقوب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو حاتم",
+          "person_id": 751,
+          "canonical_name": "أبو حاتم العطّار البصري",
+          "has_id": 109,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد ثنا عبد الله ثنا أبو حاتم ثنا أحمد بن أبي الحواري ثنا الوليد ابن عتبة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد",
+          "person_id": 2214,
+          "canonical_name": "محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله",
+          "person_id": 1879,
+          "canonical_name": "عبد الله بن محمد بن يعقوب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو حاتم",
+          "person_id": 751,
+          "canonical_name": "أبو حاتم العطّار البصري",
+          "has_id": 109,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد ثنا عبد الله ثنا أبو حاتم ثنا أحمد قال قلت لراهب",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد",
+          "person_id": 1251,
+          "canonical_name": "أحمد بن محمد بن زياد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو علي بن الحسين بن عبد الله بن شاكر السمرقندي",
+          "person_id": 972,
+          "canonical_name": "أبو علي بن الحسين بن عبد الله بن شاكر السمرقندي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسن أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا أحمد بن محمد ثنا أبو علي بن الحسين بن عبد الله بن شاكر السمرقندي ثنا أبو الحسن أحمد بن أبي الحواري وسمعته يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1163,
+          "canonical_name": "أحمد بن الحسين بن طلاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر",
+          "person_id": 2095,
+          "canonical_name": "عمر بن بحر الأسدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين بن عبد الله بن شاكر السمرقندي",
+          "person_id": 119,
+          "canonical_name": "الحسين بن عبد الله بن شاكر السمرقندي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا أحمد بن محمد ثنا عمر ثنا الحسين بن عبد الله بن شاكر السمرقندي ثنا أحمد بن أبي الحواري قال سمعت عبد العزيز يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1163,
+          "canonical_name": "أحمد بن الحسين بن طلاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شعيب بن أحمد القرشي",
+          "person_id": 1674,
+          "canonical_name": "شعيب بن أحمد القرشي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "دكين الفزاري",
+          "person_id": 1520,
+          "canonical_name": "دكين الفزاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قال: وحدثنا أحمد ثنا شعيب بن أحمد القرشي عن دكين الفزاري قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1163,
+          "canonical_name": "أحمد بن الحسين بن طلاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين",
+          "person_id": 105,
+          "canonical_name": "الحسين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا أحمد ثنا الحسين ثنا أحمد قال سمعت عبد الله الحذاء يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1163,
+          "canonical_name": "أحمد بن الحسين بن طلاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين",
+          "person_id": 105,
+          "canonical_name": "الحسين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا أحمد ثنا الحسين ثنا أحمد بن أبي الحواري قال سمعت أخي محمدا",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو محمد بن حيان",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسحاق بن أبي حسان",
+          "person_id": 343,
+          "canonical_name": "إسحاق بن أبي حسان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد ابن أبى الحوارى",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "أبو المفلس",
+          "person_id": 562,
+          "canonical_name": "أبو المفلس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبيد الله الجهني",
+          "person_id": 926,
+          "canonical_name": "أبو عبيد الله الجهني",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو محمد بن حيان - إملاء - ثنا إسحاق بن أبي حسان ثنا أحمد ابن أبى الحوارى ثنا أبو المفلس ثنا أبو عبيد الله الجهني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو محمد",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسحاق",
+          "person_id": 343,
+          "canonical_name": "إسحاق بن أبي حسان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو محمد - إملاء - ثنا إسحاق ثنا أحمد قال: ناظرت أبا سليمان",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو أحمد",
+          "person_id": 600,
+          "canonical_name": "أبو أحمد محمد بن أحمد بن حمدان الرازي النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسحاق",
+          "person_id": 343,
+          "canonical_name": "إسحاق بن أبي حسان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو أحمد - إملاء - ثنا إسحاق ثنا أحمد قال سمعت محمودا يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو محمد",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسحاق",
+          "person_id": 343,
+          "canonical_name": "إسحاق بن أبي حسان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الخالق بن جبير",
+          "person_id": 1732,
+          "canonical_name": "عبد الخالق بن جبير",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو محمد - إملاء - ثنا إسحاق ثنا أحمد حدثني عبد الخالق بن جبير",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن إسحاق",
+          "person_id": 1173,
+          "canonical_name": "أحمد بن إسحاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن نائلة",
+          "person_id": 329,
+          "canonical_name": "إبراهيم بن نائلة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد بن إسحاق ثنا إبراهيم بن نائلة ثنا أحمد بن أبي الحواري قال سمعت مضاء بن عيسى",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن إسحاق",
+          "person_id": 1173,
+          "canonical_name": "أحمد بن إسحاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن نائلة",
+          "person_id": 329,
+          "canonical_name": "إبراهيم بن نائلة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد بن إسحاق ثنا إبراهيم بن نائلة ثنا أحمد قال سمعت مضاء بن عيسى يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد",
+          "person_id": 1173,
+          "canonical_name": "أحمد بن إسحاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم",
+          "person_id": 329,
+          "canonical_name": "إبراهيم بن نائلة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن ثابت القاري",
+          "person_id": 2327,
+          "canonical_name": "محمد بن ثابت القاري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد ثنا إبراهيم ثنا أحمد بن أبي الحواري ثنا محمد بن ثابت القاري قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد",
+          "person_id": 1173,
+          "canonical_name": "أحمد بن إسحاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم",
+          "person_id": 329,
+          "canonical_name": "إبراهيم بن نائلة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الموفق الأزدي",
+          "person_id": 564,
+          "canonical_name": "أبو الموفق الأزدي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد ثنا إبراهيم ثنا أحمد بن أبي الحواري ثنا أبو الموفق الأزدي قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد",
+          "person_id": 1173,
+          "canonical_name": "أحمد بن إسحاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم",
+          "person_id": 329,
+          "canonical_name": "إبراهيم بن نائلة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد ثنا إبراهيم ثنا أحمد قال سمعت عبد العزيز بن عمير يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد",
+          "person_id": 1173,
+          "canonical_name": "أحمد بن إسحاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم",
+          "person_id": 329,
+          "canonical_name": "إبراهيم بن نائلة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "زيدان",
+          "person_id": 1579,
+          "canonical_name": "زيدان",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد ثنا إبراهيم ثنا أحمد ثنا زيدان قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن عمر",
+          "person_id": 1259,
+          "canonical_name": "أحمد بن محمد بن عمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين بن عبد الله",
+          "person_id": 117,
+          "canonical_name": "الحسين بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد ابن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا أحمد بن محمد بن عمر ثنا الحسين بن عبد الله ثنا أحمد ابن أبي الحواري قال سمعت محمد بن تمام يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1163,
+          "canonical_name": "أحمد بن الحسين بن طلاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن",
+          "person_id": 86,
+          "canonical_name": "الحسن بن سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا أحمد ثنا الحسن ثنا أحمد قال سمعت مضاء بن عيسى يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1868,
+          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر بن بحر الأسدي",
+          "person_id": 2095,
+          "canonical_name": "عمر بن بحر الأسدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد - إملاء وقراءة - ثنا عمر بن بحر الأسدي قال سمعت أحمد بن أبي الحواري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو محمد بن حيان",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسحاق بن أبي حسان",
+          "person_id": 343,
+          "canonical_name": "إسحاق بن أبي حسان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن محمد بن أحمد الميموني",
+          "person_id": 1408,
+          "canonical_name": "جعفر بن محمد بن أحمد الميموني",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو محمد بن حيان ثنا إسحاق بن أبي حسان ثنا أحمد بن أبي الحواري ثنا جعفر بن محمد بن أحمد الميموني قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سليمان بن أحمد",
+          "person_id": 1626,
+          "canonical_name": "سليمان بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو زرعة الدمشقي",
+          "person_id": 787,
+          "canonical_name": "أبو زرعة الدمشقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا سليمان بن أحمد ثنا أبو زرعة الدمشقي ثنا أحمد بن أبي الحواري. قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1163,
+          "canonical_name": "أحمد بن الحسين بن طلاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين بن عبد الله بن شاكر",
+          "person_id": 119,
+          "canonical_name": "الحسين بن عبد الله بن شاكر السمرقندي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن داود",
+          "person_id": 1197,
+          "canonical_name": "أحمد بن داود",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا أحمد ثنا الحسين بن عبد الله بن شاكر ثنا أحمد بن أبي الحواري قال حدثني أحمد بن داود",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن أحمد بن عاصم",
+          "person_id": 1398,
+          "canonical_name": "جعفر بن أحمد بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن أبي الحر",
+          "person_id": 2013,
+          "canonical_name": "علي بن أبي الحر",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحدثني عثمان بن محمد العثماني ثنا جعفر بن أحمد بن عاصم ثنا أحمد بن أبي الحواري ثنا علي بن أبي الحر قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن أحمد بن عاصم",
+          "person_id": 1398,
+          "canonical_name": "جعفر بن أحمد بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "عيسى ابن عبيد الجبيلي",
+          "person_id": 2142,
+          "canonical_name": "عيسى بن عبيد الجبيلي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحدثنا أحمد بن أبى الحوارى ثنا عيسى ابن عبيد الجبيلي قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن أحمد بن عاصم",
+          "person_id": 1398,
+          "canonical_name": "جعفر بن أحمد بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحدثنا أحمد بن أبي الحواري قال سمعت أبا سليمان يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن أحمد بن عاصم",
+          "person_id": 1398,
+          "canonical_name": "جعفر بن أحمد بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن النضر",
+          "person_id": 1169,
+          "canonical_name": "أحمد بن النضر",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحدثنا أحمد بن أبي الحواري ثنا أحمد بن النضر عن ابن شابور",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسن البغدادي",
+          "person_id": 392,
+          "canonical_name": "أبو الحسن البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عثمان بن محمد العثماني ثنا أبو الحسن البغدادي قال ذكر لي عن أحمد ابن أبي الحواري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسحاق بن إبراهيم المسوحي",
+          "person_id": 340,
+          "canonical_name": "إسحاق بن إبراهيم المسوحي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن الحجاج",
+          "person_id": 1800,
+          "canonical_name": "عبد الله بن الحجاج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن أشنويه الأزدي",
+          "person_id": 1818,
+          "canonical_name": "عبد الله بن أشنويه الأزدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "العباس بن حمزة",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا إسحاق بن إبراهيم المسوحي ثنا عبد الله بن الحجاج ثنا عبد الله بن أشنويه الأزدي - بفارس - ثنا العباس بن حمزة ثنا أحمد بن أبي الحواري قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن محمد بن عمران بن ميسرة",
+          "person_id": 2446,
+          "canonical_name": "محمد بن محمد بن عمران بن ميسرة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن عبد العزيز",
+          "person_id": 2044,
+          "canonical_name": "علي بن عبد العزيز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عثمان بن محمد العثماني ثنا محمد بن محمد بن عمران بن ميسرة ثنا علي بن عبد العزيز ثنا أحمد بن أبي الحواري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الواحد بن أحمد التنيسي",
+          "person_id": 1905,
+          "canonical_name": "عبد الواحد بن أحمد التنيسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عثمان سعيد بن الحكم بن أوس الدمشقي",
+          "person_id": 939,
+          "canonical_name": "أبو عثمان سعيد بن الحكم بن أوس الدمشقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "أبو على الزحبى",
+          "person_id": 961,
+          "canonical_name": "أبو علي الزحبى",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عثمان بن محمد ثنا عبد الواحد بن أحمد التنيسي ثنا أبو عثمان سعيد بن الحكم بن أوس الدمشقي ثنا أحمد بن أبي الحواري ثنا أبو على الزحبى قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن أحمد بن محمد بن عيسى",
+          "person_id": 2021,
+          "canonical_name": "علي بن أحمد بن محمد بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف ابن الحسن",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عثمان بن محمد قال قرأ علي بن أحمد بن محمد بن عيسى ثنا يوسف ابن الحسن قال قال أحمد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن علي بن حبيش",
+          "person_id": 465,
+          "canonical_name": "أبو الحسين محمد بن علي بن حبيش المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن منيع",
+          "has_id": NaN,
+          "person_id": 63,
+          "canonical_name": "الباهلي",
+          "subj_added": false
+        },
+        {
+          "name": "العباس بن حمزة",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد ابن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن علي بن حبيش ثنا ابن منيع ثنا العباس بن حمزة ثنا أحمد ابن أبي الحواري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد",
+          "person_id": 2214,
+          "canonical_name": "محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن منيع",
+          "has_id": NaN,
+          "person_id": 64,
+          "canonical_name": "البصري",
+          "subj_added": false
+        },
+        {
+          "name": "العباس",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد ثنا ابن منيع ثنا العباس ثنا أحمد قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إسحاق بن أحمد",
+          "person_id": 344,
+          "canonical_name": "إسحاق بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن يوسف",
+          "person_id": 331,
+          "canonical_name": "إبراهيم بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إسحاق بن أحمد ثنا إبراهيم بن يوسف ثنا أحمد بن أبي الحواري قال قلت لأبي بكر بن عياش",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إسحاق بن أحمد",
+          "person_id": 344,
+          "canonical_name": "إسحاق بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن يوسف",
+          "person_id": 331,
+          "canonical_name": "إبراهيم بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إسحاق بن أحمد ثنا إبراهيم بن يوسف ثنا أحمد قال سمعت محمد الكندي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إسحاق",
+          "person_id": 344,
+          "canonical_name": "إسحاق بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم",
+          "person_id": 331,
+          "canonical_name": "إبراهيم بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إسحاق ثنا إبراهيم ثنا أحمد قال سمعت أبا عبد الله الواهبي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إسحاق",
+          "person_id": 344,
+          "canonical_name": "إسحاق بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم",
+          "person_id": 331,
+          "canonical_name": "إبراهيم بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "أبو جعفر الحذاء",
+          "person_id": 727,
+          "canonical_name": "أبو جعفر الحذاء",
+          "has_id": 494,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إسحاق ثنا إبراهيم ثنا أحمد ثنا أبو جعفر الحذاء قال سمعت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إسحاق",
+          "person_id": 344,
+          "canonical_name": "إسحاق بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم",
+          "person_id": 331,
+          "canonical_name": "إبراهيم بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "عبد العزيز بن عمير",
+          "person_id": 1775,
+          "canonical_name": "عبد العزيز بن عمير",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إسحاق ثنا إبراهيم ثنا أحمد حدثني عبد العزيز بن عمير قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إسحاق بن أحمد",
+          "person_id": 344,
+          "canonical_name": "إسحاق بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن يوسف",
+          "person_id": 331,
+          "canonical_name": "إبراهيم بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "عمر بن سلمة السراج",
+          "person_id": 2100,
+          "canonical_name": "عمر بن سلمة السراج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبى جعفر المصرى",
+          "person_id": 743,
+          "canonical_name": "أبو جعفر المصرى",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إسحاق بن أحمد ثنا إبراهيم بن يوسف ثنا أحمد بن أبي الحواري حدثني عمر بن سلمة السراج عن أبى جعفر المصرى",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إسحاق",
+          "person_id": 344,
+          "canonical_name": "إسحاق بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم",
+          "person_id": 331,
+          "canonical_name": "إبراهيم بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إسحاق ثنا إبراهيم ثنا أحمد قال سمعت أبا يوسف يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إسحاق",
+          "person_id": 344,
+          "canonical_name": "إسحاق بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم",
+          "person_id": 331,
+          "canonical_name": "إبراهيم بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن أيوب الحوراني",
+          "person_id": 303,
+          "canonical_name": "إبراهيم بن أيوب الحوراني",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إسحاق ثنا إبراهيم ثنا أحمد حدثني إبراهيم بن أيوب الحوراني قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إسحاق",
+          "person_id": 344,
+          "canonical_name": "إسحاق بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم",
+          "person_id": 331,
+          "canonical_name": "إبراهيم بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إسحاق ثنا إبراهيم ثنا أحمد قال سمعت العباس بن الوليد بن يزيد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إسحاق",
+          "person_id": 344,
+          "canonical_name": "إسحاق بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم",
+          "person_id": 331,
+          "canonical_name": "إبراهيم بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "أبو مريم الصلت بن حكيم",
+          "person_id": 1070,
+          "canonical_name": "أبو مريم الصلت بن حكيم",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إسحاق ثنا إبراهيم ثنا أحمد ثنا أبو مريم الصلت بن حكيم قال قال الحسن",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إسحاق",
+          "person_id": 344,
+          "canonical_name": "إسحاق بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم",
+          "person_id": 331,
+          "canonical_name": "إبراهيم بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إسحاق ثنا إبراهيم ثنا أحمد. قال: قلت لأبي طلحة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد المنعم بن عمر بن عبد الله",
+          "person_id": 1897,
+          "canonical_name": "عبد المنعم بن عمر بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن زياد",
+          "person_id": 1251,
+          "canonical_name": "أحمد بن محمد بن زياد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الرحمن بن الدرقين",
+          "person_id": 850,
+          "canonical_name": "أبو عبد الرحمن بن الدرقين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "الرحبي",
+          "person_id": 152,
+          "canonical_name": "الرحبي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد المنعم بن عمر بن عبد الله ثنا أحمد بن محمد بن زياد ثنا أبو عبد الرحمن بن الدرقين ثنا أحمد بن أبي الحواري ثنا الرحبي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد المنعم",
+          "person_id": 1892,
+          "canonical_name": "عبد المنعم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن زياد",
+          "person_id": 1251,
+          "canonical_name": "أحمد بن محمد بن زياد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الصمد بن أبي يزيد",
+          "person_id": 1764,
+          "canonical_name": "عبد الصمد بن أبي يزيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "قاسم بن أسد الأصبهاني",
+          "person_id": 205,
+          "canonical_name": "القاسم بن أسد الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبيد بن يعيش",
+          "person_id": 1941,
+          "canonical_name": "عبيد بن يعيش",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد المنعم ثنا أحمد بن محمد بن زياد ثنا عبد الصمد بن أبي يزيد ثنا أحمد بن أبي الحواري ثنا قاسم بن أسد الأصبهاني ثنا عبيد بن يعيش",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1868,
+          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر بن بحر الأسدي",
+          "person_id": 2095,
+          "canonical_name": "عمر بن بحر الأسدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد ثنا عمر بن بحر الأسدي قال سمعت أحمد بن أبي الحواري قال سمعت أبا سليمان يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو أحمد محمد بن أحمد الغطريفي",
+          "person_id": 598,
+          "canonical_name": "أبو أحمد محمد بن أحمد الغطريفي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن بن سفيان",
+          "person_id": 86,
+          "canonical_name": "الحسن بن سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عياض بن زهير",
+          "person_id": 2138,
+          "canonical_name": "عياض بن زهير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يحيى بن معين",
+          "person_id": 2651,
+          "canonical_name": "يحيى بن معين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو أحمد محمد بن أحمد الغطريفي قال سمعت الحسن بن سفيان يقول سمعت عياض بن زهير يقول: سمعت يحيى بن معين",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو محمد بن حيان",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن جعفر الجمال",
+          "person_id": 1184,
+          "canonical_name": "أحمد بن جعفر الجمال",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو حاتم",
+          "person_id": 751,
+          "canonical_name": "أبو حاتم العطّار البصري",
+          "has_id": 109,
+          "subj_added": false
+        },
+        {
+          "name": "محمود بن خالد",
+          "person_id": 2484,
+          "canonical_name": "محمود بن خالد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو محمد بن حيان - من أصله - ثنا أحمد بن جعفر الجمال ثنا أبو حاتم ثنا محمود بن خالد - وذكر أحمد بن أبي الحواري - فقال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد بن سعيد الرازي",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "العباس بن حمزة",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن الحسين بن موسى ثنا محمد بن أحمد بن سعيد الرازي ثنا العباس بن حمزة قال سمعت أحمد بن أبي الحواري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2273,
+          "canonical_name": "محمد بن إبراهيم بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن الحسين بن طلاب",
+          "person_id": 1163,
+          "canonical_name": "أحمد بن الحسين بن طلاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "سلام المديني",
+          "person_id": 1609,
+          "canonical_name": "سلام المديني",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن إبراهيم ثنا أحمد بن الحسين بن طلاب ثنا أحمد بن أبي الحواري ثنا سلام المديني قال سمعت المخرمي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2273,
+          "canonical_name": "محمد بن إبراهيم بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن الحسين",
+          "person_id": 1163,
+          "canonical_name": "أحمد بن الحسين بن طلاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "مروان بن معاوية الفزاري",
+          "person_id": 2496,
+          "canonical_name": "مروان بن معاوية الفزاري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن إبراهيم ثنا أحمد بن الحسين ثنا أحمد بن أبي الحواري ثنا مروان بن معاوية الفزاري. قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد",
+          "person_id": 2273,
+          "canonical_name": "محمد بن إبراهيم بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مروان بن محمد",
+          "person_id": 2494,
+          "canonical_name": "مروان بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سفيان بن عيينة",
+          "person_id": 1608,
+          "canonical_name": "سفيان بن عيينة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد ثنا مروان بن محمد قال سمعت سفيان بن عيينة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد",
+          "person_id": 2273,
+          "canonical_name": "محمد بن إبراهيم بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "وكيع بن الجراح",
+          "person_id": 2618,
+          "canonical_name": "وكيع بن الجراح",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد ثنا أحمد قال سمعت وكيع بن الجراح يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2273,
+          "canonical_name": "محمد بن إبراهيم بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عون",
+          "person_id": 2425,
+          "canonical_name": "محمد بن عون الوحيدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن إبراهيم ثنا محمد بن عون ثنا أحمد بن أبي الحواري قال قلت للوليد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إسحاق بن أحمد",
+          "person_id": 344,
+          "canonical_name": "إسحاق بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن يوسف",
+          "person_id": 331,
+          "canonical_name": "إبراهيم بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "أخي محمد",
+          "person_id": 1286,
+          "canonical_name": "أخي محمد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إسحاق بن أحمد ثنا إبراهيم بن يوسف ثنا أحمد بن أبي الحواري حدثني أخي محمد قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد بن محمد",
+          "person_id": 2314,
+          "canonical_name": "محمد بن أحمد بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الرحمن بن داود",
+          "person_id": 1743,
+          "canonical_name": "عبد الرحمن بن داود",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن العباس",
+          "person_id": 2248,
+          "canonical_name": "محمد بن العباس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "سفيان بن عيينة",
+          "person_id": 1608,
+          "canonical_name": "سفيان بن عيينة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن أحمد بن محمد ثنا عبد الرحمن بن داود ثنا محمد بن العباس ثنا أحمد بن أبي الحواري ثنا سفيان بن عيينة قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد",
+          "person_id": 2292,
+          "canonical_name": "محمد بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الرحمن بن داود",
+          "person_id": 1743,
+          "canonical_name": "عبد الرحمن بن داود",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن العباس",
+          "person_id": 2248,
+          "canonical_name": "محمد بن العباس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن أحمد ثنا عبد الرحمن بن داود ثنا محمد بن العباس ثنا أحمد بن أبي الحواري قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن إسحاق",
+          "person_id": 1173,
+          "canonical_name": "أحمد بن إسحاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن أبي داود",
+          "person_id": 1810,
+          "canonical_name": "عبد الله بن أبي داود",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عائد",
+          "person_id": 2371,
+          "canonical_name": "محمد بن عائد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن شابور",
+          "has_id": NaN,
+          "person_id": 65,
+          "canonical_name": "ابن شابور",
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن بشير",
+          "person_id": 1595,
+          "canonical_name": "سعيد بن بشير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "قتادة",
+          "person_id": 2176,
+          "canonical_name": "قتادة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد بن إسحاق ثنا عبد الله بن أبي داود ثنا أحمد بن أبي الحواري عن محمد بن عائد ثنا ابن شابور عن سعيد بن بشير عن قتادة قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو علي الحسن بن علي بن الخطاب الوراق",
+          "person_id": 951,
+          "canonical_name": "أبو علي الحسن بن علي بن الخطاب الوراق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن محمد بن سليمان",
+          "person_id": 2443,
+          "canonical_name": "محمد بن محمد بن سليمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "حفص بن غياث",
+          "person_id": 1462,
+          "canonical_name": "حفص بن غياث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "هشام",
+          "person_id": 2600,
+          "canonical_name": "هشام بن عروة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن سيرين",
+          "has_id": NaN,
+          "person_id": 66,
+          "canonical_name": "الثوري",
+          "subj_added": false
+        },
+        {
+          "name": "عبيدة",
+          "person_id": 1942,
+          "canonical_name": "عبيدة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو علي الحسن بن علي بن الخطاب الوراق ثنا محمد بن محمد بن سليمان ثنا أحمد بن أبي الحواري ثنا حفص بن غياث ثنا هشام عن ابن سيرين عن عبيدة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الحسن بن علي",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن محمد",
+          "person_id": 2437,
+          "canonical_name": "محمد بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "حفص بن غياث",
+          "person_id": 1462,
+          "canonical_name": "حفص بن غياث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الأعمش",
+          "person_id": 59,
+          "canonical_name": "الأعمش",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي الضحى",
+          "person_id": 479,
+          "canonical_name": "أبو الضحى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سنبر بن شكل",
+          "person_id": 1636,
+          "canonical_name": "سنبر بن شكل",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا الحسن بن علي ثنا محمد بن محمد ثنا أحمد بن أبي الحواري ثنا حفص بن غياث ثنا الأعمش عن أبي الضحى عن سنبر بن شكل",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "علي بن هارون",
+          "person_id": 435,
+          "canonical_name": "أبو الحسن علي بن هارون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر بن أبي داود",
+          "person_id": 662,
+          "canonical_name": "أبو بكر بن أبي داود",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "حفص بن غياث",
+          "person_id": 1462,
+          "canonical_name": "حفص بن غياث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحجاج",
+          "person_id": 73,
+          "canonical_name": "الحجاج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مكحول",
+          "person_id": 2529,
+          "canonical_name": "مكحول",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي إدريس",
+          "person_id": 568,
+          "canonical_name": "أبو إدريس",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا علي بن هارون ثنا أبو بكر بن أبي داود ثنا أحمد بن أبي الحواري ثنا حفص بن غياث عن الحجاج عن مكحول عن أبي إدريس",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن علي",
+          "person_id": 2407,
+          "canonical_name": "محمد بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن أحمد بن عتاب",
+          "person_id": 1815,
+          "canonical_name": "عبد الله بن أحمد بن عتاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "أبو معاوية",
+          "person_id": 1079,
+          "canonical_name": "أبو معاوية",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "هشام بن عروة",
+          "person_id": 2600,
+          "canonical_name": "هشام بن عروة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن علي ثنا عبد الله بن أحمد بن عتاب وأحمد بن الحسين بن طلاب الدمشقيان قالا: ثنا أحمد بن أبي الحواري ثنا أبو معاوية عن هشام بن عروة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إسحاق بن أحمد بن علي",
+          "person_id": 346,
+          "canonical_name": "إسحاق بن أحمد بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن يوسف بن خالد",
+          "person_id": 332,
+          "canonical_name": "إبراهيم بن يوسف بن خالد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن أبي الحواري",
+          "has_id": NaN,
+          "person_id": 67,
+          "canonical_name": "الجنيد بن محمد بن مسروق",
+          "subj_added": false
+        },
+        {
+          "name": "أبو معاوية",
+          "person_id": 1079,
+          "canonical_name": "أبو معاوية",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "هشام بن عروة",
+          "person_id": 2600,
+          "canonical_name": "هشام بن عروة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إسحاق بن أحمد بن علي ثنا إبراهيم بن يوسف بن خالد ثنا ابن أبي الحواري ثنا أبو معاوية عن هشام بن عروة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سليمان بن أحمد",
+          "person_id": 1626,
+          "canonical_name": "سليمان بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن خلف",
+          "person_id": 2346,
+          "canonical_name": "محمد بن خلف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "ابن نمير",
+          "has_id": NaN,
+          "person_id": 36,
+          "canonical_name": "ابن نمير",
+          "subj_added": false
+        },
+        {
+          "name": "الأعمش",
+          "person_id": 59,
+          "canonical_name": "الأعمش",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا سليمان بن أحمد ثنا محمد بن خلف ثنا أحمد بن أبي الحواري ثنا ابن نمير ثنا الأعمش",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو أحمد عبد الرحمن بن الحارث الغنوي",
+          "person_id": 596,
+          "canonical_name": "أبو أحمد عبد الرحمن بن الحارث الغنوي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن القاسم المقرى",
+          "person_id": 1167,
+          "canonical_name": "أحمد بن القاسم المقرى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن محمد الدمشقي",
+          "person_id": 1406,
+          "canonical_name": "جعفر بن محمد الدمشقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن إدريس",
+          "person_id": 1807,
+          "canonical_name": "عبد الله بن إدريس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن سعيد المقبري",
+          "person_id": 1827,
+          "canonical_name": "عبد الله بن سعيد المقبري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو أحمد عبد الرحمن بن الحارث الغنوي ثنا أحمد بن القاسم المقرى ثنا جعفر بن محمد الدمشقي ثنا أحمد بن أبي الحواري ثنا عبد الله بن إدريس عن عبد الله بن سعيد المقبري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2273,
+          "canonical_name": "محمد بن إبراهيم بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسن بن غوث",
+          "person_id": 2234,
+          "canonical_name": "محمد بن الحسن بن غوث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "وكيع",
+          "person_id": 2618,
+          "canonical_name": "وكيع بن الجراح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الرحمن بن زيد بن أسلم",
+          "person_id": 1745,
+          "canonical_name": "عبد الرحمن بن زيد بن أسلم",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن إبراهيم ثنا محمد بن الحسن بن غوث ثنا أحمد بن أبي الحواري ثنا وكيع ثنا عبد الرحمن بن زيد بن أسلم",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن إسحاق",
+          "person_id": 1173,
+          "canonical_name": "أحمد بن إسحاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن نائلة",
+          "person_id": 329,
+          "canonical_name": "إبراهيم بن نائلة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن وهب",
+          "person_id": 1887,
+          "canonical_name": "عبد الله بن وهب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يونس",
+          "person_id": 2689,
+          "canonical_name": "يونس بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الزهري",
+          "person_id": 157,
+          "canonical_name": "الزهري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سالم",
+          "person_id": 1580,
+          "canonical_name": "سالم",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد بن إسحاق ثنا إبراهيم بن نائلة ح. وحدثنا أبو عمرو بن حمدان ثنا الحسن بن سفيان قالا: ثنا أحمد بن أبي الحواري ثنا عبد الله بن وهب عن يونس عن الزهري عن سالم",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد بن جعفر",
+          "person_id": 1868,
+          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسحاق بن أبي حسان",
+          "person_id": 343,
+          "canonical_name": "إسحاق بن أبي حسان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "أبو خزيمة بكار بن شعيب",
+          "person_id": 771,
+          "canonical_name": "أبو خزيمة بكار بن شعيب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن ابى حازم",
+          "has_id": NaN,
+          "person_id": 68,
+          "canonical_name": "الجوهري",
+          "subj_added": false
+        },
+        {
+          "name": "ابيه",
+          "person_id": 40,
+          "canonical_name": "أبو الحسين الفارسي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد بن جعفر ثنا إسحاق بن أبي حسان ثنا أحمد بن أبي الحواري ثنا أبو خزيمة بكار بن شعيب عن ابن ابى حازم عن ابيه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو دلف عبد العزيز بن محمد بن أحمد بن عبد العزيز بن دلف العجلي",
+          "person_id": 776,
+          "canonical_name": "أبو دلف العجلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يعقوب بن عبد الرحمن الدعاء",
+          "person_id": 2665,
+          "canonical_name": "يعقوب بن عبد الرحمن الدعاء",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن عاصم",
+          "person_id": 1401,
+          "canonical_name": "جعفر بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "عباس بن الوليد",
+          "person_id": 1720,
+          "canonical_name": "عباس بن الوليد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو دلف عبد العزيز بن محمد بن أحمد بن عبد العزيز بن دلف العجلي ثنا يعقوب بن عبد الرحمن الدعاء ثنا جعفر بن عاصم ثنا أحمد بن أبي الحواري ثنا عباس بن الوليد قال حدثني علي بن المديني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن إبراهيم بن علي",
+          "person_id": 2273,
+          "canonical_name": "محمد بن إبراهيم بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسن بن عون",
+          "person_id": 2233,
+          "canonical_name": "محمد بن الحسن بن عون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "وكيع",
+          "person_id": 2618,
+          "canonical_name": "وكيع بن الجراح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبان بن عبد الله البجلي",
+          "person_id": 374,
+          "canonical_name": "أبان بن عبد الله البجلي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن إبراهيم بن علي ثنا محمد بن الحسن بن عون ثنا أحمد بن أبي الحواري ثنا وكيع ثنا أبان بن عبد الله البجلي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2273,
+          "canonical_name": "محمد بن إبراهيم بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 2237,
+          "canonical_name": "محمد بن الحسين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "وكيع",
+          "person_id": 2618,
+          "canonical_name": "وكيع بن الجراح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "داود بن سوار المزني",
+          "person_id": 1516,
+          "canonical_name": "داود بن سوار المزني",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن إبراهيم ثنا محمد بن الحسين ثنا أحمد بن أبي الحواري ثنا وكيع ثنا داود بن سوار المزني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2273,
+          "canonical_name": "محمد بن إبراهيم بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسن",
+          "person_id": 2225,
+          "canonical_name": "محمد بن الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "وكيع",
+          "person_id": 2618,
+          "canonical_name": "وكيع بن الجراح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد ابن السائب",
+          "person_id": 1591,
+          "canonical_name": "سعيد بن السائب",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن إبراهيم ثنا محمد بن الحسن ثنا أحمد ثنا وكيع ثنا سعيد ابن السائب - ذاك الطائفي -",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد",
+          "person_id": 2273,
+          "canonical_name": "محمد بن إبراهيم بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد",
+          "person_id": 2214,
+          "canonical_name": "محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "وكيع",
+          "person_id": 2618,
+          "canonical_name": "وكيع بن الجراح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن أبي ذيب",
+          "has_id": 229,
+          "person_id": 69,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد ثنا محمد ثنا أحمد ثنا وكيع عن ابن أبي ذيب",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد",
+          "person_id": 2214,
+          "canonical_name": "محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد",
+          "person_id": 2214,
+          "canonical_name": "محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "وكيع",
+          "person_id": 2618,
+          "canonical_name": "وكيع بن الجراح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خليل بن مرة",
+          "person_id": 1507,
+          "canonical_name": "خليل بن مرة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد ثنا محمد ثنا أحمد ثنا وكيع ثنا خليل بن مرة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إسحاق بن أحمد",
+          "person_id": 344,
+          "canonical_name": "إسحاق بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن يوسف",
+          "person_id": 331,
+          "canonical_name": "إبراهيم بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "يحيى بن صالح الوحاظي",
+          "person_id": 2646,
+          "canonical_name": "يحيى بن صالح الوحاظي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عفير بن معدان",
+          "person_id": 1972,
+          "canonical_name": "عفير بن معدان",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إسحاق بن أحمد ثنا إبراهيم بن يوسف ثنا أحمد بن أبي الحواري ثنا يحيى بن صالح الوحاظي ثنا عفير بن معدان",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن إسحاق",
+          "person_id": 1173,
+          "canonical_name": "أحمد بن إسحاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن أبي داود",
+          "person_id": 1810,
+          "canonical_name": "عبد الله بن أبي داود",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "سليم بن مطير",
+          "person_id": 1621,
+          "canonical_name": "سليم بن مطير",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد بن إسحاق ثنا عبد الله بن أبي داود ثنا أحمد بن أبي الحواري ثنا شيخ بوادي القرى يقال له سليم بن مطير عن أبيه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سليمان بن أحمد",
+          "person_id": 1626,
+          "canonical_name": "سليمان بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن رشدين",
+          "person_id": 1198,
+          "canonical_name": "أحمد بن رشدين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "الوليد",
+          "person_id": 257,
+          "canonical_name": "الوليد بن عتبة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شيبان",
+          "person_id": 1678,
+          "canonical_name": "شيبان",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا سليمان بن أحمد ثنا أحمد بن رشدين ثنا أحمد بن أبي الحواري ثنا الوليد ثنا شيبان عن يحيى عن أبي سلمة عن أم سلمة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن المظفر",
+          "person_id": 2262,
+          "canonical_name": "محمد بن المظفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن محمد بن سليمان",
+          "person_id": 2443,
+          "canonical_name": "محمد بن محمد بن سليمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن حنبل",
+          "person_id": 1192,
+          "canonical_name": "أحمد بن حنبل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن جعفر",
+          "person_id": 2330,
+          "canonical_name": "محمد بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سفيان",
+          "person_id": 1606,
+          "canonical_name": "سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "قتادة",
+          "person_id": 2176,
+          "canonical_name": "قتادة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن",
+          "person_id": 86,
+          "canonical_name": "الحسن بن سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن المظفر ثنا محمد بن محمد بن سليمان حدثني أحمد بن أبي الحواري - وأخرج إلي كتابه - ثنا أحمد بن حنبل ثنا محمد بن جعفر ثنا سفيان عن قتادة عن الحسن",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو أحمد الغطريفي",
+          "person_id": 598,
+          "canonical_name": "أبو أحمد محمد بن أحمد الغطريفي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن يزيد بن أبان الدقيقي",
+          "person_id": 1888,
+          "canonical_name": "عبد الله بن يزيد بن أبان الدقيقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "يونس بن محمد",
+          "person_id": 2689,
+          "canonical_name": "يونس بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جرير بن حازم",
+          "person_id": 1392,
+          "canonical_name": "جرير بن حازم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "معمر",
+          "person_id": 2526,
+          "canonical_name": "معمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الزهري",
+          "person_id": 157,
+          "canonical_name": "الزهري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو أحمد الغطريفي ثنا عبد الله بن يزيد بن أبان الدقيقي ثنا أحمد بن أبي الحواري ثنا يونس بن محمد ثنا جرير بن حازم عن معمر عن الزهري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن علي",
+          "person_id": 2407,
+          "canonical_name": "محمد بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عون الوحيدي",
+          "person_id": 2425,
+          "canonical_name": "محمد بن عون الوحيدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "وكيع",
+          "person_id": 2618,
+          "canonical_name": "وكيع بن الجراح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سفيان الثوري",
+          "person_id": 1607,
+          "canonical_name": "سفيان الثوري",
+          "has_id": 598,
+          "subj_added": false
+        },
+        {
+          "name": "قيس بن مسلم",
+          "person_id": 2190,
+          "canonical_name": "قيس بن مسلم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "طارق بن شهاب",
+          "person_id": 1695,
+          "canonical_name": "طارق بن شهاب",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن علي ثنا محمد بن عون الوحيدي ثنا أحمد بن أبي الحواري ثنا وكيع ثنا سفيان الثوري عن قيس بن مسلم عن طارق بن شهاب",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "أبي سليمان الداراني",
+        "relationship_type": "student_of",
+        "relationship_phrase": "أستاذك",
+        "full_text": "فقال أحمد بن حنبل لأحمد بن أبي الحواري: يا أحمد حدثنا بحكاية سمعتها من أستاذك أبي سليمان الداراني",
+        "person_id": 817,
+        "canonical_name": "أبو سليمان الداراني",
+        "has_id": 404
+      },
+      {
+        "name": "عتبة بن أبي السائب",
+        "relationship_type": "student_of",
+        "relationship_phrase": "سمعت",
+        "full_text": "قال قال أحمد بن أبي الحواري: سمعت عتبة بن أبي السائب يقول",
+        "person_id": 1944,
+        "canonical_name": "عتبة بن أبي السائب",
+        "has_id": NaN
+      },
+      {
+        "name": "بشر بن السري",
+        "relationship_type": "student_of",
+        "relationship_phrase": "سمعت",
+        "full_text": "قال قال أحمد بن أبي الحواري سمعت بشر بن السري يقول",
+        "person_id": 1324,
+        "canonical_name": "بشر بن السري",
+        "has_id": NaN
+      },
+      {
+        "name": "أبو زكريا يحيى بن العلاء",
+        "relationship_type": "student_of",
+        "relationship_phrase": "سمعت",
+        "full_text": "ثنا أحمد بن أبي الحواري قال: سمعت أبا زكريا يحيى بن العلاء يقول",
+        "person_id": 791,
+        "canonical_name": "أبو زكريا يحيى بن العلاء",
+        "has_id": NaN
+      },
+      {
+        "name": "أحمد بن حنبل",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "حدثني أحمد بن أبي الحواري - وأخرج إلي كتابه - ثنا أحمد بن حنبل",
+        "person_id": 1192,
+        "canonical_name": "أحمد بن حنبل",
+        "has_id": NaN
+      },
+      {
+        "name": "حفص بن غياث",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أحمد بن أبي الحواري ثنا حفص بن غياث",
+        "person_id": 1462,
+        "canonical_name": "حفص بن غياث",
+        "has_id": NaN
+      },
+      {
+        "name": "أبو معاوية",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أحمد بن أبي الحواري ثنا أبو معاوية",
+        "person_id": 1079,
+        "canonical_name": "أبو معاوية",
+        "has_id": NaN
+      },
+      {
+        "name": "وكيع",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أحمد بن أبي الحواري ثنا وكيع",
+        "person_id": 2618,
+        "canonical_name": "وكيع بن الجراح",
+        "has_id": NaN
+      },
+      {
+        "name": "سفيان بن عيينة",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أحمد بن أبي الحواري ثنا سفيان بن عيينة",
+        "person_id": 1608,
+        "canonical_name": "سفيان بن عيينة",
+        "has_id": NaN
+      },
+      {
+        "name": "سلام المديني",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أحمد بن أبي الحواري ثنا سلام المديني",
+        "person_id": 1609,
+        "canonical_name": "سلام المديني",
+        "has_id": NaN
+      },
+      {
+        "name": "مروان بن معاوية الفزاري",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أحمد بن أبي الحواري ثنا مروان بن معاوية الفزاري",
+        "person_id": 2496,
+        "canonical_name": "مروان بن معاوية الفزاري",
+        "has_id": NaN
+      },
+      {
+        "name": "عبد الله بن وهب",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أحمد بن أبي الحواري ثنا عبد الله بن وهب",
+        "person_id": 1887,
+        "canonical_name": "عبد الله بن وهب",
+        "has_id": NaN
+      },
+      {
+        "name": "عباس بن الوليد",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أحمد بن أبي الحواري ثنا عباس بن الوليد",
+        "person_id": 1720,
+        "canonical_name": "عباس بن الوليد",
+        "has_id": NaN
+      },
+      {
+        "name": "يونس بن محمد",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أحمد بن أبي الحواري ثنا يونس بن محمد",
+        "person_id": 2689,
+        "canonical_name": "يونس بن محمد",
+        "has_id": NaN
+      },
+      {
+        "name": "يحيى بن صالح الوحاظي",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أحمد بن أبي الحواري ثنا يحيى بن صالح الوحاظي",
+        "person_id": 2646,
+        "canonical_name": "يحيى بن صالح الوحاظي",
+        "has_id": NaN
+      },
+      {
+        "name": "أبو مريم الصلت بن حكيم",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أحمد ثنا إبراهيم ثنا أحمد ثنا أبو مريم الصلت بن حكيم",
+        "person_id": 1070,
+        "canonical_name": "أبو مريم الصلت بن حكيم",
+        "has_id": NaN
+      },
+      {
+        "name": "أبو جعفر الحذاء",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "حدثنا إسحاق ثنا إبراهيم ثنا أحمد ثنا أبو جعفر الحذاء",
+        "person_id": 727,
+        "canonical_name": "أبو جعفر الحذاء",
+        "has_id": 494
+      },
+      {
+        "name": "أبو المفلس",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أحمد ابن أبى الحوارى ثنا أبو المفلس",
+        "person_id": 562,
+        "canonical_name": "أبو المفلس",
+        "has_id": NaN
+      },
+      {
+        "name": "أبو الموفق الأزدي",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أحمد بن أبي الحواري ثنا أبو الموفق الأزدي",
+        "person_id": 564,
+        "canonical_name": "أبو الموفق الأزدي",
+        "has_id": NaN
+      },
+      {
+        "name": "محمد بن ثابت القاري",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أحمد بن أبي الحواري ثنا محمد بن ثابت القاري",
+        "person_id": 2327,
+        "canonical_name": "محمد بن ثابت القاري",
+        "has_id": NaN
+      },
+      {
+        "name": "زيدان",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أحمد ثنا إبراهيم ثنا أحمد ثنا زيدان",
+        "person_id": 1579,
+        "canonical_name": "زيدان",
+        "has_id": NaN
+      },
+      {
+        "name": "أحمد بن داود",
+        "relationship_type": "student_of",
+        "relationship_phrase": "حدثني",
+        "full_text": "ثنا أحمد بن أبي الحواري قال حدثني أحمد بن داود",
+        "person_id": 1197,
+        "canonical_name": "أحمد بن داود",
+        "has_id": NaN
+      },
+      {
+        "name": "علي بن أبي الحر",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أحمد بن أبي الحواري ثنا علي بن أبي الحر",
+        "person_id": 2013,
+        "canonical_name": "علي بن أبي الحر",
+        "has_id": NaN
+      },
+      {
+        "name": "عيسى ابن عبيد الجبيلي",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أحمد بن أبى الحوارى ثنا عيسى ابن عبيد الجبيلي",
+        "person_id": 2142,
+        "canonical_name": "عيسى بن عبيد الجبيلي",
+        "has_id": NaN
+      },
+      {
+        "name": "أحمد بن النضر",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أحمد بن أبي الحواري ثنا أحمد بن النضر",
+        "person_id": 1169,
+        "canonical_name": "أحمد بن النضر",
+        "has_id": NaN
+      },
+      {
+        "name": "أبو على الزحبى",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أحمد بن أبي الحواري ثنا أبو على الزحبى",
+        "person_id": 961,
+        "canonical_name": "أبو علي الزحبى",
+        "has_id": NaN
+      }
+    ],
+    "students": [
+      {
+        "name": "سعيد بن عبد العزيز الحلبي",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "سمعت أحمد بن أبي الحواري يقول",
+        "full_text": "ثنا سعيد بن عبد العزيز الحلبي قال سمعت أحمد بن أبي الحواري يقول",
+        "person_id": 1599,
+        "canonical_name": "سعيد بن عبد العزيز الحلبي",
+        "has_id": 597
+      },
+      {
+        "name": "أبو زرعة الدمشقي",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أبو زرعة الدمشقي ثنا أحمد بن أبي الحواري",
+        "person_id": 787,
+        "canonical_name": "أبو زرعة الدمشقي",
+        "has_id": NaN
+      },
+      {
+        "name": "محمد بن محمد بن سليمان",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "حدثني",
+        "full_text": "حدثني أحمد بن أبي الحواري - وأخرج إلي كتابه -",
+        "person_id": 2443,
+        "canonical_name": "محمد بن محمد بن سليمان",
+        "has_id": NaN
+      },
+      {
+        "name": "العباس بن حمزة",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا العباس بن حمزة ثنا أحمد ابن أبي الحواري",
+        "person_id": 521,
+        "canonical_name": "أبو الفضل العباس بن حمزة",
+        "has_id": 647
+      },
+      {
+        "name": "أبو بكر بن أبي داود",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أبو بكر بن أبي داود ثنا أحمد بن أبي الحواري",
+        "person_id": 662,
+        "canonical_name": "أبو بكر بن أبي داود",
+        "has_id": NaN
+      },
+      {
+        "name": "عبد الله بن أبي داود",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا عبد الله بن أبي داود ثنا أحمد بن أبي الحواري",
+        "person_id": 1810,
+        "canonical_name": "عبد الله بن أبي داود",
+        "has_id": NaN
+      },
+      {
+        "name": "أحمد بن الحسين بن طلاب",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا أحمد بن الحسين بن طلاب ثنا أحمد بن أبي الحواري",
+        "person_id": 1163,
+        "canonical_name": "أحمد بن الحسين بن طلاب",
+        "has_id": NaN
+      },
+      {
+        "name": "محمد بن الحسن بن غوث",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا محمد بن الحسن بن غوث ثنا أحمد بن أبي الحواري",
+        "person_id": 2234,
+        "canonical_name": "محمد بن الحسن بن غوث",
+        "has_id": NaN
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبي",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت أبي يقول",
+      "person_id": 585,
+      "canonical_name": "أبو أبي نعيم الأصفهاني",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا سليمان",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت أبا سليمان يقول",
+      "person_id": 816,
+      "canonical_name": "أبو سليمان",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو زكريا يحيى بن العلاء",
+      "relationship_type": "narrator",
+      "full_text": "قال: سمعت أبا زكريا يحيى بن العلاء يقول",
+      "person_id": 791,
+      "canonical_name": "أبو زكريا يحيى بن العلاء",
+      "has_id": NaN
+    },
+    {
+      "name": "يحيى ابن زكريا",
+      "relationship_type": "narrator",
+      "full_text": "ثنا يحيى ابن زكريا قال: كنا عند علي بن بكار",
+      "person_id": 2641,
+      "canonical_name": "يحيى بن زكريا",
+      "has_id": NaN
+    },
+    {
+      "name": "إسحاق بن خلف",
+      "relationship_type": "narrator",
+      "full_text": "حدثني إسحاق بن خلف",
+      "person_id": 348,
+      "canonical_name": "إسحاق بن خلف",
+      "has_id": NaN
+    },
+    {
+      "name": "الوليد ابن عتبة",
+      "relationship_type": "narrator",
+      "full_text": "ثنا الوليد ابن عتبة",
+      "person_id": 257,
+      "canonical_name": "الوليد بن عتبة",
+      "has_id": NaN
+    },
+    {
+      "name": "راهب",
+      "relationship_type": "interlocutor",
+      "context": "monk",
+      "full_text": "قال قلت لراهب: أى شيء قوى ما تجدونه في كتبكم؟",
+      "person_id": 1524,
+      "canonical_name": "راهب",
+      "has_id": NaN
+    },
+    {
+      "name": "جريج",
+      "relationship_type": "interlocutor",
+      "full_text": "قلت: يا راهب ما اسمك؟ قال جريج",
+      "person_id": 1391,
+      "canonical_name": "جريج",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد العزيز",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت عبد العزيز يقول",
+      "person_id": 1767,
+      "canonical_name": "عبد العزيز",
+      "has_id": NaN
+    },
+    {
+      "name": "شعيب بن أحمد القرشي",
+      "relationship_type": "narrator",
+      "full_text": "وحدثنا أحمد ثنا شعيب بن أحمد القرشي عن دكين الفزاري",
+      "person_id": 1674,
+      "canonical_name": "شعيب بن أحمد القرشي",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الله الحذاء",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت عبد الله الحذاء يقول",
+      "person_id": 1790,
+      "canonical_name": "عبد الله الحذاء",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن تمام",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت محمد بن تمام يقول",
+      "person_id": 2325,
+      "canonical_name": "محمد بن تمام",
+      "has_id": NaN
+    },
+    {
+      "name": "مضاء بن عيسى",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت مضاء بن عيسى يقول",
+      "person_id": 2509,
+      "canonical_name": "مضاء بن عيسى",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو مريم الصلت بن حكيم",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أبو مريم الصلت بن حكيم قال قال الحسن",
+      "person_id": 1070,
+      "canonical_name": "أبو مريم الصلت بن حكيم",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الخالق بن جبير",
+      "relationship_type": "narrator",
+      "full_text": "حدثني عبد الخالق بن جبير قال سمعت أبا موسى الطرسوسي يقول",
+      "person_id": 1732,
+      "canonical_name": "عبد الخالق بن جبير",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن ثابت القاري",
+      "relationship_type": "narrator",
+      "full_text": "ثنا محمد بن ثابت القاري قال",
+      "person_id": 2327,
+      "canonical_name": "محمد بن ثابت القاري",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو الموفق الأزدي",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أبو الموفق الأزدي قال قال الله تعالى",
+      "person_id": 564,
+      "canonical_name": "أبو الموفق الأزدي",
+      "has_id": NaN
+    },
+    {
+      "name": "زيدان",
+      "relationship_type": "narrator",
+      "full_text": "ثنا زيدان قال قال عتبة الغلام",
+      "person_id": 1579,
+      "canonical_name": "زيدان",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد بن داود",
+      "relationship_type": "narrator",
+      "full_text": "قال حدثني أحمد بن داود",
+      "person_id": 1197,
+      "canonical_name": "أحمد بن داود",
+      "has_id": NaN
+    },
+    {
+      "name": "علي بن أبي الحر",
+      "relationship_type": "narrator",
+      "full_text": "ثنا علي بن أبي الحر قال",
+      "person_id": 2013,
+      "canonical_name": "علي بن أبي الحر",
+      "has_id": NaN
+    },
+    {
+      "name": "عيسى ابن عبيد الجبيلي",
+      "relationship_type": "narrator",
+      "full_text": "ثنا عيسى ابن عبيد الجبيلي قال سمعت أبا كريمة الكلبي",
+      "person_id": 2142,
+      "canonical_name": "عيسى بن عبيد الجبيلي",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد بن النضر",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أحمد بن النضر عن ابن شابور",
+      "person_id": 1169,
+      "canonical_name": "أحمد بن النضر",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو على الزحبى",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أبو على الزحبى قال",
+      "person_id": 961,
+      "canonical_name": "أبو علي الزحبى",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو بكر بن عياش",
+      "relationship_type": "interlocutor",
+      "full_text": "قلت لأبي بكر بن عياش: حدثنا",
+      "person_id": 675,
+      "canonical_name": "أبو بكر بن عياش",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد الكندي",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت محمد الكندي يقول",
+      "person_id": 2218,
+      "canonical_name": "محمد الكندي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا عبد الله الواهبي",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت أبا عبد الله الواهبي يقول",
+      "person_id": 889,
+      "canonical_name": "أبو عبد الله الواهبي",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد العزيز بن عمير",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت عبد العزيز بن عمير يقول",
+      "person_id": 1775,
+      "canonical_name": "عبد العزيز بن عمير",
+      "has_id": NaN
+    },
+    {
+      "name": "عمر بن سلمة السراج",
+      "relationship_type": "narrator",
+      "full_text": "حدثني عمر بن سلمة السراج عن أبى جعفر المصرى",
+      "person_id": 2100,
+      "canonical_name": "عمر بن سلمة السراج",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا يوسف",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت أبا يوسف يقول",
+      "person_id": 1146,
+      "canonical_name": "أبو يوسف",
+      "has_id": NaN
+    },
+    {
+      "name": "إبراهيم بن أيوب الحوراني",
+      "relationship_type": "narrator",
+      "full_text": "حدثني إبراهيم بن أيوب الحوراني قال: سمعت الوليد بن مسلم يقول",
+      "person_id": 303,
+      "canonical_name": "إبراهيم بن أيوب الحوراني",
+      "has_id": NaN
+    },
+    {
+      "name": "العباس بن الوليد بن يزيد",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت العباس بن الوليد بن يزيد",
+      "person_id": 173,
+      "canonical_name": "العباس بن الوليد بن يزيد",
+      "has_id": NaN
+    },
+    {
+      "name": "أبي طلحة",
+      "relationship_type": "interlocutor",
+      "full_text": "قال: قلت لأبي طلحة: أي شيء الزهد في الدنيا؟",
+      "person_id": 836,
+      "canonical_name": "أبو طلحة",
+      "has_id": NaN
+    },
+    {
+      "name": "الرحبي",
+      "relationship_type": "narrator",
+      "full_text": "ثنا الرحبي عن أبي حبيب قال",
+      "person_id": 152,
+      "canonical_name": "الرحبي",
+      "has_id": NaN
+    },
+    {
+      "name": "قاسم بن أسد الأصبهاني",
+      "relationship_type": "narrator",
+      "full_text": "ثنا قاسم بن أسد الأصبهاني ثنا عبيد بن يعيش قال",
+      "person_id": 205,
+      "canonical_name": "القاسم بن أسد الأصبهاني",
+      "has_id": NaN
+    },
+    {
+      "name": "وكيع بن الجراح",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت وكيع بن الجراح يقول",
+      "person_id": 2618,
+      "canonical_name": "وكيع بن الجراح",
+      "has_id": NaN
+    },
+    {
+      "name": "الوليد",
+      "relationship_type": "interlocutor",
+      "full_text": "قلت للوليد: يا أبا العباس بلغنا أن رسول الله ﷺ إنما قال",
+      "person_id": 257,
+      "canonical_name": "الوليد بن عتبة",
+      "has_id": NaN
+    },
+    {
+      "name": "أخي محمد",
+      "relationship_type": "narrator",
+      "full_text": "حدثني أخي محمد قال",
+      "person_id": 1286,
+      "canonical_name": "أخي محمد",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد بن حنبل",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أحمد بن حنبل ثنا محمد بن جعفر",
+      "person_id": 1192,
+      "canonical_name": "أحمد بن حنبل",
+      "has_id": NaN
+    },
+    {
+      "name": "يونس بن محمد",
+      "relationship_type": "narrator",
+      "full_text": "ثنا يونس بن محمد ثنا جرير بن حازم",
+      "person_id": 2689,
+      "canonical_name": "يونس بن محمد",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو معاوية",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أبو معاوية عن هشام بن عروة",
+      "person_id": 1079,
+      "canonical_name": "أبو معاوية",
+      "has_id": NaN
+    },
+    {
+      "name": "حفص بن غياث",
+      "relationship_type": "narrator",
+      "full_text": "ثنا حفص بن غياث ثنا هشام",
+      "person_id": 1462,
+      "canonical_name": "حفص بن غياث",
+      "has_id": NaN
+    }
+  ]
+}

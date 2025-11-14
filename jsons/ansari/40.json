@@ -1,0 +1,173 @@
+{
+  "bio_id": "40",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بصره",
+      "context": "lived",
+      "full_text": "از اهل بصره بوده"
+    },
+    {
+      "place": "بشوش",
+      "context": "visited",
+      "full_text": "بشوش رفت"
+    },
+    {
+      "place": "بشوش",
+      "context": "died",
+      "full_text": "و آنجا برفت گوروی آنجاست."
+    },
+    {
+      "place": "بصره",
+      "context": "mentioned",
+      "full_text": "مسجد بصره"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "و گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلامگفت.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوعلی رودباری",
+          "person_id": 959,
+          "canonical_name": "أبو علي الروذباري",
+          "has_id": 422,
+          "subj_added": false
+        },
+        {
+          "name": "هارون",
+          "person_id": 2591,
+          "canonical_name": "هارون",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ بوعلی رودباری گوید: کی هارون گفت صاحب سهل",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوعلی رودباری",
+          "person_id": 959,
+          "canonical_name": "أبو علي الروذباري",
+          "has_id": 422,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ بوعلی رودباری گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابن باکو",
+          "person_id": 15,
+          "canonical_name": "ابن باكوية الشيرازي",
+          "has_id": 150,
+          "subj_added": false
+        },
+        {
+          "name": "بوعبداللّه رودباری",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": false
+        },
+        {
+          "name": "حسن بن محمد الرازی",
+          "person_id": 1447,
+          "canonical_name": "حسن بن محمد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابوعبید",
+          "person_id": 923,
+          "canonical_name": "أبو عبيد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت، کی ابن باکوگفت، بوعبداللّه رودباری گفت: کی از حسن بن محمد الرازی شنیدم، کنیه ابوعبید کی گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوالحسن المزین",
+          "person_id": 408,
+          "canonical_name": "أبو الحسن المزين",
+          "has_id": 295,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "فقال ابوالحسن المزین٭",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شاگرد",
+      "relationship_type": "interlocutor",
+      "context": "addressed_by_subject",
+      "full_text": "شاگرد خود را گفت:",
+      "person_id": 1658,
+      "canonical_name": "شاگرد",
+      "has_id": NaN
+    }
+  ]
+}

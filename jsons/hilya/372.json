@@ -1,0 +1,108 @@
+{
+  "bio_id": "372",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن بن أبان",
+          "person_id": 78,
+          "canonical_name": "الحسن بن أبي الحسن البصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر بن عبيد",
+          "person_id": 673,
+          "canonical_name": "أبو بكر بن عبيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو أيوب مولى بني هاشم",
+          "person_id": 606,
+          "canonical_name": "أبو أيوب مولى بني هاشم",
+          "has_id": 372,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا الحسن بن أبان ثنا أبو بكر بن عبيد ثنا أبو أيوب مولى بني هاشم",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بعضهم",
+          "person_id": 1345,
+          "canonical_name": "بعضهم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 606,
+          "canonical_name": "أبو أيوب مولى بني هاشم",
+          "has_id": 372,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال قال بعضهم",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "الحكماء من العباد",
+        "relationship_type": "student_of",
+        "relationship_phrase": "أخذ عنهم",
+        "full_text": "وأخذ عنهم عدة المنقلب والمعاد.",
+        "person_id": 142,
+        "canonical_name": "الحكماء من العباد",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "الحكماء من العباد",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب الحكماء من العباد",
+        "person_id": 142,
+        "canonical_name": "الحكماء من العباد",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أبو بكر بن عبيد",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا أبي ثنا الحسن بن أبان ثنا أبو بكر بن عبيد ثنا أبو أيوب مولى بني هاشم.",
+      "person_id": 673,
+      "canonical_name": "أبو بكر بن عبيد",
+      "has_id": NaN
+    },
+    {
+      "name": "بعضهم",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "speaker",
+      "full_text": "قال قال بعضهم",
+      "person_id": 1345,
+      "canonical_name": "بعضهم",
+      "has_id": NaN
+    }
+  ]
+}

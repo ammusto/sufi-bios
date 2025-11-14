@@ -1,0 +1,74 @@
+{
+  "bio_id": "436",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد بن نصير - في كتابه - قال سمعت الجنيد بن محمد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو سعيد الخزاز",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وحكى عنه أبو سعيد الخزاز قال:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "الجنيد بن محمد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت الجنيد بن محمد يقول",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    },
+    {
+      "name": "أبو سعيد الخزاز",
+      "relationship_type": "narrator",
+      "full_text": "وحكى عنه أبو سعيد الخزاز قال:",
+      "person_id": 801,
+      "canonical_name": "أبو سعيد الخراز",
+      "has_id": 123
+    },
+    {
+      "name": "مريد",
+      "relationship_type": "interlocutor",
+      "full_text": "وقال لمريد:\nتحفظ القرآن؟ فقال: لا.",
+      "person_id": 2498,
+      "canonical_name": "مريد",
+      "has_id": NaN
+    }
+  ]
+}

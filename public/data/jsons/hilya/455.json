@@ -1,0 +1,143 @@
+{
+  "bio_id": "455",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن الحسين بن بندار",
+          "person_id": 1802,
+          "canonical_name": "عبد الله بن الحسين بن بندار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أسيد بن عاصم",
+          "person_id": 1293,
+          "canonical_name": "أسيد بن عاصم",
+          "has_id": 455,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين بن حفص",
+          "person_id": 113,
+          "canonical_name": "الحسين بن حفص",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سفيان",
+          "person_id": 1606,
+          "canonical_name": "سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يونس بن عبيد",
+          "person_id": 2688,
+          "canonical_name": "يونس بن عبيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شعيب",
+          "person_id": 1672,
+          "canonical_name": "شعيب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أنس بن مالك",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن الحسين بن بندار ثنا أسيد بن عاصم ثنا الحسين بن حفص ثنا سفيان عن يونس بن عبيد عن شعيب عن أنس بن مالك",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1855,
+          "canonical_name": "عبد الله بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو علي بن إبراهيم",
+          "person_id": 974,
+          "canonical_name": "أبو علي بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أسيد بن عاصم",
+          "person_id": 1293,
+          "canonical_name": "أسيد بن عاصم",
+          "has_id": 455,
+          "subj_added": false
+        },
+        {
+          "name": "إسماعيل بن عمر",
+          "person_id": 365,
+          "canonical_name": "إسماعيل بن عمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "قيس بن عمار الذهنى",
+          "person_id": 2189,
+          "canonical_name": "قيس بن عمار الذهنى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عطية",
+          "person_id": 1970,
+          "canonical_name": "عطية",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي سعيد",
+          "person_id": 798,
+          "canonical_name": "أبو سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد ثنا أبو علي بن إبراهيم ثنا أسيد بن عاصم ثنا إسماعيل بن عمر ثنا قيس بن عمار الذهنى عن عطية عن أبي سعيد.",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "عبد الله بن الحسين بن بندار",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا عبد الله بن الحسين بن بندار ثنا أسيد بن عاصم",
+      "person_id": 1802,
+      "canonical_name": "عبد الله بن الحسين بن بندار",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو علي بن إبراهيم",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أبو علي بن إبراهيم ثنا أسيد بن عاصم",
+      "person_id": 974,
+      "canonical_name": "أبو علي بن إبراهيم",
+      "has_id": NaN
+    }
+  ]
+}

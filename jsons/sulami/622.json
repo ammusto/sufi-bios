@@ -1,0 +1,1313 @@
+{
+  "bio_id": "622",
+  "source": "sulami",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بَلخ",
+      "context": "lived",
+      "full_text": "من أهل بَلخ"
+    },
+    {
+      "place": "خُرَاسَان",
+      "context": "lived",
+      "full_text": "من مشاهير مَشَايِخ خُرَاسَان"
+    },
+    {
+      "place": "خُرَاسَان",
+      "context": "mentioned",
+      "full_text": "بكورة خُرَاسَان"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "إِبْرَاهِيم بن أَحْمد بن إِبْرَاهِيم الْمُسْتَمْلِي",
+          "person_id": 299,
+          "canonical_name": "إبراهيم بن أحمد بن إبراهيم المستملي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن أحيد بن نوح بن أَيُّوب الْبَزَّاز الْبَلْخِي",
+          "person_id": 1179,
+          "canonical_name": "أحمد بن أحمد بن نوح بن أيوب البزّاز البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو صَالح مُسلم بن عبد الرَّحْمَن الْبَلْخِي",
+          "person_id": 828,
+          "canonical_name": "أبو صالح مسلم بن عبد الرحمن البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو عَليّ شَقِيق بن إِبْرَاهِيم الْأَزْدِيّ",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        },
+        {
+          "name": "عباد يَعْنِي ابْن كثير",
+          "person_id": 1714,
+          "canonical_name": "عباد يعني بن كثير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "هِشَام بن عُرْوَة",
+          "person_id": 2600,
+          "canonical_name": "هشام بن عروة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عُرْوَة",
+          "person_id": 1957,
+          "canonical_name": "عروة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَائِشَة",
+          "person_id": 1710,
+          "canonical_name": "عائشة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا إِبْرَاهِيم بن أَحْمد بن إِبْرَاهِيم الْمُسْتَمْلِي إجَازَة أَن أَحْمد بن أحيد بن نوح بن أَيُّوب الْبَزَّاز الْبَلْخِي حَدثهمْ قَالَ حَدثنَا أَبُو صَالح مُسلم بن عبد الرَّحْمَن الْبَلْخِي قَالَ حَدثنِي أَبُو عَليّ شَقِيق بن إِبْرَاهِيم الْأَزْدِيّ حَدثنَا عباد يَعْنِي ابْن كثير يَقُول عَن هِشَام بن عُرْوَة قَالَ قَالَ لي عُرْوَة قَالَت عَائِشَة ﵂",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحُسَيْن بن دَاوُد الْبَلْخِي",
+          "person_id": 114,
+          "canonical_name": "الحسين بن داود البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شَقِيق بن إِبْرَاهِيم",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو هَاشم الأبلي",
+          "person_id": 1116,
+          "canonical_name": "أبو هاشم الأبلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أنس",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ قَالَ حَدثنَا الْحُسَيْن بن دَاوُد الْبَلْخِي قَالَ حَدثنَا شَقِيق بن إِبْرَاهِيم حَدثنَا أَبُو هَاشم الأبلي عَن أنس ﵁",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ سعيد بن أَحْمد الْبَلْخِي",
+          "person_id": 978,
+          "canonical_name": "أبو علي سعيد بن أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 582,
+          "canonical_name": "أبو أبي علي أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد",
+          "person_id": 2372,
+          "canonical_name": "محمد بن عبد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خَالِي مُحَمَّد بن اللَّيْث",
+          "person_id": 1500,
+          "canonical_name": "خالي محمد بن الليث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حامدا اللفاف",
+          "person_id": 1426,
+          "canonical_name": "حامد اللفاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حاتما الْأَصَم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "شَقِيق بن إِبْرَاهِيم",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا عَليّ سعيد بن أَحْمد الْبَلْخِي يَقُول سَمِعت أبي يَقُول سَمِعت مُحَمَّد بن عبد يَقُول سَمِعت خَالِي مُحَمَّد بن اللَّيْث يَقُول سَمِعت حامدا اللفاف يَقُول سَمِعت حاتما الْأَصَم يَقُول سَمِعت شَقِيق بن إِبْرَاهِيم يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ سعيد بن أَحْمد الْبَلْخِي",
+          "person_id": 978,
+          "canonical_name": "أبو علي سعيد بن أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 582,
+          "canonical_name": "أبو أبي علي أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد",
+          "person_id": 2372,
+          "canonical_name": "محمد بن عبد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خَالِي مُحَمَّد بن اللَّيْث",
+          "person_id": 1500,
+          "canonical_name": "خالي محمد بن الليث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حامدا اللفاف",
+          "person_id": 1426,
+          "canonical_name": "حامد اللفاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حاتما الْأَصَم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "شَقِيق بن إِبْرَاهِيم",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ سعيد بن أَحْمد الْبَلْخِي",
+          "person_id": 978,
+          "canonical_name": "أبو علي سعيد بن أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 582,
+          "canonical_name": "أبو أبي علي أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد",
+          "person_id": 2372,
+          "canonical_name": "محمد بن عبد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خَالِي مُحَمَّد بن اللَّيْث",
+          "person_id": 1500,
+          "canonical_name": "خالي محمد بن الليث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حامدا اللفاف",
+          "person_id": 1426,
+          "canonical_name": "حامد اللفاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حاتما الْأَصَم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "شَقِيق بن إِبْرَاهِيم",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ سعيد بن أَحْمد الْبَلْخِي",
+          "person_id": 978,
+          "canonical_name": "أبو علي سعيد بن أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 582,
+          "canonical_name": "أبو أبي علي أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد",
+          "person_id": 2372,
+          "canonical_name": "محمد بن عبد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خَالِي مُحَمَّد بن اللَّيْث",
+          "person_id": 1500,
+          "canonical_name": "خالي محمد بن الليث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حامدا اللفاف",
+          "person_id": 1426,
+          "canonical_name": "حامد اللفاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حاتما الْأَصَم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "شَقِيق بن إِبْرَاهِيم",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ سعيد بن أَحْمد الْبَلْخِي",
+          "person_id": 978,
+          "canonical_name": "أبو علي سعيد بن أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 582,
+          "canonical_name": "أبو أبي علي أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد",
+          "person_id": 2372,
+          "canonical_name": "محمد بن عبد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خَالِي مُحَمَّد بن اللَّيْث",
+          "person_id": 1500,
+          "canonical_name": "خالي محمد بن الليث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حامدا اللفاف",
+          "person_id": 1426,
+          "canonical_name": "حامد اللفاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حاتما الْأَصَم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "شَقِيق بن إِبْرَاهِيم",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ سعيد بن أَحْمد الْبَلْخِي",
+          "person_id": 978,
+          "canonical_name": "أبو علي سعيد بن أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 582,
+          "canonical_name": "أبو أبي علي أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد",
+          "person_id": 2372,
+          "canonical_name": "محمد بن عبد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خَالِي مُحَمَّد بن اللَّيْث",
+          "person_id": 1500,
+          "canonical_name": "خالي محمد بن الليث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حامدا اللفاف",
+          "person_id": 1426,
+          "canonical_name": "حامد اللفاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حاتما الْأَصَم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "شَقِيق بن إِبْرَاهِيم",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ سعيد بن أَحْمد الْبَلْخِي",
+          "person_id": 978,
+          "canonical_name": "أبو علي سعيد بن أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 582,
+          "canonical_name": "أبو أبي علي أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد",
+          "person_id": 2372,
+          "canonical_name": "محمد بن عبد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خَالِي مُحَمَّد بن اللَّيْث",
+          "person_id": 1500,
+          "canonical_name": "خالي محمد بن الليث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حامدا اللفاف",
+          "person_id": 1426,
+          "canonical_name": "حامد اللفاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حاتما الْأَصَم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "شَقِيق بن إِبْرَاهِيم",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ سعيد بن أَحْمد الْبَلْخِي",
+          "person_id": 978,
+          "canonical_name": "أبو علي سعيد بن أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 582,
+          "canonical_name": "أبو أبي علي أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد",
+          "person_id": 2372,
+          "canonical_name": "محمد بن عبد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خَالِي مُحَمَّد بن اللَّيْث",
+          "person_id": 1500,
+          "canonical_name": "خالي محمد بن الليث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حامدا اللفاف",
+          "person_id": 1426,
+          "canonical_name": "حامد اللفاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حاتما الْأَصَم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "شَقِيق بن إِبْرَاهِيم",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ سعيد بن أَحْمد الْبَلْخِي",
+          "person_id": 978,
+          "canonical_name": "أبو علي سعيد بن أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 582,
+          "canonical_name": "أبو أبي علي أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد",
+          "person_id": 2372,
+          "canonical_name": "محمد بن عبد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خَالِي مُحَمَّد بن اللَّيْث",
+          "person_id": 1500,
+          "canonical_name": "خالي محمد بن الليث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حامدا اللفاف",
+          "person_id": 1426,
+          "canonical_name": "حامد اللفاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حاتما الْأَصَم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "شَقِيق بن إِبْرَاهِيم",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ شَقِيق",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ سعيد بن أَحْمد الْبَلْخِي",
+          "person_id": 978,
+          "canonical_name": "أبو علي سعيد بن أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 582,
+          "canonical_name": "أبو أبي علي أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد",
+          "person_id": 2372,
+          "canonical_name": "محمد بن عبد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خَالِي مُحَمَّد بن اللَّيْث",
+          "person_id": 1500,
+          "canonical_name": "خالي محمد بن الليث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حامدا اللفاف",
+          "person_id": 1426,
+          "canonical_name": "حامد اللفاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حاتما الْأَصَم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "شَقِيق بن إِبْرَاهِيم",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ شَقِيق",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ سعيد بن أَحْمد الْبَلْخِي",
+          "person_id": 978,
+          "canonical_name": "أبو علي سعيد بن أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 582,
+          "canonical_name": "أبو أبي علي أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد",
+          "person_id": 2372,
+          "canonical_name": "محمد بن عبد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خَالِي مُحَمَّد بن اللَّيْث",
+          "person_id": 1500,
+          "canonical_name": "خالي محمد بن الليث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حامدا اللفاف",
+          "person_id": 1426,
+          "canonical_name": "حامد اللفاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حاتما الْأَصَم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "شَقِيق بن إِبْرَاهِيم",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ شَقِيق",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ سعيد بن أَحمد الْبَلْخِي",
+          "person_id": 978,
+          "canonical_name": "أبو علي سعيد بن أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 582,
+          "canonical_name": "أبو أبي علي أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد",
+          "person_id": 2372,
+          "canonical_name": "محمد بن عبد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خَالِي مُحَمَّد بن اللَّيْث",
+          "person_id": 1500,
+          "canonical_name": "خالي محمد بن الليث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حامدا اللفاف",
+          "person_id": 1426,
+          "canonical_name": "حامد اللفاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حاتما الْأَصَم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "شَقِيق بن إِبْرَاهِيم",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ شَقِيق",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ سعيد بن أَحْمد الْبَلْخِي",
+          "person_id": 978,
+          "canonical_name": "أبو علي سعيد بن أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 582,
+          "canonical_name": "أبو أبي علي أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد",
+          "person_id": 2372,
+          "canonical_name": "محمد بن عبد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خَالِي مُحَمَّد بن اللَّيْث",
+          "person_id": 1500,
+          "canonical_name": "خالي محمد بن الليث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حامدا اللفاف",
+          "person_id": 1426,
+          "canonical_name": "حامد اللفاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حاتما الْأَصَم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "شَقِيق بن إِبْرَاهِيم",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ سعيد بن أَحْمَد الْبَلْخِي",
+          "person_id": 978,
+          "canonical_name": "أبو علي سعيد بن أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 582,
+          "canonical_name": "أبو أبي علي أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد",
+          "person_id": 2372,
+          "canonical_name": "محمد بن عبد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خَالِي مُحَمَّد بن اللَّيْث",
+          "person_id": 1500,
+          "canonical_name": "خالي محمد بن الليث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حامدا اللفاف",
+          "person_id": 1426,
+          "canonical_name": "حامد اللفاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حاتما الْأَصَم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "شَقِيق بن إِبْرَاهِيم",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ سعيد بن أَحْمَد الْبَلْخِي",
+          "person_id": 978,
+          "canonical_name": "أبو علي سعيد بن أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 582,
+          "canonical_name": "أبو أبي علي أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد",
+          "person_id": 2372,
+          "canonical_name": "محمد بن عبد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خَالِي مُحَمَّد بن اللَّيْث",
+          "person_id": 1500,
+          "canonical_name": "خالي محمد بن الليث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حامدا اللفاف",
+          "person_id": 1426,
+          "canonical_name": "حامد اللفاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حاتما الْأَصَم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "شَقِيق بن إِبْرَاهِيم",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ سعيد بن أَحْمَد الْبَلْخِي",
+          "person_id": 978,
+          "canonical_name": "أبو علي سعيد بن أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 582,
+          "canonical_name": "أبو أبي علي أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد",
+          "person_id": 2372,
+          "canonical_name": "محمد بن عبد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خَالِي مُحَمَّد بن اللَّيْث",
+          "person_id": 1500,
+          "canonical_name": "خالي محمد بن الليث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حامدا اللفاف",
+          "person_id": 1426,
+          "canonical_name": "حامد اللفاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حاتما الْأَصَم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "شَقِيق بن إِبْرَاهِيم",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ سعيد بن أَحْمَد الْبَلْخِي",
+          "person_id": 978,
+          "canonical_name": "أبو علي سعيد بن أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 582,
+          "canonical_name": "أبو أبي علي أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد",
+          "person_id": 2372,
+          "canonical_name": "محمد بن عبد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خَالِي مُحَمَّد بن اللَّيْث",
+          "person_id": 1500,
+          "canonical_name": "خالي محمد بن الليث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حامدا اللفاف",
+          "person_id": 1426,
+          "canonical_name": "حامد اللفاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حاتما الْأَصَم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "شَقِيق بن إِبْرَاهِيم",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ سعيد بن أَحْمَد الْبَلْخِي",
+          "person_id": 978,
+          "canonical_name": "أبو علي سعيد بن أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 582,
+          "canonical_name": "أبو أبي علي أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد",
+          "person_id": 2372,
+          "canonical_name": "محمد بن عبد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خَالِي مُحَمَّد بن اللَّيْث",
+          "person_id": 1500,
+          "canonical_name": "خالي محمد بن الليث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حامدا اللفاف",
+          "person_id": 1426,
+          "canonical_name": "حامد اللفاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حاتما الْأَصَم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "شَقِيق بن إِبْرَاهِيم",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِه",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ سعيد بن أَحْمَد الْبَلْخِي",
+          "person_id": 978,
+          "canonical_name": "أبو علي سعيد بن أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 582,
+          "canonical_name": "أبو أبي علي أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد",
+          "person_id": 2372,
+          "canonical_name": "محمد بن عبد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خَالِي مُحَمَّد بن اللَّيْث",
+          "person_id": 1500,
+          "canonical_name": "خالي محمد بن الليث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حامدا اللفاف",
+          "person_id": 1426,
+          "canonical_name": "حامد اللفاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حاتما الْأَصَم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "شَقِيق بن إِبْرَاهِيم",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ شَقِيق",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ سعيد بن أَحْمَد الْبَلْخِي",
+          "person_id": 978,
+          "canonical_name": "أبو علي سعيد بن أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 582,
+          "canonical_name": "أبو أبي علي أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد",
+          "person_id": 2372,
+          "canonical_name": "محمد بن عبد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خَالِي مُحَمَّد بن اللَّيْث",
+          "person_id": 1500,
+          "canonical_name": "خالي محمد بن الليث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حامدا اللفاف",
+          "person_id": 1426,
+          "canonical_name": "حامد اللفاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حاتما الْأَصَم",
+          "person_id": 1424,
+          "canonical_name": "حاتم الأصم",
+          "has_id": 505,
+          "subj_added": false
+        },
+        {
+          "name": "شَقِيق بن إِبْرَاهِيم",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "إِبْرَاهِيم بن أدهم",
+        "relationship_type": "student_of",
+        "relationship_phrase": "أخذ عَنهُ",
+        "full_text": "وأخذ عَنهُ الطَّرِيقَة",
+        "person_id": 301,
+        "canonical_name": "إبراهيم بن أدهم",
+        "has_id": 274
+      }
+    ],
+    "students": [
+      {
+        "name": "حَاتِم الْأَصَم",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "أستاذ",
+        "full_text": "كَانَ أستاذ حَاتِم الْأَصَم",
+        "person_id": 1424,
+        "canonical_name": "حاتم الأصم",
+        "has_id": 505
+      }
+    ],
+    "companions": [
+      {
+        "name": "إِبْرَاهِيم بن أدهم",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب إِبْرَاهِيم بن أدهم",
+        "person_id": 301,
+        "canonical_name": "إبراهيم بن أدهم",
+        "has_id": 274
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَبُو صَالح مُسلم بن عبد الرَّحْمَن الْبَلْخِي",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "قَالَ حَدثنَا أَبُو صَالح مُسلم بن عبد الرَّحْمَن الْبَلْخِي قَالَ حَدثنِي أَبُو عَليّ شَقِيق بن إِبْرَاهِيم",
+      "person_id": 828,
+      "canonical_name": "أبو صالح مسلم بن عبد الرحمن البلخي",
+      "has_id": NaN
+    },
+    {
+      "name": "الْحُسَيْن بن دَاوُد الْبَلْخِي",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "قَالَ حَدثنَا الْحُسَيْن بن دَاوُد الْبَلْخِي قَالَ حَدثنَا شَقِيق بن إِبْرَاهِيم",
+      "person_id": 114,
+      "canonical_name": "الحسين بن داود البلخي",
+      "has_id": NaN
+    },
+    {
+      "name": "حاتما الْأَصَم",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "سَمِعت حاتما الْأَصَم يَقُول سَمِعت شَقِيق بن إِبْرَاهِيم",
+      "person_id": 1424,
+      "canonical_name": "حاتم الأصم",
+      "has_id": 505
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "bio_id": "495",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "348",
+    "full_text": "ایذ ببغداد برفته در ثمان و اربعین و ثلثمائه",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "بغدادیست"
+    },
+    {
+      "place": "بغداد",
+      "context": "died",
+      "full_text": "ایذ ببغداد برفته در ثمان و اربعین و ثلثمائه"
+    },
+    {
+      "place": "شو نیزیه",
+      "context": "mentioned",
+      "full_text": "وگوروی بشو نیزیه است نزدیک گور سری سقطی و جنید٭"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وی گفت مردی را:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "معتز",
+          "person_id": 1080,
+          "canonical_name": "أبو معتز",
+          "has_id": 766,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که معتز گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "جنید",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد جنید و ابراهیم خواص",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "ابراهیم خواص",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد جنید و ابراهیم خواص",
+        "person_id": 278,
+        "canonical_name": "أبو إسحاق إبراهيم الخواص",
+        "has_id": 268
+      },
+      {
+        "name": "نوری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "و با نوری و رویم و سمنون و جریری صحبت کرده",
+        "person_id": 452,
+        "canonical_name": "أبو الحسين النوري",
+        "has_id": 439
+      },
+      {
+        "name": "رویم",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "و با نوری و رویم و سمنون و جریری صحبت کرده",
+        "person_id": 1553,
+        "canonical_name": "رويم بن أحمد",
+        "has_id": 578
+      },
+      {
+        "name": "سمنون",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "و با نوری و رویم و سمنون و جریری صحبت کرده",
+        "person_id": 1634,
+        "canonical_name": "سمنون بن حمزة المحب",
+        "has_id": 603
+      },
+      {
+        "name": "جریری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "و با نوری و رویم و سمنون و جریری صحبت کرده",
+        "person_id": 1035,
+        "canonical_name": "أبو محمد الجريري",
+        "has_id": 431
+      },
+      {
+        "name": "شیخ بوالعباس نهاوندی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "پیر",
+        "full_text": "پیر شیخ بوالعباس نهاوندی",
+        "person_id": 499,
+        "canonical_name": "أبو العباس أحمد بن محمد بن الفضل النهاوندي",
+        "has_id": 53
+      }
+    ],
+    "students": [
+      {
+        "name": "قاضی بامنصور هروی",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "از وی حدیث داشت",
+        "full_text": "و از وی حدیث داشت قاضی بامنصور هروی ببغداد دیده بود و آن حدیث ما را سماعت.",
+        "person_id": 272,
+        "canonical_name": "إبراهيم الباخرزي",
+        "has_id": NaN
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "یک تن",
+      "relationship_type": "narrator",
+      "full_text": "که من یک تن دیدم که ویرا دیده بود",
+      "person_id": 2668,
+      "canonical_name": "يك تن",
+      "has_id": NaN
+    },
+    {
+      "name": "قاضی بامنصور هروی",
+      "relationship_type": "narrator",
+      "full_text": "و از وی حدیث داشت قاضی بامنصور هروی ببغداد دیده بود و آن حدیث ما را سماعت.",
+      "person_id": 272,
+      "canonical_name": "إبراهيم الباخرزي",
+      "has_id": NaN
+    },
+    {
+      "name": "مردی",
+      "relationship_type": "interlocutor",
+      "context": "addressed by subject",
+      "full_text": "وی گفت مردی را: کن شریف الهمة فان الهمم تبلغ بالرجل لاالمجاهدات.",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    },
+    {
+      "name": "معتز",
+      "relationship_type": "narrator",
+      "full_text": "که معتز گفت فرامن: که صوفی نبود، اربود نه صوفی بود.",
+      "person_id": 1080,
+      "canonical_name": "أبو معتز",
+      "has_id": 766
+    }
+  ]
+}

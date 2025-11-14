@@ -1,0 +1,133 @@
+{
+  "bio_id": "338",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "دینور",
+      "context": "nisba",
+      "full_text": "دینوری"
+    },
+    {
+      "place": "نشاپور",
+      "context": "lived",
+      "full_text": "در نشاپور بوده"
+    },
+    {
+      "place": "نشاپور",
+      "context": "mentioned",
+      "full_text": "وعظ گفته بنشاپور"
+    },
+    {
+      "place": "ترمذ",
+      "context": "visited",
+      "full_text": "از نشاپور برفت بترمذ آمد"
+    },
+    {
+      "place": "سمرقند",
+      "context": "visited",
+      "full_text": "بوالعباس بسمرقند رفت و آنجا نماند"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت کی:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "یوسف حسین رازی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده بود",
+        "full_text": "«نام وی احمدبن محمد است» با یوسف حسین رازی و عبداللّه حداد و\nجریری، و ابن عطا و رویم٭ دیده بود",
+        "person_id": 1140,
+        "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+        "has_id": 847
+      },
+      {
+        "name": "عبداللّه حداد",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده بود",
+        "full_text": "«نام وی احمدبن محمد است» با یوسف حسین رازی و عبداللّه حداد و\nجریری، و ابن عطا و رویم٭ دیده بود",
+        "person_id": 1783,
+        "canonical_name": "عبد الله الحداد الرازي",
+        "has_id": 656
+      },
+      {
+        "name": "جریری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده بود",
+        "full_text": "«نام وی احمدبن محمد است» با یوسف حسین رازی و عبداللّه حداد و\nجریری، و ابن عطا و رویم٭ دیده بود",
+        "person_id": 1035,
+        "canonical_name": "أبو محمد الجريري",
+        "has_id": 431
+      },
+      {
+        "name": "ابن عطا",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده بود",
+        "full_text": "«نام وی احمدبن محمد است» با یوسف حسین رازی و عبداللّه حداد و\nجریری، و ابن عطا و رویم٭ دیده بود",
+        "person_id": 498,
+        "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+        "has_id": 340
+      },
+      {
+        "name": "رویم٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده بود",
+        "full_text": "«نام وی احمدبن محمد است» با یوسف حسین رازی و عبداللّه حداد و\nجریری، و ابن عطا و رویم٭ دیده بود",
+        "person_id": 1553,
+        "canonical_name": "رويم بن أحمد",
+        "has_id": 578
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت که",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "خواجه محمد حامد واشگردی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "پذیرهٔ وی آمد، و بوسه بر رکاب وی داد",
+      "full_text": "خواجه محمد حامد واشگردی شاگرد\nبوبکر وراق٭ پذیرهٔ وی آمد، و بوسه بر رکاب وی داد",
+      "person_id": 1508,
+      "canonical_name": "خواجه محمد حامد واشگردي",
+      "has_id": NaN
+    },
+    {
+      "name": "بوبکر وراق٭",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "خواجه محمد حامد واشگردی شاگرد\nبوبکر وراق٭ پذیرهٔ وی آمد",
+      "person_id": 702,
+      "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+      "has_id": 380
+    },
+    {
+      "name": "واسطی٭",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "آن سخن او بپسندید",
+      "full_text": "واسطی٭ آن سخن او بپسندید",
+      "person_id": 653,
+      "canonical_name": "أبو بكر الواسطي",
+      "has_id": 379
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "bio_id": "267",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "326",
+    "full_text": "توفّي سنة سِتّ وَعشْرين وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "الرقة",
+      "context": "nisba",
+      "full_text": "الرقي"
+    },
+    {
+      "place": "الشَّام",
+      "context": "lived",
+      "full_text": "من جلة مَشَايِخ الشَّام"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبَا عبد الله الْحُسَيْن بن أَحْمد",
+          "person_id": 859,
+          "canonical_name": "أبو عبد الله الحسين بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الْقصار الرقي",
+          "person_id": 284,
+          "canonical_name": "إبراهيم القصار الرقي",
+          "has_id": 13,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا عبد الله الْحُسَيْن بن أَحْمد يَقُول سَمِعت إِبْرَاهِيم الْقصار الرقي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفضل نصر بن مُحَمَّد بن أَحْمد بن يَعْقُوب الْعَطَّار",
+          "person_id": 528,
+          "canonical_name": "أبو الفضل نصر بن محمد الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن أَحْمد بن المولد",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْفضل نصر بن مُحَمَّد بن أَحْمد بن يَعْقُوب الْعَطَّار قَالَ سَمِعت إِبْرَاهِيم بن أَحْمد بن المولد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الْقصار",
+          "person_id": 284,
+          "canonical_name": "إبراهيم القصار الرقي",
+          "has_id": 13,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر بن شَاذان يَقُول سَمِعت إِبْرَاهِيم الْقصار يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الْقصار",
+          "person_id": 284,
+          "canonical_name": "إبراهيم القصار الرقي",
+          "has_id": 13,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الْقصار",
+          "person_id": 284,
+          "canonical_name": "إبراهيم القصار الرقي",
+          "has_id": 13,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الْقصار",
+          "person_id": 284,
+          "canonical_name": "إبراهيم القصار الرقي",
+          "has_id": 13,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الْقصار",
+          "person_id": 284,
+          "canonical_name": "إبراهيم القصار الرقي",
+          "has_id": 13,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الْقصار",
+          "person_id": 284,
+          "canonical_name": "إبراهيم القصار الرقي",
+          "has_id": 13,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الْقصار",
+          "person_id": 284,
+          "canonical_name": "إبراهيم القصار الرقي",
+          "has_id": 13,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الْقصار",
+          "person_id": 284,
+          "canonical_name": "إبراهيم القصار الرقي",
+          "has_id": 13,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الْقصار",
+          "person_id": 284,
+          "canonical_name": "إبراهيم القصار الرقي",
+          "has_id": 13,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الْقصار",
+          "person_id": 284,
+          "canonical_name": "إبراهيم القصار الرقي",
+          "has_id": 13,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الْقصار",
+          "person_id": 284,
+          "canonical_name": "إبراهيم القصار الرقي",
+          "has_id": 13,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الْقصار",
+          "person_id": 284,
+          "canonical_name": "إبراهيم القصار الرقي",
+          "has_id": 13,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الْقصار",
+          "person_id": 284,
+          "canonical_name": "إبراهيم القصار الرقي",
+          "has_id": 13,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم الْقصار",
+          "person_id": 284,
+          "canonical_name": "إبراهيم القصار الرقي",
+          "has_id": 13,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "الْجُنَيْد",
+        "relationship_type": "peer",
+        "relationship_phrase": "من أَقْرَان",
+        "full_text": "من أَقْرَان الْجُنَيْد وَابْن الْجلاء",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "ابْن الْجلاء",
+        "relationship_type": "peer",
+        "relationship_phrase": "من أَقْرَان",
+        "full_text": "من أَقْرَان الْجُنَيْد وَابْن الْجلاء",
+        "person_id": 898,
+        "canonical_name": "أبو عبد الله بن الجلاء",
+        "has_id": 410
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَبَا عبد الله الْحُسَيْن بن أَحْمد",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا عبد الله الْحُسَيْن بن أَحْمد يَقُول",
+      "person_id": 859,
+      "canonical_name": "أبو عبد الله الحسين بن أحمد",
+      "has_id": NaN
+    },
+    {
+      "name": "إِبْرَاهِيم بن أَحْمد بن المولد",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت إِبْرَاهِيم بن أَحْمد بن المولد يَقُول",
+      "person_id": 298,
+      "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+      "has_id": 273
+    },
+    {
+      "name": "أَبَا بكر بن شَاذان",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر بن شَاذان يَقُول",
+      "person_id": 711,
+      "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "questioner",
+      "full_text": "سَأَلَ رجل إِبْرَاهِيم الْقصار الرقي",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

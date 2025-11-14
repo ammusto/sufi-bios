@@ -1,0 +1,172 @@
+{
+  "bio_id": "245",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "340",
+    "full_text": "درسنه و اربعین برفته و ثلثمائه",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "مرو",
+      "context": "lived",
+      "full_text": "بوالعباس از اهل مرو بود"
+    },
+    {
+      "place": "مرو",
+      "context": "lived",
+      "full_text": "سیاری بمرو سرای خود بر صوفیان وقف کرد"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "بوالعباس سیاری",
+          "person_id": 494,
+          "canonical_name": "أبو العباس القاسم بن القاسم السياري",
+          "has_id": 245,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بوالعباس سیاری گوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سید بوالمعالی زید عمری",
+          "person_id": 1656,
+          "canonical_name": "سيد أبو المعالي زيد عمري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 494,
+          "canonical_name": "أبو العباس القاسم بن القاسم السياري",
+          "has_id": 245,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت، که سید بوالمعالی زید عمری گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبدالواحد سیاری",
+          "person_id": 1900,
+          "canonical_name": "عبد الواحد السياري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 494,
+          "canonical_name": "أبو العباس القاسم بن القاسم السياري",
+          "has_id": 245,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 494,
+          "canonical_name": "أبو العباس القاسم بن القاسم السياري",
+          "has_id": 245
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "عبدالواحد سیاری گوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبدالواحد سیاری",
+          "person_id": 1900,
+          "canonical_name": "عبد الواحد السياري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 494,
+          "canonical_name": "أبو العباس القاسم بن القاسم السياري",
+          "has_id": 245,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وهم وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفتکی:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "بوبکر واسطی٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد\nبوبکر واسطی٭",
+        "person_id": 653,
+        "canonical_name": "أبو بكر الواسطي",
+        "has_id": 379
+      },
+      {
+        "name": "الواسطی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "الق",
+        "full_text": "لولم الق الواسطی مت مجوسیا.",
+        "person_id": 653,
+        "canonical_name": "أبو بكر الواسطي",
+        "has_id": 379
+      }
+    ],
+    "students": [
+      {
+        "name": "عبدالواحد بن علی سیاری",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "شاگرد وی",
+        "full_text": "عبدالواحد بن علی سیاری خواهر زادهٔ بوالعباس سیاری بود شاگرد وی.",
+        "person_id": 1910,
+        "canonical_name": "عبد الواحد بن علي السياري",
+        "has_id": NaN
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "سید بوالمعالی زید عمری",
+      "relationship_type": "narrator",
+      "full_text": "سید بوالمعالی زید عمری گفت:",
+      "person_id": 1656,
+      "canonical_name": "سيد أبو المعالي زيد عمري",
+      "has_id": NaN
+    },
+    {
+      "name": "عبدالواحد سیاری",
+      "relationship_type": "direct_narrator",
+      "full_text": "عبدالواحد سیاری گوید:",
+      "person_id": 1900,
+      "canonical_name": "عبد الواحد السياري",
+      "has_id": NaN
+    }
+  ]
+}

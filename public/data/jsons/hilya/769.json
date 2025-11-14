@@ -1,0 +1,247 @@
+{
+  "bio_id": "769",
+  "source": "hilya",
+  "death_date": {
+    "year_hijri": "284",
+    "full_text": "فمات بها سنة أربع وثمانين ومائتين.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "ودنكان",
+      "context": "nisba",
+      "full_text": "الودنكانى"
+    },
+    {
+      "place": "طرسوس",
+      "context": "visited",
+      "full_text": "فخرج إلى طرسوس ثلاث مرات"
+    },
+    {
+      "place": "طرسوس",
+      "context": "died",
+      "full_text": "فمات بها سنة أربع وثمانين ومائتين."
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أحمد بن جعفر بن معبد",
+          "person_id": 1187,
+          "canonical_name": "أحمد بن جعفر بن معبد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر محمد بن الفرج",
+          "person_id": 690,
+          "canonical_name": "أبو بكر محمد بن الفرج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عاصم بن عمرو أبو الأزهر الصواف البصري",
+          "person_id": 2370,
+          "canonical_name": "محمد بن عاصم بن عمرو أبو الأزهر الصواف البصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عاصم عمرو بن عثمان بن مقسم",
+          "person_id": 841,
+          "canonical_name": "أبو عاصم عمرو بن عثمان بن مقسم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "نافع",
+          "person_id": 2576,
+          "canonical_name": "نافع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عمر",
+          "has_id": NaN,
+          "person_id": 28,
+          "canonical_name": "ابن عمر",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد بن جعفر بن معبد ثنا أبو بكر محمد بن الفرج ثنا محمد بن عاصم بن عمرو أبو الأزهر الصواف البصري ثنا أبو عاصم عمرو بن عثمان بن مقسم عن نافع عن ابن عمر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو بكر محمد بن عبد الله",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ممشاد",
+          "person_id": 2534,
+          "canonical_name": "ممشاد الدينوري",
+          "has_id": 815,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر محمد بن الفرج",
+          "person_id": 690,
+          "canonical_name": "أبو بكر محمد بن الفرج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الجبار",
+          "person_id": 1728,
+          "canonical_name": "عبد الجبار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مروان",
+          "person_id": 2493,
+          "canonical_name": "مروان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي يعقوب",
+          "person_id": 1130,
+          "canonical_name": "أبو يعقوب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الوليد بن العيزار",
+          "person_id": 256,
+          "canonical_name": "الوليد بن العيزار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي عمرو",
+          "person_id": 1005,
+          "canonical_name": "أبو عمرو",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مسعود",
+          "person_id": 1880,
+          "canonical_name": "عبد الله بن مسعود",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو بكر محمد بن عبد الله عن ممشاد ثنا أبو بكر محمد بن الفرج ثنا عبد الجبار - يعني ابن العلاء - ثنا مروان - يعني ابن معاوية - عن أبي يعقوب عن الوليد بن العيزار عن أبي عمرو عن عبد الله بن مسعود",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا محمد بن حيان",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جدي محمود بن الفرج",
+          "person_id": 1390,
+          "canonical_name": "جدي محمود بن الفرج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو حجر",
+          "person_id": 755,
+          "canonical_name": "أبو حجر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبيد",
+          "person_id": 2397,
+          "canonical_name": "محمد بن عبيد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الأعمش",
+          "person_id": 59,
+          "canonical_name": "الأعمش",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي سفيان",
+          "person_id": 812,
+          "canonical_name": "أبو سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جابر",
+          "person_id": 1372,
+          "canonical_name": "جابر",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا محمد بن حيان يقول حدثنا جدي محمود بن الفرج قال -: أملاه علي - ثنا أبو حجر ثنا محمد بن عبيد ثنا الأعمش عن أبي سفيان عن جابر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا محمد",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جده محمود",
+          "person_id": 1384,
+          "canonical_name": "جده محمود",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عثمان سعيد بن العباس",
+          "person_id": 940,
+          "canonical_name": "أبو عثمان سعيد بن العباس الرازي",
+          "has_id": 595,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا محمد يقول وحكى عن جده محمود قال سمعت أبا عثمان سعيد بن العباس يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أبا عثمان الرازي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أبا عثمان الرازي",
+        "person_id": 940,
+        "canonical_name": "أبو عثمان سعيد بن العباس الرازي",
+        "has_id": 595
+      }
+    ]
+  },
+  "associates": []
+}

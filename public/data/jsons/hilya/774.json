@@ -1,0 +1,255 @@
+{
+  "bio_id": "774",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "الكوفة",
+      "context": "nisba",
+      "full_text": "الكوفي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو عبد الله محمد بن أحمد بن عمر",
+          "person_id": 913,
+          "canonical_name": "أبو عبد الله محمد بن أحمد بن عمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 581,
+          "canonical_name": "أبو أبي عبد الله محمد بن أحمد بن عمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد الأموي",
+          "person_id": 1856,
+          "canonical_name": "عبد الله بن محمد الأموي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إسحاق",
+          "person_id": 2276,
+          "canonical_name": "محمد بن إسحاق",
+          "has_id": 774,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو عبد الله محمد بن أحمد بن عمر ثنا أبي ثنا عبد الله بن محمد الأموي قال حدثني محمد بن إسحاق",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد الأموي",
+          "person_id": 1856,
+          "canonical_name": "عبد الله بن محمد الأموي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إسحاق",
+          "person_id": 2276,
+          "canonical_name": "محمد بن إسحاق",
+          "has_id": 774,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال: وحدثني محمد بن إسحاق",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن إسحاق",
+          "person_id": 2276,
+          "canonical_name": "محمد بن إسحاق",
+          "has_id": 774,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال محمد بن إسحاق:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "رجل من عبد القيس",
+          "person_id": 1543,
+          "canonical_name": "رجل من عبد القيس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2276,
+          "canonical_name": "محمد بن إسحاق",
+          "has_id": 774,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وقال رجل من عبد القيس:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو بكر محمد بن الحسين الآجري",
+          "person_id": 689,
+          "canonical_name": "أبو بكر محمد بن الحسين الآجري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد العطشي المقرى",
+          "person_id": 1861,
+          "canonical_name": "عبد الله بن محمد العطشي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن الجنيد",
+          "person_id": 292,
+          "canonical_name": "إبراهيم بن الجنيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2276,
+          "canonical_name": "محمد بن إسحاق",
+          "has_id": 774,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو بكر محمد بن الحسين الآجري ثنا عبد الله بن محمد العطشي المقرى ثنا إبراهيم بن الجنيد.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إبراهيم بن الجنيد",
+          "person_id": 292,
+          "canonical_name": "إبراهيم بن الجنيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 2237,
+          "canonical_name": "محمد بن الحسين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2276,
+          "canonical_name": "محمد بن إسحاق",
+          "has_id": 774,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال إبراهيم وحدثني محمد بن الحسين",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن الفرج العابد",
+          "person_id": 1803,
+          "canonical_name": "عبد الله بن الفرج العابد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2276,
+          "canonical_name": "محمد بن إسحاق",
+          "has_id": 774,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال: حدثت عن عبد الله بن الفرج العابد",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "عبد الله بن محمد الأموي",
+      "relationship_type": "narrator",
+      "full_text": "قال حدثني محمد بن إسحاق",
+      "person_id": 1856,
+      "canonical_name": "عبد الله بن محمد الأموي",
+      "has_id": NaN
+    },
+    {
+      "name": "بعض الحكماء",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "quoted",
+      "full_text": "قال قال بعض الحكماء:",
+      "person_id": 1327,
+      "canonical_name": "بعض الحكماء",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل من عبد القيس",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "speaker",
+      "full_text": "وقال رجل من عبد القيس: أين تذهبون؟ بل أين يراد بكم وحادي الموت في أثر الأنفاس حثيث موضع، وعلى احتياج الأرواح من منزل الفناء إلى دار البقاء مجمع، وفي خراب الأجساد المتفكهة بالنعيم مسرع.",
+      "person_id": 1543,
+      "canonical_name": "رجل من عبد القيس",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن الحسين البرجلانى",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "book_owner",
+      "full_text": "وجدت هذه الأبيات على ظهر كتاب لمحمد بن الحسين البرجلانى:",
+      "person_id": 2238,
+      "canonical_name": "محمد بن الحسين البرجلانى",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "context": "to عبد الله بن الفرج العابد",
+      "full_text": "قال: حدثت عن عبد الله بن الفرج العابد أنه قال له رجل: يا أبا محمد! هؤلاء الرهبان يتكلمون بالحكمة وهم أهل كفر وضلالة فمم ذلك؟",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الله بن الفرج العابد",
+      "relationship_type": "interlocutor",
+      "full_text": "قال: حدثت عن عبد الله بن الفرج العابد أنه قال له رجل: يا أبا محمد! هؤلاء الرهبان يتكلمون بالحكمة وهم أهل كفر وضلالة فمم ذلك؟ قال ميراث الجوع متعت بك ميراث الجوع متعت بك.",
+      "person_id": 1803,
+      "canonical_name": "عبد الله بن الفرج العابد",
+      "has_id": NaN
+    }
+  ]
+}

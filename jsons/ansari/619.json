@@ -1,0 +1,104 @@
+{
+  "bio_id": "619",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بلخ",
+      "context": "lived",
+      "full_text": "ببلخ بود"
+    },
+    {
+      "place": "مسجد حرام",
+      "context": "visited",
+      "full_text": "در مسجد حرام بودم"
+    },
+    {
+      "place": "مقام ابراهیم",
+      "context": "visited",
+      "full_text": "پس مقام ابراهیم"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "شریف",
+          "person_id": 1664,
+          "canonical_name": "شريف",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شریف گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "خضر ﷷ",
+        "relationship_type": "student_of",
+        "relationship_phrase": "هم صحبت",
+        "full_text": "وی هم صحبت خضر بوده",
+        "person_id": 145,
+        "canonical_name": "الخضر",
+        "has_id": NaN
+      }
+    ],
+    "students": [
+      {
+        "name": "پدر شیخ الاسلام",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "باوی صحبت کرده",
+        "full_text": "و پدر شیخ الاسلام باوی صحبت کرده سالها و او را تعظیم داشتی.",
+        "person_id": 377,
+        "canonical_name": "أببي",
+        "has_id": NaN
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شریف",
+      "relationship_type": "narrator",
+      "full_text": "شریف گوید:",
+      "person_id": 1664,
+      "canonical_name": "شريف",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "خضر ﷷ",
+      "relationship_type": "interlocutor",
+      "full_text": "کی خضر ﷷ فراز آمد و مرا گفت: حمزهٔ خیز و طواف کن",
+      "person_id": 145,
+      "canonical_name": "الخضر",
+      "has_id": NaN
+    },
+    {
+      "name": "بومنصور",
+      "relationship_type": "interlocutor",
+      "context": "addressee",
+      "full_text": "وی گفت ببلخ: که بومنصور ما را پسر آمد",
+      "person_id": 1085,
+      "canonical_name": "أبو منصور",
+      "has_id": NaN
+    }
+  ]
+}

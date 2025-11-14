@@ -1,0 +1,186 @@
+{
+  "bio_id": "696",
+  "source": "hilya",
+  "death_date": {
+    "year_hijri": "225",
+    "full_text": "توفي سنة خمس وعشرين ومائتين.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "مكة",
+      "context": "mentioned",
+      "full_text": "- بمكة -"
+    },
+    {
+      "place": "مكة",
+      "context": "mentioned",
+      "full_text": "بمكة سنة ثمان وخمسين وثلاثمائة."
+    },
+    {
+      "place": "جبل طور سينا",
+      "context": "mentioned",
+      "full_text": "على جبل طور سينا"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا بكر الطوسي الدينوري",
+          "person_id": 622,
+          "canonical_name": "أبو بكر الدينوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شيخي إبراهيم",
+          "person_id": 315,
+          "canonical_name": "إبراهيم بن شيبان أستاذه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عبد الله المغربي",
+          "person_id": 885,
+          "canonical_name": "أبو عبد الله المغربي",
+          "has_id": 416,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا بكر الطوسي الدينوري - بمكة - يقول سمعت شيخي إبراهيم يقول سمعت أبا عبد الله المغربي يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الشيخ",
+          "person_id": 169,
+          "canonical_name": "الشيخ",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال الشيخ:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو بكر الطرسوسي",
+          "person_id": 623,
+          "canonical_name": "أبو بكر أحمد بن محمد الطرسوسي",
+          "has_id": 79,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "ذكر ذلك لي أبو بكر الطرسوسي بمكة سنة ثمان وخمسين وثلاثمائة.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إبراهيم بن شيبان أستاذه",
+          "person_id": 315,
+          "canonical_name": "إبراهيم بن شيبان أستاذه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عبد الله المغربي",
+          "person_id": 885,
+          "canonical_name": "أبو عبد الله المغربي",
+          "has_id": 416,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحكى عن إبراهيم بن شيبان أستاذه قال سمعت أبا عبد الله المغربي يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إبراهيم بن شيبان أستاذه",
+          "person_id": 315,
+          "canonical_name": "إبراهيم بن شيبان أستاذه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عبد الله المغربي",
+          "person_id": 885,
+          "canonical_name": "أبو عبد الله المغربي",
+          "has_id": 416,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [
+      {
+        "name": "أبو عبد الرحمن المغربي",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "تخرج به",
+        "full_text": "تخرج به أبو عبد الرحمن المغربي أستاذ إبراهيم بن شيبان",
+        "person_id": 847,
+        "canonical_name": "أبو عبد الرحمن المغربي",
+        "has_id": NaN
+      },
+      {
+        "name": "أبو عبد الله لمغربى محمد بن إسماعيل",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "تلميذ",
+        "full_text": "وكان أبو عبد الله لمغربى محمد بن إسماعيل تلميذ علي بن رزين.",
+        "person_id": 885,
+        "canonical_name": "أبو عبد الله المغربي",
+        "has_id": 416
+      }
+    ],
+    "companions": [
+      {
+        "name": "أبو عبد الله المغربي",
+        "relationship_type": "peer",
+        "relationship_phrase": "أصحبه",
+        "full_text": "كان لي شيخ أصحبه يشرب في كل أربعة أشهر شربة من ماء - يعني صاحبه علي بن رزين -",
+        "person_id": 885,
+        "canonical_name": "أبو عبد الله المغربي",
+        "has_id": 416
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أبا عبد الله المغربي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا عبد الله المغربي يقول",
+      "person_id": 885,
+      "canonical_name": "أبو عبد الله المغربي",
+      "has_id": 416
+    },
+    {
+      "name": "الشيخ",
+      "relationship_type": "narrator",
+      "full_text": "قال الشيخ",
+      "person_id": 169,
+      "canonical_name": "الشيخ",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو بكر الطرسوسي",
+      "relationship_type": "narrator",
+      "full_text": "ذكر ذلك لي أبو بكر الطرسوسي بمكة سنة ثمان وخمسين وثلاثمائة",
+      "person_id": 623,
+      "canonical_name": "أبو بكر أحمد بن محمد الطرسوسي",
+      "has_id": 79
+    }
+  ]
+}

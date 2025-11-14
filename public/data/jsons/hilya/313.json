@@ -1,0 +1,198 @@
+{
+  "bio_id": "313",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "مصر",
+      "context": "lived",
+      "full_text": "شيخ مصر"
+    },
+    {
+      "place": "التيه",
+      "context": "died",
+      "full_text": "مات في التيه والها."
+    },
+    {
+      "place": "مكة",
+      "context": "mentioned",
+      "full_text": "- بمكة ونيسابور -"
+    },
+    {
+      "place": "نيسابور",
+      "context": "mentioned",
+      "full_text": "- بمكة ونيسابور -"
+    },
+    {
+      "place": "النيل",
+      "context": "mentioned",
+      "full_text": "على شط النيل والفرات"
+    },
+    {
+      "place": "الفرات",
+      "context": "mentioned",
+      "full_text": "على شط النيل والفرات"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا عثمان سعيد بن سلام المغربي",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسين بن بنان",
+          "person_id": 457,
+          "canonical_name": "أبو الحسين بن بنان",
+          "has_id": 313,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا عثمان سعيد بن سلام المغربي - بمكة ونيسابور - يقول قال أبو الحسين بن بنان",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عثمان سعيد بن سلام المغربي",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسين بن بنان",
+          "person_id": 457,
+          "canonical_name": "أبو الحسين بن بنان",
+          "has_id": 313,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعته يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر محمد بن عبد الله",
+          "person_id": 705,
+          "canonical_name": "أبو بكر محمد بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الزقاق",
+          "person_id": 625,
+          "canonical_name": "أبو بكر الزقاق",
+          "has_id": 375,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين بن بنان",
+          "has_id": NaN,
+          "person_id": 28,
+          "canonical_name": "ابن عمر",
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 457,
+          "canonical_name": "أبو الحسين بن بنان",
+          "has_id": 313,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين بن موسى يقول سمعت أبا بكر محمد بن عبد الله يقول سمعت الزقاق يقول سمعت أبا الحسين بن بنان",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر محمد بن عبد الله",
+          "person_id": 705,
+          "canonical_name": "أبو بكر محمد بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الزقاق",
+          "person_id": 625,
+          "canonical_name": "أبو بكر الزقاق",
+          "has_id": 375,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين بن بنان",
+          "has_id": NaN,
+          "person_id": 29,
+          "canonical_name": "ابن عيينة",
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 457,
+          "canonical_name": "أبو الحسين بن بنان",
+          "has_id": 313,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وكان يقول",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أبا سعيد الخزاز",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أبا سعيد الخزاز.",
+        "person_id": 801,
+        "canonical_name": "أبو سعيد الخراز",
+        "has_id": 123
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أبا عثمان سعيد بن سلام المغربي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا عثمان سعيد بن سلام المغربي - بمكة ونيسابور - يقول",
+      "person_id": 942,
+      "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+      "has_id": 156
+    },
+    {
+      "name": "الزقاق",
+      "relationship_type": "narrator",
+      "full_text": "سمعت الزقاق يقول",
+      "person_id": 625,
+      "canonical_name": "أبو بكر الزقاق",
+      "has_id": 375
+    }
+  ]
+}

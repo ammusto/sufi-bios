@@ -1,0 +1,81 @@
+{
+  "bio_id": "286",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد بن جعفر",
+          "person_id": 1868,
+          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن العباس",
+          "person_id": 1864,
+          "canonical_name": "عبد الله بن محمد بن العباس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سلمة ابن شبيب",
+          "person_id": 1614,
+          "canonical_name": "سلمة بن شبيب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل بن عاصم",
+          "person_id": 1638,
+          "canonical_name": "سهل بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن غنام",
+          "person_id": 2061,
+          "canonical_name": "علي بن غنام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو حفص الجزري",
+          "person_id": 758,
+          "canonical_name": "أبو حفص الجزري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد بن جعفر ثنا عبد الله بن محمد بن العباس ثنا سلمة ابن شبيب ثنا سهل بن عاصم ثنا علي بن غنام ثنا أبو حفص الجزري قال:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبو حفص الجزري",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أبو حفص الجزري قال:",
+      "person_id": 758,
+      "canonical_name": "أبو حفص الجزري",
+      "has_id": NaN
+    },
+    {
+      "name": "بعض إخوانه",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "recipient_of_letter",
+      "full_text": "كتب أبو الأبيض - وكان عابدا ورعا - كتابا إلى بعض إخوانه",
+      "person_id": 1334,
+      "canonical_name": "بعض إخوانه",
+      "has_id": NaN
+    }
+  ]
+}

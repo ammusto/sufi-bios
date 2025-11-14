@@ -1,0 +1,154 @@
+{
+  "bio_id": "122",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "312",
+    "full_text": "در سنه اثنی عشرة ثلثمائه.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "جریر",
+      "context": "nisba",
+      "full_text": "ابومحمد الجریری"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "و از شیخ الاسلام عبداللّه انصاری اناراللهّ برهانه و وسع علیه رضوانه این شنیدم:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جریری",
+          "person_id": 1035,
+          "canonical_name": "أبو محمد الجريري",
+          "has_id": 431,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلامگفت قدس اللّه روحه: کی جریری گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جریری",
+          "person_id": 1035,
+          "canonical_name": "أبو محمد الجريري",
+          "has_id": 431,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "جریری گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جریری",
+          "person_id": 1035,
+          "canonical_name": "أبو محمد الجريري",
+          "has_id": 431,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گوید:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جریری",
+          "person_id": 1035,
+          "canonical_name": "أبو محمد الجريري",
+          "has_id": 431,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و هم جریری گفته:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وگفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "الامام",
+          "person_id": 55,
+          "canonical_name": "الامام",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وانشدنا الامام لنفسه:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "جنید",
+        "relationship_type": "student_of",
+        "relationship_phrase": "از مهینان اصحاب جنید",
+        "full_text": "وی از مهینان اصحاب جنید٭ بوده",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "سهل تستری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "صحبت کرده بود با سهل تستری٭ و جز ازو",
+        "person_id": 1639,
+        "canonical_name": "سهل بن عبد الله التستري",
+        "has_id": 605
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام عبداللّه انصاری",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ الاسلامگفت قدس اللّه روحه: کی جریری گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "الامام",
+      "relationship_type": "narrator",
+      "full_text": "وانشدنا الامام لنفسه:",
+      "person_id": 55,
+      "canonical_name": "الامام",
+      "has_id": NaN
+    }
+  ]
+}

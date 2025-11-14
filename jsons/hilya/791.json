@@ -1,0 +1,385 @@
+{
+  "bio_id": "791",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا محمد بن حيان",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن يوسف",
+          "person_id": 2477,
+          "canonical_name": "محمد بن يوسف البناء",
+          "has_id": 791,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا محمد بن حيان يقول: كان محمد بن يوسف ممن يقال إنه مستجاب الدعوة وكان رئيسا في علم التصوف، صنف في هذا المعنى كتبا حسانا، رأيته وسمعت من كلامه قال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن جعفر بن هانئ",
+          "person_id": 1188,
+          "canonical_name": "أحمد بن جعفر بن هانئ",
+          "has_id": 444,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن يوسف",
+          "person_id": 2477,
+          "canonical_name": "محمد بن يوسف البناء",
+          "has_id": 791,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبي يقول سمعت أحمد بن جعفر بن هانئ يقول سمعت محمد بن يوسف يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن إسحاق",
+          "person_id": 1173,
+          "canonical_name": "أحمد بن إسحاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن يوسف بن معدان الصوفى",
+          "person_id": 2477,
+          "canonical_name": "محمد بن يوسف البناء",
+          "has_id": 791,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله ابن محمد السندي - الأسدي بطرسوس -",
+          "person_id": 1860,
+          "canonical_name": "عبد الله بن محمد السندي - الأسدي بطرسوس -",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن نمير",
+          "person_id": 1885,
+          "canonical_name": "عبد الله بن نمير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبيد الله",
+          "person_id": 1924,
+          "canonical_name": "عبيد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "نافع",
+          "person_id": 2576,
+          "canonical_name": "نافع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عمر",
+          "has_id": NaN,
+          "person_id": 28,
+          "canonical_name": "ابن عمر",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد بن إسحاق ثنا محمد بن يوسف بن معدان الصوفى ثنا عبد الله ابن محمد السندي - الأسدي بطرسوس - ثنا عبد الله بن نمير عن عبيد الله عن نافع عن ابن عمر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد",
+          "person_id": 1173,
+          "canonical_name": "أحمد بن إسحاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن يوسف",
+          "person_id": 2477,
+          "canonical_name": "محمد بن يوسف البناء",
+          "has_id": 791,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله",
+          "person_id": 1782,
+          "canonical_name": "عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن نمير",
+          "has_id": NaN,
+          "person_id": 36,
+          "canonical_name": "ابن نمير",
+          "subj_added": false
+        },
+        {
+          "name": "عبيد الله",
+          "person_id": 1924,
+          "canonical_name": "عبيد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "نافع",
+          "person_id": 2576,
+          "canonical_name": "نافع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عمر",
+          "has_id": NaN,
+          "person_id": 28,
+          "canonical_name": "ابن عمر",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد ثنا محمد بن يوسف ثنا عبد الله ثنا ابن نمير عن عبيد الله عن نافع عن ابن عمر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد",
+          "person_id": 1173,
+          "canonical_name": "أحمد بن إسحاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد",
+          "person_id": 2477,
+          "canonical_name": "محمد بن يوسف البناء",
+          "has_id": 791,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن سلام",
+          "person_id": 312,
+          "canonical_name": "إبراهيم بن سلام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يحيى بن سليم",
+          "person_id": 2645,
+          "canonical_name": "يحيى بن سليم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبيد الله",
+          "person_id": 1924,
+          "canonical_name": "عبيد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "نافع",
+          "person_id": 2576,
+          "canonical_name": "نافع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عمر",
+          "has_id": NaN,
+          "person_id": 28,
+          "canonical_name": "ابن عمر",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد ثنا محمد ثنا إبراهيم بن سلام ثنا يحيى بن سليم عن عبيد الله عن نافع عن ابن عمر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو مسلم عبد الرحمن بن محمد بن أحمد الواعظ",
+          "person_id": 1075,
+          "canonical_name": "أبو مسلم عبد الرحمن بن محمد بن أحمد الواعظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله محمد بن يوسف بن معدان",
+          "person_id": 920,
+          "canonical_name": "أبو عبد الله محمد بن يوسف بن معدان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو صالح محمد بن زنبور",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        },
+        {
+          "name": "الحارث بن عمير",
+          "person_id": 71,
+          "canonical_name": "أبو الحسن الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حميد",
+          "person_id": 1480,
+          "canonical_name": "حميد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أنس",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2477,
+          "canonical_name": "محمد بن يوسف البناء",
+          "has_id": 791,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو مسلم عبد الرحمن بن محمد بن أحمد الواعظ ثنا أبو عبد الله محمد بن يوسف بن معدان ثنا أبو صالح محمد بن زنبور ثنا الحارث بن عمير عن حميد عن أنس",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو مسلم عبد الرحمن بن محمد",
+          "person_id": 1075,
+          "canonical_name": "أبو مسلم عبد الرحمن بن محمد بن أحمد الواعظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن يوسف بن معدان",
+          "person_id": 2477,
+          "canonical_name": "محمد بن يوسف البناء",
+          "has_id": 791,
+          "subj_added": false
+        },
+        {
+          "name": "نصر بن علي الجهضمي",
+          "person_id": 2585,
+          "canonical_name": "نصر بن علي الجهضمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "النعمان بن عبد الله",
+          "person_id": 250,
+          "canonical_name": "النعمان بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو ظلال",
+          "person_id": 839,
+          "canonical_name": "أبو ظلال",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أنس",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو مسلم عبد الرحمن بن محمد ثنا محمد بن يوسف بن معدان ثنا نصر بن علي الجهضمي ثنا النعمان بن عبد الله ثنا أبو ظلال عن أنس",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا محمد بن حيان",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا محمد بن حيان يقول",
+      "person_id": 1050,
+      "canonical_name": "أبو محمد بن حيان",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد بن جعفر بن هانئ",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبي يقول سمعت أحمد بن جعفر بن هانئ يقول",
+      "person_id": 1188,
+      "canonical_name": "أحمد بن جعفر بن هانئ",
+      "has_id": 444
+    },
+    {
+      "name": "أحمد بن إسحاق",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا أحمد بن إسحاق ثنا محمد بن يوسف بن معدان الصوفى",
+      "person_id": 1173,
+      "canonical_name": "أحمد بن إسحاق",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا أحمد ثنا محمد بن يوسف",
+      "person_id": 1173,
+      "canonical_name": "أحمد بن إسحاق",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو مسلم عبد الرحمن بن محمد بن أحمد الواعظ",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا أبو مسلم عبد الرحمن بن محمد بن أحمد الواعظ ثنا أبو عبد الله محمد بن يوسف بن معدان",
+      "person_id": 1075,
+      "canonical_name": "أبو مسلم عبد الرحمن بن محمد بن أحمد الواعظ",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو مسلم عبد الرحمن بن محمد",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا أبو مسلم عبد الرحمن بن محمد ثنا محمد بن يوسف بن معدان",
+      "person_id": 1075,
+      "canonical_name": "أبو مسلم عبد الرحمن بن محمد بن أحمد الواعظ",
+      "has_id": NaN
+    }
+  ]
+}

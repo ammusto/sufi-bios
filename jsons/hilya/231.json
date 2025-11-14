@@ -1,0 +1,161 @@
+{
+  "bio_id": "231",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن شاذان الرازي",
+          "person_id": 710,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد اعزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر بن يزدانيار",
+          "person_id": 616,
+          "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
+          "has_id": 231,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين بن موسى يقول سمعت محمد بن شاذان الرازي يقول سمعت أبا بكر بن يزدانيار يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر بن شاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن يزدانيار",
+          "has_id": NaN,
+          "person_id": 13,
+          "canonical_name": "ابن أبي شيخ",
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 616,
+          "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
+          "has_id": 231,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أبا بكر بن شاذان يقول سمعت ابن يزدانيار يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن عبد الله بن شاذان الرازي",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين بن علي بن يزدانيار الصوفي",
+          "person_id": 616,
+          "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
+          "has_id": 231,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "ما أخبرني محمد بن عبد الله بن شاذان الرازي - في كتابه وقد رأيته - قال: حدثني الحسين بن علي بن يزدانيار الصوفي",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "محمد بن يونس الكديمي",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا محمد بن يونس الكديمي",
+        "person_id": 2479,
+        "canonical_name": "محمد بن يونس الكديمي",
+        "has_id": NaN
+      }
+    ],
+    "students": [
+      {
+        "name": "محمد بن شاذان الرازي",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "سمعت",
+        "full_text": "سمعت محمد بن شاذان الرازي يقول سمعت أبا بكر بن يزدانيار يقول",
+        "person_id": 710,
+        "canonical_name": "أبو بكر محمد بن عبد الله بن عبد اعزيز بن شاذان الرازي",
+        "has_id": NaN
+      },
+      {
+        "name": "أبا بكر بن شاذان",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "سمعت",
+        "full_text": "سمعت أبا بكر بن شاذان يقول سمعت ابن يزدانيار يقول",
+        "person_id": 711,
+        "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+        "has_id": NaN
+      },
+      {
+        "name": "محمد بن عبد الله بن شاذان الرازي",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "حدثني",
+        "full_text": "قال: حدثني الحسين بن علي بن يزدانيار الصوفي",
+        "person_id": 711,
+        "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+        "has_id": NaN
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "محمد بن شاذان الرازي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن شاذان الرازي يقول سمعت أبا بكر بن يزدانيار يقول",
+      "person_id": 710,
+      "canonical_name": "أبو بكر محمد بن عبد الله بن عبد اعزيز بن شاذان الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا بكر بن شاذان",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر بن شاذان يقول سمعت ابن يزدانيار يقول",
+      "person_id": 711,
+      "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن عبد الله بن شاذان الرازي",
+      "relationship_type": "narrator",
+      "full_text": "ما أخبرني محمد بن عبد الله بن شاذان الرازي - في كتابه وقد رأيته - قال: حدثني الحسين بن علي بن يزدانيار الصوفي",
+      "person_id": 711,
+      "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+      "has_id": NaN
+    }
+  ]
+}

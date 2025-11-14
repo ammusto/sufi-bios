@@ -1,0 +1,61 @@
+{
+  "bio_id": "459",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو الحسن محمد بن محمد بن عبيد الله الصوفي",
+          "person_id": 439,
+          "canonical_name": "أبو الحسن محمد بن محمد بن عبيد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عبد الله محمد بن محمد",
+          "person_id": 919,
+          "canonical_name": "أبو عبد الله محمد بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خيرا النساج الصوفى",
+          "person_id": 1510,
+          "canonical_name": "خير النساج",
+          "has_id": 564,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو الحسن محمد بن محمد بن عبيد الله الصوفي قال سمعت أخي أبا عبد الله محمد بن محمد يقول سمعت خيرا النساج الصوفى يقول:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "خيرا النساج الصوفى",
+        "relationship_type": "peer",
+        "relationship_phrase": "كنت مع",
+        "full_text": "كنت مع أمية ابن الصامت الصوفي",
+        "person_id": 1510,
+        "canonical_name": "خير النساج",
+        "has_id": 564
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "خيرا النساج الصوفى",
+      "relationship_type": "narrator",
+      "full_text": "سمعت خيرا النساج الصوفى يقول",
+      "person_id": 1510,
+      "canonical_name": "خير النساج",
+      "has_id": 564
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "bio_id": "53",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "نهاوند",
+      "context": "nisba",
+      "full_text": "نهاوندی"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "شیخ عباس فقیر هروی",
+          "person_id": 1718,
+          "canonical_name": "عباس الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شیخ بوالعباس نهاوندی",
+          "person_id": 499,
+          "canonical_name": "أبو العباس أحمد بن محمد بن الفضل النهاوندي",
+          "has_id": 53,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "القصه شیخ الاسلام گفت که شیخ عباس فقیر هروی مرا گفت: که شیخ بوالعباس نهاوندی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلامگفت که",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "جعفر خلدی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد جعفر خلدی",
+        "person_id": 1405,
+        "canonical_name": "جعفر بن محمد الخلدي",
+        "has_id": 495
+      },
+      {
+        "name": "شیخ عمو",
+        "relationship_type": "student_of",
+        "relationship_phrase": "پیر",
+        "full_text": "پیر شیخ عمو و عباس",
+        "person_id": 1683,
+        "canonical_name": "شيخ عمو",
+        "has_id": 717
+      },
+      {
+        "name": "عباس",
+        "relationship_type": "student_of",
+        "relationship_phrase": "پیر",
+        "full_text": "پیر شیخ عمو و عباس",
+        "person_id": 1718,
+        "canonical_name": "عباس الهروي",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت که",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ عباس فقیر هروی",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ عباس فقیر هروی مرا گفت",
+      "person_id": 1718,
+      "canonical_name": "عباس الهروي",
+      "has_id": NaN
+    }
+  ]
+}

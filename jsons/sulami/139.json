@@ -1,0 +1,331 @@
+{
+  "bio_id": "139",
+  "source": "sulami",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "البصرة",
+      "context": "nisba",
+      "full_text": "الْبَصْرِيّ"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله بن سَالم",
+          "person_id": 896,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّد بن عبد الله الرَّازِيّ يَقُول سَأَلَ رجل أَبَا عبد الله بن سَالم وَأَنا أسمع",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله بن سَالم",
+          "person_id": 896,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا عبد الله بن سَالم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله بن سَالم",
+          "person_id": 896,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا عبد الله بن سَالم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله بن سَالم",
+          "person_id": 896,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت أَبَا عبد الله بن سَالم وَيَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله بن سَالم",
+          "person_id": 896,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت ابْن سَالم وَسُئِلَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله بن سَالم",
+          "person_id": 896,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت ابْن سَالم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله بن سَالم",
+          "person_id": 896,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت ابْن سَالم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله بن سَالم",
+          "person_id": 896,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت ابْن سَالم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله بن سَالم",
+          "person_id": 896,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت ابْن سَالم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله بن سَالم",
+          "person_id": 896,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت ابْن سَالم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله بن سَالم",
+          "person_id": 896,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت ابْن سَالم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله بن سَالم",
+          "person_id": 896,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت ابْن سَالم يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله بن سَالم",
+          "person_id": 896,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت ابْن سَالم يَقُول",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "سهل بن عبد الله التسترِي",
+        "relationship_type": "student_of",
+        "relationship_phrase": "أستاذه",
+        "full_text": "طريقته طَريقَة أستاذه سهل",
+        "person_id": 1639,
+        "canonical_name": "سهل بن عبد الله التستري",
+        "has_id": 605
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "سهل بن عبد الله التسترِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صاحب",
+        "full_text": "صَاحب سهل بن عبد الله التسترِي",
+        "person_id": 1639,
+        "canonical_name": "سهل بن عبد الله التستري",
+        "has_id": 605
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "مُحَمَّد بن عبد الله الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مُحَمَّد بن عبد الله الرَّازِيّ يَقُول",
+      "person_id": 2380,
+      "canonical_name": "محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "questioner",
+      "full_text": "سَأَلَ رجل أَبَا عبد الله بن سَالم",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

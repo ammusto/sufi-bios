@@ -1,0 +1,141 @@
+{
+  "bio_id": "389",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "البادية",
+      "context": "visited",
+      "full_text": "كنت جالسا على بركة بالبادية فيها ماء"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الواحد بن بكر",
+          "person_id": 1908,
+          "canonical_name": "عبد الواحد بن بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد العزيز",
+          "person_id": 2374,
+          "canonical_name": "محمد بن عبد العزيز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله الحضرمي",
+          "person_id": 862,
+          "canonical_name": "أبو عبد الله الحضرمي",
+          "has_id": 411,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 726,
+          "canonical_name": "أبو جعفر الحداد",
+          "has_id": 389,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر عبد الواحد بن بكر ثنا محمد بن عبد العزيز قال حدثني أبو عبد الله الحضرمي قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن النعمان",
+          "person_id": 1170,
+          "canonical_name": "أحمد بن النعمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو جعفر الحداد",
+          "person_id": 726,
+          "canonical_name": "أبو جعفر الحداد",
+          "has_id": 389,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحكى عنه أحمد بن النعمان أنه قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الحسين العلوي",
+          "person_id": 448,
+          "canonical_name": "أبو الحسين العلوي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو جعفر",
+          "person_id": 726,
+          "canonical_name": "أبو جعفر الحداد",
+          "has_id": 389,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحكى عنه أبو الحسين العلوي، قال قال أبو جعفر",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أبا تراب",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أبا تراب وأكابر العباد.",
+        "person_id": 721,
+        "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+        "has_id": 388
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أبو عبد الله الحضرمي",
+      "relationship_type": "narrator",
+      "full_text": "قال حدثني أبو عبد الله الحضرمي",
+      "person_id": 862,
+      "canonical_name": "أبو عبد الله الحضرمي",
+      "has_id": 411
+    },
+    {
+      "name": "أحمد بن النعمان",
+      "relationship_type": "narrator",
+      "full_text": "وحكى عنه أحمد بن النعمان",
+      "person_id": 1170,
+      "canonical_name": "أحمد بن النعمان",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو الحسين العلوي",
+      "relationship_type": "narrator",
+      "full_text": "وحكى عنه أبو الحسين العلوي",
+      "person_id": 448,
+      "canonical_name": "أبو الحسين العلوي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو تراب",
+      "relationship_type": "questioner",
+      "context": "interlocutor",
+      "full_text": "فانتهى إلي أبو تراب فقال لي: ما جلوسك هاهنا؟",
+      "person_id": 721,
+      "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+      "has_id": 388
+    }
+  ]
+}

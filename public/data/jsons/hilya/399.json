@@ -1,0 +1,53 @@
+{
+  "bio_id": "399",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أبا سالم الدباغ",
+          "person_id": 794,
+          "canonical_name": "أبو سالم الدباغ",
+          "has_id": 399,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت جعفر بن محمد بن نصر في كتابه قال سمعت أبا سالم الدباغ يقول:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "جعفر بن محمد بن نصر",
+      "relationship_type": "narrator",
+      "full_text": "سمعت جعفر بن محمد بن نصر في كتابه قال سمعت أبا سالم الدباغ يقول:",
+      "person_id": 1405,
+      "canonical_name": "جعفر بن محمد الخلدي",
+      "has_id": 495
+    },
+    {
+      "name": "النبي ﷺ",
+      "relationship_type": "interlocutor",
+      "context": "في المنام",
+      "full_text": "رأيت النبي ﷺ في المنام",
+      "person_id": 246,
+      "canonical_name": "النبي",
+      "has_id": NaN
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "bio_id": "200",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "lived",
+      "full_text": "و هومن اجلة مشایخ بغداد:"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "احمد بن ابراهیم المسوحی",
+          "person_id": 1172,
+          "canonical_name": "أحمد بن إبراهيم المسوحي",
+          "has_id": 200,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال احمد بن ابراهیم المسوحی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "احمد بن ابراهیم المسوحی",
+          "person_id": 1172,
+          "canonical_name": "أحمد بن إبراهيم المسوحي",
+          "has_id": 200,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و اسند الحدیث.",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": []
+}

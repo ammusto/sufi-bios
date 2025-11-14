@@ -1,0 +1,151 @@
+{
+  "bio_id": "764",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "تكريت",
+      "context": "visited",
+      "full_text": "حتى بلغنا ما بين تكريت وموصل"
+    },
+    {
+      "place": "موصل",
+      "context": "visited",
+      "full_text": "حتى بلغنا ما بين تكريت وموصل"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1404,
+          "canonical_name": "جعفر بن محمد",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2216,
+          "canonical_name": "محمد السمين",
+          "has_id": 764,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "أخبر جعفر بن محمد في كتابه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "محمد السمين",
+          "person_id": 2216,
+          "canonical_name": "محمد السمين",
+          "has_id": 764,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحدثني عنه محمد بن إبراهيم قال سمعت الجنيد بن محمد يقول قال محمد السمين",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسن البغدادي",
+          "person_id": 2226,
+          "canonical_name": "محمد بن الحسن البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد الله الفرغاني",
+          "person_id": 2383,
+          "canonical_name": "محمد بن عبد الله الفرغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مؤملا المغازلى",
+          "person_id": 2571,
+          "canonical_name": "مؤملا المغازلى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2216,
+          "canonical_name": "محمد السمين",
+          "has_id": 764,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين بن موسى يقول سمعت محمد بن الحسن البغدادي يقول سمعت محمد بن عبد الله الفرغاني يقول سمعت مؤملا المغازلى يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "مؤملا المغازلى",
+        "relationship_type": "peer",
+        "relationship_phrase": "كنت أصحب",
+        "full_text": "كنت أصحب محمد السمين فسافرت معه حتى بلغنا ما بين تكريت وموصل",
+        "person_id": 2571,
+        "canonical_name": "مؤملا المغازلى",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "جعفر بن محمد",
+      "relationship_type": "narrator",
+      "full_text": "أخبر جعفر بن محمد في كتابه",
+      "person_id": 1404,
+      "canonical_name": "جعفر بن محمد",
+      "has_id": 495
+    },
+    {
+      "name": "الجنيد بن محمد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت الجنيد بن محمد يقول",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    },
+    {
+      "name": "مؤملا المغازلى",
+      "relationship_type": "narrator",
+      "full_text": "سمعت مؤملا المغازلى يقول",
+      "person_id": 2571,
+      "canonical_name": "مؤملا المغازلى",
+      "has_id": NaN
+    }
+  ]
+}

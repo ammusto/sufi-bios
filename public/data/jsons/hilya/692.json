@@ -1,0 +1,199 @@
+{
+  "bio_id": "692",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "فارس",
+      "context": "nisba",
+      "full_text": "الفارسي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا القاسم الهاشمي",
+          "person_id": 544,
+          "canonical_name": "أبو القاسم الهاشمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسين بن هند الفارسي",
+          "person_id": 458,
+          "canonical_name": "أبو الحسين بن هند الفارسي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا القاسم الهاشمي يقول قال أبو الحسين بن هند الفارسي:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين بن هند",
+          "has_id": NaN,
+          "person_id": 98,
+          "canonical_name": "الحسن بن علي بن عفان",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أبا الحسين بن هند يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين ابن هند",
+          "has_id": NaN,
+          "person_id": 99,
+          "canonical_name": "الحسن بن عمرو السبيعي",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت محمد بن إبراهيم يقول سمعت أبا الحسين ابن هند يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين ابن هند",
+          "has_id": NaN,
+          "person_id": 100,
+          "canonical_name": "الحسن بن عيسى الدمشقي",
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وكان يقول:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين ابن هند",
+          "has_id": NaN,
+          "person_id": 101,
+          "canonical_name": "أبو الحسين ابن هند",
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال:",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "عمرا المكى",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب عمرا المكى والجنيد وجعفر الحذاء.",
+        "person_id": 2126,
+        "canonical_name": "عمرو بن عثمان المكي",
+        "has_id": 716
+      },
+      {
+        "name": "الجنيد",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب عمرا المكى والجنيد وجعفر الحذاء.",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "جعفر الحذاء",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب عمرا المكى والجنيد وجعفر الحذاء.",
+        "person_id": 727,
+        "canonical_name": "أبو جعفر الحذاء",
+        "has_id": 494
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أبا القاسم الهاشمي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا القاسم الهاشمي يقول",
+      "person_id": 544,
+      "canonical_name": "أبو القاسم الهاشمي",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن الحسين",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن الحسين يقول",
+      "person_id": 845,
+      "canonical_name": "أبو عبد الرحمن السلمي",
+      "has_id": 133
+    },
+    {
+      "name": "محمد بن إبراهيم",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن إبراهيم يقول",
+      "person_id": 2269,
+      "canonical_name": "محمد بن إبراهيم",
+      "has_id": NaN
+    }
+  ]
+}

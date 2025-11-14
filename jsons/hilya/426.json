@@ -1,0 +1,71 @@
+{
+  "bio_id": "426",
+  "source": "hilya",
+  "death_date": {
+    "year_hijri": "348",
+    "full_text": "توفي سنة ثمان وأربعين وثلاثمائة.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "نيسابور",
+      "context": "nisba",
+      "full_text": "نيسابوري الأصل"
+    },
+    {
+      "place": "مكة",
+      "context": "lived",
+      "full_text": "سكن مكة"
+    },
+    {
+      "place": "الحرم",
+      "context": "mentioned",
+      "full_text": "لم يتغوط في الحرم أربعين سنة وهو مقيم بها"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا بكر الرازي",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي إسحاق المزكي",
+          "person_id": 572,
+          "canonical_name": "أبو إسحاق المزكي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عمرو الزجاجي",
+          "person_id": 1011,
+          "canonical_name": "أبو عمرو الزجاجي",
+          "has_id": 426,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا بكر الرازي - ببغداد - يقول: قدم مع أبي إسحاق المزكي من مكة فسمعته يقول سمعت أبا عمرو الزجاجي يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبي إسحاق المزكي",
+      "relationship_type": "narrator",
+      "full_text": "قدم مع أبي إسحاق المزكي من مكة فسمعته يقول سمعت أبا عمرو الزجاجي يقول",
+      "person_id": 572,
+      "canonical_name": "أبو إسحاق المزكي",
+      "has_id": NaN
+    }
+  ]
+}

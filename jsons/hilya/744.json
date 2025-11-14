@@ -1,0 +1,58 @@
+{
+  "bio_id": "744",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1871,
+          "canonical_name": "عبد الله بن محمد بن سوار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن سوار",
+          "person_id": 1871,
+          "canonical_name": "عبد الله بن محمد بن سوار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بلال الأشعري",
+          "person_id": 718,
+          "canonical_name": "أبو بلال الأشعري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن حوشب",
+          "person_id": 2545,
+          "canonical_name": "منصور بن حوشب",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد ثنا عبد الله بن محمد بن سوار ثنا أبو بلال الأشعري ثنا منصور بن حوشب",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "منصور بن حوشب",
+      "relationship_type": "narrator",
+      "full_text": "ثنا منصور بن حوشب",
+      "person_id": 2545,
+      "canonical_name": "منصور بن حوشب",
+      "has_id": NaN
+    }
+  ]
+}

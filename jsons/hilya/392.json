@@ -1,0 +1,112 @@
+{
+  "bio_id": "392",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "الحرم",
+      "context": "lived",
+      "full_text": "جاور الحرم سنين"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الواحد بن أحمد الهاشمي",
+          "person_id": 1906,
+          "canonical_name": "عبد الواحد بن أحمد الهاشمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله بن خفيف",
+          "person_id": 22,
+          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 26,
+          "subj_added": false
+        },
+        {
+          "name": "أبو جعفر الكتاني",
+          "person_id": 738,
+          "canonical_name": "أبو جعفر الكتاني",
+          "has_id": 392,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت عبد الواحد بن أحمد الهاشمي يحكي عن أبي عبد الله بن خفيف وأخبرنيه - في كتابه - قال: سألت أبا جعفر الكتاني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الواحد بن بكر",
+          "person_id": 1908,
+          "canonical_name": "عبد الواحد بن بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "همام بن الحارث",
+          "person_id": 2606,
+          "canonical_name": "همام بن الحارث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الكتاني",
+          "person_id": 738,
+          "canonical_name": "أبو جعفر الكتاني",
+          "has_id": 392,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحدثني عبد الواحد بن بكر قال سمعت همام بن الحارث يقول سمعت الكتاني يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبو عبد الله بن خفيف",
+      "relationship_type": "narrator",
+      "context": "questioner",
+      "full_text": "قال: سألت أبا جعفر الكتاني",
+      "person_id": 22,
+      "canonical_name": "أبو عبد الله بن خفيف",
+      "has_id": 26
+    },
+    {
+      "name": "همام بن الحارث",
+      "relationship_type": "narrator",
+      "full_text": "سمعت الكتاني يقول",
+      "person_id": 2606,
+      "canonical_name": "همام بن الحارث",
+      "has_id": NaN
+    },
+    {
+      "name": "بعض أصحابه",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "visitor",
+      "full_text": "فخرج بعض أصحابه زائرا",
+      "person_id": 1339,
+      "canonical_name": "بعض أصحابه",
+      "has_id": NaN
+    },
+    {
+      "name": "المؤذنون والمجاورن",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "helpers",
+      "full_text": "فتعرف المؤذنون والمجاورن حاله فصعدوا غرفته",
+      "person_id": 244,
+      "canonical_name": "المؤذنون والمجاورن",
+      "has_id": NaN
+    }
+  ]
+}

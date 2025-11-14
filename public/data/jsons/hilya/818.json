@@ -1,0 +1,64 @@
+{
+  "bio_id": "818",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا محمد بن حيان",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا محمد بن حيان يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "سفيان بن عيينة",
+        "relationship_type": "student_of",
+        "relationship_phrase": "روى عن",
+        "full_text": "روى عن سفيان بن عيينة ووكيع.",
+        "person_id": 1608,
+        "canonical_name": "سفيان بن عيينة",
+        "has_id": NaN
+      },
+      {
+        "name": "وكيع",
+        "relationship_type": "student_of",
+        "relationship_phrase": "روى عن",
+        "full_text": "روى عن سفيان بن عيينة ووكيع.",
+        "person_id": 2618,
+        "canonical_name": "وكيع بن الجراح",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا محمد بن حيان",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا محمد بن حيان يقول",
+      "person_id": 1050,
+      "canonical_name": "أبو محمد بن حيان",
+      "has_id": NaN
+    },
+    {
+      "name": "امرأة",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "مررت يوما بامرأة تحمل جرابا ثقل عليها حمله فحملته معها",
+      "person_id": 261,
+      "canonical_name": "امرأة",
+      "has_id": NaN
+    }
+  ]
+}

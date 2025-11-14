@@ -1,0 +1,158 @@
+{
+  "bio_id": "409",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "البصرة",
+      "context": "nisba",
+      "full_text": "البصري"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو عبد الله",
+          "person_id": 852,
+          "canonical_name": "أبو عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "كان أبو عبد الله يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو عبد الله",
+          "person_id": 852,
+          "canonical_name": "أبو عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وكان يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد الله الرازي",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت محمد بن عبد الله الرازي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد الله الرازي",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وكان يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد الله الرازي",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "سهل",
+        "relationship_type": "student_of",
+        "relationship_phrase": "أستاده",
+        "full_text": "سلك مسلك أستاده سهل وابنه أبي الحسن.",
+        "person_id": 1639,
+        "canonical_name": "سهل بن عبد الله التستري",
+        "has_id": 605
+      },
+      {
+        "name": "أبي الحسن",
+        "relationship_type": "student_of",
+        "relationship_phrase": "أستاده",
+        "full_text": "سلك مسلك أستاده سهل وابنه أبي الحسن.",
+        "person_id": 6,
+        "canonical_name": "أبو الحسن",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "سهل بن عبد الله التستري",
+        "relationship_type": "peer",
+        "relationship_phrase": "صاحب",
+        "full_text": "صاحب سهل بن عبد الله التستري",
+        "person_id": 1639,
+        "canonical_name": "سهل بن عبد الله التستري",
+        "has_id": 605
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "محمد بن عبد الله الرازي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن عبد الله الرازي يقول",
+      "person_id": 2380,
+      "canonical_name": "محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "questioner",
+      "full_text": "سأل رجل أبا عبد الله بن سالم وأنا أسمع: أنحن مستعبدون بالكسب أو بالتوكل؟",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

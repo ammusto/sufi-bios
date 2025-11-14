@@ -1,0 +1,117 @@
+{
+  "bio_id": "681",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "الكوفة",
+      "context": "nisba",
+      "full_text": "الكوفي"
+    },
+    {
+      "place": "الكوفة",
+      "context": "mentioned",
+      "full_text": "كان فتى من أهل الكوفة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1864,
+          "canonical_name": "عبد الله بن محمد بن العباس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن العباس",
+          "person_id": 1864,
+          "canonical_name": "عبد الله بن محمد بن العباس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سلمة بن شبيب",
+          "person_id": 1614,
+          "canonical_name": "سلمة بن شبيب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن الجنيد",
+          "person_id": 292,
+          "canonical_name": "إبراهيم بن الجنيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خلف بن تميم",
+          "person_id": 1504,
+          "canonical_name": "خلف بن تميم",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد ثنا عبد الله بن محمد بن العباس ثنا سلمة بن شبيب ثنا إبراهيم بن الجنيد عن خلف بن تميم قال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "العجوز",
+          "person_id": 186,
+          "canonical_name": "العجوز",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قالت العجوز:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "خلف بن تميم",
+      "relationship_type": "narrator",
+      "full_text": "عن خلف بن تميم قال:",
+      "person_id": 1504,
+      "canonical_name": "خلف بن تميم",
+      "has_id": NaN
+    },
+    {
+      "name": "العجوز",
+      "relationship_type": "interlocutor",
+      "context": "أم عرفجة",
+      "full_text": "قالت العجوز: فلما كان من الليل وأنا في منامي، فإذا أنا برجال قد وقفوا علي فقالوا: يا أم عرفجة لم أذنت لامامنا الليلة؟.",
+      "person_id": 186,
+      "canonical_name": "العجوز",
+      "has_id": NaN
+    },
+    {
+      "name": "رجال",
+      "relationship_type": "questioner",
+      "context": "في المنام",
+      "full_text": "فإذا أنا برجال قد وقفوا علي فقالوا: يا أم عرفجة لم أذنت لامامنا الليلة؟.",
+      "person_id": 1529,
+      "canonical_name": "رجال",
+      "has_id": NaN
+    },
+    {
+      "name": "بعض إخوانه",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "المستزير",
+      "full_text": "فاستزاره بعض إخوانه ذات ليلة",
+      "person_id": 1334,
+      "canonical_name": "بعض إخوانه",
+      "has_id": NaN
+    }
+  ]
+}

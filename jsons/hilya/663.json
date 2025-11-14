@@ -1,0 +1,58 @@
+{
+  "bio_id": "663",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد بن محمد البغدادي",
+          "person_id": 2315,
+          "canonical_name": "محمد بن أحمد بن محمد البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن عبد الله الدينوري",
+          "person_id": 1402,
+          "canonical_name": "جعفر بن عبد الله الدينوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا حمزة",
+          "person_id": 763,
+          "canonical_name": "أبو حمزة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن دينار الجعفي",
+          "has_id": NaN,
+          "person_id": 97,
+          "canonical_name": "الحسن بن علي بن شهريار",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن أحمد بن محمد البغدادي قال أخبرني جعفر بن عبد الله الدينوري قال سمعت أبا حمزة يقول قلت لابن دينار الجعفي",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا حمزة",
+      "relationship_type": "questioner",
+      "full_text": "قلت لابن دينار الجعفي: أوصني",
+      "person_id": 763,
+      "canonical_name": "أبو حمزة",
+      "has_id": NaN
+    }
+  ]
+}

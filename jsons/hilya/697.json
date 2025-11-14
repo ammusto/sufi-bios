@@ -1,0 +1,304 @@
+{
+  "bio_id": "697",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "أصبهان",
+      "context": "nisba",
+      "full_text": "الأصبهاني"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا حامد أحمد بن رستم",
+          "person_id": 753,
+          "canonical_name": "أبو حامد أحمد بن رستم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سمعت أبا حامد أحمد بن رستم يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عبد الله أحمد بن إسحاق الشعار",
+          "person_id": 892,
+          "canonical_name": "أبو عبد الله أحمد بن إسحاق الشعار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن سهل",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا عبد الله أحمد بن إسحاق الشعار يقول سمعت علي بن سهل يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا حامد",
+          "person_id": 753,
+          "canonical_name": "أبو حامد أحمد بن رستم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن سهل",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وسمعت أبا حامد وأبا جعفر المحلاوي يقولان - وكانا من أصحابه - قالا قال علي بن سهل:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا جعفر المحلاوي",
+          "person_id": 740,
+          "canonical_name": "أبو جعفر المحلاوي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن سهل",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وسمعت أبا حامد وأبا جعفر المحلاوي يقولان - وكانا من أصحابه - قالا قال علي بن سهل:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "علي بن هارون",
+          "person_id": 435,
+          "canonical_name": "أبو الحسن علي بن هارون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "فقد حدثنا علي بن هارون - صاحب أبي القاسم الجنيد بن محمد - قال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن سهل",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبي وعنده أصحاب علي بن سهل أنه كان يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سليمان بن أحمد",
+          "person_id": 1626,
+          "canonical_name": "سليمان بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن سهل الصوفي الأصبهاني",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": false
+        },
+        {
+          "name": "ابن مهدي",
+          "has_id": NaN,
+          "person_id": 102,
+          "canonical_name": "الحسن بن محمد الطنافسي",
+          "subj_added": false
+        },
+        {
+          "name": "علي بن صالح - صاحب المصلى -",
+          "person_id": 2038,
+          "canonical_name": "علي بن صالح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "القاسم بن معن",
+          "person_id": 210,
+          "canonical_name": "القاسم بن معن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حميد الطويل",
+          "person_id": 1481,
+          "canonical_name": "حميد الأعرج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أنس بن مالك",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا سليمان بن أحمد ثنا علي بن سهل الصوفي الأصبهاني ثنا ابن مهدي ثنا علي بن صالح - صاحب المصلى - ثنا القاسم بن معن عن حميد الطويل عن أنس بن مالك.",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أبا حامد",
+        "relationship_type": "peer",
+        "relationship_phrase": "من أصحابه",
+        "full_text": "وكانا من أصحابه",
+        "person_id": 753,
+        "canonical_name": "أبو حامد أحمد بن رستم",
+        "has_id": NaN
+      },
+      {
+        "name": "أبا جعفر المحلاوي",
+        "relationship_type": "peer",
+        "relationship_phrase": "من أصحابه",
+        "full_text": "وكانا من أصحابه",
+        "person_id": 740,
+        "canonical_name": "أبو جعفر المحلاوي",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أبا حامد أحمد بن رستم",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا حامد أحمد بن رستم يقول:",
+      "person_id": 753,
+      "canonical_name": "أبو حامد أحمد بن رستم",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا عبد الله أحمد بن إسحاق الشعار",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا عبد الله أحمد بن إسحاق الشعار يقول",
+      "person_id": 892,
+      "canonical_name": "أبو عبد الله أحمد بن إسحاق الشعار",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا حامد",
+      "relationship_type": "narrator",
+      "full_text": "وسمعت أبا حامد وأبا جعفر المحلاوي يقولان - وكانا من أصحابه - قالا قال علي بن سهل:",
+      "person_id": 753,
+      "canonical_name": "أبو حامد أحمد بن رستم",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا جعفر المحلاوي",
+      "relationship_type": "narrator",
+      "full_text": "وسمعت أبا حامد وأبا جعفر المحلاوي يقولان - وكانا من أصحابه - قالا قال علي بن سهل:",
+      "person_id": 740,
+      "canonical_name": "أبو جعفر المحلاوي",
+      "has_id": NaN
+    },
+    {
+      "name": "علي بن هارون",
+      "relationship_type": "narrator",
+      "full_text": "فقد حدثنا علي بن هارون - صاحب أبي القاسم الجنيد بن محمد - قال:",
+      "person_id": 435,
+      "canonical_name": "أبو الحسن علي بن هارون",
+      "has_id": NaN
+    },
+    {
+      "name": "سليمان بن أحمد",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا سليمان بن أحمد",
+      "person_id": 1626,
+      "canonical_name": "سليمان بن أحمد",
+      "has_id": NaN
+    },
+    {
+      "name": "أبي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبي وعنده أصحاب علي بن سهل أنه كان يقول:",
+      "person_id": 585,
+      "canonical_name": "أبو أبي نعيم الأصفهاني",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو القاسم الجنيد بن محمد",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "مكتوب إليه",
+      "full_text": "قرأت ما كتب به علي بن سهل إلى الجنيد",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    },
+    {
+      "name": "أصحاب علي بن سهل",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "حضور",
+      "full_text": "وعنده أصحاب علي بن سهل",
+      "person_id": 1300,
+      "canonical_name": "أصحاب علي بن سهل",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن يوسف",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "فقيل لمحمد بن يوسف",
+      "person_id": 2475,
+      "canonical_name": "محمد بن يوسف",
+      "has_id": NaN
+    }
+  ]
+}

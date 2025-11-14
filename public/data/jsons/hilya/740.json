@@ -1,0 +1,208 @@
+{
+  "bio_id": "740",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "الديلم",
+      "context": "nisba",
+      "full_text": "الديلمي"
+    },
+    {
+      "place": "بخارى",
+      "context": "mentioned",
+      "full_text": "قدم علينا بخارى"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن عمر",
+          "person_id": 1259,
+          "canonical_name": "أحمد بن محمد بن عمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر بن سفيان",
+          "person_id": 671,
+          "canonical_name": "أبو بكر بن سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 2239,
+          "canonical_name": "محمد بن الحسين البرجلاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "قادم الديلمي العابد",
+          "person_id": 2175,
+          "canonical_name": "قادم الديلمي",
+          "has_id": 740,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا أحمد بن محمد بن عمر ثنا أبو بكر بن سفيان حدثني محمد بن الحسين حدثني قادم الديلمي العابد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو بكر الآجري",
+          "person_id": 689,
+          "canonical_name": "أبو بكر محمد بن الحسين الآجري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1855,
+          "canonical_name": "عبد الله بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن الجنيد",
+          "person_id": 292,
+          "canonical_name": "إبراهيم بن الجنيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن همام",
+          "person_id": 1281,
+          "canonical_name": "أحمد بن همام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 2239,
+          "canonical_name": "محمد بن الحسين البرجلاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "قادم الديلمي",
+          "person_id": 2175,
+          "canonical_name": "قادم الديلمي",
+          "has_id": 740,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو بكر الآجري ثنا عبد الله بن محمد ثنا إبراهيم بن الجنيد حدثني أحمد بن همام ثنا محمد بن الحسين حدثني قادم الديلمي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "قادم الديلمي",
+          "person_id": 2175,
+          "canonical_name": "قادم الديلمي",
+          "has_id": 740,
+          "subj_added": false
+        },
+        {
+          "name": "عابد قدم علينا بخارى يكنى أبا الحسن",
+          "person_id": 1705,
+          "canonical_name": "عابد قدم علينا بخارى يكنى أبو الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قال: حدثني عابد قدم علينا بخارى يكنى أبا الحسن",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عابد قدم علينا بخارى يكنى أبا الحسن",
+          "person_id": 1705,
+          "canonical_name": "عابد قدم علينا بخارى يكنى أبو الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "راهب",
+          "person_id": 1524,
+          "canonical_name": "راهب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2175,
+          "canonical_name": "قادم الديلمي",
+          "has_id": 740,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قال قال لي راهب يوما",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "الفضيل بن عياض",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب الفضيل بن عياض وأقرانه",
+        "person_id": 200,
+        "canonical_name": "الفضيل بن عياض",
+        "has_id": 243
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "محمد بن الحسين",
+      "relationship_type": "narrator",
+      "full_text": "حدثني محمد بن الحسين",
+      "person_id": 845,
+      "canonical_name": "أبو عبد الرحمن السلمي",
+      "has_id": 133
+    },
+    {
+      "name": "الفضيل بن عياض",
+      "relationship_type": "interlocutor",
+      "full_text": "قلت للفضيل بن عياض",
+      "person_id": 200,
+      "canonical_name": "الفضيل بن عياض",
+      "has_id": 243
+    },
+    {
+      "name": "عابد قدم علينا بخارى يكنى أبا الحسن",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "حدثني عابد قدم علينا بخارى يكنى أبا الحسن",
+      "person_id": 1705,
+      "canonical_name": "عابد قدم علينا بخارى يكنى أبو الحسن",
+      "has_id": NaN
+    },
+    {
+      "name": "راهب",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "قال لي راهب يوما",
+      "person_id": 1524,
+      "canonical_name": "راهب",
+      "has_id": NaN
+    }
+  ]
+}

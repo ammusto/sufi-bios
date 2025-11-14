@@ -1,0 +1,472 @@
+{
+  "bio_id": "614",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "كرمان",
+      "context": "nisba",
+      "full_text": "الكرماني"
+    },
+    {
+      "place": "كرمان",
+      "context": "died",
+      "full_text": "مات أخ لى بكرمان"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا الفضل الصرام الهروي",
+          "person_id": 523,
+          "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عمرو بن نجيد",
+          "person_id": 1015,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+          "has_id": 176,
+          "subj_added": false
+        },
+        {
+          "name": "شاه الكرماني",
+          "person_id": 1661,
+          "canonical_name": "شاه بن شجاع الكرماني",
+          "has_id": 614,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الفضل الصرام الهروي يقول سمعت أبا عمرو بن نجيد يقول قال شاه الكرماني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن موسى",
+          "person_id": 2457,
+          "canonical_name": "محمد بن موسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين الفارسي",
+          "has_id": NaN,
+          "person_id": 93,
+          "canonical_name": "الحسن بن على السيسرى",
+          "subj_added": false
+        },
+        {
+          "name": "أبا علي الأنصاري",
+          "person_id": 946,
+          "canonical_name": "أبو علي الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شاه الكرماني",
+          "person_id": 1661,
+          "canonical_name": "شاه بن شجاع الكرماني",
+          "has_id": 614,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن موسى يقول سمعت أبا الحسين الفارسي يقول سمعت أبا علي الأنصاري يقول قال شاه الكرماني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن موسى",
+          "person_id": 2457,
+          "canonical_name": "محمد بن موسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين الفارسي",
+          "has_id": NaN,
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "subj_added": false
+        },
+        {
+          "name": "أبا علي الأنصاري",
+          "person_id": 946,
+          "canonical_name": "أبو علي الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شاه الكرماني",
+          "person_id": 1661,
+          "canonical_name": "شاه بن شجاع الكرماني",
+          "has_id": 614,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عبد الرحمن السلمي",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "جدي أبا عمرو بن نجيد",
+          "person_id": 1015,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+          "has_id": 176,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1661,
+          "canonical_name": "شاه بن شجاع الكرماني",
+          "has_id": 614,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا عبد الرحمن السلمي يقول سمعت جدي أبا عمرو بن نجيد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عبد الرحمن السلمي",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "جدي أبا عمرو بن نجيد",
+          "person_id": 1015,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+          "has_id": 176,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1661,
+          "canonical_name": "شاه بن شجاع الكرماني",
+          "has_id": 614,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد بن إبراهيم",
+          "person_id": 2305,
+          "canonical_name": "محمد بن أحمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محفوظا",
+          "person_id": 2212,
+          "canonical_name": "محفوظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1661,
+          "canonical_name": "شاه بن شجاع الكرماني",
+          "has_id": 614,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت محمد بن أحمد بن إبراهيم يقول سمعت محفوظا يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن أبي عمران الهروي",
+          "person_id": 523,
+          "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن النجيد",
+          "has_id": 176,
+          "person_id": 1015,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+          "subj_added": false
+        },
+        {
+          "name": "شاه الكرماني",
+          "person_id": 1661,
+          "canonical_name": "شاه بن شجاع الكرماني",
+          "has_id": 614,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أحمد بن أبي عمران الهروي يقول سمعت ابن النجيد يقول قال شاه الكرماني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عمرو بن نجيد",
+          "person_id": 1015,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+          "has_id": 176,
+          "subj_added": false
+        },
+        {
+          "name": "شاه الكرماني",
+          "person_id": 1661,
+          "canonical_name": "شاه بن شجاع الكرماني",
+          "has_id": 614,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أبا عمرو بن نجيد يقول قال شاه الكرماني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن موسى",
+          "person_id": 2457,
+          "canonical_name": "محمد بن موسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين الفارسي",
+          "person_id": 106,
+          "canonical_name": "الحسين الفارسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا علي الأنصاري",
+          "person_id": 946,
+          "canonical_name": "أبو علي الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شاه بن شجاع",
+          "person_id": 1661,
+          "canonical_name": "شاه بن شجاع الكرماني",
+          "has_id": 614,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن موسى يقول سمعت الحسين الفارسي يقول سمعت أبا علي الأنصاري يقول سمعت شاه بن شجاع يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن موسى",
+          "person_id": 2457,
+          "canonical_name": "محمد بن موسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين الفارسي",
+          "person_id": 106,
+          "canonical_name": "الحسين الفارسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا علي الأنصاري",
+          "person_id": 946,
+          "canonical_name": "أبو علي الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شاه بن شجاع",
+          "person_id": 1661,
+          "canonical_name": "شاه بن شجاع الكرماني",
+          "has_id": 614,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو عامر عبد الوهاب بن محمد",
+          "person_id": 843,
+          "canonical_name": "أبو عامر عبد الوهاب بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله محمد بن أحمد",
+          "person_id": 909,
+          "canonical_name": "أبو عبد الله محمد بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1661,
+          "canonical_name": "شاه بن شجاع الكرماني",
+          "has_id": 614,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "ذكر لي أبو عامر عبد الوهاب بن محمد عن أبي عبد الله محمد بن أحمد قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو عامر",
+          "person_id": 843,
+          "canonical_name": "أبو عامر عبد الوهاب بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله الاقرقوهى",
+          "person_id": 1788,
+          "canonical_name": "عبد الله الاقرقوهي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1661,
+          "canonical_name": "شاه بن شجاع الكرماني",
+          "has_id": 614,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وأنشد أبو عامر قال: أنشدنى عبد الله الاقرقوهى لشاه بن شجاع",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أبا تراب النخشبي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أبا تراب النخشبي وأبا عبيد البسري.",
+        "person_id": 721,
+        "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+        "has_id": 388
+      },
+      {
+        "name": "أبا عبيد البسري",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أبا تراب النخشبي وأبا عبيد البسري.",
+        "person_id": 924,
+        "canonical_name": "أبو عبيد البسري",
+        "has_id": 409
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أبا عمرو بن نجيد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا عمرو بن نجيد يقول",
+      "person_id": 1015,
+      "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+      "has_id": 176
+    },
+    {
+      "name": "أبا علي الأنصاري",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا علي الأنصاري يقول",
+      "person_id": 946,
+      "canonical_name": "أبو علي الأنصاري",
+      "has_id": NaN
+    },
+    {
+      "name": "جدي أبا عمرو بن نجيد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت جدي أبا عمرو بن نجيد يقول",
+      "person_id": 1015,
+      "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+      "has_id": 176
+    },
+    {
+      "name": "محفوظا",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محفوظا يقول",
+      "person_id": 2212,
+      "canonical_name": "محفوظ",
+      "has_id": NaN
+    },
+    {
+      "name": "ابن النجيد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت ابن النجيد يقول",
+      "has_id": 176,
+      "person_id": 1015,
+      "canonical_name": "أبو عمرو إسماعيل بن نجيد"
+    },
+    {
+      "name": "أبو عبد الله محمد بن أحمد",
+      "relationship_type": "narrator",
+      "full_text": "عن أبي عبد الله محمد بن أحمد قال",
+      "person_id": 909,
+      "canonical_name": "أبو عبد الله محمد بن أحمد",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الله الاقرقوهى",
+      "relationship_type": "narrator",
+      "full_text": "أنشدنى عبد الله الاقرقوهى",
+      "person_id": 1788,
+      "canonical_name": "عبد الله الاقرقوهي",
+      "has_id": NaN
+    }
+  ]
+}

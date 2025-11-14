@@ -1,0 +1,148 @@
+{
+  "bio_id": "767",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "ترمذ",
+      "context": "nisba",
+      "full_text": "الترمذی"
+    },
+    {
+      "place": "خراسان",
+      "context": "lived",
+      "full_text": "از مشایخ خراسانست"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد حامد",
+          "person_id": 2337,
+          "canonical_name": "محمد بن حامد الترمذي",
+          "has_id": 381,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "محمد حامد گفته:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شبلی٭",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت. که شبلی٭ گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وگفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "و گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمدحامد",
+          "person_id": 2337,
+          "canonical_name": "محمد بن حامد الترمذي",
+          "has_id": 381,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و هم محمدحامدگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمدحامد",
+          "person_id": 2337,
+          "canonical_name": "محمد بن حامد الترمذي",
+          "has_id": 381,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمدحامد",
+          "person_id": 2337,
+          "canonical_name": "محمد بن حامد الترمذي",
+          "has_id": 381,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم ویگفت:",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "احمد خضرویه",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده",
+        "full_text": "احمد\nخضرویه دیده",
+        "person_id": 1194,
+        "canonical_name": "أحمد بن خضرويه البلخي",
+        "has_id": 440
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت.",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شبلی٭",
+      "relationship_type": "narrator",
+      "full_text": "شبلی٭ گفت:",
+      "person_id": 628,
+      "canonical_name": "أبو بكر الشبلي",
+      "has_id": 376
+    },
+    {
+      "name": "بونصر",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "و پسروی بونصر از یگانهٔ فتیان خراسان بود.",
+      "person_id": 1095,
+      "canonical_name": "أبو نصر",
+      "has_id": NaN
+    }
+  ]
+}

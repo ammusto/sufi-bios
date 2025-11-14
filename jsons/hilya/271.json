@@ -1,0 +1,363 @@
+{
+  "bio_id": "271",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "هراة",
+      "context": "nisba",
+      "full_text": "الهروى"
+    },
+    {
+      "place": "قزوين",
+      "context": "died",
+      "full_text": "توفي بقزوين"
+    },
+    {
+      "place": "هراة",
+      "context": "visited",
+      "full_text": "فإذا مر بسوق هراة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا عبد الرحمن السلمي",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا القاسم النصرأباذي",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن شيبان",
+          "person_id": 314,
+          "canonical_name": "إبراهيم بن شيبان",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا عبد الرحمن السلمي يقول سمعت أبا القاسم النصرأباذي يقول سمعت إبراهيم بن شيبان يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن جعفر بن هانئ",
+          "person_id": 1188,
+          "canonical_name": "أحمد بن جعفر بن هانئ",
+          "has_id": 444,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد الله",
+          "person_id": 2376,
+          "canonical_name": "محمد بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم الهروي",
+          "person_id": 2271,
+          "canonical_name": "محمد بن إبراهيم الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1044,
+          "canonical_name": "أبو محمد إبراهيم الهري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبي يقول سمعت أحمد بن جعفر بن هانئ يقول سمعت محمد بن عبد الله يقول سمعت محمد بن إبراهيم الهروي يقول قال أبي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن جعفر بن هانئ",
+          "person_id": 1188,
+          "canonical_name": "أحمد بن جعفر بن هانئ",
+          "has_id": 444,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد الله",
+          "person_id": 2376,
+          "canonical_name": "محمد بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم الهروي",
+          "person_id": 2271,
+          "canonical_name": "محمد بن إبراهيم الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1044,
+          "canonical_name": "أبو محمد إبراهيم الهري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وطريق الجنة على ثلاثة أشياء",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن جعفر بن هانئ",
+          "person_id": 1188,
+          "canonical_name": "أحمد بن جعفر بن هانئ",
+          "has_id": 444,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد الله",
+          "person_id": 2376,
+          "canonical_name": "محمد بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم الهروي",
+          "person_id": 2271,
+          "canonical_name": "محمد بن إبراهيم الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1044,
+          "canonical_name": "أبو محمد إبراهيم الهري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال ومن أراد أن يبلغ الشرف كل الشرف",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن جعفر بن هانئ",
+          "person_id": 1188,
+          "canonical_name": "أحمد بن جعفر بن هانئ",
+          "has_id": 444,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد الله",
+          "person_id": 2376,
+          "canonical_name": "محمد بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم الهروي",
+          "person_id": 2271,
+          "canonical_name": "محمد بن إبراهيم الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1044,
+          "canonical_name": "أبو محمد إبراهيم الهري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال كل من أصاب هذه الثلاثة فقد أصاب الشرف في الدنيا والآخرة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن جعفر",
+          "person_id": 1188,
+          "canonical_name": "أحمد بن جعفر بن هانئ",
+          "has_id": 444,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد الله",
+          "person_id": 2376,
+          "canonical_name": "محمد بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2271,
+          "canonical_name": "محمد بن إبراهيم الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1044,
+          "canonical_name": "أبو محمد إبراهيم الهري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الرحيم بن حبيب",
+          "person_id": 1759,
+          "canonical_name": "عبد الرحيم بن حبيب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسماعيل بن يحيى التيمي",
+          "person_id": 369,
+          "canonical_name": "إسماعيل بن يحيى التيمى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سفيان",
+          "person_id": 1606,
+          "canonical_name": "سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ليث",
+          "person_id": 2202,
+          "canonical_name": "ليث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "طاوس",
+          "person_id": 1699,
+          "canonical_name": "طاوس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عباس",
+          "has_id": NaN,
+          "person_id": 26,
+          "canonical_name": "ابن عباس",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا أحمد بن جعفر ثنا محمد بن عبد الله حدثني محمد بن إبراهيم ثنا أبي ثنا عبد الرحيم بن حبيب عن إسماعيل بن يحيى التيمي عن سفيان عن ليث عن طاوس عن ابن عباس قال قال رسول الله ﷺ",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "إبراهيم بن أدهم",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب إبراهيم بن أدهم",
+        "person_id": 301,
+        "canonical_name": "إبراهيم بن أدهم",
+        "has_id": 274
+      },
+      {
+        "name": "أبي يزيد",
+        "relationship_type": "peer",
+        "relationship_phrase": "من أقران",
+        "full_text": "من أقران أبي يزيد",
+        "person_id": 1128,
+        "canonical_name": "أبو يزيد البسطامي",
+        "has_id": 435
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "إبراهيم بن شيبان",
+      "relationship_type": "narrator",
+      "full_text": "سمعت إبراهيم بن شيبان يقول",
+      "person_id": 314,
+      "canonical_name": "إبراهيم بن شيبان",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن إبراهيم الهروي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن إبراهيم الهروي يقول",
+      "person_id": 2271,
+      "canonical_name": "محمد بن إبراهيم الهروي",
+      "has_id": NaN
+    },
+    {
+      "name": "ابن عباس",
+      "relationship_type": "narrator",
+      "full_text": "عن ابن عباس قال",
+      "has_id": NaN,
+      "person_id": 26,
+      "canonical_name": "ابن عباس"
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "interlocutor",
+      "context": "direct_dialogue",
+      "full_text": "فقال: يا إبراهيم ترائي الله في سرك؟",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

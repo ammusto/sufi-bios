@@ -1,0 +1,635 @@
+{
+  "bio_id": "446",
+  "source": "sulami",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "أنطاكية",
+      "context": "nisba",
+      "full_text": "الْأَنْطَاكِي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس مُحَمَّد بن الْحسن الخشاب",
+          "person_id": 508,
+          "canonical_name": "أبو العباس محمد بن الحسن بن الخشاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا الْخُلْدِيِّ",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن مَسْرُوق الْجريرِي",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْعَبَّاس مُحَمَّد بن الْحسن الخشاب قَالَ سَمِعت جعفرا الْخُلْدِيِّ يَقُول سَمِعت الْجُنَيْد يَقُول سَمِعت ابْن مَسْرُوق الْجريرِي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم إِبْرَاهِيم بن مُحَمَّد بن محمويه النصراباذي",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد عبد الرَّحْمَن بن إِدْرِيس الْحَنْظَلِي الرَّازِيّ",
+          "person_id": 1055,
+          "canonical_name": "أبو محمد عبد الرحمن بن إدريس الحنظلي الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الرَّحْمَن الزَّاهِد",
+          "person_id": 2042,
+          "canonical_name": "علي بن عبد الرحمن الزّاهد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْقَاسِم إِبْرَاهِيم بن مُحَمَّد بن محمويه النصراباذي يَقُول سَمِعت أَبَا مُحَمَّد عبد الرَّحْمَن بن إِدْرِيس الْحَنْظَلِي الرَّازِيّ يَقُول سَمِعت عَليّ بن عبد الرَّحْمَن الزَّاهِد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم إِبْرَاهِيم بن مُحَمَّد بن محمويه النصراباذي",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد عبد الرَّحْمَن بن إِدْرِيس الْحَنْظَلِي الرَّازِيّ",
+          "person_id": 1055,
+          "canonical_name": "أبو محمد عبد الرحمن بن إدريس الحنظلي الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الرَّحْمَن الزَّاهِد",
+          "person_id": 2042,
+          "canonical_name": "علي بن عبد الرحمن الزّاهد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ أَحْمد بن عَاصِم عَن الْإِخْلَاص فَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم إِبْرَاهِيم بن مُحَمَّد بن محمويه النصراباذي",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد عبد الرَّحْمَن بن إِدْرِيس الْحَنْظَلِي الرَّازِيّ",
+          "person_id": 1055,
+          "canonical_name": "أبو محمد عبد الرحمن بن إدريس الحنظلي الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الرَّحْمَن الزَّاهِد",
+          "person_id": 2042,
+          "canonical_name": "علي بن عبد الرحمن الزّاهد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم إِبْرَاهِيم بن مُحَمَّد بن محمويه النصراباذي",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد عبد الرَّحْمَن بن إِدْرِيس الْحَنْظَلِي الرَّازِيّ",
+          "person_id": 1055,
+          "canonical_name": "أبو محمد عبد الرحمن بن إدريس الحنظلي الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الرَّحْمَن الزَّاهِد",
+          "person_id": 2042,
+          "canonical_name": "علي بن عبد الرحمن الزّاهد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم إِبْرَاهِيم بن مُحَمَّد بن محمويه النصراباذي",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد عبد الرَّحْمَن بن إِدْرِيس الْحَنْظَلِي الرَّازِيّ",
+          "person_id": 1055,
+          "canonical_name": "أبو محمد عبد الرحمن بن إدريس الحنظلي الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الرَّحْمَن الزَّاهِد",
+          "person_id": 2042,
+          "canonical_name": "علي بن عبد الرحمن الزّاهد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم إِبْرَاهِيم بن مُحَمَّد بن محمويه النصراباذي",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد عبد الرَّحْمَن بن إِدْرِيس الْحَنْظَلِي الرَّازِيّ",
+          "person_id": 1055,
+          "canonical_name": "أبو محمد عبد الرحمن بن إدريس الحنظلي الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الرَّحْمَن الزَّاهِد",
+          "person_id": 2042,
+          "canonical_name": "علي بن عبد الرحمن الزّاهد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم إِبْرَاهِيم بن مُحَمَّد بن محمويه النصراباذي",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد عبد الرَّحْمَن بن إِدْرِيس الْحَنْظَلِي الرَّازِيّ",
+          "person_id": 1055,
+          "canonical_name": "أبو محمد عبد الرحمن بن إدريس الحنظلي الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الرَّحْمَن الزَّاهِد",
+          "person_id": 2042,
+          "canonical_name": "علي بن عبد الرحمن الزّاهد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم إِبْرَاهِيم بن مُحَمَّد بن محمويه النصراباذي",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد عبد الرَّحْمَن بن إِدْرِيس الْحَنْظَلِي الرَّازِيّ",
+          "person_id": 1055,
+          "canonical_name": "أبو محمد عبد الرحمن بن إدريس الحنظلي الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الرَّحْمَن الزَّاهِد",
+          "person_id": 2042,
+          "canonical_name": "علي بن عبد الرحمن الزّاهد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم إِبْرَاهِيم بن مُحَمَّد بن محمويه النصراباذي",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد عبد الرَّحْمَن بن إِدْرِيس الْحَنْظَلِي الرَّازِيّ",
+          "person_id": 1055,
+          "canonical_name": "أبو محمد عبد الرحمن بن إدريس الحنظلي الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الرَّحْمَن الزَّاهِد",
+          "person_id": 2042,
+          "canonical_name": "علي بن عبد الرحمن الزّاهد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم إِبْرَاهِيم بن مُحَمَّد بن محمويه النصراباذي",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد عبد الرَّحْمَن بن إِدْرِيس الْحَنْظَلِي الرَّازِيّ",
+          "person_id": 1055,
+          "canonical_name": "أبو محمد عبد الرحمن بن إدريس الحنظلي الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الرَّحْمَن الزَّاهِد",
+          "person_id": 2042,
+          "canonical_name": "علي بن عبد الرحمن الزّاهد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم إِبْرَاهِيم بن مُحَمَّد بن محمويه النصراباذي",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد عبد الرَّحْمَن بن إِدْرِيس الْحَنْظَلِي الرَّازِيّ",
+          "person_id": 1055,
+          "canonical_name": "أبو محمد عبد الرحمن بن إدريس الحنظلي الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الرَّحْمَن الزَّاهِد",
+          "person_id": 2042,
+          "canonical_name": "علي بن عبد الرحمن الزّاهد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم إِبْرَاهِيم بن مُحَمَّد بن محمويه النصراباذي",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد عبد الرَّحْمَن بن إِدْرِيس الْحَنْظَلِي الرَّازِيّ",
+          "person_id": 1055,
+          "canonical_name": "أبو محمد عبد الرحمن بن إدريس الحنظلي الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الرَّحْمَن الزَّاهِد",
+          "person_id": 2042,
+          "canonical_name": "علي بن عبد الرحمن الزّاهد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم إِبْرَاهِيم بن مُحَمَّد بن محمويه النصراباذي",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد عبد الرَّحْمَن بن إِدْرِيس الْحَنْظَلِي الرَّازِيّ",
+          "person_id": 1055,
+          "canonical_name": "أبو محمد عبد الرحمن بن إدريس الحنظلي الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الرَّحْمَن الزَّاهِد",
+          "person_id": 2042,
+          "canonical_name": "علي بن عبد الرحمن الزّاهد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم إِبْرَاهِيم بن مُحَمَّد بن محمويه النصراباذي",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد عبد الرَّحْمَن بن إِدْرِيس الْحَنْظَلِي الرَّازِيّ",
+          "person_id": 1055,
+          "canonical_name": "أبو محمد عبد الرحمن بن إدريس الحنظلي الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الرَّحْمَن الزَّاهِد",
+          "person_id": 2042,
+          "canonical_name": "علي بن عبد الرحمن الزّاهد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم إِبْرَاهِيم بن مُحَمَّد بن محمويه النصراباذي",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد عبد الرَّحْمَن بن إِدْرِيس الْحَنْظَلِي الرَّازِيّ",
+          "person_id": 1055,
+          "canonical_name": "أبو محمد عبد الرحمن بن إدريس الحنظلي الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الرَّحْمَن الزَّاهِد",
+          "person_id": 2042,
+          "canonical_name": "علي بن عبد الرحمن الزّاهد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم إِبْرَاهِيم بن مُحَمَّد بن محمويه النصراباذي",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد عبد الرَّحْمَن بن إِدْرِيس الْحَنْظَلِي الرَّازِيّ",
+          "person_id": 1055,
+          "canonical_name": "أبو محمد عبد الرحمن بن إدريس الحنظلي الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن عبد الرَّحْمَن الزَّاهِد",
+          "person_id": 2042,
+          "canonical_name": "علي بن عبد الرحمن الزّاهد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو جَعْفَر مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ الْمكتب",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْفضل الْعَبَّاس بن حَمْزَة",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن حَمْزَة",
+          "person_id": 1190,
+          "canonical_name": "أحمد بن حمزة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن أبي الْحوَاري الدِّمَشْقِي",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا أَبُو جَعْفَر مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ الْمكتب حَدثنَا أَبُو الْفضل الْعَبَّاس بن حَمْزَة حَدثنَا أَحْمد بن حَمْزَة حَدثنَا أَحْمد بن أبي الْحوَاري الدِّمَشْقِي قَالَ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو جَعْفَر مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ الْمكتب",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْفضل الْعَبَّاس بن حَمْزَة",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن حَمْزَة",
+          "person_id": 1190,
+          "canonical_name": "أحمد بن حمزة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن أبي الْحوَاري الدِّمَشْقِي",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "بشر بن الْحَارِث",
+        "relationship_type": "peer",
+        "relationship_phrase": "من أَقْرَان",
+        "full_text": "من أَقْرَان بشر بن الْحَارِث",
+        "person_id": 1323,
+        "canonical_name": "بشر بن الحارث الحافي",
+        "has_id": 470
+      },
+      {
+        "name": "السري",
+        "relationship_type": "peer",
+        "relationship_phrase": "من أَقْرَان",
+        "full_text": "من أَقْرَان ... والسري",
+        "person_id": 161,
+        "canonical_name": "السري السقطي",
+        "has_id": 236
+      },
+      {
+        "name": "الْحَارِث المحاسبي",
+        "relationship_type": "peer",
+        "relationship_phrase": "من أَقْرَان",
+        "full_text": "من أَقْرَان ... والْحَارِث المحاسبي",
+        "person_id": 69,
+        "canonical_name": "الحارث بن أسد المحاسبي",
+        "has_id": 229
+      },
+      {
+        "name": "الفضيل بن عِيَاض",
+        "relationship_type": "peer",
+        "relationship_phrase": "رأى",
+        "full_text": "وَيُقَال إِنَّه رأى الفضيل بن عِيَاض",
+        "person_id": 200,
+        "canonical_name": "الفضيل بن عياض",
+        "has_id": 243
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "ابْن مَسْرُوق الْجريرِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت ابْن مَسْرُوق الْجريرِي يَقُول",
+      "person_id": 505,
+      "canonical_name": "أبو العباس بن مسروق الطوسي",
+      "has_id": 451
+    },
+    {
+      "name": "عَليّ بن عبد الرَّحْمَن الزَّاهِد",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت عَليّ بن عبد الرَّحْمَن الزَّاهِد يَقُول",
+      "person_id": 2042,
+      "canonical_name": "علي بن عبد الرحمن الزّاهد",
+      "has_id": NaN
+    },
+    {
+      "name": "أَحْمد بن أبي الْحوَاري الدِّمَشْقِي",
+      "relationship_type": "narrator",
+      "full_text": "قَالَ سَمِعت أَحْمد بن عَاصِم الْأَنْطَاكِي يَقُول",
+      "person_id": 1177,
+      "canonical_name": "أحمد بن أبي الحواري",
+      "has_id": 442
+    }
+  ]
+}

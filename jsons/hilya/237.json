@@ -1,0 +1,107 @@
+{
+  "bio_id": "237",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "جبل لبنان",
+      "context": "visited",
+      "full_text": "صعدت جبل لبنان"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن جعفر بن هانئ",
+          "person_id": 1188,
+          "canonical_name": "أحمد بن جعفر بن هانئ",
+          "has_id": 444,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن يوسف البناء",
+          "person_id": 2477,
+          "canonical_name": "محمد بن يوسف البناء",
+          "has_id": 791,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الهروي",
+          "person_id": 289,
+          "canonical_name": "إبراهيم الهروي",
+          "has_id": 271,
+          "subj_added": false
+        },
+        {
+          "name": "ابن المبارك",
+          "has_id": 668,
+          "person_id": 1804,
+          "canonical_name": "عبد الله بن المبارك",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا أحمد بن جعفر بن هانئ قال: حدثني محمد بن يوسف البناء عن إبراهيم الهروي عن ابن المبارك قال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "غلام أبي سليمان الداراني",
+          "person_id": 2149,
+          "canonical_name": "غلام أبي سليمان الداراني",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "فبكى وقال: وا شوقاه إلى نظرة أخرى منه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "غلام أبي سليمان الداراني",
+          "person_id": 2149,
+          "canonical_name": "غلام أبي سليمان الداراني",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "فقال: ذاك عباس المجنون",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "ابن المبارك",
+      "relationship_type": "narrator",
+      "full_text": "عن ابن المبارك قال: صعدت جبل لبنان",
+      "has_id": 668,
+      "person_id": 1804,
+      "canonical_name": "عبد الله بن المبارك"
+    },
+    {
+      "name": "غلام أبي سليمان الداراني",
+      "relationship_type": "interlocutor",
+      "full_text": "فلقيني غلام أبي سليمان الداراني فسألته عنه وأعطيته صفته",
+      "person_id": 2149,
+      "canonical_name": "غلام أبي سليمان الداراني",
+      "has_id": NaN
+    }
+  ]
+}

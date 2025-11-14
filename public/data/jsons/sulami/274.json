@@ -1,0 +1,550 @@
+{
+  "bio_id": "274",
+  "source": "sulami",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بَلخ",
+      "context": "lived",
+      "full_text": "من أهل بَلخ"
+    },
+    {
+      "place": "مَكَّة",
+      "context": "visited",
+      "full_text": "خرج إِلَى مَكَّة"
+    },
+    {
+      "place": "الشَّام",
+      "context": "lived",
+      "full_text": "وَدخل الشَّام فَكَانَ يعْمل فِيهِ وَيَأْكُل من عمل يَده"
+    },
+    {
+      "place": "الشَّام",
+      "context": "died",
+      "full_text": "وَبهَا مَاتَ"
+    },
+    {
+      "place": "الإسكندرية",
+      "context": "visited",
+      "full_text": "لَقيته بالإسكندرية"
+    },
+    {
+      "place": "الْكُوفَة",
+      "context": "visited",
+      "full_text": "بَين الْكُوفَة الْكُوفَة وَمَكَّة"
+    },
+    {
+      "place": "مَكَّة",
+      "context": "visited",
+      "full_text": "بَين الْكُوفَة الْكُوفَة وَمَكَّة"
+    },
+    {
+      "place": "الْبَارِدَة",
+      "context": "mentioned",
+      "full_text": "بقرية يُقَال لَهَا الْبَارِدَة"
+    },
+    {
+      "place": "الْبَادِيَة",
+      "context": "visited",
+      "full_text": "فَبينا أَنا فِي الْبَادِيَة"
+    },
+    {
+      "place": "خُرَاسَان",
+      "context": "lived",
+      "full_text": "قلت شَابًّا من أهل خُرَاسَان"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُوسَى بن الْحسن السلَامِي",
+          "person_id": 1883,
+          "canonical_name": "عبد الله بن موسى بن الحسن السلامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "لَاحق ابْن الْهَيْثَم اللاحقي",
+          "person_id": 2200,
+          "canonical_name": "لاحق بن الهيثم اللاحقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عِيسَى الدِّمَشْقِي",
+          "person_id": 100,
+          "canonical_name": "الحسن بن عيسى الدمشقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن فَيْرُوز الْمصْرِيّ",
+          "person_id": 2432,
+          "canonical_name": "محمد بن فيروز المصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بَقِيَّة",
+          "person_id": 1347,
+          "canonical_name": "بقية",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن آدم",
+          "person_id": 304,
+          "canonical_name": "إبراهيم بن آدم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبِيه أدهم بن مَنْصُور",
+          "person_id": 1151,
+          "canonical_name": "أبوه أدهم بن منصور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن جُبَير",
+          "person_id": 1596,
+          "canonical_name": "سعيد بن جبير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن عَبَّاس",
+          "person_id": 26,
+          "canonical_name": "ابن عباس",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا عبد الله بن مُوسَى بن الْحسن السلَامِي بمرو قَالَ حَدثنَا لَاحق\nابْن الْهَيْثَم اللاحقي قَالَ حَدثنَا الْحسن بن عِيسَى الدِّمَشْقِي قَالَ حَدثنَا مُحَمَّد بن فَيْرُوز الْمصْرِيّ قَالَ حَدثنَا بَقِيَّة قَالَ حَدثنَا إِبْرَاهِيم بن آدم عَن أَبِيه أدهم بن مَنْصُور عَن سعيد بن جُبَير عَن ابْن عَبَّاس",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس مُحَمَّد بن الْحسن بن الخشاب",
+          "person_id": 508,
+          "canonical_name": "أبو العباس محمد بن الحسن بن الخشاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْحسن عَليّ بن مُحَمَّد بن أَحْمد الْمصْرِيّ",
+          "person_id": 434,
+          "canonical_name": "أبو الحسن علي بن محمد بن أحمد المصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو سعيد أَحْمد بن عِيسَى الخراز",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن بشار",
+          "person_id": 305,
+          "canonical_name": "إبراهيم بن بشار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 301,
+          "canonical_name": "إبراهيم بن أدهم",
+          "has_id": 274,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْعَبَّاس مُحَمَّد بن الْحسن بن الخشاب قَالَ حَدثنَا أَبُو الْحسن عَليّ بن مُحَمَّد بن أَحْمد الْمصْرِيّ قَالَ حَدثنِي أَبُو سعيد أَحْمد بن عِيسَى الخراز قَالَ حَدثنَا إِبْرَاهِيم بن بشار",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن الْحسن الْبَغْدَادِيّ",
+          "person_id": 507,
+          "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن مُحَمَّد بن أَحْمد الْمصْرِيّ",
+          "person_id": 434,
+          "canonical_name": "أبو الحسن علي بن محمد بن أحمد المصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن عِيسَى الخراز",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": false
+        },
+        {
+          "name": "غير وَاحِد من أَصْحَابنَا",
+          "person_id": 2153,
+          "canonical_name": "غير واحد من أصحابنا",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عُثْمَان بن عمَارَة",
+          "person_id": 1954,
+          "canonical_name": "عثمان بن عمارة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِبْرَاهِيم بن أدهم",
+          "person_id": 301,
+          "canonical_name": "إبراهيم بن أدهم",
+          "has_id": 274,
+          "subj_added": false
+        },
+        {
+          "name": "رجل من أهل إسكندرية يُقَال لَهُ أسلم بن يزِيد الْجُهَنِيّ",
+          "person_id": 1541,
+          "canonical_name": "رجل من أهل إسكندرية يقال له أسلم بن يزيد الجهني",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت مُحَمَّد بن الْحسن الْبَغْدَادِيّ يَقُول سَمِعت عَليّ بن مُحَمَّد بن أَحْمد الْمصْرِيّ يَقُول سَمِعت أَحْمد بن عِيسَى الخراز قَالَ حَدثنِي غير وَاحِد من أَصْحَابنَا مِنْهُم سعيد بن جَعْفَر الْوراق وَهَارُون الأدمِيّ وَعُثْمَان التمار قَالُوا حَدثنَا عُثْمَان بن عمَارَة قَالَ حَدثنِي إِبْرَاهِيم بن أدهم عَن رجل من أهل إسكندرية يُقَال لَهُ أسلم بن يزِيد الْجُهَنِيّ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن عَليّ بن الْحسن الْمُقْرِئ",
+          "person_id": 1225,
+          "canonical_name": "أحمد بن علي بن الحسن المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن غَالب التمتام",
+          "person_id": 2429,
+          "canonical_name": "محمد بن غالب التمتام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 301,
+          "canonical_name": "إبراهيم بن أدهم",
+          "has_id": 274,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَحْمد بن عَليّ بن الْحسن الْمُقْرِئ يَقُول سَمِعت مُحَمَّد بن غَالب التمتام يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس الْبَغْدَادِيّ",
+          "person_id": 507,
+          "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن مُحَمَّد بن أَحْمد الْمصْرِيّ",
+          "person_id": 434,
+          "canonical_name": "أبو الحسن علي بن محمد بن أحمد المصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يُوسُف بن مُوسَى",
+          "person_id": 2681,
+          "canonical_name": "يوسف بن موسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن خبيق",
+          "person_id": 1057,
+          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
+          "has_id": 661,
+          "subj_added": false
+        },
+        {
+          "name": "خلف بن تَمِيم",
+          "person_id": 1504,
+          "canonical_name": "خلف بن تميم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْأَحْوَص",
+          "person_id": 383,
+          "canonical_name": "أبو الأحوص",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 301,
+          "canonical_name": "إبراهيم بن أدهم",
+          "has_id": 274,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْعَبَّاس الْبَغْدَادِيّ يَقُول حَدثنَا عَليّ بن مُحَمَّد بن أَحْمد الْمصْرِيّ حَدثنَا يُوسُف بن مُوسَى حَدثنَا عبد الله بن خبيق حَدثنِي خلف بن تَمِيم سَمِعت أَبَا الْأَحْوَص يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن بنْدَار",
+          "person_id": 431,
+          "canonical_name": "أبو الحسن علي بن بندار الصيرفي",
+          "has_id": 478,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن شريك",
+          "person_id": 2364,
+          "canonical_name": "محمد بن شريك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن أبي الدُّنْيَا",
+          "person_id": 10,
+          "canonical_name": "ابن أبي الدنيا",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن إِسْحَاق",
+          "person_id": 2276,
+          "canonical_name": "محمد بن إسحاق",
+          "has_id": 774,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1045,
+          "canonical_name": "أبو محمد إسحاق بن الإمام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 301,
+          "canonical_name": "إبراهيم بن أدهم",
+          "has_id": 274,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا عَليّ بن بنْدَار قَالَ أخبرنَا مُحَمَّد بن شريك قَالَ أخبرنَا ابْن أبي الدُّنْيَا قَالَ أَخْبرنِي مُحَمَّد بن إِسْحَاق قَالَ أَخْبرنِي أبي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن حَامِد",
+          "person_id": 2337,
+          "canonical_name": "محمد بن حامد الترمذي",
+          "has_id": 381,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن خضرويه",
+          "person_id": 1194,
+          "canonical_name": "أحمد بن خضرويه البلخي",
+          "has_id": 440,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 301,
+          "canonical_name": "إبراهيم بن أدهم",
+          "has_id": 274,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول سَمِعت مُحَمَّد بن حَامِد يَقُول سَمِعت أَحْمد بن خضرويه يَقُول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "دَاوُد",
+        "relationship_type": "student_of",
+        "relationship_phrase": "عَلمنِي",
+        "full_text": "وَعَلمنِي اسْم الله الْأَعْظَم",
+        "person_id": 1511,
+        "canonical_name": "داود",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "سُفْيَان الثَّوْريّ",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب",
+        "full_text": "خرج إِلَى مَكَّة وَصَحب بهَا سُفْيَان الثَّوْريّ والفضيل ابْن عِيَاض",
+        "person_id": 1607,
+        "canonical_name": "سفيان الثوري",
+        "has_id": 598
+      },
+      {
+        "name": "الفضيل ابْن عِيَاض",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب",
+        "full_text": "خرج إِلَى مَكَّة وَصَحب بهَا سُفْيَان الثَّوْريّ والفضيل ابْن عِيَاض",
+        "person_id": 200,
+        "canonical_name": "الفضيل بن عياض",
+        "has_id": 243
+      },
+      {
+        "name": "إِبْرَاهِيم بن بشار",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحِبت",
+        "full_text": "قَالَ صَحِبت إِبْرَاهِيم بن أدهم\nبِالشَّام أَنا وَأَبُو يُوسُف الغسولي وَأَبُو عبد الله السنجاري",
+        "person_id": 305,
+        "canonical_name": "إبراهيم بن بشار",
+        "has_id": NaN
+      },
+      {
+        "name": "أَبُو يُوسُف الغسولي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحِبت",
+        "full_text": "قَالَ صَحِبت إِبْرَاهِيم بن أدهم\nبِالشَّام أَنا وَأَبُو يُوسُف الغسولي وَأَبُو عبد الله السنجاري",
+        "person_id": 1147,
+        "canonical_name": "أبو يوسف الغسولي",
+        "has_id": NaN
+      },
+      {
+        "name": "أَبُو عبد الله السنجاري",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحِبت",
+        "full_text": "قَالَ صَحِبت إِبْرَاهِيم بن أدهم\nبِالشَّام أَنا وَأَبُو يُوسُف الغسولي وَأَبُو عبد الله السنجاري",
+        "person_id": 873,
+        "canonical_name": "أبو عبد الله السنجاري",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "بَقِيَّة",
+      "relationship_type": "narrator",
+      "full_text": "قَالَ حَدثنَا بَقِيَّة قَالَ حَدثنَا إِبْرَاهِيم بن آدم",
+      "person_id": 1347,
+      "canonical_name": "بقية",
+      "has_id": NaN
+    },
+    {
+      "name": "إِبْرَاهِيم بن بشار",
+      "relationship_type": "interlocutor",
+      "full_text": "فَقلت يَا ابا إِسْحَاق خبرني عَن بَدْء أَمرك كَيفَ كَانَ",
+      "person_id": 305,
+      "canonical_name": "إبراهيم بن بشار",
+      "has_id": NaN
+    },
+    {
+      "name": "عُثْمَان بن عمَارَة",
+      "relationship_type": "narrator",
+      "full_text": "قَالُوا حَدثنَا عُثْمَان بن عمَارَة قَالَ حَدثنِي إِبْرَاهِيم بن أدهم",
+      "person_id": 1954,
+      "canonical_name": "عثمان بن عمارة",
+      "has_id": NaN
+    },
+    {
+      "name": "أبي",
+      "relationship_type": "interlocutor",
+      "full_text": "قَالَ قلت لإِبْرَاهِيم بن أدهم أوصني",
+      "person_id": 580,
+      "canonical_name": "أبو أبي عبد الرحمن السلمي",
+      "has_id": NaN
+    },
+    {
+      "name": "أسلم بن يزِيد الْجُهَنِيّ",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "mentor_encountered",
+      "full_text": "عَن رجل من أهل إسكندرية يُقَال لَهُ أسلم بن يزِيد الْجُهَنِيّ قَالَ لَقيته بالإسكندرية فَقَالَ لي من أَنْت يَا غُلَام",
+      "person_id": 1290,
+      "canonical_name": "أسلم بن يزيد الجهني",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل مِمَّن كَانَ مَعَه",
+      "relationship_type": "questioner",
+      "full_text": "فَقَالَ رجل مِمَّن كَانَ مَعَه وَأي شَيْء الصَّبْر",
+      "person_id": 1535,
+      "canonical_name": "رجل ممّن كان معه",
+      "has_id": NaN
+    },
+    {
+      "name": "الْخضر",
+      "relationship_type": "interlocutor",
+      "full_text": "فَقَالَ لَا روع عَلَيْك وَلَا بَأْس عَلَيْك أَنا أَخُوك الْخضر",
+      "person_id": 145,
+      "canonical_name": "الخضر",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل فِي الطّواف",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "addressee",
+      "full_text": "قَالَ إِبْرَاهِيم بن أدهم لرجل فِي الطّواف اعْلَم أَنَّك لَا تنَال دَرَجَة الصَّالِحين حَتَّى تجوز سِتّ عِقَاب",
+      "person_id": 1533,
+      "canonical_name": "رجل في الطواف",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبُو يُوسُف الغسولي",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "companion_present",
+      "full_text": "بِالشَّام أَنا وَأَبُو يُوسُف الغسولي وَأَبُو عبد الله السنجاري",
+      "person_id": 1147,
+      "canonical_name": "أبو يوسف الغسولي",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبُو عبد الله السنجاري",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "companion_present",
+      "full_text": "بِالشَّام أَنا وَأَبُو يُوسُف الغسولي وَأَبُو عبد الله السنجاري",
+      "person_id": 873,
+      "canonical_name": "أبو عبد الله السنجاري",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل من أَصْحَابه",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "فَقَالَ لَهُ رجل من أَصْحَابه اضربه فأوجعه",
+      "person_id": 1539,
+      "canonical_name": "رجل من أصحابه",
+      "has_id": NaN
+    }
+  ]
+}

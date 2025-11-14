@@ -1,0 +1,59 @@
+{
+  "bio_id": "765",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو الحسن بن أبان",
+          "person_id": 417,
+          "canonical_name": "أبو الحسن بن أبان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر بن عبيد",
+          "person_id": 673,
+          "canonical_name": "أبو بكر بن عبيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "المثنى بن معاذ العنبري",
+          "person_id": 228,
+          "canonical_name": "المثنى بن معاذ العنبري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن سباع النميري",
+          "person_id": 2354,
+          "canonical_name": "محمد بن سباع النميري",
+          "has_id": 765,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو الحسن بن أبان ثنا أبو بكر بن عبيد قال حدثني المثنى بن معاذ العنبري قال حدثني محمد بن سباع النميري",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "المثنى بن معاذ العنبري",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "قال حدثني المثنى بن معاذ العنبري",
+      "person_id": 228,
+      "canonical_name": "المثنى بن معاذ العنبري",
+      "has_id": NaN
+    }
+  ]
+}

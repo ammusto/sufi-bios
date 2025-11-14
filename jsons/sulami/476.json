@@ -1,0 +1,302 @@
+{
+  "bio_id": "476",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "316",
+    "full_text": "وبهَا مَاتَ فِي شهر رَمَضَان سنة سِتّ عشرَة وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "واسط",
+      "context": "nisba",
+      "full_text": "واسطي الأَصْل"
+    },
+    {
+      "place": "مصر",
+      "context": "lived",
+      "full_text": "سكن مصر"
+    },
+    {
+      "place": "مصر",
+      "context": "lived",
+      "full_text": "وَأقَام بهَا"
+    },
+    {
+      "place": "مصر",
+      "context": "died",
+      "full_text": "وَبهَا مَاتَ"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "الْحسن بن رَشِيق",
+          "person_id": 84,
+          "canonical_name": "الحسن بن رشيق المصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنان بن مُحَمَّد الْحمال الزَّاهِد الوَاسِطِيّ أَبَا الْحسن",
+          "person_id": 421,
+          "canonical_name": "أبو الحسن بنان الحمال",
+          "has_id": 476,
+          "subj_added": false
+        },
+        {
+          "name": "بكار بن قُتَيْبَة القَاضِي",
+          "person_id": 1350,
+          "canonical_name": "بكار بن قتيبة القاضي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو دَاوُد",
+          "person_id": 773,
+          "canonical_name": "أبو داود",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "هِشَام",
+          "person_id": 2597,
+          "canonical_name": "هشام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يحيى بن أبي كثير",
+          "person_id": 2633,
+          "canonical_name": "يحيى بن أبي كثير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي رَاشد",
+          "person_id": 779,
+          "canonical_name": "أبو راشد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الرَّحْمَن بن شبْل",
+          "person_id": 1748,
+          "canonical_name": "عبد الرحمن بن شبل",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا الْحسن بن رَشِيق إجَازَة أَن بنان بن مُحَمَّد الْحمال الزَّاهِد الوَاسِطِيّ أَبَا الْحسن حَدثهمْ قَالَ حَدثنَا بكار بن قُتَيْبَة القَاضِي حَدثنَا أَبُو دَاوُد عَن هِشَام عَن يحيى بن أبي كثير عَن أبي رَاشد عَن عبد الرَّحْمَن بن شبْل قَالَ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنانا الْحمال",
+          "person_id": 421,
+          "canonical_name": "أبو الحسن بنان الحمال",
+          "has_id": 476,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت بنانا الْحمال يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن مُحَمَّد بن زَكَرِيَّا",
+          "person_id": 500,
+          "canonical_name": "أبو العباس أحمد بن محمد بن زكريا النسوي",
+          "has_id": 107,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عبد الله الْقرشِي",
+          "person_id": 89,
+          "canonical_name": "الحسن بن عبد الله القرشي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنانا الْحمال",
+          "person_id": 421,
+          "canonical_name": "أبو الحسن بنان الحمال",
+          "has_id": 476,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَحْمد بن مُحَمَّد بن زَكَرِيَّا يَقُول سَمِعت الْحسن بن عبد الله الْقرشِي يَقُول سَمِعت بنانا الْحمال يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفضل الْعَطَّار",
+          "person_id": 522,
+          "canonical_name": "أبو الفضل العطّار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن أبي مُحَمَّد الصَّائِغ وَهُوَ عبد الْوَاحِد بن بكر",
+          "person_id": 14,
+          "canonical_name": "ابن أبي محمد الصائغ وهو عبد الواحد بن بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنانا الْحمال",
+          "person_id": 421,
+          "canonical_name": "أبو الحسن بنان الحمال",
+          "has_id": 476,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْفضل الْعَطَّار يَقُول سَمِعت ابْن أبي مُحَمَّد الصَّائِغ وَهُوَ عبد الْوَاحِد بن بكر يَقُول سَمِعت بنانا الْحمال يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفضل الْعَطَّار",
+          "person_id": 522,
+          "canonical_name": "أبو الفضل العطّار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن أبي مُحَمَّد الصَّائِغ وَهُوَ عبد الْوَاحِد بن بكر",
+          "person_id": 14,
+          "canonical_name": "ابن أبي محمد الصائغ وهو عبد الواحد بن بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنانا الْحمال",
+          "person_id": 421,
+          "canonical_name": "أبو الحسن بنان الحمال",
+          "has_id": 476,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ بنان",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفضل الْعَطَّار",
+          "person_id": 522,
+          "canonical_name": "أبو الفضل العطّار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن أبي مُحَمَّد الصَّائِغ وَهُوَ عبد الْوَاحِد بن بكر",
+          "person_id": 14,
+          "canonical_name": "ابن أبي محمد الصائغ وهو عبد الواحد بن بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنانا الْحمال",
+          "person_id": 421,
+          "canonical_name": "أبو الحسن بنان الحمال",
+          "has_id": 476,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ بنان",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بنانا الْحمال",
+          "person_id": 421,
+          "canonical_name": "أبو الحسن بنان الحمال",
+          "has_id": 476,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قَالَ وَسمعت بنانا يَقُول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [
+      {
+        "name": "أبي الْحُسَيْن النوري",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "أستاذ",
+        "full_text": "وَكَانَ أستاذ أبي الْحُسَيْن النوري",
+        "person_id": 452,
+        "canonical_name": "أبو الحسين النوري",
+        "has_id": 439
+      }
+    ],
+    "companions": [
+      {
+        "name": "أَبَا الْقَاسِم الْجُنَيْد بن مُحَمَّد",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَا الْقَاسِم الْجُنَيْد بن مُحَمَّد وَغَيره من مَشَايِخ وقته",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَبَا بكر الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "الْحسن بن عبد الله الْقرشِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت الْحسن بن عبد الله الْقرشِي يَقُول",
+      "person_id": 89,
+      "canonical_name": "الحسن بن عبد الله القرشي",
+      "has_id": NaN
+    },
+    {
+      "name": "ابْن أبي مُحَمَّد الصَّائِغ وَهُوَ عبد الْوَاحِد بن بكر",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت ابْن أبي مُحَمَّد الصَّائِغ وَهُوَ عبد الْوَاحِد بن بكر يَقُول",
+      "person_id": 14,
+      "canonical_name": "ابن أبي محمد الصائغ وهو عبد الواحد بن بكر",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الرَّحْمَن بن شبْل",
+      "relationship_type": "narrator",
+      "full_text": "عَن عبد الرَّحْمَن بن شبْل قَالَ",
+      "person_id": 1748,
+      "canonical_name": "عبد الرحمن بن شبل",
+      "has_id": NaN
+    }
+  ]
+}

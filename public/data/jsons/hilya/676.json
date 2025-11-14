@@ -1,0 +1,115 @@
+{
+  "bio_id": "676",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عمر بن أحمد بن شاهين",
+          "person_id": 2093,
+          "canonical_name": "عمر بن أحمد بن شاهين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر بن الحسن بن علي بن مالك",
+          "person_id": 2090,
+          "canonical_name": "عمر بن الحسن بن علي بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن سفيان",
+          "person_id": 1829,
+          "canonical_name": "عبد الله بن سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر بن عبد الله العمري",
+          "person_id": 2102,
+          "canonical_name": "عمر بن عبد الله العمري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عمر بن أحمد بن شاهين ثنا عمر بن الحسن بن علي بن مالك ثنا عبد الله بن سفيان ثنا عمر بن عبد الله العمري قال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر بن أحمد",
+          "person_id": 2093,
+          "canonical_name": "عمر بن أحمد بن شاهين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن موسى",
+          "person_id": 2457,
+          "canonical_name": "محمد بن موسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الهيثم",
+          "person_id": 2268,
+          "canonical_name": "محمد بن الهيثم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "المثنى بن جامع",
+          "person_id": 227,
+          "canonical_name": "المثنى بن جامع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو جعفر الحذاء",
+          "person_id": 727,
+          "canonical_name": "أبو جعفر الحذاء",
+          "has_id": 494,
+          "subj_added": false
+        },
+        {
+          "name": "العمري",
+          "person_id": 2102,
+          "canonical_name": "عمر بن عبد الله العمري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عمر بن أحمد ثنا محمد بن موسى ثنا محمد بن الهيثم ثنا المثنى بن جامع ثنا أبو جعفر الحذاء. قال قال العمري:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "عمر بن عبد الله العمري",
+      "relationship_type": "narrator",
+      "full_text": "ثنا عمر بن عبد الله العمري قال: قرأت على باب دار عبيد الله بن عبد الله مكتوب:",
+      "person_id": 2102,
+      "canonical_name": "عمر بن عبد الله العمري",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو جعفر الحذاء",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أبو جعفر الحذاء. قال قال العمري: كما أحسنتم الظن بما لم يضمن، فأحسنوا الظن بما قد ضمن.",
+      "person_id": 727,
+      "canonical_name": "أبو جعفر الحذاء",
+      "has_id": 494
+    }
+  ]
+}

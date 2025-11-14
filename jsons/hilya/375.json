@@ -1,0 +1,133 @@
+{
+  "bio_id": "375",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "مكة",
+      "context": "visited",
+      "full_text": "أريد مكة"
+    },
+    {
+      "place": "مكة",
+      "context": "lived",
+      "full_text": "بقيت بمكة عشرين سنة"
+    },
+    {
+      "place": "عسفان",
+      "context": "visited",
+      "full_text": "إلى عسفان"
+    },
+    {
+      "place": "مكة",
+      "context": "visited",
+      "full_text": "فرجعت إلى مكة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا الفضل أحمد بن أبي عمران الهروي",
+          "person_id": 523,
+          "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن داود الرقي",
+          "person_id": 2348,
+          "canonical_name": "محمد بن داود الرقي",
+          "has_id": 13,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر الزقاق",
+          "person_id": 625,
+          "canonical_name": "أبو بكر الزقاق",
+          "has_id": 375,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الفضل أحمد بن أبي عمران الهروي يقول سمعت محمد بن داود الرقي يقول سمعت أبا بكر الزقاق يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا سعيد القلانسي",
+          "person_id": 803,
+          "canonical_name": "أبو سعيد القلانسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو علي الروذباري",
+          "person_id": 959,
+          "canonical_name": "أبو علي الروذباري",
+          "has_id": 422,
+          "subj_added": false
+        },
+        {
+          "name": "أبي بكر الزقاق",
+          "person_id": 625,
+          "canonical_name": "أبو بكر الزقاق",
+          "has_id": 375,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا سعيد القلانسي يقول قال أبو علي الروذباري يحكي عن أبي بكر الزقاق قال:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "محمد بن داود الرقي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن داود الرقي يقول",
+      "person_id": 2348,
+      "canonical_name": "محمد بن داود الرقي",
+      "has_id": 13
+    },
+    {
+      "name": "أبو علي الروذباري",
+      "relationship_type": "narrator",
+      "full_text": "قال أبو علي الروذباري يحكي عن أبي بكر الزقاق",
+      "person_id": 959,
+      "canonical_name": "أبو علي الروذباري",
+      "has_id": 422
+    },
+    {
+      "name": "هاتف من شجر البادية",
+      "relationship_type": "interlocutor",
+      "context": "هاتف",
+      "full_text": "فهتف بي هاتف من شجر البادية: يا أبا بكر! كل حقيقة لا تتبعها شريعة فهي كفر.",
+      "person_id": 2590,
+      "canonical_name": "هاتف",
+      "has_id": NaN
+    },
+    {
+      "name": "جارية حسناء",
+      "relationship_type": "interlocutor",
+      "full_text": "فوقفت علي جارية حسناء فنظرت إليها بعيني اليمنى فأخذت بقلبي، فقلت لها: قد أخذ كلي كلك فما في لغيرك فضل. فقالت: يا شيخ بك تقبح الدعاوى العالية، لو كنت صادقا لذهبت عنك شهوة اللبن.",
+      "person_id": 1376,
+      "canonical_name": "جارية حسناء",
+      "has_id": NaN
+    },
+    {
+      "name": "يوسف الصديق ﵇",
+      "relationship_type": "interlocutor",
+      "full_text": "فاريت في منامي يوسف الصديق ﵇ فقلت له: يا نبي الله أقر الله عينك بسلامتك من زليخا فقال:\nيا مبارك بل يقر الله عينك بسلامتك من العسفانية، ثم تلا يوسف ﴿(ولمن خاف مقام ربه جنتان)﴾",
+      "person_id": 2674,
+      "canonical_name": "يوسف الصديق",
+      "has_id": NaN
+    }
+  ]
+}

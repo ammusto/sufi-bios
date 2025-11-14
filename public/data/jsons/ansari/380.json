@@ -1,0 +1,539 @@
+{
+  "bio_id": "380",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "ترمذ",
+      "context": "nisba",
+      "full_text": "ترمذی"
+    },
+    {
+      "place": "ترمذ",
+      "context": "mentioned",
+      "full_text": "باصل از ترمذ بوده"
+    },
+    {
+      "place": "ترمذ",
+      "context": "died",
+      "full_text": "تربت وی آنجاست"
+    },
+    {
+      "place": "بلخ",
+      "context": "lived",
+      "full_text": "و ببلخ بودی"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وگفته که",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وگفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر صغدی",
+          "person_id": 632,
+          "canonical_name": "أبو بكر الصغدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380
+        },
+        {
+          "name": NaN,
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ السلام گفت: کی بوبکر صغدی ازین طایفه است شاگرد بوبکر وراق وی گویدکی:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر وراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بوبکر وراق را شاگرد بوده هاشمی سغدی از سغد سمرقند با او میبود تا مرگ، که بوبکر وراق گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "بوبکر وراق «گفت»",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "هم وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حسین تزمذی",
+          "person_id": 1450,
+          "canonical_name": "حسين الترمذي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380
+        },
+        {
+          "name": NaN,
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت، که حسین تزمذی گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حسین تزمذی",
+          "person_id": 1450,
+          "canonical_name": "حسين الترمذي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380
+        },
+        {
+          "name": NaN,
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "و هم بوبکر وراقگفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "و یحیی معاذ٭ گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر",
+          "person_id": 610,
+          "canonical_name": "أبو بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380
+        },
+        {
+          "name": NaN,
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بوبکرگوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر",
+          "person_id": 610,
+          "canonical_name": "أبو بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380
+        },
+        {
+          "name": NaN,
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "محمد مسلم گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر",
+          "person_id": 610,
+          "canonical_name": "أبو بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380
+        },
+        {
+          "name": NaN,
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "یوسف خیاط گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر",
+          "person_id": 610,
+          "canonical_name": "أبو بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380
+        },
+        {
+          "name": NaN,
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "بوبکر وراق گوید:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر",
+          "person_id": 610,
+          "canonical_name": "أبو بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380
+        },
+        {
+          "name": NaN,
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "بوبکر وراق گفت:",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "خضرویه٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده و باوی صحبت کرده",
+        "full_text": "خضرویه٭ دیده و باوی صحبت کرده",
+        "person_id": 1194,
+        "canonical_name": "أحمد بن خضرويه البلخي",
+        "has_id": 440
+      },
+      {
+        "name": "محمد سعد ابراهیم زاهد",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "با محمد سعد ابراهیم زاهد صحبت کرده",
+        "person_id": 2355,
+        "canonical_name": "محمد بن سعد بن إبراهيم الزّاهد",
+        "has_id": NaN
+      },
+      {
+        "name": "احمد عمر خشنام بلخی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "و نیز بااحمد عمر خشنام بلخی و جز ازیشان.",
+        "person_id": 1231,
+        "canonical_name": "أحمد بن عمر خشنام بلخي",
+        "has_id": NaN
+      }
+    ],
+    "students": [
+      {
+        "name": "بوبکر صغدی",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شیخ السلام گفت: کی بوبکر صغدی ازین طایفه است شاگرد بوبکر وراق",
+        "person_id": 632,
+        "canonical_name": "أبو بكر الصغدي",
+        "has_id": NaN
+      },
+      {
+        "name": "هاشمی سغدی",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "شاگرد بوده",
+        "full_text": "شیخ الاسلام گفت: که بوبکر وراق را شاگرد بوده هاشمی سغدی از سغد سمرقند با او میبود تا مرگ",
+        "person_id": 2596,
+        "canonical_name": "هاشمي سغدي",
+        "has_id": 840
+      },
+      {
+        "name": "حکیم اسحق بن محمد اسماعیل سمرقندی",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "حکیم اسحق بن محمد اسماعیل سمرقندی، ... صحبت کرده بود بابوبکر وراق",
+        "person_id": 1466,
+        "canonical_name": "حكيم اسحق بن محمد بن اسماعيل السمرقندي",
+        "has_id": NaN
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ السلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ السلام گفت: کی بوبکر صغدی ازین طایفه است شاگرد بوبکر وراق وی گویدکی:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "بوبکر صغدی",
+      "relationship_type": "direct_narrator",
+      "full_text": "وی گویدکی: بوبکر وراق مرد کریم بود، خدای را بمزد کار نکردی که ور تعظیم کردی.",
+      "person_id": 632,
+      "canonical_name": "أبو بكر الصغدي",
+      "has_id": NaN
+    },
+    {
+      "name": "حسین تزمذی",
+      "relationship_type": "direct_narrator",
+      "context": "questioner",
+      "full_text": "حسین تزمذی گوید: که با ابوبکر وراق میرفتم در راه، بریک سوی ردای وی حرف خادیدم، و بردیگر سوی میم.",
+      "person_id": 1450,
+      "canonical_name": "حسين الترمذي",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد مسلم حصیر باف",
+      "relationship_type": "interlocutor",
+      "full_text": "محمد مسلم گفت: زود باشیدکی من کاری دارم.",
+      "person_id": 2450,
+      "canonical_name": "محمد بن مسلم حصير باف",
+      "has_id": NaN
+    },
+    {
+      "name": "یوسف ترمذی",
+      "relationship_type": "interlocutor",
+      "full_text": "با یوسف ترمذی",
+      "person_id": 2685,
+      "canonical_name": "يوسف ترمذي",
+      "has_id": NaN
+    },
+    {
+      "name": "یوسف خیاط",
+      "relationship_type": "interlocutor",
+      "full_text": "یوسف خیاط گفت: باش و ترا جز ازان کاریست، کی اللّه پیش تو آرد، و تو نیز بران از خانه بیامدهٔ!",
+      "person_id": 2673,
+      "canonical_name": "يوسف الخياط",
+      "has_id": NaN
+    },
+    {
+      "name": "بوالخیر تیناتی",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "و برین معنی بوالخیر تیناتی سخن گفته.",
+      "person_id": 471,
+      "canonical_name": "أبو الخير التيناتي",
+      "has_id": NaN
+    },
+    {
+      "name": "یحیی معاذ٭",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "و یحیی معاذ٭ گفت: انکسار العاصین خیر من صولت المطیعین.",
+      "person_id": 2650,
+      "canonical_name": "يحيى بن معاذ الرازي",
+      "has_id": 844
+    }
+  ]
+}

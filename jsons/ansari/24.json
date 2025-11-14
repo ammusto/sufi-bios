@@ -1,0 +1,72 @@
+{
+  "bio_id": "24",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "lived",
+      "full_text": "وکان من اجلة مشایخ بغداد"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "الخلدی",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال الخلدی",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [
+      {
+        "name": "الجنید",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "یقال کان استاذه",
+        "full_text": "و یقال کان استاذه،",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ],
+    "companions": [
+      {
+        "name": "الجنید",
+        "relationship_type": "peer",
+        "relationship_phrase": "من اقران",
+        "full_text": "من اقران الجنید",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "الخلدی",
+      "relationship_type": "narrator",
+      "full_text": "قال الخلدی",
+      "person_id": 1405,
+      "canonical_name": "جعفر بن محمد الخلدي",
+      "has_id": 495
+    },
+    {
+      "name": "الجنید",
+      "relationship_type": "interlocutor",
+      "context": "جلس عند رأسه و خاطبه",
+      "full_text": "جلس الجنید عند راس ابی جعفر الکر نبی عند وفاته",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    }
+  ]
+}

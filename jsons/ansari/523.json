@@ -1,0 +1,120 @@
+{
+  "bio_id": "523",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "بغدادیست"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "شیخ بوالعباس نهاوندی٭",
+          "person_id": 499,
+          "canonical_name": "أبو العباس أحمد بن محمد بن الفضل النهاوندي",
+          "has_id": 53,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر خلدی٭",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ بوالعباس نهاوندی٭ گوید: که استاد من گفت جعفر خلدی٭",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر خلدی",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "جعفر خلدی گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [
+      {
+        "name": "جنید",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "باو میشد",
+        "full_text": "جنید باو میشد",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ بوالعباس نهاوندی٭",
+      "relationship_type": "narrator",
+      "full_text": "شیخ بوالعباس نهاوندی٭ گوید: که استاد من گفت جعفر خلدی٭",
+      "person_id": 499,
+      "canonical_name": "أبو العباس أحمد بن محمد بن الفضل النهاوندي",
+      "has_id": 53
+    },
+    {
+      "name": "جعفر خلدی٭",
+      "relationship_type": "direct_narrator",
+      "full_text": "جعفر خلدی گوید:که با جنید شدم، او را بازگفتم",
+      "person_id": 1405,
+      "canonical_name": "جعفر بن محمد الخلدي",
+      "has_id": 495
+    },
+    {
+      "name": "جنید",
+      "relationship_type": "interlocutor",
+      "full_text": "جنید او را بخواندگفت: علم آن با من بگو!",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    },
+    {
+      "name": "مردی",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "مردی درآمد، سی دینار درآورد، او را میداد",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت: نگرکه بپاداش غره نگردید.",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ بوعمر",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "شیخ بوعمر و حماد قرشی ندیده بودیم",
+      "person_id": 988,
+      "canonical_name": "أبو عمر",
+      "has_id": NaN
+    }
+  ]
+}

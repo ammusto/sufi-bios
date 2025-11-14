@@ -1,0 +1,682 @@
+{
+  "bio_id": "697",
+  "source": "sulami",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "أَصْبَهَان",
+      "context": "nisba",
+      "full_text": "الْأَصْبَهَانِيّ"
+    },
+    {
+      "place": "أَصْبَهَان",
+      "context": "lived",
+      "full_text": "من قدماء مَشَايِخ أَصْبَهَان"
+    },
+    {
+      "place": "مَكَّة",
+      "context": "mentioned",
+      "full_text": "بِمَكَّة"
+    },
+    {
+      "place": "مَكَّة",
+      "context": "mentioned",
+      "full_text": "إِلَى مَكَّة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله الطَّبَرِيّ",
+          "person_id": 708,
+          "canonical_name": "أبو بكر محمد بن عبد الله الطبري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن سهل بن الْأَزْهَر",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله الطَّبَرِيّ يَقُول سَمِعت عَليّ بن سهل بن الْأَزْهَر يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّدًا",
+          "person_id": 2478,
+          "canonical_name": "محمد بن يوسف بن معدان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عليا",
+          "person_id": 1984,
+          "canonical_name": "علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت مُحَمَّدًا يَقُول سَمِعت عليا يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر الطوسي",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا جَعْفَر الْأَصْبَهَانِيّ",
+          "person_id": 730,
+          "canonical_name": "أبو جعفر الخياط الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن سهل",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا نصر الطوسي يَقُول سَمِعت أَبَا جَعْفَر الْأَصْبَهَانِيّ يَقُول سَمِعت عَليّ بن سهل يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا سلم الْأَصْبَهَانِيّ",
+          "person_id": 813,
+          "canonical_name": "أبو سلم الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن سهل",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا نصر يَقُول سَمِعت أَبَا سلم الْأَصْبَهَانِيّ يَقُول سَمِعت عَليّ بن سهل يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا سلم",
+          "person_id": 813,
+          "canonical_name": "أبو سلم الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا جَعْفَر الْحداد",
+          "person_id": 726,
+          "canonical_name": "أبو جعفر الحداد",
+          "has_id": 389,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن سهل",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت أَبَا نصر يَقُول سَمِعت أَبَا سلم يَقُول سَمِعت أَبَا جَعْفَر الْحداد يَقُول سَمِعت عَليّ بن سهل يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا Nصر",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا سلم",
+          "person_id": 813,
+          "canonical_name": "أبو سلم الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا جَعْفَر الْحداد",
+          "person_id": 726,
+          "canonical_name": "أبو جعفر الحداد",
+          "has_id": 389,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن سهل",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا سلم",
+          "person_id": 813,
+          "canonical_name": "أبو سلم الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا جَعْفَر الْحداد",
+          "person_id": 726,
+          "canonical_name": "أبو جعفر الحداد",
+          "has_id": 389,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن سهل",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا سلم",
+          "person_id": 813,
+          "canonical_name": "أبو سلم الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا جَعْفَر الْحداد",
+          "person_id": 726,
+          "canonical_name": "أبو جعفر الحداد",
+          "has_id": 389,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن سهل",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا سلم",
+          "person_id": 813,
+          "canonical_name": "أبو سلم الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا جَعْفَر الْحداد",
+          "person_id": 726,
+          "canonical_name": "أبو جعفر الحداد",
+          "has_id": 389,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن سهل",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا سلم",
+          "person_id": 813,
+          "canonical_name": "أبو سلم الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا جَعْفَر الْحداد",
+          "person_id": 726,
+          "canonical_name": "أبو جعفر الحداد",
+          "has_id": 389,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن سهل",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا سلم",
+          "person_id": 813,
+          "canonical_name": "أبو سلم الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا جَعْفَر الْحداد",
+          "person_id": 726,
+          "canonical_name": "أبو جعفر الحداد",
+          "has_id": 389,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن سهل",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا سلم",
+          "person_id": 813,
+          "canonical_name": "أبو سلم الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا جَعْفَر الْحداد",
+          "person_id": 726,
+          "canonical_name": "أبو جعفر الحداد",
+          "has_id": 389,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن سهل",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا سلم",
+          "person_id": 813,
+          "canonical_name": "أبو سلم الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا جَعْفَر الْحداد",
+          "person_id": 726,
+          "canonical_name": "أبو جعفر الحداد",
+          "has_id": 389,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن سهل",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا سلم",
+          "person_id": 813,
+          "canonical_name": "أبو سلم الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا جَعْفَر الْحداد",
+          "person_id": 726,
+          "canonical_name": "أبو جعفر الحداد",
+          "has_id": 389,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن سهل",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا سلم",
+          "person_id": 813,
+          "canonical_name": "أبو سلم الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا جَعْفَر الْحداد",
+          "person_id": 726,
+          "canonical_name": "أبو جعفر الحداد",
+          "has_id": 389,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن سهل",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا سلم",
+          "person_id": 813,
+          "canonical_name": "أبو سلم الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا جَعْفَر الْحداد",
+          "person_id": 726,
+          "canonical_name": "أبو جعفر الحداد",
+          "has_id": 389,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن سهل",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا سلم",
+          "person_id": 813,
+          "canonical_name": "أبو سلم الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا جَعْفَر الْحداد",
+          "person_id": 726,
+          "canonical_name": "أبو جعفر الحداد",
+          "has_id": 389,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن سهل",
+          "person_id": 2036,
+          "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
+          "has_id": 697,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "الْجُنَيْد",
+        "relationship_type": "peer",
+        "relationship_phrase": "كَانَ يُكَاتب ... ويراسله",
+        "full_text": "كَانَ يُكَاتب الْجُنَيْد ويراسله",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "الْجُنَيْد",
+        "relationship_type": "peer",
+        "relationship_phrase": "من أقرانه",
+        "full_text": "وَهُوَ من أقرانه",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "مُحَمَّد ابْن يُوسُف بن معدان",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب مُحَمَّد ابْن يُوسُف بن معدان",
+        "person_id": 2478,
+        "canonical_name": "محمد بن يوسف بن معدان",
+        "has_id": NaN
+      },
+      {
+        "name": "أَبَا تُرَاب النخشبي",
+        "relationship_type": "peer",
+        "relationship_phrase": "لَقي",
+        "full_text": "وَلَقي أَبَا تُرَاب النخشبي",
+        "person_id": 721,
+        "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+        "has_id": 388
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَبَا بكر مُحَمَّد بن عبد الله الطَّبَرِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله الطَّبَرِيّ يَقُول",
+      "person_id": 708,
+      "canonical_name": "أبو بكر محمد بن عبد الله الطبري",
+      "has_id": NaN
+    },
+    {
+      "name": "مُحَمَّدًا",
+      "relationship_type": "narrator",
+      "full_text": "وَسمعت مُحَمَّدًا يَقُول",
+      "person_id": 2478,
+      "canonical_name": "محمد بن يوسف بن معدان",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا جَعْفَر الْأَصْبَهَانِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا جَعْفَر الْأَصْبَهَانِيّ يَقُول",
+      "person_id": 730,
+      "canonical_name": "أبو جعفر الخياط الأصبهاني",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا سلم الْأَصْبَهَانِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا سلم الْأَصْبَهَانِيّ يَقُول",
+      "person_id": 813,
+      "canonical_name": "أبو سلم الأصبهاني",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا جَعْفَر الْحداد",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا جَعْفَر الْحداد يَقُول",
+      "person_id": 726,
+      "canonical_name": "أبو جعفر الحداد",
+      "has_id": 389
+    },
+    {
+      "name": "عَمْرو بن عُثْمَان الْمَكِّيّ",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "قَصده فِي دين",
+      "full_text": "قَصده عَمْرو بن عُثْمَان الْمَكِّيّ فِي دين كَانَ عَلَيْهِ بِمَكَّة",
+      "person_id": 2126,
+      "canonical_name": "عمرو بن عثمان المكي",
+      "has_id": 716
+    }
+  ]
+}

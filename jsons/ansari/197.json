@@ -1,0 +1,37 @@
+{
+  "bio_id": "197",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "شیخ بوعمر مالکی",
+          "person_id": 992,
+          "canonical_name": "أبو عمر المالكي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ بوعمر مالکی مرا گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ بوعمر مالکی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ بوعمر مالکی مرا گفت:",
+      "person_id": 992,
+      "canonical_name": "أبو عمر المالكي",
+      "has_id": NaN
+    }
+  ]
+}

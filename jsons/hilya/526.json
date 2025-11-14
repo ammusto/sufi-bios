@@ -1,0 +1,73 @@
+{
+  "bio_id": "526",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله",
+          "person_id": 1782,
+          "canonical_name": "عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسحاق",
+          "person_id": 335,
+          "canonical_name": "إسحاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1404,
+          "canonical_name": "جعفر بن محمد",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "حيان الأسود",
+          "person_id": 1484,
+          "canonical_name": "حيان الأسود",
+          "has_id": 526,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله ثنا إسحاق ثنا أحمد بن أبي الحواري ثنا جعفر بن محمد عن حيان الأسود.",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "جعفر بن محمد",
+      "relationship_type": "narrator",
+      "full_text": "ثنا جعفر بن محمد عن حيان الأسود",
+      "person_id": 1405,
+      "canonical_name": "جعفر بن محمد الخلدي",
+      "has_id": 495
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "كان عندنا رجل مكث ثلاث عشرة سنة، يصلي في كل يوم وليلة ألف ركعة، حتى أقعد من رجليه، فإذا صلى العصر احتبى واستقبل القبلة ثم قال: عجبت للخليقة كيف أرادت بك بدلا. بل عجبت للخليقة كيف استنارت قلوبها بذكر سواك. بل عجبت للخليقة كيف آنست بسواك. ثم يسكت إلى المغرب.",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

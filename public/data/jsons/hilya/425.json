@@ -1,0 +1,158 @@
+{
+  "bio_id": "425",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "دمشق",
+      "context": "nisba",
+      "full_text": "الدمشقي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عمرو الدمشقي",
+          "person_id": 1010,
+          "canonical_name": "أبو عمرو الدمشقي",
+          "has_id": 425,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت منصور بن عبد الله يقول قال أبو عمرو الدمشقي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر الرازي",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عمرو الدمشقي",
+          "person_id": 1010,
+          "canonical_name": "أبو عمرو الدمشقي",
+          "has_id": 425,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أبا بكر الرازي يقول سمعت أبا عمرو الدمشقي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا القاسم عبد السلام بن محمد المخزومي",
+          "person_id": 554,
+          "canonical_name": "أبو القاسم عبد السلام بن محمد المخزومي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عمرو الدمشقي",
+          "person_id": 1010,
+          "canonical_name": "أبو عمرو الدمشقي",
+          "has_id": 425,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا القاسم عبد السلام بن محمد المخزومي يقول سمعت أبا عمرو الدمشقي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد الله الرازي",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عمرو الدمشقي",
+          "person_id": 1010,
+          "canonical_name": "أبو عمرو الدمشقي",
+          "has_id": 425,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين بن موسى يقول سمعت محمد بن عبد الله الرازي يقول سمعت أبا عمرو الدمشقي يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "منصور بن عبد الله",
+      "relationship_type": "narrator",
+      "full_text": "سمعت منصور بن عبد الله يقول",
+      "person_id": 2547,
+      "canonical_name": "منصور بن عبد الله",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا بكر الرازي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر الرازي يقول",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا القاسم عبد السلام بن محمد المخزومي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا القاسم عبد السلام بن محمد المخزومي يقول",
+      "person_id": 554,
+      "canonical_name": "أبو القاسم عبد السلام بن محمد المخزومي",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن عبد الله الرازي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن عبد الله الرازي يقول",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    }
+  ]
+}

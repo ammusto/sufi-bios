@@ -1,0 +1,50 @@
+{
+  "bio_id": "414",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "سجستان",
+      "context": "nisba",
+      "full_text": "السجزي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا محمد عبد الله بن محمد المعلم النيسابوري",
+          "person_id": 1061,
+          "canonical_name": "أبو محمد عبد الله بن محمد المعلم النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عبد الله السجزي",
+          "person_id": 871,
+          "canonical_name": "أبو عبد الله السجزي",
+          "has_id": 414,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا محمد عبد الله بن محمد المعلم النيسابوري - صاحب عبد الله بن\nمنازل - يقول سمعت أبا عبد الله السجزي يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا محمد عبد الله بن محمد المعلم النيسابوري",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا محمد عبد الله بن محمد المعلم النيسابوري - صاحب عبد الله بن\nمنازل - يقول",
+      "person_id": 1061,
+      "canonical_name": "أبو محمد عبد الله بن محمد المعلم النيسابوري",
+      "has_id": NaN
+    }
+  ]
+}

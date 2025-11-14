@@ -1,0 +1,183 @@
+{
+  "bio_id": "564",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "سامرا",
+      "context": "lived",
+      "full_text": "كان من أهل سامرا"
+    },
+    {
+      "place": "بغداد",
+      "context": "lived",
+      "full_text": "سكن بغداد"
+    },
+    {
+      "place": "الدجلة",
+      "context": "visited",
+      "full_text": "فارم به في الدجلة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "علي بن هارون - صاحب الجنيد -",
+          "person_id": 435,
+          "canonical_name": "أبو الحسن علي بن هارون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "غير واحد من أصحابه ممن حضر موته",
+          "person_id": 2154,
+          "canonical_name": "غير واحد من أصحابه ممن حضر موته",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1510,
+          "canonical_name": "خير النساج",
+          "has_id": 564,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت علي بن هارون - صاحب الجنيد - يحكي عن غير واحد من أصحابه ممن حضر موته قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "خيرا النساج",
+          "person_id": 1510,
+          "canonical_name": "خير النساج",
+          "has_id": 564,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد بن نصير في كتابه قال: سألت خيرا النساج",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الحسن بن جعفر",
+          "person_id": 82,
+          "canonical_name": "الحسن بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن إبراهيم الجريري",
+          "person_id": 1805,
+          "canonical_name": "عبد الله بن إبراهيم الجريري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الخير الديلمي",
+          "person_id": 474,
+          "canonical_name": "أبو الخير الديلمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1510,
+          "canonical_name": "خير النساج",
+          "has_id": 564,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر الحسن بن جعفر قال أخبرني عبد الله بن إبراهيم الجريري قال قال أبو الخير الديلمي",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أبا حمزة",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "سكن بغداد وصحب أبا حمزة والسري السقطي.",
+        "person_id": 764,
+        "canonical_name": "أبو حمزة البغدادي",
+        "has_id": 397
+      },
+      {
+        "name": "السري السقطي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "سكن بغداد وصحب أبا حمزة والسري السقطي.",
+        "person_id": 161,
+        "canonical_name": "السري السقطي",
+        "has_id": 236
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "غير واحد من أصحابه ممن حضر موته",
+      "relationship_type": "narrator",
+      "full_text": "يحكي عن غير واحد من أصحابه ممن حضر موته قال",
+      "person_id": 2154,
+      "canonical_name": "غير واحد من أصحابه ممن حضر موته",
+      "has_id": NaN
+    },
+    {
+      "name": "جعفر بن محمد بن نصير",
+      "relationship_type": "questioner",
+      "full_text": "سألت خيرا النساج",
+      "person_id": 1405,
+      "canonical_name": "جعفر بن محمد الخلدي",
+      "has_id": 495
+    },
+    {
+      "name": "أبو الخير الديلمي",
+      "relationship_type": "interlocutor",
+      "full_text": "قال قال أبو الخير الديلمي: كنت جالسا عند خير النساج",
+      "person_id": 474,
+      "canonical_name": "أبو الخير الديلمي",
+      "has_id": NaN
+    },
+    {
+      "name": "امرأة",
+      "relationship_type": "interlocutor",
+      "full_text": "فأتته امرأة وقالت: أعطني المنديل الذي دفعته إليك.",
+      "person_id": 261,
+      "canonical_name": "امرأة",
+      "has_id": NaN
+    },
+    {
+      "name": "بعض أصحابه",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "dreamer",
+      "full_text": "فرآه بعض أصحابه في المنام فقال له: ما فعل الله بك؟",
+      "person_id": 1339,
+      "canonical_name": "بعض أصحابه",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "interlocutor",
+      "full_text": "إذا رجل نظر إلى وقال: يا خير يا آبق هربت مني؟",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

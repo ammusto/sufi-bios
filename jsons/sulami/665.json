@@ -1,0 +1,657 @@
+{
+  "bio_id": "665",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "329",
+    "full_text": "مَاتَ بنيسابور سنة تسع وَعشْرين وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "نيسابور",
+      "context": "lived",
+      "full_text": "من أجل مَشَايِخ نيسابور"
+    },
+    {
+      "place": "نيسابور",
+      "context": "died",
+      "full_text": "مَاتَ بنيسابور"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبي ﵀",
+          "person_id": 580,
+          "canonical_name": "أبو أبي عبد الرحمن السلمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو مُحَمَّد عبد الله بن مُحَمَّد بن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "جَعْفَر بن مُحَمَّد بن سوار",
+          "person_id": 1409,
+          "canonical_name": "جعفر بن محمد بن سوار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "قُتَيْبَة بن سعيد",
+          "person_id": 2178,
+          "canonical_name": "قتيبة بن سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الْوَاحِد",
+          "person_id": 1899,
+          "canonical_name": "عبد الواحد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِسْمَاعِيل بن سميع",
+          "person_id": 363,
+          "canonical_name": "إسماعيل بن سميع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو رزين",
+          "person_id": 784,
+          "canonical_name": "أبو رزين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا هُرَيْرَة",
+          "person_id": 1120,
+          "canonical_name": "أبو هريرة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حَدثنَا أبي ﵀ قَالَ حَدثنَا أَبُو مُحَمَّد عبد الله بن مُحَمَّد بن منَازِل قَالَ حَدثنَا جَعْفَر بن مُحَمَّد بن سوار قَالَ حَدثنَا قُتَيْبَة بن سعيد قَالَ حَدثنَا عبد الْوَاحِد عَن إِسْمَاعِيل بن سميع قَالَ حَدثنَا أَبُو رزين قَالَ سَمِعت أَبَا هُرَيْرَة يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان يَقُول سَمِعت عبد الله بن مُحَمَّد بن منَازِل يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الله بن مُحَمَّد بن فضلويه يَقُول سَمِعت عبد الله بن مُحَمَّد بن منَازِل يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول وَسَأَلَهُ إِنْسَان عَن مَسْأَلَة فَأجَاب فَقَالَ لَهُ أعد عَليّ فَقَالَ أَنا فِي ندامة مَا جرى",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته وَسُئِلَ عَن الْعُبُودِيَّة يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن منَازِل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت عبد الله بن مُحَمَّد بن فضلويه يَقُول سَمِعت عبد الله يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت عبد الله يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت عبد الله يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسمعت عبد الله يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد بن فضلويه",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله",
+          "person_id": 1876,
+          "canonical_name": "عبد الله بن محمد بن فضلويه",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "أَبَا صَالح حمدون ابْن أَحْمد الْقصار",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحب، وأخذ عن",
+        "full_text": "صحب أَبَا صَالح حمدون ابْن أَحْمد الْقصار وَأخذ عَنهُ طَرِيقَته",
+        "person_id": 827,
+        "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+        "has_id": 524
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "أَبُو عَليّ الثَّقَفِيّ",
+        "relationship_type": "peer",
+        "relationship_phrase": "يحترمه ويبجله وَيرْفَع من مِقْدَاره وَمحله",
+        "full_text": "وَكَانَ أَبُو عَليّ الثَّقَفِيّ يحترمه ويبجله وَيرْفَع من مِقْدَاره وَمحله",
+        "person_id": 947,
+        "canonical_name": "أبو علي الثقفي",
+        "has_id": 112
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أبي ﵀",
+      "relationship_type": "narrator",
+      "full_text": "حَدثنَا أبي ﵀",
+      "person_id": 580,
+      "canonical_name": "أبو أبي عبد الرحمن السلمي",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان يَقُول",
+      "person_id": 711,
+      "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الله بن مُحَمَّد بن فضلويه",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت عبد الله بن مُحَمَّد بن فضلويه يَقُول",
+      "person_id": 1876,
+      "canonical_name": "عبد الله بن محمد بن فضلويه",
+      "has_id": NaN
+    },
+    {
+      "name": "إِنْسَان",
+      "relationship_type": "questioner",
+      "full_text": "وَسَأَلَهُ إِنْسَان عَن مَسْأَلَة",
+      "person_id": 1310,
+      "canonical_name": "أنس بن مالك",
+      "has_id": NaN
+    },
+    {
+      "name": "بَعض أَصْحَابه",
+      "relationship_type": "interlocutor",
+      "full_text": "لبَعض أَصْحَابه قد عشقت نَفسك وعشقت من يعشقك",
+      "person_id": 1339,
+      "canonical_name": "بعض أصحابه",
+      "has_id": NaN
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "bio_id": "438",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "الشام",
+      "context": "lived",
+      "full_text": "كانا من عباد الشاميين"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد بن جعفر",
+          "person_id": 1868,
+          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسحاق بن أبي حسان",
+          "person_id": 343,
+          "canonical_name": "إسحاق بن أبي حسان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد ابن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1404,
+          "canonical_name": "جعفر بن محمد",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد الميموني",
+          "person_id": 1159,
+          "canonical_name": "أحمد الميموني وأحمد الموصلي",
+          "has_id": 438,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد بن جعفر ثنا إسحاق بن أبي حسان ثنا أحمد ابن أبي الحواري ثنا جعفر بن محمد عن أحمد الميموني",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو العالية",
+          "person_id": 484,
+          "canonical_name": "أبو العالية",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1159,
+          "canonical_name": "أحمد الميموني وأحمد الموصلي",
+          "has_id": 438,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بلغني عن أبي العالية أنه قال",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أحمد الموصلي",
+        "relationship_type": "peer",
+        "relationship_phrase": "كانا متواخيين",
+        "full_text": "كانا متواخيين",
+        "person_id": 1159,
+        "canonical_name": "أحمد الميموني وأحمد الموصلي",
+        "has_id": 438
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "جعفر بن محمد",
+      "relationship_type": "narrator",
+      "full_text": "ثنا جعفر بن محمد عن أحمد الميموني",
+      "person_id": 1405,
+      "canonical_name": "جعفر بن محمد الخلدي",
+      "has_id": 495
+    },
+    {
+      "name": "أحمد الموصلي",
+      "relationship_type": "interlocutor",
+      "context": "dialogue",
+      "full_text": "أتيت أحمد الموصلي فقلت",
+      "person_id": 1159,
+      "canonical_name": "أحمد الميموني وأحمد الموصلي",
+      "has_id": 438
+    },
+    {
+      "name": "أبو العالية",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "cited_authority",
+      "full_text": "بلغني عن أبي العالية أنه قال",
+      "person_id": 484,
+      "canonical_name": "أبو العالية",
+      "has_id": NaN
+    }
+  ]
+}

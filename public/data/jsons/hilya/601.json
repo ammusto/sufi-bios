@@ -1,0 +1,79 @@
+{
+  "bio_id": "601",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو بكر محمد بن أحمد",
+          "person_id": 691,
+          "canonical_name": "أبو بكر محمد بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسن بن أبان",
+          "person_id": 417,
+          "canonical_name": "أبو الحسن بن أبان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1855,
+          "canonical_name": "عبد الله بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن إبراهيم",
+          "person_id": 1171,
+          "canonical_name": "أحمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سلمة بن غفار",
+          "person_id": 1615,
+          "canonical_name": "سلمة بن غفار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حجاج بن محمد",
+          "person_id": 1438,
+          "canonical_name": "حجاج بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو خالد الأحمر",
+          "person_id": 770,
+          "canonical_name": "أبو خالد سليمان بن حيان الأحمر",
+          "has_id": 601,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو بكر محمد بن أحمد ثنا أبو الحسن بن أبان ثنا عبد الله بن محمد ثنا أحمد بن إبراهيم ثنا سلمة بن غفار عن حجاج بن محمد قال: كتب إلي أبو خالد الأحمر",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "حجاج بن محمد",
+      "relationship_type": "narrator",
+      "full_text": "عن حجاج بن محمد قال: كتب إلي أبو خالد الأحمر",
+      "person_id": 1438,
+      "canonical_name": "حجاج بن محمد",
+      "has_id": NaN
+    }
+  ]
+}

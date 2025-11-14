@@ -1,0 +1,570 @@
+{
+  "bio_id": "410",
+  "source": "sulami",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بَغْدَاد",
+      "context": "born",
+      "full_text": "كَانَ أَصله من بَغْدَاد"
+    },
+    {
+      "place": "الرملة",
+      "context": "lived",
+      "full_text": "أَقَامَ بالرملة"
+    },
+    {
+      "place": "دمشق",
+      "context": "lived",
+      "full_text": "أَقَامَ بالرملة ودمشق"
+    },
+    {
+      "place": "الشَّام",
+      "context": "mentioned",
+      "full_text": "مَشَايِخ الشَّام"
+    },
+    {
+      "place": "الشَّام",
+      "context": "mentioned",
+      "full_text": "وَأَبُو عبد الله بن الْجلاء بِالشَّام"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "إِسْمَاعِيل بن نجيد",
+          "person_id": 1015,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+          "has_id": 176,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت جدي إِسْمَاعِيل بن نجيد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَمْرو الدِّمَشْقِي",
+          "person_id": 1010,
+          "canonical_name": "أبو عمرو الدمشقي",
+          "has_id": 425,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله بن الْجلاء",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّد بن عبد الله الرَّازِيّ يَقُول سَمِعت أَبَا عَمْرو الدِّمَشْقِي يَقُول سَمِعت أَبَا عبد الله بن الْجلاء يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَمْرو الدِّمَشْقِي",
+          "person_id": 1010,
+          "canonical_name": "أبو عمرو الدمشقي",
+          "has_id": 425,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله بن الْجلاء",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَمْرو الدِّمَشْقِي",
+          "person_id": 1010,
+          "canonical_name": "أبو عمرو الدمشقي",
+          "has_id": 425,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله بن الْجلاء",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وبإسناده",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَمْرو الدِّمَشْقِي",
+          "person_id": 1010,
+          "canonical_name": "أبو عمرو الدمشقي",
+          "has_id": 425,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله بن الْجلاء",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَمْرو الدِّمَشْقِي",
+          "person_id": 1010,
+          "canonical_name": "أبو عمرو الدمشقي",
+          "has_id": 425,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله بن الْجلاء",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن عَليّ بن جَعْفَر",
+          "person_id": 1226,
+          "canonical_name": "أحمد بن علي بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْعَبَّاس بن عِصَام",
+          "person_id": 181,
+          "canonical_name": "العباس بن عصام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله بن الْجلاء",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَحْمد بن عَليّ بن جَعْفَر يَقُول سَمِعت الْعَبَّاس بن عِصَام يَقُول سَمِعت أَبَا عبد الله بن الْجلاء يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن عَليّ بن جَعْفَر",
+          "person_id": 1226,
+          "canonical_name": "أحمد بن علي بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْعَبَّاس بن عِصَام",
+          "person_id": 181,
+          "canonical_name": "العباس بن عصام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عبد الله بن الْجلاء",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن عَليّ",
+          "person_id": 1222,
+          "canonical_name": "أحمد بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول سَمِعت أَحْمد بن عَليّ يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن عَليّ",
+          "person_id": 1222,
+          "canonical_name": "أحمد بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن عَليّ",
+          "person_id": 1222,
+          "canonical_name": "أحمد بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن عَليّ",
+          "person_id": 1222,
+          "canonical_name": "أحمد بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن عَليّ",
+          "person_id": 1222,
+          "canonical_name": "أحمد بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن عَليّ",
+          "person_id": 1222,
+          "canonical_name": "أحمد بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن عَليّ",
+          "person_id": 1222,
+          "canonical_name": "أحمد بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن عَليّ",
+          "person_id": 1222,
+          "canonical_name": "أحمد بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 898,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [
+      {
+        "name": "مُحَمَّد بن دَاوُد الدقي",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "أستاذ",
+        "full_text": "وَكَانَ أستاذ مُحَمَّد بن دَاوُد الدقي",
+        "person_id": 621,
+        "canonical_name": "أبو بكر الدقي",
+        "has_id": 382
+      }
+    ],
+    "companions": [
+      {
+        "name": "يحيى الْجلاء",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَاهُ يحيى الْجلاء",
+        "person_id": 2625,
+        "canonical_name": "يحيى بن الجلاء",
+        "has_id": NaN
+      },
+      {
+        "name": "أَبا تُرَاب النخشبي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وَأَبا تُرَاب النخشبي",
+        "person_id": 721,
+        "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+        "has_id": 388
+      },
+      {
+        "name": "ذَا النُّون الْمصْرِيّ",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وَذَا النُّون الْمصْرِيّ",
+        "person_id": 1523,
+        "canonical_name": "ذو النون المصري",
+        "has_id": 570
+      },
+      {
+        "name": "أَبا عبيد البسري",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وَأَبا عبيد البسري",
+        "person_id": 924,
+        "canonical_name": "أبو عبيد البسري",
+        "has_id": 409
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "إِسْمَاعِيل بن نجيد",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت جدي إِسْمَاعِيل بن نجيد يَقُول",
+      "person_id": 1015,
+      "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+      "has_id": 176
+    },
+    {
+      "name": "أَبَا عَمْرو الدِّمَشْقِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا عَمْرو الدِّمَشْقِي يَقُول",
+      "person_id": 1010,
+      "canonical_name": "أبو عمرو الدمشقي",
+      "has_id": 425
+    },
+    {
+      "name": "الْعَبَّاس بن عِصَام",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت الْعَبَّاس بن عِصَام يَقُول",
+      "person_id": 181,
+      "canonical_name": "العباس بن عصام",
+      "has_id": NaN
+    },
+    {
+      "name": "أَحْمد بن عَليّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَحْمد بن عَليّ يَقُول",
+      "person_id": 1222,
+      "canonical_name": "أحمد بن علي",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "questioner",
+      "full_text": "وَقد سَأَلَهُ رجل على أَي شَرط أصحب الْخلق",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

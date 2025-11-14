@@ -1,0 +1,521 @@
+{
+  "bio_id": "292",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "348",
+    "full_text": "مَاتَ سنة ثَمَان وَأَرْبَعين وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "بوشنج",
+      "context": "nisba",
+      "full_text": "البوشنجي"
+    },
+    {
+      "place": "خُرَاسَان",
+      "context": "mentioned",
+      "full_text": "خُرَاسَان"
+    },
+    {
+      "place": "العراق",
+      "context": "visited",
+      "full_text": "وصَحب بالعراق"
+    },
+    {
+      "place": "الشام",
+      "context": "visited",
+      "full_text": "وبالشام"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله بن مُحَمَّد الْحَافِظ",
+          "person_id": 2388,
+          "canonical_name": "محمد بن عبد الله بن محمد الحافظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْحسن عَليّ بن أَحْمد بن سهل البوشنجي الصُّوفِي",
+          "person_id": 428,
+          "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
+          "has_id": 292,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد الرَّحْمَن الشَّامي",
+          "person_id": 2373,
+          "canonical_name": "محمد بن عبد الرحمن الشامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِسْمَاعِيل بن أبي أويس",
+          "person_id": 360,
+          "canonical_name": "إسماعيل بن أبي أويس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِسْمَاعِيل بن إِبْرَاهِيم بن أبي حَبِيبَة",
+          "person_id": 357,
+          "canonical_name": "إسماعيل بن إبراهيم بن أبي حبيبة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "دَاوُد بن الْحصين",
+          "person_id": 1514,
+          "canonical_name": "داود بن الحصين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عِكْرِمَة",
+          "person_id": 1978,
+          "canonical_name": "عكرمة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابْن عَبَّاس",
+          "person_id": 26,
+          "canonical_name": "ابن عباس",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا مُحَمَّد بن عبد الله بن مُحَمَّد الْحَافِظ قَالَ حَدثنَا أَبُو الْحسن عَليّ بن أَحْمد بن سهل البوشنجي الصُّوفِي قَالَ حَدثنَا مُحَمَّد بن عبد الرَّحْمَن الشَّامي قَالَ حَدثنَا إِسْمَاعِيل بن أبي أويس قَالَ حَدثنَا إِسْمَاعِيل بن إِبْرَاهِيم بن أبي حَبِيبَة عَن دَاوُد بن الْحصين عَن عِكْرِمَة عَن ابْن عَبَّاس ﵄",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس مُحَمَّد بن الْحسن الخشاب",
+          "person_id": 508,
+          "canonical_name": "أبو العباس محمد بن الحسن بن الخشاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحسن البوشنجي",
+          "person_id": 428,
+          "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
+          "has_id": 292,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْعَبَّاس مُحَمَّد بن الْحسن الخشاب يَقُول سَمِعت أَبَا الْحسن البوشنجي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس مُحَمَّد بن الْحسن الخشاب",
+          "person_id": 508,
+          "canonical_name": "أبو العباس محمد بن الحسن بن الخشاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحسن البوشنجي",
+          "person_id": 428,
+          "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
+          "has_id": 292,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسَأَلته عَن التصوف",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس مُحَمَّد بن الْحسن الخشاب",
+          "person_id": 508,
+          "canonical_name": "أبو العباس محمد بن الحسن بن الخشاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحسن البوشنجي",
+          "person_id": 428,
+          "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
+          "has_id": 292,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسَأَلته عَن الْمُرُوءَة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحسن البوشنجي",
+          "person_id": 428,
+          "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
+          "has_id": 292,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت أَبَا الْحسن البوشنجي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحسن البوشنجي",
+          "person_id": 428,
+          "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
+          "has_id": 292,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ أَبُو الْحسن عَن التصوف",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان سعيد بن أبي سعيد",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْحسن البوشنجي",
+          "person_id": 428,
+          "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
+          "has_id": 292,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا عُثْمَان سعيد بن أبي سعيد يَقُول سُئِلَ أَبُو الْحسن البوشنجي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان سعيد بن أبي سعيد",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْحسن البوشنجي",
+          "person_id": 428,
+          "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
+          "has_id": 292,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْحسن",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان سعيد بن أبي سعيد",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْحسن البوشنجي",
+          "person_id": 428,
+          "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
+          "has_id": 292,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ أَبُو الْحسن البوشنجي مَا الْمُرُوءَة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان سعيد بن أبي سعيد",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْحسن البوشنجي",
+          "person_id": 428,
+          "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
+          "has_id": 292,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْحسن السراج يَوْمًا للبوشنجي ادْع الله لي فَقَالَ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان سعيد بن أبي سعيد",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْحسن البوشنجي",
+          "person_id": 428,
+          "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
+          "has_id": 292,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَسُئِلَ عَن الْمحبَّة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان سعيد بن أبي سعيد",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْحسن البوشنجي",
+          "person_id": 428,
+          "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
+          "has_id": 292,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ البوشنجي",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان سعيد بن أبي سعيد",
+          "person_id": 932,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْحسن البوشنجي",
+          "person_id": 428,
+          "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
+          "has_id": 292,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْحسن البوشنجي",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عبد الله مُحَمَّد بن عبد الله",
+          "person_id": 915,
+          "canonical_name": "أبو عبد الله محمد بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحسن البوشنجي",
+          "person_id": 428,
+          "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
+          "has_id": 292,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا عبد الله مُحَمَّد بن عبد الله قَالَ سَمِعت أَبَا الْحسن البوشنجي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عبد الله مُحَمَّد بن عبد الله",
+          "person_id": 915,
+          "canonical_name": "أبو عبد الله محمد بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحسن البوشنجي",
+          "person_id": 428,
+          "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
+          "has_id": 292,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عبد الله مُحَمَّد بن عبد الله",
+          "person_id": 915,
+          "canonical_name": "أبو عبد الله محمد بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الْحسن البوشنجي",
+          "person_id": 428,
+          "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
+          "has_id": 292,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو الْحسن البوشنجي",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أَبَا عُثْمَان",
+        "relationship_type": "peer",
+        "relationship_phrase": "لَقِي",
+        "full_text": "لَقِي أَبَا عُثْمَان",
+        "person_id": 932,
+        "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+        "has_id": 419
+      },
+      {
+        "name": "ابْن عَطاء",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب بالعراق",
+        "full_text": "وصَحب بالعراق ابْن عَطاء",
+        "person_id": 498,
+        "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+        "has_id": 340
+      },
+      {
+        "name": "الجريري",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب بالعراق",
+        "full_text": "وصَحب بالعراق ابْن عَطاء والجريري",
+        "person_id": 1035,
+        "canonical_name": "أبو محمد الجريري",
+        "has_id": 431
+      },
+      {
+        "name": "طَاهِرا",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب بالشام",
+        "full_text": "وبالشام طَاهِرا",
+        "person_id": 1696,
+        "canonical_name": "طاهر المقدسي",
+        "has_id": 640
+      },
+      {
+        "name": "أَبا عَمْرو الدِّمَشْقِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب بالشام",
+        "full_text": "وبالشام طَاهِرا وَأَبا عَمْرو الدِّمَشْقِي",
+        "person_id": 1010,
+        "canonical_name": "أبو عمرو الدمشقي",
+        "has_id": 425
+      },
+      {
+        "name": "الشبلي",
+        "relationship_type": "peer",
+        "relationship_phrase": "تكلم مَعَ",
+        "full_text": "وَتكلم مَعَ الشبلي فِي مسَائِل",
+        "person_id": 628,
+        "canonical_name": "أبو بكر الشبلي",
+        "has_id": 376
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "مُحَمَّد بن عبد الله بن مُحَمَّد الْحَافِظ",
+      "relationship_type": "narrator",
+      "full_text": "أخبرنَا مُحَمَّد بن عبد الله بن مُحَمَّد الْحَافِظ",
+      "person_id": 2388,
+      "canonical_name": "محمد بن عبد الله بن محمد الحافظ",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا الْعَبَّاس مُحَمَّد بن الْحسن الخشاب",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْعَبَّاس مُحَمَّد بن الْحسن الخشاب يَقُول",
+      "person_id": 508,
+      "canonical_name": "أبو العباس محمد بن الحسن بن الخشاب",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا بكر الرَّازِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا عُثْمَان سعيد بن أبي سعيد",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا عُثْمَان سعيد بن أبي سعيد يَقُول",
+      "person_id": 932,
+      "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+      "has_id": 419
+    },
+    {
+      "name": "أَبَا عبد الله مُحَمَّد بن عبد الله",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا عبد الله مُحَمَّد بن عبد الله قَالَ",
+      "person_id": 915,
+      "canonical_name": "أبو عبد الله محمد بن عبد الله",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبُو الْحسن السراج",
+      "relationship_type": "interlocutor",
+      "full_text": "قَالَ وَقَالَ أَبُو الْحسن السراج يَوْمًا للبوشنجي ادْع الله لي فَقَالَ",
+      "person_id": 400,
+      "canonical_name": "أبو الحسن السراج",
+      "has_id": NaN
+    }
+  ]
+}

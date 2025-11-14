@@ -1,0 +1,855 @@
+{
+  "bio_id": "451",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "طوس",
+      "context": "nisba",
+      "full_text": "الطوسي"
+    },
+    {
+      "place": "بغداد",
+      "context": "lived",
+      "full_text": "من ساكني بغداد."
+    },
+    {
+      "place": "بغداد",
+      "context": "mentioned",
+      "full_text": "في بعض دروب بغداد"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "الشيخ",
+          "person_id": 169,
+          "canonical_name": "الشيخ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال الشيخ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد الرازي",
+          "person_id": 1859,
+          "canonical_name": "عبد الله بن محمد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا العباس بن مسروق",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين بن موسى يقول سمعت عبد الله بن محمد الرازي يقول سمعت أبا العباس بن مسروق يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا سعيد بن عطاء",
+          "person_id": 808,
+          "canonical_name": "أبو سعيد بن عطاء",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أبا سعيد بن عطاء يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد الخلدي",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين بن يحيى الفقيه أبو علي",
+          "person_id": 135,
+          "canonical_name": "الحسين بن يحيى الفقيه أبو علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد الخلدي - في كتابه - وحدثني عنه الحسين بن يحيى الفقيه أبو علي قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 2237,
+          "canonical_name": "محمد بن الحسين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر الرازي",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا",
+          "person_id": 1393,
+          "canonical_name": "جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر جعفر بن محمد وحدثني محمد بن الحسين قال سمعت أبا بكر الرازي يقول سمعت جعفرا يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو العباس بن مسروق",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر جعفر - في كتابه - وحدثني عنه محمد بن إبراهيم قال قال أبو العباس بن مسروق",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 2237,
+          "canonical_name": "محمد بن الحسين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر الرازي",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو العباس بن مسروق",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر جعفر وحدثني عنه محمد بن الحسين قال سمعت أبا بكر الرازي يقول قال أبو العباس بن مسروق",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الشيخ رضي الله تعالى عنه",
+          "person_id": 169,
+          "canonical_name": "الشيخ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال الشيخ رضي الله تعالى عنه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو إسحاق بن حمزة",
+          "person_id": 577,
+          "canonical_name": "أبو إسحاق بن حمزة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو العباس أحمد بن محمد بن مسروق الصوفي",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الأعلى",
+          "person_id": 1724,
+          "canonical_name": "عبد الأعلى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حماد بن سلمة",
+          "person_id": 1472,
+          "canonical_name": "حماد بن سلمة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عطاء الخراساني",
+          "person_id": 1964,
+          "canonical_name": "عطاء الخراساني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن المسيب وأيوب بن سيرين",
+          "person_id": 1593,
+          "canonical_name": "سعيد بن المسيب وأيوب بن سيرين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمران بن حصين وقتادة وحميد",
+          "person_id": 2115,
+          "canonical_name": "عمران بن حصين وقتادة وحميد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين",
+          "person_id": 105,
+          "canonical_name": "الحسين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر",
+          "person_id": 2084,
+          "canonical_name": "عمر",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو إسحاق بن حمزة ثنا أبو العباس أحمد بن محمد بن مسروق الصوفي ثنا عبد الأعلى ثنا حماد بن سلمة عن عطاء الخراساني عن سعيد بن المسيب وأيوب بن سيرين عن عمران بن حصين وقتادة وحميد عن الحسين عن عمر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو مخلد بن جعفر",
+          "person_id": 1069,
+          "canonical_name": "أبو مخلد بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن مسروق",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن بكار",
+          "person_id": 2324,
+          "canonical_name": "محمد بن بكار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حفص بن سليمان",
+          "person_id": 1460,
+          "canonical_name": "حفص بن سليمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علقمة بن مرثد",
+          "person_id": 1981,
+          "canonical_name": "علقمة بن مرثد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الرحمن السلمي",
+          "person_id": 2691,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان ابن عفان",
+          "person_id": 1952,
+          "canonical_name": "عثمان بن عفان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "رسول الله ﷺ",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو مخلد بن جعفر ثنا أحمد بن محمد بن مسروق ثنا محمد بن بكار ثنا حفص بن سليمان عن علقمة بن مرثد عن أبي عبد الرحمن السلمي عن عثمان ابن عفان سمعته على منبر رسول الله ﷺ قال قال رسول الله ﷺ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مخلد بن جعفر",
+          "person_id": 2488,
+          "canonical_name": "مخلد بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن مسروق",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        },
+        {
+          "name": "محمد ابن بكار",
+          "person_id": 2324,
+          "canonical_name": "محمد بن بكار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "قيس بن الربيع",
+          "person_id": 2187,
+          "canonical_name": "قيس بن الربيع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الأعمش",
+          "person_id": 59,
+          "canonical_name": "الأعمش",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شقيق",
+          "person_id": 980,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مسعود",
+          "person_id": 1880,
+          "canonical_name": "عبد الله بن مسعود",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "النبي ﷺ",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا مخلد بن جعفر ثنا أحمد بن محمد بن مسروق ثنا محمد ابن بكار ثنا قيس بن الربيع عن الأعمش عن شقيق عن عبد الله بن مسعود عن النبي ﷺ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حبيب بن الحسن",
+          "person_id": 1432,
+          "canonical_name": "حبيب بن الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن مسروق",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن حسان السمتي",
+          "person_id": 2339,
+          "canonical_name": "محمد بن حسان السمتي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله أبو عثمان الحمصي",
+          "person_id": 1797,
+          "canonical_name": "عبد الله أبو عثمان الحمصي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الأوزاعي",
+          "person_id": 61,
+          "canonical_name": "الأوزاعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبيدة بن لبابة",
+          "person_id": 1943,
+          "canonical_name": "عبيدة بن لبابة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عمر",
+          "has_id": NaN,
+          "person_id": 28,
+          "canonical_name": "ابن عمر",
+          "subj_added": false
+        },
+        {
+          "name": "رسول الله ﷺ",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا حبيب بن الحسن ثنا أحمد بن محمد بن مسروق ثنا محمد بن حسان السمتي ثنا عبد الله أبو عثمان الحمصي عن الأوزاعي عن عبيدة بن لبابة عن ابن عمر قال قال رسول الله ﷺ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حبيب بن الحسن",
+          "person_id": 1432,
+          "canonical_name": "حبيب بن الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن مسروق",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        },
+        {
+          "name": "شيبان ابن فروخ",
+          "person_id": 1679,
+          "canonical_name": "شيبان بن فروخ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن زياد",
+          "person_id": 2352,
+          "canonical_name": "محمد بن زياد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ميمون بن مهران",
+          "person_id": 2573,
+          "canonical_name": "ميمون بن مهران",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عباس",
+          "has_id": NaN,
+          "person_id": 26,
+          "canonical_name": "ابن عباس",
+          "subj_added": false
+        },
+        {
+          "name": "رسول الله ﷺ",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا حبيب بن الحسن ثنا أحمد بن محمد بن مسروق ثنا شيبان ابن فروخ ثنا محمد بن زياد عن ميمون بن مهران عن ابن عباس قال قال رسول الله ﷺ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حبيب بن الحسن",
+          "person_id": 1432,
+          "canonical_name": "حبيب بن الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد بن مسروق",
+          "person_id": 2318,
+          "canonical_name": "محمد بن أحمد بن مسروق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يعقوب بن إسحاق",
+          "person_id": 2663,
+          "canonical_name": "يعقوب بن إسحاق الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عبيد الله الغزانى",
+          "person_id": 1216,
+          "canonical_name": "أحمد بن عبيد الله الغزانى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن السماك",
+          "person_id": 2246,
+          "canonical_name": "محمد بن السماك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عائد",
+          "person_id": 1709,
+          "canonical_name": "عائد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عطاء",
+          "person_id": 1963,
+          "canonical_name": "عطاء",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عائشة رضي الله تعالى عنها",
+          "person_id": 1711,
+          "canonical_name": "عائشة رضي الله تعالى عنها",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "رسول الله ﷺ",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا حبيب بن الحسن ثنا محمد بن أحمد بن مسروق ثنا يعقوب بن إسحاق ثنا أحمد بن عبيد الله الغزانى ثنا محمد بن السماك عن عائد عن عطاء عن\nعائشة رضي الله تعالى عنها قالت قال رسول الله ﷺ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حبيب بن الحسن",
+          "person_id": 1432,
+          "canonical_name": "حبيب بن الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو العباس بن مسروق",
+          "person_id": 505,
+          "canonical_name": "أبو العباس بن مسروق الطوسي",
+          "has_id": 451,
+          "subj_added": false
+        },
+        {
+          "name": "خالد بن عبد الصمد",
+          "person_id": 1490,
+          "canonical_name": "خالد بن عبد الصمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الملك بن قريب الأصمعي",
+          "person_id": 1891,
+          "canonical_name": "عبد الملك بن قريب الأصمعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "القاسم بن سلام مولى الرشيد أمير المؤمنين - وكان من أهل الدين والأدب -",
+          "person_id": 206,
+          "canonical_name": "القاسم بن سلام مولى الرشيد أمير المؤمنين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الرشيد",
+          "person_id": 153,
+          "canonical_name": "الرشيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "المهدي",
+          "person_id": 243,
+          "canonical_name": "المهدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبيه",
+          "person_id": 1149,
+          "canonical_name": "أبوه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن علي",
+          "person_id": 2407,
+          "canonical_name": "محمد بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبيه",
+          "person_id": 1149,
+          "canonical_name": "أبوه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عباس",
+          "has_id": NaN,
+          "person_id": 26,
+          "canonical_name": "ابن عباس",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا حبيب بن الحسن ثنا أبو العباس بن مسروق ثنا خالد بن عبد الصمد ثنا عبد الملك بن قريب الأصمعي قال حدثني القاسم بن سلام مولى الرشيد أمير المؤمنين - وكان من أهل الدين والأدب - عن الرشيد عن المهدي عن أبيه عن محمد بن علي عن أبيه عن ابن عباس",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "الحارث بن أسد المحاسبي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب الحارث بن أسد المحاسبي ومحمد بن منصور الطوسى والسرى بن المفلس السقطي ومحمد بن الحسين البرجلاني.",
+        "person_id": 69,
+        "canonical_name": "الحارث بن أسد المحاسبي",
+        "has_id": 229
+      },
+      {
+        "name": "محمد بن منصور الطوسى",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب الحارث بن أسد المحاسبي ومحمد بن منصور الطوسى والسرى بن المفلس السقطي ومحمد بن الحسين البرجلاني.",
+        "person_id": 2454,
+        "canonical_name": "محمد بن منصور الطوسي",
+        "has_id": 789
+      },
+      {
+        "name": "السرى بن المفلس السقطي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب الحارث بن أسد المحاسبي ومحمد بن منصور الطوسى والسرى بن المفلس السقطي ومحمد بن الحسين البرجلاني.",
+        "person_id": 161,
+        "canonical_name": "السري السقطي",
+        "has_id": 236
+      },
+      {
+        "name": "محمد بن الحسين البرجلاني",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب الحارث بن أسد المحاسبي ومحمد بن منصور الطوسى والسرى بن المفلس السقطي ومحمد بن الحسين البرجلاني.",
+        "person_id": 2239,
+        "canonical_name": "محمد بن الحسين البرجلاني",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "عبد الله بن محمد الرازي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت عبد الله بن محمد الرازي يقول سمعت أبا العباس بن مسروق يقول",
+      "person_id": 1859,
+      "canonical_name": "عبد الله بن محمد الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "الحسين بن يحيى الفقيه أبو علي",
+      "relationship_type": "narrator",
+      "full_text": "وحدثني عنه الحسين بن يحيى الفقيه أبو علي قال",
+      "person_id": 135,
+      "canonical_name": "الحسين بن يحيى الفقيه أبو علي",
+      "has_id": NaN
+    },
+    {
+      "name": "جعفرا",
+      "relationship_type": "questioner",
+      "full_text": "سمعت جعفرا يقول: سألت أبا العباس بن مسروق مسألة في العقل",
+      "person_id": 1405,
+      "canonical_name": "جعفر بن محمد الخلدي",
+      "has_id": 495
+    },
+    {
+      "name": "محمد بن إبراهيم",
+      "relationship_type": "narrator",
+      "full_text": "وحدثني عنه محمد بن إبراهيم قال قال أبو العباس بن مسروق",
+      "person_id": 2269,
+      "canonical_name": "محمد بن إبراهيم",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا بكر الرازي",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت أبا بكر الرازي يقول قال أبو العباس بن مسروق",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو إسحاق بن حمزة",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا أبو إسحاق بن حمزة ثنا أبو العباس أحمد بن محمد بن مسروق الصوفي",
+      "person_id": 577,
+      "canonical_name": "أبو إسحاق بن حمزة",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو مخلد بن جعفر",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا أبو مخلد بن جعفر ثنا أحمد بن محمد بن مسروق",
+      "person_id": 1069,
+      "canonical_name": "أبو مخلد بن جعفر",
+      "has_id": NaN
+    },
+    {
+      "name": "مخلد بن جعفر",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا مخلد بن جعفر ثنا أحمد بن محمد بن مسروق",
+      "person_id": 2488,
+      "canonical_name": "مخلد بن جعفر",
+      "has_id": NaN
+    },
+    {
+      "name": "حبيب بن الحسن",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا حبيب بن الحسن ثنا أحمد بن محمد بن مسروق",
+      "person_id": 1432,
+      "canonical_name": "حبيب بن الحسن",
+      "has_id": NaN
+    },
+    {
+      "name": "الجنيد بن محمد",
+      "relationship_type": "interlocutor",
+      "full_text": "مررت مع الجنيد بن محمد في بعض دروب بغداد",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    }
+  ]
+}

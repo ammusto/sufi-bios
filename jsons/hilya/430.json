@@ -1,0 +1,128 @@
+{
+  "bio_id": "430",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "الطفاوي",
+      "context": "nisba",
+      "full_text": "الطفاوي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو عبد الله محمد بن أحمد بن عمر",
+          "person_id": 913,
+          "canonical_name": "أبو عبد الله محمد بن أحمد بن عمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبان",
+          "person_id": 1175,
+          "canonical_name": "أحمد بن أبان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر ابن عبيد",
+          "person_id": 673,
+          "canonical_name": "أبو بكر بن عبيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسين البرجلاني",
+          "person_id": 2239,
+          "canonical_name": "محمد بن الحسين البرجلاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عون بن عمارة",
+          "person_id": 2136,
+          "canonical_name": "عون بن عمارة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو محرز الطفاوي",
+          "person_id": 1032,
+          "canonical_name": "أبو محرز الطفاوي",
+          "has_id": 430,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو عبد الله محمد بن أحمد بن عمر ثنا أحمد بن أبان ثنا أبو بكر ابن عبيد قال حدثني محمد بن الحسين البرجلاني ثنا عون بن عمارة قال قال أبو محرز الطفاوي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو عبد الله محمد بن أحمد بن عمر",
+          "person_id": 913,
+          "canonical_name": "أبو عبد الله محمد بن أحمد بن عمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبان",
+          "person_id": 1175,
+          "canonical_name": "أحمد بن أبان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر ابن عبيد",
+          "person_id": 673,
+          "canonical_name": "أبو بكر بن عبيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسين البرجلاني",
+          "person_id": 2239,
+          "canonical_name": "محمد بن الحسين البرجلاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عون بن عمارة",
+          "person_id": 2136,
+          "canonical_name": "عون بن عمارة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو محرز الطفاوي",
+          "person_id": 1032,
+          "canonical_name": "أبو محرز الطفاوي",
+          "has_id": 430,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال أبو محرز",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "عون بن عمارة",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "ثنا عون بن عمارة قال قال أبو محرز الطفاوي",
+      "person_id": 2136,
+      "canonical_name": "عون بن عمارة",
+      "has_id": NaN
+    }
+  ]
+}

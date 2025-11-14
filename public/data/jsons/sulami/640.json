@@ -1,0 +1,174 @@
+{
+  "bio_id": "640",
+  "source": "sulami",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بيت المقدس",
+      "context": "nisba",
+      "full_text": "الْمَقْدِسِي"
+    },
+    {
+      "place": "الشام",
+      "context": "lived",
+      "full_text": "وَهُوَ من جلة مَشَايِخ الشَّام"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا القاسم الدِّمَشْقِي",
+          "person_id": 556,
+          "canonical_name": "أبو القاسم عبد الله بن محمد الدمشقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "طَاهِرا الْمَقْدِسِي",
+          "person_id": 1696,
+          "canonical_name": "طاهر المقدسي",
+          "has_id": 640,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْقَاسِم الدِّمَشْقِي يَقُول سَمِعت طَاهِرا الْمَقْدِسِي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا القاسم الدِّمَشْقِي",
+          "person_id": 556,
+          "canonical_name": "أبو القاسم عبد الله بن محمد الدمشقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "طَاهِرا الْمَقْدِسِي",
+          "person_id": 1696,
+          "canonical_name": "طاهر المقدسي",
+          "has_id": 640,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ طَاهِر",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا القاسم الدِّمَشْقِي",
+          "person_id": 556,
+          "canonical_name": "أبو القاسم عبد الله بن محمد الدمشقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "طَاهِرا الْمَقْدِسِي",
+          "person_id": 1696,
+          "canonical_name": "طاهر المقدسي",
+          "has_id": 640,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ طَاهِر",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد الدِّمَشْقِي",
+          "person_id": 1857,
+          "canonical_name": "عبد الله بن محمد الدمشقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "طَاهِرا الْمَقْدِسِي",
+          "person_id": 1696,
+          "canonical_name": "طاهر المقدسي",
+          "has_id": 640,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أَنْشدني عبد الله بن مُحَمَّد الدِّمَشْقِي قَالَ أَنْشدني طَاهِرا الْمَقْدِسِي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن مُحَمَّد الدِّمَشْقِي",
+          "person_id": 1857,
+          "canonical_name": "عبد الله بن محمد الدمشقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "طَاهِرا الْمَقْدِسِي",
+          "person_id": 1696,
+          "canonical_name": "طاهر المقدسي",
+          "has_id": 640,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ طَاهِر",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "ذَا النُّون الْمصْرِيّ",
+        "relationship_type": "peer",
+        "relationship_phrase": "رأى",
+        "full_text": "رأى ذَا النُّون الْمصْرِيّ",
+        "person_id": 1523,
+        "canonical_name": "ذو النون المصري",
+        "has_id": 570
+      },
+      {
+        "name": "يحيى الْجلاء",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وَصَحب يحيى الْجلاء",
+        "person_id": 2625,
+        "canonical_name": "يحيى بن الجلاء",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أبا القاسم الدِّمَشْقِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْقَاسِم الدِّمَشْقِي يَقُول",
+      "person_id": 556,
+      "canonical_name": "أبو القاسم عبد الله بن محمد الدمشقي",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الله بن مُحَمَّد الدِّمَشْقِي",
+      "relationship_type": "narrator",
+      "full_text": "أَنْشدني عبد الله بن مُحَمَّد الدِّمَشْقِي",
+      "person_id": 1857,
+      "canonical_name": "عبد الله بن محمد الدمشقي",
+      "has_id": NaN
+    },
+    {
+      "name": "الشبلي",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "وَهُوَ الَّذِي يُسَمِّيه الشبلي حبر أهل الشَّام",
+      "person_id": 628,
+      "canonical_name": "أبو بكر الشبلي",
+      "has_id": 376
+    }
+  ]
+}

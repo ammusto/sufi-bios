@@ -1,0 +1,334 @@
+{
+  "bio_id": "316",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "همدان",
+      "context": "nisba",
+      "full_text": "همدانی"
+    },
+    {
+      "place": "مکه",
+      "context": "lived",
+      "full_text": "بمکه بوده مجاور،"
+    },
+    {
+      "place": "مکه",
+      "context": "lived",
+      "full_text": "بمکه شیخ حرم بود،"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی من کس شناسم کی بزیارت شیخ بوالحسین جهنم شد بمکه،",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی زیارت مشایخ و خدمت ایشان برین طایفه فرض است.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که عقیل بستی از بست بیامد به حج خواست شد،",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "«شیخ الاسلام گفت: که» شیخ ابوالحسین جهنم را پسری رسید،",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که طزر جاییست بپارس،",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بونصر احمد حاجی",
+          "person_id": 1102,
+          "canonical_name": "أبو نصر أحمد الحاجي",
+          "has_id": 207,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که شیخ بونصر احمد حاجی مرا گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: ای جوان مردان!",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: قومی بودند به کواشان با من میبودند",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ عمو",
+          "person_id": 1683,
+          "canonical_name": "شيخ عمو",
+          "has_id": 717,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "من آن شیخ عمو را گفتم شیخ عموگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی شیخ «بوالحسین سرکی» بوده بمکه مجاور،",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی بوالحسین سرکی اوست، کی در بادیه بود",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی زنده ویرا شربتی آب نداد،",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی وی قزین بافتی، روز بوالحسین سرکی بمکه گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ عمو",
+          "person_id": 1683,
+          "canonical_name": "شيخ عمو",
+          "has_id": 717,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که شیخ عموگفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ عمو",
+          "person_id": 1683,
+          "canonical_name": "شيخ عمو",
+          "has_id": 717,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که شیخ عمو گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ عمو",
+          "person_id": 1683,
+          "canonical_name": "شيخ عمو",
+          "has_id": 717,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ عموگفت: که پس ازان ویرا بخراسان دیدم",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که شیخ بوالحسن حداد هروری سید بوده «درویش» مجرد ظریف از ظرفأ صوفیان، بمکه بود مجاور «با مشایخ درویش صادق»",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ احمدکوفانی",
+          "person_id": 1158,
+          "canonical_name": "أحمد الكوفاني",
+          "has_id": 212,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که در جعبهٔ من از شیخ احمدکوفانی این حکایت است",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ احمدکوفانی",
+          "person_id": 1158,
+          "canonical_name": "أحمد الكوفاني",
+          "has_id": 212,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ احمدکوفانی",
+          "person_id": 1158,
+          "canonical_name": "أحمد الكوفاني",
+          "has_id": 212,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "هم احمدگفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "کوکبی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد کوکبی بود و جعفر خلدی،",
+        "person_id": 2199,
+        "canonical_name": "كوكبي",
+        "has_id": NaN
+      },
+      {
+        "name": "جعفر خلدی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد کوکبی بود و جعفر خلدی،",
+        "person_id": 1405,
+        "canonical_name": "جعفر بن محمد الخلدي",
+        "has_id": 495
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "بندار",
+        "relationship_type": "peer",
+        "relationship_phrase": "ویرا دیده بود",
+        "full_text": "و بندار و بشری٭ ویرا دیده بود،",
+        "person_id": 1362,
+        "canonical_name": "بندار",
+        "has_id": NaN
+      },
+      {
+        "name": "بشری٭",
+        "relationship_type": "peer",
+        "relationship_phrase": "ویرا دیده بود",
+        "full_text": "و بندار و بشری٭ ویرا دیده بود،",
+        "person_id": 1326,
+        "canonical_name": "بشري",
+        "has_id": NaN
+      },
+      {
+        "name": "شیخ احمدکوفانی٭",
+        "relationship_type": "peer",
+        "relationship_phrase": "هم دیده بود",
+        "full_text": "شیخ احمدکوفانی٭ هم دیده بود.",
+        "person_id": 1158,
+        "canonical_name": "أحمد الكوفاني",
+        "has_id": 212
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ بونصر احمد حاجی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ بونصر احمد حاجی مرا گفت",
+      "person_id": 1102,
+      "canonical_name": "أبو نصر أحمد الحاجي",
+      "has_id": 207
+    },
+    {
+      "name": "شیخ عمو",
+      "relationship_type": "narrator",
+      "full_text": "شیخ عموگفت:",
+      "person_id": 1683,
+      "canonical_name": "شيخ عمو",
+      "has_id": 717
+    },
+    {
+      "name": "شیخ احمدکوفانی",
+      "relationship_type": "narrator",
+      "full_text": "در جعبهٔ من از شیخ احمدکوفانی این حکایت است",
+      "person_id": 1158,
+      "canonical_name": "أحمد الكوفاني",
+      "has_id": 212
+    },
+    {
+      "name": "یکی",
+      "relationship_type": "questioner",
+      "full_text": "یکی فرا شیخ سیروانی گفت: ای شیخ!",
+      "person_id": 2670,
+      "canonical_name": "يكي",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ سیروانی",
+      "relationship_type": "interlocutor",
+      "full_text": "شیخ سیروانی گفت: که رنج از پیر است ور پسر نه از پسر بر پیر",
+      "person_id": 165,
+      "canonical_name": "السيرواني",
+      "has_id": NaN
+    },
+    {
+      "name": "بندار",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "و بندار و بشری٭ ویرا دیده بود،",
+      "person_id": 1362,
+      "canonical_name": "بندار",
+      "has_id": NaN
+    },
+    {
+      "name": "بشری٭",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "و بندار و بشری٭ ویرا دیده بود،",
+      "person_id": 1326,
+      "canonical_name": "بشري",
+      "has_id": NaN
+    },
+    {
+      "name": "عقیل بستی",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "عقیل بستی از بست بیامد به حج خواست شد،",
+      "person_id": 1977,
+      "canonical_name": "عقيل البستي",
+      "has_id": NaN
+    }
+  ]
+}

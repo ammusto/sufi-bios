@@ -1,0 +1,91 @@
+{
+  "bio_id": "783",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "ترمذ",
+      "context": "nisba",
+      "full_text": "الترمذی"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "او",
+          "person_id": 267,
+          "canonical_name": "او",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "اوگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "وی",
+          "person_id": 2621,
+          "canonical_name": "وي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و هم وی گفت که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت کی:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "بوتراب نخشبی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده بود",
+        "full_text": "بوتراب نخشبی دیده بود",
+        "person_id": 721,
+        "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+        "has_id": 388
+      },
+      {
+        "name": "یحیی جلا",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده بود",
+        "full_text": "بوتراب نخشبی دیده بود و یحیی جلا،",
+        "person_id": 2655,
+        "canonical_name": "يحيي بن الجلاء",
+        "has_id": NaN
+      },
+      {
+        "name": "احمد خضرویه٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود",
+        "full_text": "و با احمد خضرویه٭ صحبت کرده بود",
+        "person_id": 1194,
+        "canonical_name": "أحمد بن خضرويه البلخي",
+        "has_id": 440
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت کی:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    }
+  ]
+}

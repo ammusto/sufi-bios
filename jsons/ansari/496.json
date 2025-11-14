@@ -1,0 +1,75 @@
+{
+  "bio_id": "496",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "ابوعبداللّه الحصری٭",
+          "person_id": 861,
+          "canonical_name": "أبو عبد الله الحصري",
+          "has_id": 136,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "ذکره ابوعبداللّه الحصری٭ یقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ولید بن عبداللهّ القاء",
+          "person_id": 2619,
+          "canonical_name": "وليد بن عبد الله السقاء",
+          "has_id": 843,
+          "subj_added": false
+        },
+        {
+          "name": "ذوالنون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وی گوید: که ذوالنون گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "ابوعبداللّه الحصری٭",
+      "relationship_type": "narrator",
+      "full_text": "ذکره ابوعبداللّه الحصری٭ یقول:",
+      "person_id": 861,
+      "canonical_name": "أبو عبد الله الحصري",
+      "has_id": 136
+    },
+    {
+      "name": "ولید بن عبداللهّ القاء",
+      "relationship_type": "narrator",
+      "full_text": "ولید بن عبداللهّ القاء کنیت وی ابواسحق از اصحاب ذوالنون بود وی گوید:",
+      "person_id": 2619,
+      "canonical_name": "وليد بن عبد الله السقاء",
+      "has_id": 843
+    },
+    {
+      "name": "ذوالنون",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "quoted",
+      "full_text": "که ذوالنون گفت:",
+      "person_id": 1523,
+      "canonical_name": "ذو النون المصري",
+      "has_id": 570
+    }
+  ]
+}

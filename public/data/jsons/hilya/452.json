@@ -1,0 +1,244 @@
+{
+  "bio_id": "452",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "visited",
+      "full_text": "جاءتني امرأة ببغداد ليلة من الليالي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أحمد بن محمد بن إبراهيم",
+          "person_id": 1245,
+          "canonical_name": "أحمد بن محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن مهدي",
+          "person_id": 1274,
+          "canonical_name": "أحمد بن مهدي",
+          "has_id": 452,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أسمعت أعلى أحمد بن محمد بن إبراهيم يقول قال أحمد بن مهدي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو محمد بن حيان",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1274,
+          "canonical_name": "أحمد بن مهدي",
+          "has_id": 452,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سمعت أبا محمد بن حيان يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن جعفر بن سعيد",
+          "person_id": 1185,
+          "canonical_name": "أحمد بن جعفر بن سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن مهدي",
+          "person_id": 1274,
+          "canonical_name": "أحمد بن مهدي",
+          "has_id": 452,
+          "subj_added": false
+        },
+        {
+          "name": "عمر بن خالد المصري",
+          "person_id": 2097,
+          "canonical_name": "عمر بن خالد المصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عيسى بن يونس",
+          "person_id": 2143,
+          "canonical_name": "عيسى بن يونس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سفيان",
+          "person_id": 1606,
+          "canonical_name": "سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "منصور",
+          "person_id": 2541,
+          "canonical_name": "منصور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "هلال بن يساف",
+          "person_id": 2605,
+          "canonical_name": "هلال بن يساف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الأغر",
+          "person_id": 1733,
+          "canonical_name": "عبد الرحمن الأغر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي هريرة",
+          "person_id": 1120,
+          "canonical_name": "أبو هريرة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد بن جعفر بن سعيد ثنا أحمد بن مهدي ثنا عمر بن خالد المصري ثنا عيسى بن يونس عن سفيان عن منصور عن هلال بن يساف عن الأغر عن أبي هريرة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إبراهيم بن يوسف",
+          "person_id": 331,
+          "canonical_name": "إبراهيم بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن مهدي",
+          "person_id": 1274,
+          "canonical_name": "أحمد بن مهدي",
+          "has_id": 452,
+          "subj_added": false
+        },
+        {
+          "name": "سليمان بن أيوب بن سليمان بن عيسى بن موسى بن طلحة",
+          "person_id": 1627,
+          "canonical_name": "سليمان بن أيوب بن سليمان بن عيسى بن موسى بن طلحة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبيد الله",
+          "person_id": 1924,
+          "canonical_name": "عبيد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 925,
+          "canonical_name": "أبو عبيد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جدي",
+          "person_id": 1385,
+          "canonical_name": "جدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "موسى ابن طلحة",
+          "person_id": 2562,
+          "canonical_name": "موسى بن طلحة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبيه",
+          "person_id": 1149,
+          "canonical_name": "أبوه",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إبراهيم بن يوسف ثنا أحمد بن مهدي ثنا سليمان بن أيوب بن سليمان بن عيسى بن موسى بن طلحة عن عبيد الله ثنا أبي عن جدي عن موسى ابن طلحة عن أبيه",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أحمد بن محمد بن إبراهيم",
+      "relationship_type": "narrator",
+      "full_text": "أسمعت أعلى أحمد بن محمد بن إبراهيم يقول",
+      "person_id": 1245,
+      "canonical_name": "أحمد بن محمد بن إبراهيم",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو محمد بن حيان",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا محمد بن حيان يقول",
+      "person_id": 1050,
+      "canonical_name": "أبو محمد بن حيان",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد بن جعفر بن سعيد",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا أحمد بن جعفر بن سعيد",
+      "person_id": 1185,
+      "canonical_name": "أحمد بن جعفر بن سعيد",
+      "has_id": NaN
+    },
+    {
+      "name": "إبراهيم بن يوسف",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا إبراهيم بن يوسف",
+      "person_id": 331,
+      "canonical_name": "إبراهيم بن يوسف",
+      "has_id": NaN
+    },
+    {
+      "name": "امرأة ببغداد",
+      "relationship_type": "interlocutor",
+      "full_text": "جاءتني امرأة ببغداد ليلة من الليالي فذكرت أنها من بنات الناس،",
+      "person_id": 261,
+      "canonical_name": "امرأة",
+      "has_id": NaN
+    },
+    {
+      "name": "إمام المحلة",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "وجاء إمام المحلة في جماعة الجيران يهنئوني بالولد الميمون النجيب،",
+      "person_id": 371,
+      "canonical_name": "إمام المحلة",
+      "has_id": NaN
+    }
+  ]
+}

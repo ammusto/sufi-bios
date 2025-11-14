@@ -1,0 +1,335 @@
+{
+  "bio_id": "96",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "ارمیه",
+      "context": "nisba",
+      "full_text": "ارموی"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "رویم",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفتکه رویم گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "رویم",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوبکر الرازی",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن یزدانیار",
+          "person_id": 616,
+          "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
+          "has_id": 231,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قال ابوبکر الرازی: سمعت ابن یزدانیار",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوبکر الرازی",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن یزدانیار",
+          "person_id": 616,
+          "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
+          "has_id": 231,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوبکر الرازی",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن یزدانیار",
+          "person_id": 616,
+          "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
+          "has_id": 231,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و قال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوبکر الرازی",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن یزدانیار",
+          "person_id": 616,
+          "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
+          "has_id": 231,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و قال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوبکر الرازی",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن یزدانیار",
+          "person_id": 616,
+          "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
+          "has_id": 231,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و قال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوبکر الرازی",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن یزدانیار",
+          "person_id": 616,
+          "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
+          "has_id": 231,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و قال:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوبکر الخباز بغدادی",
+          "person_id": 618,
+          "canonical_name": "أبو بكر الخباز",
+          "has_id": 58,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوبکر بیکندی",
+          "person_id": 681,
+          "canonical_name": "أبو بكر بيكندي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که شیخ بوبکر بیکندی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوبکر بیکندی",
+          "person_id": 681,
+          "canonical_name": "أبو بكر بيكندي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [
+      {
+        "name": "شیخ بوبکر رازی",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "استاد",
+        "full_text": "استاد شیخ بوبکر رازی ایذ.",
+        "person_id": 711,
+        "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+        "has_id": NaN
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "ابوبکر الرازی",
+      "relationship_type": "direct_narrator",
+      "full_text": "قال ابوبکر الرازی: سمعت ابن یزدانیار",
+      "person_id": 711,
+      "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "رویم",
+      "relationship_type": "narrator",
+      "full_text": "رویم گفت بوعبداللّه خفیف را:",
+      "person_id": 1553,
+      "canonical_name": "رويم بن أحمد",
+      "has_id": 578
+    },
+    {
+      "name": "بوعبداللّه خفیف",
+      "relationship_type": "interlocutor",
+      "context": "addressee",
+      "full_text": "رویم گفت بوعبداللّه خفیف را:",
+      "person_id": 22,
+      "canonical_name": "أبو عبد الله بن خفيف",
+      "has_id": 26
+    },
+    {
+      "name": "بوالعباس نهاوندی٭",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "شیخ الاسلام گفت: که بوالعباس نهاوندی٭ روزی نماز بام صوفیان همه خفته دید",
+      "person_id": 499,
+      "canonical_name": "أبو العباس أحمد بن محمد بن الفضل النهاوندي",
+      "has_id": 53
+    },
+    {
+      "name": "شبلی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "منکر برو",
+      "full_text": "بعضی مشایخ برو منکر بودند چون شبلی و جز ازوی.",
+      "person_id": 628,
+      "canonical_name": "أبو بكر الشبلي",
+      "has_id": 376
+    },
+    {
+      "name": "ابوبکر الخباز بغدادی",
+      "relationship_type": "narrator",
+      "full_text": "ابوبکر الخباز بغدادی کان من استاذی الجریری قال: العیال عقوبة تنفیذ الشهوات الحلال",
+      "person_id": 618,
+      "canonical_name": "أبو بكر الخباز",
+      "has_id": 58
+    },
+    {
+      "name": "شیخ بوبکر بیکندی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ بوبکر بیکندی گفت: که اللّه مهر خود بر دلها قسم کرد.",
+      "person_id": 681,
+      "canonical_name": "أبو بكر بيكندي",
+      "has_id": NaN
+    },
+    {
+      "name": "ابوبکر بن عیسی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "died",
+      "full_text": "ابوبکر بن عیسی من اهل ابهر من اقران ابیبکر بن طاهر وابرمنه. دخل ابوبکر علیه و هو فی الموت فقال له احسن ظنک بربک ففتح عینه و قال: لمثلی یقال هذا الکلام؟ ان ترکنا عبدناه وان دعانا اجبناه مات سنه خمس و ثلثمائه.",
+      "person_id": 676,
+      "canonical_name": "أبو بكر بن عيسي المطوعي",
+      "has_id": 64
+    },
+    {
+      "name": "ابیبکر بن طاهر",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "اقران",
+      "full_text": "ابوبکر بن عیسی من اهل ابهر من اقران ابیبکر بن طاهر وابرمنه.",
+      "person_id": 39,
+      "canonical_name": "ابيبكر بن طاهر",
+      "has_id": NaN
+    }
+  ]
+}

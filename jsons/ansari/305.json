@@ -1,0 +1,852 @@
+{
+  "bio_id": "305",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "سیروان",
+      "context": "nisba",
+      "full_text": "سیروانیکهین"
+    },
+    {
+      "place": "مصر",
+      "context": "lived",
+      "full_text": "بمصر بوده"
+    },
+    {
+      "place": "مکه",
+      "context": "lived",
+      "full_text": "بمکه بوده مجاور سالها"
+    },
+    {
+      "place": "مکه",
+      "context": "died",
+      "full_text": "و آن جا برفته"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت نور اللّه قبره، کی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ سلمی",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ سلمی ویرا گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که از وی پرسیدندکه تصوف چیست؟",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وی گفتک",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "فتح حاجی",
+          "person_id": 2164,
+          "canonical_name": "فتح الحاجي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: «که فتح حاجی گوید»",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "فتح حاجی",
+          "person_id": 2164,
+          "canonical_name": "فتح الحاجي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ عمو",
+          "person_id": 1683,
+          "canonical_name": "شيخ عمو",
+          "has_id": 717,
+          "subj_added": false
+        },
+        {
+          "name": "شیخ سیروانی",
+          "person_id": 165,
+          "canonical_name": "السيرواني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که شیخ عموگفت، که شیخ سیروانی گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عباس",
+          "person_id": 1716,
+          "canonical_name": "عباس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و عباس گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عمو",
+          "person_id": 1683,
+          "canonical_name": "شيخ عمو",
+          "has_id": 717,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و عموگفت",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "فتح حاجی",
+          "person_id": 2164,
+          "canonical_name": "فتح الحاجي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سیروانی",
+          "person_id": 165,
+          "canonical_name": "السيرواني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "فتح حاجی گوید، که سیروانی گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الشیخ لامام الاجل السید شیخ الاسلام ناصر السنة شیخ الشیوخ «زین العلما» امام الایمة ابو اسماعیل عبداللّه بن محمد الانصاری",
+          "person_id": 380,
+          "canonical_name": "أبو اسماعيل عبد الله بن محمد الانصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الشیخ ابوالحسن علی بن بشری السجزی",
+          "person_id": 430,
+          "canonical_name": "أبو الحسن علي بن بشريى السجزي",
+          "has_id": 298,
+          "subj_added": false
+        },
+        {
+          "name": "ابوالحسن علی بن جعفر السیروانی بمکة",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": false
+        },
+        {
+          "name": "ابوعقال مولی ابن عزیز",
+          "person_id": 943,
+          "canonical_name": "أبو عقال مولي بن عزيز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مولای محمد بن عزیز یعنی الابلی",
+          "person_id": 2405,
+          "canonical_name": "محمد بن عزيز يعني الابلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سلامة بن روح الکندی",
+          "person_id": 1610,
+          "canonical_name": "سلامة بن روح الكندي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عقیل",
+          "person_id": 1976,
+          "canonical_name": "عقيل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الزهری",
+          "person_id": 157,
+          "canonical_name": "الزهري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "انس بن مالک",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا الشیخ لامام الاجل السید شیخ الاسلام ناصر السنة شیخ الشیوخ «زین العلما» امام الایمة ابو اسماعیل عبداللّه بن محمد الانصاری انار اللّه برهانه و وسع علیه رضوانه قال: حدثنا الشیخ ابوالحسن علی بن بشری السجزی و\nابواسماعیل احمد بن حمزة الحداد و غیر هم، قال حدثنا الشیخ الجلیل\nابوالحسن علی بن جعفر السیروانی بمکة، قال ابوعقال مولی ابن عزیز قال حدثنا مولای محمد بن عزیز یعنی الابلی قال حدثنا سلامة بن روح الکندی، قال حدثنا عقیل عن الزهری عن انس بن مالک ان النبی ﷺ قال: اکثر اهل الجنة البله.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الشیخ لامام الاجل السید شیخ الاسلام ناصر السنة شیخ الشیوخ «زین العلما» امام الایمة ابو اسماعیل عبداللّه بن محمد الانصاری",
+          "person_id": 380,
+          "canonical_name": "أبو اسماعيل عبد الله بن محمد الانصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابواسماعیل احمد بن حمزة الحداد",
+          "person_id": 379,
+          "canonical_name": "أبو اسماعيل أحمد بن حمزة الحداد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابوالحسن علی بن جعفر السیروانی بمکة",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": false
+        },
+        {
+          "name": "ابوعقال مولی ابن عزیز",
+          "person_id": 943,
+          "canonical_name": "أبو عقال مولي بن عزيز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مولای محمد بن عزیز یعنی الابلی",
+          "person_id": 2405,
+          "canonical_name": "محمد بن عزيز يعني الابلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سلامة بن روح الکندی",
+          "person_id": 1610,
+          "canonical_name": "سلامة بن روح الكندي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عقیل",
+          "person_id": 1976,
+          "canonical_name": "عقيل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الزهری",
+          "person_id": 157,
+          "canonical_name": "الزهري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "انس بن مالک",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا الشیخ لامام الاجل السید شیخ الاسلام ناصر السنة شیخ الشیوخ «زین العلما» امام الایمة ابو اسماعیل عبداللّه بن محمد الانصاری انار اللّه برهانه و وسع علیه رضوانه قال: حدثنا الشیخ ابوالحسن علی بن بشری السجزی و\nابواسماعیل احمد بن حمزة الحداد و غیر هم، قال حدثنا الشیخ الجلیل\nابوالحسن علی بن جعفر السیروانی بمکة، قال ابوعقال مولی ابن عزیز قال حدثنا مولای محمد بن عزیز یعنی الابلی قال حدثنا سلامة بن روح الکندی، قال حدثنا عقیل عن الزهری عن انس بن مالک ان النبی ﷺ قال: اکثر اهل الجنة البله.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ سیروانی",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "هم شیخ سیروانی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ سیروانی",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ سیروانی",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفته:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ سیروانی",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفته:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "سیروانی",
+          "person_id": 165,
+          "canonical_name": "السيرواني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و سیروانی گفته:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ سیروانی",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ سیروانی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ سیروانی",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "هم وی گفت",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ سیروانی",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ سیروانی",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفته:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ سیروانی",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفته وقتی یاران را:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ سیروانی",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "پس شیخ سیروانی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ سیروانی",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و هم شیخ سیروانی گفت»:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ سیروانی",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "پس شیخ سیروانی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "نهاوندی",
+          "person_id": 251,
+          "canonical_name": "النهاوندي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت که نهاوندی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "یوسف حین رازی",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 432,
+          "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+          "has_id": 305,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و یوسف حین رازی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی یکی ازین طایفه از همه تایب است وکه بغایت شود ازان غایت تایب است.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که مردی بود نفط فروش نهاوندی، و فقرا از وی در دنیا میآسودند بآخروی را مهجور کردند، و چیزی از وی بنه ستدند",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "سیروانی مهین",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد سیروانی مهین است",
+        "person_id": 432,
+        "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
+        "has_id": 305
+      },
+      {
+        "name": "معاذ مصری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد معاذ مصری ایذ",
+        "person_id": 2515,
+        "canonical_name": "معاذ المصري",
+        "has_id": NaN
+      },
+      {
+        "name": "بوبکر موازینی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد معاذ مصری ایذ و بوبکر موازینی و جنید و شبلی و ابوالخیر تیناتی",
+        "person_id": 649,
+        "canonical_name": "أبو بكر الموازيني",
+        "has_id": NaN
+      },
+      {
+        "name": "جنید",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد معاذ مصری ایذ و بوبکر موازینی و جنید و شبلی و ابوالخیر تیناتی",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "شبلی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد معاذ مصری ایذ و بوبکر موازینی و جنید و شبلی و ابوالخیر تیناتی",
+        "person_id": 628,
+        "canonical_name": "أبو بكر الشبلي",
+        "has_id": 376
+      },
+      {
+        "name": "ابوالخیر تیناتی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد معاذ مصری ایذ و بوبکر موازینی و جنید و شبلی و ابوالخیر تیناتی",
+        "person_id": 471,
+        "canonical_name": "أبو الخير التيناتي",
+        "has_id": NaN
+      },
+      {
+        "name": "کتانی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده",
+        "full_text": "وکتانی و بوعلی کاتب و بوبکر مصری٭ دیده",
+        "person_id": 712,
+        "canonical_name": "أبو بكر محمد بن علي الكتاني",
+        "has_id": 378
+      },
+      {
+        "name": "بوعلی کاتب",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده",
+        "full_text": "وکتانی و بوعلی کاتب و بوبکر مصری٭ دیده",
+        "person_id": 973,
+        "canonical_name": "أبو علي بن الكاتب",
+        "has_id": 23
+      },
+      {
+        "name": "بوبکر مصری٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده",
+        "full_text": "وکتانی و بوعلی کاتب و بوبکر مصری٭ دیده",
+        "person_id": 716,
+        "canonical_name": "أبو بكر مصري",
+        "has_id": NaN
+      },
+      {
+        "name": "جنید",
+        "relationship_type": "student_of",
+        "relationship_phrase": "از ... شنیدم",
+        "full_text": "شیخ سیروانی گفت: که از جنید شنیدم که گفت: که هر که باوفاقه رسد.",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "ابوالخیر تیناتی٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "از ... شنیدم",
+        "full_text": "و هم شیخ سیروانی گفت»: که از ابوالخیر تیناتی٭ شنیدم که گفت: مرا اشراف دادند بر دوزخ، بیشتر اهل آن اصحاب رکوه و مرقع دیدم.",
+        "person_id": 471,
+        "canonical_name": "أبو الخير التيناتي",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "شیخ عمو",
+        "relationship_type": "peer",
+        "relationship_phrase": "میفخرکردند بدیدار وی",
+        "full_text": "و شیخ عمو و عباس میفخرکردند بدیدار وی",
+        "person_id": 1683,
+        "canonical_name": "شيخ عمو",
+        "has_id": 717
+      },
+      {
+        "name": "عباس",
+        "relationship_type": "peer",
+        "relationship_phrase": "میفخرکردند بدیدار وی",
+        "full_text": "و شیخ عمو و عباس میفخرکردند بدیدار وی",
+        "person_id": 1716,
+        "canonical_name": "عباس",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت نور اللّه قبره، کی",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ سلمی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ سلمی ویرا گفت:",
+      "person_id": 845,
+      "canonical_name": "أبو عبد الرحمن السلمي",
+      "has_id": 133
+    },
+    {
+      "name": "فتح حاجی",
+      "relationship_type": "direct_narrator",
+      "full_text": "فتح حاجی گوید، که سیروانی گفت: که کس بود که بزرگان درومی نگرند، ومقام او میبینند و خود نداندکه من هیچ چیز دارم.",
+      "person_id": 2164,
+      "canonical_name": "فتح الحاجي",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ عمو",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت: که شیخ عموگفت، که شیخ سیروانی گفت: که آخر ما یخرج من قلوب الصدیقین حب الریاسة.",
+      "person_id": 1683,
+      "canonical_name": "شيخ عمو",
+      "has_id": 717
+    },
+    {
+      "name": "عباس",
+      "relationship_type": "direct_narrator",
+      "full_text": "و عباس گفت: که ویگفت: استوصوا بمن یحبکم، شما را وصیت میکنم بکسی کش شما دوست",
+      "person_id": 1716,
+      "canonical_name": "عباس",
+      "has_id": NaN
+    },
+    {
+      "name": "الشیخ ابوالحسن علی بن بشری السجزی",
+      "relationship_type": "direct_narrator",
+      "full_text": "قال: حدثنا الشیخ ابوالحسن علی بن بشری السجزی",
+      "person_id": 430,
+      "canonical_name": "أبو الحسن علي بن بشريى السجزي",
+      "has_id": 298
+    },
+    {
+      "name": "ابواسماعیل احمد بن حمزة الحداد",
+      "relationship_type": "direct_narrator",
+      "full_text": "ابواسماعیل احمد بن حمزة الحداد",
+      "person_id": 379,
+      "canonical_name": "أبو اسماعيل أحمد بن حمزة الحداد",
+      "has_id": NaN
+    },
+    {
+      "name": "ابوعقال مولی ابن عزیز",
+      "relationship_type": "narrator",
+      "full_text": "قال ابوعقال مولی ابن عزیز",
+      "person_id": 943,
+      "canonical_name": "أبو عقال مولي بن عزيز",
+      "has_id": NaN
+    },
+    {
+      "name": "مولای محمد بن عزیز یعنی الابلی",
+      "relationship_type": "narrator",
+      "full_text": "قال حدثنا مولای محمد بن عزیز یعنی الابلی",
+      "person_id": 2405,
+      "canonical_name": "محمد بن عزيز يعني الابلي",
+      "has_id": NaN
+    },
+    {
+      "name": "سلامة بن روح الکندی",
+      "relationship_type": "narrator",
+      "full_text": "قال حدثنا سلامة بن روح الکندی",
+      "person_id": 1610,
+      "canonical_name": "سلامة بن روح الكندي",
+      "has_id": NaN
+    },
+    {
+      "name": "عقیل",
+      "relationship_type": "narrator",
+      "full_text": "قال حدثنا عقیل",
+      "person_id": 1976,
+      "canonical_name": "عقيل",
+      "has_id": NaN
+    },
+    {
+      "name": "الزهری",
+      "relationship_type": "narrator",
+      "full_text": "عن الزهری",
+      "person_id": 157,
+      "canonical_name": "الزهري",
+      "has_id": NaN
+    },
+    {
+      "name": "انس بن مالک",
+      "relationship_type": "narrator",
+      "full_text": "عن انس بن مالک",
+      "person_id": 1310,
+      "canonical_name": "أنس بن مالك",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ ابوالعباس احمد بن محمد بن الفضل النهاوندی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت که نهاوندی گفت:",
+      "person_id": 499,
+      "canonical_name": "أبو العباس أحمد بن محمد بن الفضل النهاوندي",
+      "has_id": 53
+    },
+    {
+      "name": "یوسف حین رازی",
+      "relationship_type": "narrator",
+      "full_text": "و یوسف حین رازی گفت: که ایشان که خداوندان اسرارند اگر گوی گریبان ایشان از سرایشان آگاه گردد، آنرا برکنند.",
+      "person_id": 1140,
+      "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+      "has_id": 847
+    },
+    {
+      "name": "مرتعش",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "quoted",
+      "full_text": "حکایت کرد از مرتعش٭ که وی گفت: لولعب الفقیر عشرین سنة ثم صدق\nساعة لنجا",
+      "person_id": 1043,
+      "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
+      "has_id": 251
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { MapContainer, TileLayer, Marker, Popup, Polyline } from 'react-leaflet';
 import { Link } from 'react-router-dom';
 import 'leaflet/dist/leaflet.css';
@@ -7,7 +7,6 @@ import Layout from '../components/Layout/Layout';
 import Loading from '../components/common/Loading';
 import './MappingSufis.css';
 
-// Fix Leaflet default icon
 delete L.Icon.Default.prototype._getIconUrl;
 L.Icon.Default.mergeOptions({
     iconRetinaUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-icon-2x.png',
@@ -15,7 +14,6 @@ L.Icon.Default.mergeOptions({
     shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-shadow.png',
 });
 
-// Custom marker with number badge
 const createNumberedIcon = (count) => {
     const color = count === 1 ? '#2196F3' : count < 5 ? '#4CAF50' : count < 10 ? '#FF9800' : '#F44336';
     return L.divIcon({
@@ -94,17 +92,15 @@ const MappingSufis = () => {
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
     const [locationData, setLocationData] = useState([]);
-    const [routesData, setRoutesData] = useState([]); // NEW
+    const [routesData, setRoutesData] = useState([]);
     const [stats, setStats] = useState({ totalLocations: 0, totalPeople: 0, totalMentions: 0 });
 
     useEffect(() => {
         const loadData = async () => {
             try {
                 setLoading(true);
-
                 const XLSX = await import('xlsx');
 
-                // Load bios.xlsx for name_lat lookups
                 const biosResponse = await fetch('/data/bios.xlsx');
                 if (!biosResponse.ok) throw new Error('Failed to load bios data');
                 const biosArrayBuffer = await biosResponse.arrayBuffer();
@@ -117,7 +113,6 @@ const MappingSufis = () => {
                     biosMap[String(bio.bio_id)] = bio.name_lat || bio.name_ar || `Bio ${bio.bio_id}`;
                 });
 
-                // Load geographical_locations.xlsx
                 const geoResponse = await fetch('/data/geographical_locations.xlsx');
                 if (!geoResponse.ok) throw new Error('Failed to load geographical data');
                 const geoArrayBuffer = await geoResponse.arrayBuffer();
@@ -218,14 +213,11 @@ const MappingSufis = () => {
                     totalMentions,
                 });
 
-                // --- NEW: Load sufi_routes.json ---
                 try {
                     const routeResp = await fetch('/data/sufi_routes.json');
                     if (routeResp.ok) {
                         const routeJson = await routeResp.json();
                         setRoutesData(routeJson.features || []);
-                    } else {
-                        console.warn('No sufi_routes.json found.');
                     }
                 } catch (rerr) {
                     console.warn('Error loading sufi_routes.json:', rerr);
@@ -241,8 +233,25 @@ const MappingSufis = () => {
         loadData();
     }, []);
 
+    const sortedLocationData = useMemo(() => {
+        return [...locationData].sort((a, b) => a.people.length - b.people.length);
+    }, [locationData]);
+
     if (loading) return <Layout><Loading /></Layout>;
     if (error) return <Layout><div className="error">Error: {error}</div></Layout>;
+
+    const markers = sortedLocationData
+        .map((location, idx) => ({
+            ...location,
+            count: location.people.length
+        }));
+
+    const center = markers.length > 0
+        ? [
+            markers.reduce((sum, m) => sum + m.lat, 0) / markers.length,
+            markers.reduce((sum, m) => sum + m.lng, 0) / markers.length,
+        ]
+        : [30, 50];
 
     return (
         <Layout>
@@ -271,13 +280,12 @@ const MappingSufis = () => {
                     </div>
                 ) : (
                     <div className="mapping-map-container">
-                        <MapContainer center={[30, 50]} zoom={4} style={{ height: '700px', width: '100%' }}>
+                        <MapContainer center={center} zoom={4} style={{ height: '700px', width: '100%' }}>
                             <TileLayer
                                 attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
                                 url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png"
                             />
 
-                            {/* NEW: draw route paths */}
                             {routesData.map((feature, i) => (
                                 <Polyline
                                     key={`route-${i}`}
@@ -286,12 +294,12 @@ const MappingSufis = () => {
                                 />
                             ))}
 
-                            {/* Existing markers */}
-                            {locationData.map((location, idx) => (
+                            {markers.map((location, idx) => (
                                 <Marker
                                     key={idx}
                                     position={[location.lat, location.lng]}
-                                    icon={createNumberedIcon(location.people.length)}
+                                    icon={createNumberedIcon(location.count)}
+                                    zIndexOffset={location.count * 1000}
                                 >
                                     <Popup maxWidth={400} maxHeight={400}>
                                         <div className="map-popup">

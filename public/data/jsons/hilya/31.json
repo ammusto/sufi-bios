@@ -1,0 +1,51 @@
+{
+  "bio_id": "31",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الواحد بن بكر",
+          "person_id": 1908,
+          "canonical_name": "عبد الواحد بن بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن عبد العزيز",
+          "person_id": 1836,
+          "canonical_name": "عبد الله بن عبد العزيز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله بن علان",
+          "person_id": 904,
+          "canonical_name": "أبو عبد الله بن علان",
+          "has_id": 30,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت عبد الواحد بن بكر يقول سمعت عبد الله بن عبد العزيز يقول سمعت أبا عبد الله بن علان يقول:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "عبد الله بن عبد العزيز",
+      "relationship_type": "narrator",
+      "full_text": "سمعت عبد الله بن عبد العزيز يقول",
+      "person_id": 1836,
+      "canonical_name": "عبد الله بن عبد العزيز",
+      "has_id": NaN
+    }
+  ]
+}

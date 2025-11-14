@@ -1,0 +1,67 @@
+{
+  "bio_id": "366",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1855,
+          "canonical_name": "عبد الله بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسحاق بن أبي حسان",
+          "person_id": 343,
+          "canonical_name": "إسحاق بن أبي حسان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "أبا سليمان",
+          "person_id": 816,
+          "canonical_name": "أبو سليمان",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد ثنا إسحاق بن أبي حسان ثنا أحمد بن أبي الحواري قال سمعت أبا سليمان يقول:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا سليمان",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت أبا سليمان يقول:",
+      "person_id": 816,
+      "canonical_name": "أبو سليمان",
+      "has_id": NaN
+    },
+    {
+      "name": "شيخ",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "subject_of_anecdote",
+      "full_text": "كان عندنا شيخ يزعمون أنه يعرف اسم الله الأعظم.",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    }
+  ]
+}

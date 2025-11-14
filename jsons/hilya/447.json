@@ -1,0 +1,95 @@
+{
+  "bio_id": "447",
+  "source": "hilya",
+  "death_date": {
+    "year_hijri": "359",
+    "full_text": "توفي بصور سنة تسع وخمسين وثلاثمائة.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "روذبار",
+      "context": "nisba",
+      "full_text": "الروذباري"
+    },
+    {
+      "place": "صور",
+      "context": "died",
+      "full_text": "توفي بصور"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا الفضل الهروي",
+          "person_id": 541,
+          "canonical_name": "أبو القاسم المغربي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عطاء",
+          "person_id": 924,
+          "canonical_name": "أبو عبيد البسري",
+          "has_id": 409,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الفضل الهروي يقول: حضرت أحمد بن عطاء وسئل عن القبض والبسط وحال من قبض ونعته، وحال من بسط ونعته، فقال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 872,
+          "canonical_name": "أبو عبد الله السليمي الفقيه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا نصر الطوسي",
+          "person_id": 1144,
+          "canonical_name": "أبو يعلى الحسين بن محمد بن المسيب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عبد الله الروذباري",
+          "person_id": 924,
+          "canonical_name": "أبو عبيد البسري",
+          "has_id": 409,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أبا نصر الطوسي يقول سمعت أبا\nعبد الله الروذباري يقول:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا الفضل الهروي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا الفضل الهروي يقول",
+      "person_id": 541,
+      "canonical_name": "أبو القاسم المغربي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا نصر الطوسي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا نصر الطوسي يقول",
+      "person_id": 1144,
+      "canonical_name": "أبو يعلى الحسين بن محمد بن المسيب",
+      "has_id": NaN
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "bio_id": "771",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "أصبهان",
+      "context": "mentioned",
+      "full_text": "كان زيد بن أخرم يسميه عابد أهل أصبهان."
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا محمد بن حيان",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن صبيح",
+          "person_id": 1256,
+          "canonical_name": "أحمد بن محمد بن صبيح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن النعمان",
+          "person_id": 2266,
+          "canonical_name": "محمد بن النعمان",
+          "has_id": 771,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا محمد بن حيان يقول سمعت أحمد بن محمد بن صبيح يقول سمعت محمد بن النعمان يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا محمد بن حيان",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسين بن المهلب",
+          "person_id": 2241,
+          "canonical_name": "محمد بن الحسين بن المهلب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عاصم",
+          "person_id": 2369,
+          "canonical_name": "محمد بن عاصم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن النعمان",
+          "person_id": 2266,
+          "canonical_name": "محمد بن النعمان",
+          "has_id": 771,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا محمد بن حيان يقول حدثني محمد بن الحسين بن المهلب ثنا محمد بن عاصم قال سمعت محمد بن النعمان يقول:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "وكيعا",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب وكيعا وسفيان بن عيينة وأبا بكر بن عياش.",
+        "person_id": 2618,
+        "canonical_name": "وكيع بن الجراح",
+        "has_id": NaN
+      },
+      {
+        "name": "سفيان بن عيينة",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب وكيعا وسفيان بن عيينة وأبا بكر بن عياش.",
+        "person_id": 1608,
+        "canonical_name": "سفيان بن عيينة",
+        "has_id": NaN
+      },
+      {
+        "name": "أبا بكر بن عياش",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب وكيعا وسفيان بن عيينة وأبا بكر بن عياش.",
+        "person_id": 675,
+        "canonical_name": "أبو بكر بن عياش",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "زيد بن أخرم",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "يسميه",
+      "full_text": "كان زيد بن أخرم يسميه عابد أهل أصبهان.",
+      "person_id": 1572,
+      "canonical_name": "زيد بن أخرم",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد بن محمد بن صبيح",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أحمد بن محمد بن صبيح يقول",
+      "person_id": 1256,
+      "canonical_name": "أحمد بن محمد بن صبيح",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن عاصم",
+      "relationship_type": "narrator",
+      "full_text": "ثنا محمد بن عاصم",
+      "person_id": 2369,
+      "canonical_name": "محمد بن عاصم",
+      "has_id": NaN
+    }
+  ]
+}

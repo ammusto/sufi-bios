@@ -1,0 +1,380 @@
+{
+  "bio_id": "783",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "ترمذ",
+      "context": "nisba",
+      "full_text": "الترمذي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو عمرو عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن عيسى",
+          "person_id": 1260,
+          "canonical_name": "أحمد بن محمد بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله محمد بن علي الترمذي",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو عمرو عثمان بن محمد العثماني ثنا أحمد بن محمد بن عيسى قال\nحدثني أبو عبد الله محمد بن علي الترمذي قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن علي الترمذي",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين بن موسى يقول سمعت منصور بن عبد الله\nيقول قال محمد بن علي الترمذي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن علي الترمذي",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال محمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين الفارسي",
+          "has_id": NaN,
+          "person_id": 104,
+          "canonical_name": "الحسن بن يحيى بن حمويه الكرمانى",
+          "subj_added": false
+        },
+        {
+          "name": "الحسن بن علي",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن علي الترمذي",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أبا الحسين الفارسي يقول سمعت الحسن بن علي يقول سمعت محمد بن علي الترمذي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين الفارسي",
+          "has_id": NaN,
+          "person_id": 105,
+          "canonical_name": "الحسين",
+          "subj_added": false
+        },
+        {
+          "name": "الحسن بن علي",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن علي الترمذي",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين الفارسي",
+          "has_id": NaN,
+          "person_id": 106,
+          "canonical_name": "الحسين الفارسي",
+          "subj_added": false
+        },
+        {
+          "name": "الحسن بن علي",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن علي الترمذي",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين الفارسي",
+          "has_id": NaN,
+          "person_id": 107,
+          "canonical_name": "الحسين بن أحمد",
+          "subj_added": false
+        },
+        {
+          "name": "الحسن بن علي",
+          "person_id": 94,
+          "canonical_name": "الحسن بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن علي الترمذي",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "يحيى بن منصور القاضي",
+          "person_id": 2652,
+          "canonical_name": "يحيى بن منصور القاضي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله محمد بن علي الترمذي",
+          "person_id": 917,
+          "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
+          "has_id": 783,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن رزام الآبلي",
+          "person_id": 2350,
+          "canonical_name": "محمد بن رزام الآبلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عطاء",
+          "person_id": 2406,
+          "canonical_name": "محمد بن عطاء الهجيمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الهجيمي",
+          "person_id": 2406,
+          "canonical_name": "محمد بن عطاء الهجيمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن نصر",
+          "person_id": 2459,
+          "canonical_name": "محمد بن نصر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عطاء",
+          "person_id": 1966,
+          "canonical_name": "عطاء بن أبي رباح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عباس",
+          "has_id": NaN,
+          "person_id": 26,
+          "canonical_name": "ابن عباس",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا محمد بن الحسين بن موسى ثنا يحيى بن منصور القاضي ثنا أبو عبد الله محمد بن علي الترمذي ثنا محمد بن رزام الآبلي ثنا محمد بن عطاء عن الهجيمي ثنا محمد بن نصر عن عطاء عن ابن عباس.",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "محمد بن رزام الآبلي",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا محمد بن رزام الآبلي",
+        "person_id": 2350,
+        "canonical_name": "محمد بن رزام الآبلي",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "أبا تراب النخشبي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أبا تراب النخشبي",
+        "person_id": 721,
+        "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+        "has_id": 388
+      },
+      {
+        "name": "يحيى بن الجلاء",
+        "relationship_type": "peer",
+        "relationship_phrase": "لقي",
+        "full_text": "ولقي يحيى بن الجلاء.",
+        "person_id": 2625,
+        "canonical_name": "يحيى بن الجلاء",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أحمد بن محمد بن عيسى",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "قال\nحدثني أبو عبد الله محمد بن علي الترمذي",
+      "person_id": 1260,
+      "canonical_name": "أحمد بن محمد بن عيسى",
+      "has_id": NaN
+    },
+    {
+      "name": "منصور بن عبد الله",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "سمعت منصور بن عبد الله\nيقول قال محمد بن علي الترمذي",
+      "person_id": 2547,
+      "canonical_name": "منصور بن عبد الله",
+      "has_id": NaN
+    },
+    {
+      "name": "الحسن بن علي",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "سمعت الحسن بن علي يقول سمعت محمد بن علي الترمذي يقول",
+      "person_id": 94,
+      "canonical_name": "الحسن بن علي",
+      "has_id": NaN
+    },
+    {
+      "name": "يحيى بن منصور القاضي",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "ثنا يحيى بن منصور القاضي ثنا أبو عبد الله محمد بن علي الترمذي",
+      "person_id": 2652,
+      "canonical_name": "يحيى بن منصور القاضي",
+      "has_id": NaN
+    }
+  ]
+}

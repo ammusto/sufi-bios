@@ -1,0 +1,418 @@
+{
+  "bio_id": "476",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "البغدادي"
+    },
+    {
+      "place": "واسط",
+      "context": "nisba",
+      "full_text": "واسطي"
+    },
+    {
+      "place": "مصر",
+      "context": "lived",
+      "full_text": "سكن مصر"
+    },
+    {
+      "place": "تبوك",
+      "context": "visited",
+      "full_text": "دخلت بادية تبوك"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين بن أحمد الرازي",
+          "person_id": 108,
+          "canonical_name": "الحسين بن أحمد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا علي الروذباري",
+          "person_id": 959,
+          "canonical_name": "أبو علي الروذباري",
+          "has_id": 422,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 421,
+          "canonical_name": "أبو الحسن بنان الحمال",
+          "has_id": 476,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين بن موسى يقول سمعت الحسين بن أحمد الرازي يقول سمعت أبا علي الروذباري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي علي الروذباري",
+          "person_id": 959,
+          "canonical_name": "أبو علي الروذباري",
+          "has_id": 422,
+          "subj_added": false
+        },
+        {
+          "name": "بنانا",
+          "person_id": 421,
+          "canonical_name": "أبو الحسن بنان الحمال",
+          "has_id": 476,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحكى أبي عن أبي علي الروذباري قال سمعت بنانا يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن علي",
+          "person_id": 1848,
+          "canonical_name": "عبد الله بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الفضل",
+          "person_id": 2254,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
+          "subj_added": false
+        },
+        {
+          "name": "الزبير بن عبد الواحد",
+          "person_id": 156,
+          "canonical_name": "الزبير بن عبد الواحد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنانا",
+          "person_id": 421,
+          "canonical_name": "أبو الحسن بنان الحمال",
+          "has_id": 476,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت عبد الله بن علي يقول سمعت محمد بن الفضل يقول سمعت الزبير بن عبد الواحد يقول سمعت بنانا يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمد بن زكريا",
+          "person_id": 500,
+          "canonical_name": "أبو العباس أحمد بن محمد بن زكريا النسوي",
+          "has_id": 107,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين بن عبد الله القرشي",
+          "person_id": 89,
+          "canonical_name": "الحسن بن عبد الله القرشي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنانا",
+          "person_id": 421,
+          "canonical_name": "أبو الحسن بنان الحمال",
+          "has_id": 476,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أحمد بن محمد بن زكريا يقول سمعت الحسين بن عبد الله القرشي يقول سمعت بنانا يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن عمر ان الهروي",
+          "person_id": 1230,
+          "canonical_name": "أحمد بن عمر ان الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الرقي",
+          "person_id": 284,
+          "canonical_name": "إبراهيم القصار الرقي",
+          "has_id": 13,
+          "subj_added": false
+        },
+        {
+          "name": "بنانا",
+          "person_id": 421,
+          "canonical_name": "أبو الحسن بنان الحمال",
+          "has_id": 476,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أحمد بن عمر ان الهروي يقول سمعت الرقي يقول سمعت بنانا يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن علي بن حبيش",
+          "person_id": 465,
+          "canonical_name": "أبو الحسين محمد بن علي بن حبيش المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسحاق بن سلمة الكوفي",
+          "person_id": 349,
+          "canonical_name": "إسحاق بن سلمة الكوفي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنان - بمصر -",
+          "person_id": 421,
+          "canonical_name": "أبو الحسن بنان الحمال",
+          "has_id": 476,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحكم من ولد سعيد بن العاص",
+          "person_id": 2244,
+          "canonical_name": "محمد بن الحكم من ولد سعيد بن العاص",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن خفتان",
+          "person_id": 2345,
+          "canonical_name": "محمد بن خفتان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يحيى بن أبي زائدة",
+          "person_id": 2631,
+          "canonical_name": "يحيى بن أبي زائدة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنان",
+          "person_id": 421,
+          "canonical_name": "أبو الحسن بنان الحمال",
+          "has_id": 476,
+          "subj_added": false
+        },
+        {
+          "name": "قيس",
+          "person_id": 2186,
+          "canonical_name": "قيس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن علي بن حبيش ثنا إسحاق بن سلمة الكوفي ثنا بنان - بمصر - ثنا محمد بن الحكم من ولد سعيد بن العاص قال حدثني محمد بن خفتان ثنا يحيى بن أبي زائدة عن بنان عن قيس عن أبي بكر قال سمعت النبي ﷺ يقول في سعد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن عبيد الله بن المرزبان",
+          "person_id": 2399,
+          "canonical_name": "محمد بن عبيد الله بن المرزبان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن سعيد",
+          "person_id": 2033,
+          "canonical_name": "علي بن سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بنان الصوفي",
+          "person_id": 421,
+          "canonical_name": "أبو الحسن بنان الحمال",
+          "has_id": 476,
+          "subj_added": false
+        },
+        {
+          "name": "عبيد الله بن عمرو الجشمي",
+          "person_id": 1933,
+          "canonical_name": "عبيد الله بن عمرو الجشمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الوليد بن مسلم",
+          "person_id": 258,
+          "canonical_name": "الوليد بن مسلم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الأوزاعي",
+          "person_id": 61,
+          "canonical_name": "الأوزاعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يحيى بن أبي كثير",
+          "person_id": 2633,
+          "canonical_name": "يحيى بن أبي كثير",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن عبيد الله بن المرزبان ثنا علي بن سعيد ثنا بنان الصوفي ثنا عبيد الله بن عمرو الجشمي ثنا الوليد بن مسلم ثنا الأوزاعي ثنا يحيى بن أبي كثير قال",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبي علي الروذباري",
+      "relationship_type": "narrator",
+      "full_text": "وحكى أبي عن أبي علي الروذباري قال سمعت بنانا يقول",
+      "person_id": 959,
+      "canonical_name": "أبو علي الروذباري",
+      "has_id": 422
+    },
+    {
+      "name": "الزبير بن عبد الواحد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت الزبير بن عبد الواحد يقول سمعت بنانا يقول",
+      "person_id": 156,
+      "canonical_name": "الزبير بن عبد الواحد",
+      "has_id": NaN
+    },
+    {
+      "name": "الحسين بن عبد الله القرشي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت الحسين بن عبد الله القرشي يقول سمعت بنانا يقول",
+      "person_id": 89,
+      "canonical_name": "الحسن بن عبد الله القرشي",
+      "has_id": NaN
+    },
+    {
+      "name": "الرقي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت الرقي يقول سمعت بنانا يقول",
+      "person_id": 284,
+      "canonical_name": "إبراهيم القصار الرقي",
+      "has_id": 13
+    },
+    {
+      "name": "إسحاق بن سلمة الكوفي",
+      "relationship_type": "narrator",
+      "full_text": "ثنا إسحاق بن سلمة الكوفي ثنا بنان - بمصر -",
+      "person_id": 349,
+      "canonical_name": "إسحاق بن سلمة الكوفي",
+      "has_id": NaN
+    },
+    {
+      "name": "يحيى بن أبي زائدة",
+      "relationship_type": "narrator",
+      "full_text": "ثنا يحيى بن أبي زائدة عن بنان",
+      "person_id": 2631,
+      "canonical_name": "يحيى بن أبي زائدة",
+      "has_id": NaN
+    },
+    {
+      "name": "علي بن سعيد",
+      "relationship_type": "narrator",
+      "full_text": "ثنا علي بن سعيد ثنا بنان الصوفي",
+      "person_id": 2033,
+      "canonical_name": "علي بن سعيد",
+      "has_id": NaN
+    },
+    {
+      "name": "ابن طولون",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "أمر أمير مصر ابن طولون بمعروف",
+      "has_id": NaN,
+      "person_id": 80,
+      "canonical_name": "ابن طولون"
+    },
+    {
+      "name": "أبو عبد الله القاضي",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "فأغراه أبو عبد الله القاضي عليه",
+      "person_id": 879,
+      "canonical_name": "أبو عبد الله القاضي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبي عبيد الله",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "فدعا على أبي عبيد الله فحبسه ابن طولون بدل كل درة سنة",
+      "person_id": 925,
+      "canonical_name": "أبو عبيد الله",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو عبيد الله القاضي",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "واحتال عليه أبو عبيد الله القاضي حتى ضرب سبع درر",
+      "person_id": 879,
+      "canonical_name": "أبو عبد الله القاضي",
+      "has_id": NaN
+    }
+  ]
+}

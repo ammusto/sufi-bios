@@ -1,0 +1,69 @@
+{
+  "bio_id": "233",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "اليمن",
+      "context": "lived",
+      "full_text": "كان الحكم بن أبان سيد أهل اليمن"
+    },
+    {
+      "place": "البحر",
+      "context": "visited",
+      "full_text": "ألقى نفسه في البحر"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1855,
+          "canonical_name": "عبد الله بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن ماهان الرازي",
+          "has_id": NaN,
+          "person_id": 14,
+          "canonical_name": "ابن أبي محمد الصائغ وهو عبد الواحد بن بكر",
+          "subj_added": false
+        },
+        {
+          "name": "إسحاق بن الضيف",
+          "person_id": 338,
+          "canonical_name": "إسحاق بن الضيف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مشيخة من أهل عوف",
+          "person_id": 2508,
+          "canonical_name": "مشيخة من أهل عوف",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد ثنا ابن ماهان الرازي ثنا إسحاق بن الضيف قال سمعت مشيخة من أهل عوف يقولون",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "مشيخة من أهل عوف",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت مشيخة من أهل عوف يقولون",
+      "person_id": 2508,
+      "canonical_name": "مشيخة من أهل عوف",
+      "has_id": NaN
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "bio_id": "674",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبي يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "معتمر بن سليمان",
+        "relationship_type": "student_of",
+        "relationship_phrase": "روى عن",
+        "full_text": "روى عن معتمر بن سليمان.",
+        "person_id": 2520,
+        "canonical_name": "معتمر بن سليمان",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبي يقول",
+      "person_id": 585,
+      "canonical_name": "أبو أبي نعيم الأصفهاني",
+      "has_id": NaN
+    }
+  ]
+}

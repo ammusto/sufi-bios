@@ -1,0 +1,169 @@
+{
+  "bio_id": "358",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "آمل",
+      "context": "nisba",
+      "full_text": "آملی"
+    },
+    {
+      "place": "آمل",
+      "context": "lived",
+      "full_text": "شیخ بوالعباس قصاب بآمل"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "شیخ احمدکوفانی",
+          "person_id": 1158,
+          "canonical_name": "أحمد الكوفاني",
+          "has_id": 212,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ احمدکوفانی گفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد قصاب",
+          "person_id": 2217,
+          "canonical_name": "محمد القصاب",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "محمد قصاب فرا من گفته:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ محمد قصاب",
+          "person_id": 2217,
+          "canonical_name": "محمد القصاب",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی به حداده شنیدم از شیخ محمد قصاب:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [
+      {
+        "name": "شیخ محمد قصاب آملی٭",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "شاگرد وی بود",
+        "full_text": "شیخ محمد قصاب آملی٭ شاگرد وی بود و مذکری کردی.",
+        "person_id": 2217,
+        "canonical_name": "محمد القصاب",
+        "has_id": NaN
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ احمدکوفانی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ احمدکوفانی گفت: که",
+      "person_id": 1158,
+      "canonical_name": "أحمد الكوفاني",
+      "has_id": 212
+    },
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ محمد قصاب",
+      "relationship_type": "narrator",
+      "full_text": "به حداده شنیدم از شیخ محمد قصاب:",
+      "person_id": 2217,
+      "canonical_name": "محمد القصاب",
+      "has_id": NaN
+    },
+    {
+      "name": "بوعبداللهّ حناطی",
+      "relationship_type": "interlocutor",
+      "full_text": "روزی بوعبداللهّ حناطی در شیخ بوالعباس قصاب آمد با وی سخن میگفت.",
+      "person_id": 854,
+      "canonical_name": "أبو عبد اللهّ الحناطي",
+      "has_id": NaN
+    },
+    {
+      "name": "کاکه بوالفارس کرمان شاهی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "requester",
+      "full_text": "کاکه بوالفارس کرمان شاهی کس فرستاد بشیخ بوالعباس، که اینجا قحط افتادست، دعائی کن.",
+      "person_id": 2192,
+      "canonical_name": "كاكه أبو الفارس كرمان شاهي",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ عمو",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "host",
+      "full_text": "من همواره میگفتی فرا شیخ عمو:",
+      "person_id": 1683,
+      "canonical_name": "شيخ عمو",
+      "has_id": 717
+    },
+    {
+      "name": "شیخ سلمی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "author_of_tabakat",
+      "full_text": "شیخ سلمی طبقات کرده مشایخ را.",
+      "person_id": 845,
+      "canonical_name": "أبو عبد الرحمن السلمي",
+      "has_id": 133
+    },
+    {
+      "name": "شیخ بوعلی گارز",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "یکی شیخ بوعلی گارز حکایت آن جوان و سگ که دیدکه گفتند: کار بنماینده است نه بیننده او بگفته ازو.",
+      "person_id": 981,
+      "canonical_name": "أبو علي گارز",
+      "has_id": NaN
+    }
+  ]
+}

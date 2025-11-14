@@ -1,0 +1,71 @@
+{
+  "bio_id": "683",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "اليمن",
+      "context": "nisba",
+      "full_text": "اليماني"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو محمد بن حيان",
+          "person_id": 1050,
+          "canonical_name": "أبو محمد بن حيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن محمود",
+          "person_id": 1268,
+          "canonical_name": "أحمد بن محمود",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن سعيد بن مسلم",
+          "person_id": 2679,
+          "canonical_name": "يوسف بن سعيد بن مسلم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن بكار",
+          "person_id": 2024,
+          "canonical_name": "علي بن بكار",
+          "has_id": 701,
+          "subj_added": false
+        },
+        {
+          "name": "عريفا اليماني",
+          "person_id": 1959,
+          "canonical_name": "عريف اليماني",
+          "has_id": 683,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو محمد بن حيان ثنا أحمد بن محمود عن يوسف بن سعيد بن مسلم قال سمعت علي بن بكار يقول سمعت عريفا اليماني يقول:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "علي بن بكار",
+      "relationship_type": "narrator",
+      "full_text": "سمعت علي بن بكار يقول سمعت عريفا اليماني يقول",
+      "person_id": 2024,
+      "canonical_name": "علي بن بكار",
+      "has_id": 701
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "bio_id": "413",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "399",
+    "full_text": "به صور مرده در ماه ذیالحجه سنه تسع و تسعین و ثلثمائه",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "رودبار",
+      "context": "nisba",
+      "full_text": "رودباری"
+    },
+    {
+      "place": "صور",
+      "context": "lived",
+      "full_text": "به صور نشست"
+    },
+    {
+      "place": "صور",
+      "context": "died",
+      "full_text": "به صور مرده در ماه ذیالحجه سنه تسع و تسعین و ثلثمائه"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام «گفت:»",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وگفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعبداللّه باکو",
+          "person_id": 15,
+          "canonical_name": "ابن باكوية الشيرازي",
+          "has_id": 150,
+          "subj_added": false
+        },
+        {
+          "name": "بوعبداللّه الرودباری",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی بوعبداللّه باکوگفت: که بوعبداللّه الرودباری گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالقاسم بوسلمهٔ باروردی «خطیب»",
+          "person_id": 546,
+          "canonical_name": "أبو القاسم باوردي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شیخ بوعبداللّه رودباری",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی بوالقاسم بوسلمهٔ باروردی «خطیب» گفت که شیخ بوعبداللّه رودباری گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوسعید مقری",
+          "person_id": 805,
+          "canonical_name": "أبو سعيد المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بوسعید مقری گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد شگرفت",
+          "person_id": 2366,
+          "canonical_name": "محمد بن شگرفت",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت محمد شگرفت گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعمرو اکاف٭",
+          "person_id": 996,
+          "canonical_name": "أبو عمرو اكاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شیخ بوعبداللّه با نیک",
+          "person_id": 897,
+          "canonical_name": "أبو عبد الله با نيك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شبلی",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        },
+        {
+          "name": "جنید",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بونصر قبانی پیر من ایذ شیخ بوعبداللّه با نیک دیده بود و بوعمرو اکاف٭ به اردن ووی جنید دیده بود و حدیث داشت، من بروی حدیث خواندهام وی گفت مرا که شیخ بوعبداللّه با نیک کگفت که شبلی گفت روزی بر منبر: که حق جنیدگفت، که غیبت حرامست.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوسعید خراز٭",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بوسعید خراز٭ بمصر آمد، ویرا گفتند: ای سید قوم! سخن بگوی. گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "خرقانی",
+          "person_id": 396,
+          "canonical_name": "أبو الحسن الخرقاني",
+          "has_id": 303,
+          "subj_added": false
+        },
+        {
+          "name": "شاگردی ازان بوعبداللّه دونی",
+          "person_id": 1660,
+          "canonical_name": "شاگردي ازان بوعبد الله دوني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که خرقانی فرامن گفت: که شاگردی ازان بوعبداللّه دونی مرا گفت کی شیخ مامست بزیست و مست بمرد.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "خرقانی",
+          "person_id": 396,
+          "canonical_name": "أبو الحسن الخرقاني",
+          "has_id": 303,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "خرقانی گفت: که من گفتم ویرا که بوبکر شبلی بودیدکه مست بزیست و مست بمرد، که شیلی دیدم در هوا پیش خویش رقص میکرد و مرا شکر میگفت.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعبداللّه دونی",
+          "person_id": 865,
+          "canonical_name": "أبو عبد الله الدوني",
+          "has_id": 137,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که از بوعبداللّه دونی پرسیدند: که فقر چیست؟ گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ بوعبداللّه باکو٭",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ بوعبداللّه باکو٭",
+      "person_id": 15,
+      "canonical_name": "ابن باكوية الشيرازي",
+      "has_id": 150
+    },
+    {
+      "name": "بوالقاسم بوسلمهٔ باروردی «خطیب»",
+      "relationship_type": "direct_narrator",
+      "full_text": "بوالقاسم بوسلمهٔ باروردی «خطیب» گفت",
+      "person_id": 546,
+      "canonical_name": "أبو القاسم باوردي",
+      "has_id": NaN
+    },
+    {
+      "name": "بوسعید مقری",
+      "relationship_type": "direct_narrator",
+      "full_text": "بوسعید مقری گوید:",
+      "person_id": 805,
+      "canonical_name": "أبو سعيد المقرئ",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد شگرفت",
+      "relationship_type": "narrator",
+      "full_text": "محمد شگرفت گفت:",
+      "person_id": 2366,
+      "canonical_name": "محمد بن شگرفت",
+      "has_id": NaN
+    },
+    {
+      "name": "بونصر قبانی پیر من ایذ",
+      "relationship_type": "narrator",
+      "full_text": "بونصر قبانی پیر من ایذ شیخ بوعبداللّه با نیک دیده بود",
+      "person_id": 1098,
+      "canonical_name": "أبو نصر القباني",
+      "has_id": 192
+    },
+    {
+      "name": "بوعمرو اکاف٭",
+      "relationship_type": "narrator",
+      "full_text": "بوعمرو اکاف٭ به اردن",
+      "person_id": 996,
+      "canonical_name": "أبو عمرو اكاف",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ بوعبداللّه با نیک",
+      "relationship_type": "narrator",
+      "full_text": "شیخ بوعبداللّه با نیک کگفت",
+      "person_id": 897,
+      "canonical_name": "أبو عبد الله با نيك",
+      "has_id": NaN
+    },
+    {
+      "name": "شبلی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "speaker",
+      "full_text": "شبلی گفت روزی بر منبر:",
+      "person_id": 628,
+      "canonical_name": "أبو بكر الشبلي",
+      "has_id": 376
+    },
+    {
+      "name": "جنید",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "source_of_statement",
+      "full_text": "که حق جنیدگفت",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    },
+    {
+      "name": "بوسعید خراز٭",
+      "relationship_type": "narrator",
+      "full_text": "بوسعید خراز٭ بمصر آمد، ویرا گفتند: ای سید قوم! سخن بگوی. گفت:",
+      "person_id": 801,
+      "canonical_name": "أبو سعيد الخراز",
+      "has_id": 123
+    },
+    {
+      "name": "خرقانی",
+      "relationship_type": "narrator",
+      "full_text": "خرقانی فرامن گفت:",
+      "person_id": 396,
+      "canonical_name": "أبو الحسن الخرقاني",
+      "has_id": 303
+    },
+    {
+      "name": "شاگردی ازان بوعبداللّه دونی",
+      "relationship_type": "narrator",
+      "full_text": "شاگردی ازان بوعبداللّه دونی مرا گفت",
+      "person_id": 1660,
+      "canonical_name": "شاگردي ازان بوعبد الله دوني",
+      "has_id": NaN
+    },
+    {
+      "name": "بوعبداللّه دونی",
+      "relationship_type": "interlocutor",
+      "full_text": "از بوعبداللّه دونی پرسیدند: که فقر چیست؟ گفت:",
+      "person_id": 865,
+      "canonical_name": "أبو عبد الله الدوني",
+      "has_id": 137
+    },
+    {
+      "name": "بوعبداللّه مولی",
+      "relationship_type": "interlocutor",
+      "full_text": "بوعبداللّه مولی ... وی گفت",
+      "person_id": 921,
+      "canonical_name": "أبو عبد الله مولي",
+      "has_id": NaN
+    },
+    {
+      "name": "بوسعد",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "will_come_to_speak",
+      "full_text": "فردا بوسعد آید شما را بگوید.",
+      "person_id": 795,
+      "canonical_name": "أبو سعد",
+      "has_id": NaN
+    },
+    {
+      "name": "بندار ارغانی٭",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "teacher_of_شیخ بوعبداللّه با نیک",
+      "full_text": "شاگرد بندار ارغانی٭",
+      "person_id": 1363,
+      "canonical_name": "بندار الحسين الاركاني",
+      "has_id": NaN
+    }
+  ]
+}

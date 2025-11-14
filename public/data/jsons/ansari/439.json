@@ -1,0 +1,569 @@
+{
+  "bio_id": "439",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "295",
+    "full_text": "سی سال یک سفرکرده بود، پیش از جنید برفته! سنه خمس و تسعین و مائتین «و جنید در سنه سبع.»",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "born",
+      "full_text": "منشاء و مولدوی ببغداد بود"
+    },
+    {
+      "place": "بغشور",
+      "context": "mentioned",
+      "full_text": "اصل وی از بغشور است"
+    },
+    {
+      "place": "بغداد",
+      "context": "mentioned",
+      "full_text": "«نوری و جنید را ببغداد طاوس العباد. میگفتند»"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "ابواحمد المغازلی",
+          "person_id": 592,
+          "canonical_name": "أبو أحمد المغازلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و قال ابواحمد المغازلی٭:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت قدس اللّه روحه:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوحمزهٔ بغدادی",
+          "person_id": 764,
+          "canonical_name": "أبو حمزة البغدادي",
+          "has_id": 397,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439
+        },
+        {
+          "name": NaN,
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوحمزهٔ بغدادی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالحسین نوری",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوالحسین نوری گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بو زرعهٔ طبری",
+          "person_id": 789,
+          "canonical_name": "أبو زرعة الطبري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بو زرعهٔ طبری ٭ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ذوالنون مصری",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439
+        },
+        {
+          "name": NaN,
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "ذوالنون مصری گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوالحسین نوری",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "ابوالحسین نوری گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوالقاسم بشر بن محمدبن عبداللهّ بن عبیداللّه الخطیب الصوفی السیاح الا بیوردی",
+          "person_id": 548,
+          "canonical_name": "أبو القاسم بشر بن محمد بن عبد اللهّ بن عبيدالله الخطيب الصوفي السياح الابيوردي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "اباعلی المغازلی الاصم البغدادی",
+          "person_id": 968,
+          "canonical_name": "أبو علي المغازلي الاصم البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابا الحسین النوری",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت شیخ الاسلام رضی اللّه عنه یقول سمعت ابالقاسم بشر بن محمدبن عبداللهّ بن عبیداللّه الخطیب الصوفی السیاح الا بیوردی فی رجب سنه اربع عشرة و اربعمائة، یقول سمعت اباعلی المغازلی الاصم البغدادی٭ بالاهوازو کان اتا علیه مائة سنه، یقول سمعت ابا الحسین النوری یقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "نوری",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "نوری ٭ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سمنون",
+          "person_id": 1634,
+          "canonical_name": "سمنون بن حمزة المحب",
+          "has_id": 603,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سمنون گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "النوری",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال النوری:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الشبلی",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و قال الشبلی ٭",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ذوالنون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439
+        },
+        {
+          "name": NaN,
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و قال ذوالنون ٭",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "النوری",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و قیل النوری:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "النوری",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و قال النوری:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "نوری",
+          "person_id": 452,
+          "canonical_name": "أبو الحسين النوري",
+          "has_id": 439,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "نوری گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "سری سقطی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "و نوری صحبت کرده بود باسری سقطی",
+        "person_id": 161,
+        "canonical_name": "السري السقطي",
+        "has_id": 236
+      },
+      {
+        "name": "محمدعلی قصاب",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده بود",
+        "full_text": "و محمدعلی قصاب و احمد بوالحواری ٭ دیده بود",
+        "person_id": 2412,
+        "canonical_name": "محمد بن علي القصاب",
+        "has_id": NaN
+      },
+      {
+        "name": "احمد بوالحواری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده بود",
+        "full_text": "و محمدعلی قصاب و احمد بوالحواری ٭ دیده بود",
+        "person_id": 1177,
+        "canonical_name": "أحمد بن أبي الحواري",
+        "has_id": 442
+      },
+      {
+        "name": "الذنون مصری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "دیده بود",
+        "full_text": "والذنون مصری٭ دیده بود.",
+        "person_id": 1523,
+        "canonical_name": "ذو النون المصري",
+        "has_id": 570
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "جنید",
+        "relationship_type": "peer",
+        "relationship_phrase": "از یاران، از اقران",
+        "full_text": "از یاران جنید بوده از اقران او، و تیز وقت تر از جنید بود.",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "سمنون",
+        "relationship_type": "peer",
+        "relationship_phrase": "گفت ... را",
+        "full_text": "وقتی نوری گفت سمنون ٭ را امام محبت: که از دوستی سخن گوی!",
+        "person_id": 1634,
+        "canonical_name": "سمنون بن حمزة المحب",
+        "has_id": 603
+      },
+      {
+        "name": "خضر",
+        "relationship_type": "peer",
+        "relationship_phrase": "میگفتم",
+        "full_text": "نوری گفت: دی همه روز باخضر میگفتم و دوست میشنید و میپسندید یا نه، زبان من خشک گردید.",
+        "person_id": 145,
+        "canonical_name": "الخضر",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "ابواحمد المغازلی",
+      "relationship_type": "narrator",
+      "full_text": "و قال ابواحمد المغازلی٭: مارایت احد قط اعبد من النوری. قبل و لا الجنید؟ قال و لاالجنید.",
+      "person_id": 592,
+      "canonical_name": "أبو أحمد المغازلي",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت قدس اللّه روحه: که نوری ایذ، تسبیح داشتی در دست، ویرا گفتند: تستجلب به الذکر؟ وی گفت: لابل استجلب به الغلفه گفت: باین تسبیح میخواهیکه اللّه در یاد تو بود؟گفت: باین تسبیح می غفلت جویم.",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "بوحمزهٔ بغدادی",
+      "relationship_type": "narrator",
+      "full_text": "بوحمزهٔ بغدادی گفت: لولا الغفلة لمات الصدیقون من روح ذکر اللّه.",
+      "person_id": 764,
+      "canonical_name": "أبو حمزة البغدادي",
+      "has_id": 397
+    },
+    {
+      "name": "بو زرعهٔ طبری",
+      "relationship_type": "narrator",
+      "full_text": "بو زرعهٔ طبری ٭ گوید: کی فرا ابوالحسین بغدادی گفتم. که از نوری مرا سخن بگوی، گفت: فراد نوری گفتندکی اللّه به چه شناختی؟ گفت با اللّه. گفتند: پس عقل چیست؟ گفت: عاجز است، راه ننماید مگر بر عاجز. سخن ابراهیم دهستانی ٭ که جز ازو نشناسد، یعنی او با او بتوان شناخت.",
+      "person_id": 789,
+      "canonical_name": "أبو زرعة الطبري",
+      "has_id": NaN
+    },
+    {
+      "name": "ابوالحسین بغدادی",
+      "relationship_type": "interlocutor",
+      "context": "asked_about_nuri",
+      "full_text": "فرا ابوالحسین بغدادی گفتم. که از نوری مرا سخن بگوی",
+      "person_id": 443,
+      "canonical_name": "أبو الحسين البغدادي",
+      "has_id": NaN
+    },
+    {
+      "name": "جوانی خراسانی",
+      "relationship_type": "questioner",
+      "full_text": "کی جوانی خراسانی آمد بابرهیم رقی قصار٭ دمی گفت میخواهم که بوالحسین نوری میبینم",
+      "person_id": 1421,
+      "canonical_name": "جواني خراساني",
+      "has_id": NaN
+    },
+    {
+      "name": "ابرهیم رقی قصار",
+      "relationship_type": "interlocutor",
+      "full_text": "بابرهیم رقی قصار٭ دمی گفت میخواهم که بوالحسین نوری میبینم گفت: اوکه سه سال بنزدیک ما بود، هیچ از دهشت بیرون نیامد.",
+      "person_id": 284,
+      "canonical_name": "إبراهيم القصار الرقي",
+      "has_id": 13
+    },
+    {
+      "name": "ابن الاعرابی",
+      "relationship_type": "narrator",
+      "full_text": "ابن الاعرابی ٭ گوید: که قرب نگویند تا مسافت نبود، آخر دوگانگی بجا بود که بنگری قرب بعد است. بعدک منی هو قرباک... البیتان.",
+      "person_id": 807,
+      "canonical_name": "أبو سعيد بن الأعرابي",
+      "has_id": 400
+    },
+    {
+      "name": "سمنون",
+      "relationship_type": "interlocutor",
+      "full_text": "سمنون گفت: از دوستی او ترا، یا از دوستی تو او را؟",
+      "person_id": 1634,
+      "canonical_name": "سمنون بن حمزة المحب",
+      "has_id": 603
+    },
+    {
+      "name": "ابوالقاسم بشر بن محمدبن عبداللهّ بن عبیداللّه الخطیب الصوفی السیاح الا بیوردی",
+      "relationship_type": "narrator",
+      "full_text": "سمعت ابالقاسم بشر بن محمدبن عبداللهّ بن عبیداللّه الخطیب الصوفی السیاح الا بیوردی فی رجب سنه اربع عشرة و اربعمائة، یقول",
+      "person_id": 548,
+      "canonical_name": "أبو القاسم بشر بن محمد بن عبد اللهّ بن عبيدالله الخطيب الصوفي السياح الابيوردي",
+      "has_id": NaN
+    },
+    {
+      "name": "اباعلی المغازلی الاصم البغدادی",
+      "relationship_type": "direct_narrator",
+      "full_text": "سمعت اباعلی المغازلی الاصم البغدادی٭ بالاهوازو کان اتا علیه مائة سنه، یقول سمعت ابا الحسین النوری یقول",
+      "person_id": 968,
+      "canonical_name": "أبو علي المغازلي الاصم البغدادي",
+      "has_id": NaN
+    },
+    {
+      "name": "ذوالنون مصری",
+      "relationship_type": "narrator",
+      "full_text": "ذوالنون مصری گفت: کی اللهّ تعالی عقل بیافرید، گفت: بنشین؟ بنشست گفت: برخیز؟ برخاست. گفت برو؟ برفت. گفت بعزة من که هیچ چیز نیافریم نیکوتر از تو بر من کیم؟ گفت: ندانم ویرا کحل کشید بنور وحدانیت و تعریف.",
+      "person_id": 1523,
+      "canonical_name": "ذو النون المصري",
+      "has_id": 570
+    },
+    {
+      "name": "الشبلی",
+      "relationship_type": "narrator",
+      "full_text": "و قال الشبلی ٭ الذکر مالاذکره.",
+      "person_id": 628,
+      "canonical_name": "أبو بكر الشبلي",
+      "has_id": 376
+    },
+    {
+      "name": "خضر",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "interlocutor",
+      "full_text": "نوری گفت: دی همه روز باخضر میگفتم و دوست میشنید و میپسندید یا نه، زبان من خشک گردید.",
+      "person_id": 145,
+      "canonical_name": "الخضر",
+      "has_id": NaN
+    },
+    {
+      "name": "ابراهیم دهستانی",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "سخن ابراهیم دهستانی ٭ که جز ازو نشناسد، یعنی او با او بتوان شناخت.",
+      "person_id": 280,
+      "canonical_name": "إبراهيم الدهستاني",
+      "has_id": 14
+    },
+    {
+      "name": "جنید",
+      "relationship_type": "interlocutor",
+      "full_text": "وقتی از جنید چیزی پرسیدند از صبر و توکل، جنید آهنگ کرد که جواب گوید. نوری گفت: مگو! بانگ بروی زد گفت: نه تو وقت محنت صوفیان بیک سوی شدی و دست در داشمندی زدی مگوی!",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    }
+  ]
+}

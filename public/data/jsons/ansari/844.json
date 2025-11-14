@@ -1,0 +1,164 @@
+{
+  "bio_id": "844",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "258",
+    "full_text": "در سنه ثمان و خمسین و مائین",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "ری",
+      "context": "nisba",
+      "full_text": "الرازی"
+    },
+    {
+      "place": "نیشاپور",
+      "context": "died",
+      "full_text": "بنشاپور برفت در سنه ثمان و خمسین و مائین"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "بوعبداللهّ با کو",
+          "person_id": 15,
+          "canonical_name": "ابن باكوية الشيرازي",
+          "has_id": 150,
+          "subj_added": false
+        },
+        {
+          "name": "بکران بن احمد جیلی",
+          "person_id": 1356,
+          "canonical_name": "بكران بن أحمد الجيلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "یوسف حسین رازی",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی بوعبداللهّ با کو مرا گفت، که بکران بن احمد جیلی گفت، که یوسف حسین رازی ٭ گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی فرا یحیی معاذگفتند:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت کی:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "و هم گفت: کی بر قدر انبساط منزل توان.",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که میگویم کی بر قدر منزل انبساط منزل توان",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جنید",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و جنیدگوید: المحبة میل بلا نیل.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوخری دمشقی",
+          "person_id": 473,
+          "canonical_name": "أبو الخير الدمشقي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوخری دمشقیگوید: اذا سقرت المحبة اذهلت.",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت: کی بوعبداللهّ با کو مرا گفت",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "بوعبداللهّ با کو",
+      "relationship_type": "narrator",
+      "full_text": "بوعبداللهّ با کو مرا گفت",
+      "person_id": 15,
+      "canonical_name": "ابن باكوية الشيرازي",
+      "has_id": 150
+    },
+    {
+      "name": "بکران بن احمد جیلی",
+      "relationship_type": "narrator",
+      "full_text": "بکران بن احمد جیلی گفت",
+      "person_id": 1356,
+      "canonical_name": "بكران بن أحمد الجيلي",
+      "has_id": NaN
+    },
+    {
+      "name": "یوسف حسین رازی",
+      "relationship_type": "direct_narrator",
+      "full_text": "یوسف حسین رازی ٭ گفت",
+      "person_id": 1140,
+      "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+      "has_id": 847
+    },
+    {
+      "name": "جنید",
+      "relationship_type": "narrator",
+      "full_text": "و جنیدگوید: المحبة میل بلا نیل.",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    },
+    {
+      "name": "بوخری دمشقی",
+      "relationship_type": "narrator",
+      "full_text": "بوخری دمشقیگوید: اذا سقرت المحبة اذهلت.",
+      "person_id": 473,
+      "canonical_name": "أبو الخير الدمشقي",
+      "has_id": NaN
+    }
+  ]
+}

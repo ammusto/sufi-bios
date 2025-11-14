@@ -1,0 +1,19 @@
+{
+  "bio_id": "32",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "الثغور",
+      "context": "lived",
+      "full_text": "لزم الثغور ملتزما للشهود والحضور."
+    }
+  ],
+  "isnads": [],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": []
+}

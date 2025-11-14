@@ -1,0 +1,114 @@
+{
+  "bio_id": "815",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "دينور",
+      "context": "nisba",
+      "full_text": "الدينوري"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الدينوري ممشاد",
+          "person_id": 2534,
+          "canonical_name": "ممشاد الدينوري",
+          "has_id": 815,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبي يقول - وكان قد لقيه وشاهده - قال سمعته يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الدينوري ممشاد",
+          "person_id": 2534,
+          "canonical_name": "ممشاد الدينوري",
+          "has_id": 815,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وكان يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الدينوري ممشاد",
+          "person_id": 2534,
+          "canonical_name": "ممشاد الدينوري",
+          "has_id": 815,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وكان يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الدينوري ممشاد",
+          "person_id": 2534,
+          "canonical_name": "ممشاد الدينوري",
+          "has_id": 815,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وكان يقول",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبي",
+      "relationship_type": "narrator",
+      "context": "لقيه وشاهده",
+      "full_text": "سمعت أبي يقول - وكان قد لقيه وشاهده - قال سمعته يقول",
+      "person_id": 585,
+      "canonical_name": "أبو أبي نعيم الأصفهاني",
+      "has_id": NaN
+    }
+  ]
+}

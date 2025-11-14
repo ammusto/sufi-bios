@@ -1,0 +1,324 @@
+{
+  "bio_id": "524",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "نيسابور",
+      "context": "lived",
+      "full_text": "من شيوخ نيسابور"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن أحمد بن فضالة",
+          "person_id": 1816,
+          "canonical_name": "عبد الله بن أحمد بن فضالة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن منازل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون بن أحمد",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت عبد الله بن أحمد بن فضالة - صاحب الخان بنيسابور - يقول سمعت عبد الله بن محمد بن منازل يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن أحمد بن فضالة",
+          "person_id": 1816,
+          "canonical_name": "عبد الله بن أحمد بن فضالة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن منازل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون بن أحمد",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال عبد الله: وسأله يوما أبو القاسم المنادي عن مسألة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن أحمد بن فضالة",
+          "person_id": 1816,
+          "canonical_name": "عبد الله بن أحمد بن فضالة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن منازل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون بن أحمد",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال له عبد الله بن منازل يوما",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد التميمي",
+          "person_id": 2295,
+          "canonical_name": "محمد بن أحمد التميمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن حمدون",
+          "person_id": 1189,
+          "canonical_name": "أحمد بن حمدون",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 593,
+          "canonical_name": "أبو أحمد بن حمدان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين بن موسى يقول سمعت محمد بن أحمد التميمي يقول سمعت أحمد بن حمدون يقول سمعت أبي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد الفراء",
+          "person_id": 698,
+          "canonical_name": "أبو بكر محمد بن أحمد بن حمدون الفراء",
+          "has_id": 385,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن منازل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت محمد بن أحمد الفراء يقول سمعت عبد الله بن منازل يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد الفراء",
+          "person_id": 698,
+          "canonical_name": "أبو بكر محمد بن أحمد بن حمدون الفراء",
+          "has_id": 385,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن منازل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "ثم قال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو محمد بن عبد الله بن محمد بن فضلويه النيسابوري",
+          "person_id": 1053,
+          "canonical_name": "أبو محمد بن عبد الله بن محمد بن فضلويه النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن منازل",
+          "person_id": 1065,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+          "has_id": 654,
+          "subj_added": false
+        },
+        {
+          "name": "حمدون بن أحمد القصار",
+          "person_id": 827,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الزراع",
+          "person_id": 282,
+          "canonical_name": "إبراهيم الزراع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن نمير",
+          "has_id": NaN,
+          "person_id": 36,
+          "canonical_name": "ابن نمير",
+          "subj_added": false
+        },
+        {
+          "name": "الأعمش",
+          "person_id": 59,
+          "canonical_name": "الأعمش",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن عبد الله",
+          "person_id": 1601,
+          "canonical_name": "سعيد بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو برزة الأسلمي",
+          "person_id": 607,
+          "canonical_name": "أبو برزة الأسلمي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو محمد بن عبد الله بن محمد بن فضلويه النيسابوري ثنا عبد الله بن محمد بن منازل ثنا حمدون بن أحمد القصار ثنا إبراهيم الزراع ثنا ابن نمير عن الأعمش عن سعيد بن عبد الله عن أبي برزة الأسلمي",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أبا تراب النخشبي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أبا تراب النخشبي",
+        "person_id": 721,
+        "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+        "has_id": 388
+      },
+      {
+        "name": "أبي حفص",
+        "relationship_type": "peer",
+        "relationship_phrase": "أقران",
+        "full_text": "ومن أقران أبي حفص من شيوخ نيسابور",
+        "person_id": 756,
+        "canonical_name": "أبو حفص",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "عبد الله بن محمد بن منازل",
+      "relationship_type": "narrator",
+      "full_text": "سمعت عبد الله بن أحمد بن فضالة - صاحب الخان بنيسابور - يقول سمعت عبد الله بن محمد بن منازل يقول",
+      "person_id": 1065,
+      "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+      "has_id": 654
+    },
+    {
+      "name": "عبد الله بن منازل",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت محمد بن أحمد الفراء يقول سمعت عبد الله بن منازل يقول",
+      "person_id": 1065,
+      "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
+      "has_id": 654
+    },
+    {
+      "name": "أبو القاسم المنادي",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "questioner",
+      "full_text": "وسأله يوما أبو القاسم المنادي عن مسألة",
+      "person_id": 542,
+      "canonical_name": "أبو القاسم المنادي",
+      "has_id": NaN
+    }
+  ]
+}

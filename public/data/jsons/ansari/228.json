@@ -1,0 +1,703 @@
+{
+  "bio_id": "228",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "297",
+    "full_text": "در سنه سبع و تسعین مائتین برفته از دنیا، و پسر وی برو نمازکرده، روز نیمروز خلیفه روز شنبه وگویندکی آخر روز آدینه برفت، و روز شنبه دفن کردند.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "نهاوند",
+      "context": "born",
+      "full_text": "گویند که اصل وی از نهاوند بود"
+    },
+    {
+      "place": "بغداد",
+      "context": "lived",
+      "full_text": "جای و نشست ببغداد بود"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "شیخ بوجعفر حداد",
+          "person_id": 726,
+          "canonical_name": "أبو جعفر الحداد",
+          "has_id": 389,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ بوجعفر حداد ٭ گوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: قدس اللّه رحمه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سری سقطی",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سری سقطی ٭ گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت کرم اللّه وجهه:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالعباس عطا",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوالعباس عطا ٭ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت عظم اللّه کرامته و اکرم منزله:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت رضی اللّه عنه:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الجنید",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال الجنید٭:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الجریری",
+          "person_id": 1035,
+          "canonical_name": "أبو محمد الجريري",
+          "has_id": 431,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و قال الجریری٭",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سهل تستری",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سهل تستری٭ ... گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جنید",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "جنیدگوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر نصر قبانی",
+          "person_id": 680,
+          "canonical_name": "أبو بكر بن نصر القباني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوعمرو اکاف",
+          "person_id": 996,
+          "canonical_name": "أبو عمرو اكاف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جنید",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بوبکر نصر قبانی ٭ مرا گفت، که بوعمرو اکاف ٭ گفت مرا باردن، که جنید گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: قدس اللهّ روحه:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الشبلی",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و سئل الشبلی ٭ عن التصوف قال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الشبلی",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و قال الشبلی للغلام الخراسانی:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "البصری",
+          "person_id": 64,
+          "canonical_name": "البصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و قال البصری ٭",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوالحسن سیروانی",
+          "person_id": 402,
+          "canonical_name": "أبو الحسن السيرواني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228
+        },
+        {
+          "name": NaN,
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "از شیخ بوالحسن سیروانی ٭ پرسیدند: ... گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "و قال شیخ الاسلام قدس اللّه روحه:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الجنید",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و سئل الجنید عن التوحید فقال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "رویم",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و قال رویم ٭",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الحلاج",
+          "person_id": 127,
+          "canonical_name": "الحسين بن منصور الحلاج",
+          "has_id": 232,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و سئل الحلاج ٭ عن التوحید فقال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "و قال شیخ الاسلام «قدس اللهّ روحه:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "یا حفص",
+          "person_id": 759,
+          "canonical_name": "أبو حفص الحداد النيسابوري",
+          "has_id": 715,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "یا حفص گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "با یعقوب سوسی",
+          "person_id": 1136,
+          "canonical_name": "أبو يعقوب السوسي",
+          "has_id": 196,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "با یعقوب سوسی ٭ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت قدس اللّه روحه،",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "قال شیخ الاسلام کرم اللّه وجهه:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعبداللّه با کو شیرازی",
+          "person_id": 15,
+          "canonical_name": "ابن باكوية الشيرازي",
+          "has_id": 150,
+          "subj_added": false
+        },
+        {
+          "name": "بوطیب فرخان",
+          "person_id": 483,
+          "canonical_name": "أبو الطيب محمد بن فرخان بن روز به السامري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن فرخان بن روز به السامری",
+          "person_id": 483,
+          "canonical_name": "أبو الطيب محمد بن فرخان بن روز به السامري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جنید",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت رضی اللّه عنه: کی بوعبداللّه با کو شیرازی ٭ گفت، کی بوطیب فرخان ٭ گفت، کی محمد بن فرخان بن روز به السامری، بسامره بغدادگفت که جنید گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "سری سقطی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود و شاگرد ایشان بود",
+        "full_text": "و با سری سقطی و حارث محاسبی و محمد قصاب ٭ صحبت کرده بود و شاگرد ایشان بود.",
+        "person_id": 161,
+        "canonical_name": "السري السقطي",
+        "has_id": 236
+      },
+      {
+        "name": "حارث محاسبی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود و شاگرد ایشان بود",
+        "full_text": "و با سری سقطی و حارث محاسبی و محمد قصاب ٭ صحبت کرده بود و شاگرد ایشان بود.",
+        "person_id": 69,
+        "canonical_name": "الحارث بن أسد المحاسبي",
+        "has_id": 229
+      },
+      {
+        "name": "محمد قصاب",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود و شاگرد ایشان بود",
+        "full_text": "و با سری سقطی و حارث محاسبی و محمد قصاب ٭ صحبت کرده بود و شاگرد ایشان بود.",
+        "person_id": 2217,
+        "canonical_name": "محمد القصاب",
+        "has_id": NaN
+      },
+      {
+        "name": "محمدعلی قصاب",
+        "relationship_type": "student_of",
+        "relationship_phrase": "من شاگرد ...",
+        "full_text": "کی جنید ٭ گوید: کی مردمان پندارد، کی من شاگرد سری سقطی٭ ام، من شاگرد محمدعلی ٭ قصابم",
+        "person_id": 2412,
+        "canonical_name": "محمد بن علي القصاب",
+        "has_id": NaN
+      }
+    ],
+    "students": [
+      {
+        "name": "رویم",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "با جنید صحبت کرد",
+        "full_text": "رویم ٭ را گفت: ای بیادب! وی گفت: می بیادب نیم، با جنید صحبت کرد",
+        "person_id": 1553,
+        "canonical_name": "رويم بن أحمد",
+        "has_id": 578
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ بوجعفر حداد",
+      "relationship_type": "narrator",
+      "full_text": "شیخ بوجعفر حداد ٭ گوید",
+      "person_id": 726,
+      "canonical_name": "أبو جعفر الحداد",
+      "has_id": 389
+    },
+    {
+      "name": "بوالعباس عطا",
+      "relationship_type": "narrator",
+      "full_text": "بوالعباس عطا ٭ گوید:",
+      "person_id": 498,
+      "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+      "has_id": 340
+    },
+    {
+      "name": "سهل تستری",
+      "relationship_type": "narrator",
+      "full_text": "سهل تستری٭ ... گفت:",
+      "person_id": 1639,
+      "canonical_name": "سهل بن عبد الله التستري",
+      "has_id": 605
+    },
+    {
+      "name": "سری سقطی",
+      "relationship_type": "narrator",
+      "full_text": "سری سقطی ٭ گفت:",
+      "person_id": 161,
+      "canonical_name": "السري السقطي",
+      "has_id": 236
+    },
+    {
+      "name": "الجریری",
+      "relationship_type": "narrator",
+      "full_text": "و قال الجریری٭",
+      "person_id": 1035,
+      "canonical_name": "أبو محمد الجريري",
+      "has_id": 431
+    },
+    {
+      "name": "الشبلی",
+      "relationship_type": "narrator",
+      "full_text": "و سئل الشبلی ٭ عن التصوف قال:",
+      "person_id": 628,
+      "canonical_name": "أبو بكر الشبلي",
+      "has_id": 376
+    },
+    {
+      "name": "البصری",
+      "relationship_type": "narrator",
+      "full_text": "و قال البصری ٭",
+      "person_id": 64,
+      "canonical_name": "البصري",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ بوالحسن سیروانی",
+      "relationship_type": "narrator",
+      "full_text": "از شیخ بوالحسن سیروانی ٭ پرسیدند: ... گفت:",
+      "person_id": 402,
+      "canonical_name": "أبو الحسن السيرواني",
+      "has_id": NaN
+    },
+    {
+      "name": "رویم",
+      "relationship_type": "narrator",
+      "full_text": "و قال رویم ٭",
+      "person_id": 1553,
+      "canonical_name": "رويم بن أحمد",
+      "has_id": 578
+    },
+    {
+      "name": "الحلاج",
+      "relationship_type": "narrator",
+      "full_text": "و سئل الحلاج ٭ عن التوحید فقال:",
+      "person_id": 127,
+      "canonical_name": "الحسين بن منصور الحلاج",
+      "has_id": 232
+    },
+    {
+      "name": "یا حفص",
+      "relationship_type": "narrator",
+      "full_text": "یا حفص گفت:",
+      "person_id": 759,
+      "canonical_name": "أبو حفص الحداد النيسابوري",
+      "has_id": 715
+    },
+    {
+      "name": "با یعقوب سوسی",
+      "relationship_type": "narrator",
+      "full_text": "با یعقوب سوسی ٭ گوید:",
+      "person_id": 1136,
+      "canonical_name": "أبو يعقوب السوسي",
+      "has_id": 196
+    },
+    {
+      "name": "بوبکر نصر قبانی",
+      "relationship_type": "narrator",
+      "full_text": "بوبکر نصر قبانی ٭ مرا گفت",
+      "person_id": 680,
+      "canonical_name": "أبو بكر بن نصر القباني",
+      "has_id": NaN
+    },
+    {
+      "name": "بوعمرو اکاف",
+      "relationship_type": "direct_narrator",
+      "full_text": "بوعمرو اکاف ٭ گفت مرا باردن",
+      "person_id": 996,
+      "canonical_name": "أبو عمرو اكاف",
+      "has_id": NaN
+    },
+    {
+      "name": "بوعبداللّه سعید کلاب",
+      "relationship_type": "questioner",
+      "full_text": "ویرا گفتند: چرا بر صوفیان چیزی رد بیرون نکنی؟ ... بیامد و سخن جنید بنشیند. و از وی سوالها کرد و جواب داد",
+      "person_id": 903,
+      "canonical_name": "أبو عبد الله بن سعيد الكلاب",
+      "has_id": NaN
+    },
+    {
+      "name": "بوعبداللّه با کو شیرازی",
+      "relationship_type": "narrator",
+      "full_text": "بوعبداللّه با کو شیرازی ٭ گفت",
+      "person_id": 15,
+      "canonical_name": "ابن باكوية الشيرازي",
+      "has_id": 150
+    },
+    {
+      "name": "بوطیب فرخان",
+      "relationship_type": "narrator",
+      "full_text": "بوطیب فرخان ٭ گفت",
+      "person_id": 483,
+      "canonical_name": "أبو الطيب محمد بن فرخان بن روز به السامري",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن فرخان بن روز به السامری",
+      "relationship_type": "direct_narrator",
+      "full_text": "محمد بن فرخان بن روز به السامری، بسامره بغدادگفت که جنید گفت",
+      "person_id": 483,
+      "canonical_name": "أبو الطيب محمد بن فرخان بن روز به السامري",
+      "has_id": NaN
+    }
+  ]
+}

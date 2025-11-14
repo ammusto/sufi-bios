@@ -1,0 +1,65 @@
+{
+  "bio_id": "387",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "الرملة",
+      "context": "nisba",
+      "full_text": "الرملي"
+    },
+    {
+      "place": "مكة",
+      "context": "visited",
+      "full_text": "خرج أبو تراب الرملي سنة من السنين من مكة"
+    },
+    {
+      "place": "تبوك",
+      "context": "visited",
+      "full_text": "حتى آخذ طريق تبوك"
+    },
+    {
+      "place": "الرملة",
+      "context": "visited",
+      "full_text": "فدخلوا الرملة فنزلوا عليه"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد الرازي",
+          "person_id": 1859,
+          "canonical_name": "عبد الله بن محمد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن الحسين قال سمعت عبد الله بن محمد الرازي يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "عبد الله بن محمد الرازي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت عبد الله بن محمد الرازي يقول",
+      "person_id": 1859,
+      "canonical_name": "عبد الله بن محمد الرازي",
+      "has_id": NaN
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "bio_id": "565",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بلخ",
+      "context": "nisba",
+      "full_text": "البلخى"
+    },
+    {
+      "place": "الصادر",
+      "context": "lived",
+      "full_text": "مسكنه من وراء نهر بلخ بقرية يقال لها الصادر"
+    },
+    {
+      "place": "بلخ",
+      "context": "mentioned",
+      "full_text": "من وراء نهر بلخ"
+    },
+    {
+      "place": "الكوفة",
+      "context": "visited",
+      "full_text": "بين الكوفة ومكة"
+    },
+    {
+      "place": "مكة",
+      "context": "visited",
+      "full_text": "بين الكوفة ومكة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "إبراهيم بن أدهم",
+          "person_id": 301,
+          "canonical_name": "إبراهيم بن أدهم",
+          "has_id": 274,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "يحكي عنه إبراهيم بن أدهم أنه قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الفرحي",
+          "person_id": 749,
+          "canonical_name": "أبو جعفر محمد بن يعقوب الفرجي",
+          "has_id": 21,
+          "subj_added": false
+        },
+        {
+          "name": "عثمان بن عمار",
+          "person_id": 1953,
+          "canonical_name": "عثمان بن عمار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن أدهم",
+          "person_id": 301,
+          "canonical_name": "إبراهيم بن أدهم",
+          "has_id": 274,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "رأيت هذه الحكاية مروية عن محمد بن الفرحي عن عثمان بن عمار عن إبراهيم بن أدهم",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [
+      {
+        "name": "إبراهيم بن أدهم",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "علمك",
+        "full_text": "إن أخي داود علمك اسم الله الأعظم",
+        "person_id": 301,
+        "canonical_name": "إبراهيم بن أدهم",
+        "has_id": 274
+      }
+    ],
+    "companions": [
+      {
+        "name": "إبراهيم ابن أدهم",
+        "relationship_type": "peer",
+        "relationship_phrase": "ومن متقدمى شيوخ المشرق",
+        "full_text": "ومن متقدمى شيوخ المشرق داود البلخى وإبراهيم ابن أدهم وشقيق البلخي وحاتم الأصم",
+        "person_id": 301,
+        "canonical_name": "إبراهيم بن أدهم",
+        "has_id": 274
+      },
+      {
+        "name": "شقيق البلخي",
+        "relationship_type": "peer",
+        "relationship_phrase": "ومن متقدمى شيوخ المشرق",
+        "full_text": "ومن متقدمى شيوخ المشرق داود البلخى وإبراهيم ابن أدهم وشقيق البلخي وحاتم الأصم",
+        "person_id": 980,
+        "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+        "has_id": 622
+      },
+      {
+        "name": "حاتم الأصم",
+        "relationship_type": "peer",
+        "relationship_phrase": "ومن متقدمى شيوخ المشرق",
+        "full_text": "ومن متقدمى شيوخ المشرق داود البلخى وإبراهيم ابن أدهم وشقيق البلخي وحاتم الأصم",
+        "person_id": 1424,
+        "canonical_name": "حاتم الأصم",
+        "has_id": 505
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "إبراهيم بن أدهم",
+      "relationship_type": "narrator",
+      "full_text": "يحكي عنه إبراهيم بن أدهم أنه قال",
+      "person_id": 301,
+      "canonical_name": "إبراهيم بن أدهم",
+      "has_id": 274
+    },
+    {
+      "name": "بعض المشايخ ممن له آيات وكرامات",
+      "relationship_type": "interlocutor",
+      "context": "قال لي يا بني ذاك أخي داود",
+      "full_text": "فذكرت ذلك لبعض المشايخ ممن له آيات وكرامات فقال لي يا بني ذاك أخي داود",
+      "person_id": 1332,
+      "canonical_name": "بعض المشايخ ممن له آيات وكرامات",
+      "has_id": NaN
+    },
+    {
+      "name": "الخضر",
+      "relationship_type": "interlocutor",
+      "full_text": "لا بأس ولا روع. أنا أخوك الخضر",
+      "person_id": 145,
+      "canonical_name": "الخضر",
+      "has_id": NaN
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "bio_id": "431",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا محمد الراسبي",
+          "person_id": 1039,
+          "canonical_name": "أبو محمد عبد الله بن محمد الراسبي",
+          "has_id": 182,
+          "subj_added": false
+        },
+        {
+          "name": "أبا\nمحمد الجريري",
+          "person_id": 1035,
+          "canonical_name": "أبو محمد الجريري",
+          "has_id": 431,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أبا محمد الراسبي يقول سمعت أبا\nمحمد الجريري يقول.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن موسى",
+          "person_id": 2457,
+          "canonical_name": "محمد بن موسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن سعيد",
+          "person_id": 2033,
+          "canonical_name": "علي بن سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عطاء",
+          "person_id": 1219,
+          "canonical_name": "أحمد بن عطاء",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي محمد الجريري",
+          "person_id": 1035,
+          "canonical_name": "أبو محمد الجريري",
+          "has_id": 431,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن موسى يقول سمعت علي بن سعيد يقول سمعت أحمد بن عطاء يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن موسى",
+          "person_id": 2457,
+          "canonical_name": "محمد بن موسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن سعيد",
+          "person_id": 2033,
+          "canonical_name": "علي بن سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عطاء",
+          "person_id": 1219,
+          "canonical_name": "أحمد بن عطاء",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي محمد الجريري",
+          "person_id": 1035,
+          "canonical_name": "أبو محمد الجريري",
+          "has_id": 431,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وكان يقول:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن موسى",
+          "person_id": 2457,
+          "canonical_name": "محمد بن موسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين الفارسي",
+          "has_id": NaN,
+          "person_id": 55,
+          "canonical_name": "الامام",
+          "subj_added": false
+        },
+        {
+          "name": "أبا محمد الجريري",
+          "person_id": 1035,
+          "canonical_name": "أبو محمد الجريري",
+          "has_id": 431,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن موسى يقول سمعت أبا الحسين الفارسي يقول سمعت أبا محمد الجريري يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن موسى",
+          "person_id": 2457,
+          "canonical_name": "محمد بن موسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسين الفارسي",
+          "has_id": NaN,
+          "person_id": 56,
+          "canonical_name": "الإمام أبو سهل محمد بن سليمان الفقيه",
+          "subj_added": false
+        },
+        {
+          "name": "أبا محمد الجريري",
+          "person_id": 1035,
+          "canonical_name": "أبو محمد الجريري",
+          "has_id": 431,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال أبو محمد الجريري:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر محمد بن عبد الله الطبري",
+          "person_id": 708,
+          "canonical_name": "أبو بكر محمد بن عبد الله الطبري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي محمد الجريري",
+          "person_id": 1035,
+          "canonical_name": "أبو محمد الجريري",
+          "has_id": 431,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أبا بكر محمد بن عبد الله الطبري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر محمد بن عبد الله الطبري",
+          "person_id": 708,
+          "canonical_name": "أبو بكر محمد بن عبد الله الطبري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي محمد الجريري",
+          "person_id": 1035,
+          "canonical_name": "أبو محمد الجريري",
+          "has_id": 431,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "فبكى أبو محمد وقال:",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا محمد الراسبي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا محمد الراسبي يقول",
+      "person_id": 1039,
+      "canonical_name": "أبو محمد عبد الله بن محمد الراسبي",
+      "has_id": 182
+    },
+    {
+      "name": "أحمد بن عطاء",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أحمد بن عطاء يقول",
+      "person_id": 1219,
+      "canonical_name": "أحمد بن عطاء",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا الحسين الفارسي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا الحسين الفارسي يقول",
+      "has_id": NaN,
+      "person_id": 54,
+      "canonical_name": "اصمعي"
+    },
+    {
+      "name": "أبا بكر محمد بن عبد الله الطبري",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر محمد بن عبد الله الطبري يقول",
+      "person_id": 708,
+      "canonical_name": "أبو بكر محمد بن عبد الله الطبري",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "context": "questioner",
+      "full_text": "قال رجل لأبي محمد الجريري: كنت على بساط الأنس ففتح لي الطريق إلى البسط فزللت زلة فحجبت عن مقامي فكيف السبيل إليه؟ دلني على الوصول إلى ما كنت عليه.",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

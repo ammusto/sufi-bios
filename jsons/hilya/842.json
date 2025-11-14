@@ -1,0 +1,58 @@
+{
+  "bio_id": "842",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن محمد",
+          "person_id": 2437,
+          "canonical_name": "محمد بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أخي أبا عبد الله محمد بن محمد",
+          "person_id": 1284,
+          "canonical_name": "أخي أبو عبد الله محمد بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد الله",
+          "person_id": 2376,
+          "canonical_name": "محمد بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خيرا النساج",
+          "person_id": 1510,
+          "canonical_name": "خير النساج",
+          "has_id": 564,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن محمد قال سمعت أخي أبا عبد الله محمد بن محمد قال سمعت محمد بن عبد الله يقول سمعت خيرا النساج يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "خيرا النساج",
+      "relationship_type": "narrator",
+      "full_text": "سمعت خيرا النساج يقول",
+      "person_id": 1510,
+      "canonical_name": "خير النساج",
+      "has_id": 564
+    }
+  ]
+}

@@ -1,0 +1,510 @@
+{
+  "bio_id": "404",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "215",
+    "full_text": "و در سنه خمس عشر و مائتین برفته.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "داریا",
+      "context": "born",
+      "full_text": "ازداریا دیهی است از دمشق."
+    },
+    {
+      "place": "شام",
+      "context": "lived",
+      "full_text": "از مهینان و قدیمان مشایخ شام بوده"
+    },
+    {
+      "place": "عراق",
+      "context": "visited",
+      "full_text": "وقتی که من بعراق عابد بودم"
+    },
+    {
+      "place": "داریا",
+      "context": "nisba",
+      "full_text": "دارانی"
+    },
+    {
+      "place": "دمشق",
+      "context": "mentioned",
+      "full_text": "ازداریا دیهی است از دمشق."
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "با سلیمان",
+          "person_id": 817,
+          "canonical_name": "أبو سليمان الداراني",
+          "has_id": 404,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت، کی با سلیمان گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "احمد بوالحواری",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "سلیمن",
+          "person_id": 1633,
+          "canonical_name": "سليمن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 817,
+          "canonical_name": "أبو سليمان الداراني",
+          "has_id": 404,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "احمد بوالحواری حکایت کرد پسر ویرا سلیمن سید بوده ز مهینان مشایخ شام، که ویرا لسان است عالی درین علوم، احمد لوالحواری دیده و حکایت کند از وی که ویگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "احمد بوالحواری",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "سلیمن",
+          "person_id": 1633,
+          "canonical_name": "سليمن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 817,
+          "canonical_name": "أبو سليمان الداراني",
+          "has_id": 404,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و بوسلیمان گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "با سلیمان",
+          "person_id": 817,
+          "canonical_name": "أبو سليمان الداراني",
+          "has_id": 404,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت قدس اللّه روحه با سلیمان گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "احمد بوالحواری",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 817,
+          "canonical_name": "أبو سليمان الداراني",
+          "has_id": 404,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "احمد بوالحواری گوید: کی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "باحفص حداد",
+          "person_id": 759,
+          "canonical_name": "أبو حفص الحداد النيسابوري",
+          "has_id": 715,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 817,
+          "canonical_name": "أبو سليمان الداراني",
+          "has_id": 404,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "باحفص حدادگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "احمد بوالحواری",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "با سلیمان",
+          "person_id": 817,
+          "canonical_name": "أبو سليمان الداراني",
+          "has_id": 404,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "احمد بوالحواری شاگرد با سلیمان بود، چنین گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکرکتانی",
+          "person_id": 712,
+          "canonical_name": "أبو بكر محمد بن علي الكتاني",
+          "has_id": 378,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 817,
+          "canonical_name": "أبو سليمان الداراني",
+          "has_id": 404,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 817,
+          "canonical_name": "أبو سليمان الداراني",
+          "has_id": 404
+        },
+        {
+          "name": NaN,
+          "person_id": 817,
+          "canonical_name": "أبو سليمان الداراني",
+          "has_id": 404
+        }
+      ],
+      "type": "explicit",
+      "full_text": "و بوبکرکتانی ٭ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "احمد بواحواری",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "شیخ بوطالب گرگانی",
+          "person_id": 831,
+          "canonical_name": "أبو طالب الگرگاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 817,
+          "canonical_name": "أبو سليمان الداراني",
+          "has_id": 404,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت کرم وجهه کی احمد بواحواری ٭ گویدکی شیخ بوطالب گرگانی گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الامام",
+          "person_id": 55,
+          "canonical_name": "الامام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 817,
+          "canonical_name": "أبو سليمان الداراني",
+          "has_id": 404,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قال الامام:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر وراق",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 817,
+          "canonical_name": "أبو سليمان الداراني",
+          "has_id": 404,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 817,
+          "canonical_name": "أبو سليمان الداراني",
+          "has_id": 404
+        },
+        {
+          "name": NaN,
+          "person_id": 817,
+          "canonical_name": "أبو سليمان الداراني",
+          "has_id": 404
+        }
+      ],
+      "type": "explicit",
+      "full_text": "بوبکر وراق ٭ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "النصر ابادی",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 817,
+          "canonical_name": "أبو سليمان الداراني",
+          "has_id": 404,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 817,
+          "canonical_name": "أبو سليمان الداراني",
+          "has_id": 404
+        },
+        {
+          "name": NaN,
+          "person_id": 817,
+          "canonical_name": "أبو سليمان الداراني",
+          "has_id": 404
+        }
+      ],
+      "type": "explicit",
+      "full_text": "و قال النصر ابادی ٭",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "قال الشیخ الاسلام:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الامام",
+          "person_id": 55,
+          "canonical_name": "الامام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الجنید",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 817,
+          "canonical_name": "أبو سليمان الداراني",
+          "has_id": 404,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "انشدنا الامام للجنید ٭:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شبلی",
+          "person_id": 628,
+          "canonical_name": "أبو بكر الشبلي",
+          "has_id": 376,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 817,
+          "canonical_name": "أبو سليمان الداراني",
+          "has_id": 404,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شبلی گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت قدس اللّه روحه:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوالحسن بشری",
+          "person_id": 430,
+          "canonical_name": "أبو الحسن علي بن بشريى السجزي",
+          "has_id": 298,
+          "subj_added": false
+        },
+        {
+          "name": "شیخ بوالحسین همدانی",
+          "person_id": 817,
+          "canonical_name": "أبو سليمان الداراني",
+          "has_id": 404,
+          "subj_added": false
+        },
+        {
+          "name": "بوطبیب بن جعفر",
+          "person_id": 835,
+          "canonical_name": "أبو طبيب بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شجاع صوفی",
+          "person_id": 1661,
+          "canonical_name": "شاه بن شجاع الكرماني",
+          "has_id": 614,
+          "subj_added": false
+        },
+        {
+          "name": "سری سقطی",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 817,
+          "canonical_name": "أبو سليمان الداراني",
+          "has_id": 404,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت کی شیخ بوالحسن بشری ٭ مرا گفت: که شیخ بوالحسین همدانی گفت ، کی بوطبیب بن جعفر گفت، کی شجاع صوفی گفت، که سری سقطی ٭:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [
+      {
+        "name": "احمد بوالحواری",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "احمد بوالحواری شاگرد با سلیمان بود",
+        "person_id": 1177,
+        "canonical_name": "أحمد بن أبي الحواري",
+        "has_id": 442
+      }
+    ],
+    "companions": [
+      {
+        "name": "عبدالعزیز دمشقی",
+        "relationship_type": "peer",
+        "relationship_phrase": "نظیر",
+        "full_text": "نظیر عبدالعزیز دمشقی",
+        "person_id": 1770,
+        "canonical_name": "عبد العزيز الدمشقي",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "احمد بوالحواری",
+      "relationship_type": "direct_narrator",
+      "full_text": "احمد لوالحواری دیده و حکایت کند از وی",
+      "person_id": 1177,
+      "canonical_name": "أحمد بن أبي الحواري",
+      "has_id": 442
+    }
+  ]
+}

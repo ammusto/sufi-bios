@@ -1,0 +1,202 @@
+{
+  "bio_id": "135",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "همدان",
+      "context": "nisba",
+      "full_text": "همدانی"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "بوعبداللّه جاوباره",
+          "person_id": 905,
+          "canonical_name": "أبو عبد الله جاوباره",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوعبداللّه جاوباره گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعبداللّه جاوباره",
+          "person_id": 905,
+          "canonical_name": "أبو عبد الله جاوباره",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "احمد داودی",
+          "person_id": 1157,
+          "canonical_name": "أحمد الداودي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که احمد داودی گویدکه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "احمد داودی",
+          "person_id": 1157,
+          "canonical_name": "أحمد الداودي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "شافعی",
+          "person_id": 166,
+          "canonical_name": "الشافعي",
+          "has_id": 613,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شافعی گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "کافور",
+          "person_id": 2191,
+          "canonical_name": "كافور",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "کافور گفت.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ بوبکر زقاق مصری٭",
+      "relationship_type": "interlocutor",
+      "full_text": "فرا شیخ بوبکر زقاق مصری٭ گفتم: کی صحبت با کی دارم؟",
+      "person_id": 625,
+      "canonical_name": "أبو بكر الزقاق",
+      "has_id": 375
+    },
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "احمد داودی",
+      "relationship_type": "narrator",
+      "context": "questioner",
+      "full_text": "شیخ الاسلام گفت: که احمد داودی گویدکه یحیی نعاذ٭ را گفتم: که صحبت با کی پیوندم؟",
+      "person_id": 1157,
+      "canonical_name": "أحمد الداودي",
+      "has_id": NaN
+    },
+    {
+      "name": "یحیی نعاذ٭",
+      "relationship_type": "interlocutor",
+      "full_text": "یحیی نعاذ٭ را گفتم: که صحبت با کی پیوندم؟",
+      "person_id": 2650,
+      "canonical_name": "يحيى بن معاذ الرازي",
+      "has_id": 844
+    },
+    {
+      "name": "ذوالنون",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "و ذوالنون و خراز٭ درین سخن گفتهاند.",
+      "person_id": 1523,
+      "canonical_name": "ذو النون المصري",
+      "has_id": 570
+    },
+    {
+      "name": "خراز٭",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "و ذوالنون و خراز٭ درین سخن گفتهاند.",
+      "person_id": 801,
+      "canonical_name": "أبو سعيد الخراز",
+      "has_id": 123
+    },
+    {
+      "name": "امیرکافور",
+      "relationship_type": "interlocutor",
+      "full_text": "وقتی امیرکافور، زر فرستاد بشیخ بوعبداللهّ جاوباره بسیاری، و وی بنه پذیرفت باز فرستاد، یعنی لشکریست.",
+      "person_id": 265,
+      "canonical_name": "امير كافور",
+      "has_id": NaN
+    },
+    {
+      "name": "بوعلی کاتب٭",
+      "relationship_type": "interlocutor",
+      "full_text": "فرا بوعلی کاتب٭ گفتند: که فلانکس از لشکری چیزی نمیستاند و فلان پیر میستاند. گفت: آنکه بنمیستاند از علم بنمیستاند، و آنک میستاند از عین میستاند.",
+      "person_id": 973,
+      "canonical_name": "أبو علي بن الكاتب",
+      "has_id": 23
+    },
+    {
+      "name": "شافعی",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "شافعی گوید: که نه دوست تو بود کی باو مدارا باید کرد.",
+      "person_id": 166,
+      "canonical_name": "الشافعي",
+      "has_id": 613
+    }
+  ]
+}

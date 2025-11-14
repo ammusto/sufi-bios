@@ -1,0 +1,93 @@
+{
+  "bio_id": "421",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "جورجان",
+      "context": "nisba",
+      "full_text": "الجورجاني"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر الرازي",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا علي الجورجاني",
+          "person_id": 949,
+          "canonical_name": "أبو علي الجوزجاني",
+          "has_id": 421,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين بن موسى يقول سمعت أبا بكر الرازي يقول سمعت أبا علي الجورجاني يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد بن عبد الرحمن الرازي",
+          "person_id": 1063,
+          "canonical_name": "أبو محمد عبد الله بن محمد بن عبد الله الشعراني",
+          "has_id": 432,
+          "subj_added": false
+        },
+        {
+          "name": "أبا علي الجورجاني",
+          "person_id": 949,
+          "canonical_name": "أبو علي الجوزجاني",
+          "has_id": 421,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت عبد الله بن محمد بن عبد الرحمن الرازي يقول سمعت أبا علي الجورجاني يقول في البخل:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا بكر الرازي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر الرازي يقول",
+      "person_id": 707,
+      "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد الله بن محمد بن عبد الرحمن الرازي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت عبد الله بن محمد بن عبد الرحمن الرازي يقول",
+      "person_id": 1063,
+      "canonical_name": "أبو محمد عبد الله بن محمد بن عبد الله الشعراني",
+      "has_id": 432
+    }
+  ]
+}

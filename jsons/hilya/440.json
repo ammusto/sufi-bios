@@ -1,0 +1,218 @@
+{
+  "bio_id": "440",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بلخ",
+      "context": "nisba",
+      "full_text": "البلخي"
+    },
+    {
+      "place": "خراسان",
+      "context": "mentioned",
+      "full_text": "شيخ خراسان"
+    },
+    {
+      "place": "مرو",
+      "context": "lived",
+      "full_text": "وهو مروزي الدار"
+    },
+    {
+      "place": "بغداد",
+      "context": "visited",
+      "full_text": "- ببغداد -"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو عبد الرحمن السلمي",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد",
+          "person_id": 1194,
+          "canonical_name": "أحمد بن خضرويه البلخي",
+          "has_id": 440,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحكى لي أبو عبد الرحمن السلمي عن أحمد قال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن حامد",
+          "person_id": 2337,
+          "canonical_name": "محمد بن حامد الترمذي",
+          "has_id": 381,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1194,
+          "canonical_name": "أحمد بن خضرويه البلخي",
+          "has_id": 440,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن الحسين بن موسى قال سمعت منصور بن عبد الله يقول سمعت محمد بن حامد يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سليمان بن أحمد",
+          "person_id": 1626,
+          "canonical_name": "سليمان بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن الخضر المروزي",
+          "person_id": 1194,
+          "canonical_name": "أحمد بن خضرويه البلخي",
+          "has_id": 440,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبدة المروزي",
+          "person_id": 2393,
+          "canonical_name": "محمد بن عبدة المروزي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو معاذ النحوي",
+          "person_id": 1078,
+          "canonical_name": "أبو معاذ النحوي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو حمزة السكري",
+          "person_id": 766,
+          "canonical_name": "أبو حمزة السكري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "رقبة بن مصقلة",
+          "person_id": 1547,
+          "canonical_name": "رقبة بن مصقلة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سالم بن بشير",
+          "person_id": 1583,
+          "canonical_name": "سالم بن بشير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد العزيز بن صهيب",
+          "person_id": 1773,
+          "canonical_name": "عبد العزيز بن صهيب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أنس بن مالك",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "النبي صلى الله عليه وسلم",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا سليمان بن أحمد ثنا أحمد بن الخضر المروزي - ببغداد - ثنا محمد بن عبدة المروزي ثنا أبو معاذ النحوي ثنا أبو حمزة السكري عن رقبة بن مصقلة عن سالم بن بشير عن عبد العزيز بن صهيب عن أنس بن مالك عن النبي صلى الله عليه وسلم قال",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبو عبد الرحمن السلمي",
+      "relationship_type": "narrator",
+      "full_text": "وحكى لي أبو عبد الرحمن السلمي عن أحمد قال:",
+      "person_id": 845,
+      "canonical_name": "أبو عبد الرحمن السلمي",
+      "has_id": 133
+    },
+    {
+      "name": "محمد بن حامد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن حامد يقول",
+      "person_id": 2337,
+      "canonical_name": "محمد بن حامد الترمذي",
+      "has_id": 381
+    },
+    {
+      "name": "سليمان بن أحمد",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا سليمان بن أحمد ثنا أحمد بن الخضر المروزي - ببغداد -",
+      "person_id": 1626,
+      "canonical_name": "سليمان بن أحمد",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو يزيد البسطامي",
+      "relationship_type": "interlocutor",
+      "full_text": "قال لأبي يزيد أوصني قال تعلم الفتوة من زوجتك.",
+      "person_id": 1128,
+      "canonical_name": "أبو يزيد البسطامي",
+      "has_id": 435
+    },
+    {
+      "name": "أم علي",
+      "relationship_type": "interlocutor",
+      "context": "زوجته",
+      "full_text": "قرينته المكتنية بأم علي من بنات الكبار",
+      "person_id": 1307,
+      "canonical_name": "أم علي",
+      "has_id": NaN
+    },
+    {
+      "name": "سليمان المروزي",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "قال وأحمد بن الخضر ذكره سليمان المروزي",
+      "person_id": 1625,
+      "canonical_name": "سليمان المروزي",
+      "has_id": NaN
+    }
+  ]
+}

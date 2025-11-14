@@ -1,0 +1,251 @@
+{
+  "bio_id": "239",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "طامد",
+      "context": "nisba",
+      "full_text": "الطامدي"
+    },
+    {
+      "place": "مكة",
+      "context": "mentioned",
+      "full_text": "- بمكة -"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن جعفر بن هانئ",
+          "person_id": 1188,
+          "canonical_name": "أحمد بن جعفر بن هانئ",
+          "has_id": 444,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن يوسف",
+          "person_id": 2477,
+          "canonical_name": "محمد بن يوسف البناء",
+          "has_id": 791,
+          "subj_added": false
+        },
+        {
+          "name": "عباس الطامدي",
+          "person_id": 174,
+          "canonical_name": "العباس بن إسماعيل الطامدي",
+          "has_id": 239,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبي يقول سمعت أحمد بن جعفر بن هانئ يقول سمعت محمد بن يوسف يقول سمعت عباس الطامدي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن كوثة الأصبهانى",
+          "person_id": 1854,
+          "canonical_name": "عبد الله بن كوثة الأصبهانى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عباس الطامدي",
+          "person_id": 174,
+          "canonical_name": "العباس بن إسماعيل الطامدي",
+          "has_id": 239,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن إبراهيم ثنا عبد الله بن كوثة الأصبهانى - بمكة - قال سمعت عباس الطامدي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حسين بن الفرج",
+          "person_id": 1454,
+          "canonical_name": "حسين بن الفرج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن المبارك",
+          "has_id": 668,
+          "person_id": 1804,
+          "canonical_name": "عبد الله بن المبارك",
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 174,
+          "canonical_name": "العباس بن إسماعيل الطامدي",
+          "has_id": 239,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت حسين بن الفرج يقول سمعت ابن المبارك يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عبد الله بن خلة الصفار",
+          "person_id": 1211,
+          "canonical_name": "أحمد بن عبد الله بن خلة الصفار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن يوسف الصوفي",
+          "person_id": 2477,
+          "canonical_name": "محمد بن يوسف البناء",
+          "has_id": 791,
+          "subj_added": false
+        },
+        {
+          "name": "العباس بن إسماعيل الطامدي",
+          "person_id": 174,
+          "canonical_name": "العباس بن إسماعيل الطامدي",
+          "has_id": 239,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا أحمد بن عبد الله بن خلة الصفار ثنا محمد بن يوسف الصوفي ثنا العباس بن إسماعيل الطامدي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مكي بن إبراهيم بن موسى بن عبيدة الربذي",
+          "person_id": 2532,
+          "canonical_name": "مكي بن إبراهيم بن موسى بن عبيدة الربذي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن كعب القرظي",
+          "person_id": 2435,
+          "canonical_name": "محمد بن كعب القرظي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 174,
+          "canonical_name": "العباس بن إسماعيل الطامدي",
+          "has_id": 239,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "ثنا مكي بن إبراهيم بن موسى بن عبيدة الربذي عن محمد بن كعب القرظي قال",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "حسين بن الفرج",
+        "relationship_type": "student_of",
+        "relationship_phrase": "سمعت",
+        "full_text": "سمعت حسين بن الفرج يقول",
+        "person_id": 1454,
+        "canonical_name": "حسين بن الفرج",
+        "has_id": NaN
+      },
+      {
+        "name": "مكي بن إبراهيم بن موسى بن عبيدة الربذي",
+        "relationship_type": "student_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا مكي بن إبراهيم بن موسى بن عبيدة الربذي",
+        "person_id": 2532,
+        "canonical_name": "مكي بن إبراهيم بن موسى بن عبيدة الربذي",
+        "has_id": NaN
+      }
+    ],
+    "students": [
+      {
+        "name": "محمد بن يوسف",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "سمعت",
+        "full_text": "سمعت محمد بن يوسف يقول سمعت عباس الطامدي",
+        "person_id": 2477,
+        "canonical_name": "محمد بن يوسف البناء",
+        "has_id": 791
+      },
+      {
+        "name": "عبد الله بن كوثة الأصبهانى",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "قال سمعت",
+        "full_text": "قال سمعت عباس الطامدي",
+        "person_id": 1854,
+        "canonical_name": "عبد الله بن كوثة الأصبهانى",
+        "has_id": NaN
+      },
+      {
+        "name": "محمد بن يوسف الصوفي",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "ثنا",
+        "full_text": "ثنا العباس بن إسماعيل الطامدي",
+        "person_id": 2477,
+        "canonical_name": "محمد بن يوسف البناء",
+        "has_id": 791
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "محمد بن يوسف",
+      "relationship_type": "interlocutor",
+      "full_text": "سمعت محمد بن يوسف يقول سمعت عباس الطامدي وقد اعتل أياما فوجدته متأسفا فسألته فقال",
+      "person_id": 2477,
+      "canonical_name": "محمد بن يوسف البناء",
+      "has_id": 791
+    },
+    {
+      "name": "عبد الله بن كوثة الأصبهانى",
+      "relationship_type": "narrator",
+      "full_text": "ثنا عبد الله بن كوثة الأصبهانى - بمكة - قال سمعت عباس الطامدي يقول",
+      "person_id": 1854,
+      "canonical_name": "عبد الله بن كوثة الأصبهانى",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن يوسف الصوفي",
+      "relationship_type": "narrator",
+      "full_text": "ثنا محمد بن يوسف الصوفي ثنا العباس بن إسماعيل الطامدي",
+      "person_id": 2477,
+      "canonical_name": "محمد بن يوسف البناء",
+      "has_id": 791
+    }
+  ]
+}

@@ -1,0 +1,600 @@
+{
+  "bio_id": "442",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "230",
+    "full_text": "مَاتَ أَحْمد سنة ثَلَاثِينَ وَمِائَتَيْنِ",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "دمشق",
+      "context": "lived",
+      "full_text": "من أهل دمشق"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبُو جَعْفَر مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْفضل الْعَبَّاس بن حَمْزَة الزَّاهِد",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن الْحوَاري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "يحيى بن صَالح الوحاظي",
+          "person_id": 2646,
+          "canonical_name": "يحيى بن صالح الوحاظي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عفير بن معدان",
+          "person_id": 1972,
+          "canonical_name": "عفير بن معدان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سليم بن عَامر",
+          "person_id": 1619,
+          "canonical_name": "سليم بن عامر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي أُمَامَة",
+          "person_id": 603,
+          "canonical_name": "أبو أمامة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا أَبُو جَعْفَر مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ حَدثنَا أَبُو الْفضل الْعَبَّاس بن حَمْزَة الزَّاهِد حَدثنَا أَحْمد بن الْحوَاري حَدثنَا يحيى بن صَالح الوحاظي حَدثنَا عفير بن معدان حَدثنَا سليم بن عَامر عَن أبي أُمَامَة",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الْحَاكِم أَبَا أَحْمد مُحَمَّد بن أَحْمد بن إِسْحَاق الْحَافِظ",
+          "person_id": 72,
+          "canonical_name": "الحاكم أبو أحمد محمد بن أحمد بن إسحاق الحافظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن عبد الْعَزِيز الْحلَبِي",
+          "person_id": 1599,
+          "canonical_name": "سعيد بن عبد العزيز الحلبي",
+          "has_id": 597,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن أبي الْحوَاري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت الْحَاكِم أَبَا أَحْمد مُحَمَّد بن أَحْمد بن إِسْحَاق الْحَافِظ يَقُول سَمِعت سعيد بن عبد الْعَزِيز الْحلَبِي يَقُول سَمِعت أَحْمد بن أبي الْحوَاري يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الْحَاكِم أَبَا أَحْمد مُحَمَّد بن أَحْمد بن إِسْحَاق الْحَافِظ",
+          "person_id": 72,
+          "canonical_name": "الحاكم أبو أحمد محمد بن أحمد بن إسحاق الحافظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن عبد الْعَزِيز الْحلَبِي",
+          "person_id": 1599,
+          "canonical_name": "سعيد بن عبد العزيز الحلبي",
+          "has_id": 597,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن أبي الْحوَاري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "الْحَاكِم أَبَا أَحْمد مُحَمَّد بن أَحْمد بن إِسْحَاق الْحَافِظ",
+          "person_id": 72,
+          "canonical_name": "الحاكم أبو أحمد محمد بن أحمد بن إسحاق الحافظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن عبد الْعَزِيز الْحلَبِي",
+          "person_id": 1599,
+          "canonical_name": "سعيد بن عبد العزيز الحلبي",
+          "has_id": 597,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن أبي الْحوَاري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد سَمِعت أَحْمد يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو جَعْفَر مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْفضل الْعَبَّاس بن حَمْزَة",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن أبي الْحوَاري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا أَبُو جَعْفَر مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ قَالَ حَدثنَا أَبُو الْفضل الْعَبَّاس بن حَمْزَة حَدثنَا أَحْمد بن أبي الْحوَاري قَالَ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو جَعْفَر مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْفضل الْعَبَّاس بن حَمْزَة",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن أبي الْحوَاري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو جَعْفَر مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْفضل الْعَبَّاس بن حَمْزَة",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن أبي الْحوَاري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو جَعْفَر مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْفضل الْعَبَّاس بن حَمْزَة",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن أبي الْحوَاري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو جَعْفَر مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْفضل الْعَبَّاس بن حَمْزَة",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن أبي الْحوَاري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو جَعْفَر مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْفضل الْعَبَّاس بن حَمْزَة",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن أبي الْحوَاري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو جَعْفَر مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْفضل الْعَبَّاس بن حَمْزَة",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن أبي الْحوَاري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو جَعْفَر مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْفضل الْعَبَّاس بن حَمْزَة",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن أبي الْحوَاري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو جَعْفَر مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْفضل الْعَبَّاس بن حَمْزَة",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن أبي الْحوَاري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو جَعْفَر مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْفضل الْعَبَّاس بن حَمْزَة",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن أبي الْحوَاري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو جَعْفَر مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْفضل الْعَبَّاس بن حَمْزَة",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن أبي الْحوَاري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَحْمد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبُو جَعْفَر مُحَمَّد بن أَحْمد بن سعيد الرَّازِيّ",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْفضل الْعَبَّاس بن حَمْزَة",
+          "person_id": 521,
+          "canonical_name": "أبو الفضل العباس بن حمزة",
+          "has_id": 647,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن أبي الْحوَاري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد قَالَ أَحْمد",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "أَبَا سُلَيْمَان الدَّارَانِي",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحب",
+        "full_text": "من أهل دمشق صحب أَبَا سُلَيْمَان الدَّارَانِي",
+        "person_id": 817,
+        "canonical_name": "أبو سليمان الداراني",
+        "has_id": 404
+      },
+      {
+        "name": "سُفْيَان بن عُيَيْنَة",
+        "relationship_type": "student_of",
+        "relationship_phrase": "من الْمَشَايِخ",
+        "full_text": "وغَيره من الْمَشَايِخ مثل سُفْيَان بن عُيَيْنَة",
+        "person_id": 1608,
+        "canonical_name": "سفيان بن عيينة",
+        "has_id": NaN
+      },
+      {
+        "name": "مروان بن مُعَاوِيَة الْفَزارِيّ",
+        "relationship_type": "student_of",
+        "relationship_phrase": "من الْمَشَايِخ",
+        "full_text": "وغَيره من الْمَشَايِخ مثل ... ومروان بن مُعَاوِيَة الْفَزارِيّ",
+        "person_id": 2496,
+        "canonical_name": "مروان بن معاوية الفزاري",
+        "has_id": NaN
+      },
+      {
+        "name": "مضاء بن عِيسَى",
+        "relationship_type": "student_of",
+        "relationship_phrase": "من الْمَشَايِخ",
+        "full_text": "وغَيره من الْمَشَايِخ مثل ... ومضاء بن عِيسَى",
+        "person_id": 2509,
+        "canonical_name": "مضاء بن عيسى",
+        "has_id": NaN
+      },
+      {
+        "name": "بشر بن السّري",
+        "relationship_type": "student_of",
+        "relationship_phrase": "من الْمَشَايِخ",
+        "full_text": "وغَيره من الْمَشَايِخ مثل ... وَبشر بن السّري",
+        "person_id": 1324,
+        "canonical_name": "بشر بن السري",
+        "has_id": NaN
+      },
+      {
+        "name": "أبي عبد الله النباجي",
+        "relationship_type": "student_of",
+        "relationship_phrase": "من الْمَشَايِخ",
+        "full_text": "وغَيره من الْمَشَايِخ مثل ... وَأبي عبد الله النباجي",
+        "person_id": 888,
+        "canonical_name": "أبو عبد الله النباجي",
+        "has_id": 142
+      },
+      {
+        "name": "يحيى بن صَالح الوحاظي",
+        "relationship_type": "student_of",
+        "relationship_phrase": "حَدثنَا",
+        "full_text": "حَدثنَا يحيى بن صَالح الوحاظي",
+        "person_id": 2646,
+        "canonical_name": "يحيى بن صالح الوحاظي",
+        "has_id": NaN
+      }
+    ],
+    "students": [
+      {
+        "name": "سعيد بن عبد الْعَزِيز الْحلَبِي",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "سَمِعت",
+        "full_text": "سَمِعت سعيد بن عبد الْعَزِيز الْحلَبِي يَقُول سَمِعت أَحْمد بن أبي الْحوَاري",
+        "person_id": 1599,
+        "canonical_name": "سعيد بن عبد العزيز الحلبي",
+        "has_id": 597
+      },
+      {
+        "name": "أَبُو الْفضل الْعَبَّاس بن حَمْزَة",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "حَدثنَا",
+        "full_text": "قَالَ حَدثنَا أَبُو الْفضل الْعَبَّاس بن حَمْزَة حَدثنَا أَحْمد بن أبي الْحوَاري",
+        "person_id": 521,
+        "canonical_name": "أبو الفضل العباس بن حمزة",
+        "has_id": 647
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "سعيد بن عبد الْعَزِيز الْحلَبِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت سعيد بن عبد الْعَزِيز الْحلَبِي يَقُول",
+      "person_id": 1599,
+      "canonical_name": "سعيد بن عبد العزيز الحلبي",
+      "has_id": 597
+    },
+    {
+      "name": "أَبُو الْفضل الْعَبَّاس بن حَمْزَة الزَّاهِد",
+      "relationship_type": "narrator",
+      "full_text": "حَدثنَا أَبُو الْفضل الْعَبَّاس بن حَمْزَة الزَّاهِد",
+      "person_id": 521,
+      "canonical_name": "أبو الفضل العباس بن حمزة",
+      "has_id": 647
+    }
+  ]
+}

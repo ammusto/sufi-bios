@@ -1,0 +1,115 @@
+{
+  "bio_id": "597",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "حلب",
+      "context": "nisba",
+      "full_text": "الحلبي"
+    },
+    {
+      "place": "دمشق",
+      "context": "lived",
+      "full_text": "سكن دمشق"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن المظفر",
+          "person_id": 2262,
+          "canonical_name": "محمد بن المظفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن عبد العزيز بن مروان أبو عثمان",
+          "person_id": 1600,
+          "canonical_name": "سعيد بن عبد العزيز بن مروان أبو عثمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو نعيم عبيد بن هشام",
+          "person_id": 1115,
+          "canonical_name": "أبو نعيم عبيد بن هشام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حفص بن عمران الواسطي",
+          "person_id": 1461,
+          "canonical_name": "حفص بن عمران الواسطي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمرو ابن كثير",
+          "person_id": 2128,
+          "canonical_name": "عمرو بن كثير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الرحمن بن أبي الزناد",
+          "person_id": 1737,
+          "canonical_name": "عبد الرحمن بن أبي الزناد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبيه",
+          "person_id": 1149,
+          "canonical_name": "أبوه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبان بن عثمان بن عفان",
+          "person_id": 375,
+          "canonical_name": "أبان بن عثمان بن عفان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبيه",
+          "person_id": 1149,
+          "canonical_name": "أبوه",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن المظفر ثنا سعيد بن عبد العزيز بن مروان أبو عثمان - بدمشق - ثنا أبو نعيم عبيد بن هشام ثنا حفص بن عمران الواسطي ثنا عمرو ابن كثير عن عبد الرحمن بن أبي الزناد عن أبيه عن أبان بن عثمان بن عفان عن أبيه",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [
+      {
+        "name": "إبراهيم بن المولد",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "تخرج له",
+        "full_text": "تخرج له عدة من الأعلام: إبراهيم بن المولد وطبقته",
+        "person_id": 298,
+        "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+        "has_id": 273
+      }
+    ],
+    "companions": [
+      {
+        "name": "سريا السقطى",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب سريا السقطى أحد الاوتاد، من علماء العباد.",
+        "person_id": 161,
+        "canonical_name": "السري السقطي",
+        "has_id": 236
+      }
+    ]
+  },
+  "associates": []
+}

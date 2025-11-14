@@ -1,0 +1,99 @@
+{
+  "bio_id": "473",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "طبرستان",
+      "context": "nisba",
+      "full_text": "الطبري"
+    },
+    {
+      "place": "الشام",
+      "context": "lived",
+      "full_text": "سكن الشام."
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد بن عمر",
+          "person_id": 2312,
+          "canonical_name": "محمد بن أحمد بن عمر العبدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1046,
+          "canonical_name": "أبو محمد أحمد بن عمر العبدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر بن سفيان",
+          "person_id": 671,
+          "canonical_name": "أبو بكر بن سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زياد ابن أيوب",
+          "person_id": 1568,
+          "canonical_name": "زياد بن أيوب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن أبي الحواري",
+          "person_id": 1177,
+          "canonical_name": "أحمد بن أبي الحواري",
+          "has_id": 442,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عمرو الكندي",
+          "person_id": 1012,
+          "canonical_name": "أبو عمرو الكندي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن أحمد بن عمر قال حدثني أبي ثنا أبو بكر بن سفيان ثنا زياد ابن أيوب ثنا أحمد بن أبي الحواري قال حدثني أبو عمرو الكندي قال:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبو عمرو الكندي",
+      "relationship_type": "narrator",
+      "full_text": "قال حدثني أبو عمرو الكندي قال:",
+      "person_id": 1012,
+      "canonical_name": "أبو عمرو الكندي",
+      "has_id": NaN
+    },
+    {
+      "name": "ابنه",
+      "relationship_type": "interlocutor",
+      "full_text": "فقال له ابنه: يا أبت أفقرتنا.",
+      "has_id": NaN,
+      "person_id": 79,
+      "canonical_name": "الحسن بن أحمد أبو علي الصوفي"
+    },
+    {
+      "name": "عبيده",
+      "relationship_type": "interlocutor",
+      "full_text": "فلقينا عبيده الذين كانت معهم الجواميس، معهم عصيهم، فقالوا: يا مولانا ذهبت الجواميس.",
+      "person_id": 1942,
+      "canonical_name": "عبيدة",
+      "has_id": NaN
+    }
+  ]
+}

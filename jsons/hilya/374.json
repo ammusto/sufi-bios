@@ -1,0 +1,58 @@
+{
+  "bio_id": "374",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "أبهر",
+      "context": "nisba",
+      "full_text": "الأبهري"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو الفضل أحمد بن أبي عمران الهروي",
+          "person_id": 523,
+          "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن أبي حماد الأبهري",
+          "person_id": 297,
+          "canonical_name": "إبراهيم بن أبي حماد الأبهري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "ذكر لي فيما أرى أبو الفضل أحمد بن أبي عمران الهروي عن إبراهيم بن أبي حماد الأبهري",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "إبراهيم بن أبي حماد الأبهري",
+      "relationship_type": "narrator",
+      "full_text": "ذكر لي فيما أرى أبو الفضل أحمد بن أبي عمران الهروي عن إبراهيم بن أبي حماد الأبهري",
+      "person_id": 297,
+      "canonical_name": "إبراهيم بن أبي حماد الأبهري",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو بكر بن طاهر الأبهري",
+      "relationship_type": "interlocutor",
+      "full_text": "أن أبا بكر بن طاهر الأبهري حضر أبا بكر بن عيسى الأبهري وهو في النزع فقال له: أحسن بربك الظن",
+      "person_id": 686,
+      "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
+      "has_id": 29
+    }
+  ]
+}

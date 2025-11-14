@@ -1,0 +1,154 @@
+{
+  "bio_id": "777",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "born",
+      "full_text": "از اهل بغداد،"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر واسطی",
+          "person_id": 653,
+          "canonical_name": "أبو بكر الواسطي",
+          "has_id": 379,
+          "subj_added": false
+        },
+        {
+          "name": "محمدحسن جوهری",
+          "person_id": 2340,
+          "canonical_name": "محمد بن حسن الجوهري",
+          "has_id": 777,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "بوبکر واسطی گوید امام توحید: که محمدحسن جوهری گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "پیری",
+          "person_id": 1680,
+          "canonical_name": "شيج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2340,
+          "canonical_name": "محمد بن حسن الجوهري",
+          "has_id": 777,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "پیری گفته:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "ذوالنون مصری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد ذوالنون مصری٭ مردی بزرگ.",
+        "person_id": 1523,
+        "canonical_name": "ذو النون المصري",
+        "has_id": 570
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ بوبکر واسطی",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ بوبکر واسطی٭ با جلالت خود، از وی حکایت کند.",
+      "person_id": 653,
+      "canonical_name": "أبو بكر الواسطي",
+      "has_id": 379
+    },
+    {
+      "name": "مردی",
+      "relationship_type": "questioner",
+      "full_text": "که مردی ذوالنون مصری را گفت: که مرا دعایی کم.",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    },
+    {
+      "name": "ذوالنون مصری",
+      "relationship_type": "interlocutor",
+      "full_text": "که مردی ذوالنون مصری را گفت: که مرا دعایی کم.",
+      "person_id": 1523,
+      "canonical_name": "ذو النون المصري",
+      "has_id": 570
+    },
+    {
+      "name": "نمیری",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "مخاطب درخواست دعا",
+      "full_text": "نمیری را گفتند: که مرا دعائی کن",
+      "person_id": 2354,
+      "canonical_name": "محمد بن سباع النميري",
+      "has_id": 765
+    },
+    {
+      "name": "پیری",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "پیری گفته:",
+      "person_id": 1680,
+      "canonical_name": "شيج",
+      "has_id": NaN
+    },
+    {
+      "name": "حفص بغاوردان",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "با حفص بغاوردان پاس از شب برنیل خفته میگفت:",
+      "person_id": 1459,
+      "canonical_name": "حفص بغاوردان",
+      "has_id": NaN
+    }
+  ]
+}

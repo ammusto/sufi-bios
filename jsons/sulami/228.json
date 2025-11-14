@@ -1,0 +1,1253 @@
+{
+  "bio_id": "228",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "297",
+    "full_text": "توفّي سنة سبع وَتِسْعين وَمِائَتَيْنِ يَوْم نيروز الْخَلِيفَة يَوْم السبت وَقيل توفّي فِي آخر سَاعَة من يَوْم الْجُمُعَة وَدفن يَوْم السبت",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "نهاوند",
+      "context": "nisba",
+      "full_text": "أَصله من نهاوند"
+    },
+    {
+      "place": "العراق",
+      "context": "born",
+      "full_text": "ومولده ومنشؤه بالعراق"
+    },
+    {
+      "place": "العراق",
+      "context": "lived",
+      "full_text": "ومولده ومنشؤه بالعراق"
+    },
+    {
+      "place": "بَغْدَاد",
+      "context": "mentioned",
+      "full_text": "مقَام الْغَرِيب بِبَغْدَاد بعد خَمْسَة أَيَّام فضول"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم النصراباذي",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "كَذَلِك سَمِعت أَبَا الْقَاسِم النصراباذي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن بن مقسم",
+          "person_id": 414,
+          "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سَمِعت أَبَا الْحسن بن مقسم يذكر ذَلِك",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله الْحَافِظ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بكير بن أَحْمد الْحداد الصُّوفِي",
+          "person_id": 1357,
+          "canonical_name": "بكير بن أحمد الحداد الصوفي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد بن مُحَمَّد أَبُو الْقَاسِم الصُّوفِي",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عَرَفَة",
+          "person_id": 91,
+          "canonical_name": "الحسن بن عرفة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن كثير الْكُوفِي",
+          "person_id": 2434,
+          "canonical_name": "محمد بن كثير الكوفي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَمْرو بن قيس الْملَائي",
+          "person_id": 2127,
+          "canonical_name": "عمرو بن قيس الملائي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَطِيَّة",
+          "person_id": 1970,
+          "canonical_name": "عطية",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي سعيد",
+          "person_id": 798,
+          "canonical_name": "أبو سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حَدثنَا مُحَمَّد بن عبد الله الْحَافِظ قَالَ حَدثنَا بكير بن أَحْمد الْحداد الصُّوفِي بِمَكَّة حَدثنَا الْجُنَيْد بن مُحَمَّد أَبُو الْقَاسِم الصُّوفِي حَدثنَا الْحسن بن عَرَفَة حَدثنَا مُحَمَّد بن كثير الْكُوفِي عَن عَمْرو بن قيس الْملَائي عَن عَطِيَّة عَن أبي سعيد ﵁",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله بن شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سَمِعت مُحَمَّد بن عبد الله بن شَاذان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الْوَاحِد بن بكر",
+          "person_id": 1908,
+          "canonical_name": "عبد الواحد بن بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "همام بن الْحَارِث",
+          "person_id": 2606,
+          "canonical_name": "همام بن الحارث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الْوَاحِد بن بكر يَقُول سَمِعت همام بن الْحَارِث يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْفَتْح يُوسُف بن عمر الزَّاهِد",
+          "person_id": 517,
+          "canonical_name": "أبو الفتح يوسف بن عمر بن مسرور القواس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جَعْفَر بن مُحَمَّد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْفَتْح يُوسُف بن عمر الزَّاهِد بِبَغْدَاد يَقُول سَمِعت جَعْفَر بن مُحَمَّد بن نصير يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله شَاذان",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا الْخُلْدِيِّ",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله شَاذان يَقُول سَمِعت جعفرا الْخُلْدِيِّ يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن الْحسن الْبَغْدَادِيّ",
+          "person_id": 507,
+          "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّد بن الْحسن الْبَغْدَادِيّ يَقُول سَمِعت الْجُنَيْد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد الْجريرِي",
+          "person_id": 1035,
+          "canonical_name": "أبو محمد الجريري",
+          "has_id": 431,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّد بن عبد الله الرَّازِيّ يَقُول سَمِعت أَبَا مُحَمَّد الْجريرِي يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "نصر بن أبي نصر الْعَطَّار",
+          "person_id": 2582,
+          "canonical_name": "نصر بن أبي نصر العطّار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن الْعَلَاء",
+          "person_id": 1165,
+          "canonical_name": "أحمد بن العلاء",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر الملاعقي",
+          "person_id": 648,
+          "canonical_name": "أبو بكر الملاعقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت نصر بن أبي نصر الْعَطَّار يَقُول سَمِعت أَحْمد بن الْعَلَاء يَقُول سَمِعت أَبَا بكر الملاعقي يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَمْرو الْأنمَاطِي",
+          "person_id": 989,
+          "canonical_name": "أبو عمر الأنماطي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت أَبَا عَمْرو الْأنمَاطِي يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر",
+          "person_id": 711,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا مُحَمَّد الْجريرِي",
+          "person_id": 1035,
+          "canonical_name": "أبو محمد الجريري",
+          "has_id": 431,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر يَقُول سَمِعت أَبَا مُحَمَّد الْجريرِي يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا إِسْحَاق الدينَوَرِي",
+          "person_id": 570,
+          "canonical_name": "أبو إسحاق الدينوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحسن الْفَارِسِي يَقُول سَمِعت أَبَا إِسْحَاق الدينَوَرِي يَقُول سُئِلَ الْجُنَيْد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا إِسْحَاق الدينَوَرِي",
+          "person_id": 570,
+          "canonical_name": "أبو إسحاق الدينوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْجُنَيْد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس مُحَمَّد بن الْحسن الخشاب",
+          "person_id": 508,
+          "canonical_name": "أبو العباس محمد بن الحسن بن الخشاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جَعْفَر بن مُحَمَّد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْعَبَّاس مُحَمَّد بن الْحسن الخشاب يَقُول سَمِعت جَعْفَر بن مُحَمَّد يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس مُحَمَّد بن الْحسن الخشاب",
+          "person_id": 508,
+          "canonical_name": "أبو العباس محمد بن الحسن بن الخشاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جَعْفَر بن مُحَمَّد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْجُنَيْد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "الْحُسَيْن بن يحيى",
+          "person_id": 132,
+          "canonical_name": "الحسين بن يحيى الشافعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت الْحُسَيْن بن يحيى يَقُول سَمِعت جعفرا يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الْحُسَيْن بن يحيى",
+          "person_id": 132,
+          "canonical_name": "الحسين بن يحيى الشافعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْجُنَيْد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "الْحُسَيْن بن يحيى",
+          "person_id": 132,
+          "canonical_name": "الحسين بن يحيى الشافعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْعَبَّاس الْبَغْدَادِيّ",
+          "person_id": 507,
+          "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن عبد الله الفرغاني",
+          "person_id": 2383,
+          "canonical_name": "محمد بن عبد الله الفرغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْعَبَّاس الْبَغْدَادِيّ يَقُول سَمِعت مُحَمَّد بن عبد الله الفرغاني يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر الطوسي",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن عَطاء",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        },
+        {
+          "name": "أبي عَليّ",
+          "person_id": 944,
+          "canonical_name": "أبو علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا نصر الطوسي يَقُول سَمِعت أَحْمد بن عَطاء يذكر عَن خَاله أبي عَليّ عَن الْجُنَيْد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر الطوسي",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن عَطاء",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        },
+        {
+          "name": "أبي عَليّ",
+          "person_id": 983,
+          "canonical_name": "أبو علي محمد بن إبراهيم البزّاز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْجُنَيْد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا نصر الطوسي",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن عَطاء",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        },
+        {
+          "name": "أبي عَليّ",
+          "person_id": 983,
+          "canonical_name": "أبو علي محمد بن إبراهيم البزّاز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْجُنَيْد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن عَليّ بن مُحَمَّد الْقزْوِينِي",
+          "person_id": 433,
+          "canonical_name": "أبو الحسن علي بن محمد القزويني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا الطّيب العكي",
+          "person_id": 481,
+          "canonical_name": "أبو الطيب العكي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا الْخُلْدِيِّ",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحسن عَليّ بن مُحَمَّد الْقزْوِينِي يَقُول سَمِعت أَبَا الطّيب العكي يَقُول سَمِعت جعفرا الْخُلْدِيِّ يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَمْرو الْأنمَاطِي",
+          "person_id": 989,
+          "canonical_name": "أبو عمر الأنماطي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول سَمِعت أَبَا عَمْرو الْأنمَاطِي يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن عَليّ بن جَعْفَر",
+          "person_id": 1226,
+          "canonical_name": "أحمد بن علي بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْخُلْدِيِّ",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَحْمد بن عَليّ بن جَعْفَر يَقُول سَمِعت الْخُلْدِيِّ يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن عَليّ بن جَعْفَر",
+          "person_id": 1226,
+          "canonical_name": "أحمد بن علي بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْخُلْدِيِّ",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْجُنَيْد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد بن نصر بن عبد الله بن الْفَتْح الذِّرَاع",
+          "person_id": 1277,
+          "canonical_name": "أحمد بن نصر بن عبد الله بن الفتح الذراع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَحْمد بن نصر بن عبد الله بن الْفَتْح الذِّرَاع بالنهروان قَالَ سَمِعت الْجُنَيْد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد",
+          "person_id": 1277,
+          "canonical_name": "أحمد بن نصر بن عبد الله بن الفتح الذراع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت أَحْمد يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَحْمد",
+          "person_id": 1277,
+          "canonical_name": "أحمد بن نصر بن عبد الله بن الفتح الذراع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْجُنَيْد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفرا الْخُلْدِيِّ",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سَمِعت جعفرا الْخُلْدِيِّ يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن",
+          "person_id": 6,
+          "canonical_name": "أبو الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحسن يَقُول سَمِعت جعفرا يَقُول كتب الْجُنَيْد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن",
+          "person_id": 6,
+          "canonical_name": "أبو الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْجُنَيْد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن",
+          "person_id": 6,
+          "canonical_name": "أبو الحسن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفرا",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ الْجُنَيْد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عَليّ مُحَمَّد بن إِبْرَاهِيم الْبَزَّاز",
+          "person_id": 983,
+          "canonical_name": "أبو علي محمد بن إبراهيم البزّاز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَمْرو الزجاجي",
+          "person_id": 1011,
+          "canonical_name": "أبو عمرو الزجاجي",
+          "has_id": 426,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا عَليّ مُحَمَّد بن إِبْرَاهِيم الْبَزَّاز يَقُول سَمِعت أَبَا عَمْرو الزجاجي يَقُول سَأَلت الْجُنَيْد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مَنْصُور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَمْرو الْأنمَاطِي",
+          "person_id": 989,
+          "canonical_name": "أبو عمر الأنماطي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الْجُنَيْد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول سَمِعت أَبَا عَمْرو الْأنمَاطِي يَقُول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "أبي ثَوْر",
+        "relationship_type": "student_of",
+        "relationship_phrase": "تفقه على",
+        "full_text": "وَكَانَ فَقِيها تفقه على أبي ثَوْر",
+        "person_id": 724,
+        "canonical_name": "أبو ثور",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "السّري السَّقطِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب",
+        "full_text": "وَصَحب السّري السَّقطِي والْحَارث المحاسبي وَمُحَمّد بن القصاب الْبَغْدَادِيّ وَغَيرهم",
+        "person_id": 161,
+        "canonical_name": "السري السقطي",
+        "has_id": 236
+      },
+      {
+        "name": "الْحَارث المحاسبي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب",
+        "full_text": "وَصَحب السّري السَّقطِي والْحَارث المحاسبي وَمُحَمّد بن القصاب الْبَغْدَادِيّ وَغَيرهم",
+        "person_id": 69,
+        "canonical_name": "الحارث بن أسد المحاسبي",
+        "has_id": 229
+      },
+      {
+        "name": "مُحَمّد بن القصاب الْبَغْدَادِيّ",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب",
+        "full_text": "وَصَحب السّري السَّقطِي والْحَارث المحاسبي وَمُحَمّد بن القصاب الْبَغْدَادِيّ وَغَيرهم",
+        "person_id": 2257,
+        "canonical_name": "محمد بن القصاب البغدادي",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "بكير بن أَحْمد الْحداد الصُّوفِي",
+      "relationship_type": "narrator",
+      "full_text": "حَدثنَا مُحَمَّد بن عبد الله الْحَافِظ قَالَ حَدثنَا بكير بن أَحْمد الْحداد الصُّوفِي بِمَكَّة حَدثنَا الْجُنَيْد بن مُحَمَّد أَبُو الْقَاسِم الصُّوفِي",
+      "person_id": 1357,
+      "canonical_name": "بكير بن أحمد الحداد الصوفي",
+      "has_id": NaN
+    },
+    {
+      "name": "همام بن الْحَارِث",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت عبد الْوَاحِد بن بكر يَقُول سَمِعت همام بن الْحَارِث يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "person_id": 2606,
+      "canonical_name": "همام بن الحارث",
+      "has_id": NaN
+    },
+    {
+      "name": "جَعْفَر بن مُحَمَّد بن نصير",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْفَتْح يُوسُف بن عمر الزَّاهِد بِبَغْدَاد يَقُول سَمِعت جَعْفَر بن مُحَمَّد بن نصير يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "person_id": 1405,
+      "canonical_name": "جعفر بن محمد الخلدي",
+      "has_id": 495
+    },
+    {
+      "name": "جعفرا الْخُلْدِيِّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله شَاذان يَقُول سَمِعت جعفرا الْخُلْدِيِّ يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "person_id": 1405,
+      "canonical_name": "جعفر بن محمد الخلدي",
+      "has_id": 495
+    },
+    {
+      "name": "مُحَمَّد بن الْحسن الْبَغْدَادِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مُحَمَّد بن الْحسن الْبَغْدَادِيّ يَقُول سَمِعت الْجُنَيْد",
+      "person_id": 507,
+      "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا مُحَمَّد الْجريرِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت مُحَمَّد بن عبد الله الرَّازِيّ يَقُول سَمِعت أَبَا مُحَمَّد الْجريرِي يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "person_id": 1035,
+      "canonical_name": "أبو محمد الجريري",
+      "has_id": 431
+    },
+    {
+      "name": "أَبَا بكر الملاعقي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت نصر بن أبي نصر الْعَطَّار يَقُول سَمِعت أَحْمد بن الْعَلَاء يَقُول سَمِعت أَبَا بكر الملاعقي يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "person_id": 648,
+      "canonical_name": "أبو بكر الملاعقي",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا عَمْرو الْأنمَاطِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت أَبَا عَمْرو الْأنمَاطِي يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "person_id": 989,
+      "canonical_name": "أبو عمر الأنماطي",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا إِسْحَاق الدينَوَرِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْحسن الْفَارِسِي يَقُول سَمِعت أَبَا إِسْحَاق الدينَوَرِي يَقُول سُئِلَ الْجُنَيْد",
+      "person_id": 570,
+      "canonical_name": "أبو إسحاق الدينوري",
+      "has_id": NaN
+    },
+    {
+      "name": "جَعْفَر بن مُحَمَّد",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْعَبَّاس مُحَمَّد بن الْحسن الخشاب يَقُول سَمِعت جَعْفَر بن مُحَمَّد يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "person_id": 1405,
+      "canonical_name": "جعفر بن محمد الخلدي",
+      "has_id": 495
+    },
+    {
+      "name": "جعفرا",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت الْحُسَيْن بن يحيى يَقُول سَمِعت جعفرا يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "person_id": 1405,
+      "canonical_name": "جعفر بن محمد الخلدي",
+      "has_id": 495
+    },
+    {
+      "name": "مُحَمَّد بن عبد الله الفرغاني",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْعَبَّاس الْبَغْدَادِيّ يَقُول سَمِعت مُحَمَّد بن عبد الله الفرغاني يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "person_id": 2383,
+      "canonical_name": "محمد بن عبد الله الفرغاني",
+      "has_id": NaN
+    },
+    {
+      "name": "أبي عَليّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا نصر الطوسي يَقُول سَمِعت أَحْمد بن عَطاء يذكر عَن خَاله أبي عَليّ عَن الْجُنَيْد",
+      "person_id": 983,
+      "canonical_name": "أبو علي محمد بن إبراهيم البزّاز",
+      "has_id": NaN
+    },
+    {
+      "name": "الْخُلْدِيِّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَحْمد بن عَليّ بن جَعْفَر يَقُول سَمِعت الْخُلْدِيِّ يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "person_id": 1405,
+      "canonical_name": "جعفر بن محمد الخلدي",
+      "has_id": 495
+    },
+    {
+      "name": "أَحْمد بن نصر بن عبد الله بن الْفَتْح الذِّرَاع",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَحْمد بن نصر بن عبد الله بن الْفَتْح الذِّرَاع بالنهروان قَالَ سَمِعت الْجُنَيْد يَقُول",
+      "person_id": 1277,
+      "canonical_name": "أحمد بن نصر بن عبد الله بن الفتح الذراع",
+      "has_id": NaN
+    },
+    {
+      "name": "أَحْمد",
+      "relationship_type": "narrator",
+      "full_text": "وَسمعت أَحْمد يَقُول سَمِعت الْجُنَيْد يَقُول",
+      "person_id": 1154,
+      "canonical_name": "أحمد",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا عَمْرو الزجاجي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا عَليّ مُحَمَّد بن إِبْرَاهِيم الْبَزَّاز يَقُول سَمِعت أَبَا عَمْرو الزجاجي يَقُول سَأَلت الْجُنَيْد",
+      "person_id": 1011,
+      "canonical_name": "أبو عمرو الزجاجي",
+      "has_id": 426
+    },
+    {
+      "name": "الشبلي",
+      "relationship_type": "interlocutor",
+      "full_text": "سَمِعت أَبَا الْعَبَّاس الْبَغْدَادِيّ يَقُول سَمِعت مُحَمَّد بن عبد الله الفرغاني يَقُول سَمِعت الْجُنَيْد يَقُول للشبلي يَا ابا بكر إِذا وجدت من يوافقك على كلمة مِمَّا تَقول فتمسك بِهِ",
+      "person_id": 628,
+      "canonical_name": "أبو بكر الشبلي",
+      "has_id": 376
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "questioner",
+      "context": "questioner",
+      "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول سَمِعت أَبَا عَمْرو الْأنمَاطِي يَقُول وَقَالَ رجل للجنيد على مَاذَا يتأسف الْمُحب من أوقاته",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

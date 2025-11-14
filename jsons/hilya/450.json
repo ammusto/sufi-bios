@@ -1,0 +1,625 @@
+{
+  "bio_id": "450",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسين محمد بن علي بن حبيش - صاحب الجنيد بن محمد - يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا العباس بن عطاء",
+          "has_id": 340,
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وسمعته يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا سعيد عبد الله بن محمد بن عبد الوهاب بن نصير الرازى - بنيسابورى صاحب يوسف بن الحسين -",
+          "person_id": 810,
+          "canonical_name": "أبو سعيد عبد الله بن محمد بن عبد الوهاب الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا العباس بن عطاء",
+          "has_id": 340,
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا سعيد عبد الله بن محمد بن عبد الوهاب بن نصير الرازى - بنيسابورى صاحب يوسف بن الحسين - يقول سمعت أبا العباس بن عطاء يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن علي بن حبيش",
+          "person_id": 465,
+          "canonical_name": "أبو الحسين محمد بن علي بن حبيش المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا العباس بن عطاء",
+          "has_id": 340,
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن علي بن حبيش يقول سمعت أبا العباس بن عطاء يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن علي بن حبيش",
+          "person_id": 465,
+          "canonical_name": "أبو الحسين محمد بن علي بن حبيش المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا العباس بن عطاء",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وسئل إلى م تسكن قلوب العارفين؟ قال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن علي بن حبيش",
+          "person_id": 465,
+          "canonical_name": "أبو الحسين محمد بن علي بن حبيش المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا العباس بن عطاء",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "ثم قال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا العباس بن عطاء",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبي يقول سمعت أبا العباس بن عطاء يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا العباس بن عطاء",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وسمعته يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا العباس بن عطاء",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو العباس بن عطاء",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن أحمد بن محمد بن مقسم يقول قال أبو العباس بن عطاء",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو العباس بن عطاء",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وسمعته يقول قال أبو العباس بن عطاء",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن علي بن حبيش",
+          "person_id": 465,
+          "canonical_name": "أبو الحسين محمد بن علي بن حبيش المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا العباس بن عطاء",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن علي بن حبيش يقول سمعت أبا العباس بن عطاء يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن علي بن حبيش",
+          "person_id": 465,
+          "canonical_name": "أبو الحسين محمد بن علي بن حبيش المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا العباس بن عطاء",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال: وسئل أبو العباس وأنا حاضر",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن علي بن حبيش",
+          "person_id": 465,
+          "canonical_name": "أبو الحسين محمد بن علي بن حبيش المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا العباس بن عطاء",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "فقال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن علي بن حبيش",
+          "person_id": 465,
+          "canonical_name": "أبو الحسين محمد بن علي بن حبيش المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا العباس بن عطاء",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعته يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن محمد بن مقسم",
+          "person_id": 414,
+          "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا العباس بن عطاء",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أحمد بن محمد بن مقسم يقول سمعت أبا العباس بن عطاء يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن محمد بن مقسم",
+          "person_id": 414,
+          "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا العباس بن عطاء",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وسئل عن قوله تعالى ﴿(تتجافى جنوبهم عن المضاجع)﴾",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن محمد بن مقسم",
+          "person_id": 414,
+          "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا العباس بن عطاء",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال أبو العباس",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن علي بن حبيش",
+          "person_id": 465,
+          "canonical_name": "أبو الحسين محمد بن علي بن حبيش المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن سهل بن عطاء",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أنشدني محمد بن علي بن حبيش قال أنشدنى أحمد بن سهل بن عطاء.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "قال ابن حبيش: فزدته ثالثا بين يديه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابن عطاء",
+          "has_id": 340,
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وأنشدنى ابن عطاء",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "﵀",
+          "person_id": 284,
+          "canonical_name": "إبراهيم القصار الرقي",
+          "has_id": 13,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قال وأنشدني ﵀",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الشيخ",
+          "person_id": 169,
+          "canonical_name": "الشيخ",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال الشيخ: كان كثير الحديث",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن علي بن حبيش",
+          "person_id": 465,
+          "canonical_name": "أبو الحسين محمد بن علي بن حبيش المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو العباس بن عطاء الصوفي",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن موسى القطان",
+          "person_id": 2682,
+          "canonical_name": "يوسف بن موسى القطان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن بن بشر البلخى",
+          "person_id": 81,
+          "canonical_name": "الحسن بن بشر البلخى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحكم بن عبد الملك",
+          "person_id": 139,
+          "canonical_name": "الحكم بن عبد الملك",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "قتادة",
+          "person_id": 2176,
+          "canonical_name": "قتادة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو مليح",
+          "person_id": 1084,
+          "canonical_name": "أبو مليح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "واثلة بن الأسقع",
+          "person_id": 2611,
+          "canonical_name": "واثلة بن الأسقع",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن علي بن حبيش ثنا أبو العباس بن عطاء الصوفي ثنا يوسف بن موسى القطان ثنا الحسن بن بشر البلخى ثنا الحكم بن عبد الملك عن قتادة عن أبي مليح عن واثلة بن الأسقع",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن علي",
+          "person_id": 2407,
+          "canonical_name": "محمد بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو العباس بن عطاء",
+          "person_id": 498,
+          "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+          "has_id": 340,
+          "subj_added": false
+        },
+        {
+          "name": "الفضل بن زياد",
+          "person_id": 198,
+          "canonical_name": "الفضل بن زياد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن أبي ليلى",
+          "has_id": NaN,
+          "person_id": 77,
+          "canonical_name": "الحسن بن إبراهيم الدامغاني",
+          "subj_added": false
+        },
+        {
+          "name": "أبى",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحكم بن مقسم",
+          "person_id": 140,
+          "canonical_name": "الحكم بن مقسم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عباس",
+          "has_id": NaN,
+          "person_id": 26,
+          "canonical_name": "ابن عباس",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن علي ثنا أبو العباس بن عطاء ثنا الفضل بن زياد ثنا ابن أبي ليلى قال حدثنى أبى عن الحكم بن مقسم عن ابن عباس",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الشيخ",
+          "person_id": 169,
+          "canonical_name": "الشيخ",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال الشيخ: ذكر جماعة من أعلام البغداديين",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [
+      {
+        "name": "أبا الحسين محمد بن علي بن حبيش - صاحب الجنيد بن محمد -",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "صحبت",
+        "full_text": "صحبت أبا العباس بن عطاء عدة سنين متأدبا بآدابه",
+        "has_id": NaN,
+        "person_id": 78,
+        "canonical_name": "الحسن بن أبي الحسن البصري"
+      }
+    ],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا الحسين محمد بن علي بن حبيش - صاحب الجنيد بن محمد -",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا الحسين محمد بن علي بن حبيش - صاحب الجنيد بن محمد - يقول",
+      "has_id": NaN,
+      "person_id": 75,
+      "canonical_name": "الحسن"
+    },
+    {
+      "name": "أبا سعيد عبد الله بن محمد بن عبد الوهاب بن نصير الرازى - بنيسابورى صاحب يوسف بن الحسين -",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا سعيد عبد الله بن محمد بن عبد الوهاب بن نصير الرازى - بنيسابورى صاحب يوسف بن الحسين - يقول",
+      "person_id": 810,
+      "canonical_name": "أبو سعيد عبد الله بن محمد بن عبد الوهاب الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن علي بن حبيش",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن علي بن حبيش يقول",
+      "person_id": 465,
+      "canonical_name": "أبو الحسين محمد بن علي بن حبيش المقرئ",
+      "has_id": NaN
+    },
+    {
+      "name": "أبي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبي يقول",
+      "person_id": 585,
+      "canonical_name": "أبو أبي نعيم الأصفهاني",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا الحسن أحمد بن محمد بن مقسم",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا الحسن أحمد بن محمد بن مقسم يقول",
+      "has_id": NaN,
+      "person_id": 76,
+      "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم"
+    },
+    {
+      "name": "أحمد بن محمد بن مقسم",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أحمد بن محمد بن مقسم يقول",
+      "person_id": 414,
+      "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن علي",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا محمد بن علي",
+      "person_id": 2407,
+      "canonical_name": "محمد بن علي",
+      "has_id": NaN
+    }
+  ]
+}

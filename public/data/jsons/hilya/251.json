@@ -1,0 +1,76 @@
+{
+  "bio_id": "251",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "الإمام أبا سهل محمد بن سليمان الفقيه",
+          "person_id": 56,
+          "canonical_name": "الإمام أبو سهل محمد بن سليمان الفقيه",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت الإمام أبا سهل محمد بن سليمان الفقيه يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا الحسن بن مقسم",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا الحسن بن مقسم يقول:",
+      "has_id": NaN,
+      "person_id": 20,
+      "canonical_name": "اﺑﻦ ﺧﺒﺎز"
+    },
+    {
+      "name": "الإمام أبا سهل محمد بن سليمان الفقيه",
+      "relationship_type": "narrator",
+      "full_text": "سمعت الإمام أبا سهل محمد بن سليمان الفقيه يقول",
+      "person_id": 56,
+      "canonical_name": "الإمام أبو سهل محمد بن سليمان الفقيه",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "questioner",
+      "full_text": "قال رجل للمرتعش: أوصني.",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "questioner",
+      "full_text": "وجاءه رجل فقال: أي الأعمال أفضل؟",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

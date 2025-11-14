@@ -1,0 +1,87 @@
+{
+  "bio_id": "449",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد بن يزيد الزهري",
+          "person_id": 2321,
+          "canonical_name": "محمد بن أحمد بن يزيد الزهري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عيسى",
+          "person_id": 1025,
+          "canonical_name": "أبو عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الأصمعي",
+          "person_id": 1891,
+          "canonical_name": "عبد الملك بن قريب الأصمعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو طلحة",
+          "person_id": 836,
+          "canonical_name": "أبو طلحة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الرجال",
+          "person_id": 477,
+          "canonical_name": "أبو الرجال",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمرة",
+          "person_id": 2118,
+          "canonical_name": "عمرة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عائشة",
+          "person_id": 1710,
+          "canonical_name": "عائشة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا محمد بن أحمد بن يزيد الزهري ثنا أبو عيسى ثنا الأصمعي عن أبي طلحة عن أبي الرجال عن عمرة عن عائشة.",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "ابن رجاء بن صهيب",
+        "relationship_type": "peer",
+        "relationship_phrase": "ختن",
+        "full_text": "ختن ابن رجاء بن صهيب.",
+        "has_id": NaN,
+        "person_id": 74,
+        "canonical_name": "ابن رجاء بن صهيب"
+      }
+    ]
+  },
+  "associates": []
+}

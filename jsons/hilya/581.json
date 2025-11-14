@@ -1,0 +1,115 @@
+{
+  "bio_id": "581",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "زكريا بن الصلت",
+          "person_id": 1560,
+          "canonical_name": "زكريا بن الصلت",
+          "has_id": 581,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وكان يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "زكريا بن الصلت",
+          "person_id": 1560,
+          "canonical_name": "زكريا بن الصلت",
+          "has_id": 581,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وكان يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أحمد بن إسحاق",
+          "person_id": 1173,
+          "canonical_name": "أحمد بن إسحاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن العباس بن أيوب",
+          "person_id": 2252,
+          "canonical_name": "محمد بن العباس بن أيوب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زكريا بن الصلت",
+          "person_id": 1560,
+          "canonical_name": "زكريا بن الصلت",
+          "has_id": 581,
+          "subj_added": false
+        },
+        {
+          "name": "عبد السلام بن صالح",
+          "person_id": 1763,
+          "canonical_name": "عبد السلام بن صالح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عباد بن العوام",
+          "person_id": 1712,
+          "canonical_name": "عباد بن العوام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الغفار المدني",
+          "person_id": 1779,
+          "canonical_name": "عبد الغفار المدني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعيد بن المسيب",
+          "person_id": 1592,
+          "canonical_name": "سعيد بن المسيب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي هريرة",
+          "person_id": 1120,
+          "canonical_name": "أبو هريرة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أحمد بن إسحاق ثنا محمد بن العباس بن أيوب ثنا زكريا بن الصلت ثنا عبد السلام بن صالح ثنا عباد بن العوام ثنا عبد الغفار المدني عن سعيد بن المسيب عن أبي هريرة",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "عبد السلام بن صالح",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "ثنا عبد السلام بن صالح",
+      "person_id": 1763,
+      "canonical_name": "عبد السلام بن صالح",
+      "has_id": NaN
+    }
+  ]
+}

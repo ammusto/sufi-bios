@@ -1,0 +1,493 @@
+{
+  "bio_id": "293",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "330",
+    "full_text": "توفّي بِمصْر سنة ثَلَاثِينَ وثلاثمائة",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "دينور",
+      "context": "nisba",
+      "full_text": "الدينَوَرِي"
+    },
+    {
+      "place": "مصر",
+      "context": "lived",
+      "full_text": "أَقَامَ بِمصْر"
+    },
+    {
+      "place": "مصر",
+      "context": "died",
+      "full_text": "وَمَات بهَا"
+    },
+    {
+      "place": "مصر",
+      "context": "died",
+      "full_text": "توفّي بِمصْر سنة ثَلَاثِينَ وثلاثمائة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان المغربي",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 415,
+          "canonical_name": "أبو الحسن بن الصائغ الدينوري",
+          "has_id": 293,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سَمِعت أَبَا عُثْمَان المغربي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الشَّيْخ أَبَا عُثْمَان",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 415,
+          "canonical_name": "أبو الحسن بن الصائغ الدينوري",
+          "has_id": 293,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سَأَلت الشَّيْخ أَبَا عُثْمَان",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر بن مُحَمَّد بن عرَاك الْمصْرِيّ",
+          "person_id": 2108,
+          "canonical_name": "عمر بن محمد بن عراك المصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن سهل الزَّاهِد الدينَوَرِي",
+          "person_id": 2037,
+          "canonical_name": "علي بن سهل الزّاهد الدينوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن مُحَمَّد بن بشار",
+          "person_id": 1866,
+          "canonical_name": "عبد الله بن محمد بن بشار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُسلم بن إِبْرَاهِيم",
+          "person_id": 2503,
+          "canonical_name": "مسلم بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حَمَّاد بن سَلمَة",
+          "person_id": 1470,
+          "canonical_name": "حمّاد بن سلمة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عَليّ بن زيد",
+          "person_id": 2031,
+          "canonical_name": "علي بن زيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عقبَة",
+          "person_id": 1974,
+          "canonical_name": "عقبة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "صهْبَان",
+          "person_id": 1691,
+          "canonical_name": "صهبان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي بكرَة",
+          "person_id": 717,
+          "canonical_name": "أبو بكرة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "النَّبِي ﷺ",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 415,
+          "canonical_name": "أبو الحسن بن الصائغ الدينوري",
+          "has_id": 293,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أَخْبرنِي عمر بن مُحَمَّد بن عرَاك الْمصْرِيّ إجَازَة أَن عَليّ بن سهل الزَّاهِد الدينَوَرِي حَدثهمْ قَالَ حَدثنِي عبد الله بن مُحَمَّد بن بشار قَالَ حَدثنَا مُسلم بن إِبْرَاهِيم حَدثنَا حَمَّاد بن سَلمَة حَدثنَا عَليّ بن زيد عَن عقبَة عَن صهْبَان عَن أبي بكرَة عَن النَّبِي ﷺ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر بن مُحَمَّد بن عرَاك",
+          "person_id": 2108,
+          "canonical_name": "عمر بن محمد بن عراك المصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْحسن",
+          "person_id": 415,
+          "canonical_name": "أبو الحسن بن الصائغ الدينوري",
+          "has_id": 293,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أَخْبرنِي عمر بن مُحَمَّد بن عرَاك قَالَ سُئِلَ أَبُو الْحسن",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر بن مُحَمَّد بن عرَاك",
+          "person_id": 2108,
+          "canonical_name": "عمر بن محمد بن عراك المصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْحسن",
+          "person_id": 415,
+          "canonical_name": "أبو الحسن بن الصائغ الدينوري",
+          "has_id": 293,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر بن مُحَمَّد بن عرَاك",
+          "person_id": 2108,
+          "canonical_name": "عمر بن محمد بن عراك المصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْحسن",
+          "person_id": 415,
+          "canonical_name": "أبو الحسن بن الصائغ الدينوري",
+          "has_id": 293,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ",
+          "person_id": 1848,
+          "canonical_name": "عبد الله بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الدقي",
+          "person_id": 621,
+          "canonical_name": "أبو بكر الدقي",
+          "has_id": 382,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْحسن بن الصَّائِغ",
+          "person_id": 415,
+          "canonical_name": "أبو الحسن بن الصائغ الدينوري",
+          "has_id": 293,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت عبد الله بن عَليّ يَقُول سَمِعت الدقي يَقُول قَالَ أَبُو الْحسن بن الصَّائِغ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ",
+          "person_id": 1848,
+          "canonical_name": "عبد الله بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الدقي",
+          "person_id": 621,
+          "canonical_name": "أبو بكر الدقي",
+          "has_id": 382,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْحسن بن الصَّائِغ",
+          "person_id": 415,
+          "canonical_name": "أبو الحسن بن الصائغ الدينوري",
+          "has_id": 293,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ",
+          "person_id": 1848,
+          "canonical_name": "عبد الله بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الدقي",
+          "person_id": 621,
+          "canonical_name": "أبو بكر الدقي",
+          "has_id": 382,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْحسن بن الصَّائِغ",
+          "person_id": 415,
+          "canonical_name": "أبو الحسن بن الصائغ الدينوري",
+          "has_id": 293,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ",
+          "person_id": 1848,
+          "canonical_name": "عبد الله بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الدقي",
+          "person_id": 621,
+          "canonical_name": "أبو بكر الدقي",
+          "has_id": 382,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْحسن بن الصَّائِغ",
+          "person_id": 415,
+          "canonical_name": "أبو الحسن بن الصائغ الدينوري",
+          "has_id": 293,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ",
+          "person_id": 1848,
+          "canonical_name": "عبد الله بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الدقي",
+          "person_id": 621,
+          "canonical_name": "أبو بكر الدقي",
+          "has_id": 382,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْحسن بن الصَّائِغ",
+          "person_id": 415,
+          "canonical_name": "أبو الحسن بن الصائغ الدينوري",
+          "has_id": 293,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ",
+          "person_id": 1848,
+          "canonical_name": "عبد الله بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الدقي",
+          "person_id": 621,
+          "canonical_name": "أبو بكر الدقي",
+          "has_id": 382,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْحسن بن الصَّائِغ",
+          "person_id": 415,
+          "canonical_name": "أبو الحسن بن الصائغ الدينوري",
+          "has_id": 293,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ",
+          "person_id": 1848,
+          "canonical_name": "عبد الله بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الدقي",
+          "person_id": 621,
+          "canonical_name": "أبو بكر الدقي",
+          "has_id": 382,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْحسن بن الصَّائِغ",
+          "person_id": 415,
+          "canonical_name": "أبو الحسن بن الصائغ الدينوري",
+          "has_id": 293,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن عَليّ",
+          "person_id": 1848,
+          "canonical_name": "عبد الله بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الدقي",
+          "person_id": 621,
+          "canonical_name": "أبو بكر الدقي",
+          "has_id": 382,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو الْحسن بن الصَّائِغ",
+          "person_id": 415,
+          "canonical_name": "أبو الحسن بن الصائغ الدينوري",
+          "has_id": 293,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وَبِهَذَا الْإِسْنَاد",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أَبَا عُثْمَان المغربي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا عُثْمَان المغربي يَقُول",
+      "person_id": 942,
+      "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+      "has_id": 156
+    },
+    {
+      "name": "عمر بن مُحَمَّد بن عرَاك الْمصْرِيّ",
+      "relationship_type": "narrator",
+      "full_text": "أَخْبرنِي عمر بن مُحَمَّد بن عرَاك الْمصْرِيّ إجَازَة",
+      "person_id": 2108,
+      "canonical_name": "عمر بن محمد بن عراك المصري",
+      "has_id": NaN
+    },
+    {
+      "name": "الدقي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت الدقي يَقُول",
+      "person_id": 621,
+      "canonical_name": "أبو بكر الدقي",
+      "has_id": 382
+    },
+    {
+      "name": "بعض مَشَايِخنَا",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "كَانَ بعض مَشَايِخنَا يَقُول",
+      "person_id": 1343,
+      "canonical_name": "بعض مشايخنا",
+      "has_id": NaN
+    },
+    {
+      "name": "أبي يَعْقُوب النهرجوري",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "لم أر فِيمَن رَأَيْت من الْمَشَايِخ أنور من أبي يَعْقُوب النهرجوري",
+      "person_id": 1137,
+      "canonical_name": "أبو يعقوب النهرجوري",
+      "has_id": 437
+    }
+  ]
+}

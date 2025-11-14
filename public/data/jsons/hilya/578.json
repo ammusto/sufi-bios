@@ -1,0 +1,300 @@
+{
+  "bio_id": "578",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "الحسين بن يحيى الفقيه الاسفيد فانى",
+          "person_id": 133,
+          "canonical_name": "الحسين بن يحيى الفقيه الاسفيد فانى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "رويما",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر جعفر بن محمد بن نصير في كتابه وحدثنى عنه الحسين بن يحيى الفقيه الاسفيد فانى قال سمعت رويما يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الواحد بن بكر",
+          "person_id": 1908,
+          "canonical_name": "عبد الواحد بن بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن فارس",
+          "person_id": 1237,
+          "canonical_name": "أحمد بن فارس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "رويما",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر عبد الواحد بن بكر قال سمعت أحمد بن فارس يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "رويم",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسين محمد بن علي بن حبيش يقول كان رويم يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو عمرو العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "رويم بن أحمد المقرئ",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا جعفر بن محمد بن نصير في كتابه وحدثني عنه أبو عمرو العثماني قال سمعت رويم بن أحمد المقرئ يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2272,
+          "canonical_name": "محمد بن إبراهيم بن أبان السراج",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "رويما",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وفيما كتب إلي جعفر وحدثني عنه محمد بن إبراهيم قال سمعت رويما يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن جعفر بن الهيثم",
+          "person_id": 2332,
+          "canonical_name": "محمد بن جعفر بن الهيثم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن محمد الصائغ",
+          "person_id": 1407,
+          "canonical_name": "جعفر بن محمد الصائغ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "رويم بن يزيد المقرئ",
+          "person_id": 1554,
+          "canonical_name": "رويم بن يزيد المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسماعيل بن يحيى التيمى",
+          "person_id": 369,
+          "canonical_name": "إسماعيل بن يحيى التيمى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن جريج",
+          "has_id": NaN,
+          "person_id": 17,
+          "canonical_name": "ابن جريج",
+          "subj_added": false
+        },
+        {
+          "name": "عطاء",
+          "person_id": 1963,
+          "canonical_name": "عطاء",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جابر",
+          "person_id": 1372,
+          "canonical_name": "جابر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن جعفر بن الهيثم ثنا جعفر بن محمد الصائغ ثنا رويم بن يزيد المقرئ ثنا إسماعيل بن يحيى التيمى عن ابن جريج عن عطاء عن جابر قال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سليمان بن أحمد",
+          "person_id": 1626,
+          "canonical_name": "سليمان بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن العباس الأخرم",
+          "person_id": 2249,
+          "canonical_name": "محمد بن العباس الأخرم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن بن ناصح المخرمي",
+          "person_id": 103,
+          "canonical_name": "الحسن بن ناصح المخرمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "رويم بن يزيد",
+          "person_id": 1554,
+          "canonical_name": "رويم بن يزيد المقرئ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسماعيل",
+          "person_id": 49,
+          "canonical_name": "اسماعيل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن جريج",
+          "has_id": NaN,
+          "person_id": 17,
+          "canonical_name": "ابن جريج",
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1553,
+          "canonical_name": "رويم بن أحمد",
+          "has_id": 578,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا سليمان بن أحمد ثنا محمد بن العباس الأخرم ثنا الحسن بن ناصح المخرمي ثنا رويم بن يزيد ثنا إسماعيل عن ابن جريج",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "جعفر بن محمد بن نصير",
+      "relationship_type": "narrator",
+      "full_text": "أخبر جعفر بن محمد بن نصير في كتابه",
+      "person_id": 1405,
+      "canonical_name": "جعفر بن محمد الخلدي",
+      "has_id": 495
+    },
+    {
+      "name": "أبو الحسين محمد بن علي بن حبيش",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا الحسين محمد بن علي بن حبيش يقول",
+      "person_id": 465,
+      "canonical_name": "أبو الحسين محمد بن علي بن حبيش المقرئ",
+      "has_id": NaN
+    },
+    {
+      "name": "أحمد بن فارس",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أحمد بن فارس يقول",
+      "person_id": 1237,
+      "canonical_name": "أحمد بن فارس",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو جعفر الحداد",
+      "relationship_type": "questioner",
+      "full_text": "وسأله أبو جعفر الحداد: أيهما أفضل الصحو أو السكر؟",
+      "person_id": 726,
+      "canonical_name": "أبو جعفر الحداد",
+      "has_id": 389
+    },
+    {
+      "name": "بعض الناس",
+      "relationship_type": "questioner",
+      "full_text": "وسأله بعض الناس أن يوصيه بوصية",
+      "person_id": 1333,
+      "canonical_name": "بعض الناس",
+      "has_id": NaN
+    }
+  ]
+}

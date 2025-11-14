@@ -1,0 +1,63 @@
+{
+  "bio_id": "408",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد بن عمر",
+          "person_id": 2312,
+          "canonical_name": "محمد بن أحمد بن عمر العبدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1046,
+          "canonical_name": "أبو محمد أحمد بن عمر العبدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1855,
+          "canonical_name": "عبد الله بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن الحسين البرجلاني",
+          "person_id": 2239,
+          "canonical_name": "محمد بن الحسين البرجلاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حكيم بن جعفر",
+          "person_id": 1467,
+          "canonical_name": "حكيم بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عبد الله البراثى",
+          "person_id": 856,
+          "canonical_name": "أبو عبد الله البراثي",
+          "has_id": 407,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن أحمد بن عمر قال حدثني أبي ثنا عبد الله بن محمد حدثني محمد بن الحسين البرجلاني قال حدثني حكيم بن جعفر قال سمعت أبا عبد الله البراثى يقول:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": []
+}

@@ -1,0 +1,818 @@
+{
+  "bio_id": "268",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "مكة",
+      "context": "visited",
+      "full_text": "خرجت من مكة عن طريق الجادة"
+    },
+    {
+      "place": "الربذة",
+      "context": "visited",
+      "full_text": "فلما صرت بالربذة"
+    },
+    {
+      "place": "القادسية",
+      "context": "visited",
+      "full_text": "إلى أن بلغت القادسية"
+    },
+    {
+      "place": "البحر",
+      "context": "visited",
+      "full_text": "ركبت البحر"
+    },
+    {
+      "place": "الساحل",
+      "context": "visited",
+      "full_text": "حتى نعبر إلى الساحل"
+    },
+    {
+      "place": "الحاجر",
+      "context": "visited",
+      "full_text": "عطشت عطشا شديدا بالحاجر"
+    },
+    {
+      "place": "المدينة",
+      "context": "visited",
+      "full_text": "قلت: المدينة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا محمد بكر بن أحمد بن المفيد",
+          "person_id": 647,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر محمد بن عبد الله الأنصاري",
+          "person_id": 706,
+          "canonical_name": "أبو بكر محمد بن عبد الله الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا إسحاق إبراهيم بن أحمد الخواص",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا محمد بكر بن أحمد بن المفيد يقول سمعت أبا بكر محمد بن عبد الله الأنصاري يقول سمعت أبا إسحاق إبراهيم بن أحمد الخواص يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر",
+          "person_id": 706,
+          "canonical_name": "أبو بكر محمد بن عبد الله الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمدا",
+          "person_id": 2398,
+          "canonical_name": "محمد بن عبيد الله الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الخواص",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وسمعت أبا بكر يقول سمعت محمدا يقول سمعت إبراهيم الخواص يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر",
+          "person_id": 706,
+          "canonical_name": "أبو بكر محمد بن عبد الله الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمدا",
+          "person_id": 2398,
+          "canonical_name": "محمد بن عبيد الله الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الخواص",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وكان يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر",
+          "person_id": 706,
+          "canonical_name": "أبو بكر محمد بن عبد الله الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمدا",
+          "person_id": 2398,
+          "canonical_name": "محمد بن عبيد الله الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الخواص",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر",
+          "person_id": 706,
+          "canonical_name": "أبو بكر محمد بن عبد الله الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمدا",
+          "person_id": 2398,
+          "canonical_name": "محمد بن عبيد الله الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الخواص",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر",
+          "person_id": 706,
+          "canonical_name": "أبو بكر محمد بن عبد الله الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمدا",
+          "person_id": 2398,
+          "canonical_name": "محمد بن عبيد الله الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الخواص",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت أبا إسحاق يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر",
+          "person_id": 706,
+          "canonical_name": "أبو بكر محمد بن عبد الله الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمدا",
+          "person_id": 2398,
+          "canonical_name": "محمد بن عبيد الله الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الخواص",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن نصير",
+          "person_id": 2461,
+          "canonical_name": "محمد بن نصير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "أخبر محمد بن نصير في كتابه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الفضل الطوسي",
+          "person_id": 528,
+          "canonical_name": "أبو الفضل نصر بن محمد الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وأخبرني عنه أبو الفضل الطوسي قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الفضل الطوسي",
+          "person_id": 528,
+          "canonical_name": "أبو الفضل نصر بن محمد الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت إبراهيم بن أحمد يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد",
+          "person_id": 691,
+          "canonical_name": "أبو بكر محمد بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر الأنصاري",
+          "person_id": 706,
+          "canonical_name": "أبو بكر محمد بن عبد الله الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الخواص",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن أحمد يقول سمعت أبا بكر الأنصاري يقول سمعت إبراهيم الخواص يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن علي بن جعفر",
+          "person_id": 1226,
+          "canonical_name": "أحمد بن علي بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الأزدي",
+          "person_id": 58,
+          "canonical_name": "الأزدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الخواص",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين بن موسى يقول سمعت أحمد بن علي بن جعفر يقول سمعت الأزدي يقول سمعت إبراهيم الخواص يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن علي بن جعفر",
+          "person_id": 1226,
+          "canonical_name": "أحمد بن علي بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الأزدي",
+          "person_id": 58,
+          "canonical_name": "الأزدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الخواص",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال إبراهيم",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن علي بن جعفر",
+          "person_id": 1226,
+          "canonical_name": "أحمد بن علي بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الأزدي",
+          "person_id": 58,
+          "canonical_name": "الأزدي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الخواص",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال إبراهيم",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر محمد بن أحمد",
+          "person_id": 706,
+          "canonical_name": "أبو بكر محمد بن عبد الله الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبيد الله الأنصاري",
+          "person_id": 2398,
+          "canonical_name": "محمد بن عبيد الله الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن أحمد الخواص",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا بكر محمد بن أحمد يقول سمعت محمد بن عبيد الله الأنصاري يقول سمعت إبراهيم بن أحمد الخواص يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر محمد بن أحمد",
+          "person_id": 691,
+          "canonical_name": "أبو بكر محمد بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبيد الله الأنصاري",
+          "person_id": 2398,
+          "canonical_name": "محمد بن عبيد الله الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن أحمد الخواص",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر محمد بن أحمد",
+          "person_id": 691,
+          "canonical_name": "أبو بكر محمد بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبيد الله الأنصاري",
+          "person_id": 2398,
+          "canonical_name": "محمد بن عبيد الله الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن أحمد الخواص",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال والرزق ليس فيه توكل",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر محمد بن أحمد",
+          "person_id": 691,
+          "canonical_name": "أبو بكر محمد بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبيد الله الأنصاري",
+          "person_id": 2398,
+          "canonical_name": "محمد بن عبيد الله الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن أحمد الخواص",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت أبا إسحاق يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر محمد بن أحمد",
+          "person_id": 691,
+          "canonical_name": "أبو بكر محمد بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبيد الله الأنصاري",
+          "person_id": 2398,
+          "canonical_name": "محمد بن عبيد الله الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن أحمد الخواص",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعت أبا إسحاق يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا بكر محمد بن أحمد",
+          "person_id": 691,
+          "canonical_name": "أبو بكر محمد بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبيد الله الأنصاري",
+          "person_id": 2398,
+          "canonical_name": "محمد بن عبيد الله الأنصاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن أحمد الخواص",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسمعته يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الواحد بن بكر",
+          "person_id": 1908,
+          "canonical_name": "عبد الواحد بن بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد العزيز",
+          "person_id": 2374,
+          "canonical_name": "محمد بن عبد العزيز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر الحربي",
+          "person_id": 614,
+          "canonical_name": "أبو بكر الحربي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنيه عبد الواحد بن بكر حدثني محمد بن عبد العزيز قال سمعت أبا بكر الحربي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الواحد",
+          "person_id": 1908,
+          "canonical_name": "عبد الواحد بن بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "همام بن الحارث",
+          "person_id": 2606,
+          "canonical_name": "همام بن الحارث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الخواص",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وفيما حدث به عبد الواحد عن همام بن الحارث قال سمعت إبراهيم الخواص يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الواحد",
+          "person_id": 1908,
+          "canonical_name": "عبد الواحد بن بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن العلاء",
+          "person_id": 1165,
+          "canonical_name": "أحمد بن العلاء",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد الله",
+          "person_id": 2380,
+          "canonical_name": "محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم الخواص",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الواحد ثنا أحمد بن العلاء قال سمعت محمد بن عبد الله يقول سمعت إبراهيم الخواص",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "خير النساج",
+          "person_id": 1510,
+          "canonical_name": "خير النساج",
+          "has_id": 564,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 278,
+          "canonical_name": "أبو إسحاق إبراهيم الخواص",
+          "has_id": 268,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وذكر خير النساج قال قال لي إبراهيم الخواص",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا بكر محمد بن عبد الله الأنصاري",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا محمد بكر بن أحمد بن المفيد يقول سمعت أبا بكر محمد بن عبد الله الأنصاري يقول",
+      "person_id": 706,
+      "canonical_name": "أبو بكر محمد بن عبد الله الأنصاري",
+      "has_id": NaN
+    },
+    {
+      "name": "محمدا",
+      "relationship_type": "narrator",
+      "full_text": "وسمعت أبا بكر يقول سمعت محمدا يقول",
+      "person_id": 2214,
+      "canonical_name": "محمد",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو الفضل الطوسي",
+      "relationship_type": "narrator",
+      "full_text": "وأخبرني عنه أبو الفضل الطوسي قال",
+      "person_id": 528,
+      "canonical_name": "أبو الفضل نصر بن محمد الطوسي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا بكر الأنصاري",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن أحمد يقول سمعت أبا بكر الأنصاري يقول",
+      "person_id": 706,
+      "canonical_name": "أبو بكر محمد بن عبد الله الأنصاري",
+      "has_id": NaN
+    },
+    {
+      "name": "الأزدي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أحمد بن علي بن جعفر يقول سمعت الأزدي يقول",
+      "person_id": 58,
+      "canonical_name": "الأزدي",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن عبيد الله الأنصاري",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا بكر محمد بن أحمد يقول سمعت محمد بن عبيد الله الأنصاري يقول",
+      "person_id": 2398,
+      "canonical_name": "محمد بن عبيد الله الأنصاري",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا بكر الحربي",
+      "relationship_type": "interlocutor",
+      "full_text": "قال سمعت أبا بكر الحربي يقول قلت لإبراهيم الخواص",
+      "person_id": 614,
+      "canonical_name": "أبو بكر الحربي",
+      "has_id": NaN
+    },
+    {
+      "name": "همام بن الحارث",
+      "relationship_type": "narrator",
+      "full_text": "وفيما حدث به عبد الواحد عن همام بن الحارث قال",
+      "person_id": 2606,
+      "canonical_name": "همام بن الحارث",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن عبد الله",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت محمد بن عبد الله يقول",
+      "person_id": 2380,
+      "canonical_name": "محمد بن عبد الله الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "خير النساج",
+      "relationship_type": "interlocutor",
+      "full_text": "وذكر خير النساج قال قال لي إبراهيم الخواص",
+      "person_id": 1510,
+      "canonical_name": "خير النساج",
+      "has_id": 564
+    },
+    {
+      "name": "بعض أصحابنا",
+      "relationship_type": "questioner",
+      "full_text": "وقد سأله بعض أصحابنا وهو يتأوه: ما هذا التأوه؟",
+      "person_id": 1338,
+      "canonical_name": "بعض أصحابنا",
+      "has_id": NaN
+    }
+  ]
+}

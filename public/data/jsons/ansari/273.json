@@ -1,0 +1,407 @@
+{
+  "bio_id": "273",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "342",
+    "full_text": "در سنه اثنین و اربعین و ثلثمائه برفته از دنیا.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "رقه",
+      "context": "nisba",
+      "full_text": "الرقي"
+    },
+    {
+      "place": "راس العین",
+      "context": "visited",
+      "full_text": "براس العین بودم"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "ابرهیم بن المولد",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و ابرهیم بن المولد گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابرهیم بن المولد",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابرهیم بن المولد",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابرهیم بن المولد",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابرهیم بن المولد",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابرهیم بن المولد",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفته:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "ابراهیم مولد",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که ابراهیم مولد گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعبداللّه با کو",
+          "person_id": 15,
+          "canonical_name": "ابن باكوية الشيرازي",
+          "has_id": 150,
+          "subj_added": false
+        },
+        {
+          "name": "عبدالواحد بکر",
+          "person_id": 1901,
+          "canonical_name": "عبد الواحد بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابرهیم اطروش",
+          "person_id": 271,
+          "canonical_name": "إبراهيم الأطروش",
+          "has_id": 1,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت، که بوعبداللّه با کو گفته: کی عبدالواحد بکر گفت که ابرهیم اطروش گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوالازهر اصطخری",
+          "person_id": 381,
+          "canonical_name": "أبو الأزهر عبد الواحد بن محمد الإصطخري",
+          "has_id": 37,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ بوالازهر اصطخری گوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ محمد قصاب",
+          "person_id": 2217,
+          "canonical_name": "محمد القصاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت، کی شیخ محمد قصاب مرا گفت بدامغان:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابراهیم مرغینانی",
+          "person_id": 287,
+          "canonical_name": "إبراهيم المرغيناني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که ابراهیم مرغینانی گفته:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "شیخ بوعبداللّه جلا",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "با شیخ بوعبداللّه جلا صحبت کرده",
+        "person_id": 901,
+        "canonical_name": "أبو عبد الله بن جلاء",
+        "has_id": NaN
+      },
+      {
+        "name": "ابرهیم قصار رقی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "با شیخ بوعبداللّه جلا صحبت کرده و بابرهیم قصار رقی،",
+        "person_id": 284,
+        "canonical_name": "إبراهيم القصار الرقي",
+        "has_id": 13
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "ابوبکرکتانی",
+        "relationship_type": "peer",
+        "relationship_phrase": "با",
+        "full_text": "براس العین بودم در مسجد بابوبکرکتانی و با شیخ بوحفص گیلی",
+        "person_id": 712,
+        "canonical_name": "أبو بكر محمد بن علي الكتاني",
+        "has_id": 378
+      },
+      {
+        "name": "شیخ بوحفص گیلی",
+        "relationship_type": "peer",
+        "relationship_phrase": "با",
+        "full_text": "براس العین بودم در مسجد بابوبکرکتانی و با شیخ بوحفص گیلی",
+        "person_id": 760,
+        "canonical_name": "أبو حفص الگيلي",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "بوالحسن بن احمد",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "brother saw him in a dream",
+      "full_text": "برادروی بوالحسن بن احمد ویرا بخواب دید پس وفات، گفت: مرا وصیتی کن.",
+      "person_id": 418,
+      "canonical_name": "أبو الحسن بن أحمد",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ بوحفص گیلی",
+      "relationship_type": "interlocutor",
+      "full_text": "شیخ بوحفص گفت: تیراللّه نظر او بود.",
+      "person_id": 760,
+      "canonical_name": "أبو حفص الگيلي",
+      "has_id": NaN
+    },
+    {
+      "name": "ابوبکرکتانی",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "در مسجد بابوبکرکتانی",
+      "person_id": 712,
+      "canonical_name": "أبو بكر محمد بن علي الكتاني",
+      "has_id": 378
+    },
+    {
+      "name": "جوانی",
+      "relationship_type": "questioner",
+      "full_text": "جوانی درامد محترق گفت: تیراللّه چه بود؟",
+      "person_id": 1420,
+      "canonical_name": "جواني",
+      "has_id": NaN
+    },
+    {
+      "name": "خالد صفوان",
+      "relationship_type": "interlocutor",
+      "full_text": "گفت: بسلطان اوکه نفس او زیر دست او بود.",
+      "person_id": 1494,
+      "canonical_name": "خالد صفوان",
+      "has_id": NaN
+    },
+    {
+      "name": "احنف قیس",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "که احنف قیس بچه چیز سید قوم خویش شد؟",
+      "person_id": 42,
+      "canonical_name": "احنف قيس",
+      "has_id": NaN
+    },
+    {
+      "name": "بوعبداللّه با کو",
+      "relationship_type": "narrator",
+      "full_text": "بوعبداللّه با کو گفته:",
+      "person_id": 15,
+      "canonical_name": "ابن باكوية الشيرازي",
+      "has_id": 150
+    },
+    {
+      "name": "عبدالواحد بکر",
+      "relationship_type": "narrator",
+      "full_text": "کی عبدالواحد بکر گفت",
+      "person_id": 1901,
+      "canonical_name": "عبد الواحد بكر",
+      "has_id": NaN
+    },
+    {
+      "name": "ابرهیم اطروش",
+      "relationship_type": "narrator",
+      "full_text": "که ابرهیم اطروش گفت:",
+      "person_id": 271,
+      "canonical_name": "إبراهيم الأطروش",
+      "has_id": 1
+    },
+    {
+      "name": "شیخ بوالازهر اصطخری",
+      "relationship_type": "narrator",
+      "full_text": "شیخ بوالازهر اصطخری گوید",
+      "person_id": 381,
+      "canonical_name": "أبو الأزهر عبد الواحد بن محمد الإصطخري",
+      "has_id": 37
+    },
+    {
+      "name": "ابراهیم گیلی",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "شیخ الاسلام گفت: که ابراهیم گیلی از زمین گیل بوده پیر بزرگ بود این طایفه را",
+      "person_id": 285,
+      "canonical_name": "إبراهيم الگيلي",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ محمد قصاب",
+      "relationship_type": "narrator",
+      "full_text": "شیخ محمد قصاب مرا گفت بدامغان",
+      "person_id": 2217,
+      "canonical_name": "محمد القصاب",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ ابرهیم دهستانی",
+      "relationship_type": "interlocutor",
+      "full_text": "مرا گفت: محمد! بازگرد.",
+      "person_id": 280,
+      "canonical_name": "إبراهيم الدهستاني",
+      "has_id": 14
+    }
+  ]
+}

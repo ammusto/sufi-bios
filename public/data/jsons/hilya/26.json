@@ -1,0 +1,436 @@
+{
+  "bio_id": "26",
+  "source": "hilya",
+  "death_date": {
+    "year_hijri": "371",
+    "full_text": "توفي سنة إحدى وسبعين وثلاثمائة.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبو بكر محمد بن أحمد بن شاذ هرمز",
+          "person_id": 699,
+          "canonical_name": "أبو بكر محمد بن أحمد بن شاذ هرمز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زيد بن أخرم",
+          "person_id": 1572,
+          "canonical_name": "زيد بن أخرم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي داود",
+          "person_id": 773,
+          "canonical_name": "أبو داود",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شعبة",
+          "person_id": 1671,
+          "canonical_name": "شعبة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن دينار",
+          "person_id": 1825,
+          "canonical_name": "عبد الله بن دينار",
+          "has_id": 663,
+          "subj_added": false
+        },
+        {
+          "name": "ابن عمر",
+          "has_id": NaN,
+          "person_id": 28,
+          "canonical_name": "ابن عمر",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "• ومن مفاريد ما سمع منه ما أخبرنا في إجازته وكتابه إلي قال: حدثنا أبو بكر محمد بن أحمد بن شاذ هرمز ثنا زيد بن أخرم عن أبي داود عن شعبة عن عبد الله بن دينار عن ابن عمر.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "القاضي أبو أحمد محمد بن أحمد بن إبراهيم",
+          "person_id": 213,
+          "canonical_name": "القاضي أبو أحمد محمد بن أحمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شعيب بن أحمد الدارعي",
+          "person_id": 1673,
+          "canonical_name": "شعيب بن أحمد الدارعي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الخليل أبو عمرو",
+          "person_id": 148,
+          "canonical_name": "الخليل أبو عمرو",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عيسى بن المساور",
+          "person_id": 2140,
+          "canonical_name": "عيسى بن المساور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مروان بن معاوية",
+          "person_id": 2495,
+          "canonical_name": "مروان بن معاوية",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "قنان بن عبد الله النهمي",
+          "person_id": 2183,
+          "canonical_name": "قنان بن عبد الله النهمي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن ظبيان",
+          "has_id": NaN,
+          "person_id": 3,
+          "canonical_name": "ابن ظبيان",
+          "subj_added": false
+        },
+        {
+          "name": "أبي عبيدة بن عبد الله بن مسعود",
+          "person_id": 931,
+          "canonical_name": "أبو عبيدة بن عبد الله بن مسعود",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبيه",
+          "person_id": 1149,
+          "canonical_name": "أبوه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "النبي ﷺ",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "• حدثنا القاضي أبو أحمد محمد بن أحمد بن إبراهيم ثنا شعيب بن أحمد الدارعي ثنا الخليل أبو عمرو وعيسى بن المساور قالا: ثنا مروان بن معاوية ثنا قنان بن عبد الله النهمي عن ابن ظبيان عن أبي عبيدة بن عبد الله بن مسعود عن أبيه عن النبي ﷺ قال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "إبراهيم بن إسحاق",
+          "person_id": 295,
+          "canonical_name": "إبراهيم بن إسحاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إسحاق بن خزيمة",
+          "person_id": 2281,
+          "canonical_name": "محمد بن إسحاق بن خزيمة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "على ابن حجر",
+          "person_id": 1983,
+          "canonical_name": "على بن حجر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن زياد",
+          "person_id": 2678,
+          "canonical_name": "يوسف بن زياد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يوسف بن أبي المتيد",
+          "person_id": 2676,
+          "canonical_name": "يوسف بن أبي المتيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسماعيل بن أبي خالد",
+          "person_id": 361,
+          "canonical_name": "إسماعيل بن أبي خالد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "قيس بن أبي حازم",
+          "person_id": 2188,
+          "canonical_name": "قيس بن أبي حازم",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "• ما حدثناه إبراهيم بن إسحاق ثنا محمد بن إسحاق بن خزيمة ثنا على ابن حجر ثنا يوسف بن زياد عن يوسف بن أبي المتيد عن إسماعيل بن أبي خالد عن قيس بن أبي حازم.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن أحمد بن الحسين",
+          "person_id": 2303,
+          "canonical_name": "محمد بن أحمد بن الحسين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عثمان بن أبي شيبة",
+          "person_id": 2403,
+          "canonical_name": "محمد بن عثمان بن أبي شيبة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو نعيم ضرار بن صرد",
+          "person_id": 1114,
+          "canonical_name": "أبو نعيم ضرار بن صرد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن هاشم ابن اليزيد",
+          "person_id": 2075,
+          "canonical_name": "علي بن هاشم بن اليزيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبيد الله بن أبي رافع",
+          "person_id": 2400,
+          "canonical_name": "محمد بن عبيد الله بن أبي رافع",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر بن علي",
+          "person_id": 2105,
+          "canonical_name": "عمر بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حسين",
+          "person_id": 1449,
+          "canonical_name": "حسين",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبيه",
+          "person_id": 1149,
+          "canonical_name": "أبوه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي",
+          "person_id": 1984,
+          "canonical_name": "علي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "كما حدثنا محمد بن أحمد بن الحسين ثنا محمد بن عثمان بن أبي شيبة ثنا أبو نعيم ضرار بن صرد ثنا علي بن هاشم ابن اليزيد عن محمد بن عبيد الله بن أبي رافع عن عمر بن علي عن حسين عن أبيه عن علي قال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عمر بن محمد بن عبد الصمد",
+          "person_id": 2107,
+          "canonical_name": "عمر بن محمد بن عبد الصمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين بن محمد بن غفير",
+          "person_id": 124,
+          "canonical_name": "الحسين بن محمد بن غفير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن بن على السيسرى",
+          "person_id": 93,
+          "canonical_name": "الحسن بن على السيسرى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خلف ابن تميم",
+          "person_id": 1504,
+          "canonical_name": "خلف بن تميم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر الرحال",
+          "person_id": 2087,
+          "canonical_name": "عمر الرحال",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "العلاء بن المسيب",
+          "person_id": 189,
+          "canonical_name": "العلاء بن المسيب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد خير",
+          "person_id": 1919,
+          "canonical_name": "عبد خير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي",
+          "person_id": 1984,
+          "canonical_name": "علي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وهو ما حدثناه عمر بن محمد بن عبد الصمد ثنا الحسين بن محمد بن غفير ثنا الحسن بن على السيسرى ثنا خلف ابن تميم ثنا عمر الرحال عن العلاء بن المسيب عن عبد خير عن علي قال:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سليمان بن أحمد",
+          "person_id": 1626,
+          "canonical_name": "سليمان بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسحاق بن إبراهيم",
+          "person_id": 339,
+          "canonical_name": "إسحاق بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الرزاق",
+          "person_id": 1760,
+          "canonical_name": "عبد الرزاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "معمر",
+          "person_id": 2526,
+          "canonical_name": "معمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن عثمان بن خثيم",
+          "person_id": 1845,
+          "canonical_name": "عبد الله بن عثمان بن خثيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شمر بن حوشب",
+          "person_id": 1677,
+          "canonical_name": "شمر بن حوشب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أسماء بنت يزيد",
+          "person_id": 1292,
+          "canonical_name": "أسماء بنت يزيد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "• حدثنا سليمان بن أحمد ثنا إسحاق بن إبراهيم ثنا عبد الرزاق عن معمر عن عبد الله بن عثمان بن خثيم عن شمر بن حوشب عن أسماء بنت يزيد أن النبي ﷺ قال:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "أبو بكر محمد بن أحمد بن شاذ هرمز",
+        "relationship_type": "student_of",
+        "relationship_phrase": "حدثنا",
+        "full_text": "قال: حدثنا أبو بكر محمد بن أحمد بن شاذ هرمز",
+        "person_id": 699,
+        "canonical_name": "أبو بكر محمد بن أحمد بن شاذ هرمز",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "رؤيما",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب رؤيما وأبا العباس بن عطاء وطاهر المقدسي وأبا عمرو الدمشقي.",
+        "person_id": 1553,
+        "canonical_name": "رويم بن أحمد",
+        "has_id": 578
+      },
+      {
+        "name": "أبا العباس بن عطاء",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب رؤيما وأبا العباس بن عطاء وطاهر المقدسي وأبا عمرو الدمشقي.",
+        "has_id": 340,
+        "person_id": 498,
+        "canonical_name": "أبو العباس أحمد بن عطاء الآدمي"
+      },
+      {
+        "name": "طاهر المقدسي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب رؤيما وأبا العباس بن عطاء وطاهر المقدسي وأبا عمرو الدمشقي.",
+        "person_id": 1696,
+        "canonical_name": "طاهر المقدسي",
+        "has_id": 640
+      },
+      {
+        "name": "أبا عمرو الدمشقي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب رؤيما وأبا العباس بن عطاء وطاهر المقدسي وأبا عمرو الدمشقي.",
+        "person_id": 1010,
+        "canonical_name": "أبو عمرو الدمشقي",
+        "has_id": 425
+      }
+    ]
+  },
+  "associates": []
+}

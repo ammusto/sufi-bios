@@ -1,0 +1,281 @@
+{
+  "bio_id": "847",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "303",
+    "full_text": "در سنه ثلاث و ثلثمائه برفته از دنیا",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "ری",
+      "context": "nisba",
+      "full_text": "الرازی"
+    },
+    {
+      "place": "ری",
+      "context": "lived",
+      "full_text": "بخانه میروم به ری"
+    },
+    {
+      "place": "بغداد",
+      "context": "visited",
+      "full_text": "چون ببغداد رسیدم"
+    },
+    {
+      "place": "مصر",
+      "context": "visited",
+      "full_text": "از مصر میآمدم"
+    },
+    {
+      "place": "جبال",
+      "context": "mentioned",
+      "full_text": "شیخ ری و جبال"
+    },
+    {
+      "place": "دجله",
+      "context": "mentioned",
+      "full_text": "در دجله انداز!"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت عظم اللّه کرامته:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر مفید٭ جرجرای",
+          "person_id": 647,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
+          "subj_added": false
+        },
+        {
+          "name": "یوسف حسین رازی",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بوبکر مفید٭ جرجرای گوید، کی یوسف حسین رازی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعثمان مغربی٭",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوعثمان مغربی٭ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "یوسف بن الحسین",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال یوسف بن الحسین:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالحسین آبری",
+          "person_id": 455,
+          "canonical_name": "أبو الحسين آبري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "موسی عیسی مکی",
+          "person_id": 2568,
+          "canonical_name": "موسي بن عيسي المكي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "یوسف حسین رازی",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        },
+        {
+          "name": "ذوالنون مصری٭",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بوالحسین آبری گوید: که موسی عیسی مکی گفت: که یوسف حسین رازی گفت، که ذوالنون مصری٭ گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "یوسف حسین رازی",
+          "person_id": 1140,
+          "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+          "has_id": 847,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "یوسف حسین رازی میگوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "ذوالنون مصری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد ذوالنون مصری بابوتراب نخشبی و یحیی معاذ رازی٭",
+        "person_id": 1523,
+        "canonical_name": "ذو النون المصري",
+        "has_id": 570
+      },
+      {
+        "name": "ابوتراب نخشبی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد ذوالنون مصری بابوتراب نخشبی و یحیی معاذ رازی٭",
+        "person_id": 721,
+        "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+        "has_id": 388
+      },
+      {
+        "name": "یحیی معاذ رازی٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد ذوالنون مصری بابوتراب نخشبی و یحیی معاذ رازی٭",
+        "person_id": 2650,
+        "canonical_name": "يحيى بن معاذ الرازي",
+        "has_id": 844
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "بوسعید خراز٭",
+        "relationship_type": "peer",
+        "relationship_phrase": "رفیق",
+        "full_text": "رفیق بوسعید خراز٭ بوده در سفرها.",
+        "person_id": 801,
+        "canonical_name": "أبو سعيد الخراز",
+        "has_id": 123
+      },
+      {
+        "name": "جنید",
+        "relationship_type": "peer",
+        "relationship_phrase": "مکاتبات",
+        "full_text": "ویرا مکاتبات است بجنید سخت نیکو",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت عظم اللّه کرامته:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "بوبکر مفید٭ جرجرای",
+      "relationship_type": "direct_narrator",
+      "full_text": "بوبکر مفید٭ جرجرای گوید، کی یوسف حسین رازی گفت",
+      "person_id": 647,
+      "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+      "has_id": 91
+    },
+    {
+      "name": "بوالحسین آبری",
+      "relationship_type": "narrator",
+      "full_text": "بوالحسین آبری گوید: که موسی عیسی مکی گفت: که یوسف حسین رازی گفت",
+      "person_id": 455,
+      "canonical_name": "أبو الحسين آبري",
+      "has_id": NaN
+    },
+    {
+      "name": "موسی عیسی مکی",
+      "relationship_type": "direct_narrator",
+      "full_text": "موسی عیسی مکی گفت: که یوسف حسین رازی گفت",
+      "person_id": 2568,
+      "canonical_name": "موسي بن عيسي المكي",
+      "has_id": NaN
+    },
+    {
+      "name": "عبداللهّ بن حاضر",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "خال",
+      "full_text": "عبداللهّ بن حاضر خال یوسف حسین رازی بود",
+      "person_id": 1786,
+      "canonical_name": "عبد اللهّ بن حاضر",
+      "has_id": NaN
+    },
+    {
+      "name": "بوعثمان مغربی٭",
+      "relationship_type": "narrator",
+      "full_text": "بوعثمان مغربی٭ گوید:",
+      "person_id": 942,
+      "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+      "has_id": 156
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "bio_id": "293",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "دينور",
+      "context": "nisba",
+      "full_text": "الدينوري"
+    },
+    {
+      "place": "مصر",
+      "context": "lived",
+      "full_text": "سكن مصر"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا سعيد القلانسي",
+          "person_id": 803,
+          "canonical_name": "أبو سعيد القلانسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الرقي",
+          "person_id": 284,
+          "canonical_name": "إبراهيم القصار الرقي",
+          "has_id": 13,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسن",
+          "has_id": NaN,
+          "person_id": 25,
+          "canonical_name": "ابن عاصم",
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا سعيد القلانسي يقول فيما حكى لنا عن الرقي إن أبا الحسن كان يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا سعيد القلانسي",
+          "person_id": 803,
+          "canonical_name": "أبو سعيد القلانسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الرقي",
+          "person_id": 284,
+          "canonical_name": "إبراهيم القصار الرقي",
+          "has_id": 13,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسن",
+          "has_id": NaN,
+          "person_id": 26,
+          "canonical_name": "ابن عباس",
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وكان يقول:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا سعيد القلانسي",
+          "person_id": 803,
+          "canonical_name": "أبو سعيد القلانسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الرقي",
+          "person_id": 284,
+          "canonical_name": "إبراهيم القصار الرقي",
+          "has_id": 13,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسن",
+          "has_id": NaN,
+          "person_id": 27,
+          "canonical_name": "ابن عفير",
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وكان يقول:",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "الرقي",
+      "relationship_type": "narrator",
+      "full_text": "فيما حكى لنا عن الرقي إن أبا الحسن كان يقول",
+      "person_id": 284,
+      "canonical_name": "إبراهيم القصار الرقي",
+      "has_id": 13
+    }
+  ]
+}

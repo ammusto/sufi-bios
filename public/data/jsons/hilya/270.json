@@ -1,0 +1,64 @@
+{
+  "bio_id": "270",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "المغرب",
+      "context": "nisba",
+      "full_text": "المغربي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد الله",
+          "person_id": 2376,
+          "canonical_name": "محمد بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم ابن الوليد",
+          "person_id": 298,
+          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+          "has_id": 273,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم المغربي",
+          "person_id": 288,
+          "canonical_name": "إبراهيم المغربي",
+          "has_id": 270,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن الحسين قال سمعت محمد بن عبد الله يقول سمعت إبراهيم ابن الوليد يقول:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "إبراهيم ابن الوليد",
+      "relationship_type": "narrator",
+      "full_text": "سمعت إبراهيم ابن الوليد يقول",
+      "person_id": 298,
+      "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
+      "has_id": 273
+    }
+  ]
+}

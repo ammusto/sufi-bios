@@ -1,0 +1,167 @@
+{
+  "bio_id": "603",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "البغدادی"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "سمنون",
+          "person_id": 1634,
+          "canonical_name": "سمنون بن حمزة المحب",
+          "has_id": 603,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سمنون گوید: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت قدس اللّه روحه: کی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سمنون",
+          "person_id": 1634,
+          "canonical_name": "سمنون بن حمزة المحب",
+          "has_id": 603,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که روزی سمنون گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت رضی اللّه عنه: که:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعبداللّه مغربی٭",
+          "person_id": 885,
+          "canonical_name": "أبو عبد الله المغربي",
+          "has_id": 416,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1634,
+          "canonical_name": "سمنون بن حمزة المحب",
+          "has_id": 603,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 1634,
+          "canonical_name": "سمنون بن حمزة المحب",
+          "has_id": 603
+        },
+        {
+          "name": NaN,
+          "person_id": 1634,
+          "canonical_name": "سمنون بن حمزة المحب",
+          "has_id": 603
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوعبداللّه مغربی٭ گوید: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: درکتاب احمد بن الحواری دیدم، که:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "سری سقطی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "باسری سقطی صحبت کرده",
+        "person_id": 161,
+        "canonical_name": "السري السقطي",
+        "has_id": 236
+      },
+      {
+        "name": "محمدعلی قصاب",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "باسری سقطی صحبت کرده و محمدعلی قصاب",
+        "person_id": 2412,
+        "canonical_name": "محمد بن علي القصاب",
+        "has_id": NaN
+      },
+      {
+        "name": "ابواحمد القلانسی٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "باسری سقطی صحبت کرده و محمدعلی قصاب و ابواحمد القلانسی٭.",
+        "person_id": 591,
+        "canonical_name": "أبو أحمد القلانسي",
+        "has_id": 371
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "جنید",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "از اقران جنید و نوریست",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "نوری",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "از اقران جنید و نوریست",
+        "person_id": 452,
+        "canonical_name": "أبو الحسين النوري",
+        "has_id": 439
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت: که روزی سمنون گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    }
+  ]
+}

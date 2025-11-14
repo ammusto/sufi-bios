@@ -1,0 +1,143 @@
+{
+  "bio_id": "699",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "لكام",
+      "context": "visited",
+      "full_text": "بينا أنا أسير في جبال لكام"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عمر بن أحمد",
+          "person_id": 2092,
+          "canonical_name": "عمر بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن مسعود الزبيري",
+          "person_id": 1270,
+          "canonical_name": "أحمد بن مسعود الزبيري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "هارون بن كامل",
+          "person_id": 2593,
+          "canonical_name": "هارون بن كامل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن معبد",
+          "person_id": 2072,
+          "canonical_name": "علي بن معبد",
+          "has_id": 699,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عمر بن أحمد قال سمعت أحمد بن مسعود الزبيري يقول سمعت هارون بن كامل يقول سمعت علي بن معبد يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن زيد السائح",
+          "person_id": 2353,
+          "canonical_name": "محمد بن زيد النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن محمد ابن سهل أبو محمد السامري",
+          "person_id": 1054,
+          "canonical_name": "أبو محمد جعفر بن محمد بن سهل السامري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ذا النون المصري",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2072,
+          "canonical_name": "علي بن معبد",
+          "has_id": 699,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عثمان بن محمد العثماني ثنا محمد بن زيد السائح ثنا جعفر بن محمد ابن سهل أبو محمد السامري - بعسقلان - قال: سمعت ذا النون المصري يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ذو النون",
+          "person_id": 1523,
+          "canonical_name": "ذو النون المصري",
+          "has_id": 570,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2072,
+          "canonical_name": "علي بن معبد",
+          "has_id": 699,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال ذو النون:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "هارون بن كامل",
+      "relationship_type": "narrator",
+      "full_text": "سمعت هارون بن كامل يقول",
+      "person_id": 2593,
+      "canonical_name": "هارون بن كامل",
+      "has_id": NaN
+    },
+    {
+      "name": "جعفر بن محمد ابن سهل أبو محمد السامري",
+      "relationship_type": "narrator",
+      "full_text": "ثنا جعفر بن محمد ابن سهل أبو محمد السامري - بعسقلان - قال",
+      "person_id": 1054,
+      "canonical_name": "أبو محمد جعفر بن محمد بن سهل السامري",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل من أهل التعبد والاجتهاد، وذوي العزلة والانفراد",
+      "relationship_type": "interlocutor",
+      "full_text": "فإذا أنا برجل من أهل التعبد والاجتهاد، وذوي العزلة والانفراد",
+      "person_id": 1540,
+      "canonical_name": "رجل من أهل التعبد والاجتهاد، وذوي العزلة والانفراد",
+      "has_id": NaN
+    }
+  ]
+}

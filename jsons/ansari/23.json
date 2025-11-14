@@ -1,0 +1,213 @@
+{
+  "bio_id": "23",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "",
+    "full_text": "در سنه نیف و اربعین و ثلثمائه برفته از دنیا وگویند سنه ست و خمسین و اللّه اعلم.",
+    "certainty": ""
+  },
+  "geographical_locations": [
+    {
+      "place": "مصر",
+      "context": "nisba",
+      "full_text": "المصری"
+    },
+    {
+      "place": "مصر",
+      "context": "mentioned",
+      "full_text": "در همه مصر"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "بوعثمان مغربی",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 973,
+          "canonical_name": "أبو علي بن الكاتب",
+          "has_id": 23,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوعثمان مغربی گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت کی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعلی کاتب",
+          "person_id": 973,
+          "canonical_name": "أبو علي بن الكاتب",
+          "has_id": 23,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بوعلی کاتب گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعلی کاتب",
+          "person_id": 973,
+          "canonical_name": "أبو علي بن الكاتب",
+          "has_id": 23,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وی گوید:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که شیخ بوعلی کاتب",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعلی کاتب",
+          "person_id": 973,
+          "canonical_name": "أبو علي بن الكاتب",
+          "has_id": 23,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "هم وی گفت: که اللّه گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ ابوالقاسم نصرآبادی",
+          "person_id": 545,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 973,
+          "canonical_name": "أبو علي بن الكاتب",
+          "has_id": 23,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ ابوالقاسم نصرآبادی گوید:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "بوبکر مصری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "صحبت کرده با بوبکر مصری",
+        "person_id": 716,
+        "canonical_name": "أبو بكر مصري",
+        "has_id": NaN
+      },
+      {
+        "name": "بوعلی رودباری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "صحبت کرده با بوبکر مصری و بوعلی رودباری یگانهٔ مشایخ وقت.",
+        "person_id": 959,
+        "canonical_name": "أبو علي الروذباري",
+        "has_id": 422
+      }
+    ],
+    "students": [
+      {
+        "name": "ابوعلی المشتولی",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شیخ الاسلام گفت: کی وی شاگرد بوعلی کاتب٭ ایذ",
+        "person_id": 967,
+        "canonical_name": "أبو علي المشتولي",
+        "has_id": 114
+      }
+    ],
+    "companions": [
+      {
+        "name": "بوعلی رودباری",
+        "relationship_type": "peer",
+        "relationship_phrase": "از اقران",
+        "full_text": "از اقران رودباری است",
+        "person_id": 959,
+        "canonical_name": "أبو علي الروذباري",
+        "has_id": 422
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "بوعثمان مغربی",
+      "relationship_type": "narrator",
+      "full_text": "بوعثمان مغربی گوید: هومن السالکین.",
+      "person_id": 942,
+      "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+      "has_id": 156
+    },
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت کی",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ ابوالقاسم نصرآبادی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ ابوالقاسم نصرآبادی گوید: که بوعلی کاتب را گفتند: کی بکدام بهشت مایل تری ازین دو: بفقر یا بغنا؟ گفت: بآنک بلندتر است درجه و مه است قدر آن، پس ازین دو بیت برخواند.",
+      "person_id": 545,
+      "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+      "has_id": 360
+    },
+    {
+      "name": "یک مرید",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "مرید",
+      "full_text": "در همه مصر ویرا یک مرید بود که چیزی بود دادی، اوبمرد",
+      "person_id": 2669,
+      "canonical_name": "يك مريد",
+      "has_id": NaN
+    },
+    {
+      "name": "مصطفی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "در خواب",
+      "full_text": "مصطفی را ﷺ بخواب دیدمی و ازو پرسیدمی.",
+      "person_id": 246,
+      "canonical_name": "النبي",
+      "has_id": NaN
+    }
+  ]
+}

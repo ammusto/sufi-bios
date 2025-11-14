@@ -1,0 +1,255 @@
+{
+  "bio_id": "426",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "348",
+    "full_text": "در مکه برفته در سنه ثمان و اربعین و ثلثمائه.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "نشاپور",
+      "context": "nisba",
+      "full_text": "نشاپوری اصل است"
+    },
+    {
+      "place": "مکه",
+      "context": "lived",
+      "full_text": "وگویندکه چهل سال در مکه بوده مجاور"
+    },
+    {
+      "place": "مکه",
+      "context": "died",
+      "full_text": "در مکه برفته در سنه ثمان و اربعین و ثلثمائه."
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "بوعمرو نجید",
+          "person_id": 1015,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+          "has_id": 176,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوعمر و نجیدگوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعثمان مغربی",
+          "person_id": 942,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و بوعثمان مغربی گوید ویرا:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "کعبی",
+          "person_id": 221,
+          "canonical_name": "الكعبي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوعمرو",
+          "person_id": 1005,
+          "canonical_name": "أبو عمرو",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "کعبی از بوعمرو پرسید: کیف الطریق الی اللهّ؟ گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "کعبی",
+          "person_id": 221,
+          "canonical_name": "الكعبي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوعمرو",
+          "person_id": 1005,
+          "canonical_name": "أبو عمرو",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و قال:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "کعبی",
+          "person_id": 221,
+          "canonical_name": "الكعبي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوعمرو",
+          "person_id": 1005,
+          "canonical_name": "أبو عمرو",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و قال:",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "بوعثمان حیری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "صحبت کرده با بوعثمان حیری و جنید و رویم و خواص",
+        "person_id": 932,
+        "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+        "has_id": 419
+      },
+      {
+        "name": "جنید",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "صحبت کرده با بوعثمان حیری و جنید و رویم و خواص",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "رویم",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "صحبت کرده با بوعثمان حیری و جنید و رویم و خواص",
+        "person_id": 1553,
+        "canonical_name": "رويم بن أحمد",
+        "has_id": 578
+      },
+      {
+        "name": "خواص",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "صحبت کرده با بوعثمان حیری و جنید و رویم و خواص",
+        "person_id": 278,
+        "canonical_name": "أبو إسحاق إبراهيم الخواص",
+        "has_id": 268
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "کتانی",
+        "relationship_type": "peer",
+        "relationship_phrase": "مشایخ وقت ... در حلقه",
+        "full_text": "و مشایخ وقت چون کتانی و بوالحسین مزین کبیر و صغیر و جز ایشان از مشایخ در حلقه، و صدر همه بوعمر و زجاج بود",
+        "person_id": 712,
+        "canonical_name": "أبو بكر محمد بن علي الكتاني",
+        "has_id": 378
+      },
+      {
+        "name": "بوالحسین مزین کبیر و صغیر",
+        "relationship_type": "peer",
+        "relationship_phrase": "مشایخ وقت ... در حلقه",
+        "full_text": "و مشایخ وقت چون کتانی و بوالحسین مزین کبیر و صغیر و جز ایشان از مشایخ در حلقه، و صدر همه بوعمر و زجاج بود",
+        "person_id": 451,
+        "canonical_name": "أبو الحسين المزين كبير و صغير",
+        "has_id": 295
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "بوعمرو نجید",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "بوعمر و نجیدگوید: که بمکه بودم، و مشایخ وقت چون کتانی و بوالحسین مزین کبیر و صغیر و جز ایشان از مشایخ در حلقه، و صدر همه بوعمر و زجاج بود و چون سخن رفتی، حکم وی کردی و باو حوالت کردندی.",
+      "person_id": 1015,
+      "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+      "has_id": 176
+    },
+    {
+      "name": "بوعثمان مغربی",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "و بوعثمان مغربی گوید ویرا: و هومن السالکین و آیاته و فضایله اکثر من ان یحصی و یعد.",
+      "person_id": 942,
+      "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+      "has_id": 156
+    },
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت: کی از بو عمرو زجاج پرسیدند: که مرد ازین باب سخن گوید، و آن حال و مقام او نبود، روا بود ییا نه؟ گفت: که تقصیر خود میداند، میان خود و او، روا بود.",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "کعبی",
+      "relationship_type": "questioner",
+      "full_text": "کعبی از بوعمرو پرسید: کیف الطریق الی اللهّ؟",
+      "person_id": 221,
+      "canonical_name": "الكعبي",
+      "has_id": NaN
+    },
+    {
+      "name": "بوبکر",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "son",
+      "full_text": "و پسر را گفته بوبکر را: که هر موی که از من برگیری دانگی ترا دهم.",
+      "person_id": 610,
+      "canonical_name": "أبو بكر",
+      "has_id": NaN
+    },
+    {
+      "name": "ابرهیم بن یوسف بن محمد الزجاجی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "father",
+      "full_text": "و پدر بوعمر و زجاجی از مشایخ است، نام وی ابرهیم بن یوسف بن محمد الزجاجی کنیه ابواسحق",
+      "person_id": 333,
+      "canonical_name": "إبراهيم بن يوسف بن محمد الزجاجي",
+      "has_id": 12
+    },
+    {
+      "name": "حفص",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "companion_of_father",
+      "full_text": "از مهینان اصحاب باحفص٭ بود",
+      "person_id": 759,
+      "canonical_name": "أبو حفص الحداد النيسابوري",
+      "has_id": 715
+    }
+  ]
+}

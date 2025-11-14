@@ -1,0 +1,163 @@
+{
+  "bio_id": "444",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن جعفر",
+          "person_id": 1188,
+          "canonical_name": "أحمد بن جعفر بن هانئ",
+          "has_id": 444,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبي يقول سمعت أحمد بن جعفر يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن جعفر بن هاني",
+          "person_id": 1188,
+          "canonical_name": "أحمد بن جعفر بن هانئ",
+          "has_id": 444,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن يوسف",
+          "person_id": 2475,
+          "canonical_name": "محمد بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن عبد الوهاب",
+          "person_id": 1839,
+          "canonical_name": "عبد الله بن عبد الوهاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي مسهر",
+          "person_id": 1077,
+          "canonical_name": "أبو مسهر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحكم بن هشام",
+          "person_id": 141,
+          "canonical_name": "الحكم بن هشام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يحيى بن سعيد",
+          "person_id": 2642,
+          "canonical_name": "يحيى بن سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو قرة",
+          "person_id": 1028,
+          "canonical_name": "أبو قرة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي خلاد",
+          "person_id": 772,
+          "canonical_name": "أبو خلاد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا أحمد بن جعفر بن هاني ثنا محمد بن يوسف ثنا عبد الله بن عبد الوهاب عن أبي مسهر عن الحكم بن هشام عن يحيى بن سعيد ثنا أبو قرة عن أبي خلاد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن جعفر",
+          "person_id": 1188,
+          "canonical_name": "أحمد بن جعفر بن هانئ",
+          "has_id": 444,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن يوسف",
+          "person_id": 2475,
+          "canonical_name": "محمد بن يوسف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن عبد الوهاب",
+          "person_id": 1839,
+          "canonical_name": "عبد الله بن عبد الوهاب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن سابق",
+          "person_id": 1826,
+          "canonical_name": "عبد الله بن سابق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "موسى بن طريف",
+          "person_id": 2561,
+          "canonical_name": "موسى بن طريف",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا أحمد بن جعفر ثنا محمد بن يوسف ثنا عبد الله بن عبد الوهاب ثنا عبد الله بن سابق ثنا موسى بن طريف.",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبي يقول",
+      "person_id": 585,
+      "canonical_name": "أبو أبي نعيم الأصفهاني",
+      "has_id": NaN
+    }
+  ]
+}

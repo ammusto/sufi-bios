@@ -1,0 +1,185 @@
+{
+  "bio_id": "249",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "البادية",
+      "context": "visited",
+      "full_text": "وسلك معه البادية"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عمر بن أحمد بن شاهين",
+          "person_id": 2142,
+          "canonical_name": "عيسى بن عبيد الجبيلي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن محمد المصري",
+          "person_id": 448,
+          "canonical_name": "أبو الحسين العلوي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمرو بن سعيد القلانسي",
+          "person_id": 2173,
+          "canonical_name": "فهد بن سلام",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يحيى بن الحسن القلانسي",
+          "person_id": 2683,
+          "canonical_name": "يوسف بن موسى بن عبد الله المروزي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت عمر بن أحمد بن شاهين يقول: سمعت علي بن محمد المصري يقول سمعت عمرو بن سعيد القلانسي يقول سمعت يحيى بن الحسن القلانسي يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد المنعم بن عمر",
+          "person_id": 1942,
+          "canonical_name": "عبيدة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو سعيد بن الأعرابي",
+          "person_id": 834,
+          "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الكتاني",
+          "person_id": 221,
+          "canonical_name": "الكعبي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "منية البصري",
+          "person_id": 2595,
+          "canonical_name": "هاشم بن أبي عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت عبد المنعم بن عمر يقول قال أبو سعيد بن الأعرابي سمعت الكتاني يقول قال منية البصري:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو سعيد بن الأعرابي",
+          "person_id": 834,
+          "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال أبو سعيد بن الأعرابي:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "أبا حمزة",
+        "relationship_type": "student_of",
+        "relationship_phrase": "تخرج عليه",
+        "full_text": "صحب أبا حمزة وتخرج عليه.",
+        "person_id": 790,
+        "canonical_name": "أبو زكريا الحمال",
+        "has_id": NaN
+      },
+      {
+        "name": "شقيق",
+        "relationship_type": "student_of",
+        "relationship_phrase": "يذهب مذهب",
+        "full_text": "ويذهب مذهب شقيق في التوكل",
+        "person_id": 1013,
+        "canonical_name": "أبو عمرو المروزي",
+        "has_id": 427
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "أبا حمزة",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أبا حمزة",
+        "person_id": 790,
+        "canonical_name": "أبو زكريا الحمال",
+        "has_id": NaN
+      },
+      {
+        "name": "أبا محمد الرباطي المروزي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "وكان قد صحب أبا محمد الرباطي المروزي",
+        "person_id": 1075,
+        "canonical_name": "أبو مسلم عبد الرحمن بن محمد بن أحمد الواعظ",
+        "has_id": NaN
+      },
+      {
+        "name": "أبو حمزة",
+        "relationship_type": "peer",
+        "relationship_phrase": "يكرمونه ويقدمونه على غيره",
+        "full_text": "وكان أبو حمزة وابن وهب وجماعة المشايخ يكرمونه ويقدمونه على غيره",
+        "person_id": 790,
+        "canonical_name": "أبو زكريا الحمال",
+        "has_id": NaN
+      },
+      {
+        "name": "ابن وهب",
+        "relationship_type": "peer",
+        "relationship_phrase": "يكرمونه ويقدمونه على غيره",
+        "full_text": "وكان أبو حمزة وابن وهب وجماعة المشايخ يكرمونه ويقدمونه على غيره",
+        "has_id": NaN,
+        "person_id": 33,
+        "canonical_name": "ابن مخلد"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "يحيى بن الحسن القلانسي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت يحيى بن الحسن القلانسي يقول",
+      "person_id": 2683,
+      "canonical_name": "يوسف بن موسى بن عبد الله المروزي",
+      "has_id": NaN
+    },
+    {
+      "name": "منية البصري",
+      "relationship_type": "narrator",
+      "full_text": "قال منية البصري",
+      "person_id": 2595,
+      "canonical_name": "هاشم بن أبي عبد الله",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو سعيد بن الأعرابي",
+      "relationship_type": "narrator",
+      "full_text": "قال أبو سعيد بن الأعرابي",
+      "person_id": 834,
+      "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
+      "has_id": NaN
+    }
+  ]
+}

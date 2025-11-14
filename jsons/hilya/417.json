@@ -1,0 +1,39 @@
+{
+  "bio_id": "417",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "البصرة",
+      "context": "lived",
+      "full_text": "في داره بالبصرة ثلاثين سنة متعبدا فيها"
+    }
+  ],
+  "isnads": [],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "سريا",
+        "relationship_type": "student_of",
+        "relationship_phrase": "لزم",
+        "full_text": "وبلغني أنه لزم سريا في داره بالبصرة ثلاثين سنة متعبدا فيها",
+        "person_id": 161,
+        "canonical_name": "السري السقطي",
+        "has_id": 236
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "والدي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحبه",
+        "full_text": "وصحبه والدي بالبصرة قبل انتقاله إلى السوس",
+        "person_id": 2615,
+        "canonical_name": "والدي",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": []
+}

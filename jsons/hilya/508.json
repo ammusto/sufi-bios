@@ -1,0 +1,85 @@
+{
+  "bio_id": "508",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد بن أبي يحيى",
+          "person_id": 2306,
+          "canonical_name": "محمد بن أحمد بن أبي يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حامد بن المسبور",
+          "person_id": 1427,
+          "canonical_name": "حامد بن المسبور",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أزهر ابن سعيد",
+          "person_id": 1287,
+          "canonical_name": "أزهر بن سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أبي هريرة",
+          "person_id": 2290,
+          "canonical_name": "محمد بن أبي هريرة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا محمد بن أحمد بن أبي يحيى ثنا حامد بن المسبور ثنا أزهر ابن سعيد عن محمد بن أبي هريرة",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "سليمان ابن حرب",
+        "relationship_type": "student_of",
+        "relationship_phrase": "حدث عن",
+        "full_text": "حدث عن سليمان ابن حرب وأزهر بن سعيد.",
+        "person_id": 1629,
+        "canonical_name": "سليمان بن حرب",
+        "has_id": NaN
+      },
+      {
+        "name": "أزهر بن سعيد",
+        "relationship_type": "student_of",
+        "relationship_phrase": "حدث عن",
+        "full_text": "حدث عن سليمان ابن حرب وأزهر بن سعيد.",
+        "person_id": 1287,
+        "canonical_name": "أزهر بن سعيد",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "محمد بن أحمد بن أبي يحيى",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "ثنا محمد بن أحمد بن أبي يحيى ثنا حامد بن المسبور",
+      "person_id": 2306,
+      "canonical_name": "محمد بن أحمد بن أبي يحيى",
+      "has_id": NaN
+    }
+  ]
+}

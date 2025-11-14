@@ -1,0 +1,351 @@
+{
+  "bio_id": "422",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "بغدادي"
+    },
+    {
+      "place": "مصر",
+      "context": "lived",
+      "full_text": "انتقل إلى مصر"
+    },
+    {
+      "place": "مصر",
+      "context": "died",
+      "full_text": "وتوفي بها"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبا محمد بن أبي عمران الهروي",
+          "person_id": 1048,
+          "canonical_name": "أبو محمد بن أبي عمران الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا عبد الله أحمد بن عطاء الروذبارى",
+          "person_id": 894,
+          "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+          "has_id": 413,
+          "subj_added": false
+        },
+        {
+          "name": "أبو على خالى الروذباري",
+          "person_id": 959,
+          "canonical_name": "أبو علي الروذباري",
+          "has_id": 422,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا محمد بن أبي عمران الهروي يقول سمعت أبا عبد الله أحمد بن عطاء الروذبارى يقول سئل أبو على خالى الروذباري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن محمد الدمشقي",
+          "person_id": 1857,
+          "canonical_name": "عبد الله بن محمد الدمشقي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا علي الروذباري",
+          "person_id": 959,
+          "canonical_name": "أبو علي الروذباري",
+          "has_id": 422,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت عبد الله بن محمد الدمشقي يقول سمعت أبا علي الروذباري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا علي الروذباري",
+          "person_id": 959,
+          "canonical_name": "أبو علي الروذباري",
+          "has_id": 422,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت منصور بن عبد الله يقول سمعت أبا علي الروذباري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا علي الروذباري",
+          "person_id": 959,
+          "canonical_name": "أبو علي الروذباري",
+          "has_id": 422,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال: وسمعت أبا علي يقول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا علي الروذباري",
+          "person_id": 959,
+          "canonical_name": "أبو علي الروذباري",
+          "has_id": 422,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "منصور بن عبد الله",
+          "person_id": 2547,
+          "canonical_name": "منصور بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا علي الروذباري",
+          "person_id": 959,
+          "canonical_name": "أبو علي الروذباري",
+          "has_id": 422,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الفضل الطوسي نصر بن أبي نصر",
+          "person_id": 528,
+          "canonical_name": "أبو الفضل نصر بن محمد الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا سعيد الكازروني",
+          "person_id": 804,
+          "canonical_name": "أبو سعيد الكازروني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو علي الروذباري",
+          "person_id": 959,
+          "canonical_name": "أبو علي الروذباري",
+          "has_id": 422,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر أبو الفضل الطوسي نصر بن أبي نصر قال سمعت أبا سعيد الكازروني يقول قال أبو علي الروذباري",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الواحد بن بكر",
+          "person_id": 1908,
+          "canonical_name": "عبد الواحد بن بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "همام بن الحارث",
+          "person_id": 2606,
+          "canonical_name": "همام بن الحارث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا علي الروذباري",
+          "person_id": 959,
+          "canonical_name": "أبو علي الروذباري",
+          "has_id": 422,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت عبد الواحد بن بكر يقول سمعت همام بن الحارث يقول سمعت أبا علي الروذباري يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الواحد بن بكر",
+          "person_id": 1908,
+          "canonical_name": "عبد الواحد بن بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "همام بن الحارث",
+          "person_id": 2606,
+          "canonical_name": "همام بن الحارث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا علي الروذباري",
+          "person_id": 959,
+          "canonical_name": "أبو علي الروذباري",
+          "has_id": 422,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال أبو علي",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الواحد بن بكر",
+          "person_id": 1908,
+          "canonical_name": "عبد الواحد بن بكر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "همام بن الحارث",
+          "person_id": 2606,
+          "canonical_name": "همام بن الحارث",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا علي الروذباري",
+          "person_id": 959,
+          "canonical_name": "أبو علي الروذباري",
+          "has_id": 422,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال أبو علي",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا عبد الله أحمد بن عطاء الروذبارى",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا عبد الله أحمد بن عطاء الروذبارى يقول",
+      "person_id": 894,
+      "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
+      "has_id": 413
+    },
+    {
+      "name": "عبد الله بن محمد الدمشقي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت عبد الله بن محمد الدمشقي يقول",
+      "person_id": 1857,
+      "canonical_name": "عبد الله بن محمد الدمشقي",
+      "has_id": NaN
+    },
+    {
+      "name": "منصور بن عبد الله",
+      "relationship_type": "narrator",
+      "full_text": "سمعت منصور بن عبد الله يقول",
+      "person_id": 2547,
+      "canonical_name": "منصور بن عبد الله",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا سعيد الكازروني",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا سعيد الكازروني يقول",
+      "person_id": 804,
+      "canonical_name": "أبو سعيد الكازروني",
+      "has_id": NaN
+    },
+    {
+      "name": "همام بن الحارث",
+      "relationship_type": "narrator",
+      "full_text": "سمعت همام بن الحارث يقول",
+      "person_id": 2606,
+      "canonical_name": "همام بن الحارث",
+      "has_id": NaN
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "bio_id": "324",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "~345",
+    "full_text": "در سنه نیف و اربعین و ثلثمائه برفته از دنیا",
+    "certainty": "approximate"
+  },
+  "geographical_locations": [
+    {
+      "place": "تینات",
+      "context": "nisba",
+      "full_text": "التیناتی"
+    },
+    {
+      "place": "تینات",
+      "context": "lived",
+      "full_text": "به تینات بودی"
+    },
+    {
+      "place": "تینات",
+      "context": "lived",
+      "full_text": "به تینات نشست"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر رازی",
+          "person_id": 624,
+          "canonical_name": "أبو بكر الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوبکر رازی گوید: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوالخیر",
+          "person_id": 30,
+          "canonical_name": "أبو الخير",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و قال ابوالخیر:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "وی",
+          "person_id": 2621,
+          "canonical_name": "وي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلامگفت، که وی گفت:که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عباس بن محمد الخلال",
+          "person_id": 1722,
+          "canonical_name": "عباس بن محمد الخلال",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی عباس بن محمد الخلال گوید از مرو: کی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که آن کنجکجا بود؟",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که بواخیر تیتانی را پسری بود عیسی نام",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوصالح حدثانی",
+          "person_id": 826,
+          "canonical_name": "أبو صالح الحدثاني",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که بوصالح حدثانی گوید نام وی هارون",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که مریدی پیش بوالقاسم خلال مروزی شد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حسن",
+          "person_id": 1443,
+          "canonical_name": "حسن",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "حسن گوید خادم بوالخیر تیناتی: که",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "زهیر بن بکیر",
+          "person_id": 1564,
+          "canonical_name": "زهير بن بكير",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که پیری بود نام وی زهیر بن بکیر",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: من سیزده بوالخیر شناس",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "بوعبداللّه جلا",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "صحبت کرده بود با بوعبداللّه جلا و جنید و جز ازو و از مشایخ.",
+        "person_id": 901,
+        "canonical_name": "أبو عبد الله بن جلاء",
+        "has_id": NaN
+      },
+      {
+        "name": "جنید",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "صحبت کرده بود با بوعبداللّه جلا و جنید و جز ازو و از مشایخ.",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت: که نام وی حماد است غلام بودهبه تینات بودی",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "بوبکر رازی",
+      "relationship_type": "direct_narrator",
+      "full_text": "بوبکر رازی گوید: که وی این دو بیت انشا کرد برمن:",
+      "person_id": 624,
+      "canonical_name": "أبو بكر الرازي",
+      "has_id": NaN
+    },
+    {
+      "name": "عباس بن محمد الخلال",
+      "relationship_type": "direct_narrator",
+      "full_text": "شیخ الاسلام گفت: کی عباس بن محمد الخلال گوید از مرو: کی بوالخیر\nتیتانی مرا گفت:",
+      "person_id": 1722,
+      "canonical_name": "عباس بن محمد الخلال",
+      "has_id": NaN
+    },
+    {
+      "name": "بوصالح حدثانی",
+      "relationship_type": "direct_narrator",
+      "context": "questioner",
+      "full_text": "شیخ الاسلام گفت: که بوصالح حدثانی گوید نام وی هارون کی در خانهٔ بوالخیر تیتانی شدم بزیارت، مرا گفت: اکنون سفر کجا میکنی؟ ... بوصالح گفت: ای شیخ! حج و غزا میگوئی؟",
+      "person_id": 826,
+      "canonical_name": "أبو صالح الحدثاني",
+      "has_id": NaN
+    },
+    {
+      "name": "حسن",
+      "relationship_type": "direct_narrator",
+      "full_text": "حسن گوید خادم بوالخیر تیناتی: که روزی شیخ نشسته بود گفت و علیکم السلام.",
+      "person_id": 1443,
+      "canonical_name": "حسن",
+      "has_id": NaN
+    },
+    {
+      "name": "عیسی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "son",
+      "full_text": "شیخ الاسلام گفت: که بواخیر تیتانی را پسری بود عیسی نام",
+      "person_id": 2144,
+      "canonical_name": "عيسي",
+      "has_id": NaN
+    }
+  ]
+}

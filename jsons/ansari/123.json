@@ -1,0 +1,641 @@
+{
+  "bio_id": "123",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "بغدادی است"
+    },
+    {
+      "place": "بغداد",
+      "context": "born",
+      "full_text": "اصل وی از بغداد بوده"
+    },
+    {
+      "place": "مصر",
+      "context": "lived",
+      "full_text": "بمصر بوده"
+    },
+    {
+      "place": "مصر",
+      "context": "visited",
+      "full_text": "در محبت صوفیان بمصر و بمکه بود ایام"
+    },
+    {
+      "place": "مکه",
+      "context": "visited",
+      "full_text": "در محبت صوفیان بمصر و بمکه بود ایام"
+    },
+    {
+      "place": "مسجد حرام",
+      "context": "visited",
+      "full_text": "در مسجد حرام نشسته بودم"
+    },
+    {
+      "place": "عرفات",
+      "context": "visited",
+      "full_text": "وقتی خراز در عرفات بود"
+    },
+    {
+      "place": "مصر",
+      "context": "lived",
+      "full_text": "خراز را از مصر بیرون کردند"
+    },
+    {
+      "place": "مصر",
+      "context": "visited",
+      "full_text": "خراز چون بمصر شد"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت قدس اللّه روحه و اتم نوره",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وگفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وگفت کی",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت قدس اللّه روحه:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "قال الشیخ الامام شیخ الاسلام، انارللّه برهاته، و وسع علیه رضوانه،",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مرتعش",
+          "person_id": 1043,
+          "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
+          "has_id": 251,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "مرتعش گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سیروانی",
+          "person_id": 165,
+          "canonical_name": "السيرواني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سیروانی ٭ گوید،",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "حلاج",
+          "person_id": 127,
+          "canonical_name": "الحسين بن منصور الحلاج",
+          "has_id": 232,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "حلاج گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بسطامی",
+          "person_id": 1128,
+          "canonical_name": "أبو يزيد البسطامي",
+          "has_id": 435,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بسطامی٭ گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوعلی سیاه",
+          "person_id": 979,
+          "canonical_name": "أبو علي سياه",
+          "has_id": 167,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "شیخ بوعلی سیاه گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکر وراق",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوبکر وراق ٭ گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوالقسم مردان نهاوندی",
+          "person_id": 558,
+          "canonical_name": "أبو القاسم مردان النهاوندي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی شیخ بوالقسم مردان نهاوندی گویدکی",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوسعید الخراز",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و قال ابوسعید الخراز:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "الخراز",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال الخراز:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکرکتانی",
+          "person_id": 712,
+          "canonical_name": "أبو بكر محمد بن علي الكتاني",
+          "has_id": 378,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوبکرکتانی گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "خواجه یحیی",
+          "person_id": 2623,
+          "canonical_name": "يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابوالفضل باعمران",
+          "person_id": 523,
+          "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوبکر دقی",
+          "person_id": 621,
+          "canonical_name": "أبو بكر الدقي",
+          "has_id": 382,
+          "subj_added": false
+        },
+        {
+          "name": "بوبکر زقاق مصری",
+          "person_id": 625,
+          "canonical_name": "أبو بكر الزقاق",
+          "has_id": 375,
+          "subj_added": false
+        },
+        {
+          "name": "بوسعید خراز",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: که خواجه یحیی٭ املا کرد برما،از ابوالفضل باعمران بمکه از بوبکر دقی، از بوبکر زقاق مصری٭ از بوسعید خرازکی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالحسن مزین",
+          "person_id": 408,
+          "canonical_name": "أبو الحسن المزين",
+          "has_id": 295,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوالحسن مزین گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت قدس اللّه روحه:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "محمد منصور طوسی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد محمد منصور طوسی ٭ است",
+        "person_id": 2454,
+        "canonical_name": "محمد بن منصور الطوسي",
+        "has_id": 789
+      },
+      {
+        "name": "ذالنون مصری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "و باذالنون مصری صحبت کرده",
+        "person_id": 1523,
+        "canonical_name": "ذو النون المصري",
+        "has_id": 570
+      },
+      {
+        "name": "بوعبداللهّ نباجی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "با",
+        "full_text": "و با بوعبداللهّ نباجی و بوعبید و سری سقطی و بشر حافی ٭ و جز زان از امامان این طایفه است",
+        "person_id": 888,
+        "canonical_name": "أبو عبد الله النباجي",
+        "has_id": 142
+      },
+      {
+        "name": "بوعبید",
+        "relationship_type": "student_of",
+        "relationship_phrase": "با",
+        "full_text": "و با بوعبداللهّ نباجی و بوعبید و سری سقطی و بشر حافی ٭ و جز زان از امامان این طایفه است",
+        "person_id": 923,
+        "canonical_name": "أبو عبيد",
+        "has_id": NaN
+      },
+      {
+        "name": "سری سقطی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "با",
+        "full_text": "و با بوعبداللهّ نباجی و بوعبید و سری سقطی و بشر حافی ٭ و جز زان از امامان این طایفه است",
+        "person_id": 161,
+        "canonical_name": "السري السقطي",
+        "has_id": 236
+      },
+      {
+        "name": "بشر حافی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "با",
+        "full_text": "و با بوعبداللهّ نباجی و بوعبید و سری سقطی و بشر حافی ٭ و جز زان از امامان این طایفه است",
+        "person_id": 1323,
+        "canonical_name": "بشر بن الحارث الحافي",
+        "has_id": 470
+      },
+      {
+        "name": "جنید",
+        "relationship_type": "student_of",
+        "relationship_phrase": "بشاگردی ... فرا نماید",
+        "full_text": "شیخ الاسلام گفت: که وی خویشتن بشاگردی جنید فرا نماید",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "جنید",
+        "relationship_type": "peer",
+        "relationship_phrase": "از یاران و اقران",
+        "full_text": "خود بار خدای جنید است از یاران و اقران جنید است",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "رویم",
+        "relationship_type": "peer",
+        "relationship_phrase": "مشایخ فراهم آمده بودند",
+        "full_text": "وقتی مشایخ فراهم آمده بودند جنید و خراز و رویم و بوالعباس عطا",
+        "person_id": 1553,
+        "canonical_name": "رويم بن أحمد",
+        "has_id": 578
+      },
+      {
+        "name": "بوالعباس عطا",
+        "relationship_type": "peer",
+        "relationship_phrase": "مشایخ فراهم آمده بودند",
+        "full_text": "وقتی مشایخ فراهم آمده بودند جنید و خراز و رویم و بوالعباس عطا",
+        "person_id": 498,
+        "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
+        "has_id": 340
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت قدس اللّه روحه و اتم نوره",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "مرتعش",
+      "relationship_type": "narrator",
+      "full_text": "مرتعش گوید: که خلق همه وبال اند بر خراز، که چون سخن گوید در چیزی از حقایق.",
+      "person_id": 1043,
+      "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
+      "has_id": 251
+    },
+    {
+      "name": "سیروانی",
+      "relationship_type": "narrator",
+      "full_text": "سیروانی ٭ گوید، کی جنید را پرسیدند: کی این طایفه بعلم از مولی رضا ندادند، کی می جود بیوسند در علم.",
+      "person_id": 165,
+      "canonical_name": "السيرواني",
+      "has_id": NaN
+    },
+    {
+      "name": "حلاج",
+      "relationship_type": "narrator",
+      "full_text": "حلاج گفت: بنور ایمان اللّه جستن چنانست که بنور ستاره خورشید جستن.",
+      "person_id": 127,
+      "canonical_name": "الحسين بن منصور الحلاج",
+      "has_id": 232
+    },
+    {
+      "name": "بسطامی",
+      "relationship_type": "narrator",
+      "full_text": "بسطامی٭ گوید: کی با اونه پیوستم تا از خود بنگسستم، از خود بنگستم تا باونه پیوستم.",
+      "person_id": 1128,
+      "canonical_name": "أبو يزيد البسطامي",
+      "has_id": 435
+    },
+    {
+      "name": "شیخ بوعلی سیاه",
+      "relationship_type": "narrator",
+      "full_text": "شیخ بوعلی سیاه گوید: که ماوراء النهریان میگویند تا بنه رهی نه یاوی، و عراقیان میگویند تا نیابی بنه رهی، هر دو یکیست.",
+      "person_id": 979,
+      "canonical_name": "أبو علي سياه",
+      "has_id": 167
+    },
+    {
+      "name": "بوبکر وراق",
+      "relationship_type": "narrator",
+      "full_text": "بوبکر وراق ٭ گفت: کی یافت حق در ذل نفس تواست.",
+      "person_id": 702,
+      "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+      "has_id": 380
+    },
+    {
+      "name": "شیخ بوالقسم مردان نهاوندی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت: کی شیخ بوالقسم مردان نهاوندی گویدکی از بوسعید خراز پرسیدند، کی فانی چیست؟",
+      "person_id": 558,
+      "canonical_name": "أبو القاسم مردان النهاوندي",
+      "has_id": NaN
+    },
+    {
+      "name": "بوبکرکتانی",
+      "relationship_type": "narrator",
+      "full_text": "بوبکرکتانی گوید: که وی گفت: من ظن انه ببذل المجهود یصل فمتعنی و من انه بغیر بذل المجهود یصل فمتمنی",
+      "person_id": 712,
+      "canonical_name": "أبو بكر محمد بن علي الكتاني",
+      "has_id": 378
+    },
+    {
+      "name": "خواجه یحیی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت: که خواجه یحیی٭ املا کرد برما،از ابوالفضل باعمران بمکه از بوبکر دقی، از بوبکر زقاق مصری٭ از بوسعید خرازکی گفت:",
+      "person_id": 2623,
+      "canonical_name": "يحيى",
+      "has_id": NaN
+    },
+    {
+      "name": "ابوالفضل باعمران",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت: که خواجه یحیی٭ املا کرد برما،از ابوالفضل باعمران بمکه از بوبکر دقی، از بوبکر زقاق مصری٭ از بوسعید خرازکی گفت:",
+      "person_id": 523,
+      "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
+      "has_id": NaN
+    },
+    {
+      "name": "بوبکر دقی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت: که خواجه یحیی٭ املا کرد برما،از ابوالفضل باعمران بمکه از بوبکر دقی، از بوبکر زقاق مصری٭ از بوسعید خرازکی گفت:",
+      "person_id": 621,
+      "canonical_name": "أبو بكر الدقي",
+      "has_id": 382
+    },
+    {
+      "name": "بوبکر زقاق مصری",
+      "relationship_type": "direct_narrator",
+      "full_text": "از بوبکر زقاق مصری٭ از بوسعید خرازکی گفت:",
+      "person_id": 625,
+      "canonical_name": "أبو بكر الزقاق",
+      "has_id": 375
+    },
+    {
+      "name": "بوالحسن مزین",
+      "relationship_type": "narrator",
+      "full_text": "بوالحسن مزین گفت: کی روزی که در میان صوفیان نقار نبود، آن روز بخیر ندارد.",
+      "person_id": 408,
+      "canonical_name": "أبو الحسن المزين",
+      "has_id": 295
+    },
+    {
+      "name": "شخصی",
+      "relationship_type": "questioner",
+      "context": "from heaven; پرسش دربارهٔ صدق و علامهٔ دوستی",
+      "full_text": "شخصی از آسمان فرود آمد پیش من، پرسید: کی صدق و علامهٔ دوستی چیست؟",
+      "person_id": 1662,
+      "canonical_name": "شخصي",
+      "has_id": NaN
+    }
+  ]
+}

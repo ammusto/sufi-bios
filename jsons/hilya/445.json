@@ -1,0 +1,93 @@
+{
+  "bio_id": "445",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين بن عبد الرحمن القاضي",
+          "person_id": 116,
+          "canonical_name": "الحسين بن عبد الرحمن القاضي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 460,
+          "canonical_name": "أبو الحسين عبد الرحمن القاضي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن روح",
+          "person_id": 1199,
+          "canonical_name": "أحمد بن روح",
+          "has_id": 445,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أنشدني عثمان بن محمد العثماني قال أنشدني الحسين بن عبد الرحمن القاضي قال حدثني أبي قال سمعت أحمد بن روح ينشد:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسين بن عبد الرحمن القاضي",
+          "person_id": 116,
+          "canonical_name": "الحسين بن عبد الرحمن القاضي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 460,
+          "canonical_name": "أبو الحسين عبد الرحمن القاضي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن روح",
+          "person_id": 1199,
+          "canonical_name": "أحمد بن روح",
+          "has_id": 445,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال: وأنشدني أيضا لبعض إخوانه:",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبي",
+      "relationship_type": "narrator",
+      "full_text": "قال حدثني أبي قال سمعت أحمد بن روح ينشد",
+      "person_id": 585,
+      "canonical_name": "أبو أبي نعيم الأصفهاني",
+      "has_id": NaN
+    }
+  ]
+}

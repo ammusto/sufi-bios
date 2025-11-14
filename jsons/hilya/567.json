@@ -1,0 +1,78 @@
+{
+  "bio_id": "567",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "نصيبين",
+      "context": "nisba",
+      "full_text": "النصيبي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "أبي",
+          "person_id": 585,
+          "canonical_name": "أبو أبي نعيم الأصفهاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو الحسن بن أبان",
+          "person_id": 417,
+          "canonical_name": "أبو الحسن بن أبان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عبد الله محمد بن سفيان",
+          "person_id": 914,
+          "canonical_name": "أبو عبد الله محمد بن سفيان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي ابن مريم",
+          "person_id": 2070,
+          "canonical_name": "علي بن مريم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زهير بن عباد",
+          "person_id": 1565,
+          "canonical_name": "زهير بن عباد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "داود بن هلال النصيبي",
+          "person_id": 1517,
+          "canonical_name": "داود بن هلال النصيبي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبي ثنا أبو الحسن بن أبان ثنا أبو عبد الله محمد بن سفيان ثنا علي ابن مريم عن زهير بن عباد ثنا داود بن هلال النصيبي",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "زهير بن عباد",
+      "relationship_type": "narrator",
+      "full_text": "عن زهير بن عباد ثنا داود بن هلال النصيبي",
+      "person_id": 1565,
+      "canonical_name": "زهير بن عباد",
+      "has_id": NaN
+    }
+  ]
+}

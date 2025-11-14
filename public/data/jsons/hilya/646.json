@@ -1,0 +1,39 @@
+{
+  "bio_id": "646",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "مسيلة",
+      "context": "lived",
+      "full_text": "سكن مسيلة"
+    }
+  ],
+  "isnads": [],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "سفيان الثوري",
+        "relationship_type": "student_of",
+        "relationship_phrase": "يروي عنه",
+        "full_text": "وسمعته يروي عنه مسائل",
+        "person_id": 1607,
+        "canonical_name": "سفيان الثوري",
+        "has_id": 598
+      }
+    ],
+    "students": [],
+    "companions": [
+      {
+        "name": "سفيان الثوري",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب سفيان الثوري",
+        "person_id": 1607,
+        "canonical_name": "سفيان الثوري",
+        "has_id": 598
+      }
+    ]
+  },
+  "associates": []
+}

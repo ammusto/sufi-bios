@@ -1,0 +1,259 @@
+{
+  "bio_id": "422",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "~323",
+    "full_text": "در سنه اثنی و عشرین و ثلثلمائه. وگویندکی سنه ثلث و عشرین.",
+    "certainty": "approximate"
+  },
+  "geographical_locations": [
+    {
+      "place": "رودبار",
+      "context": "nisba",
+      "full_text": "الرود باری"
+    },
+    {
+      "place": "مصر",
+      "context": "lived",
+      "full_text": "اقام بمصر"
+    },
+    {
+      "place": "بغداد",
+      "context": "born",
+      "full_text": "از اهل بغداد است"
+    },
+    {
+      "place": "مصر",
+      "context": "lived",
+      "full_text": "بمصر بوده"
+    },
+    {
+      "place": "مصر",
+      "context": "died",
+      "full_text": "و آنجا برفته"
+    },
+    {
+      "place": "شام",
+      "context": "visited",
+      "full_text": "و بشام بابوعبداللشه جلا صحبت کرده"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "در قدیم شیخ الاسلام «گفت قدس اللّه روحه» میگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "گفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعلی رودباری",
+          "person_id": 959,
+          "canonical_name": "أبو علي الروذباري",
+          "has_id": 422,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوعلی رودباری گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوعلی کاتب",
+          "person_id": 973,
+          "canonical_name": "أبو علي بن الكاتب",
+          "has_id": 23,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 959,
+          "canonical_name": "أبو علي الروذباري",
+          "has_id": 422,
+          "subj_added": true
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و شیخ بوعلی کاتب گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گوید:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعلی رودباری",
+          "person_id": 959,
+          "canonical_name": "أبو علي الروذباري",
+          "has_id": 422,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و بوعلی رودباری گفته:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفته:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "و هم وی گفته:",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "الجنید",
+        "relationship_type": "student_of",
+        "relationship_phrase": "لزم ... و صحبه",
+        "full_text": "لزم الجنید و صحبه",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "بوالعباس مسروق",
+        "relationship_type": "student_of",
+        "relationship_phrase": "شاگرد",
+        "full_text": "شاگرد بوالعباس مسروق ایذ",
+        "person_id": 505,
+        "canonical_name": "أبو العباس بن مسروق الطوسي",
+        "has_id": 451
+      },
+      {
+        "name": "جنید",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "و با جنید و نوری و بوحمزه و حسن مسوحی صحبت کرده",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "نوری",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "و با جنید و نوری و بوحمزه و حسن مسوحی صحبت کرده",
+        "person_id": 452,
+        "canonical_name": "أبو الحسين النوري",
+        "has_id": 439
+      },
+      {
+        "name": "بوحمزه",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "و با جنید و نوری و بوحمزه و حسن مسوحی صحبت کرده",
+        "person_id": 768,
+        "canonical_name": "أبو حمزه",
+        "has_id": NaN
+      },
+      {
+        "name": "حسن مسوحی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "و با جنید و نوری و بوحمزه و حسن مسوحی صحبت کرده",
+        "person_id": 1445,
+        "canonical_name": "حسن المسوحي",
+        "has_id": 512
+      },
+      {
+        "name": "ابوعبداللشه جلا",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده با",
+        "full_text": "و بشام بابوعبداللشه جلا صحبت کرده",
+        "person_id": 851,
+        "canonical_name": "أبو عبد اللشه جلا",
+        "has_id": NaN
+      },
+      {
+        "name": "جنید",
+        "relationship_type": "student_of",
+        "relationship_phrase": "استاد من در تصوف",
+        "full_text": "کی استاد من در تصوف جنید ایذ",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "بوالعباس سریج",
+        "relationship_type": "student_of",
+        "relationship_phrase": "در فقه",
+        "full_text": "و در فقه بوالعباس سریج",
+        "person_id": 503,
+        "canonical_name": "أبو العباس بن سريج",
+        "has_id": 50
+      },
+      {
+        "name": "بوالعباس ثعلب",
+        "relationship_type": "student_of",
+        "relationship_phrase": "در ادب",
+        "full_text": "و در ادب بوالعباس ثعلب",
+        "person_id": 506,
+        "canonical_name": "أبو العباس ثعلب",
+        "has_id": NaN
+      },
+      {
+        "name": "ابرهیم حربی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "در حدیث",
+        "full_text": "و در حدیث ابرهیم حربی",
+        "person_id": 276,
+        "canonical_name": "إبراهيم الحربي",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "context": "",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ بوعلی کاتب",
+      "relationship_type": "narrator",
+      "context": "",
+      "full_text": "و شیخ بوعلی کاتب گوید:",
+      "person_id": 973,
+      "canonical_name": "أبو علي بن الكاتب",
+      "has_id": 23
+    }
+  ]
+}

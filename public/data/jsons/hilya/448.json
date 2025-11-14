@@ -1,0 +1,439 @@
+{
+  "bio_id": "448",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "البغدادي"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "العباس بن أحمد الرملى",
+          "person_id": 176,
+          "canonical_name": "العباس بن أحمد الرملى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو سعيد الخزاز",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت عثمان بن محمد العثماني يقول ثنا العباس بن أحمد الرملى قال قال أبو سعيد الخزاز:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "يحيى بن المؤمل",
+          "person_id": 2628,
+          "canonical_name": "يحيى بن المؤمل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شيخي أبا بكر الدقاق",
+          "person_id": 620,
+          "canonical_name": "أبو بكر الدقاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عيسى",
+          "person_id": 1234,
+          "canonical_name": "أحمد بن عيسى",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الحسن علي بن عبد الله الجهضمي يقول سمعت يحيى بن المؤمل يقول سمعت شيخي أبا بكر الدقاق يقول سمعت أحمد بن عيسى يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن موسى",
+          "person_id": 2457,
+          "canonical_name": "محمد بن موسى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر بن علي الفرغاني",
+          "person_id": 2106,
+          "canonical_name": "عمر بن علي الفرغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن الكاتب",
+          "has_id": 23,
+          "person_id": 973,
+          "canonical_name": "أبو علي بن الكاتب",
+          "subj_added": false
+        },
+        {
+          "name": "أبا سعيد الخزاز",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن موسى يقول سمعت عمر بن علي الفرغاني يقول سمعت ابن الكاتب يقول سمعت أبا سعيد الخزاز يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا الفضل الهروي",
+          "person_id": 523,
+          "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا بكر الدقاق",
+          "person_id": 620,
+          "canonical_name": "أبو بكر الدقاق",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الفضل الهروي سمعت أبا بكر الدقاق يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا الفضل الطوسي",
+          "person_id": 528,
+          "canonical_name": "أبو الفضل نصر بن محمد الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "غلام الدقاق",
+          "person_id": 2147,
+          "canonical_name": "غلام الدقاق",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا سعيد السكري",
+          "person_id": 802,
+          "canonical_name": "أبو سعيد السكري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا سعيد الخزار",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا الفضل الطوسي يقول سمعت غلام الدقاق يقول سمعت أبا سعيد السكري يقول سمعت أبا سعيد الخزار يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن علي بن جعفر",
+          "person_id": 1226,
+          "canonical_name": "أحمد بن علي بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن علي الكتاني",
+          "person_id": 712,
+          "canonical_name": "أبو بكر محمد بن علي الكتاني",
+          "has_id": 378,
+          "subj_added": false
+        },
+        {
+          "name": "أبا سعيد الخزاز",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أحمد بن علي بن جعفر يقول سمعت\nمحمد بن علي الكتاني يقول سمعت أبا سعيد الخزاز يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن عبد الله",
+          "person_id": 2045,
+          "canonical_name": "علي بن عبد الله",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا العباس الطحان",
+          "has_id": NaN,
+          "person_id": 72,
+          "canonical_name": "الحاكم أبو أحمد محمد بن أحمد بن إسحاق الحافظ",
+          "subj_added": false
+        },
+        {
+          "name": "أبو سعيد الخزاز",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت علي بن عبد الله يقول سمعت أبا العباس الطحان يقول قال أبو سعيد الخزاز:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر الكتاني وأبو الحسن الرملي",
+          "person_id": 643,
+          "canonical_name": "أبو بكر الكتاني وأبو الحسن الرملي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا سعيد الخزاز",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت عثمان بن محمد العثماني يقول ثنا أبو بكر الكتاني وأبو الحسن الرملي قالا: سألنا أبا سعيد الخزاز",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبا عمرو العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا الحسن الرازي",
+          "has_id": NaN,
+          "person_id": 73,
+          "canonical_name": "الحجاج",
+          "subj_added": false
+        },
+        {
+          "name": "أبو سعيد الخزاز",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت أبا عمرو العثماني يقول سمعت أبا الحسن الرازي يقول قال أبو سعيد الخزاز:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو الفتح يوسف بن عمر بن مسرور القواس",
+          "person_id": 517,
+          "canonical_name": "أبو الفتح يوسف بن عمر بن مسرور القواس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن محمد المصري",
+          "person_id": 434,
+          "canonical_name": "أبو الحسن علي بن محمد بن أحمد المصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو سعيد أحمد بن عيسى الخزاز البغدادي الصوفي",
+          "person_id": 801,
+          "canonical_name": "أبو سعيد الخراز",
+          "has_id": 123,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن إبراهيم الغفاري",
+          "person_id": 1806,
+          "canonical_name": "عبد الله بن إبراهيم الغفاري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جابر بن سليم",
+          "person_id": 1374,
+          "canonical_name": "جابر بن سليم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يحيى بن سعيد",
+          "person_id": 2642,
+          "canonical_name": "يحيى بن سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عائشة",
+          "person_id": 1710,
+          "canonical_name": "عائشة",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا أبو الفتح يوسف بن عمر بن مسرور القواس ثنا علي بن محمد المصري ثنا أبو سعيد أحمد بن عيسى الخزاز البغدادي الصوفي ثنا عبد الله بن إبراهيم الغفاري ثنا جابر بن سليم عن يحيى بن سعيد عن محمد بن إبراهيم عن عائشة",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "ذا النون",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب ذا النون ونظراءه.",
+        "person_id": 1523,
+        "canonical_name": "ذو النون المصري",
+        "has_id": 570
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "العباس بن أحمد الرملى",
+      "relationship_type": "narrator",
+      "full_text": "ثنا العباس بن أحمد الرملى قال قال أبو سعيد الخزاز",
+      "person_id": 176,
+      "canonical_name": "العباس بن أحمد الرملى",
+      "has_id": NaN
+    },
+    {
+      "name": "شيخي أبا بكر الدقاق",
+      "relationship_type": "narrator",
+      "full_text": "سمعت شيخي أبا بكر الدقاق يقول سمعت أحمد بن عيسى يقول",
+      "person_id": 620,
+      "canonical_name": "أبو بكر الدقاق",
+      "has_id": NaN
+    },
+    {
+      "name": "ابن الكاتب",
+      "relationship_type": "narrator",
+      "full_text": "سمعت ابن الكاتب يقول سمعت أبا سعيد الخزاز يقول",
+      "has_id": 23,
+      "person_id": 973,
+      "canonical_name": "أبو علي بن الكاتب"
+    },
+    {
+      "name": "أبا سعيد السكري",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا سعيد السكري يقول سمعت أبا سعيد الخزار يقول",
+      "person_id": 802,
+      "canonical_name": "أبو سعيد السكري",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن علي الكتاني",
+      "relationship_type": "narrator",
+      "full_text": "سمعت محمد بن علي الكتاني يقول سمعت أبا سعيد الخزاز يقول",
+      "person_id": 712,
+      "canonical_name": "أبو بكر محمد بن علي الكتاني",
+      "has_id": 378
+    },
+    {
+      "name": "أبا العباس الطحان",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا العباس الطحان يقول قال أبو سعيد الخزاز",
+      "has_id": NaN,
+      "person_id": 70,
+      "canonical_name": "الحارث بن أبي أسامة"
+    },
+    {
+      "name": "أبو بكر الكتاني",
+      "relationship_type": "questioner",
+      "full_text": "قالا: سألنا أبا سعيد الخزاز",
+      "person_id": 712,
+      "canonical_name": "أبو بكر محمد بن علي الكتاني",
+      "has_id": 378
+    },
+    {
+      "name": "أبو الحسن الرملي",
+      "relationship_type": "questioner",
+      "full_text": "قالا: سألنا أبا سعيد الخزاز",
+      "person_id": 398,
+      "canonical_name": "أبو الحسن الرملي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبا الحسن الرازي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا الحسن الرازي يقول قال أبو سعيد الخزاز",
+      "has_id": NaN,
+      "person_id": 71,
+      "canonical_name": "أبو الحسن الرازي"
+    }
+  ]
+}

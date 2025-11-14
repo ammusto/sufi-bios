@@ -1,0 +1,93 @@
+{
+  "bio_id": "23",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "مصر",
+      "context": "lived",
+      "full_text": "من شيوخ المصريين"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن علي بن جعفر",
+          "person_id": 1226,
+          "canonical_name": "أحمد بن علي بن جعفر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا علي الكاتب",
+          "person_id": 973,
+          "canonical_name": "أبو علي بن الكاتب",
+          "has_id": 23,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أحمد بن علي بن جعفر يقول سمعت أبا علي الكاتب يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبا القاسم المصري",
+          "person_id": 539,
+          "canonical_name": "أبو القاسم المصري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 973,
+          "canonical_name": "أبو علي بن الكاتب",
+          "has_id": 23,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين يقول سمعت أبا القاسم المصري يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أبا علي الكاتب",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا علي الكاتب يقول",
+      "person_id": 973,
+      "canonical_name": "أبو علي بن الكاتب",
+      "has_id": 23
+    },
+    {
+      "name": "أبا القاسم المصري",
+      "relationship_type": "narrator",
+      "full_text": "سمعت أبا القاسم المصري يقول",
+      "person_id": 539,
+      "canonical_name": "أبو القاسم المصري",
+      "has_id": NaN
+    }
+  ]
+}

@@ -1,0 +1,1125 @@
+{
+  "bio_id": "380",
+  "source": "sulami",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "ترمذ",
+      "context": "born",
+      "full_text": "أَصله من ترمذ"
+    },
+    {
+      "place": "بلخ",
+      "context": "lived",
+      "full_text": "وَأقَام ببلخ"
+    },
+    {
+      "place": "بلخ",
+      "context": "nisba",
+      "full_text": "الْبَلْخِي"
+    },
+    {
+      "place": "درب النسْوَة",
+      "context": "mentioned",
+      "full_text": "فِي درب النسْوَة"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عَليّ بن الْحُسَيْن الْبَلْخِي",
+          "person_id": 1999,
+          "canonical_name": "علي بن الحسين البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن مُحَمَّد بن حَاتِم",
+          "person_id": 2441,
+          "canonical_name": "محمد بن محمد بن حاتم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو بكر مُحَمَّد بن عمر الْوراق الْبَلْخِي",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو\nعمرَان مُوسَى بن حزَام",
+          "person_id": 1003,
+          "canonical_name": "أبو عمران موسى بن حزام الترمذي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو أُسَامَة",
+          "person_id": 602,
+          "canonical_name": "أبو أسامة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمر بن حَمْزَة",
+          "person_id": 2096,
+          "canonical_name": "عمر بن حمزة العمري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الرَّحْمَن ابْن أبي سعيد",
+          "person_id": 1739,
+          "canonical_name": "عبد الرحمن بن أبي سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي سعيد الْخُدْرِيّ",
+          "person_id": 800,
+          "canonical_name": "أبو سعيد الخدري",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا عَليّ بن الْحُسَيْن الْبَلْخِي قَالَ حَدثنَا مُحَمَّد بن مُحَمَّد بن حَاتِم حَدثنَا أَبُو بكر مُحَمَّد بن عمر الْوراق الْبَلْخِي فِي درب النسْوَة قَالَ أخبرنَا أَبُو\nعمرَان مُوسَى بن حزَام حَدثنَا أَبُو أُسَامَة عَن عمر بن حَمْزَة عَن عبد الرَّحْمَن ابْن أبي سعيد عَن أبي سعيد الْخُدْرِيّ قَالَ قَالَ رَسُول الله ﷺ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّד بن يَعْقُوب التِّرْمِذِيّ",
+          "person_id": 2474,
+          "canonical_name": "محمد بن يعقوب الترمذي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا ذَر التِّرْمِذِيّ",
+          "person_id": 778,
+          "canonical_name": "أبو ذر الترمذي",
+          "has_id": 116,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت مُحَمَّد بن يَعْقُوب التِّرْمِذِيّ يَقُول سَمِعت أَبَا ذَر التِّرْمِذِيّ يَقُول سَمِعت أَبَا بكر الْوراق يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر أَحْمد بن سعيد",
+          "person_id": 655,
+          "canonical_name": "أبو بكر أحمد بن سعيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول سَمِعت أَبَا بكر أَحْمد بن سعيد يَقُول سَمِعت أَبَا بكر الْوراق يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن مُزَاحم",
+          "person_id": 1269,
+          "canonical_name": "أحمد بن مزاحم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وسمعته يَقُول سَمِعت أَحْمد بن مُزَاحم يَقُول سَمِعت أَبَا بكر الْوراق يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن مُزَاحم",
+          "person_id": 1269,
+          "canonical_name": "أحمد بن مزاحم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو بكر الِاشْتِغَال بالخلق والتزين لَهُم حجاب عَن الْمِنَّة وَمن لم يعرف النة لم يعرف الخذلان",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد بن مُزَاحم",
+          "person_id": 1269,
+          "canonical_name": "أحمد بن مزاحم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو بكر صَاحب الْعُقَلَاء بالاقتداء والزهاد بِحسن المداراة والحمقى بجميل الصَّبْر",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا عَمْرو البيكندي",
+          "person_id": 1009,
+          "canonical_name": "أبو عمرو البيكندي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن حَامِد",
+          "person_id": 2337,
+          "canonical_name": "محمد بن حامد الترمذي",
+          "has_id": 381,
+          "subj_added": false
+        },
+        {
+          "name": "أبي بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ يَقُول سَمِعت أَبَا عَمْرو البيكندي يَقُول سَمِعت مُحَمَّد بن حَامِد يَقُول قلت لأبي بكر الْوراق",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا بكر الرَّازِيّ",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "غيلَان السَّمرقَنْدِي",
+          "person_id": 2155,
+          "canonical_name": "غيلان السمرقندي",
+          "has_id": 851,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت غيلَان السَّمرقَنْدِي يَقُول سَمِعت أَبَا بكر الْوراق يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن مُحَمَّد أَبَا نصر الزَّاهِد",
+          "person_id": 2438,
+          "canonical_name": "محمد بن محمد أبو نصر الزّاهد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِسْحَاق بن مُحَمَّد الْحَلِيم",
+          "person_id": 353,
+          "canonical_name": "إسحاق بن محمد الحليم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت مُحَمَّد بن مُحَمَّد أَبَا نصر الزَّاهِد يَقُول سَمِعت إِسْحَاق بن مُحَمَّد الْحَلِيم يَقُول كتب أَبُو بكر الْوراق إِلَى صديق لَهُ فَكَانَ فِيمَا كتب",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن مُحَمَّد أَبَا نصر الزَّاهِد",
+          "person_id": 2438,
+          "canonical_name": "محمد بن محمد أبو نصر الزّاهد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِسْحَاق بن مُحَمَّد الْحَلِيم",
+          "person_id": 353,
+          "canonical_name": "إسحاق بن محمد الحليم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو بكر الْأَدَب للعارف كالتوبة للمستأنف",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن مُحَمَّد أَبَا نصر الزَّاهِد",
+          "person_id": 2438,
+          "canonical_name": "محمد بن محمد أبو نصر الزّاهد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إِسْحَاق بن مُحَمَّد الْحَلِيم",
+          "person_id": 353,
+          "canonical_name": "إسحاق بن محمد الحليم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو بكر خضوع الْفَاسِقين أفضل من صولة المطيعين",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن أحيد الْبَلْخِي",
+          "person_id": 665,
+          "canonical_name": "أبو بكر بن أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر الْوراق",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول سَمِعت أَبَا بكر بن أحيد الْبَلْخِي يَقُول سَمِعت أَبَا بكر الْوراق يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر بن أحيد الْبَلْخِي",
+          "person_id": 665,
+          "canonical_name": "أبو بكر بن أحمد البلخي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو بكر النَّاس كلهم فِي أَحْوَال الدُّنْيَا أَرْبَعَة مَرْحُوم ومخدوع ومعاقب ومكره",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وسمعته يَقُول سَمِعت الْحسن بن عُلْوِيَّهُ يَقُول قَالَ أَبُو بكر الْوراق",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو بكر عوام الْخلق هم الَّذين سلمت صُدُورهمْ وَحسنت أَعْمَالهم وطهرت ألسنتهم فَإِذا خلوا من هَذَا فهم الغوغاء لَا الْعَوام",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو بكر إِذا فَسدتْ الْعَامَّة غلبت الْفُسَّاق على أهل الصّلاح وولاة الْجور على وُلَاة الْعدْل وَالْكفَّار على الْمُسلمين",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو بكر الْخَاصَّة هم الَّذين فقهت قُلُوبهم وَحسنت أَخْلَاقهم وَكَانُوا أَئِمَّة يدعونَ النَّاس إِلَى الْخَيْر وَالْعَمَل بِهِ وسالموا السُّلْطَان على الْأَمر بِالْمَعْرُوفِ وَالنَّهْي عَن الْمُنكر وَالْعُلَمَاء على صدق الْخَبَر وَالْعُلَمَاء على ظَاهر الْأُمُور فَإِذا خلوا من ذَلِك فهم المفترون وَإِذا فَسدتْ الْخَاصَّة غلبت الكذبة على الصَّادِقين والكهنة على الموقنين والموسوسون على المخلصين",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو بكر أصل غَلَبَة الْهوى مقارفة الشَّهَوَات فَإِذا غلب الْهوى أظلم الْقلب وَإِذا أظلم الْقلب ضَاقَ الصَّدْر وَإِذا ضَاقَ الصَّدْر سَاءَ الْخلق وَإِذا سَاءَ الْخلق أبغضه الْخلق وَإِذا أبغضه الْخلق أبْغضهُم وَإِذا أبْغضهُم جفاهم وَإِذا جفاهم صَار شَيْطَانا",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو بكر الْحُكَمَاء خلف الْأَنْبِيَاء وَلَيْسَ بعد النُّبُوَّة إِلَّا الْحِكْمَة وَهِي أَحْكَام الْأُمُور وَأول عَلَامَات الْحِكْمَة طول الصمت وَالْكَلَام على قدر الْحَاجة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو بكر احذر صُحْبَة السُّلْطَان إبْقَاء على نَفسك والملوك إبْقَاء على عيشك والأغنياء إبْقَاء على ملكك والسوقة إبْقَاء على خلقك وَالنِّسَاء وَالصبيان إبْقَاء على قَلْبك والفساق والمبتدعين إبْقَاء على دينك والفقراء إبْقَاء على مَالك وَالْعُلَمَاء إبْقَاء على إيمانك وإسلامك والإخوان فِي مخالفتهم إبْقَاء على فضلك ومروءتك",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو بكر الْوراق لِلْمُؤمنِ أَربع عَلَامَات كَلَامه ذكر وصمته تفكر وَنَظره عِبْرَة وَعَمله بر",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو بكر الْخلاف يهيج الْعَدَاوَة والعداوة تستنزل الْبلَاء",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو بكر العَبْد لَا يسْتَحق الْيَقِين حَتَّى يقطع كل سَبَب بَينه وَبَين الْعَرْش إِلَى الثرى حَتَّى يكون الله مُرَاده لَا غَيره ويؤثر الله على كل مَا سواهُ",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو بكر من عشق نَفسه عشقه الْكبر والحسد والذل والمهانة",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو بكر لَا تصْحَب من يمدحك بِخِلَاف مَا أَنْت عَلَيْهِ أَو بِغَيْر مَا فِيك فَإِنَّهُ إِذا غضب عَلَيْك ذمك بِمَا لَيْسَ فِيك",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو بكر ازهد فِي حب الرياسة والعلو فِي النَّاس إِن أَحْبَبْت أَن تذوق شَيْئا من سبل الزاهدين",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
+          "person_id": 449,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": false
+        },
+        {
+          "name": "الْحسن بن عُلْوِيَّهُ",
+          "person_id": 92,
+          "canonical_name": "الحسن بن علوية الدامغاني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبُو بكر الْوراق",
+          "person_id": 713,
+          "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
+          "has_id": 380,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 702,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
+          "has_id": 380,
+          "subj_added": true
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وَقَالَ أَبُو بكر الْيَقِين نور يستضيء بِهِ العَبْد فِي أَحْوَاله فيبلغه إِلَى دَرَجَات دَرَجَات الْمُتَّقِينَ",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أَحْمد بن خضرويه",
+        "relationship_type": "peer",
+        "relationship_phrase": "لَقِي ... وَصَحبه",
+        "full_text": "لَقِي أَحْمد بن خضرويه وَصَحبه",
+        "person_id": 1194,
+        "canonical_name": "أحمد بن خضرويه البلخي",
+        "has_id": 440
+      },
+      {
+        "name": "مُحَمَّد بن سعد بن إِبْرَاهِيم الزَّاهِد",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب",
+        "full_text": "وَصَحب مُحَمَّد بن سعد بن إِبْرَاهِيم الزَّاهِد",
+        "person_id": 2355,
+        "canonical_name": "محمد بن سعد بن إبراهيم الزّاهد",
+        "has_id": NaN
+      },
+      {
+        "name": "مُحَمّد بن عمر بن خشنام الْبَلْخِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صَحب",
+        "full_text": "وَصَحب مُحَمّد بن عمر بن خشنام الْبَلْخِي",
+        "person_id": 2423,
+        "canonical_name": "محمد بن عمر بن خشنام البلخي",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "مُحَمَّد بن مُحَمَّد بن حَاتِم",
+      "relationship_type": "narrator",
+      "full_text": "حَدثنَا مُحَمَّد بن مُحَمَّد بن حَاتِم حَدثنَا أَبُو بكر مُحَمَّد بن عمر الْوراق الْبَلْخِي",
+      "person_id": 2441,
+      "canonical_name": "محمد بن محمد بن حاتم",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا ذَر التِّرْمِذِيّ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا ذَر التِّرْمِذِيّ يَقُول سَمِعت أَبَا بكر الْوراق يَقُول",
+      "person_id": 778,
+      "canonical_name": "أبو ذر الترمذي",
+      "has_id": 116
+    },
+    {
+      "name": "أَبَا بكر أَحْمد بن سعيد",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر أَحْمد بن سعيد يَقُول سَمِعت أَبَا بكر الْوراق يَقُول",
+      "person_id": 655,
+      "canonical_name": "أبو بكر أحمد بن سعيد",
+      "has_id": NaN
+    },
+    {
+      "name": "أَحْمد بن مُزَاحم",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَحْمد بن مُزَاحم يَقُول سَمِعت أَبَا بكر الْوراق يَقُول",
+      "person_id": 1269,
+      "canonical_name": "أحمد بن مزاحم",
+      "has_id": NaN
+    },
+    {
+      "name": "مُحَمَّد بن حَامِد",
+      "relationship_type": "questioner",
+      "full_text": "قلت لأبي بكر الْوراق عَلمنِي شَيْئا يقربنِي إِلَى الله تَعَالَى ويقربني من النَّاس",
+      "person_id": 2337,
+      "canonical_name": "محمد بن حامد الترمذي",
+      "has_id": 381
+    },
+    {
+      "name": "غيلَان السَّمرقَنْدِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت غيلَان السَّمرقَنْدِي يَقُول سَمِعت أَبَا بكر الْوراق يَقُول",
+      "person_id": 2155,
+      "canonical_name": "غيلان السمرقندي",
+      "has_id": 851
+    },
+    {
+      "name": "إِسْحَاق بن مُحَمَّد الْحَلِيم",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت إِسْحَاق بن مُحَمَّد الْحَلِيم يَقُول كتب أَبُو بكر الْوراق",
+      "person_id": 353,
+      "canonical_name": "إسحاق بن محمد الحليم",
+      "has_id": NaN
+    },
+    {
+      "name": "أَبَا بكر بن أحيد الْبَلْخِي",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا بكر بن أحيد الْبَلْخِي يَقُول سَمِعت أَبَا بكر الْوراق يَقُول",
+      "person_id": 665,
+      "canonical_name": "أبو بكر بن أحمد البلخي",
+      "has_id": NaN
+    },
+    {
+      "name": "الْحسن بن عُلْوِيَّهُ",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت الْحسن بن عُلْوِيَّهُ يَقُول قَالَ أَبُو بكر الْوراق",
+      "person_id": 92,
+      "canonical_name": "الحسن بن علوية الدامغاني",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "questioner",
+      "full_text": "دخل رجل على أبي بكر فَقَالَ إِنِّي أَخَاف من فلَان",
+      "person_id": 1530,
+      "canonical_name": "رجل",
+      "has_id": NaN
+    }
+  ]
+}

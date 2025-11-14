@@ -1,0 +1,218 @@
+{
+  "bio_id": "42",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "328",
+    "full_text": "و آنجا برفته در سنه ثمان و عشرین و ثلثمائه",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "مکه",
+      "context": "lived",
+      "full_text": "بمکه بوده مجاور"
+    },
+    {
+      "place": "مکه",
+      "context": "died",
+      "full_text": "و آنجا برفته"
+    },
+    {
+      "place": "بغداد",
+      "context": "visited",
+      "full_text": "در بغداد میرفت"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "جعفر بن احمد",
+          "person_id": 1437,
+          "canonical_name": "حجاج",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال جعفر بن احمدکانا المزینان ابنا الخالة.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "المزین الصغیر",
+          "person_id": 234,
+          "canonical_name": "المسيب بن رافع",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال المزین الصغیر:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوعبداللّه باکو٭",
+          "person_id": 15,
+          "canonical_name": "ابن باكوية الشيرازي",
+          "has_id": 150,
+          "subj_added": false
+        },
+        {
+          "name": "محمد نجار",
+          "person_id": 2268,
+          "canonical_name": "محمد بن الهيثم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوالحسن مزین",
+          "person_id": 420,
+          "canonical_name": "أبو الحسن بن زرعان",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی بوعبداللّه باکو٭ گفت، که محمد نجار گفت: کی بوالحسن مزین گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوالحسن مزین",
+          "person_id": 420,
+          "canonical_name": "أبو الحسن بن زرعان",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "بوالحسن مزینگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: کی بوالحسن مزین برسید فرا شیر ناگاه، گفت: ثم اماته فاقبره",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که مردی وقتی فراشیری رسید مرده، گفت: آلهی! ویرا زندهگردان",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ عمو",
+          "person_id": 1726,
+          "canonical_name": "عبد الأعلى بن حمّاد",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی شیخ عمو حکایت کرد",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: پندارم که این حکایت کسی دیگر را بوده، عمو مزین را گفت در آمیخته بود، واللهّ اعلم.",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "بعقوب اقطع",
+        "relationship_type": "student_of",
+        "relationship_phrase": "حکایت کند",
+        "full_text": "ازو گویندکی از با بعقوب اقطع حکایت کند",
+        "person_id": 1385,
+        "canonical_name": "جدي",
+        "has_id": NaN
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "جعفر بن احمد",
+      "relationship_type": "narrator",
+      "full_text": "قال جعفر بن احمدکانا المزینان ابنا الخالة.",
+      "person_id": 1437,
+      "canonical_name": "حجاج",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت:",
+      "person_id": 1725,
+      "canonical_name": "عبد الأعلى بن أبي المساور",
+      "has_id": NaN
+    },
+    {
+      "name": "بوعبداللّه باکو٭",
+      "relationship_type": "narrator",
+      "full_text": "بوعبداللّه باکو٭ گفت",
+      "person_id": 15,
+      "canonical_name": "ابن باكوية الشيرازي",
+      "has_id": 150
+    },
+    {
+      "name": "محمد نجار",
+      "relationship_type": "direct_narrator",
+      "full_text": "محمد نجار گفت",
+      "person_id": 2268,
+      "canonical_name": "محمد بن الهيثم",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ عمو",
+      "relationship_type": "narrator",
+      "full_text": "شیخ عمو حکایت کرد",
+      "person_id": 1726,
+      "canonical_name": "عبد الأعلى بن حمّاد",
+      "has_id": NaN
+    },
+    {
+      "name": "مردی",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "supplicant",
+      "full_text": "مردی وقتی فراشیری رسید مرده، گفت: آلهی! ویرا زندهگردان",
+      "person_id": 1573,
+      "canonical_name": "زيد بن أخزم",
+      "has_id": NaN
+    },
+    {
+      "name": "کودک کهینه",
+      "relationship_type": "interlocutor",
+      "full_text": "آن کودک کهینه روباپس کرد وگفت: ایها الشیخ! یعلم ما فی انفسکم فاحذروه.",
+      "person_id": 2246,
+      "canonical_name": "محمد بن السماك",
+      "has_id": NaN
+    },
+    {
+      "name": "کودک کهین",
+      "relationship_type": "interlocutor",
+      "full_text": "باز همان کودک کهین روی باز پس کرد و میرفت گفت: ایها الشیخ! یقبل التوبة عن عباده.",
+      "person_id": 2245,
+      "canonical_name": "محمد بن الربيع",
+      "has_id": NaN
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "bio_id": "343",
+  "source": "ansari",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "سهرورد",
+      "context": "nisba",
+      "full_text": "سهروردی"
+    },
+    {
+      "place": "مکه",
+      "context": "visited",
+      "full_text": "بمکه بوده"
+    },
+    {
+      "place": "منا",
+      "context": "visited",
+      "full_text": "کی بمنا بودیم روز عید اضحی"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "بوالحسن بشری٭",
+          "person_id": 430,
+          "canonical_name": "أبو الحسن علي بن بشريى السجزي",
+          "has_id": 298,
+          "subj_added": false
+        },
+        {
+          "name": "بونصر ترشیزی",
+          "person_id": 1104,
+          "canonical_name": "أبو نصر ترشيزي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "شیخ بوالعباس سهروردی",
+          "person_id": 490,
+          "canonical_name": "أبو العباس السهروردي",
+          "has_id": 343,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "گفت: کی بوالحسن بشری٭ مرا گفت، که بونصر ترشیزی گفت که شیخ بوالعباس سهروردیگفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "و من طبقة الرابعه شیخ الاسلامگفت که نام:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "شیخ سیروانی",
+        "relationship_type": "peer",
+        "relationship_phrase": "با",
+        "full_text": "بمکه بوده، با مشایخ وقت سیروانی٭ و جز ازو.",
+        "person_id": 165,
+        "canonical_name": "السيرواني",
+        "has_id": NaN
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "بوالحسن بشری٭",
+      "relationship_type": "narrator",
+      "full_text": "بوالحسن بشری٭ مرا گفت",
+      "person_id": 430,
+      "canonical_name": "أبو الحسن علي بن بشريى السجزي",
+      "has_id": 298
+    },
+    {
+      "name": "بونصر ترشیزی",
+      "relationship_type": "direct_narrator",
+      "full_text": "بونصر ترشیزی گفت",
+      "person_id": 1104,
+      "canonical_name": "أبو نصر ترشيزي",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "و من طبقة الرابعه شیخ الاسلامگفت که نام:",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ سیروانی",
+      "relationship_type": "interlocutor",
+      "full_text": "در سلام شیخ سیروانی شدند خواستند: کی ازان چیزی گویند وی گفت: روزگاری من بر ریگ میخفتم، و دست بالین میکردم و نشان سنگ بود بر پهلوی من، بسماع مینشستم.",
+      "person_id": 165,
+      "canonical_name": "السيرواني",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ بوالحسن سرکی٭",
+      "relationship_type": "interlocutor",
+      "full_text": "شیخ بوالحسن سرکی٭ حاضر بود، وی گفت: مرا با خدای عهد است ار او برسماع منکر شد، من هرگز بسماع ننشینم.",
+      "person_id": 422,
+      "canonical_name": "أبو الحسن السركي",
+      "has_id": 45
+    },
+    {
+      "name": "قوم",
+      "relationship_type": "questioner",
+      "full_text": "قوم گفتند آن چه بود، که وی کرد؟ برسماع منکر شد چه افتاد؟",
+      "person_id": 2185,
+      "canonical_name": "قوم",
+      "has_id": NaN
+    }
+  ]
+}

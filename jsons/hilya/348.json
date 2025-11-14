@@ -1,0 +1,60 @@
+{
+  "bio_id": "348",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "أبو جعفر الرازي",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زكريا بن دلويه",
+          "person_id": 1561,
+          "canonical_name": "زكريا بن دلويه",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن الحسين ثنا أبو جعفر الرازي قال سمعت زكريا بن دلويه يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "زكريا بن دلويه",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت زكريا بن دلويه يقول",
+      "person_id": 1561,
+      "canonical_name": "زكريا بن دلويه",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو العباس بن مسروق الطوسي",
+      "relationship_type": "interlocutor",
+      "context": "visitor",
+      "full_text": "دخل أبو العباس بن مسروق الطوسي على أبى الفضل الهاشمى",
+      "person_id": 505,
+      "canonical_name": "أبو العباس بن مسروق الطوسي",
+      "has_id": 451
+    }
+  ]
+}

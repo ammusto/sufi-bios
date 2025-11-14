@@ -1,0 +1,322 @@
+{
+  "bio_id": "678",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "350",
+    "full_text": "در سنه و خمسین و ثلمائه از دنیا برفت.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "ری",
+      "context": "nisba",
+      "full_text": "الرازی"
+    },
+    {
+      "place": "نشاپور",
+      "context": "lived",
+      "full_text": "بنشاپور بزرگ شده بود"
+    },
+    {
+      "place": "نشاپور",
+      "context": "lived",
+      "full_text": "از مهینان نشاپور بود در وقت خود"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "وی",
+          "person_id": 2621,
+          "canonical_name": "وي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وی گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "وی",
+          "person_id": 2621,
+          "canonical_name": "وي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وی گفته:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "وی",
+          "person_id": 2621,
+          "canonical_name": "وي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وگفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "وی",
+          "person_id": 2621,
+          "canonical_name": "وي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و هم وی کفته:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوسعد مالینی",
+          "person_id": 796,
+          "canonical_name": "أبو سعد الماليني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بوالحسن سیروانی",
+          "person_id": 402,
+          "canonical_name": "أبو الحسن السيرواني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل «عبداللّه» تستری٭",
+          "person_id": 1639,
+          "canonical_name": "سهل بن عبد الله التستري",
+          "has_id": 605,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ بوسعد مالینی آورده در «اربعین مشایخ:» که بوالحسن سیروانی گوید: که سهل «عبداللّه» تستری٭ گوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سیروانی مهین",
+          "person_id": 402,
+          "canonical_name": "أبو الحسن السيرواني",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سیروانی مهین گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سیروانی مهین",
+          "person_id": 402,
+          "canonical_name": "أبو الحسن السيرواني",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "و قال للخواص",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "قرافی",
+          "person_id": 406,
+          "canonical_name": "أبو الحسن القرا في",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی قرافی گوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "جنید",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "با جنید صحبت کرده بود",
+        "person_id": 532,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
+      },
+      {
+        "name": "عثمان٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "و با عثمان٭",
+        "person_id": 1947,
+        "canonical_name": "عثمان",
+        "has_id": NaN
+      },
+      {
+        "name": "محمد ابن افضل البلخی رویم",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "و محمد ابن افضل البلخی رویم",
+        "person_id": 2222,
+        "canonical_name": "محمد بن افضل البلخي",
+        "has_id": NaN
+      },
+      {
+        "name": "سمنون",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "و سمنون",
+        "person_id": 1634,
+        "canonical_name": "سمنون بن حمزة المحب",
+        "has_id": 603
+      },
+      {
+        "name": "بوعلی گوزگانی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "و بوعلی گوزگانی",
+        "person_id": 966,
+        "canonical_name": "أبو علي الگوزگاني",
+        "has_id": NaN
+      },
+      {
+        "name": "محمد حامد٭",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "و محمد حامد٭",
+        "person_id": 2337,
+        "canonical_name": "محمد بن حامد الترمذي",
+        "has_id": 381
+      }
+    ],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ بوسعد مالینی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ بوسعد مالینی آورده در «اربعین مشایخ:»",
+      "person_id": 796,
+      "canonical_name": "أبو سعد الماليني",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ بوالحسن سیروانی مهین",
+      "relationship_type": "narrator",
+      "full_text": "بوالحسن سیروانی گوید",
+      "person_id": 402,
+      "canonical_name": "أبو الحسن السيرواني",
+      "has_id": NaN
+    },
+    {
+      "name": "سهل «عبداللّه» تستری٭",
+      "relationship_type": "narrator",
+      "full_text": "سهل «عبداللّه» تستری٭ گوید",
+      "person_id": 1639,
+      "canonical_name": "سهل بن عبد الله التستري",
+      "has_id": 605
+    },
+    {
+      "name": "قرافی",
+      "relationship_type": "narrator",
+      "full_text": "قرافی گوید",
+      "person_id": 406,
+      "canonical_name": "أبو الحسن القرا في",
+      "has_id": NaN
+    },
+    {
+      "name": "الخواص",
+      "relationship_type": "interlocutor",
+      "full_text": "و قال للخواص اوصنی فقال لی الزم الفقراء فان الخیر فهیم",
+      "person_id": 149,
+      "canonical_name": "الخواص",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ بوسلیمان نیلی",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "شیخ بوسلیمان نیلی بقرآنی آمده بوسه داد بر سر قرافی",
+      "person_id": 818,
+      "canonical_name": "أبو سليمان النيلي",
+      "has_id": 127
+    },
+    {
+      "name": "بوبکر دقی٭",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "بوبکر دقی٭ بقرافی شد",
+      "person_id": 621,
+      "canonical_name": "أبو بكر الدقي",
+      "has_id": 382
+    }
+  ]
+}

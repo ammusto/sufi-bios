@@ -1,0 +1,132 @@
+{
+  "bio_id": "690",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "جرجان",
+      "context": "nisba",
+      "full_text": "الجرجاني"
+    },
+    {
+      "place": "عبادان",
+      "context": "visited",
+      "full_text": "فلما دخلنا عبادان"
+    },
+    {
+      "place": "بغداد",
+      "context": "mentioned",
+      "full_text": "خرجت من بغداد"
+    },
+    {
+      "place": "لكام",
+      "context": "mentioned",
+      "full_text": "ارحل نحو لكام"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "إبراهيم بن محمد بن يحيى النيسابوري",
+          "person_id": 327,
+          "canonical_name": "إبراهيم بن محمد بن يحيى النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبا حامد أحمد بن محمد بن حمدان النيسابوري",
+          "person_id": 600,
+          "canonical_name": "أبو أحمد محمد بن أحمد بن حمدان الرازي النيسابوري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسماعيل بن عبد الله الشامي",
+          "person_id": 364,
+          "canonical_name": "إسماعيل بن عبد الله الشامي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سريا السقطي",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا إبراهيم بن محمد بن يحيى النيسابوري - ببغداد - قال سمعت أبا حامد أحمد بن محمد بن حمدان النيسابوري يقول سمعت إسماعيل بن عبد الله الشامي يقول سمعت سريا السقطي يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "السرى",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحكى جعفر بن نصير عن السرى بزيادة ألفاظ.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1404,
+          "canonical_name": "جعفر بن محمد",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "السري السقطي",
+          "person_id": 161,
+          "canonical_name": "السري السقطي",
+          "has_id": 236,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر جعفر بن محمد - في كتابه حاكيا عن السري السقطي - قال",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "السري السقطي",
+        "relationship_type": "peer",
+        "relationship_phrase": "فصحبني",
+        "full_text": "فصحبني علي الجرجاني في الزورق",
+        "person_id": 161,
+        "canonical_name": "السري السقطي",
+        "has_id": 236
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "سريا السقطي",
+      "relationship_type": "narrator",
+      "context": "interlocutor",
+      "full_text": "سمعت سريا السقطي يقول",
+      "person_id": 161,
+      "canonical_name": "السري السقطي",
+      "has_id": 236
+    }
+  ]
+}

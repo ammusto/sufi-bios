@@ -1,0 +1,105 @@
+{
+  "bio_id": "276",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "سمرقند",
+      "context": "nisba",
+      "full_text": "السمرقندي"
+    },
+    {
+      "place": "بغداد",
+      "context": "lived",
+      "full_text": "سكن بغداد"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "سليمان بن أحمد",
+          "person_id": 1626,
+          "canonical_name": "سليمان بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن على البر بهارى",
+          "person_id": 1221,
+          "canonical_name": "أحمد بن على البر بهارى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم بن شماس",
+          "person_id": 313,
+          "canonical_name": "إبراهيم بن شماس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "إسماعيل بن عياش",
+          "person_id": 366,
+          "canonical_name": "إسماعيل بن عياش",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الرحمن بن زياد بن أنعم",
+          "person_id": 1744,
+          "canonical_name": "عبد الرحمن بن زياد بن أنعم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سليمان بن عامر",
+          "person_id": 1631,
+          "canonical_name": "سليمان بن عامر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مسلم بن يسار",
+          "person_id": 2504,
+          "canonical_name": "مسلم بن يسار",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي هريرة",
+          "person_id": 1120,
+          "canonical_name": "أبو هريرة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "النبي ﷺ",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا سليمان بن أحمد ثنا أحمد بن على البر بهارى ثنا إبراهيم بن شماس ثنا إسماعيل بن عياش عن عبد الرحمن بن زياد بن أنعم عن سليمان بن عامر عن مسلم بن يسار عن أبي هريرة عن النبي ﷺ",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "أحمد بن على البر بهارى",
+      "relationship_type": "narrator",
+      "context": "direct_narrator",
+      "full_text": "ثنا أحمد بن على البر بهارى ثنا إبراهيم بن شماس",
+      "person_id": 1221,
+      "canonical_name": "أحمد بن على البر بهارى",
+      "has_id": NaN
+    }
+  ]
+}

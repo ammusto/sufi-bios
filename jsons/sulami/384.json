@@ -1,0 +1,178 @@
+{
+  "bio_id": "384",
+  "source": "sulami",
+  "death_date": {
+    "year_hijri": "<360",
+    "full_text": "مَاتَ قبل السِّتين وثلاثمائة",
+    "certainty": "approximate"
+  },
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد بن جَعْفَر الشبهي",
+          "person_id": 629,
+          "canonical_name": "أبو بكر محمد بن أحمد بن جعفر الشبهي",
+          "has_id": 384,
+          "subj_added": false
+        },
+        {
+          "name": "جَعْفَر بن أبي نصر الْحَافِظ",
+          "person_id": 1396,
+          "canonical_name": "جعفر بن أبي نصر الحافظ",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الْوَارِث بن عبد الصَّمد",
+          "person_id": 1917,
+          "canonical_name": "عبد الوارث بن عبد الصمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 922,
+          "canonical_name": "أبو عبد الوارث عبد الصمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّد بن ثَابت الْبنانِيّ",
+          "person_id": 2326,
+          "canonical_name": "محمد بن ثابت البناني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ثَابت الْبنانِيّ",
+          "person_id": 2326,
+          "canonical_name": "محمد بن ثابت البناني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أنس ﵁",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنَا مُحَمَّد بن أَحْمد بن جَعْفَر الشبهي قَالَ حَدثنَا جَعْفَر بن أبي نصر الْحَافِظ قَالَ حَدثنَا عبد الْوَارِث بن عبد الصَّمد قَالَ حَدثنَا أبي قَالَ حَدثنَا مُحَمَّد بن ثَابت الْبنانِيّ عَن ثَابت الْبنانِيّ عَن أنس ﵁",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "مُحَمَّد بن أَحْمد بن جَعْفَر الشبهي",
+          "person_id": 629,
+          "canonical_name": "أبو بكر محمد بن أحمد بن جعفر الشبهي",
+          "has_id": 384,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سَمِعت مُحَمَّد بن أَحْمد بن جَعْفَر الشبهي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن الخباز",
+          "person_id": 395,
+          "canonical_name": "أبو الحسن الخباز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "مُحَمَّدًا الشبهي",
+          "person_id": 629,
+          "canonical_name": "أبو بكر محمد بن أحمد بن جعفر الشبهي",
+          "has_id": 384,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سَمِعت أَبَا الْحسن الخباز يَقُول سَمِعت مُحَمَّدًا الشبهي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن",
+          "person_id": 395,
+          "canonical_name": "أبو الحسن الخباز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر الشبهي",
+          "person_id": 629,
+          "canonical_name": "أبو بكر محمد بن أحمد بن جعفر الشبهي",
+          "has_id": 384,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وَسمعت أَبَا الْحسن يَقُول سَمِعت أَبَا بكر الشبهي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْحسن",
+          "person_id": 395,
+          "canonical_name": "أبو الحسن الخباز",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَبَا بكر الشبهي",
+          "person_id": 629,
+          "canonical_name": "أبو بكر محمد بن أحمد بن جعفر الشبهي",
+          "has_id": 384,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "أَبَا عُثْمَان الْحِيرِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَا عُثْمَان الْحِيرِي",
+        "person_id": 932,
+        "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+        "has_id": 419
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "أَبَا الْحسن الخباز",
+      "relationship_type": "narrator",
+      "full_text": "سَمِعت أَبَا الْحسن الخباز يَقُول",
+      "person_id": 395,
+      "canonical_name": "أبو الحسن الخباز",
+      "has_id": NaN
+    },
+    {
+      "name": "بعض أَصْحَابه",
+      "relationship_type": "interlocutor",
+      "full_text": "وَدخل عَلَيْهِ بعض أَصْحَابه فَقَالَ أَنا إِذا مشيت فِي السُّوق يَقُول النَّاس انْظُرُوا إِلَى خشوع هَذَا الْمُنَافِق",
+      "person_id": 1339,
+      "canonical_name": "بعض أصحابه",
+      "has_id": NaN
+    }
+  ]
+}

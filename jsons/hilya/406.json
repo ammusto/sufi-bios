@@ -1,0 +1,75 @@
+{
+  "bio_id": "406",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "براثى",
+      "context": "nisba",
+      "full_text": "البراثي"
+    },
+    {
+      "place": "براثى",
+      "context": "lived",
+      "full_text": "أول من سكن براثى في كوخ يتعبد فيه"
+    },
+    {
+      "place": "بغداد",
+      "context": "mentioned",
+      "full_text": "من متقدمي شيوخ بغداد"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2273,
+          "canonical_name": "محمد بن إبراهيم بن علي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبر جعفر بن محمد بن نصير - في كتابه - وحدثني عنه محمد بن إبراهيم قال سمعت الجنيد بن محمد",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "الجنيد بن محمد",
+      "relationship_type": "narrator",
+      "full_text": "قال سمعت الجنيد بن محمد يقول",
+      "person_id": 532,
+      "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+      "has_id": 228
+    },
+    {
+      "name": "جارية من بنات الكبار من أبناء الدنيا",
+      "relationship_type": "interlocutor",
+      "full_text": "فجاءت إليه وقالت: أريد أن أكون لك خادما",
+      "person_id": 1377,
+      "canonical_name": "جارية من بنات الكبار من أبناء الدنيا",
+      "has_id": NaN
+    }
+  ]
+}

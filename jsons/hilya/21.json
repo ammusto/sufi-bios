@@ -1,0 +1,619 @@
+{
+  "bio_id": "21",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "الرملة",
+      "context": "nisba",
+      "full_text": "الرملى"
+    },
+    {
+      "place": "بغداد",
+      "context": "visited",
+      "full_text": "انتهيت ببغداد يوما إلى الجسر"
+    },
+    {
+      "place": "مكة",
+      "context": "visited",
+      "full_text": "فلما صرت بمكة"
+    },
+    {
+      "place": "الشام",
+      "context": "visited",
+      "full_text": "خرجت من الشام على طريق المفازة"
+    },
+    {
+      "place": "بيت المقدس",
+      "context": "visited",
+      "full_text": "إذ أشرفنا على بيوتات بيت المقدس"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "المرتعش",
+          "person_id": 1043,
+          "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
+          "has_id": 251,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 749,
+          "canonical_name": "أبو جعفر محمد بن يعقوب الفرجي",
+          "has_id": 21,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "كتب إلي جعفر بن محمد بن نصير فيما أذن لي قال سمعت المرتعش يقول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو جعفر بن الفرجي",
+          "person_id": 749,
+          "canonical_name": "أبو جعفر محمد بن يعقوب الفرجي",
+          "has_id": 21,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "قال أبو جعفر بن الفرجي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو جعفر بن الفرجي",
+          "person_id": 749,
+          "canonical_name": "أبو جعفر محمد بن يعقوب الفرجي",
+          "has_id": 21,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد المنعم بن عمر بن أبي سعيد بن الأعرابي",
+          "person_id": 1896,
+          "canonical_name": "عبد المنعم بن عمر بن أبي سعيد بن الأعرابي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو جعفر بن الفرجي",
+          "person_id": 749,
+          "canonical_name": "أبو جعفر محمد بن يعقوب الفرجي",
+          "has_id": 21,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحكى عبد المنعم بن عمر بن أبي سعيد بن الأعرابي أنه قيل لأبي جعفر بن الفرجي إنك تنكر الزعقة والصيحة فقال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد المنعم بن عمر بن أبي سعيد بن الأعرابي",
+          "person_id": 1896,
+          "canonical_name": "عبد المنعم بن عمر بن أبي سعيد بن الأعرابي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو جعفر بن الفرجي",
+          "person_id": 749,
+          "canonical_name": "أبو جعفر محمد بن يعقوب الفرجي",
+          "has_id": 21,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد المنعم بن عمر بن أبي سعيد بن الأعرابي",
+          "person_id": 1896,
+          "canonical_name": "عبد المنعم بن عمر بن أبي سعيد بن الأعرابي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو جعفر بن الفرجي",
+          "person_id": 749,
+          "canonical_name": "أبو جعفر محمد بن يعقوب الفرجي",
+          "has_id": 21,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو سعيد الأعرابي",
+          "person_id": 807,
+          "canonical_name": "أبو سعيد بن الأعرابي",
+          "has_id": 400,
+          "subj_added": false
+        },
+        {
+          "name": "يحيى بن أحمد",
+          "person_id": 2634,
+          "canonical_name": "يحيى بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن المرزبان الصيقل",
+          "has_id": NaN,
+          "person_id": 2,
+          "canonical_name": "ابن المرزبان الصيقل",
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 749,
+          "canonical_name": "أبو جعفر محمد بن يعقوب الفرجي",
+          "has_id": 21,
+          "subj_added": true
+        }
+      ],
+      "type": "explicit",
+      "full_text": "قال أبو سعيد بن الأعرابي أخبرني عمي يحيى بن أحمد قال أخبرني ابن المرزبان الصيقل قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبي جعفر محمد بن الفرجي",
+          "person_id": 749,
+          "canonical_name": "أبو جعفر محمد بن يعقوب الفرجي",
+          "has_id": 21,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وروي عن أبي جعفر محمد بن الفرجي. قال",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "سليمان بن أحمد",
+          "person_id": 1626,
+          "canonical_name": "سليمان بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن يعقوب بن الفرجي الرملى",
+          "person_id": 749,
+          "canonical_name": "أبو جعفر محمد بن يعقوب الفرجي",
+          "has_id": 21,
+          "subj_added": false
+        },
+        {
+          "name": "إبراهيم ابن المنذر المجذمي",
+          "person_id": 294,
+          "canonical_name": "إبراهيم بن المنذر المجذمي",
+          "has_id": 272,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن وهب",
+          "person_id": 1887,
+          "canonical_name": "عبد الله بن وهب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "قرة بن عبد الرحمن",
+          "person_id": 2179,
+          "canonical_name": "قرة بن عبد الرحمن",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يزيد بن أبي حبيب",
+          "person_id": 2657,
+          "canonical_name": "يزيد بن أبي حبيب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الزهري",
+          "person_id": 157,
+          "canonical_name": "الزهري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عروة بن الزبير",
+          "person_id": 1958,
+          "canonical_name": "عروة بن الزبير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي حميد الساعدي",
+          "person_id": 769,
+          "canonical_name": "أبو حميد الساعدي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا سليمان بن أحمد ثنا محمد بن يعقوب بن الفرجي الرملى ثنا إبراهيم ابن المنذر المجذمي ثنا عبد الله بن وهب ثنا قرة بن عبد الرحمن عن يزيد بن أبي حبيب عن الزهري عن عروة بن الزبير عن أبي حميد الساعدي",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو عبد الله محمد بن أحمد بن إبراهيم",
+          "person_id": 911,
+          "canonical_name": "أبو عبد الله محمد بن أحمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن أحمد بن شبويه",
+          "person_id": 2310,
+          "canonical_name": "محمد بن أحمد بن شبويه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو عمرو أحمد بن محمد بن إبراهيم بن حكيم",
+          "person_id": 1016,
+          "canonical_name": "أبو عمرو أحمد بن محمد بن إبراهيم بن حكيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن يعقوب الفرجي",
+          "person_id": 749,
+          "canonical_name": "أبو جعفر محمد بن يعقوب الفرجي",
+          "has_id": 21,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن عبد الملك بن قريب الاحمر",
+          "person_id": 2391,
+          "canonical_name": "محمد بن عبد الملك بن قريب الاحمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي",
+          "person_id": 1066,
+          "canonical_name": "أبو محمد عبد الملك بن قريب الاحمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو معشر",
+          "person_id": 1081,
+          "canonical_name": "أبو معشر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سعد المقبري",
+          "person_id": 1594,
+          "canonical_name": "سعيد بن أبي سعيد المقبري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي هريرة",
+          "person_id": 1120,
+          "canonical_name": "أبو هريرة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "النبي ﷺ",
+          "person_id": 246,
+          "canonical_name": "النبي",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا أبو عبد الله محمد بن أحمد بن إبراهيم ومحمد بن أحمد بن شبويه قالا: ثنا أبو عمرو أحمد بن محمد بن إبراهيم بن حكيم ثنا محمد بن يعقوب الفرجي ثنا محمد بن عبد الملك بن قريب الاحمر قال حدثني أبي ثنا أبو معشر عن سعد المقبري عن أبي هريرة عن النبي ﷺ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أبو مسعود محمد بن إبراهيم بن عيسى المقدسي",
+          "person_id": 1074,
+          "canonical_name": "أبو مسعود محمد بن إبراهيم بن عيسى المقدسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن يعقوب الفرجي",
+          "person_id": 749,
+          "canonical_name": "أبو جعفر محمد بن يعقوب الفرجي",
+          "has_id": 21,
+          "subj_added": false
+        },
+        {
+          "name": "خالد بن يزيد",
+          "person_id": 1492,
+          "canonical_name": "خالد بن يزيد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو جعفر الرازي",
+          "person_id": 748,
+          "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الربيع بن أنس",
+          "person_id": 150,
+          "canonical_name": "الربيع بن أنس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أنس بن مالك",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "أخبرنا أبو مسعود محمد بن إبراهيم بن عيسى المقدسي في كتابه ثنا محمد بن يعقوب الفرجي ثنا خالد بن يزيد ثنا أبو جعفر الرازي عن الربيع بن أنس عن أنس بن مالك",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد المنعم بن عمر",
+          "person_id": 1895,
+          "canonical_name": "عبد المنعم بن عمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو سعيد الأعرابي",
+          "person_id": 807,
+          "canonical_name": "أبو سعيد بن الأعرابي",
+          "has_id": 400,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن يعقوب الفرجي",
+          "person_id": 749,
+          "canonical_name": "أبو جعفر محمد بن يعقوب الفرجي",
+          "has_id": 21,
+          "subj_added": false
+        },
+        {
+          "name": "علي بن المديني",
+          "person_id": 2007,
+          "canonical_name": "علي بن المديني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "المعتمر بن سليمان",
+          "person_id": 239,
+          "canonical_name": "المعتمر بن سليمان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سفيان الثوري",
+          "person_id": 1607,
+          "canonical_name": "سفيان الثوري",
+          "has_id": 598,
+          "subj_added": false
+        },
+        {
+          "name": "أبي سلمة",
+          "person_id": 814,
+          "canonical_name": "أبو سلمة",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الربيع بن أنس",
+          "person_id": 150,
+          "canonical_name": "الربيع بن أنس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي العالية",
+          "person_id": 484,
+          "canonical_name": "أبو العالية",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبي بن كعب",
+          "person_id": 719,
+          "canonical_name": "أبو بن كعب",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد المنعم بن عمر ثنا أبو سعيد الأعرابي ثنا محمد بن يعقوب الفرجي ثنا علي بن المديني ثنا المعتمر بن سليمان عن سفيان الثوري عن أبي سلمة عن الربيع بن أنس عن أبي العالية عن أبي بن كعب",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عمرو بن جابر",
+          "person_id": 1233,
+          "canonical_name": "أحمد بن عمرو بن جابر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن يعقوب الفرجي",
+          "person_id": 749,
+          "canonical_name": "أبو جعفر محمد بن يعقوب الفرجي",
+          "has_id": 21,
+          "subj_added": false
+        },
+        {
+          "name": "أحمد بن عيسى أبو طاهر",
+          "person_id": 1235,
+          "canonical_name": "أحمد بن عيسى أبو طاهر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "ابن أبي فديك",
+          "has_id": NaN,
+          "person_id": 0,
+          "canonical_name": "ابن أبي فديك",
+          "subj_added": false
+        },
+        {
+          "name": "ابن أبي ذئب",
+          "has_id": NaN,
+          "person_id": 1,
+          "canonical_name": "ابن أبي ذئب",
+          "subj_added": false
+        },
+        {
+          "name": "الزهري",
+          "person_id": 157,
+          "canonical_name": "الزهري",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أنس",
+          "person_id": 1310,
+          "canonical_name": "أنس بن مالك",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا محمد بن إبراهيم ثنا أحمد بن عمرو بن جابر ثنا محمد بن يعقوب الفرجي ثنا أحمد بن عيسى أبو طاهر ثنا ابن أبي فديك ثنا ابن أبي ذئب عن الزهري عن أنس",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "الحارث بن أسد المحاسبي",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب الحارث بن أسد المحاسبي وطبقته",
+        "person_id": 69,
+        "canonical_name": "الحارث بن أسد المحاسبي",
+        "has_id": 229
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "سليمان بن أحمد",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا سليمان بن أحمد ثنا محمد بن يعقوب بن الفرجي الرملى",
+      "person_id": 1626,
+      "canonical_name": "سليمان بن أحمد",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو عمرو أحمد بن محمد بن إبراهيم بن حكيم",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أبو عمرو أحمد بن محمد بن إبراهيم بن حكيم ثنا محمد بن يعقوب الفرجي",
+      "person_id": 1016,
+      "canonical_name": "أبو عمرو أحمد بن محمد بن إبراهيم بن حكيم",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو مسعود محمد بن إبراهيم بن عيسى المقدسي",
+      "relationship_type": "narrator",
+      "full_text": "أخبرنا أبو مسعود محمد بن إبراهيم بن عيسى المقدسي في كتابه ثنا محمد بن يعقوب الفرجي",
+      "person_id": 1074,
+      "canonical_name": "أبو مسعود محمد بن إبراهيم بن عيسى المقدسي",
+      "has_id": NaN
+    },
+    {
+      "name": "أبو سعيد الأعرابي",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أبو سعيد الأعرابي ثنا محمد بن يعقوب الفرجي",
+      "person_id": 807,
+      "canonical_name": "أبو سعيد بن الأعرابي",
+      "has_id": 400
+    },
+    {
+      "name": "أحمد بن عمرو بن جابر",
+      "relationship_type": "narrator",
+      "full_text": "ثنا أحمد بن عمرو بن جابر ثنا محمد بن يعقوب الفرجي",
+      "person_id": 1233,
+      "canonical_name": "أحمد بن عمرو بن جابر",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد المنعم بن عمر بن أبي سعيد بن الأعرابي",
+      "relationship_type": "narrator",
+      "full_text": "وحكى عبد المنعم بن عمر بن أبي سعيد بن الأعرابي أنه قيل لأبي جعفر بن الفرجي إنك تنكر الزعقة والصيحة فقال",
+      "person_id": 1896,
+      "canonical_name": "عبد المنعم بن عمر بن أبي سعيد بن الأعرابي",
+      "has_id": NaN
+    },
+    {
+      "name": "راهبين",
+      "relationship_type": "interlocutor",
+      "full_text": "فبينا أنا كذلك إذا أنا براهبين يسيران",
+      "person_id": 1526,
+      "canonical_name": "راهبين",
+      "has_id": NaN
+    },
+    {
+      "name": "رجل من الشطاحين",
+      "relationship_type": "interlocutor",
+      "full_text": "وأخرج رجل من الشطاحين من السجن يضرب",
+      "person_id": 1536,
+      "canonical_name": "رجل من الشطاحين",
+      "has_id": NaN
+    }
+  ]
+}

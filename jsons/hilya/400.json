@@ -1,0 +1,184 @@
+{
+  "bio_id": "400",
+  "source": "hilya",
+  "death_date": {
+    "year_hijri": "341",
+    "full_text": "توفي سنة إحدى وأربعين وثلاثمائة.",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "البصرة",
+      "context": "nisba",
+      "full_text": "بصري"
+    },
+    {
+      "place": "مكة",
+      "context": "lived",
+      "full_text": "نزيل مكة"
+    },
+    {
+      "place": "مكة",
+      "context": "mentioned",
+      "full_text": "- بمكة -"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "سليمان بن أحمد",
+          "person_id": 1626,
+          "canonical_name": "سليمان بن أحمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو سعيد أحمد بن محمد بن زياد الأعرابي",
+          "person_id": 807,
+          "canonical_name": "أبو سعيد بن الأعرابي",
+          "has_id": 400,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن بن علي بن عفان",
+          "person_id": 98,
+          "canonical_name": "الحسن بن علي بن عفان",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يحيى بن فضيل",
+          "person_id": 2647,
+          "canonical_name": "يحيى بن فضيل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الحسن بن صالح",
+          "person_id": 88,
+          "canonical_name": "الحسن بن صالح",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو جناب الكلبي",
+          "person_id": 750,
+          "canonical_name": "أبو جناب الكلبي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "طلحة بن مصرف",
+          "person_id": 1703,
+          "canonical_name": "طلحة بن مصرف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "زر بن حبيش",
+          "person_id": 1557,
+          "canonical_name": "زر بن حبيش",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "صفوان بن عسال",
+          "person_id": 1688,
+          "canonical_name": "صفوان بن عسال",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا سليمان بن أحمد ثنا أبو سعيد أحمد بن محمد بن زياد الأعرابي - بمكة - ثنا الحسن بن علي بن عفان ثنا يحيى بن فضيل عن الحسن بن صالح عن أبي جناب الكلبي عن طلحة بن مصرف عن زر بن حبيش عن صفوان بن عسال.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد المنعم بن عمر",
+          "person_id": 1895,
+          "canonical_name": "عبد المنعم بن عمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو سعيد بن الأعرابي",
+          "person_id": 807,
+          "canonical_name": "أبو سعيد بن الأعرابي",
+          "has_id": 400,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت عبد المنعم بن عمر يقول سمعت أبا سعيد بن الأعرابي يقول:",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد المنعم بن عمر",
+          "person_id": 1895,
+          "canonical_name": "عبد المنعم بن عمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو سعيد بن الأعرابي",
+          "person_id": 807,
+          "canonical_name": "أبو سعيد بن الأعرابي",
+          "has_id": 400,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قال وسئل أبو سعيد: ما الذي ترضى من الأوقات؟",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد المنعم بن عمر",
+          "person_id": 1895,
+          "canonical_name": "عبد المنعم بن عمر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو سعيد بن الأعرابي",
+          "person_id": 807,
+          "canonical_name": "أبو سعيد بن الأعرابي",
+          "has_id": 400,
+          "subj_added": false
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "وقال: إن الله أعار بعض أخلاق أوليائه أعداءه يستعطفهم بها على أوليائه.",
+      "refers_to_previous": true
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "سليمان بن أحمد",
+      "relationship_type": "narrator",
+      "full_text": "حدثنا سليمان بن أحمد",
+      "person_id": 1626,
+      "canonical_name": "سليمان بن أحمد",
+      "has_id": NaN
+    },
+    {
+      "name": "عبد المنعم بن عمر",
+      "relationship_type": "narrator",
+      "full_text": "سمعت عبد المنعم بن عمر يقول",
+      "person_id": 1895,
+      "canonical_name": "عبد المنعم بن عمر",
+      "has_id": NaN
+    }
+  ]
+}

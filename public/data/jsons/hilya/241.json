@@ -1,0 +1,50 @@
+{
+  "bio_id": "241",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "مصر",
+      "context": "visited",
+      "full_text": "فيما بين قرى مصر"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عبد الله بن محمد",
+          "person_id": 1855,
+          "canonical_name": "عبد الله بن محمد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "عمرو بن عثمان المكي",
+          "person_id": 2126,
+          "canonical_name": "عمرو بن عثمان المكي",
+          "has_id": 716,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عبد الله بن محمد قال سمعت عمرو بن عثمان المكي يقول:",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "عمرو بن عثمان المكي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت عمرو بن عثمان المكي يقول",
+      "person_id": 2126,
+      "canonical_name": "عمرو بن عثمان المكي",
+      "has_id": 716
+    }
+  ]
+}

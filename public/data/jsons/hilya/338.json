@@ -1,0 +1,85 @@
+{
+  "bio_id": "338",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "دينور",
+      "context": "nisba",
+      "full_text": "الدينوري"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "محمد بن الحسين بن موسى",
+          "person_id": 845,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
+          "subj_added": false
+        },
+        {
+          "name": "عبد الله بن علي الطوسي",
+          "person_id": 1108,
+          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو العباس الدينوري",
+          "person_id": 488,
+          "canonical_name": "أبو العباس أحمد الدينوري",
+          "has_id": 338,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "سمعت محمد بن الحسين بن موسى يقول: سمعت عبد الله بن علي الطوسي يقول قال أبو العباس الدينوري",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": [
+      {
+        "name": "يوسف بن الحسين",
+        "relationship_type": "peer",
+        "relationship_phrase": "صحب",
+        "full_text": "صحب يوسف بن الحسين",
+        "person_id": 1140,
+        "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
+        "has_id": 847
+      },
+      {
+        "name": "رويم",
+        "relationship_type": "peer",
+        "relationship_phrase": "لقي",
+        "full_text": "ولقي رويما وأبا العباس بن عطاء.",
+        "person_id": 1553,
+        "canonical_name": "رويم بن أحمد",
+        "has_id": 578
+      },
+      {
+        "name": "أبا العباس بن عطاء",
+        "relationship_type": "peer",
+        "relationship_phrase": "لقي",
+        "full_text": "ولقي رويما وأبا العباس بن عطاء.",
+        "has_id": 340,
+        "person_id": 498,
+        "canonical_name": "أبو العباس أحمد بن عطاء الآدمي"
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "عبد الله بن علي الطوسي",
+      "relationship_type": "narrator",
+      "full_text": "سمعت عبد الله بن علي الطوسي يقول قال أبو العباس الدينوري",
+      "person_id": 1108,
+      "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
+      "has_id": NaN
+    }
+  ]
+}

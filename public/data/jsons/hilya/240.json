@@ -1,0 +1,59 @@
+{
+  "bio_id": "240",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "عثمان بن محمد العثماني",
+          "person_id": 1021,
+          "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبى الحسن أحمد بن محمد ابن عيسى الرازي",
+          "person_id": 413,
+          "canonical_name": "أبو الحسن أحمد بن محمد بن عيسى الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أبو بكر محمد بن عبد الله الرازى",
+          "person_id": 707,
+          "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "الوضاح ابن حكيم",
+          "person_id": 255,
+          "canonical_name": "الوضاح بن حكيم",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "حدثنا عثمان بن محمد العثماني قال: قرئ على أبى الحسن أحمد بن محمد ابن عيسى الرازي: ثنا أبو بكر محمد بن عبد الله الرازى قال سمعت الوضاح ابن حكيم يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "الوضاح ابن حكيم",
+      "relationship_type": "interlocutor",
+      "context": "questioner",
+      "full_text": "سمعت الوضاح ابن حكيم يقول: رأيت على العباس بن مساحق المخزومي عباءة شديدة البلا، فقلت: رحمك الله ما هذه العباءة التي أراها عليك؟",
+      "person_id": 255,
+      "canonical_name": "الوضاح بن حكيم",
+      "has_id": NaN
+    }
+  ]
+}

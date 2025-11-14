@@ -1,0 +1,364 @@
+{
+  "bio_id": "397",
+  "source": "ansari",
+  "death_date": {
+    "year_hijri": "289",
+    "full_text": "پیش از جنید و بوحمزه خراسانی ٭ برفته در سنه تسع و ثمانین و مائتین",
+    "certainty": "definite"
+  },
+  "geographical_locations": [
+    {
+      "place": "بغداد",
+      "context": "nisba",
+      "full_text": "البغدادی"
+    },
+    {
+      "place": "بغداد",
+      "context": "lived",
+      "full_text": "وی ببغداد بود"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت کی وی ببغداد بود",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت روزی از احمد بن حنبل چیزی پرسیدند",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "شیخ بوعبداللّه با کوی",
+          "person_id": 15,
+          "canonical_name": "ابن باكوية الشيرازي",
+          "has_id": 150,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن احمد آملی",
+          "person_id": 2293,
+          "canonical_name": "محمد بن أحمد الآملي",
+          "has_id": 797,
+          "subj_added": false
+        },
+        {
+          "name": "بوبکرکتانی",
+          "person_id": 712,
+          "canonical_name": "أبو بكر محمد بن علي الكتاني",
+          "has_id": 378,
+          "subj_added": false
+        },
+        {
+          "name": "شیخ بوحمزهٔ بغدادی",
+          "person_id": 764,
+          "canonical_name": "أبو حمزة البغدادي",
+          "has_id": 397,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت، کی شیخ بوعبداللّه با کوی ٭ گفت، که محمد بن احمد آملی گفت، کی بوبکرکتانی گفت، که شیخ بوحمزهٔ بغدادی گفت",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که از یافت تو بر اندیشم",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "bi-isnadihi",
+      "full_text": "وگفت:",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: سبحان اللهّ!",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بواسحق ترازو گر",
+          "person_id": 378,
+          "canonical_name": "أبو اسحق ترازو گر",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "سهل محمد سهل",
+          "person_id": 1643,
+          "canonical_name": "سهل بن محمد بن سهل",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 764,
+          "canonical_name": "أبو حمزة البغدادي",
+          "has_id": 397,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 764,
+          "canonical_name": "أبو حمزة البغدادي",
+          "has_id": 397
+        }
+      ],
+      "type": "explicit",
+      "full_text": "شیخ الاسلام گفت: کی بواسحق ترازو گرگفته: که سهل محمد سهل گفته",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "بوبکرکتانی",
+          "person_id": 712,
+          "canonical_name": "أبو بكر محمد بن علي الكتاني",
+          "has_id": 378,
+          "subj_added": false
+        },
+        {
+          "name": "حمزهٔ بغدادی",
+          "person_id": 1478,
+          "canonical_name": "حمزة بغدادي",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 764,
+          "canonical_name": "أبو حمزة البغدادي",
+          "has_id": 397,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 764,
+          "canonical_name": "أبو حمزة البغدادي",
+          "has_id": 397
+        }
+      ],
+      "type": "explicit",
+      "full_text": "بوبکرکتانی ٭ گوید، کی حمزهٔ بغدادی گوید",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که این مه است از آن شیخ علی سقا.",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "ابوحمزه",
+          "person_id": 768,
+          "canonical_name": "أبو حمزه",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 764,
+          "canonical_name": "أبو حمزة البغدادي",
+          "has_id": 397,
+          "subj_added": true
+        },
+        {
+          "name": NaN,
+          "person_id": 764,
+          "canonical_name": "أبو حمزة البغدادي",
+          "has_id": 397
+        },
+        {
+          "name": NaN,
+          "person_id": 764,
+          "canonical_name": "أبو حمزة البغدادي",
+          "has_id": 397
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "و قال ابوحمزه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [],
+      "type": "single_informant",
+      "full_text": "شیخ الاسلام گفت: که شیخ حمزه شکم گرسنه در بادیه رفتی میگفتی: که شکم سیر از معلوم است.",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [
+      {
+        "name": "سری سقطی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده بود با",
+        "full_text": "وی صحبت کرده بود باسری سقطی ٭",
+        "person_id": 161,
+        "canonical_name": "السري السقطي",
+        "has_id": 236
+      },
+      {
+        "name": "حسن مسوحی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "نسبت با",
+        "full_text": "و نسبت باحسن\nمسوحی ٭ کند",
+        "person_id": 1445,
+        "canonical_name": "حسن المسوحي",
+        "has_id": 512
+      },
+      {
+        "name": "بشر حافی",
+        "relationship_type": "student_of",
+        "relationship_phrase": "صحبت کرده",
+        "full_text": "و با بشر حافی ٭ صحبت کرده",
+        "person_id": 1323,
+        "canonical_name": "بشر بن الحارث الحافي",
+        "has_id": 470
+      }
+    ],
+    "students": [
+      {
+        "name": "محمد بن سلام الجمحی",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "از وی روایت کنند",
+        "full_text": "و همه بزرگان اندکی از وی روایت کنند، علماً حدیث، چون محمد بن سلام الجمحی",
+        "person_id": 2360,
+        "canonical_name": "محمد بن سلام الجمحي",
+        "has_id": NaN
+      },
+      {
+        "name": "خیر نساج",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "از وی روایت کنند",
+        "full_text": "و همه بزرگان اندکی از وی روایت کنند، علماً حدیث، ... و خیر نساج",
+        "person_id": 1510,
+        "canonical_name": "خير النساج",
+        "has_id": 564
+      },
+      {
+        "name": "بوبکرکتانی",
+        "relationship_type": "teacher_of",
+        "relationship_phrase": "از وی روایت کنند",
+        "full_text": "و همه بزرگان اندکی از وی روایت کنند، علماً حدیث، ... و بوبکرکتانی ٭",
+        "person_id": 712,
+        "canonical_name": "أبو بكر محمد بن علي الكتاني",
+        "has_id": 378
+      }
+    ],
+    "companions": [
+      {
+        "name": "سری السقطی",
+        "relationship_type": "peer",
+        "relationship_phrase": "من اقران",
+        "full_text": "و هو من اقران سری السقطی",
+        "person_id": 161,
+        "canonical_name": "السري السقطي",
+        "has_id": 236
+      },
+      {
+        "name": "بوتراب نخشبی",
+        "relationship_type": "peer",
+        "relationship_phrase": "از رفیقان ... بوده در سفر",
+        "full_text": "و از رفیقان بوتراب نخشبی ٭ بوده در سفر.",
+        "person_id": 721,
+        "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+        "has_id": 388
+      }
+    ]
+  },
+  "associates": [
+    {
+      "name": "شیخ الاسلام",
+      "relationship_type": "narrator",
+      "full_text": "شیخ الاسلام گفت کی وی ببغداد بود",
+      "person_id": 1682,
+      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
+      "has_id": 36
+    },
+    {
+      "name": "شیخ بوعبداللّه با کوی",
+      "relationship_type": "narrator",
+      "full_text": "شیخ بوعبداللّه با کوی ٭ گفت",
+      "person_id": 15,
+      "canonical_name": "ابن باكوية الشيرازي",
+      "has_id": 150
+    },
+    {
+      "name": "محمد بن احمد آملی",
+      "relationship_type": "narrator",
+      "full_text": "محمد بن احمد آملی گفت",
+      "person_id": 2293,
+      "canonical_name": "محمد بن أحمد الآملي",
+      "has_id": 797
+    },
+    {
+      "name": "بوبکرکتانی",
+      "relationship_type": "direct_narrator",
+      "full_text": "بوبکرکتانی گفت",
+      "person_id": 712,
+      "canonical_name": "أبو بكر محمد بن علي الكتاني",
+      "has_id": 378
+    },
+    {
+      "name": "احمد بن حنبل",
+      "relationship_type": "interlocutor",
+      "full_text": "احمد گفت شیخ بوحمزه را: اجب یا صوفی! بگوی یا صوفی!",
+      "person_id": 1192,
+      "canonical_name": "أحمد بن حنبل",
+      "has_id": NaN
+    },
+    {
+      "name": "شیخ بوعبداللّه خفیف",
+      "relationship_type": "interlocutor",
+      "full_text": "فرا شیخ بوعبداللّه خفیف گفتند: کی چرا عبدالرحیم اصطخری با سگبانان بدشت میرود؟ گفت: تا ازان بار وجود، کی بروست دم زند.",
+      "person_id": 22,
+      "canonical_name": "أبو عبد الله بن خفيف",
+      "has_id": 26
+    },
+    {
+      "name": "عبدالرحیم اصطخری",
+      "relationship_type": "mentioned_in_anecdote",
+      "context": "subject of question",
+      "full_text": "چرا عبدالرحیم اصطخری با سگبانان بدشت میرود؟",
+      "person_id": 1758,
+      "canonical_name": "عبد الرحيم الإصطخري",
+      "has_id": 651
+    },
+    {
+      "name": "شیخ علی سقا",
+      "relationship_type": "mentioned_in_anecdote",
+      "full_text": "این مه است از آن شیخ علی سقا.",
+      "person_id": 1988,
+      "canonical_name": "علي السقاء",
+      "has_id": NaN
+    },
+    {
+      "name": "بواسحق ترازو گر",
+      "relationship_type": "narrator",
+      "full_text": "بواسحق ترازو گرگفته",
+      "person_id": 378,
+      "canonical_name": "أبو اسحق ترازو گر",
+      "has_id": NaN
+    },
+    {
+      "name": "سهل محمد سهل",
+      "relationship_type": "narrator",
+      "full_text": "سهل محمد سهل گفته",
+      "person_id": 1643,
+      "canonical_name": "سهل بن محمد بن سهل",
+      "has_id": NaN
+    }
+  ]
+}

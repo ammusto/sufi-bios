@@ -1,0 +1,129 @@
+{
+  "bio_id": "373",
+  "source": "hilya",
+  "death_date": "",
+  "geographical_locations": [
+    {
+      "place": "البادية",
+      "context": "visited",
+      "full_text": "فلما دخلنا البادية"
+    }
+  ],
+  "isnads": [
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "أخبر جعفر بن محمد بن نصير - في كتابه -",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "محمد بن إبراهيم",
+          "person_id": 2269,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "جعفر بن محمد بن نصير",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "الجنيد بن محمد",
+          "person_id": 532,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن وهب",
+          "person_id": 2467,
+          "canonical_name": "محمد بن وهب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "بعض أصحابه",
+          "person_id": 1339,
+          "canonical_name": "بعض أصحابه",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحدثني عنه محمد بن إبراهيم قال سمعت الجنيد بن محمد يقول: أخبرني محمد بن وهب عن بعض أصحابه",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "جعفر بن محمد",
+          "person_id": 1405,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
+          "subj_added": false
+        },
+        {
+          "name": "محمد بن خالد",
+          "person_id": 2344,
+          "canonical_name": "محمد بن خالد",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أيوب",
+          "person_id": 1313,
+          "canonical_name": "أيوب",
+          "has_id": NaN,
+          "subj_added": false
+        }
+      ],
+      "type": "explicit",
+      "full_text": "وحكى جعفر بن محمد عن محمد بن خالد قال سمعت أيوب يقول",
+      "refers_to_previous": false
+    }
+  ],
+  "relationships": {
+    "teachers": [],
+    "students": [],
+    "companions": []
+  },
+  "associates": [
+    {
+      "name": "جعفر بن محمد بن نصير",
+      "relationship_type": "narrator",
+      "full_text": "أخبر جعفر بن محمد بن نصير - في كتابه -",
+      "person_id": 1405,
+      "canonical_name": "جعفر بن محمد الخلدي",
+      "has_id": 495
+    },
+    {
+      "name": "بعض أصحابه",
+      "relationship_type": "narrator",
+      "full_text": "أخبرني محمد بن وهب عن بعض أصحابه",
+      "person_id": 1339,
+      "canonical_name": "بعض أصحابه",
+      "has_id": NaN
+    },
+    {
+      "name": "محمد بن خالد",
+      "relationship_type": "narrator",
+      "full_text": "عن محمد بن خالد قال سمعت أيوب يقول",
+      "person_id": 2344,
+      "canonical_name": "محمد بن خالد",
+      "has_id": NaN
+    }
+  ]
+}

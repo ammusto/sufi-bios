@@ -1,5 +1,5 @@
 {
-  "bio_id": "231",
+  "bio_id": "96",
   "source": "hilya",
   "death_date": "",
   "geographical_locations": [],
@@ -8,23 +8,23 @@
       "chain": [
         {
           "name": "محمد بن الحسين بن موسى",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "محمد بن شاذان الرازي",
-          "person_id": 710,
-          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد اعزيز بن شاذان الرازي",
+          "person_id": 785,
+          "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا بكر بن يزدانيار",
-          "person_id": 616,
+          "person_id": 688,
           "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
-          "has_id": 231,
+          "has_id": 96,
           "subj_added": false
         }
       ],
@@ -36,30 +36,30 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "أبا بكر بن شاذان",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابن يزدانيار",
-          "has_id": NaN,
-          "person_id": 13,
-          "canonical_name": "ابن أبي شيخ",
+          "has_id": 96,
+          "person_id": 688,
+          "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 616,
+          "person_id": 688,
           "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
-          "has_id": 231,
+          "has_id": 96,
           "subj_added": true
         }
       ],
@@ -71,16 +71,16 @@
       "chain": [
         {
           "name": "محمد بن عبد الله بن شاذان الرازي",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسين بن علي بن يزدانيار الصوفي",
-          "person_id": 616,
+          "person_id": 688,
           "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
-          "has_id": 231,
+          "has_id": 96,
           "subj_added": false
         }
       ],
@@ -96,7 +96,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "ثنا",
         "full_text": "ثنا محمد بن يونس الكديمي",
-        "person_id": 2479,
+        "person_id": 2540,
         "canonical_name": "محمد بن يونس الكديمي",
         "has_id": NaN
       }
@@ -107,8 +107,8 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "سمعت",
         "full_text": "سمعت محمد بن شاذان الرازي يقول سمعت أبا بكر بن يزدانيار يقول",
-        "person_id": 710,
-        "canonical_name": "أبو بكر محمد بن عبد الله بن عبد اعزيز بن شاذان الرازي",
+        "person_id": 785,
+        "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
         "has_id": NaN
       },
       {
@@ -116,7 +116,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "سمعت",
         "full_text": "سمعت أبا بكر بن شاذان يقول سمعت ابن يزدانيار يقول",
-        "person_id": 711,
+        "person_id": 785,
         "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
         "has_id": NaN
       },
@@ -125,7 +125,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "حدثني",
         "full_text": "قال: حدثني الحسين بن علي بن يزدانيار الصوفي",
-        "person_id": 711,
+        "person_id": 785,
         "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
         "has_id": NaN
       }
@@ -137,15 +137,15 @@
       "name": "محمد بن شاذان الرازي",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن شاذان الرازي يقول سمعت أبا بكر بن يزدانيار يقول",
-      "person_id": 710,
-      "canonical_name": "أبو بكر محمد بن عبد الله بن عبد اعزيز بن شاذان الرازي",
+      "person_id": 785,
+      "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
       "has_id": NaN
     },
     {
       "name": "أبا بكر بن شاذان",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا بكر بن شاذان يقول سمعت ابن يزدانيار يقول",
-      "person_id": 711,
+      "person_id": 785,
       "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
       "has_id": NaN
     },
@@ -153,7 +153,7 @@
       "name": "محمد بن عبد الله بن شاذان الرازي",
       "relationship_type": "narrator",
       "full_text": "ما أخبرني محمد بن عبد الله بن شاذان الرازي - في كتابه وقد رأيته - قال: حدثني الحسين بن علي بن يزدانيار الصوفي",
-      "person_id": 711,
+      "person_id": 785,
       "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
       "has_id": NaN
     }

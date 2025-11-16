@@ -35,16 +35,16 @@
       "chain": [
         {
           "name": "محمد منصور طوسی",
-          "person_id": 2454,
+          "person_id": 2516,
           "canonical_name": "محمد بن منصور الطوسي",
           "has_id": 789,
           "subj_added": false
         },
         {
           "name": "معروف",
-          "person_id": 2523,
-          "canonical_name": "معروف",
-          "has_id": NaN,
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
           "subj_added": false
         }
       ],
@@ -56,16 +56,16 @@
       "chain": [
         {
           "name": "محمد منصور طوسی",
-          "person_id": 2454,
+          "person_id": 2516,
           "canonical_name": "محمد بن منصور الطوسي",
           "has_id": 789,
           "subj_added": false
         },
         {
           "name": "معروف",
-          "person_id": 2523,
-          "canonical_name": "معروف",
-          "has_id": NaN,
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
           "subj_added": false
         }
       ],
@@ -77,7 +77,7 @@
       "chain": [
         {
           "name": "احمد حنبل",
-          "person_id": 1192,
+          "person_id": 1256,
           "canonical_name": "أحمد بن حنبل",
           "has_id": NaN,
           "subj_added": false
@@ -97,7 +97,7 @@
       "chain": [
         {
           "name": "مصطفی",
-          "person_id": 246,
+          "person_id": 272,
           "canonical_name": "النبي",
           "has_id": NaN,
           "subj_added": false
@@ -111,7 +111,7 @@
       "chain": [
         {
           "name": "مصطفی",
-          "person_id": 246,
+          "person_id": 272,
           "canonical_name": "النبي",
           "has_id": NaN,
           "subj_added": false
@@ -125,7 +125,7 @@
       "chain": [
         {
           "name": "مصطفی",
-          "person_id": 246,
+          "person_id": 272,
           "canonical_name": "النبي",
           "has_id": NaN,
           "subj_added": false
@@ -139,7 +139,7 @@
       "chain": [
         {
           "name": "مصطفی",
-          "person_id": 246,
+          "person_id": 272,
           "canonical_name": "النبي",
           "has_id": NaN,
           "subj_added": false
@@ -183,7 +183,7 @@
       "chain": [
         {
           "name": "الشافعی",
-          "person_id": 166,
+          "person_id": 188,
           "canonical_name": "الشافعي",
           "has_id": 613,
           "subj_added": false
@@ -201,7 +201,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده بود",
         "full_text": "باداود طائی صحبت کرده بود",
-        "person_id": 1513,
+        "person_id": 1576,
         "canonical_name": "داود الطائي",
         "has_id": 405
       }
@@ -212,7 +212,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "استاد",
         "full_text": "استاد سری سقطی ٭ و پیر او.",
-        "person_id": 161,
+        "person_id": 183,
         "canonical_name": "السري السقطي",
         "has_id": 236
       }
@@ -224,7 +224,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -232,7 +232,7 @@
       "name": "محمد منصور طوسی",
       "relationship_type": "direct_narrator",
       "full_text": "و محمد منصور ٭ طوسی گوید، استاذ بوسعید خراز: که از معروف شنیدم",
-      "person_id": 2454,
+      "person_id": 2516,
       "canonical_name": "محمد بن منصور الطوسي",
       "has_id": 789
     },
@@ -240,7 +240,7 @@
       "name": "احمد حنبل",
       "relationship_type": "narrator",
       "full_text": "و احمد حنبل گوید رحمه اللّه: که مردی گفت معروف را: کی مرا وصیت کن!",
-      "person_id": 1192,
+      "person_id": 1256,
       "canonical_name": "أحمد بن حنبل",
       "has_id": NaN
     },
@@ -248,7 +248,7 @@
       "name": "مردی",
       "relationship_type": "questioner",
       "full_text": "مردی گفت معروف را: کی مرا وصیت کن!",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -256,7 +256,7 @@
       "name": "خواهرزاده",
       "relationship_type": "interlocutor",
       "full_text": "وقتی با خواهرزاده گفت: کی ترا باو حاجت باشد با من بگو",
-      "person_id": 1509,
+      "person_id": 1571,
       "canonical_name": "خواهرزاده",
       "has_id": NaN
     },
@@ -265,7 +265,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "conversion",
       "full_text": "پدر وی مولا بوده، دربان علی بن موسی رضا علوی، کی در مشهد طوس در گورست، وگویند بر دست وی مسلمان شده بود.",
-      "person_id": 2074,
+      "person_id": 2139,
       "canonical_name": "علي بن موسي الرضا",
       "has_id": NaN
     }

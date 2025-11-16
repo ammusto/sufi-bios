@@ -19,21 +19,21 @@
       "chain": [
         {
           "name": "أبا الفضل الصرام الهروي",
-          "person_id": 523,
+          "person_id": 586,
           "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عمرو بن نجيد",
-          "person_id": 1015,
+          "person_id": 1083,
           "canonical_name": "أبو عمرو إسماعيل بن نجيد",
           "has_id": 176,
           "subj_added": false
         },
         {
           "name": "شاه الكرماني",
-          "person_id": 1661,
+          "person_id": 1723,
           "canonical_name": "شاه بن شجاع الكرماني",
           "has_id": 614,
           "subj_added": false
@@ -47,7 +47,7 @@
       "chain": [
         {
           "name": "محمد بن موسى",
-          "person_id": 2457,
+          "person_id": 2519,
           "canonical_name": "محمد بن موسى",
           "has_id": NaN,
           "subj_added": false
@@ -55,20 +55,20 @@
         {
           "name": "أبا الحسين الفارسي",
           "has_id": NaN,
-          "person_id": 93,
-          "canonical_name": "الحسن بن على السيسرى",
+          "person_id": 409,
+          "canonical_name": "أبا الحسين الفارسي",
           "subj_added": false
         },
         {
           "name": "أبا علي الأنصاري",
-          "person_id": 946,
+          "person_id": 1019,
           "canonical_name": "أبو علي الأنصاري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "شاه الكرماني",
-          "person_id": 1661,
+          "person_id": 1723,
           "canonical_name": "شاه بن شجاع الكرماني",
           "has_id": 614,
           "subj_added": false
@@ -82,7 +82,7 @@
       "chain": [
         {
           "name": "محمد بن موسى",
-          "person_id": 2457,
+          "person_id": 2519,
           "canonical_name": "محمد بن موسى",
           "has_id": NaN,
           "subj_added": false
@@ -90,20 +90,20 @@
         {
           "name": "أبا الحسين الفارسي",
           "has_id": NaN,
-          "person_id": 94,
-          "canonical_name": "الحسن بن علي",
+          "person_id": 409,
+          "canonical_name": "أبا الحسين الفارسي",
           "subj_added": false
         },
         {
           "name": "أبا علي الأنصاري",
-          "person_id": 946,
+          "person_id": 1019,
           "canonical_name": "أبو علي الأنصاري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "شاه الكرماني",
-          "person_id": 1661,
+          "person_id": 1723,
           "canonical_name": "شاه بن شجاع الكرماني",
           "has_id": 614,
           "subj_added": false
@@ -117,21 +117,21 @@
       "chain": [
         {
           "name": "أبا عبد الرحمن السلمي",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "جدي أبا عمرو بن نجيد",
-          "person_id": 1015,
+          "person_id": 1083,
           "canonical_name": "أبو عمرو إسماعيل بن نجيد",
           "has_id": 176,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1661,
+          "person_id": 1723,
           "canonical_name": "شاه بن شجاع الكرماني",
           "has_id": 614,
           "subj_added": true
@@ -145,21 +145,21 @@
       "chain": [
         {
           "name": "أبا عبد الرحمن السلمي",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "جدي أبا عمرو بن نجيد",
-          "person_id": 1015,
+          "person_id": 1083,
           "canonical_name": "أبو عمرو إسماعيل بن نجيد",
           "has_id": 176,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1661,
+          "person_id": 1723,
           "canonical_name": "شاه بن شجاع الكرماني",
           "has_id": 614,
           "subj_added": true
@@ -173,28 +173,28 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "محمد بن أحمد بن إبراهيم",
-          "person_id": 2305,
+          "person_id": 2369,
           "canonical_name": "محمد بن أحمد بن إبراهيم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محفوظا",
-          "person_id": 2212,
+          "person_id": 2278,
           "canonical_name": "محفوظ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1661,
+          "person_id": 1723,
           "canonical_name": "شاه بن شجاع الكرماني",
           "has_id": 614,
           "subj_added": true
@@ -208,7 +208,7 @@
       "chain": [
         {
           "name": "أحمد بن أبي عمران الهروي",
-          "person_id": 523,
+          "person_id": 586,
           "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
           "has_id": NaN,
           "subj_added": false
@@ -216,13 +216,13 @@
         {
           "name": "ابن النجيد",
           "has_id": 176,
-          "person_id": 1015,
+          "person_id": 1083,
           "canonical_name": "أبو عمرو إسماعيل بن نجيد",
           "subj_added": false
         },
         {
           "name": "شاه الكرماني",
-          "person_id": 1661,
+          "person_id": 1723,
           "canonical_name": "شاه بن شجاع الكرماني",
           "has_id": 614,
           "subj_added": false
@@ -236,21 +236,21 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "أبا عمرو بن نجيد",
-          "person_id": 1015,
+          "person_id": 1083,
           "canonical_name": "أبو عمرو إسماعيل بن نجيد",
           "has_id": 176,
           "subj_added": false
         },
         {
           "name": "شاه الكرماني",
-          "person_id": 1661,
+          "person_id": 1723,
           "canonical_name": "شاه بن شجاع الكرماني",
           "has_id": 614,
           "subj_added": false
@@ -264,28 +264,28 @@
       "chain": [
         {
           "name": "محمد بن موسى",
-          "person_id": 2457,
+          "person_id": 2519,
           "canonical_name": "محمد بن موسى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسين الفارسي",
-          "person_id": 106,
+          "person_id": 125,
           "canonical_name": "الحسين الفارسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا علي الأنصاري",
-          "person_id": 946,
+          "person_id": 1019,
           "canonical_name": "أبو علي الأنصاري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "شاه بن شجاع",
-          "person_id": 1661,
+          "person_id": 1723,
           "canonical_name": "شاه بن شجاع الكرماني",
           "has_id": 614,
           "subj_added": false
@@ -299,28 +299,28 @@
       "chain": [
         {
           "name": "محمد بن موسى",
-          "person_id": 2457,
+          "person_id": 2519,
           "canonical_name": "محمد بن موسى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسين الفارسي",
-          "person_id": 106,
+          "person_id": 125,
           "canonical_name": "الحسين الفارسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا علي الأنصاري",
-          "person_id": 946,
+          "person_id": 1019,
           "canonical_name": "أبو علي الأنصاري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "شاه بن شجاع",
-          "person_id": 1661,
+          "person_id": 1723,
           "canonical_name": "شاه بن شجاع الكرماني",
           "has_id": 614,
           "subj_added": false
@@ -334,21 +334,21 @@
       "chain": [
         {
           "name": "أبو عامر عبد الوهاب بن محمد",
-          "person_id": 843,
+          "person_id": 920,
           "canonical_name": "أبو عامر عبد الوهاب بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو عبد الله محمد بن أحمد",
-          "person_id": 909,
+          "person_id": 981,
           "canonical_name": "أبو عبد الله محمد بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1661,
+          "person_id": 1723,
           "canonical_name": "شاه بن شجاع الكرماني",
           "has_id": 614,
           "subj_added": true
@@ -362,21 +362,21 @@
       "chain": [
         {
           "name": "أبو عامر",
-          "person_id": 843,
+          "person_id": 920,
           "canonical_name": "أبو عامر عبد الوهاب بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله الاقرقوهى",
-          "person_id": 1788,
+          "person_id": 1855,
           "canonical_name": "عبد الله الاقرقوهي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1661,
+          "person_id": 1723,
           "canonical_name": "شاه بن شجاع الكرماني",
           "has_id": 614,
           "subj_added": true
@@ -396,7 +396,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب أبا تراب النخشبي وأبا عبيد البسري.",
-        "person_id": 721,
+        "person_id": 796,
         "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
         "has_id": 388
       },
@@ -405,7 +405,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب أبا تراب النخشبي وأبا عبيد البسري.",
-        "person_id": 924,
+        "person_id": 997,
         "canonical_name": "أبو عبيد البسري",
         "has_id": 409
       }
@@ -416,7 +416,7 @@
       "name": "أبا عمرو بن نجيد",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا عمرو بن نجيد يقول",
-      "person_id": 1015,
+      "person_id": 1083,
       "canonical_name": "أبو عمرو إسماعيل بن نجيد",
       "has_id": 176
     },
@@ -424,7 +424,7 @@
       "name": "أبا علي الأنصاري",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا علي الأنصاري يقول",
-      "person_id": 946,
+      "person_id": 1019,
       "canonical_name": "أبو علي الأنصاري",
       "has_id": NaN
     },
@@ -432,7 +432,7 @@
       "name": "جدي أبا عمرو بن نجيد",
       "relationship_type": "narrator",
       "full_text": "سمعت جدي أبا عمرو بن نجيد يقول",
-      "person_id": 1015,
+      "person_id": 1083,
       "canonical_name": "أبو عمرو إسماعيل بن نجيد",
       "has_id": 176
     },
@@ -440,7 +440,7 @@
       "name": "محفوظا",
       "relationship_type": "narrator",
       "full_text": "سمعت محفوظا يقول",
-      "person_id": 2212,
+      "person_id": 2278,
       "canonical_name": "محفوظ",
       "has_id": NaN
     },
@@ -449,14 +449,14 @@
       "relationship_type": "narrator",
       "full_text": "سمعت ابن النجيد يقول",
       "has_id": 176,
-      "person_id": 1015,
+      "person_id": 1083,
       "canonical_name": "أبو عمرو إسماعيل بن نجيد"
     },
     {
       "name": "أبو عبد الله محمد بن أحمد",
       "relationship_type": "narrator",
       "full_text": "عن أبي عبد الله محمد بن أحمد قال",
-      "person_id": 909,
+      "person_id": 981,
       "canonical_name": "أبو عبد الله محمد بن أحمد",
       "has_id": NaN
     },
@@ -464,7 +464,7 @@
       "name": "عبد الله الاقرقوهى",
       "relationship_type": "narrator",
       "full_text": "أنشدنى عبد الله الاقرقوهى",
-      "person_id": 1788,
+      "person_id": 1855,
       "canonical_name": "عبد الله الاقرقوهي",
       "has_id": NaN
     }

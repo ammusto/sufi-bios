@@ -14,14 +14,14 @@
       "chain": [
         {
           "name": "أبا عمرو محمد بن أحمد بن حمدان",
-          "person_id": 1023,
+          "person_id": 1091,
           "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محفوظ بن محمود",
-          "person_id": 2213,
+          "person_id": 2279,
           "canonical_name": "محفوظ بن محمود",
           "has_id": 761,
           "subj_added": false
@@ -35,14 +35,14 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "محفوظ",
-          "person_id": 2213,
+          "person_id": 2279,
           "canonical_name": "محفوظ بن محمود",
           "has_id": 761,
           "subj_added": false
@@ -56,14 +56,14 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "محفوظ",
-          "person_id": 2213,
+          "person_id": 2279,
           "canonical_name": "محفوظ بن محمود",
           "has_id": 761,
           "subj_added": false
@@ -77,14 +77,14 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "محفوظ",
-          "person_id": 2213,
+          "person_id": 2279,
           "canonical_name": "محفوظ بن محمود",
           "has_id": 761,
           "subj_added": false
@@ -105,7 +105,7 @@
       "name": "أبا عمرو محمد بن أحمد بن حمدان",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا عمرو محمد بن أحمد بن حمدان يقول",
-      "person_id": 1023,
+      "person_id": 1091,
       "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
       "has_id": NaN
     },
@@ -113,7 +113,7 @@
       "name": "محمد بن الحسين",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن الحسين يقول",
-      "person_id": 2237,
+      "person_id": 2302,
       "canonical_name": "محمد بن الحسين",
       "has_id": NaN
     }

@@ -14,14 +14,14 @@
       "chain": [
         {
           "name": "أبا محمد عبد الله بن محمد المعلم النيسابوري",
-          "person_id": 1061,
+          "person_id": 1129,
           "canonical_name": "أبو محمد عبد الله بن محمد المعلم النيسابوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عبد الله السجزي",
-          "person_id": 871,
+          "person_id": 947,
           "canonical_name": "أبو عبد الله السجزي",
           "has_id": 414,
           "subj_added": false
@@ -42,7 +42,7 @@
       "name": "أبا محمد عبد الله بن محمد المعلم النيسابوري",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا محمد عبد الله بن محمد المعلم النيسابوري - صاحب عبد الله بن\nمنازل - يقول",
-      "person_id": 1061,
+      "person_id": 1129,
       "canonical_name": "أبو محمد عبد الله بن محمد المعلم النيسابوري",
       "has_id": NaN
     }

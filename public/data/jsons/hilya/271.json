@@ -24,24 +24,31 @@
       "chain": [
         {
           "name": "أبا عبد الرحمن السلمي",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "أبا القاسم النصرأباذي",
-          "person_id": 545,
+          "person_id": 608,
           "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
           "has_id": 360,
           "subj_added": false
         },
         {
           "name": "إبراهيم بن شيبان",
-          "person_id": 314,
+          "person_id": 339,
           "canonical_name": "إبراهيم بن شيبان",
-          "has_id": NaN,
+          "has_id": 277,
           "subj_added": false
+        },
+        {
+          "person_id": 315,
+          "canonical_name": "إبراهيم الهروي",
+          "has_id": 271,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -52,37 +59,37 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن جعفر بن هانئ",
-          "person_id": 1188,
+          "person_id": 1252,
           "canonical_name": "أحمد بن جعفر بن هانئ",
           "has_id": 444,
           "subj_added": false
         },
         {
           "name": "محمد بن عبد الله",
-          "person_id": 2376,
+          "person_id": 2439,
           "canonical_name": "محمد بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن إبراهيم الهروي",
-          "person_id": 2271,
+          "person_id": 2335,
           "canonical_name": "محمد بن إبراهيم الهروي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 1044,
-          "canonical_name": "أبو محمد إبراهيم الهري",
-          "has_id": NaN,
+          "person_id": 642,
+          "canonical_name": "أبو إسحاق إبراهيم الهري",
+          "has_id": 271,
           "subj_added": false
         }
       ],
@@ -94,37 +101,37 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن جعفر بن هانئ",
-          "person_id": 1188,
+          "person_id": 1252,
           "canonical_name": "أحمد بن جعفر بن هانئ",
           "has_id": 444,
           "subj_added": false
         },
         {
           "name": "محمد بن عبد الله",
-          "person_id": 2376,
+          "person_id": 2439,
           "canonical_name": "محمد بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن إبراهيم الهروي",
-          "person_id": 2271,
+          "person_id": 2335,
           "canonical_name": "محمد بن إبراهيم الهروي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 1044,
-          "canonical_name": "أبو محمد إبراهيم الهري",
-          "has_id": NaN,
+          "person_id": 642,
+          "canonical_name": "أبو إسحاق إبراهيم الهري",
+          "has_id": 271,
           "subj_added": false
         }
       ],
@@ -136,37 +143,37 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن جعفر بن هانئ",
-          "person_id": 1188,
+          "person_id": 1252,
           "canonical_name": "أحمد بن جعفر بن هانئ",
           "has_id": 444,
           "subj_added": false
         },
         {
           "name": "محمد بن عبد الله",
-          "person_id": 2376,
+          "person_id": 2439,
           "canonical_name": "محمد بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن إبراهيم الهروي",
-          "person_id": 2271,
+          "person_id": 2335,
           "canonical_name": "محمد بن إبراهيم الهروي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 1044,
-          "canonical_name": "أبو محمد إبراهيم الهري",
-          "has_id": NaN,
+          "person_id": 642,
+          "canonical_name": "أبو إسحاق إبراهيم الهري",
+          "has_id": 271,
           "subj_added": false
         }
       ],
@@ -178,38 +185,45 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن جعفر بن هانئ",
-          "person_id": 1188,
+          "person_id": 1252,
           "canonical_name": "أحمد بن جعفر بن هانئ",
           "has_id": 444,
           "subj_added": false
         },
         {
           "name": "محمد بن عبد الله",
-          "person_id": 2376,
+          "person_id": 2439,
           "canonical_name": "محمد بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن إبراهيم الهروي",
-          "person_id": 2271,
+          "person_id": 2335,
           "canonical_name": "محمد بن إبراهيم الهروي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 1044,
-          "canonical_name": "أبو محمد إبراهيم الهري",
-          "has_id": NaN,
+          "person_id": 642,
+          "canonical_name": "أبو إسحاق إبراهيم الهري",
+          "has_id": 271,
           "subj_added": false
+        },
+        {
+          "person_id": 315,
+          "canonical_name": "إبراهيم الهروي",
+          "has_id": 271,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "bi-isnadihi",
@@ -220,70 +234,70 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن جعفر",
-          "person_id": 1188,
+          "person_id": 1252,
           "canonical_name": "أحمد بن جعفر بن هانئ",
           "has_id": 444,
           "subj_added": false
         },
         {
           "name": "محمد بن عبد الله",
-          "person_id": 2376,
+          "person_id": 2439,
           "canonical_name": "محمد بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن إبراهيم",
-          "person_id": 2271,
+          "person_id": 2335,
           "canonical_name": "محمد بن إبراهيم الهروي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 1044,
-          "canonical_name": "أبو محمد إبراهيم الهري",
-          "has_id": NaN,
+          "person_id": 642,
+          "canonical_name": "أبو إسحاق إبراهيم الهري",
+          "has_id": 271,
           "subj_added": false
         },
         {
           "name": "عبد الرحيم بن حبيب",
-          "person_id": 1759,
+          "person_id": 1827,
           "canonical_name": "عبد الرحيم بن حبيب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إسماعيل بن يحيى التيمي",
-          "person_id": 369,
+          "person_id": 396,
           "canonical_name": "إسماعيل بن يحيى التيمى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سفيان",
-          "person_id": 1606,
+          "person_id": 1667,
           "canonical_name": "سفيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ليث",
-          "person_id": 2202,
+          "person_id": 2268,
           "canonical_name": "ليث",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "طاوس",
-          "person_id": 1699,
+          "person_id": 1767,
           "canonical_name": "طاوس",
           "has_id": NaN,
           "subj_added": false
@@ -291,7 +305,7 @@
         {
           "name": "ابن عباس",
           "has_id": NaN,
-          "person_id": 26,
+          "person_id": 38,
           "canonical_name": "ابن عباس",
           "subj_added": false
         }
@@ -310,7 +324,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب إبراهيم بن أدهم",
-        "person_id": 301,
+        "person_id": 326,
         "canonical_name": "إبراهيم بن أدهم",
         "has_id": 274
       },
@@ -319,7 +333,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "من أقران",
         "full_text": "من أقران أبي يزيد",
-        "person_id": 1128,
+        "person_id": 1191,
         "canonical_name": "أبو يزيد البسطامي",
         "has_id": 435
       }
@@ -330,15 +344,15 @@
       "name": "إبراهيم بن شيبان",
       "relationship_type": "narrator",
       "full_text": "سمعت إبراهيم بن شيبان يقول",
-      "person_id": 314,
+      "person_id": 339,
       "canonical_name": "إبراهيم بن شيبان",
-      "has_id": NaN
+      "has_id": 277
     },
     {
       "name": "محمد بن إبراهيم الهروي",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن إبراهيم الهروي يقول",
-      "person_id": 2271,
+      "person_id": 2335,
       "canonical_name": "محمد بن إبراهيم الهروي",
       "has_id": NaN
     },
@@ -347,7 +361,7 @@
       "relationship_type": "narrator",
       "full_text": "عن ابن عباس قال",
       "has_id": NaN,
-      "person_id": 26,
+      "person_id": 38,
       "canonical_name": "ابن عباس"
     },
     {
@@ -355,7 +369,7 @@
       "relationship_type": "interlocutor",
       "context": "direct_dialogue",
       "full_text": "فقال: يا إبراهيم ترائي الله في سرك؟",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     }

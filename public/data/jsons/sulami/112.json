@@ -12,10 +12,17 @@
       "chain": [
         {
           "name": "أبي ﵀",
-          "person_id": 580,
+          "person_id": 651,
           "canonical_name": "أبو أبي عبد الرحمن السلمي",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "person_id": 1058,
+          "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
+          "has_id": 112,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -26,56 +33,56 @@
       "chain": [
         {
           "name": "أَبُو بكر مُحَمَّد بن عبد الله بن زَكَرِيَّا",
-          "person_id": 709,
+          "person_id": 784,
           "canonical_name": "أبو بكر محمد بن عبد الله بن زكريا النيسابوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مُحَمَّد بن عبد الْوَهَّاب الثَّقَفِيّ",
-          "person_id": 2392,
-          "canonical_name": "محمد بن عبد الوهّاب الثّقفي",
-          "has_id": NaN,
+          "person_id": 1058,
+          "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
+          "has_id": 112,
           "subj_added": false
         },
         {
           "name": "أَبُو الْأَحْوَص مُحَمَّد بن الْهَيْثَم",
-          "person_id": 384,
+          "person_id": 427,
           "canonical_name": "أبو الأحوص محمد بن الهيثم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابْن عفير",
-          "person_id": 27,
+          "person_id": 40,
           "canonical_name": "ابن عفير",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الْفضل بن الْمُخْتَار الْبَصْرِيّ",
-          "person_id": 194,
+          "person_id": 219,
           "canonical_name": "الفضل بن المختار البصري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "هِشَام بن حسان",
-          "person_id": 2598,
+          "person_id": 2658,
           "canonical_name": "هشام بن حسان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الْحسن",
-          "person_id": 75,
+          "person_id": 91,
           "canonical_name": "الحسن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أنس",
-          "person_id": 1310,
+          "person_id": 1372,
           "canonical_name": "أنس بن مالك",
           "has_id": NaN,
           "subj_added": false
@@ -89,49 +96,49 @@
       "chain": [
         {
           "name": "أَبُو الْحُسَيْن مُحَمَّد بن مُحَمَّد بن الْحسن الكارزي",
-          "person_id": 466,
+          "person_id": 524,
           "canonical_name": "أبو الحسين محمد بن محمد بن الحسن الكارزي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبُو عَليّ مُحَمَّد بن عبد الْوَهَّاب الثَّقَفِيّ",
-          "person_id": 987,
+          "person_id": 1058,
           "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
-          "has_id": NaN,
+          "has_id": 112,
           "subj_added": false
         },
         {
           "name": "إِسْمَاعِيل بن إِسْحَاق",
-          "person_id": 358,
+          "person_id": 385,
           "canonical_name": "إسماعيل بن إسحاق",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن سَلمَة",
-          "person_id": 1830,
+          "person_id": 1898,
           "canonical_name": "عبد الله بن سلمة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مَالك",
-          "person_id": 2203,
+          "person_id": 2269,
           "canonical_name": "مالك",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِسْحَاق بن عبد الله بن أبي طَلْحَة",
-          "person_id": 352,
+          "person_id": 379,
           "canonical_name": "إسحاق بن عبد الله بن أبي طلحة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أنس بن مَالك ﵁",
-          "person_id": 1310,
+          "person_id": 1372,
           "canonical_name": "أنس بن مالك",
           "has_id": NaN,
           "subj_added": false
@@ -145,16 +152,16 @@
       "chain": [
         {
           "name": "مَنْصُور بن عبد الله",
-          "person_id": 2547,
+          "person_id": 2606,
           "canonical_name": "منصور بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا عَليّ الثَّقَفِيّ",
-          "person_id": 987,
+          "person_id": 1058,
           "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
-          "has_id": NaN,
+          "has_id": 112,
           "subj_added": false
         }
       ],
@@ -166,16 +173,16 @@
       "chain": [
         {
           "name": "مَنْصُور بن عبد الله",
-          "person_id": 2547,
+          "person_id": 2606,
           "canonical_name": "منصور بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا عَليّ الثَّقَفِيّ",
-          "person_id": 987,
+          "person_id": 1058,
           "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
-          "has_id": NaN,
+          "has_id": 112,
           "subj_added": false
         }
       ],
@@ -187,16 +194,16 @@
       "chain": [
         {
           "name": "مَنْصُور بن عبد الله",
-          "person_id": 2547,
+          "person_id": 2606,
           "canonical_name": "منصور بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا عَليّ الثَّقَفِيّ",
-          "person_id": 987,
+          "person_id": 1058,
           "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
-          "has_id": NaN,
+          "has_id": 112,
           "subj_added": false
         }
       ],
@@ -208,16 +215,16 @@
       "chain": [
         {
           "name": "مَنْصُور بن عبد الله",
-          "person_id": 2547,
+          "person_id": 2606,
           "canonical_name": "منصور بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا عَليّ الثَّقَفِيّ",
-          "person_id": 987,
+          "person_id": 1058,
           "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
-          "has_id": NaN,
+          "has_id": 112,
           "subj_added": false
         }
       ],
@@ -229,16 +236,16 @@
       "chain": [
         {
           "name": "مَنْصُور بن عبد الله",
-          "person_id": 2547,
+          "person_id": 2606,
           "canonical_name": "منصور بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا عَليّ الثَّقَفِيّ",
-          "person_id": 987,
+          "person_id": 1058,
           "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
-          "has_id": NaN,
+          "has_id": 112,
           "subj_added": false
         }
       ],
@@ -250,16 +257,16 @@
       "chain": [
         {
           "name": "مَنْصُور بن عبد الله",
-          "person_id": 2547,
+          "person_id": 2606,
           "canonical_name": "منصور بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا عَليّ الثَّقَفِيّ",
-          "person_id": 987,
+          "person_id": 1058,
           "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
-          "has_id": NaN,
+          "has_id": 112,
           "subj_added": false
         }
       ],
@@ -271,16 +278,16 @@
       "chain": [
         {
           "name": "مَنْصُور بن عبد الله",
-          "person_id": 2547,
+          "person_id": 2606,
           "canonical_name": "منصور بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا عَليّ الثَّقَفِيّ",
-          "person_id": 987,
+          "person_id": 1058,
           "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
-          "has_id": NaN,
+          "has_id": 112,
           "subj_added": false
         }
       ],
@@ -292,16 +299,16 @@
       "chain": [
         {
           "name": "مَنْصُور بن عبد الله",
-          "person_id": 2547,
+          "person_id": 2606,
           "canonical_name": "منصور بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا عَليّ الثَّقَفِيّ",
-          "person_id": 987,
+          "person_id": 1058,
           "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
-          "has_id": NaN,
+          "has_id": 112,
           "subj_added": false
         }
       ],
@@ -313,16 +320,16 @@
       "chain": [
         {
           "name": "مَنْصُور بن عبد الله",
-          "person_id": 2547,
+          "person_id": 2606,
           "canonical_name": "منصور بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا عَليّ الثَّقَفِيّ",
-          "person_id": 987,
+          "person_id": 1058,
           "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
-          "has_id": NaN,
+          "has_id": 112,
           "subj_added": false
         }
       ],
@@ -334,16 +341,16 @@
       "chain": [
         {
           "name": "مَنْصُور ben عبد الله",
-          "person_id": 2547,
+          "person_id": 2606,
           "canonical_name": "منصور بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا عَليّ الثَّقَفِيّ",
-          "person_id": 987,
+          "person_id": 1058,
           "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
-          "has_id": NaN,
+          "has_id": 112,
           "subj_added": false
         }
       ],
@@ -355,16 +362,16 @@
       "chain": [
         {
           "name": "مَنْصُور بن عبد الله",
-          "person_id": 2547,
+          "person_id": 2606,
           "canonical_name": "منصور بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا عَليّ الثَّقَفِيّ",
-          "person_id": 987,
+          "person_id": 1058,
           "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
-          "has_id": NaN,
+          "has_id": 112,
           "subj_added": false
         }
       ],
@@ -376,10 +383,17 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "person_id": 1058,
+          "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
+          "has_id": 112,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -390,10 +404,17 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "person_id": 1058,
+          "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
+          "has_id": 112,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "bi-isnadihi",
@@ -404,10 +425,17 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "person_id": 1058,
+          "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
+          "has_id": 112,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "bi-isnadihi",
@@ -418,10 +446,17 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "person_id": 1058,
+          "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
+          "has_id": 112,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "bi-isnadihi",
@@ -432,10 +467,17 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "person_id": 1058,
+          "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
+          "has_id": 112,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "bi-isnadihi",
@@ -446,16 +488,16 @@
       "chain": [
         {
           "name": "مَنْصُور بن عبد الله",
-          "person_id": 2547,
+          "person_id": 2606,
           "canonical_name": "منصور بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابا عَليّ الثَّقَفِيّ",
-          "person_id": 987,
+          "person_id": 1058,
           "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
-          "has_id": NaN,
+          "has_id": 112,
           "subj_added": false
         }
       ],
@@ -467,16 +509,16 @@
       "chain": [
         {
           "name": "مَنْصُور بن عبد الله",
-          "person_id": 2547,
+          "person_id": 2606,
           "canonical_name": "منصور بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابا عَليّ الثَّقَفِيّ",
-          "person_id": 987,
+          "person_id": 1058,
           "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
-          "has_id": NaN,
+          "has_id": 112,
           "subj_added": false
         }
       ],
@@ -488,16 +530,16 @@
       "chain": [
         {
           "name": "مَنْصُور بن عبد الله",
-          "person_id": 2547,
+          "person_id": 2606,
           "canonical_name": "منصور بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابا عَليّ الثَّقَفِيّ",
-          "person_id": 987,
+          "person_id": 1058,
           "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
-          "has_id": NaN,
+          "has_id": 112,
           "subj_added": false
         }
       ],
@@ -515,7 +557,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "لَقِي",
         "full_text": "لَقِي أَبَا حَفْص وحمدونا الْقصار",
-        "person_id": 759,
+        "person_id": 836,
         "canonical_name": "أبو حفص الحداد النيسابوري",
         "has_id": 715
       },
@@ -524,7 +566,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "لَقِي",
         "full_text": "لَقِي أَبَا حَفْص وحمدونا الْقصار",
-        "person_id": 827,
+        "person_id": 906,
         "canonical_name": "أبو صالح حمدون بن أحمد القصار",
         "has_id": 524
       }
@@ -535,7 +577,7 @@
       "name": "مَنْصُور بن عبد الله",
       "relationship_type": "narrator",
       "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول سَمِعت أَبَا عَليّ الثَّقَفِيّ يَقُول",
-      "person_id": 2547,
+      "person_id": 2606,
       "canonical_name": "منصور بن عبد الله",
       "has_id": NaN
     },
@@ -543,7 +585,7 @@
       "name": "أَبَا بكر الرَّازِيّ",
       "relationship_type": "narrator",
       "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول حضرت مجْلِس أبي عَليّ الثَّقَفِيّ فَتكلم فِي الْمحبَّة وأحوال المحبين وَأنْشد فِي خلال تِلْكَ الْأَحْوَال هَذِه الأبيات",
-      "person_id": 707,
+      "person_id": 782,
       "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
       "has_id": NaN
     },
@@ -551,7 +593,7 @@
       "name": "أَبُو بكر مُحَمَّد بن عبد الله بن زَكَرِيَّا",
       "relationship_type": "narrator",
       "full_text": "اُخْبُرْنَا أَبُو بكر مُحَمَّد بن عبد الله بن زَكَرِيَّا قَالَ حَدثنَا مُحَمَّد بن عبد الْوَهَّاب الثَّقَفِيّ",
-      "person_id": 709,
+      "person_id": 784,
       "canonical_name": "أبو بكر محمد بن عبد الله بن زكريا النيسابوري",
       "has_id": NaN
     },
@@ -559,7 +601,7 @@
       "name": "أَبُو الْحُسَيْن مُحَمَّد بن مُحَمَّد بن الْحسن الكارزي",
       "relationship_type": "narrator",
       "full_text": "أخبرنَا أَبُو الْحُسَيْن مُحَمَّد بن مُحَمَّد بن الْحسن الكارزي قَالَ حَدثنَا أَبُو عَليّ مُحَمَّد بن عبد الْوَهَّاب الثَّقَفِيّ",
-      "person_id": 466,
+      "person_id": 524,
       "canonical_name": "أبو الحسين محمد بن محمد بن الحسن الكارزي",
       "has_id": NaN
     },
@@ -567,7 +609,7 @@
       "name": "أَبُو عُثْمَان الْحِيرِي",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "وَكَانَ أَبُو عُثْمَان الْحِيرِي يَقُول إِنَّه لينفعني فِي نَفسِي إِذا نظرت إِلَى خشوع هَذَا الْفَتى يَعْنِي أَبَا عَليّ الثَّقَفِيّ",
-      "person_id": 932,
+      "person_id": 1013,
       "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
       "has_id": 419
     }

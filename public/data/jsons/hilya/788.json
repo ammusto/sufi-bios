@@ -8,28 +8,28 @@
       "chain": [
         {
           "name": "أبو عمر محمد بن عبد الله بن محمد بن معروف",
-          "person_id": 995,
-          "canonical_name": "أبو عمر محمد بن عبد الله بن محمد بن معروف",
-          "has_id": NaN,
+          "person_id": 2514,
+          "canonical_name": "محمد بن معروف العطار",
+          "has_id": 788,
           "subj_added": false
         },
         {
           "name": "أبى",
-          "person_id": 1064,
+          "person_id": 1132,
           "canonical_name": "أبو محمد عبد الله بن محمد بن معروف",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى ابن سعيد",
-          "person_id": 2642,
+          "person_id": 2701,
           "canonical_name": "يحيى بن سعيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الهيثم بن حكيم",
-          "person_id": 254,
+          "person_id": 280,
           "canonical_name": "الهيثم بن حكيم",
           "has_id": NaN,
           "subj_added": false
@@ -37,7 +37,7 @@
         {
           "name": "أبا الدرداء",
           "has_id": NaN,
-          "person_id": 110,
+          "person_id": 534,
           "canonical_name": "أبو الدرداء",
           "subj_added": false
         }
@@ -54,7 +54,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "سمع من",
         "full_text": "سمع من يحيى بن سعيد القطان ويزيد بن هارون",
-        "person_id": 2643,
+        "person_id": 2702,
         "canonical_name": "يحيى بن سعيد القطان",
         "has_id": NaN
       },
@@ -63,7 +63,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "سمع من",
         "full_text": "سمع من يحيى بن سعيد القطان ويزيد بن هارون",
-        "person_id": 2659,
+        "person_id": 2718,
         "canonical_name": "يزيد بن هارون",
         "has_id": NaN
       }

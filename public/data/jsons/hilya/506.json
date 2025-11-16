@@ -8,31 +8,38 @@
       "chain": [
         {
           "name": "عبد الله بن محمد",
-          "person_id": 1855,
+          "person_id": 1924,
           "canonical_name": "عبد الله بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "هيثم بن خلف الدوري",
-          "person_id": 2608,
+          "person_id": 2669,
           "canonical_name": "هيثم بن خلف الدوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن إسحاق البكائي",
-          "person_id": 2278,
+          "person_id": 2342,
           "canonical_name": "محمد بن إسحاق البكائي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "خالد بن السفر",
-          "person_id": 1488,
+          "person_id": 1550,
           "canonical_name": "خالد بن السفر",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1485,
+          "canonical_name": "حازم الحنفى",
+          "has_id": 506,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -42,11 +49,11 @@
     {
       "chain": [
         {
-          "name": "سليم",
-          "person_id": 1617,
-          "canonical_name": "سليم المقرى",
-          "has_id": NaN,
-          "subj_added": false
+          "name": "",
+          "person_id": 1485,
+          "canonical_name": "حازم الحنفى",
+          "has_id": 506,
+          "subj_added": true
         }
       ],
       "type": "single_informant",
@@ -64,7 +71,7 @@
       "name": "خالد بن السفر",
       "relationship_type": "narrator",
       "full_text": "ثنا خالد بن السفر",
-      "person_id": 1488,
+      "person_id": 1550,
       "canonical_name": "خالد بن السفر",
       "has_id": NaN
     },
@@ -72,7 +79,7 @@
       "name": "سليم المقرى",
       "relationship_type": "interlocutor",
       "full_text": "ورأيته عند سليم المقرى",
-      "person_id": 1617,
+      "person_id": 1678,
       "canonical_name": "سليم المقرى",
       "has_id": NaN
     },
@@ -81,7 +88,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "يقرأ عليه",
       "full_text": "فأتى سليما رجل يقرأ عليه",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     }

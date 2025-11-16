@@ -35,7 +35,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "صحبت کرده با جعفر حداد",
-        "person_id": 726,
+        "person_id": 801,
         "canonical_name": "أبو جعفر الحداد",
         "has_id": 389
       },
@@ -44,7 +44,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده",
         "full_text": "و بابوسعید خراز صحبت کرده",
-        "person_id": 801,
+        "person_id": 877,
         "canonical_name": "أبو سعيد الخراز",
         "has_id": 123
       }
@@ -56,7 +56,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "در ایام ... بوده",
         "full_text": "در ایام جنید٭ بوده",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       }
@@ -67,7 +67,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -76,7 +76,7 @@
       "relationship_type": "interlocutor",
       "context": "مناظره",
       "full_text": "حکایت مناظره کردن وی با جهود",
-      "person_id": 1418,
+      "person_id": 1478,
       "canonical_name": "جهود",
       "has_id": NaN
     }

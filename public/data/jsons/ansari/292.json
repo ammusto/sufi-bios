@@ -50,7 +50,7 @@
       "chain": [
         {
           "name": "بوعثمان مغربی",
-          "person_id": 942,
+          "person_id": 1015,
           "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
           "has_id": 156,
           "subj_added": false
@@ -64,7 +64,7 @@
       "chain": [
         {
           "name": "بوعثمان مغربی",
-          "person_id": 942,
+          "person_id": 1015,
           "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
           "has_id": 156,
           "subj_added": false
@@ -82,7 +82,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده",
         "full_text": "باعثمان حیری دیده",
-        "person_id": 932,
+        "person_id": 1013,
         "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
         "has_id": 419
       },
@@ -91,7 +91,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده",
         "full_text": "بعراق بابوالعباس عطا و جریری صحبت کرده",
-        "person_id": 498,
+        "person_id": 559,
         "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
         "has_id": 340
       },
@@ -100,7 +100,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده",
         "full_text": "بعراق بابوالعباس عطا و جریری صحبت کرده",
-        "person_id": 1035,
+        "person_id": 1104,
         "canonical_name": "أبو محمد الجريري",
         "has_id": 431
       },
@@ -109,7 +109,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده",
         "full_text": "بشام طاهر مقدسی و بوعمر دمشقی صحبت کرده",
-        "person_id": 1696,
+        "person_id": 1764,
         "canonical_name": "طاهر المقدسي",
         "has_id": 640
       },
@@ -118,7 +118,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده",
         "full_text": "بشام طاهر مقدسی و بوعمر دمشقی صحبت کرده",
-        "person_id": 1010,
+        "person_id": 1078,
         "canonical_name": "أبو عمرو الدمشقي",
         "has_id": 425
       }
@@ -130,7 +130,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "مسایل گفته",
         "full_text": "و با شبلی مسایل گفته",
-        "person_id": 628,
+        "person_id": 699,
         "canonical_name": "أبو بكر الشبلي",
         "has_id": 376
       }
@@ -141,7 +141,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -149,7 +149,7 @@
       "name": "بوعثمان مغربی",
       "relationship_type": "narrator",
       "full_text": "بوعثمان مغربی گوید",
-      "person_id": 942,
+      "person_id": 1015,
       "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
       "has_id": 156
     }

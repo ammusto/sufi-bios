@@ -8,28 +8,28 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن بن أبان",
-          "person_id": 78,
-          "canonical_name": "الحسن بن أبي الحسن البصري",
+          "person_id": 95,
+          "canonical_name": "الحسن بن أبان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر بن عبيد",
-          "person_id": 673,
+          "person_id": 744,
           "canonical_name": "أبو بكر بن عبيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو أيوب مولى بني هاشم",
-          "person_id": 606,
+          "person_id": 678,
           "canonical_name": "أبو أيوب مولى بني هاشم",
           "has_id": 372,
           "subj_added": false
@@ -43,14 +43,14 @@
       "chain": [
         {
           "name": "بعضهم",
-          "person_id": 1345,
+          "person_id": 1407,
           "canonical_name": "بعضهم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 606,
+          "person_id": 678,
           "canonical_name": "أبو أيوب مولى بني هاشم",
           "has_id": 372,
           "subj_added": true
@@ -68,7 +68,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "أخذ عنهم",
         "full_text": "وأخذ عنهم عدة المنقلب والمعاد.",
-        "person_id": 142,
+        "person_id": 162,
         "canonical_name": "الحكماء من العباد",
         "has_id": NaN
       }
@@ -80,7 +80,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب الحكماء من العباد",
-        "person_id": 142,
+        "person_id": 162,
         "canonical_name": "الحكماء من العباد",
         "has_id": NaN
       }
@@ -91,7 +91,7 @@
       "name": "أبو بكر بن عبيد",
       "relationship_type": "narrator",
       "full_text": "حدثنا أبي ثنا الحسن بن أبان ثنا أبو بكر بن عبيد ثنا أبو أيوب مولى بني هاشم.",
-      "person_id": 673,
+      "person_id": 744,
       "canonical_name": "أبو بكر بن عبيد",
       "has_id": NaN
     },
@@ -100,7 +100,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "speaker",
       "full_text": "قال قال بعضهم",
-      "person_id": 1345,
+      "person_id": 1407,
       "canonical_name": "بعضهم",
       "has_id": NaN
     }

@@ -12,35 +12,35 @@
       "chain": [
         {
           "name": "جعفر بن محمد بن نصير",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "الحارث بن أبي أسامة",
-          "person_id": 70,
+          "person_id": 86,
           "canonical_name": "الحارث بن أبي أسامة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن بكر السهمي",
-          "person_id": 1819,
+          "person_id": 1886,
           "canonical_name": "عبد الله بن بكر السهمي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "حميد",
-          "person_id": 1480,
+          "person_id": 1542,
           "canonical_name": "حميد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أنس",
-          "person_id": 1310,
+          "person_id": 1372,
           "canonical_name": "أنس بن مالك",
           "has_id": NaN,
           "subj_added": false
@@ -54,42 +54,42 @@
       "chain": [
         {
           "name": "جعفر بن محمد",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "موسى بن هارون",
-          "person_id": 2565,
+          "person_id": 2625,
           "canonical_name": "موسى بن هارون",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عقبة بن مكرم",
-          "person_id": 1975,
+          "person_id": 2044,
           "canonical_name": "عقبة بن مكرم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يونس بن بكير",
-          "person_id": 2686,
+          "person_id": 2744,
           "canonical_name": "يونس بن بكير",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "خالد بن يسار",
-          "person_id": 1493,
+          "person_id": 1555,
           "canonical_name": "خالد بن يسار",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "المسيب بن دارم",
-          "person_id": 233,
+          "person_id": 259,
           "canonical_name": "المسيب بن دارم",
           "has_id": NaN,
           "subj_added": false
@@ -103,7 +103,7 @@
       "chain": [
         {
           "name": "جعفر",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
@@ -117,7 +117,7 @@
       "chain": [
         {
           "name": "جعفر",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
@@ -131,7 +131,7 @@
       "chain": [
         {
           "name": "جعفر",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
@@ -145,7 +145,7 @@
       "chain": [
         {
           "name": "جعفر",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
@@ -159,7 +159,7 @@
       "chain": [
         {
           "name": "جعفر",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
@@ -173,14 +173,14 @@
       "chain": [
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": true
@@ -194,7 +194,7 @@
       "chain": [
         {
           "name": "جعفر",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
@@ -208,7 +208,7 @@
       "chain": [
         {
           "name": "جعفر",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
@@ -226,7 +226,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "كنت أسمع",
         "full_text": "فكثيرا ما كنت أسمع سيدنا الجنيد يقول: من لزم طريق المعاملة على الإخلاص أراحه الله عن الدعاوى الكاذبة.",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       }
@@ -238,7 +238,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "وصحب الأخيار: الجنيد والثوري ورويما.",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -247,7 +247,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "وصحب الأخيار: الجنيد والثوري ورويما.",
-        "person_id": 1607,
+        "person_id": 1668,
         "canonical_name": "سفيان الثوري",
         "has_id": 598
       },
@@ -256,7 +256,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "وصحب الأخيار: الجنيد والثوري ورويما.",
-        "person_id": 1553,
+        "person_id": 1615,
         "canonical_name": "رويم بن أحمد",
         "has_id": 578
       }
@@ -267,7 +267,7 @@
       "name": "بعض أصحابه",
       "relationship_type": "interlocutor",
       "full_text": "وقال جعفر لبعض أصحابه",
-      "person_id": 1339,
+      "person_id": 1401,
       "canonical_name": "بعض أصحابه",
       "has_id": NaN
     }

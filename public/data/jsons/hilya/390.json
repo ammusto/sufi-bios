@@ -14,35 +14,35 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن يحيى بن منده",
-          "person_id": 2471,
+          "person_id": 2532,
           "canonical_name": "محمد بن يحيى بن منده",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن معاوية",
-          "person_id": 1271,
-          "canonical_name": "أحمد بن معاوية",
-          "has_id": NaN,
+          "person_id": 812,
+          "canonical_name": "أبو جعفر الفريانى",
+          "has_id": 390,
           "subj_added": false
         },
         {
           "name": "حسين بن حفص",
-          "person_id": 1456,
+          "person_id": 1518,
           "canonical_name": "حسين بن حفص",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إبراهيم",
-          "person_id": 270,
+          "person_id": 297,
           "canonical_name": "إبراهيم",
           "has_id": NaN,
           "subj_added": false
@@ -50,27 +50,27 @@
         {
           "name": "ابن سعيد",
           "has_id": NaN,
-          "person_id": 45,
-          "canonical_name": "اسحق بن ايوب",
+          "person_id": 31,
+          "canonical_name": "ابن سعيد",
           "subj_added": false
         },
         {
           "name": "الأعمش",
-          "person_id": 59,
+          "person_id": 77,
           "canonical_name": "الأعمش",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمرو بن مرة الحمصي",
-          "person_id": 2129,
+          "person_id": 2195,
           "canonical_name": "عمرو بن مرة الحمصي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي البختري",
-          "person_id": 387,
+          "person_id": 431,
           "canonical_name": "أبو البختري",
           "has_id": NaN,
           "subj_added": false
@@ -84,49 +84,49 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن يحيى بن منده",
-          "person_id": 2471,
+          "person_id": 2532,
           "canonical_name": "محمد بن يحيى بن منده",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن معاوية",
-          "person_id": 1271,
-          "canonical_name": "أحمد بن معاوية",
-          "has_id": NaN,
+          "person_id": 812,
+          "canonical_name": "أبو جعفر الفريانى",
+          "has_id": 390,
           "subj_added": false
         },
         {
           "name": "الحسين ابن حفص",
-          "person_id": 113,
+          "person_id": 131,
           "canonical_name": "الحسين بن حفص",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو هانئ بن سفيان",
-          "person_id": 1119,
+          "person_id": 1184,
           "canonical_name": "أبو هانئ بن سفيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الأعمش",
-          "person_id": 59,
+          "person_id": 77,
           "canonical_name": "الأعمش",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إبراهيم التيمي",
-          "person_id": 275,
+          "person_id": 302,
           "canonical_name": "إبراهيم التيمي",
           "has_id": NaN,
           "subj_added": false
@@ -140,56 +140,56 @@
       "chain": [
         {
           "name": "أبي وأبو محمد بن حيان",
-          "person_id": 1125,
-          "canonical_name": "أبو وأبو محمد بن حيان",
+          "person_id": 1116,
+          "canonical_name": "أبو محمد بن حيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن يحيى بن منده",
-          "person_id": 2471,
+          "person_id": 2532,
           "canonical_name": "محمد بن يحيى بن منده",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الهذيل بن معاوية",
-          "person_id": 252,
-          "canonical_name": "الهذيل بن معاوية",
-          "has_id": NaN,
+          "person_id": 812,
+          "canonical_name": "أبو جعفر الفريانى",
+          "has_id": 390,
           "subj_added": false
         },
         {
           "name": "إبراهيم بن أيوب",
-          "person_id": 302,
+          "person_id": 327,
           "canonical_name": "إبراهيم بن أيوب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "النعمان بن سفيان",
-          "person_id": 249,
+          "person_id": 275,
           "canonical_name": "النعمان بن سفيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "منصور بن صفية",
-          "person_id": 2546,
+          "person_id": 2605,
           "canonical_name": "منصور بن صفية",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أمه",
-          "person_id": 1308,
+          "person_id": 1369,
           "canonical_name": "أمه",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عائشة",
-          "person_id": 1710,
+          "person_id": 1778,
           "canonical_name": "عائشة",
           "has_id": NaN,
           "subj_added": false
@@ -203,21 +203,21 @@
       "chain": [
         {
           "name": "عبد الله بن محمد بن يحيى بن منده",
-          "person_id": 1878,
+          "person_id": 1947,
           "canonical_name": "عبد الله بن محمد بن يحيى بن منده",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الهذيل بن معاوية",
-          "person_id": 252,
-          "canonical_name": "الهذيل بن معاوية",
-          "has_id": NaN,
+          "person_id": 812,
+          "canonical_name": "أبو جعفر الفريانى",
+          "has_id": 390,
           "subj_added": false
         },
         {
           "name": "إبراهيم بن أيوب",
-          "person_id": 302,
+          "person_id": 327,
           "canonical_name": "إبراهيم بن أيوب",
           "has_id": NaN,
           "subj_added": false
@@ -225,41 +225,41 @@
         {
           "name": "ابن هانئ",
           "has_id": NaN,
-          "person_id": 46,
-          "canonical_name": "اسحق حافظ",
+          "person_id": 58,
+          "canonical_name": "ابن هانئ",
           "subj_added": false
         },
         {
           "name": "محمد بن الربيع",
-          "person_id": 2245,
+          "person_id": 2310,
           "canonical_name": "محمد بن الربيع",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الثورى",
-          "person_id": 1607,
+          "person_id": 1668,
           "canonical_name": "سفيان الثوري",
           "has_id": 598,
           "subj_added": false
         },
         {
           "name": "حماد بن يحيى الأجج",
-          "person_id": 1473,
+          "person_id": 1535,
           "canonical_name": "حماد بن يحيى الأجج",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن واسع",
-          "person_id": 2466,
+          "person_id": 2527,
           "canonical_name": "محمد بن واسع",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مطرف بن الشخير",
-          "person_id": 2511,
+          "person_id": 2572,
           "canonical_name": "مطرف بن الشخير",
           "has_id": NaN,
           "subj_added": false
@@ -273,49 +273,49 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن يحيى",
-          "person_id": 2468,
+          "person_id": 2529,
           "canonical_name": "محمد بن يحيى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الهذيل بن معاوية",
-          "person_id": 252,
-          "canonical_name": "الهذيل بن معاوية",
-          "has_id": NaN,
+          "person_id": 812,
+          "canonical_name": "أبو جعفر الفريانى",
+          "has_id": 390,
           "subj_added": false
         },
         {
           "name": "إبراهيم بن أيوب",
-          "person_id": 302,
+          "person_id": 327,
           "canonical_name": "إبراهيم بن أيوب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "النعمان",
-          "person_id": 249,
+          "person_id": 275,
           "canonical_name": "النعمان بن سفيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سفيان",
-          "person_id": 1606,
+          "person_id": 1667,
           "canonical_name": "سفيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن أبي سعيد",
-          "person_id": 2632,
+          "person_id": 2692,
           "canonical_name": "يحيى بن أبي سعيد",
           "has_id": NaN,
           "subj_added": false
@@ -333,7 +333,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "سمعا الحديث من",
         "full_text": "سمعا الحديث من أصحاب الثوري والحسين بن حفص وغيره.",
-        "person_id": 1296,
+        "person_id": 1357,
         "canonical_name": "أصحاب الثوري",
         "has_id": NaN
       },
@@ -342,7 +342,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "سمعا الحديث من",
         "full_text": "سمعا الحديث من أصحاب الثوري والحسين بن حفص وغيره.",
-        "person_id": 113,
+        "person_id": 131,
         "canonical_name": "الحسين بن حفص",
         "has_id": NaN
       },
@@ -351,7 +351,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "ثنا",
         "full_text": "ثنا أحمد بن معاوية ثنا حسين بن حفص",
-        "person_id": 1456,
+        "person_id": 1518,
         "canonical_name": "حسين بن حفص",
         "has_id": NaN
       },
@@ -360,7 +360,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "ثنا",
         "full_text": "ثنا أحمد بن معاوية ثنا الحسين ابن حفص",
-        "person_id": 113,
+        "person_id": 131,
         "canonical_name": "الحسين بن حفص",
         "has_id": NaN
       },
@@ -369,7 +369,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "ثنا",
         "full_text": "ثنا الهذيل بن معاوية ثنا إبراهيم بن أيوب",
-        "person_id": 302,
+        "person_id": 327,
         "canonical_name": "إبراهيم بن أيوب",
         "has_id": NaN
       }
@@ -383,7 +383,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "ثنا محمد بن يحيى بن منده ثنا أحمد بن معاوية",
-      "person_id": 2471,
+      "person_id": 2532,
       "canonical_name": "محمد بن يحيى بن منده",
       "has_id": NaN
     },
@@ -392,7 +392,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "حدثنا عبد الله بن محمد بن يحيى بن منده ثنا الهذيل بن معاوية",
-      "person_id": 1878,
+      "person_id": 1947,
       "canonical_name": "عبد الله بن محمد بن يحيى بن منده",
       "has_id": NaN
     },
@@ -401,7 +401,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "ثنا محمد بن يحيى ثنا الهذيل بن معاوية",
-      "person_id": 2468,
+      "person_id": 2529,
       "canonical_name": "محمد بن يحيى",
       "has_id": NaN
     }

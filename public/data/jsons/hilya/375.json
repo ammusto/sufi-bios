@@ -29,21 +29,21 @@
       "chain": [
         {
           "name": "أبا الفضل أحمد بن أبي عمران الهروي",
-          "person_id": 523,
+          "person_id": 586,
           "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن داود الرقي",
-          "person_id": 2348,
+          "person_id": 2412,
           "canonical_name": "محمد بن داود الرقي",
-          "has_id": 13,
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا بكر الزقاق",
-          "person_id": 625,
+          "person_id": 696,
           "canonical_name": "أبو بكر الزقاق",
           "has_id": 375,
           "subj_added": false
@@ -57,21 +57,21 @@
       "chain": [
         {
           "name": "أبا سعيد القلانسي",
-          "person_id": 803,
+          "person_id": 880,
           "canonical_name": "أبو سعيد القلانسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو علي الروذباري",
-          "person_id": 959,
+          "person_id": 1031,
           "canonical_name": "أبو علي الروذباري",
           "has_id": 422,
           "subj_added": false
         },
         {
           "name": "أبي بكر الزقاق",
-          "person_id": 625,
+          "person_id": 696,
           "canonical_name": "أبو بكر الزقاق",
           "has_id": 375,
           "subj_added": false
@@ -92,15 +92,15 @@
       "name": "محمد بن داود الرقي",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن داود الرقي يقول",
-      "person_id": 2348,
+      "person_id": 2412,
       "canonical_name": "محمد بن داود الرقي",
-      "has_id": 13
+      "has_id": NaN
     },
     {
       "name": "أبو علي الروذباري",
       "relationship_type": "narrator",
       "full_text": "قال أبو علي الروذباري يحكي عن أبي بكر الزقاق",
-      "person_id": 959,
+      "person_id": 1031,
       "canonical_name": "أبو علي الروذباري",
       "has_id": 422
     },
@@ -109,7 +109,7 @@
       "relationship_type": "interlocutor",
       "context": "هاتف",
       "full_text": "فهتف بي هاتف من شجر البادية: يا أبا بكر! كل حقيقة لا تتبعها شريعة فهي كفر.",
-      "person_id": 2590,
+      "person_id": 2650,
       "canonical_name": "هاتف",
       "has_id": NaN
     },
@@ -117,7 +117,7 @@
       "name": "جارية حسناء",
       "relationship_type": "interlocutor",
       "full_text": "فوقفت علي جارية حسناء فنظرت إليها بعيني اليمنى فأخذت بقلبي، فقلت لها: قد أخذ كلي كلك فما في لغيرك فضل. فقالت: يا شيخ بك تقبح الدعاوى العالية، لو كنت صادقا لذهبت عنك شهوة اللبن.",
-      "person_id": 1376,
+      "person_id": 1438,
       "canonical_name": "جارية حسناء",
       "has_id": NaN
     },
@@ -125,7 +125,7 @@
       "name": "يوسف الصديق ﵇",
       "relationship_type": "interlocutor",
       "full_text": "فاريت في منامي يوسف الصديق ﵇ فقلت له: يا نبي الله أقر الله عينك بسلامتك من زليخا فقال:\nيا مبارك بل يقر الله عينك بسلامتك من العسفانية، ثم تلا يوسف ﴿(ولمن خاف مقام ربه جنتان)﴾",
-      "person_id": 2674,
+      "person_id": 2732,
       "canonical_name": "يوسف الصديق",
       "has_id": NaN
     }

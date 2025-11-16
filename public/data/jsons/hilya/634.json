@@ -8,10 +8,17 @@
       "chain": [
         {
           "name": "سليمان الشاذكوني",
-          "person_id": 1624,
+          "person_id": 1685,
           "canonical_name": "سليمان الشاذكوني",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "person_id": 890,
+          "canonical_name": "أبو سفيان صالح بن مهران",
+          "has_id": 634,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "single_informant",
@@ -22,30 +29,30 @@
       "chain": [
         {
           "name": "عبد الله بن محمد",
-          "person_id": 1855,
+          "person_id": 1924,
           "canonical_name": "عبد الله بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن علي بن الجارود",
-          "person_id": 1224,
+          "person_id": 1286,
           "canonical_name": "أحمد بن علي بن الجارود",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن عاصم",
-          "person_id": 2369,
+          "person_id": 2432,
           "canonical_name": "محمد بن عاصم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا سفيان",
-          "person_id": 812,
-          "canonical_name": "أبو سفيان",
-          "has_id": NaN,
+          "person_id": 890,
+          "canonical_name": "أبو سفيان صالح بن مهران",
+          "has_id": 634,
           "subj_added": false
         }
       ],
@@ -57,30 +64,30 @@
       "chain": [
         {
           "name": "عبد الله بن محمد",
-          "person_id": 1855,
+          "person_id": 1924,
           "canonical_name": "عبد الله بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن علي بن الجارود",
-          "person_id": 1224,
+          "person_id": 1286,
           "canonical_name": "أحمد بن علي بن الجارود",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن عاصم",
-          "person_id": 2369,
+          "person_id": 2432,
           "canonical_name": "محمد بن عاصم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا سفيان",
-          "person_id": 812,
-          "canonical_name": "أبو سفيان",
-          "has_id": NaN,
+          "person_id": 890,
+          "canonical_name": "أبو سفيان صالح بن مهران",
+          "has_id": 634,
           "subj_added": false
         }
       ],
@@ -92,30 +99,30 @@
       "chain": [
         {
           "name": "عبد الله بن محمد",
-          "person_id": 1855,
+          "person_id": 1924,
           "canonical_name": "عبد الله بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن علي بن الجارود",
-          "person_id": 1224,
+          "person_id": 1286,
           "canonical_name": "أحمد بن علي بن الجارود",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن عاصم",
-          "person_id": 2369,
+          "person_id": 2432,
           "canonical_name": "محمد بن عاصم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا سفيان",
-          "person_id": 812,
-          "canonical_name": "أبو سفيان",
-          "has_id": NaN,
+          "person_id": 890,
+          "canonical_name": "أبو سفيان صالح بن مهران",
+          "has_id": 634,
           "subj_added": false
         }
       ],
@@ -127,30 +134,30 @@
       "chain": [
         {
           "name": "أبا محمد بن حيان",
-          "person_id": 1050,
+          "person_id": 1116,
           "canonical_name": "أبو محمد بن حيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن يحيى بن منده",
-          "person_id": 2471,
+          "person_id": 2532,
           "canonical_name": "محمد بن يحيى بن منده",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن عاصم",
-          "person_id": 2369,
+          "person_id": 2432,
           "canonical_name": "محمد بن عاصم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا سفيان",
-          "person_id": 812,
-          "canonical_name": "أبو سفيان",
-          "has_id": NaN,
+          "person_id": 890,
+          "canonical_name": "أبو سفيان صالح بن مهران",
+          "has_id": 634,
           "subj_added": false
         }
       ],
@@ -162,30 +169,30 @@
       "chain": [
         {
           "name": "أبا محمد بن حيان",
-          "person_id": 1050,
+          "person_id": 1116,
           "canonical_name": "أبو محمد بن حيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن يحيى بن منده",
-          "person_id": 2471,
+          "person_id": 2532,
           "canonical_name": "محمد بن يحيى بن منده",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن عاصم",
-          "person_id": 2369,
+          "person_id": 2432,
           "canonical_name": "محمد بن عاصم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا سفيان",
-          "person_id": 812,
-          "canonical_name": "أبو سفيان",
-          "has_id": NaN,
+          "person_id": 890,
+          "canonical_name": "أبو سفيان صالح بن مهران",
+          "has_id": 634,
           "subj_added": false
         }
       ],
@@ -204,7 +211,7 @@
       "name": "سليمان الشاذكوني",
       "relationship_type": "narrator",
       "full_text": "قال سليمان الشاذكوني: ما رأيت أورع من أبي سفيان.",
-      "person_id": 1624,
+      "person_id": 1685,
       "canonical_name": "سليمان الشاذكوني",
       "has_id": NaN
     },
@@ -212,7 +219,7 @@
       "name": "محمد بن عاصم",
       "relationship_type": "narrator",
       "full_text": "ثنا محمد بن عاصم قال سمعت أبا سفيان يقول:",
-      "person_id": 2369,
+      "person_id": 2432,
       "canonical_name": "محمد بن عاصم",
       "has_id": NaN
     }

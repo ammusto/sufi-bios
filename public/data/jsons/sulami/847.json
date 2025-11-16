@@ -28,14 +28,14 @@
       "chain": [
         {
           "name": "عبد الله بن عَطاء",
-          "person_id": 1847,
+          "person_id": 1916,
           "canonical_name": "عبد الله بن عطاء",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": true
@@ -49,21 +49,21 @@
       "chain": [
         {
           "name": "أَبُو نصر عبد الله بن عَليّ الطوسي",
-          "person_id": 1108,
+          "person_id": 1172,
           "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مُحَمَّد بن أَحْمد بن الْحُسَيْن الرَّاوِي",
-          "person_id": 2304,
+          "person_id": 2368,
           "canonical_name": "محمد بن أحمد بن الحسين الراوي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن الْحُسَيْن",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -77,63 +77,63 @@
       "chain": [
         {
           "name": "يُوسُف بن الْحُسَيْن",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
         },
         {
           "name": "بعض رُفَقَائِي",
-          "person_id": 1342,
+          "person_id": 1404,
           "canonical_name": "بعض رفقائي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي بكر بن دَاوُد الْأَصْبَهَانِيّ",
-          "person_id": 669,
+          "person_id": 739,
           "canonical_name": "أبو بكر بن داود الأصبهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبِيه",
-          "person_id": 1149,
+          "person_id": 1212,
           "canonical_name": "أبوه",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سُوَيْد بن سعيد",
-          "person_id": 1652,
+          "person_id": 1714,
           "canonical_name": "سويد بن سعيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عَليّ بن مسْهر",
-          "person_id": 2071,
+          "person_id": 2136,
           "canonical_name": "علي بن مسهر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي يحيى القَتَّات",
-          "person_id": 1126,
+          "person_id": 1189,
           "canonical_name": "أبو يحيى القتّات",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مُجَاهِد",
-          "person_id": 2208,
+          "person_id": 2274,
           "canonical_name": "مجاهد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابْن عَبَّاس",
-          "person_id": 26,
+          "person_id": 38,
           "canonical_name": "ابن عباس",
           "has_id": NaN,
           "subj_added": false
@@ -147,21 +147,21 @@
       "chain": [
         {
           "name": "عبد الله",
-          "person_id": 1782,
+          "person_id": 1851,
           "canonical_name": "عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مُحَمَّد",
-          "person_id": 2304,
+          "person_id": 2368,
           "canonical_name": "محمد بن أحمد بن الحسين الراوي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -175,49 +175,49 @@
       "chain": [
         {
           "name": "يُوسُف",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
         },
         {
           "name": "عبد الله بن حَاضر",
-          "person_id": 1823,
+          "person_id": 1890,
           "canonical_name": "عبد الله بن حاضر",
           "has_id": 659,
           "subj_added": false
         },
         {
           "name": "أَحْمد بن حَنْبَل",
-          "person_id": 1192,
+          "person_id": 1256,
           "canonical_name": "أحمد بن حنبل",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "روح",
-          "person_id": 1550,
+          "person_id": 1612,
           "canonical_name": "روح",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سعيد",
-          "person_id": 1589,
+          "person_id": 1651,
           "canonical_name": "سعيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "قَتَادَة",
-          "person_id": 2176,
+          "person_id": 2243,
           "canonical_name": "قتادة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أنس",
-          "person_id": 1310,
+          "person_id": 1372,
           "canonical_name": "أنس بن مالك",
           "has_id": NaN,
           "subj_added": false
@@ -231,21 +231,21 @@
       "chain": [
         {
           "name": "عبد الله بن عَليّ الطوسي",
-          "person_id": 1108,
+          "person_id": 1172,
           "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
-          "person_id": 748,
+          "person_id": 825,
           "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن الْحُسَيْن",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -259,21 +259,21 @@
       "chain": [
         {
           "name": "عبد الله بن عَليّ الطوسي",
-          "person_id": 1108,
+          "person_id": 1172,
           "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
-          "person_id": 748,
+          "person_id": 825,
           "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن الْحُسَيْن",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -287,21 +287,21 @@
       "chain": [
         {
           "name": "عبد الله بن عَليّ الطوسي",
-          "person_id": 1108,
+          "person_id": 1172,
           "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
-          "person_id": 748,
+          "person_id": 825,
           "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن الْحُسَيْن",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -315,21 +315,21 @@
       "chain": [
         {
           "name": "عبد الله بن عَليّ الطوسي",
-          "person_id": 1108,
+          "person_id": 1172,
           "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
-          "person_id": 748,
+          "person_id": 825,
           "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن الْحُسَيْن",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -343,21 +343,21 @@
       "chain": [
         {
           "name": "عبد الله بن عَليّ الطوسي",
-          "person_id": 1108,
+          "person_id": 1172,
           "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
-          "person_id": 748,
+          "person_id": 825,
           "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن الْحُسَيْن",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -371,21 +371,21 @@
       "chain": [
         {
           "name": "عبد الله بن عَليّ الطوسي",
-          "person_id": 1108,
+          "person_id": 1172,
           "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
-          "person_id": 748,
+          "person_id": 825,
           "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن الْحُسَيْن",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -399,21 +399,21 @@
       "chain": [
         {
           "name": "عبد الله بن عَليّ الطوسي",
-          "person_id": 1108,
+          "person_id": 1172,
           "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
-          "person_id": 748,
+          "person_id": 825,
           "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن الْحُسَيْن",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -427,21 +427,21 @@
       "chain": [
         {
           "name": "عبد الله بن عَليّ الطوسي",
-          "person_id": 1108,
+          "person_id": 1172,
           "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
-          "person_id": 748,
+          "person_id": 825,
           "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن الْحُسَيْن",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -455,21 +455,21 @@
       "chain": [
         {
           "name": "عبد الله بن عَليّ الطوسي",
-          "person_id": 1108,
+          "person_id": 1172,
           "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
-          "person_id": 748,
+          "person_id": 825,
           "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن الْحُسَيْن",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -483,21 +483,21 @@
       "chain": [
         {
           "name": "عبد الله بن عَليّ الطوسي",
-          "person_id": 1108,
+          "person_id": 1172,
           "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
-          "person_id": 748,
+          "person_id": 825,
           "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن الْحُسَيْن",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -511,21 +511,21 @@
       "chain": [
         {
           "name": "عبد الله بن عَليّ الطوسي",
-          "person_id": 1108,
+          "person_id": 1172,
           "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
-          "person_id": 748,
+          "person_id": 825,
           "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن الْحُسَيْن",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -539,21 +539,21 @@
       "chain": [
         {
           "name": "عبد الله بن عَليّ الطوسي",
-          "person_id": 1108,
+          "person_id": 1172,
           "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
-          "person_id": 748,
+          "person_id": 825,
           "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن الْحُسَيْن",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -567,21 +567,21 @@
       "chain": [
         {
           "name": "عبد الله بن عَليّ الطوسي",
-          "person_id": 1108,
+          "person_id": 1172,
           "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
-          "person_id": 748,
+          "person_id": 825,
           "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن الْحُسَيْن",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -595,21 +595,21 @@
       "chain": [
         {
           "name": "عبد الله بن عَليّ الطوسي",
-          "person_id": 1108,
+          "person_id": 1172,
           "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
-          "person_id": 748,
+          "person_id": 825,
           "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن الْحُسَيْن",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -623,21 +623,21 @@
       "chain": [
         {
           "name": "عبد الله بن عَليّ الطوسي",
-          "person_id": 1108,
+          "person_id": 1172,
           "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
-          "person_id": 748,
+          "person_id": 825,
           "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن الْحُسَيْن",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -651,14 +651,14 @@
       "chain": [
         {
           "name": "أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": true
@@ -672,14 +672,14 @@
       "chain": [
         {
           "name": "أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": true
@@ -693,14 +693,14 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن الْحُسَيْن",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -714,14 +714,14 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن الْحُسَيْن",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -735,14 +735,14 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن الْحُسَيْن",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -756,14 +756,14 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن الْحُسَيْن",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -777,14 +777,14 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن الْحُسَيْن",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -798,14 +798,14 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن الْحُسَيْن",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -825,7 +825,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب ذَا النُّون الْمصْرِيّ",
-        "person_id": 1523,
+        "person_id": 1586,
         "canonical_name": "ذو النون المصري",
         "has_id": 570
       },
@@ -834,7 +834,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب ذَا النُّون الْمصْرِيّ وَأَبا تُرَاب النخشبي",
-        "person_id": 721,
+        "person_id": 796,
         "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
         "has_id": 388
       },
@@ -843,7 +843,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "رافق",
         "full_text": "ورافق أَبَا سعيد الخراز فِي بعض أَسْفَاره",
-        "person_id": 801,
+        "person_id": 877,
         "canonical_name": "أبو سعيد الخراز",
         "has_id": 123
       }
@@ -854,7 +854,7 @@
       "name": "مُحَمَّد بن أَحْمد بن الْحُسَيْن الرَّاوِي",
       "relationship_type": "narrator",
       "full_text": "يَقُول سَمِعت يُوسُف بن الْحُسَيْن يَقُول",
-      "person_id": 2304,
+      "person_id": 2368,
       "canonical_name": "محمد بن أحمد بن الحسين الراوي",
       "has_id": NaN
     },
@@ -862,7 +862,7 @@
       "name": "مُحَمَّد",
       "relationship_type": "narrator",
       "full_text": "حَدثنَا يُوسُف",
-      "person_id": 2304,
+      "person_id": 2368,
       "canonical_name": "محمد بن أحمد بن الحسين الراوي",
       "has_id": NaN
     },
@@ -870,7 +870,7 @@
       "name": "أَبَا جَعْفَر مُحَمَّد بن أَحْمد الرَّازِيّ",
       "relationship_type": "narrator",
       "full_text": "يَقُول سَمِعت يُوسُف بن الْحُسَيْن يَقُول",
-      "person_id": 748,
+      "person_id": 825,
       "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
       "has_id": NaN
     },
@@ -878,7 +878,7 @@
       "name": "أَبَا بكر مُحَمَّد بن عبد الله بن شَاذان",
       "relationship_type": "narrator",
       "full_text": "يَقُول بَلغنِي أَن يُوسُف بن الْحُسَيْن كَانَ يَقُول",
-      "person_id": 711,
+      "person_id": 785,
       "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
       "has_id": NaN
     },
@@ -886,7 +886,7 @@
       "name": "أَبَا بكر الرَّازِيّ",
       "relationship_type": "narrator",
       "full_text": "يَقُول قَالَ يُوسُف بن الْحُسَيْن",
-      "person_id": 707,
+      "person_id": 782,
       "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
       "has_id": NaN
     },
@@ -894,7 +894,7 @@
       "name": "عبد الله بن عَطاء",
       "relationship_type": "narrator",
       "full_text": "سَمِعت عبد الله بن عَطاء يَقُول",
-      "person_id": 1847,
+      "person_id": 1916,
       "canonical_name": "عبد الله بن عطاء",
       "has_id": NaN
     },
@@ -902,7 +902,7 @@
       "name": "رجل",
       "relationship_type": "questioner",
       "full_text": "قَالَ وَقَالَ رجل ليوسف دلَّنِي على طَرِيق الْمعرفَة",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     }

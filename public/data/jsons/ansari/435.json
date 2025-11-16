@@ -35,14 +35,14 @@
       "chain": [
         {
           "name": "ابوعثمان الغربی",
-          "person_id": 942,
+          "person_id": 1015,
           "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
           "has_id": 156,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1128,
+          "person_id": 1191,
           "canonical_name": "أبو يزيد البسطامي",
           "has_id": 435,
           "subj_added": true
@@ -62,14 +62,14 @@
       "chain": [
         {
           "name": "حصری",
-          "person_id": 394,
+          "person_id": 439,
           "canonical_name": "أبو الحسن الحصري",
           "has_id": 301,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1128,
+          "person_id": 1191,
           "canonical_name": "أبو يزيد البسطامي",
           "has_id": 435,
           "subj_added": true
@@ -83,14 +83,14 @@
       "chain": [
         {
           "name": "جریری",
-          "person_id": 1035,
+          "person_id": 1104,
           "canonical_name": "أبو محمد الجريري",
           "has_id": 431,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1128,
+          "person_id": 1191,
           "canonical_name": "أبو يزيد البسطامي",
           "has_id": 435,
           "subj_added": true
@@ -104,35 +104,35 @@
       "chain": [
         {
           "name": "بوبکر داشگر",
-          "person_id": 684,
+          "person_id": 757,
           "canonical_name": "أبو بكر داشگر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بومعشر معروف",
-          "person_id": 1082,
-          "canonical_name": "أبو معشر معروف",
+          "person_id": 1148,
+          "canonical_name": "أبو معشر معروف بن أحمد الزاهد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بوبکر حفید",
-          "person_id": 617,
+          "person_id": 689,
           "canonical_name": "أبو بكر الحفيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عباس حمزه",
-          "person_id": 521,
+          "person_id": 583,
           "canonical_name": "أبو الفضل العباس بن حمزة",
           "has_id": 647,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1128,
+          "person_id": 1191,
           "canonical_name": "أبو يزيد البسطامي",
           "has_id": 435,
           "subj_added": true
@@ -146,35 +146,35 @@
       "chain": [
         {
           "name": "اسحق حافظ",
-          "person_id": 46,
+          "person_id": 65,
           "canonical_name": "اسحق حافظ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بومعشر معروف",
-          "person_id": 1082,
-          "canonical_name": "أبو معشر معروف",
+          "person_id": 1148,
+          "canonical_name": "أبو معشر معروف بن أحمد الزاهد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بوبکر حفید",
-          "person_id": 617,
+          "person_id": 689,
           "canonical_name": "أبو بكر الحفيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عباس حمزه",
-          "person_id": 521,
+          "person_id": 583,
           "canonical_name": "أبو الفضل العباس بن حمزة",
           "has_id": 647,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1128,
+          "person_id": 1191,
           "canonical_name": "أبو يزيد البسطامي",
           "has_id": 435,
           "subj_added": true
@@ -188,14 +188,14 @@
       "chain": [
         {
           "name": "بوبکر واسطی",
-          "person_id": 653,
+          "person_id": 721,
           "canonical_name": "أبو بكر الواسطي",
           "has_id": 379,
           "subj_added": false
         },
         {
           "name": "بایزید",
-          "person_id": 1128,
+          "person_id": 1191,
           "canonical_name": "أبو يزيد البسطامي",
           "has_id": 435,
           "subj_added": false
@@ -209,7 +209,7 @@
       "chain": [
         {
           "name": "ابویزید",
-          "person_id": 1128,
+          "person_id": 1191,
           "canonical_name": "أبو يزيد البسطامي",
           "has_id": 435,
           "subj_added": false
@@ -223,7 +223,7 @@
       "chain": [
         {
           "name": "ابویزید",
-          "person_id": 1128,
+          "person_id": 1191,
           "canonical_name": "أبو يزيد البسطامي",
           "has_id": 435,
           "subj_added": false
@@ -237,14 +237,14 @@
       "chain": [
         {
           "name": "ابوموسی دبیلی",
-          "person_id": 1092,
-          "canonical_name": "أبو موسي الدبيلي",
+          "person_id": 1152,
+          "canonical_name": "أبو موسى الديبلي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بایزید",
-          "person_id": 1128,
+          "person_id": 1191,
           "canonical_name": "أبو يزيد البسطامي",
           "has_id": 435,
           "subj_added": false
@@ -258,14 +258,14 @@
       "chain": [
         {
           "name": "ابوموسی الدبیلی",
-          "person_id": 1092,
-          "canonical_name": "أبو موسي الدبيلي",
+          "person_id": 1152,
+          "canonical_name": "أبو موسى الديبلي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1128,
+          "person_id": 1191,
           "canonical_name": "أبو يزيد البسطامي",
           "has_id": 435,
           "subj_added": true
@@ -279,14 +279,14 @@
       "chain": [
         {
           "name": "ابوموسی",
-          "person_id": 1090,
+          "person_id": 1154,
           "canonical_name": "أبو موسى بن عيسى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بایزید",
-          "person_id": 1128,
+          "person_id": 1191,
           "canonical_name": "أبو يزيد البسطامي",
           "has_id": 435,
           "subj_added": false
@@ -300,14 +300,14 @@
       "chain": [
         {
           "name": "حلاج",
-          "person_id": 127,
+          "person_id": 146,
           "canonical_name": "الحسين بن منصور الحلاج",
           "has_id": 232,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1128,
+          "person_id": 1191,
           "canonical_name": "أبو يزيد البسطامي",
           "has_id": 435,
           "subj_added": true
@@ -321,14 +321,14 @@
       "chain": [
         {
           "name": "قاضی ابراهیم باخرزی",
-          "person_id": 272,
+          "person_id": 299,
           "canonical_name": "إبراهيم الباخرزي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1128,
+          "person_id": 1191,
           "canonical_name": "أبو يزيد البسطامي",
           "has_id": 435,
           "subj_added": true
@@ -342,14 +342,14 @@
       "chain": [
         {
           "name": "سلیمان دارانی",
-          "person_id": 1623,
+          "person_id": 1684,
           "canonical_name": "سليماالن داراني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1128,
+          "person_id": 1191,
           "canonical_name": "أبو يزيد البسطامي",
           "has_id": 435,
           "subj_added": true
@@ -363,14 +363,14 @@
       "chain": [
         {
           "name": "علی شریفی",
-          "person_id": 2079,
+          "person_id": 2144,
           "canonical_name": "علي شريفي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1128,
+          "person_id": 1191,
           "canonical_name": "أبو يزيد البسطامي",
           "has_id": 435,
           "subj_added": true
@@ -384,14 +384,14 @@
       "chain": [
         {
           "name": "سری سقطی",
-          "person_id": 161,
+          "person_id": 183,
           "canonical_name": "السري السقطي",
           "has_id": 236,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1128,
+          "person_id": 1191,
           "canonical_name": "أبو يزيد البسطامي",
           "has_id": 435,
           "subj_added": true
@@ -405,56 +405,56 @@
       "chain": [
         {
           "name": "بوسعد محبوری",
-          "person_id": 797,
+          "person_id": 873,
           "canonical_name": "أبو سعد محأبوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بونصر ترشیزی",
-          "person_id": 1104,
+          "person_id": 1168,
           "canonical_name": "أبو نصر ترشيزي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بوزرعهٔ طبری",
-          "person_id": 789,
+          "person_id": 865,
           "canonical_name": "أبو زرعة الطبري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مرتعش",
-          "person_id": 1043,
+          "person_id": 1128,
           "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
           "has_id": 251,
           "subj_added": false
         },
         {
           "name": "بوعثمان حیری",
-          "person_id": 932,
+          "person_id": 1013,
           "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
           "has_id": 419,
           "subj_added": false
         },
         {
           "name": "حفص حداد نیشابوری",
-          "person_id": 759,
+          "person_id": 836,
           "canonical_name": "أبو حفص الحداد النيسابوري",
           "has_id": 715,
           "subj_added": false
         },
         {
           "name": "سلمهٔ بخاری",
-          "person_id": 1613,
+          "person_id": 1674,
           "canonical_name": "سلمة البخاري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1128,
+          "person_id": 1191,
           "canonical_name": "أبو يزيد البسطامي",
           "has_id": 435,
           "subj_added": true
@@ -468,35 +468,35 @@
       "chain": [
         {
           "name": "بوسعد مالینی",
-          "person_id": 796,
+          "person_id": 872,
           "canonical_name": "أبو سعد الماليني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "حصری",
-          "person_id": 394,
+          "person_id": 439,
           "canonical_name": "أبو الحسن الحصري",
           "has_id": 301,
           "subj_added": false
         },
         {
           "name": "حفص شقاق",
-          "person_id": 1464,
+          "person_id": 1526,
           "canonical_name": "حفص شقاق",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بوتراب نخشبی",
-          "person_id": 721,
+          "person_id": 796,
           "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
           "has_id": 388,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1128,
+          "person_id": 1191,
           "canonical_name": "أبو يزيد البسطامي",
           "has_id": 435,
           "subj_added": true
@@ -510,14 +510,14 @@
       "chain": [
         {
           "name": "ذوالنون",
-          "person_id": 1523,
+          "person_id": 1586,
           "canonical_name": "ذو النون المصري",
           "has_id": 570,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1128,
+          "person_id": 1191,
           "canonical_name": "أبو يزيد البسطامي",
           "has_id": 435,
           "subj_added": true
@@ -535,7 +535,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده بود",
         "full_text": "با\nحفص و یحیی معاذ و شیقیق بلخی ٭ دیده بود.",
-        "person_id": 759,
+        "person_id": 836,
         "canonical_name": "أبو حفص الحداد النيسابوري",
         "has_id": 715
       },
@@ -544,7 +544,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده بود",
         "full_text": "با\nحفص و یحیی معاذ و شیقیق بلخی ٭ دیده بود.",
-        "person_id": 2650,
+        "person_id": 2709,
         "canonical_name": "يحيى بن معاذ الرازي",
         "has_id": 844
       },
@@ -553,7 +553,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده بود",
         "full_text": "با\nحفص و یحیی معاذ و شیقیق بلخی ٭ دیده بود.",
-        "person_id": 980,
+        "person_id": 1051,
         "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
         "has_id": 622
       }
@@ -564,8 +564,8 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "من اصحاب ابی یزید",
         "full_text": "ابو موسی الدبیلی من اصحاب ابی یزید",
-        "person_id": 1092,
-        "canonical_name": "أبو موسي الدبيلي",
+        "person_id": 1152,
+        "canonical_name": "أبو موسى الديبلي",
         "has_id": NaN
       }
     ],
@@ -575,7 +575,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اقران",
         "full_text": "بایزید از اقران احمد خضرویه است",
-        "person_id": 1194,
+        "person_id": 1258,
         "canonical_name": "أحمد بن خضرويه البلخي",
         "has_id": 440
       }
@@ -586,7 +586,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت که",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -594,7 +594,7 @@
       "name": "ابوعثمان الغربی",
       "relationship_type": "narrator",
       "full_text": "و قال ابوعثمان الغربی٭",
-      "person_id": 942,
+      "person_id": 1015,
       "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
       "has_id": 156
     },
@@ -602,7 +602,7 @@
       "name": "حصری",
       "relationship_type": "narrator",
       "full_text": "حصری ٭ گوید:",
-      "person_id": 394,
+      "person_id": 439,
       "canonical_name": "أبو الحسن الحصري",
       "has_id": 301
     },
@@ -610,7 +610,7 @@
       "name": "جریری",
       "relationship_type": "narrator",
       "full_text": "جریری: گفت",
-      "person_id": 1035,
+      "person_id": 1104,
       "canonical_name": "أبو محمد الجريري",
       "has_id": 431
     },
@@ -618,7 +618,7 @@
       "name": "بوبکر داشگر",
       "relationship_type": "narrator",
       "full_text": "بوبکر داشگر و اسحق حافظ٭ هر دو فرامن گفتند",
-      "person_id": 684,
+      "person_id": 757,
       "canonical_name": "أبو بكر داشگر",
       "has_id": NaN
     },
@@ -626,7 +626,7 @@
       "name": "اسحق حافظ",
       "relationship_type": "narrator",
       "full_text": "بوبکر داشگر و اسحق حافظ٭ هر دو فرامن گفتند",
-      "person_id": 46,
+      "person_id": 65,
       "canonical_name": "اسحق حافظ",
       "has_id": NaN
     },
@@ -634,15 +634,15 @@
       "name": "بومعشر معروف",
       "relationship_type": "narrator",
       "full_text": "کی بومعشر معروف گفت",
-      "person_id": 1082,
-      "canonical_name": "أبو معشر معروف",
+      "person_id": 1148,
+      "canonical_name": "أبو معشر معروف بن أحمد الزاهد",
       "has_id": NaN
     },
     {
       "name": "بوبکر حفید",
       "relationship_type": "narrator",
       "full_text": "کی بوبکر حفیدگفت",
-      "person_id": 617,
+      "person_id": 689,
       "canonical_name": "أبو بكر الحفيد",
       "has_id": NaN
     },
@@ -650,7 +650,7 @@
       "name": "عباس حمزه",
       "relationship_type": "narrator",
       "full_text": "کی جد من گفت عباس حمزه ٭",
-      "person_id": 521,
+      "person_id": 583,
       "canonical_name": "أبو الفضل العباس بن حمزة",
       "has_id": 647
     },
@@ -658,7 +658,7 @@
       "name": "بوبکر واسطی",
       "relationship_type": "direct_narrator",
       "full_text": "بوبکر واسطی ٭\nگوید: کی بایزید بدر مرگ گفت:",
-      "person_id": 653,
+      "person_id": 721,
       "canonical_name": "أبو بكر الواسطي",
       "has_id": 379
     },
@@ -666,23 +666,23 @@
       "name": "ابوموسی دبیلی",
       "relationship_type": "direct_narrator",
       "full_text": "ابوموسی دبیلی گویدکی بایزید گفت:",
-      "person_id": 1092,
-      "canonical_name": "أبو موسي الدبيلي",
+      "person_id": 1152,
+      "canonical_name": "أبو موسى الديبلي",
       "has_id": NaN
     },
     {
       "name": "ابوموسی الدبیلی",
       "relationship_type": "narrator",
       "full_text": "قال ابوموسی:",
-      "person_id": 1092,
-      "canonical_name": "أبو موسي الدبيلي",
+      "person_id": 1152,
+      "canonical_name": "أبو موسى الديبلي",
       "has_id": NaN
     },
     {
       "name": "سلمهٔ بخاری",
       "relationship_type": "direct_narrator",
       "full_text": "سلمهٔ بخاری گفت. کی من حاضر بودم",
-      "person_id": 1613,
+      "person_id": 1674,
       "canonical_name": "سلمة البخاري",
       "has_id": NaN
     },
@@ -690,7 +690,7 @@
       "name": "بوعثمان حیری",
       "relationship_type": "narrator",
       "full_text": "که بوعثمان حیری گفت:",
-      "person_id": 932,
+      "person_id": 1013,
       "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
       "has_id": 419
     },
@@ -698,7 +698,7 @@
       "name": "مرتعش",
       "relationship_type": "narrator",
       "full_text": "که مرتعش٭ گفت",
-      "person_id": 1043,
+      "person_id": 1128,
       "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
       "has_id": 251
     },
@@ -706,7 +706,7 @@
       "name": "بوزرعهٔ طبری",
       "relationship_type": "narrator",
       "full_text": "که بوزرعهٔ طبری گفت",
-      "person_id": 789,
+      "person_id": 865,
       "canonical_name": "أبو زرعة الطبري",
       "has_id": NaN
     },
@@ -714,7 +714,7 @@
       "name": "بونصر ترشیزی",
       "relationship_type": "narrator",
       "full_text": "کی بونصر ترشیزی گفت",
-      "person_id": 1104,
+      "person_id": 1168,
       "canonical_name": "أبو نصر ترشيزي",
       "has_id": NaN
     },
@@ -722,7 +722,7 @@
       "name": "بوسعد محبوری",
       "relationship_type": "narrator",
       "full_text": "که بوسعد محبوری مرا گفت:",
-      "person_id": 797,
+      "person_id": 873,
       "canonical_name": "أبو سعد محأبوري",
       "has_id": NaN
     },
@@ -730,7 +730,7 @@
       "name": "حفص حداد نیشابوری",
       "relationship_type": "narrator",
       "full_text": "کی باحفص حداد نیشابوری ٭ گفت",
-      "person_id": 759,
+      "person_id": 836,
       "canonical_name": "أبو حفص الحداد النيسابوري",
       "has_id": 715
     },
@@ -738,7 +738,7 @@
       "name": "بوسعد مالینی",
       "relationship_type": "narrator",
       "full_text": "که بوسعد مالینی گوید",
-      "person_id": 796,
+      "person_id": 872,
       "canonical_name": "أبو سعد الماليني",
       "has_id": NaN
     },
@@ -746,7 +746,7 @@
       "name": "حفص شقاق",
       "relationship_type": "narrator",
       "full_text": "که با حفص شقاق گفت",
-      "person_id": 1464,
+      "person_id": 1526,
       "canonical_name": "حفص شقاق",
       "has_id": NaN
     },
@@ -755,7 +755,7 @@
       "relationship_type": "direct_narrator",
       "context": "questioner",
       "full_text": "که بوتراب نخشبی٭ گفت، کی بایزد بسطامی را گفتم:",
-      "person_id": 721,
+      "person_id": 796,
       "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
       "has_id": 388
     },
@@ -763,7 +763,7 @@
       "name": "حلاج",
       "relationship_type": "narrator",
       "full_text": "حلاج گوید:",
-      "person_id": 127,
+      "person_id": 146,
       "canonical_name": "الحسين بن منصور الحلاج",
       "has_id": 232
     },
@@ -771,7 +771,7 @@
       "name": "قاضی ابراهیم باخرزی",
       "relationship_type": "narrator",
       "full_text": "که قاضی ابراهیم باخرزی مرا گفت:",
-      "person_id": 272,
+      "person_id": 299,
       "canonical_name": "إبراهيم الباخرزي",
       "has_id": NaN
     },
@@ -779,7 +779,7 @@
       "name": "سری سقطی",
       "relationship_type": "narrator",
       "full_text": "سری سقطی٭ گوید:",
-      "person_id": 161,
+      "person_id": 183,
       "canonical_name": "السري السقطي",
       "has_id": 236
     },
@@ -787,7 +787,7 @@
       "name": "با سلیمان دارانی",
       "relationship_type": "narrator",
       "full_text": "با سلیمان دارانی٭ گوید:",
-      "person_id": 817,
+      "person_id": 895,
       "canonical_name": "أبو سليمان الداراني",
       "has_id": 404
     },
@@ -795,7 +795,7 @@
       "name": "علی شریفی",
       "relationship_type": "narrator",
       "full_text": "علی شریفی مرا گفتا:",
-      "person_id": 2079,
+      "person_id": 2144,
       "canonical_name": "علي شريفي",
       "has_id": NaN
     },
@@ -803,7 +803,7 @@
       "name": "عراقیه",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "عجوزی بود عراقیه نام",
-      "person_id": 1956,
+      "person_id": 2025,
       "canonical_name": "عراقية",
       "has_id": NaN
     },
@@ -811,7 +811,7 @@
       "name": "شاگردی از آن بایزید",
       "relationship_type": "questioner",
       "full_text": "شاگردی از آن بایزید پرسید ویرا:",
-      "person_id": 1659,
+      "person_id": 1721,
       "canonical_name": "شاگردي از آن بايزيد",
       "has_id": NaN
     }

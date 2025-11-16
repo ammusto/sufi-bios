@@ -8,10 +8,17 @@
       "chain": [
         {
           "name": "أبا محمد بن حيان",
-          "person_id": 1050,
+          "person_id": 1116,
           "canonical_name": "أبو محمد بن حيان",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2624,
+          "canonical_name": "موسى بن مساور",
+          "has_id": 818,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -26,7 +33,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "روى عن",
         "full_text": "روى عن سفيان بن عيينة ووكيع.",
-        "person_id": 1608,
+        "person_id": 1669,
         "canonical_name": "سفيان بن عيينة",
         "has_id": NaN
       },
@@ -35,7 +42,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "روى عن",
         "full_text": "روى عن سفيان بن عيينة ووكيع.",
-        "person_id": 2618,
+        "person_id": 2678,
         "canonical_name": "وكيع بن الجراح",
         "has_id": NaN
       }
@@ -48,7 +55,7 @@
       "name": "أبا محمد بن حيان",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا محمد بن حيان يقول",
-      "person_id": 1050,
+      "person_id": 1116,
       "canonical_name": "أبو محمد بن حيان",
       "has_id": NaN
     },
@@ -56,7 +63,7 @@
       "name": "امرأة",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "مررت يوما بامرأة تحمل جرابا ثقل عليها حمله فحملته معها",
-      "person_id": 261,
+      "person_id": 287,
       "canonical_name": "امرأة",
       "has_id": NaN
     }

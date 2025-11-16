@@ -1,5 +1,5 @@
 {
-  "bio_id": "199",
+  "bio_id": "196",
   "source": "ansari",
   "death_date": "",
   "geographical_locations": [
@@ -24,7 +24,7 @@
       "chain": [
         {
           "name": "شیخ",
-          "person_id": 1682,
+          "person_id": 650,
           "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
           "has_id": 36,
           "subj_added": false
@@ -38,7 +38,7 @@
       "chain": [
         {
           "name": "وی",
-          "person_id": 2621,
+          "person_id": 2681,
           "canonical_name": "وي",
           "has_id": NaN,
           "subj_added": false
@@ -52,7 +52,7 @@
       "chain": [
         {
           "name": "ابویعقوب السوسی",
-          "person_id": 1136,
+          "person_id": 1200,
           "canonical_name": "أبو يعقوب السوسي",
           "has_id": 196,
           "subj_added": false
@@ -90,7 +90,7 @@
       "chain": [
         {
           "name": "خراز٭",
-          "person_id": 801,
+          "person_id": 877,
           "canonical_name": "أبو سعيد الخراز",
           "has_id": 123,
           "subj_added": false
@@ -112,24 +112,24 @@
       "relationship_type": "narrator",
       "full_text": "شیخ گفت:",
       "person_id": 1682,
-      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
-      "has_id": 36
+      "canonical_name": "سليم بن مطير",
+      "has_id": NaN
     },
     {
       "name": "شیخ الاسلام",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ الاسلام گفت: که وی گفت:",
       "person_id": 1682,
-      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
-      "has_id": 36
+      "canonical_name": "سليم بن مطير",
+      "has_id": NaN
     },
     {
       "name": "خراز٭",
       "relationship_type": "narrator",
       "full_text": "خراز٭ گفت: لا یصلح هذا العلم الالمن یعبر عن وجده و ینطق عن فعله.",
       "person_id": 801,
-      "canonical_name": "أبو سعيد الخراز",
-      "has_id": 123
+      "canonical_name": "أبو جعفر الحداد",
+      "has_id": 389
     }
   ]
 }

@@ -24,7 +24,7 @@
       "chain": [
         {
           "name": "جنید",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -38,7 +38,7 @@
       "chain": [
         {
           "name": "جنید",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -58,7 +58,7 @@
       "chain": [
         {
           "name": "رویم٭",
-          "person_id": 1553,
+          "person_id": 1615,
           "canonical_name": "رويم بن أحمد",
           "has_id": 578,
           "subj_added": false
@@ -72,7 +72,7 @@
       "chain": [
         {
           "name": "بوالخیر عسقلانی",
-          "person_id": 475,
+          "person_id": 532,
           "canonical_name": "أبو الخير العسقلاني",
           "has_id": 328,
           "subj_added": false
@@ -90,7 +90,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "از جنید هزار مسأله پرسیده بود",
         "full_text": "از جنید هزار مسأله پرسیده بود، و همه جواب داده و باوی فرستاده",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       }
@@ -102,7 +102,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از قدمان اصحاب جنید، و اقران وی",
         "full_text": "از قدمان اصحاب جنید، و اقران وی",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       }
@@ -113,7 +113,7 @@
       "name": "جنید",
       "relationship_type": "narrator",
       "full_text": "جنیدگوید:",
-      "person_id": 532,
+      "person_id": 595,
       "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
       "has_id": 228
     },
@@ -121,7 +121,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -129,7 +129,7 @@
       "name": "رویم٭",
       "relationship_type": "narrator",
       "full_text": "رویم٭ گفت: که",
-      "person_id": 1553,
+      "person_id": 1615,
       "canonical_name": "رويم بن أحمد",
       "has_id": 578
     },
@@ -137,7 +137,7 @@
       "name": "بوالخیر عسقلانی",
       "relationship_type": "narrator",
       "full_text": "بوالخیر عسقلانی گوید: که",
-      "person_id": 475,
+      "person_id": 532,
       "canonical_name": "أبو الخير العسقلاني",
       "has_id": 328
     }

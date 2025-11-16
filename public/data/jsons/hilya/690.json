@@ -29,31 +29,38 @@
       "chain": [
         {
           "name": "إبراهيم بن محمد بن يحيى النيسابوري",
-          "person_id": 327,
+          "person_id": 353,
           "canonical_name": "إبراهيم بن محمد بن يحيى النيسابوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا حامد أحمد بن محمد بن حمدان النيسابوري",
-          "person_id": 600,
+          "person_id": 671,
           "canonical_name": "أبو أحمد محمد بن أحمد بن حمدان الرازي النيسابوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إسماعيل بن عبد الله الشامي",
-          "person_id": 364,
+          "person_id": 391,
           "canonical_name": "إسماعيل بن عبد الله الشامي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سريا السقطي",
-          "person_id": 161,
+          "person_id": 183,
           "canonical_name": "السري السقطي",
           "has_id": 236,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2055,
+          "canonical_name": "علي الجرجاني",
+          "has_id": 690,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -64,17 +71,24 @@
       "chain": [
         {
           "name": "جعفر بن نصير",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "السرى",
-          "person_id": 161,
+          "person_id": 183,
           "canonical_name": "السري السقطي",
           "has_id": 236,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2055,
+          "canonical_name": "علي الجرجاني",
+          "has_id": 690,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -85,17 +99,24 @@
       "chain": [
         {
           "name": "جعفر بن محمد",
-          "person_id": 1404,
-          "canonical_name": "جعفر بن محمد",
+          "person_id": 1464,
+          "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "السري السقطي",
-          "person_id": 161,
+          "person_id": 183,
           "canonical_name": "السري السقطي",
           "has_id": 236,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2055,
+          "canonical_name": "علي الجرجاني",
+          "has_id": 690,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -112,7 +133,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "فصحبني",
         "full_text": "فصحبني علي الجرجاني في الزورق",
-        "person_id": 161,
+        "person_id": 183,
         "canonical_name": "السري السقطي",
         "has_id": 236
       }
@@ -124,7 +145,7 @@
       "relationship_type": "narrator",
       "context": "interlocutor",
       "full_text": "سمعت سريا السقطي يقول",
-      "person_id": 161,
+      "person_id": 183,
       "canonical_name": "السري السقطي",
       "has_id": 236
     }

@@ -28,21 +28,21 @@
       "chain": [
         {
           "name": "عبد الله بن عَليّ",
-          "person_id": 1848,
+          "person_id": 1917,
           "canonical_name": "عبد الله بن علي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مهلب بن أَحْمد الْمصْرِيّ",
-          "person_id": 2557,
+          "person_id": 2616,
           "canonical_name": "مهلب بن أحمد المصري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": true
@@ -56,63 +56,63 @@
       "chain": [
         {
           "name": "أَبُو يَعْقُوب يُوسُف بن إِبْرَاهِيم بن عَامر الْأَبْهَرِيّ الْمُقْرِئ الْمَعْرُوف بالشافعي",
-          "person_id": 1141,
+          "person_id": 1206,
           "canonical_name": "أبو يعقوب يوسف بن إبراهيم بن عامر الأبهري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبُو بكر عبد الله بن طَاهِر الْأَبْهَرِيّ الصُّوفِي",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": false
         },
         {
           "name": "عبيد بن عبد الْوَاحِد",
-          "person_id": 1938,
+          "person_id": 2007,
           "canonical_name": "عبيد بن عبد الواحد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "آدم بن أبي إِيَاس",
-          "person_id": 1318,
+          "person_id": 1380,
           "canonical_name": "آدم بن أبي إياس",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِسْمَاعِيل بن عَيَّاش",
-          "person_id": 366,
+          "person_id": 393,
           "canonical_name": "إسماعيل بن عياش",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الْمِطعم بن الْمِقْدَام",
-          "person_id": 237,
+          "person_id": 263,
           "canonical_name": "المطعم بن المقدام",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عنبسة بن سعيد الكلَاعِي",
-          "person_id": 2133,
+          "person_id": 2199,
           "canonical_name": "عنبسة بن سعيد الكلاعي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "نصيح الْعَنسِي",
-          "person_id": 2586,
+          "person_id": 2646,
           "canonical_name": "نصيح العنسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ركب الْمصْرِيّ",
-          "person_id": 1549,
+          "person_id": 1611,
           "canonical_name": "ركب المصري",
           "has_id": NaN,
           "subj_added": false
@@ -126,14 +126,14 @@
       "chain": [
         {
           "name": "أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر بن طَاهِر",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": false
@@ -147,14 +147,14 @@
       "chain": [
         {
           "name": "أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر بن طَاهِر",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": false
@@ -168,21 +168,21 @@
       "chain": [
         {
           "name": "عبد الْوَاحِد بن مُحَمَّد",
-          "person_id": 1912,
-          "canonical_name": "عبد الواحد بن محمد",
+          "person_id": 1980,
+          "canonical_name": "عبد الواحد بن محمد الإصبهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بنْدَار بن الْحُسَيْن",
-          "person_id": 1364,
+          "person_id": 477,
           "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
           "has_id": 702,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": true
@@ -196,14 +196,14 @@
       "chain": [
         {
           "name": "مُحَمَّد بن عبد الله",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر بن طَاهِر",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": false
@@ -217,14 +217,14 @@
       "chain": [
         {
           "name": "مُحَمَّد بن عبد الله",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر بن طَاهِر",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": false
@@ -238,14 +238,14 @@
       "chain": [
         {
           "name": "مَنْصُور بن عبد الله",
-          "person_id": 2547,
+          "person_id": 2606,
           "canonical_name": "منصور بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر بن طَاهِر",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": false
@@ -259,21 +259,21 @@
       "chain": [
         {
           "name": "مَنْصُور بن عبد الله",
-          "person_id": 2547,
+          "person_id": 2606,
           "canonical_name": "منصور بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر بن طَاهِر",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": false
@@ -287,21 +287,21 @@
       "chain": [
         {
           "name": "عَليّ بن سعيد الثغري",
-          "person_id": 2034,
+          "person_id": 2105,
           "canonical_name": "علي بن سعيد الثغري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَحْمد بن عَليّ الوَاسِطِيّ",
-          "person_id": 1223,
+          "person_id": 1285,
           "canonical_name": "أحمد بن علي الواسطي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر بن طَاهِر",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": false
@@ -315,14 +315,14 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر بن طَاهِر",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": false
@@ -336,14 +336,14 @@
       "chain": [
         {
           "name": "الْحُسَيْن بن أَحْمد",
-          "person_id": 107,
+          "person_id": 126,
           "canonical_name": "الحسين بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر بن طَاهِر",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": false
@@ -357,14 +357,14 @@
       "chain": [
         {
           "name": "الْحُسَيْن بن أَحْمد",
-          "person_id": 107,
+          "person_id": 126,
           "canonical_name": "الحسين بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر بن طَاهِر",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": false
@@ -378,14 +378,14 @@
       "chain": [
         {
           "name": "الْحُسَيْن بن أَحْمد",
-          "person_id": 107,
+          "person_id": 126,
           "canonical_name": "الحسين بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر بن طَاهِر",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": false
@@ -399,14 +399,14 @@
       "chain": [
         {
           "name": "الْحُسَيْن بن أَحْمد",
-          "person_id": 107,
+          "person_id": 126,
           "canonical_name": "الحسين بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر بن طَاهِر",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": false
@@ -420,21 +420,21 @@
       "chain": [
         {
           "name": "عبد الْوَاحِد بن بكر",
-          "person_id": 1908,
+          "person_id": 1976,
           "canonical_name": "عبد الواحد بن بكر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بعض أَصْحَابنَا",
-          "person_id": 1338,
+          "person_id": 1400,
           "canonical_name": "بعض أصحابنا",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": true
@@ -454,7 +454,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "من أَقْرَان",
         "full_text": "وَهُوَ من أَقْرَان الشبلي",
-        "person_id": 628,
+        "person_id": 699,
         "canonical_name": "أبو بكر الشبلي",
         "has_id": 376
       },
@@ -463,7 +463,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب يُوسُف بن الْحُسَيْن",
-        "person_id": 1140,
+        "person_id": 1205,
         "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
         "has_id": 847
       },
@@ -472,7 +472,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "رافق",
         "full_text": "ورافق مظفرا القرميسيني",
-        "person_id": 2513,
+        "person_id": 2573,
         "canonical_name": "مظفر القرميسيني",
         "has_id": 807
       }
@@ -483,7 +483,7 @@
       "name": "مهلب بن أَحْمد الْمصْرِيّ",
       "relationship_type": "narrator",
       "full_text": "سَمِعت مهلب بن أَحْمد الْمصْرِيّ يَقُول",
-      "person_id": 2557,
+      "person_id": 2616,
       "canonical_name": "مهلب بن أحمد المصري",
       "has_id": NaN
     },
@@ -491,7 +491,7 @@
       "name": "أَبُو يَعْقُوب يُوسُف بن إِبْرَاهِيم بن عَامر الْأَبْهَرِيّ الْمُقْرِئ الْمَعْرُوف بالشافعي",
       "relationship_type": "narrator",
       "full_text": "أخبرنَا أَبُو يَعْقُوب يُوسُف بن إِبْرَاهِيم بن عَامر الْأَبْهَرِيّ الْمُقْرِئ الْمَعْرُوف بالشافعي",
-      "person_id": 1141,
+      "person_id": 1206,
       "canonical_name": "أبو يعقوب يوسف بن إبراهيم بن عامر الأبهري",
       "has_id": NaN
     },
@@ -499,7 +499,7 @@
       "name": "أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ",
       "relationship_type": "narrator",
       "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ يَقُول",
-      "person_id": 707,
+      "person_id": 782,
       "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
       "has_id": NaN
     },
@@ -507,7 +507,7 @@
       "name": "مُحَمَّد بن عبد الله",
       "relationship_type": "narrator",
       "full_text": "سَمِعت مُحَمَّد بن عبد الله يَقُول",
-      "person_id": 707,
+      "person_id": 782,
       "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
       "has_id": NaN
     },
@@ -515,7 +515,7 @@
       "name": "مَنْصُور بن عبد الله",
       "relationship_type": "narrator",
       "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول",
-      "person_id": 2547,
+      "person_id": 2606,
       "canonical_name": "منصور بن عبد الله",
       "has_id": NaN
     },
@@ -523,7 +523,7 @@
       "name": "أَحْمد بن عَليّ الوَاسِطِيّ",
       "relationship_type": "narrator",
       "full_text": "سَمِعت أَحْمد بن عَليّ الوَاسِطِيّ يَقُول سَمِعت أَبَا بكر بن طَاهِر",
-      "person_id": 1223,
+      "person_id": 1285,
       "canonical_name": "أحمد بن علي الواسطي",
       "has_id": NaN
     },
@@ -531,7 +531,7 @@
       "name": "أَبَا بكر الرَّازِيّ",
       "relationship_type": "narrator",
       "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول",
-      "person_id": 707,
+      "person_id": 782,
       "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
       "has_id": NaN
     },
@@ -539,7 +539,7 @@
       "name": "الْحُسَيْن بن أَحْمد",
       "relationship_type": "questioner",
       "full_text": "سَأَلت أَبَا بكر بن طَاهِر عَن الْحَقِيقَة",
-      "person_id": 107,
+      "person_id": 126,
       "canonical_name": "الحسين بن أحمد",
       "has_id": NaN
     },
@@ -547,7 +547,7 @@
       "name": "بعض أَصْحَابنَا",
       "relationship_type": "narrator",
       "full_text": "سَمِعت بعض أَصْحَابنَا يَقُول",
-      "person_id": 1338,
+      "person_id": 1400,
       "canonical_name": "بعض أصحابنا",
       "has_id": NaN
     }

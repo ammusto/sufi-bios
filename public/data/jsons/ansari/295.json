@@ -28,14 +28,14 @@
       "chain": [
         {
           "name": "جعفر بن احمد",
-          "person_id": 1397,
+          "person_id": 1457,
           "canonical_name": "جعفر بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 408,
+          "person_id": 460,
           "canonical_name": "أبو الحسن المزين",
           "has_id": 295,
           "subj_added": true
@@ -49,7 +49,7 @@
       "chain": [
         {
           "name": "المزین الصغیر",
-          "person_id": 408,
+          "person_id": 460,
           "canonical_name": "أبو الحسن المزين",
           "has_id": 295,
           "subj_added": false
@@ -63,21 +63,21 @@
       "chain": [
         {
           "name": "بوعبداللّه باکو٭",
-          "person_id": 15,
+          "person_id": 20,
           "canonical_name": "ابن باكوية الشيرازي",
           "has_id": 150,
           "subj_added": false
         },
         {
           "name": "محمد نجار",
-          "person_id": 2219,
+          "person_id": 2285,
           "canonical_name": "محمد النجار",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بوالحسن مزین",
-          "person_id": 408,
+          "person_id": 460,
           "canonical_name": "أبو الحسن المزين",
           "has_id": 295,
           "subj_added": false
@@ -97,7 +97,7 @@
       "chain": [
         {
           "name": "بوالحسن مزین",
-          "person_id": 408,
+          "person_id": 460,
           "canonical_name": "أبو الحسن المزين",
           "has_id": 295,
           "subj_added": false
@@ -123,14 +123,14 @@
       "chain": [
         {
           "name": "شیخ عمو",
-          "person_id": 1683,
+          "person_id": 1747,
           "canonical_name": "شيخ عمو",
           "has_id": 717,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 408,
+          "person_id": 460,
           "canonical_name": "أبو الحسن المزين",
           "has_id": 295,
           "subj_added": true
@@ -154,7 +154,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "حکایت کند",
         "full_text": "ازو گویندکی از با بعقوب اقطع حکایت کند",
-        "person_id": 1346,
+        "person_id": 1194,
         "canonical_name": "أبو يعقوب الأقطع",
         "has_id": 193
       }
@@ -167,7 +167,7 @@
       "name": "جعفر بن احمد",
       "relationship_type": "narrator",
       "full_text": "قال جعفر بن احمدکانا المزینان ابنا الخالة.",
-      "person_id": 1397,
+      "person_id": 1457,
       "canonical_name": "جعفر بن أحمد",
       "has_id": NaN
     },
@@ -175,7 +175,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -183,7 +183,7 @@
       "name": "بوعبداللّه باکو٭",
       "relationship_type": "narrator",
       "full_text": "بوعبداللّه باکو٭ گفت",
-      "person_id": 15,
+      "person_id": 20,
       "canonical_name": "ابن باكوية الشيرازي",
       "has_id": 150
     },
@@ -191,7 +191,7 @@
       "name": "محمد نجار",
       "relationship_type": "direct_narrator",
       "full_text": "محمد نجار گفت",
-      "person_id": 2219,
+      "person_id": 2285,
       "canonical_name": "محمد النجار",
       "has_id": NaN
     },
@@ -199,7 +199,7 @@
       "name": "شیخ عمو",
       "relationship_type": "narrator",
       "full_text": "شیخ عمو حکایت کرد",
-      "person_id": 1683,
+      "person_id": 1747,
       "canonical_name": "شيخ عمو",
       "has_id": 717
     },
@@ -208,7 +208,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "supplicant",
       "full_text": "مردی وقتی فراشیری رسید مرده، گفت: آلهی! ویرا زندهگردان",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -216,15 +216,15 @@
       "name": "کودک کهینه",
       "relationship_type": "interlocutor",
       "full_text": "آن کودک کهینه روباپس کرد وگفت: ایها الشیخ! یعلم ما فی انفسکم فاحذروه.",
-      "person_id": 2197,
-      "canonical_name": "كودك كهينه",
+      "person_id": 2263,
+      "canonical_name": "كودك كهين",
       "has_id": NaN
     },
     {
       "name": "کودک کهین",
       "relationship_type": "interlocutor",
       "full_text": "باز همان کودک کهین روی باز پس کرد و میرفت گفت: ایها الشیخ! یقبل التوبة عن عباده.",
-      "person_id": 2196,
+      "person_id": 2263,
       "canonical_name": "كودك كهين",
       "has_id": NaN
     }

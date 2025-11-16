@@ -8,31 +8,38 @@
       "chain": [
         {
           "name": "محمد بن أحمد بن إبراهيم",
-          "person_id": 2305,
+          "person_id": 2369,
           "canonical_name": "محمد بن أحمد بن إبراهيم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "جعفر بن محمد بن نصير",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "عمر بن ملكان",
-          "person_id": 2111,
+          "person_id": 2177,
           "canonical_name": "عمر بن ملكان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبيه",
-          "person_id": 1149,
+          "person_id": 1212,
           "canonical_name": "أبوه",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2058,
+          "canonical_name": "علي السامري",
+          "has_id": 691,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -49,7 +56,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "مؤاخاة",
         "full_text": "كان بيني وبين علي السامري مؤاخاة",
-        "person_id": 1149,
+        "person_id": 1212,
         "canonical_name": "أبوه",
         "has_id": NaN
       }
@@ -61,7 +68,7 @@
       "relationship_type": "narrator",
       "context": "interlocutor",
       "full_text": "عن أبيه قال: كان بيني وبين علي السامري مؤاخاة",
-      "person_id": 1149,
+      "person_id": 1212,
       "canonical_name": "أبوه",
       "has_id": NaN
     }

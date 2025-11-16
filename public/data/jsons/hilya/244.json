@@ -8,10 +8,17 @@
       "chain": [
         {
           "name": "عبد الله بن مسلم",
-          "person_id": 1881,
+          "person_id": 1950,
           "canonical_name": "عبد الله بن مسلم",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 228,
+          "canonical_name": "القاسم الجريري",
+          "has_id": 244,
+          "subj_added": true
         }
       ],
       "type": "single_informant",
@@ -21,11 +28,11 @@
     {
       "chain": [
         {
-          "name": "جيرانه",
-          "person_id": 1423,
-          "canonical_name": "جيرانه",
-          "has_id": NaN,
-          "subj_added": false
+          "name": "",
+          "person_id": 228,
+          "canonical_name": "القاسم الجريري",
+          "has_id": 244,
+          "subj_added": true
         }
       ],
       "type": "single_informant",
@@ -43,7 +50,7 @@
       "name": "عبد الله بن مسلم",
       "relationship_type": "narrator",
       "full_text": "عن عبد الله بن مسلم قال",
-      "person_id": 1881,
+      "person_id": 1950,
       "canonical_name": "عبد الله بن مسلم",
       "has_id": NaN
     },
@@ -52,7 +59,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "عائد",
       "full_text": "دخل بشر بن الحارث على القاسم الجريري عائدا في مرضه",
-      "person_id": 1323,
+      "person_id": 1384,
       "canonical_name": "بشر بن الحارث الحافي",
       "has_id": 470
     },
@@ -61,7 +68,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "جيران",
       "full_text": "قال جيرانه: قد جاورنا ثلاثين سنة فما سألنا حاجة قط.",
-      "person_id": 1423,
+      "person_id": 1483,
       "canonical_name": "جيرانه",
       "has_id": NaN
     }

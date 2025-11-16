@@ -54,24 +54,31 @@
       "chain": [
         {
           "name": "أبا الفضل أحمد بن عمران الهروي",
-          "person_id": 523,
+          "person_id": 586,
           "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "منصور بن عبد الله",
-          "person_id": 2547,
+          "person_id": 2606,
           "canonical_name": "منصور بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا الحسين الدراج",
-          "has_id": NaN,
-          "person_id": 49,
-          "canonical_name": "اسماعيل",
+          "has_id": 318,
+          "person_id": 501,
+          "canonical_name": "أبو الحسين الدراج",
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 815,
+          "canonical_name": "أبو جعفر المجذوم",
+          "has_id": 393,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -82,10 +89,17 @@
       "chain": [
         {
           "name": "منصور بن عبد الله",
-          "person_id": 2547,
+          "person_id": 2606,
           "canonical_name": "منصور بن عبد الله",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 815,
+          "canonical_name": "أبو جعفر المجذوم",
+          "has_id": 393,
+          "subj_added": true
         }
       ],
       "type": "single_informant",
@@ -104,14 +118,14 @@
       "relationship_type": "narrator",
       "full_text": "سمعت أبا الحسين الدراج يقول",
       "has_id": NaN,
-      "person_id": 48,
-      "canonical_name": "أسد نصيبي"
+      "person_id": 408,
+      "canonical_name": "أبا الحسين الدراج"
     },
     {
       "name": "أبي بكر الكتاني",
       "relationship_type": "interlocutor",
       "full_text": "فلما قدمت مكة ذكرت ذلك لمشايخنا أبي بكر الكتاني وأبي الحسن المزين وغيرهما، فاستحمقوني وقالوا: ذاك أبو جعفر المجذوم",
-      "person_id": 712,
+      "person_id": 786,
       "canonical_name": "أبو بكر محمد بن علي الكتاني",
       "has_id": 378
     },
@@ -119,7 +133,7 @@
       "name": "أبي الحسن المزين",
       "relationship_type": "interlocutor",
       "full_text": "فلما قدمت مكة ذكرت ذلك لمشايخنا أبي بكر الكتاني وأبي الحسن المزين وغيرهما، فاستحمقوني وقالوا: ذاك أبو جعفر المجذوم",
-      "person_id": 408,
+      "person_id": 460,
       "canonical_name": "أبو الحسن المزين",
       "has_id": 295
     }

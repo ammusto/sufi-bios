@@ -19,24 +19,31 @@
       "chain": [
         {
           "name": "أبا محمد بن حيان",
-          "person_id": 1050,
+          "person_id": 1116,
           "canonical_name": "أبو محمد بن حيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو عبد الله السليمي الفقيه",
-          "person_id": 872,
+          "person_id": 948,
           "canonical_name": "أبو عبد الله السليمي الفقيه",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن مطرف",
-          "person_id": 2649,
+          "person_id": 2708,
           "canonical_name": "يحيى بن مطرف",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1891,
+          "canonical_name": "عبد الله بن خالد",
+          "has_id": 660,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -53,7 +60,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "لقي",
         "full_text": "لقي سفيان بن عيينة وشعيب بن حرب وإبراهيم بن بكر الشيباني.",
-        "person_id": 1608,
+        "person_id": 1669,
         "canonical_name": "سفيان بن عيينة",
         "has_id": NaN
       },
@@ -62,7 +69,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "لقي",
         "full_text": "لقي سفيان بن عيينة وشعيب بن حرب وإبراهيم بن بكر الشيباني.",
-        "person_id": 1675,
+        "person_id": 1739,
         "canonical_name": "شعيب بن حرب",
         "has_id": NaN
       },
@@ -71,7 +78,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "لقي",
         "full_text": "لقي سفيان بن عيينة وشعيب بن حرب وإبراهيم بن بكر الشيباني.",
-        "person_id": 306,
+        "person_id": 330,
         "canonical_name": "إبراهيم بن بكر الشيباني",
         "has_id": NaN
       }
@@ -82,7 +89,7 @@
       "name": "يحيى بن مطرف",
       "relationship_type": "narrator",
       "full_text": "قال سمعت يحيى بن مطرف يقول",
-      "person_id": 2649,
+      "person_id": 2708,
       "canonical_name": "يحيى بن مطرف",
       "has_id": NaN
     },
@@ -91,7 +98,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "requester",
       "full_text": "فوقع لرجل حمله عن حمار له فقال: أعينوني على حمل هذا.",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -100,7 +107,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "servant",
       "full_text": "وجونته على عنق غلام له",
-      "person_id": 2152,
+      "person_id": 2218,
       "canonical_name": "غلامه",
       "has_id": NaN
     },
@@ -108,7 +115,7 @@
       "name": "المحكوم عليه",
       "relationship_type": "interlocutor",
       "full_text": "فقال المحكوم عليه: أيها القاضي حدا بترس؟",
-      "person_id": 230,
+      "person_id": 256,
       "canonical_name": "المحكوم عليه",
       "has_id": NaN
     }

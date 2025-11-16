@@ -34,7 +34,7 @@
       "chain": [
         {
           "name": "بواحمد قلانسی",
-          "person_id": 591,
+          "person_id": 662,
           "canonical_name": "أبو أحمد القلانسي",
           "has_id": 371,
           "subj_added": false
@@ -48,7 +48,7 @@
       "chain": [
         {
           "name": "بواحمد قلانسی",
-          "person_id": 591,
+          "person_id": 662,
           "canonical_name": "أبو أحمد القلانسي",
           "has_id": 371,
           "subj_added": false
@@ -68,14 +68,14 @@
       "chain": [
         {
           "name": "شیخ سیروانی",
-          "person_id": 165,
+          "person_id": 187,
           "canonical_name": "السيرواني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 591,
+          "person_id": 662,
           "canonical_name": "أبو أحمد القلانسي",
           "has_id": 371,
           "subj_added": true
@@ -119,7 +119,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اقران",
         "full_text": "از اقران جنید و رویم٭ بوده",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -128,7 +128,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اقران",
         "full_text": "از اقران جنید و رویم٭ بوده",
-        "person_id": 1553,
+        "person_id": 1615,
         "canonical_name": "رويم بن أحمد",
         "has_id": 578
       }
@@ -139,7 +139,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -147,7 +147,7 @@
       "name": "شیخ سیروانی",
       "relationship_type": "narrator",
       "full_text": "شیخ سیروانی گوید:",
-      "person_id": 165,
+      "person_id": 187,
       "canonical_name": "السيرواني",
       "has_id": NaN
     },
@@ -156,7 +156,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "destination_house",
       "full_text": "که بخانهٔ بوالفضل مالک طرق برند",
-      "person_id": 527,
+      "person_id": 590,
       "canonical_name": "أبو الفضل مالك بن طرق",
       "has_id": NaN
     },
@@ -165,7 +165,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "subject_of_anecdote",
       "full_text": "وقتی جوانمردی از زندگانی نومیدگشت",
-      "person_id": 1419,
+      "person_id": 1479,
       "canonical_name": "جوانمردي",
       "has_id": NaN
     }

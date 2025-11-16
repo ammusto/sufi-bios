@@ -23,14 +23,14 @@
       "chain": [
         {
           "name": "أبا الفضل الهروي",
-          "person_id": 523,
+          "person_id": 586,
           "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن عطاء",
-          "person_id": 894,
+          "person_id": 967,
           "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
           "has_id": 413,
           "subj_added": false
@@ -44,21 +44,21 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "أبا نصر الطوسي",
-          "person_id": 1108,
+          "person_id": 1172,
           "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عبد الله الروذباري",
-          "person_id": 894,
+          "person_id": 967,
           "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
           "has_id": 413,
           "subj_added": false
@@ -79,7 +79,7 @@
       "name": "أبا الفضل الهروي",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا الفضل الهروي يقول",
-      "person_id": 523,
+      "person_id": 586,
       "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
       "has_id": NaN
     },
@@ -87,7 +87,7 @@
       "name": "أبا نصر الطوسي",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا نصر الطوسي يقول",
-      "person_id": 1108,
+      "person_id": 1172,
       "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
       "has_id": NaN
     }

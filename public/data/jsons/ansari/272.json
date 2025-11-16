@@ -14,14 +14,14 @@
       "chain": [
         {
           "name": "بوعمر",
-          "person_id": 988,
+          "person_id": 1059,
           "canonical_name": "أبو عمر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "نجید٭",
-          "person_id": 2578,
+          "person_id": 2638,
           "canonical_name": "نجيد",
           "has_id": NaN,
           "subj_added": false
@@ -39,7 +39,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده",
         "full_text": "و محمد فضل بلخی٭ دیده",
-        "person_id": 2254,
+        "person_id": 2319,
         "canonical_name": "محمد بن الفضل البلخي",
         "has_id": 770
       }
@@ -51,7 +51,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اصحاب",
         "full_text": "از اصحاب بوعثمن حیرب است",
-        "person_id": 932,
+        "person_id": 1013,
         "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
         "has_id": 419
       }
@@ -62,7 +62,7 @@
       "name": "بوعمر",
       "relationship_type": "narrator",
       "full_text": "بوعمر و نجید٭ گوید",
-      "person_id": 988,
+      "person_id": 1059,
       "canonical_name": "أبو عمر",
       "has_id": NaN
     },
@@ -70,7 +70,7 @@
       "name": "نجید٭",
       "relationship_type": "narrator",
       "full_text": "بوعمر و نجید٭ گوید",
-      "person_id": 2578,
+      "person_id": 2638,
       "canonical_name": "نجيد",
       "has_id": NaN
     },
@@ -79,7 +79,7 @@
       "relationship_type": "interlocutor",
       "context": "respondent",
       "full_text": "احمد بن سری از بوعثمان پرسید: کی سماع چیست؟ گفت:",
-      "person_id": 932,
+      "person_id": 1013,
       "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
       "has_id": 419
     }

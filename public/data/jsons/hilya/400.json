@@ -28,63 +28,63 @@
       "chain": [
         {
           "name": "سليمان بن أحمد",
-          "person_id": 1626,
+          "person_id": 1687,
           "canonical_name": "سليمان بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو سعيد أحمد بن محمد بن زياد الأعرابي",
-          "person_id": 807,
+          "person_id": 885,
           "canonical_name": "أبو سعيد بن الأعرابي",
           "has_id": 400,
           "subj_added": false
         },
         {
           "name": "الحسن بن علي بن عفان",
-          "person_id": 98,
+          "person_id": 116,
           "canonical_name": "الحسن بن علي بن عفان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن فضيل",
-          "person_id": 2647,
+          "person_id": 2706,
           "canonical_name": "يحيى بن فضيل",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن بن صالح",
-          "person_id": 88,
+          "person_id": 106,
           "canonical_name": "الحسن بن صالح",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو جناب الكلبي",
-          "person_id": 750,
+          "person_id": 827,
           "canonical_name": "أبو جناب الكلبي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "طلحة بن مصرف",
-          "person_id": 1703,
+          "person_id": 1771,
           "canonical_name": "طلحة بن مصرف",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "زر بن حبيش",
-          "person_id": 1557,
+          "person_id": 1619,
           "canonical_name": "زر بن حبيش",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "صفوان بن عسال",
-          "person_id": 1688,
+          "person_id": 1756,
           "canonical_name": "صفوان بن عسال",
           "has_id": NaN,
           "subj_added": false
@@ -98,14 +98,14 @@
       "chain": [
         {
           "name": "عبد المنعم بن عمر",
-          "person_id": 1895,
+          "person_id": 1964,
           "canonical_name": "عبد المنعم بن عمر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو سعيد بن الأعرابي",
-          "person_id": 807,
+          "person_id": 885,
           "canonical_name": "أبو سعيد بن الأعرابي",
           "has_id": 400,
           "subj_added": false
@@ -119,14 +119,14 @@
       "chain": [
         {
           "name": "عبد المنعم بن عمر",
-          "person_id": 1895,
+          "person_id": 1964,
           "canonical_name": "عبد المنعم بن عمر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو سعيد بن الأعرابي",
-          "person_id": 807,
+          "person_id": 885,
           "canonical_name": "أبو سعيد بن الأعرابي",
           "has_id": 400,
           "subj_added": false
@@ -140,14 +140,14 @@
       "chain": [
         {
           "name": "عبد المنعم بن عمر",
-          "person_id": 1895,
+          "person_id": 1964,
           "canonical_name": "عبد المنعم بن عمر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو سعيد بن الأعرابي",
-          "person_id": 807,
+          "person_id": 885,
           "canonical_name": "أبو سعيد بن الأعرابي",
           "has_id": 400,
           "subj_added": false
@@ -168,7 +168,7 @@
       "name": "سليمان بن أحمد",
       "relationship_type": "narrator",
       "full_text": "حدثنا سليمان بن أحمد",
-      "person_id": 1626,
+      "person_id": 1687,
       "canonical_name": "سليمان بن أحمد",
       "has_id": NaN
     },
@@ -176,7 +176,7 @@
       "name": "عبد المنعم بن عمر",
       "relationship_type": "narrator",
       "full_text": "سمعت عبد المنعم بن عمر يقول",
-      "person_id": 1895,
+      "person_id": 1964,
       "canonical_name": "عبد المنعم بن عمر",
       "has_id": NaN
     }

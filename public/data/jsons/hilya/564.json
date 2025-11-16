@@ -24,21 +24,21 @@
       "chain": [
         {
           "name": "علي بن هارون - صاحب الجنيد -",
-          "person_id": 435,
+          "person_id": 489,
           "canonical_name": "أبو الحسن علي بن هارون",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "غير واحد من أصحابه ممن حضر موته",
-          "person_id": 2154,
+          "person_id": 2220,
           "canonical_name": "غير واحد من أصحابه ممن حضر موته",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1510,
+          "person_id": 1572,
           "canonical_name": "خير النساج",
           "has_id": 564,
           "subj_added": true
@@ -52,14 +52,14 @@
       "chain": [
         {
           "name": "جعفر بن محمد بن نصير",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "خيرا النساج",
-          "person_id": 1510,
+          "person_id": 1572,
           "canonical_name": "خير النساج",
           "has_id": 564,
           "subj_added": false
@@ -73,28 +73,28 @@
       "chain": [
         {
           "name": "الحسن بن جعفر",
-          "person_id": 82,
+          "person_id": 100,
           "canonical_name": "الحسن بن جعفر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن إبراهيم الجريري",
-          "person_id": 1805,
+          "person_id": 1872,
           "canonical_name": "عبد الله بن إبراهيم الجريري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو الخير الديلمي",
-          "person_id": 474,
+          "person_id": 531,
           "canonical_name": "أبو الخير الديلمي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1510,
+          "person_id": 1572,
           "canonical_name": "خير النساج",
           "has_id": 564,
           "subj_added": true
@@ -114,16 +114,16 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "سكن بغداد وصحب أبا حمزة والسري السقطي.",
-        "person_id": 764,
-        "canonical_name": "أبو حمزة البغدادي",
-        "has_id": 397
+        "person_id": 844,
+        "canonical_name": "أبو حمزة محمد بن إبراهيم البغدادي",
+        "has_id": 773
       },
       {
         "name": "السري السقطي",
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "سكن بغداد وصحب أبا حمزة والسري السقطي.",
-        "person_id": 161,
+        "person_id": 183,
         "canonical_name": "السري السقطي",
         "has_id": 236
       }
@@ -134,7 +134,7 @@
       "name": "غير واحد من أصحابه ممن حضر موته",
       "relationship_type": "narrator",
       "full_text": "يحكي عن غير واحد من أصحابه ممن حضر موته قال",
-      "person_id": 2154,
+      "person_id": 2220,
       "canonical_name": "غير واحد من أصحابه ممن حضر موته",
       "has_id": NaN
     },
@@ -142,7 +142,7 @@
       "name": "جعفر بن محمد بن نصير",
       "relationship_type": "questioner",
       "full_text": "سألت خيرا النساج",
-      "person_id": 1405,
+      "person_id": 1464,
       "canonical_name": "جعفر بن محمد الخلدي",
       "has_id": 495
     },
@@ -150,7 +150,7 @@
       "name": "أبو الخير الديلمي",
       "relationship_type": "interlocutor",
       "full_text": "قال قال أبو الخير الديلمي: كنت جالسا عند خير النساج",
-      "person_id": 474,
+      "person_id": 531,
       "canonical_name": "أبو الخير الديلمي",
       "has_id": NaN
     },
@@ -158,7 +158,7 @@
       "name": "امرأة",
       "relationship_type": "interlocutor",
       "full_text": "فأتته امرأة وقالت: أعطني المنديل الذي دفعته إليك.",
-      "person_id": 261,
+      "person_id": 287,
       "canonical_name": "امرأة",
       "has_id": NaN
     },
@@ -167,7 +167,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "dreamer",
       "full_text": "فرآه بعض أصحابه في المنام فقال له: ما فعل الله بك؟",
-      "person_id": 1339,
+      "person_id": 1401,
       "canonical_name": "بعض أصحابه",
       "has_id": NaN
     },
@@ -175,7 +175,7 @@
       "name": "رجل",
       "relationship_type": "interlocutor",
       "full_text": "إذا رجل نظر إلى وقال: يا خير يا آبق هربت مني؟",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     }

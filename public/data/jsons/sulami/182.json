@@ -33,7 +33,7 @@
       "chain": [
         {
           "name": "أَبَا مُحَمَّد الرَّاسِبِي",
-          "person_id": 1039,
+          "person_id": 1127,
           "canonical_name": "أبو محمد عبد الله بن محمد الراسبي",
           "has_id": 182,
           "subj_added": false
@@ -47,7 +47,7 @@
       "chain": [
         {
           "name": "أَبَا مُحَمَّد",
-          "person_id": 1039,
+          "person_id": 1127,
           "canonical_name": "أبو محمد عبد الله بن محمد الراسبي",
           "has_id": 182,
           "subj_added": false
@@ -61,7 +61,7 @@
       "chain": [
         {
           "name": "أَبَا مُحَمَّد",
-          "person_id": 1039,
+          "person_id": 1127,
           "canonical_name": "أبو محمد عبد الله بن محمد الراسبي",
           "has_id": 182,
           "subj_added": false
@@ -75,7 +75,7 @@
       "chain": [
         {
           "name": "أَبَا مُحَمَّد",
-          "person_id": 1039,
+          "person_id": 1127,
           "canonical_name": "أبو محمد عبد الله بن محمد الراسبي",
           "has_id": 182,
           "subj_added": false
@@ -89,14 +89,14 @@
       "chain": [
         {
           "name": "عَليّ بن سعيد الثغري",
-          "person_id": 2034,
+          "person_id": 2105,
           "canonical_name": "علي بن سعيد الثغري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1039,
+          "person_id": 1127,
           "canonical_name": "أبو محمد عبد الله بن محمد الراسبي",
           "has_id": 182,
           "subj_added": true
@@ -110,7 +110,7 @@
       "chain": [
         {
           "name": "الرَّاسِبِي",
-          "person_id": 1039,
+          "person_id": 1127,
           "canonical_name": "أبو محمد عبد الله بن محمد الراسبي",
           "has_id": 182,
           "subj_added": false
@@ -124,7 +124,7 @@
       "chain": [
         {
           "name": "أَبَا مُحَمَّد",
-          "person_id": 1039,
+          "person_id": 1127,
           "canonical_name": "أبو محمد عبد الله بن محمد الراسبي",
           "has_id": 182,
           "subj_added": false
@@ -138,7 +138,7 @@
       "chain": [
         {
           "name": "ابا مُحَمَّد",
-          "person_id": 1039,
+          "person_id": 1127,
           "canonical_name": "أبو محمد عبد الله بن محمد الراسبي",
           "has_id": 182,
           "subj_added": false
@@ -158,7 +158,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب أَبَا الْعَبَّاس بن عَطاء والجريري",
-        "person_id": 498,
+        "person_id": 559,
         "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
         "has_id": 340
       },
@@ -167,7 +167,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب أَبَا الْعَبَّاس بن عَطاء والجريري",
-        "person_id": 1035,
+        "person_id": 1104,
         "canonical_name": "أبو محمد الجريري",
         "has_id": 431
       }
@@ -178,7 +178,7 @@
       "name": "عَليّ بن سعيد الثغري",
       "relationship_type": "narrator",
       "full_text": "سَمِعت عَليّ بن سعيد الثغري يَقُول",
-      "person_id": 2034,
+      "person_id": 2105,
       "canonical_name": "علي بن سعيد الثغري",
       "has_id": NaN
     }

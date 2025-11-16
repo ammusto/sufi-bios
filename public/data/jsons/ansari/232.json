@@ -70,7 +70,7 @@
       "chain": [
         {
           "name": "بوعبداللّه خفیف",
-          "person_id": 22,
+          "person_id": 974,
           "canonical_name": "أبو عبد الله بن خفيف",
           "has_id": 26,
           "subj_added": false
@@ -84,14 +84,14 @@
       "chain": [
         {
           "name": "شیخ بوعبداللّه با کو",
-          "person_id": 15,
+          "person_id": 20,
           "canonical_name": "ابن باكوية الشيرازي",
           "has_id": 150,
           "subj_added": false
         },
         {
           "name": "بوعبداللّه خفیف",
-          "person_id": 22,
+          "person_id": 974,
           "canonical_name": "أبو عبد الله بن خفيف",
           "has_id": 26,
           "subj_added": false
@@ -105,14 +105,14 @@
       "chain": [
         {
           "name": "شیخ بوعبداللّه با کو",
-          "person_id": 15,
+          "person_id": 20,
           "canonical_name": "ابن باكوية الشيرازي",
           "has_id": 150,
           "subj_added": false
         },
         {
           "name": "بوعبداللّه خفیف",
-          "person_id": 22,
+          "person_id": 974,
           "canonical_name": "أبو عبد الله بن خفيف",
           "has_id": 26,
           "subj_added": false
@@ -138,14 +138,14 @@
       "chain": [
         {
           "name": "پدر من",
-          "person_id": 377,
+          "person_id": 420,
           "canonical_name": "أببي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبدالملک اسکاف",
-          "person_id": 1890,
+          "person_id": 1959,
           "canonical_name": "عبد الملك اسكاف",
           "has_id": 671,
           "subj_added": false
@@ -159,7 +159,7 @@
       "chain": [
         {
           "name": "ابراهیم",
-          "person_id": 321,
+          "person_id": 347,
           "canonical_name": "إبراهيم بن فاتك",
           "has_id": 32,
           "subj_added": false
@@ -173,7 +173,7 @@
       "chain": [
         {
           "name": "فارس البغدادی",
-          "person_id": 2159,
+          "person_id": 2227,
           "canonical_name": "فارس بن عيسى البغدادي",
           "has_id": 721,
           "subj_added": false
@@ -187,7 +187,7 @@
       "chain": [
         {
           "name": "فارس البغدادی",
-          "person_id": 2159,
+          "person_id": 2227,
           "canonical_name": "فارس بن عيسى البغدادي",
           "has_id": 721,
           "subj_added": false
@@ -201,7 +201,7 @@
       "chain": [
         {
           "name": "فارس البغدادی",
-          "person_id": 2159,
+          "person_id": 2227,
           "canonical_name": "فارس بن عيسى البغدادي",
           "has_id": 721,
           "subj_added": false
@@ -215,7 +215,7 @@
       "chain": [
         {
           "name": "بو عبداللّه خفیف",
-          "person_id": 22,
+          "person_id": 974,
           "canonical_name": "أبو عبد الله بن خفيف",
           "has_id": 26,
           "subj_added": false
@@ -259,9 +259,9 @@
       "chain": [
         {
           "name": "الامام",
-          "person_id": 55,
-          "canonical_name": "الامام",
-          "has_id": NaN,
+          "person_id": 146,
+          "canonical_name": "الحسين بن منصور الحلاج",
+          "has_id": 232,
           "subj_added": false
         }
       ],
@@ -273,14 +273,14 @@
       "chain": [
         {
           "name": "شیخ بوعبداللّه با کو",
-          "person_id": 15,
+          "person_id": 20,
           "canonical_name": "ابن باكوية الشيرازي",
           "has_id": 150,
           "subj_added": false
         },
         {
           "name": "احمد",
-          "person_id": 1154,
+          "person_id": 1218,
           "canonical_name": "أحمد",
           "has_id": NaN,
           "subj_added": false
@@ -294,7 +294,7 @@
       "chain": [
         {
           "name": "مرتعش",
-          "person_id": 1043,
+          "person_id": 1128,
           "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
           "has_id": 251,
           "subj_added": false
@@ -308,7 +308,7 @@
       "chain": [
         {
           "name": "شیخ بوعبداللّه با کو",
-          "person_id": 15,
+          "person_id": 20,
           "canonical_name": "ابن باكوية الشيرازي",
           "has_id": 150,
           "subj_added": false
@@ -326,7 +326,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده بود با",
         "full_text": "صحبت کرده بود با جنید و نوری",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -335,7 +335,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده بود با",
         "full_text": "صحبت کرده بود با جنید و نوری",
-        "person_id": 452,
+        "person_id": 510,
         "canonical_name": "أبو الحسين النوري",
         "has_id": 439
       },
@@ -344,7 +344,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد عمر و عثمان مکی٭ بوده",
-        "person_id": 2084,
+        "person_id": 2149,
         "canonical_name": "عمر",
         "has_id": NaN
       },
@@ -353,7 +353,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد عمر و عثمان مکی٭ بوده",
-        "person_id": 1948,
+        "person_id": 2017,
         "canonical_name": "عثمان المكي",
         "has_id": NaN
       },
@@ -362,7 +362,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "از مشایخ",
         "full_text": "و فوطی و جز ازیشان از مشایخ.",
-        "person_id": 201,
+        "person_id": 226,
         "canonical_name": "الفوطي",
         "has_id": NaN
       }
@@ -373,7 +373,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "شاگرد",
         "full_text": "القصه شیخ الاسلام گفت: کی عبدالملک اسکاف شاگرد در حلاج بود",
-        "person_id": 1890,
+        "person_id": 1959,
         "canonical_name": "عبد الملك اسكاف",
         "has_id": 671
       },
@@ -382,7 +382,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "شاگرد",
         "full_text": "ابراهیم فاتک نیز شاگرد وی بود.",
-        "person_id": 321,
+        "person_id": 347,
         "canonical_name": "إبراهيم بن فاتك",
         "has_id": 32
       },
@@ -391,7 +391,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "شاگرد",
         "full_text": "و شاگرد الحسین شاگرد وی بود هیکل نام بود با وی ویرا بکشتند، ویرا شاگرد الحسین نام کردند.",
-        "person_id": 2609,
+        "person_id": 2670,
         "canonical_name": "هيكل",
         "has_id": NaN
       }
@@ -403,7 +403,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت: کی وی نه حلاج بود، کی بسبب ویرا حلاج لقب کردند.",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -411,7 +411,7 @@
       "name": "شیخ بوعبداللّه با کو",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت: کی من شیخ بوعبداللّه با کو را پرسیدم",
-      "person_id": 15,
+      "person_id": 20,
       "canonical_name": "ابن باكوية الشيرازي",
       "has_id": 150
     },
@@ -419,7 +419,7 @@
       "name": "بوعبداللّه خفیف",
       "relationship_type": "narrator",
       "full_text": "بوعبداللّه خفیف ویرا گوید امام ربانی.",
-      "person_id": 22,
+      "person_id": 974,
       "canonical_name": "أبو عبد الله بن خفيف",
       "has_id": 26
     },
@@ -427,7 +427,7 @@
       "name": "پدر من",
       "relationship_type": "narrator",
       "full_text": "پدر من گفت: کی عبدالملک اسکاف فرا من گفت",
-      "person_id": 377,
+      "person_id": 420,
       "canonical_name": "أببي",
       "has_id": NaN
     },
@@ -435,7 +435,7 @@
       "name": "عبدالملک اسکاف",
       "relationship_type": "direct_narrator",
       "full_text": "عبدالملک اسکاف فرا من گفت: که وقتی حلاج را گفتم: ای شیخ! عارف که بود؟",
-      "person_id": 1890,
+      "person_id": 1959,
       "canonical_name": "عبد الملك اسكاف",
       "has_id": 671
     },
@@ -443,7 +443,7 @@
       "name": "شریف حمزهٔ عقیلی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "با شریف حمزهٔ عقیلی میبود ببلخ، از یاران وی بود",
-      "person_id": 1665,
+      "person_id": 1729,
       "canonical_name": "شريف بن حمزة العقيلي",
       "has_id": 619
     },
@@ -451,7 +451,7 @@
       "name": "پیر پارسی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "و با پدر من و پیر پارسی و بوالسن طبری و بوالقاسم حنانه و جز از ایشان همه مه میداشت",
-      "person_id": 1680,
+      "person_id": 1745,
       "canonical_name": "شيج",
       "has_id": NaN
     },
@@ -459,7 +459,7 @@
       "name": "بوالسن طبری",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "و با پدر من و پیر پارسی و بوالسن طبری و بوالقاسم حنانه و جز از ایشان همه مه میداشت",
-      "person_id": 403,
+      "person_id": 451,
       "canonical_name": "أبو الحسن الطبري",
       "has_id": NaN
     },
@@ -467,7 +467,7 @@
       "name": "بوالقاسم حنانه",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "و با پدر من و پیر پارسی و بوالسن طبری و بوالقاسم حنانه و جز از ایشان همه مه میداشت",
-      "person_id": 550,
+      "person_id": 613,
       "canonical_name": "أبو القاسم حنانه",
       "has_id": NaN
     },
@@ -475,7 +475,7 @@
       "name": "ابراهیم فاتک",
       "relationship_type": "narrator",
       "full_text": "ابراهیم گوید: کی آن شب کی حسین منصور را بردارکردند",
-      "person_id": 321,
+      "person_id": 347,
       "canonical_name": "إبراهيم بن فاتك",
       "has_id": 32
     },
@@ -483,15 +483,15 @@
       "name": "ابوالفاتک البغدادی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "ابوالفاتک البغدادی صحب النوری و الجنید٭ وکان الجنید یکرمه وکان مهجوراً و کان ینتمی الی الحلاج.",
-      "person_id": 511,
+      "person_id": 573,
       "canonical_name": "أبو الفاتك البغدادي",
-      "has_id": 346
+      "has_id": NaN
     },
     {
       "name": "فاتک بن سعید",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "فاتک بن سعید من مشایخ الشام من اهل بیت المقدس من متأخری مشایخهم.",
-      "person_id": 2157,
+      "person_id": 2223,
       "canonical_name": "فاتك بن سعيد",
       "has_id": NaN
     },
@@ -499,7 +499,7 @@
       "name": "شبلی٭",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "و شبلی٭ زیر دار وی باز استادگفت: اولم ننهک عن العالمین ... و شبلی گفت: که من همان میگویم که او میگفت، لیکن دیوانگی مرا برهاند، و عقل ویرا درافگند.",
-      "person_id": 628,
+      "person_id": 699,
       "canonical_name": "أبو بكر الشبلي",
       "has_id": 376
     },
@@ -507,15 +507,15 @@
       "name": "آن قاضی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "آن قاضی که ویرا بکشته بود یعنی فرموده گفت: او دعوی پیغامبری میکرد، و این دعوی خدائی میکند",
-      "person_id": 1320,
-      "canonical_name": "آن قاضي",
+      "person_id": 2242,
+      "canonical_name": "قاضي",
       "has_id": NaN
     },
     {
       "name": "حسین داؤد",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "مرتعش گوید: کی با حسین داؤد در خانهٔ حسن خیاط شدم.",
-      "person_id": 1457,
+      "person_id": 1519,
       "canonical_name": "حسين داود",
       "has_id": NaN
     },
@@ -523,7 +523,7 @@
       "name": "حسن خیاط",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "مرتعش گوید: کی با حسین داؤد در خانهٔ حسن خیاط شدم.",
-      "person_id": 1448,
+      "person_id": 1510,
       "canonical_name": "حسن خياط",
       "has_id": NaN
     },
@@ -531,7 +531,7 @@
       "name": "علی اعرج هاشمی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "گفت: علی اعرج هاشمی ببغداد",
-      "person_id": 1985,
+      "person_id": 2054,
       "canonical_name": "علي اعرج هاشمي",
       "has_id": NaN
     },
@@ -539,7 +539,7 @@
       "name": "بو عبداللّه دینوری٭",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "حکایت: بوعبداللّه دینوری٭ در کشتی و دریا بماند",
-      "person_id": 866,
+      "person_id": 943,
       "canonical_name": "أبو عبد الله الدينوري",
       "has_id": 138
     },
@@ -547,7 +547,7 @@
       "name": "شیخ بومنصور",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "شیخ بومنصور کاو کلاه بوده بسر خس، از مشایخ اهل ملامت بوده",
-      "person_id": 1085,
+      "person_id": 1150,
       "canonical_name": "أبو منصور",
       "has_id": NaN
     },
@@ -556,7 +556,7 @@
       "relationship_type": "interlocutor",
       "context": "تعریف تصوف",
       "full_text": "شیخ الاسلام گفت: که از حبشی بغدادی پرسیدندکه تصوف چیست؟ گفت: مراد حق در خلق وی خلق.\nهو حبشی بن داود، من مشایخ البغداد بین من متقدمی مشایخهم",
-      "person_id": 1431,
+      "person_id": 1492,
       "canonical_name": "حبشي بن داود",
       "has_id": NaN
     },
@@ -564,7 +564,7 @@
       "name": "الدقاق",
       "relationship_type": "narrator",
       "full_text": "وانشد الدقاق وله ثلثة ابیات",
-      "person_id": 620,
+      "person_id": 692,
       "canonical_name": "أبو بكر الدقاق",
       "has_id": NaN
     },
@@ -572,7 +572,7 @@
       "name": "الامام",
       "relationship_type": "narrator",
       "full_text": "وانشدنا الامام للحسین بن منصور",
-      "person_id": 55,
+      "person_id": 74,
       "canonical_name": "الامام",
       "has_id": NaN
     },
@@ -580,7 +580,7 @@
       "name": "فارس البغدادی",
       "relationship_type": "direct_narrator",
       "full_text": "قال فارس البغدادی: سألت الحسین ابن منصور عن المرید",
-      "person_id": 2159,
+      "person_id": 2227,
       "canonical_name": "فارس بن عيسى البغدادي",
       "has_id": 721
     },
@@ -588,7 +588,7 @@
       "name": "احمد",
       "relationship_type": "direct_narrator",
       "full_text": "کی از احمد شنیدم بخجند پسر حسین منصور حلاج: کی پسین شب پدر را گفتم، کی مرا وصیتی کن!",
-      "person_id": 1154,
+      "person_id": 1218,
       "canonical_name": "أحمد",
       "has_id": NaN
     },
@@ -596,7 +596,7 @@
       "name": "بوالعباس عطا",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "یکی بوالعباس عطا و شیخ بوعبداللّه خفیف و شیخ ابوالقاسم نصرآبادی٭ دیگرکس از مشایخ ویرا نه پذیرند",
-      "person_id": 498,
+      "person_id": 559,
       "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
       "has_id": 340
     },
@@ -604,7 +604,7 @@
       "name": "شیخ ابوالقاسم نصرآبادی٭",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "یکی بوالعباس عطا و شیخ بوعبداللّه خفیف و شیخ ابوالقاسم نصرآبادی٭",
-      "person_id": 545,
+      "person_id": 608,
       "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
       "has_id": 360
     }

@@ -58,7 +58,7 @@
       "chain": [
         {
           "name": "فضیل عیاض",
-          "person_id": 200,
+          "person_id": 225,
           "canonical_name": "الفضيل بن عياض",
           "has_id": 243,
           "subj_added": false
@@ -78,14 +78,14 @@
       "chain": [
         {
           "name": "وهب منبه",
-          "person_id": 2620,
+          "person_id": 2680,
           "canonical_name": "وهب بن منبه",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 200,
+          "person_id": 225,
           "canonical_name": "الفضيل بن عياض",
           "has_id": 243,
           "subj_added": true
@@ -117,14 +117,14 @@
       "chain": [
         {
           "name": "محمد بن سعید الفرنجی",
-          "person_id": 2358,
+          "person_id": 2422,
           "canonical_name": "محمد بن سعيد الفرنجي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 200,
+          "person_id": 225,
           "canonical_name": "الفضيل بن عياض",
           "has_id": 243,
           "subj_added": true
@@ -156,14 +156,14 @@
       "chain": [
         {
           "name": "یوسف اسباط",
-          "person_id": 2677,
+          "person_id": 2735,
           "canonical_name": "يوسف بن أسباط",
           "has_id": 846,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 200,
+          "person_id": 225,
           "canonical_name": "الفضيل بن عياض",
           "has_id": 243,
           "subj_added": true
@@ -200,7 +200,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "از استاذان",
         "full_text": "از استاذان عبداللّه مبارک",
-        "person_id": 1804,
+        "person_id": 1871,
         "canonical_name": "عبد الله بن المبارك",
         "has_id": 668
       }
@@ -211,7 +211,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اقران",
         "full_text": "از اقران ثوری و مالک",
-        "person_id": 66,
+        "person_id": 83,
         "canonical_name": "الثوري",
         "has_id": NaN
       },
@@ -220,7 +220,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اقران",
         "full_text": "از اقران ثوری و مالک",
-        "person_id": 2203,
+        "person_id": 2269,
         "canonical_name": "مالك",
         "has_id": NaN
       }
@@ -232,7 +232,7 @@
       "relationship_type": "direct_narrator",
       "context": "",
       "full_text": "شیخ الاسلام گفت قدس اللّه روحه",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -241,7 +241,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "شعر",
       "full_text": "و انشدنا لموحمود الوراق1",
-      "person_id": 2482,
+      "person_id": 2543,
       "canonical_name": "محمود الوراق",
       "has_id": NaN
     },
@@ -250,7 +250,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "از تابعین",
       "full_text": "شیخ الاسلام گفت: کی وهب منبه از تابعین است حکیم امت وی گوید",
-      "person_id": 2620,
+      "person_id": 2680,
       "canonical_name": "وهب بن منبه",
       "has_id": NaN
     },
@@ -259,7 +259,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "شعر",
       "full_text": "وانشدنا لا بی یزید البسطامی٭",
-      "person_id": 1128,
+      "person_id": 1191,
       "canonical_name": "أبو يزيد البسطامي",
       "has_id": 435
     },
@@ -268,7 +268,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "در باب «سفله کی است؟» پاسخ داد",
       "full_text": "شیخ الاسلام گفت رضی اللهّ عنه: که محمد بن سعید الفرنجی را پرسیدندکه سفله کی است؟ گفت: او که اللّه پرستد بر بیم و امید",
-      "person_id": 2358,
+      "person_id": 2422,
       "canonical_name": "محمد بن سعيد الفرنجي",
       "has_id": NaN
     },
@@ -277,7 +277,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "پسر فضیل عیاض",
       "full_text": "فضیل عیاض را پسری بود علی نام",
-      "person_id": 1984,
+      "person_id": 2053,
       "canonical_name": "علي",
       "has_id": NaN
     },
@@ -286,7 +286,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "قاضی بصره",
       "full_text": "شیخ الاسلام گفت: زراه بن اوفی ٭ قاضی بصره از تابعین است",
-      "person_id": 1558,
+      "person_id": 1620,
       "canonical_name": "زراه بن اوفي",
       "has_id": NaN
     },
@@ -295,7 +295,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "از متقد مانست از ایمه شرعست",
       "full_text": "یوسف اسباط از متقد مانست از ایمه شرعست و سید در زهد و ورع",
-      "person_id": 2677,
+      "person_id": 2735,
       "canonical_name": "يوسف بن أسباط",
       "has_id": 846
     },
@@ -304,7 +304,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "این سخن گفته پس از وی",
       "full_text": "و ذوالنون مصری ٭ این سخن گفته پس از وی",
-      "person_id": 1523,
+      "person_id": 1586,
       "canonical_name": "ذو النون المصري",
       "has_id": 570
     },
@@ -313,7 +313,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "هم این سخن گفته",
       "full_text": "و هم ملاحت گفته مات مخلد بن حسین سنه احدی و تسعین و مائة",
-      "person_id": 2489,
+      "person_id": 2550,
       "canonical_name": "مخلد بن حسين",
       "has_id": NaN
     },
@@ -322,7 +322,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "معه ذکر وفات یوسف اسباط",
       "full_text": "مع وکیع بن الجراح و بقیه بن الوید",
-      "person_id": 2618,
+      "person_id": 2678,
       "canonical_name": "وكيع بن الجراح",
       "has_id": NaN
     },
@@ -331,7 +331,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "معه ذکر وفات یوسف اسباط",
       "full_text": "مع وکیع بن الجراح و بقیه بن الوید",
-      "person_id": 1349,
+      "person_id": 1410,
       "canonical_name": "بقيه بن الويد",
       "has_id": NaN
     },
@@ -340,7 +340,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "شعر",
       "full_text": "و انشدنا لمجنون العامری",
-      "person_id": 2210,
+      "person_id": 2276,
       "canonical_name": "مجنون العامري",
       "has_id": NaN
     }

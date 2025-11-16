@@ -30,7 +30,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "از شاگردان",
         "full_text": "از شاگردان حسن بصری است",
-        "person_id": 1444,
+        "person_id": 1506,
         "canonical_name": "حسن البصري",
         "has_id": 513
       }
@@ -41,7 +41,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "استاد",
         "full_text": "استاد بوالحسن هریوه بود",
-        "person_id": 441,
+        "person_id": 496,
         "canonical_name": "أبو الحسن هريوه",
         "has_id": NaN
       }
@@ -53,7 +53,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     }

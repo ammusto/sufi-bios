@@ -19,21 +19,21 @@
       "chain": [
         {
           "name": "أبا عبد الله محمد بن أحمد بن دينار الدينوري",
-          "person_id": 902,
+          "person_id": 975,
           "canonical_name": "أبو عبد الله بن دينار الدينوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إبراهيم بن شيبان",
-          "person_id": 314,
+          "person_id": 339,
           "canonical_name": "إبراهيم بن شيبان",
-          "has_id": NaN,
+          "has_id": 277,
           "subj_added": false
         },
         {
           "name": "أبا عبد الله المغربي",
-          "person_id": 885,
+          "person_id": 960,
           "canonical_name": "أبو عبد الله المغربي",
           "has_id": 416,
           "subj_added": false
@@ -47,21 +47,21 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "الورثاني",
-          "person_id": 519,
+          "person_id": 581,
           "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو عبد الله المغربى",
-          "person_id": 885,
+          "person_id": 960,
           "canonical_name": "أبو عبد الله المغربي",
           "has_id": 416,
           "subj_added": false
@@ -79,7 +79,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "أستاذه",
         "full_text": "عند قبر أستاذه علي بن رزين",
-        "person_id": 2030,
+        "person_id": 2101,
         "canonical_name": "علي بن رزين",
         "has_id": 696
       }
@@ -91,7 +91,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب علي بن رزين",
-        "person_id": 2030,
+        "person_id": 2101,
         "canonical_name": "علي بن رزين",
         "has_id": 696
       }
@@ -103,16 +103,16 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "سمعت إبراهيم بن شيبان يقول سمعت أبا عبد الله المغربي يقول",
-      "person_id": 314,
+      "person_id": 339,
       "canonical_name": "إبراهيم بن شيبان",
-      "has_id": NaN
+      "has_id": 277
     },
     {
       "name": "الورثاني",
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "أنشدني الورثاني لأبي عبد الله المغربى",
-      "person_id": 519,
+      "person_id": 581,
       "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
       "has_id": NaN
     }

@@ -14,14 +14,14 @@
       "chain": [
         {
           "name": "شیخ عباس فقیر هروی",
-          "person_id": 1718,
+          "person_id": 1785,
           "canonical_name": "عباس الهروي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "شیخ بوالعباس نهاوندی",
-          "person_id": 499,
+          "person_id": 560,
           "canonical_name": "أبو العباس أحمد بن محمد بن الفضل النهاوندي",
           "has_id": 53,
           "subj_added": false
@@ -51,7 +51,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد جعفر خلدی",
-        "person_id": 1405,
+        "person_id": 1464,
         "canonical_name": "جعفر بن محمد الخلدي",
         "has_id": 495
       },
@@ -60,7 +60,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "پیر",
         "full_text": "پیر شیخ عمو و عباس",
-        "person_id": 1683,
+        "person_id": 1747,
         "canonical_name": "شيخ عمو",
         "has_id": 717
       },
@@ -69,7 +69,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "پیر",
         "full_text": "پیر شیخ عمو و عباس",
-        "person_id": 1718,
+        "person_id": 1785,
         "canonical_name": "عباس الهروي",
         "has_id": NaN
       }
@@ -82,7 +82,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت که",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -90,7 +90,7 @@
       "name": "شیخ عباس فقیر هروی",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ عباس فقیر هروی مرا گفت",
-      "person_id": 1718,
+      "person_id": 1785,
       "canonical_name": "عباس الهروي",
       "has_id": NaN
     }

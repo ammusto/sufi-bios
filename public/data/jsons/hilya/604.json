@@ -14,30 +14,30 @@
       "chain": [
         {
           "name": "جعفر بن محمد بن نصير",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "علان البناء",
-          "person_id": 1979,
+          "person_id": 2048,
           "canonical_name": "علان البناء",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "المثنى الأنباري",
-          "person_id": 226,
+          "person_id": 252,
           "canonical_name": "المثنى الأنباري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سهل بن وهبان",
-          "person_id": 1644,
-          "canonical_name": "سهل بن وهبان",
-          "has_id": NaN,
+          "person_id": 1706,
+          "canonical_name": "سهل بن وهبان الأنباري",
+          "has_id": 604,
           "subj_added": false
         }
       ],
@@ -55,7 +55,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "من أقران",
         "full_text": "من أقران الجنيد.",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       }
@@ -66,7 +66,7 @@
       "name": "المثنى الأنباري",
       "relationship_type": "narrator",
       "full_text": "سمعت المثنى الأنباري يقول",
-      "person_id": 226,
+      "person_id": 252,
       "canonical_name": "المثنى الأنباري",
       "has_id": NaN
     }

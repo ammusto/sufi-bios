@@ -33,7 +33,7 @@
       "chain": [
         {
           "name": "حمدون گازر",
-          "person_id": 827,
+          "person_id": 906,
           "canonical_name": "أبو صالح حمدون بن أحمد القصار",
           "has_id": 524,
           "subj_added": false
@@ -53,7 +53,7 @@
       "chain": [
         {
           "name": "حمدون",
-          "person_id": 827,
+          "person_id": 906,
           "canonical_name": "أبو صالح حمدون بن أحمد القصار",
           "has_id": 524,
           "subj_added": false
@@ -67,7 +67,7 @@
       "chain": [
         {
           "name": "حمدون",
-          "person_id": 827,
+          "person_id": 906,
           "canonical_name": "أبو صالح حمدون بن أحمد القصار",
           "has_id": 524,
           "subj_added": false
@@ -81,14 +81,14 @@
       "chain": [
         {
           "name": "ابوالحسن الباروسی",
-          "person_id": 423,
+          "person_id": 478,
           "canonical_name": "أبو الحسن سلم بن الحسن الباروسي",
           "has_id": 291,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 827,
+          "person_id": 906,
           "canonical_name": "أبو صالح حمدون بن أحمد القصار",
           "has_id": 524,
           "subj_added": true
@@ -124,7 +124,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "استاد",
         "full_text": "طریقت او استاد عبدالله منازل ٭ است",
-        "person_id": 1065,
+        "person_id": 1133,
         "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
         "has_id": 654
       },
@@ -133,7 +133,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت داشته با",
         "full_text": "حمدون گازر صحبت داشته باسلم بن الحسن الباروسی",
-        "person_id": 423,
+        "person_id": 478,
         "canonical_name": "أبو الحسن سلم بن الحسن الباروسي",
         "has_id": 291
       },
@@ -142,7 +142,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت داشته با",
         "full_text": "حمدون گازر صحبت داشته ... بابو تراب نخشبی.",
-        "person_id": 721,
+        "person_id": 796,
         "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
         "has_id": 388
       },
@@ -151,7 +151,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "از استاذان",
         "full_text": "ابوالحسن الباروسی نام وی سلم بن الحسن و سالم، گفتندکی کنیت وی بوعمران بود از قدیمان مشایخ نشاپور، از استاذان حمدونگازر و مستجاب الدعوه بود.",
-        "person_id": 423,
+        "person_id": 478,
         "canonical_name": "أبو الحسن سلم بن الحسن الباروسي",
         "has_id": 291
       }
@@ -165,7 +165,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "شیخ الاسلام گفت حمدون گازر گوید:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -174,7 +174,7 @@
       "relationship_type": "questioner",
       "context": "",
       "full_text": "مردی فراوی گفت: که مدعی معجب بود؟",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     }

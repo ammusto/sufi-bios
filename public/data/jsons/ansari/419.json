@@ -41,7 +41,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد شاه شجاع",
-        "person_id": 1661,
+        "person_id": 1723,
         "canonical_name": "شاه بن شجاع الكرماني",
         "has_id": 614
       },
@@ -50,7 +50,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد شاه شجاع و باحفص حداد.",
-        "person_id": 759,
+        "person_id": 836,
         "canonical_name": "أبو حفص الحداد النيسابوري",
         "has_id": 715
       },
@@ -59,7 +59,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده بود",
         "full_text": "و با یحیی معاذ رازی٭ صحبت کرده بود",
-        "person_id": 2650,
+        "person_id": 2709,
         "canonical_name": "يحيى بن معاذ الرازي",
         "has_id": 844
       }
@@ -73,7 +73,7 @@
       "relationship_type": "interlocutor",
       "context": "",
       "full_text": "باحفص حداد ویرا گفت: که اینجا بایست که شاه آنجا اشتغال و عیال دارد، توکسی نداری، و شاه میبازگشت",
-      "person_id": 759,
+      "person_id": 836,
       "canonical_name": "أبو حفص الحداد النيسابوري",
       "has_id": 715
     },
@@ -82,7 +82,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "travel",
       "full_text": "با شاه شجاع بنشاپور آمد",
-      "person_id": 1661,
+      "person_id": 1723,
       "canonical_name": "شاه بن شجاع الكرماني",
       "has_id": 614
     }

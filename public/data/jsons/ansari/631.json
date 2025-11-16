@@ -25,7 +25,7 @@
       "chain": [
         {
           "name": "حبیب عجمی",
-          "person_id": 1434,
+          "person_id": 1495,
           "canonical_name": "حبيب عجمي",
           "has_id": 509,
           "subj_added": false
@@ -39,7 +39,7 @@
       "chain": [
         {
           "name": "حبیب عجمی",
-          "person_id": 1434,
+          "person_id": 1495,
           "canonical_name": "حبيب عجمي",
           "has_id": 509,
           "subj_added": false
@@ -53,8 +53,8 @@
       "chain": [
         {
           "name": "شیخ",
-          "person_id": 1681,
-          "canonical_name": "عبد الرحمن الصابوني",
+          "person_id": 1748,
+          "canonical_name": "شیخ",
           "has_id": NaN,
           "subj_added": false
         }
@@ -79,7 +79,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "با",
         "full_text": "شیخ با عبدالرحمن صابونی این بشنید",
-        "person_id": 1681,
+        "person_id": 1802,
         "canonical_name": "عبد الرحمن الصابوني",
         "has_id": NaN
       }
@@ -90,7 +90,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ الاسلام گفت: که",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -98,7 +98,7 @@
       "name": "حبیب عجمی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "حبیب عجمی گفت: درین آیت، واذکر عبدنا ایوب. گفت: یعطی ویثنی.",
-      "person_id": 1434,
+      "person_id": 1495,
       "canonical_name": "حبيب عجمي",
       "has_id": 509
     },
@@ -106,7 +106,7 @@
       "name": "محمد",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "محمد با معتز بوده از هری مرد صاحب ادب بوده و علم",
-      "person_id": 2214,
+      "person_id": 2280,
       "canonical_name": "محمد",
       "has_id": NaN
     },
@@ -114,7 +114,7 @@
       "name": "معتز",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "محمد با معتز بوده",
-      "person_id": 1080,
+      "person_id": 1146,
       "canonical_name": "أبو معتز",
       "has_id": 766
     }

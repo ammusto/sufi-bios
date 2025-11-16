@@ -33,14 +33,14 @@
       "chain": [
         {
           "name": "السلمی",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "ابا محمد الراسبی",
-          "person_id": 1039,
+          "person_id": 1127,
           "canonical_name": "أبو محمد عبد الله بن محمد الراسبي",
           "has_id": 182,
           "subj_added": false
@@ -54,14 +54,14 @@
       "chain": [
         {
           "name": "علی سعید ثقری",
-          "person_id": 2035,
-          "canonical_name": "علي بن سعيد ثقري",
+          "person_id": 2105,
+          "canonical_name": "علي بن سعيد الثغري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بو محمد راسبی",
-          "person_id": 1039,
+          "person_id": 1127,
           "canonical_name": "أبو محمد عبد الله بن محمد الراسبي",
           "has_id": 182,
           "subj_added": false
@@ -75,14 +75,14 @@
       "chain": [
         {
           "name": "علی سعید ثقری",
-          "person_id": 2035,
-          "canonical_name": "علي بن سعيد ثقري",
+          "person_id": 2105,
+          "canonical_name": "علي بن سعيد الثغري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بو محمد راسبی",
-          "person_id": 1039,
+          "person_id": 1127,
           "canonical_name": "أبو محمد عبد الله بن محمد الراسبي",
           "has_id": 182,
           "subj_added": false
@@ -96,14 +96,14 @@
       "chain": [
         {
           "name": "علی سعید ثقری",
-          "person_id": 2035,
-          "canonical_name": "علي بن سعيد ثقري",
+          "person_id": 2105,
+          "canonical_name": "علي بن سعيد الثغري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بو محمد راسبی",
-          "person_id": 1039,
+          "person_id": 1127,
           "canonical_name": "أبو محمد عبد الله بن محمد الراسبي",
           "has_id": 182,
           "subj_added": false
@@ -117,14 +117,14 @@
       "chain": [
         {
           "name": "علی سعید ثقری",
-          "person_id": 2035,
-          "canonical_name": "علي بن سعيد ثقري",
+          "person_id": 2105,
+          "canonical_name": "علي بن سعيد الثغري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بو محمد راسبی",
-          "person_id": 1039,
+          "person_id": 1127,
           "canonical_name": "أبو محمد عبد الله بن محمد الراسبي",
           "has_id": 182,
           "subj_added": false
@@ -142,7 +142,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "صحبت کرده بابوالعباس. عطا و جریری٭ بشام",
-        "person_id": 498,
+        "person_id": 559,
         "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
         "has_id": 340
       },
@@ -151,7 +151,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "صحبت کرده بابوالعباس. عطا و جریری٭ بشام",
-        "person_id": 498,
+        "person_id": 559,
         "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
         "has_id": 340
       },
@@ -160,7 +160,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "صحبت کرده بابوالعباس. عطا و جریری٭ بشام",
-        "person_id": 1035,
+        "person_id": 1104,
         "canonical_name": "أبو محمد الجريري",
         "has_id": 431
       }
@@ -173,7 +173,7 @@
       "name": "السلمی",
       "relationship_type": "direct_narrator",
       "full_text": "قال السلمی: سمعت ابا محمد الراسبی یقول",
-      "person_id": 845,
+      "person_id": 922,
       "canonical_name": "أبو عبد الرحمن السلمي",
       "has_id": 133
     },
@@ -181,8 +181,8 @@
       "name": "علی سعید ثقری",
       "relationship_type": "direct_narrator",
       "full_text": "و علی سعید ثقری گوید: که نزدیک بو محمد راسبی بودم، بنزدیک وی ذکر محبت میرفت وی گفت",
-      "person_id": 2035,
-      "canonical_name": "علي بن سعيد ثقري",
+      "person_id": 2105,
+      "canonical_name": "علي بن سعيد الثغري",
       "has_id": NaN
     }
   ]

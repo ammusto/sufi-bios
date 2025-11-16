@@ -14,21 +14,21 @@
       "chain": [
         {
           "name": "أبا نصر النيسابوري",
-          "person_id": 1099,
+          "person_id": 1163,
           "canonical_name": "أبو نصر النيسابوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد العزيز الابهرى",
-          "person_id": 1768,
+          "person_id": 1837,
           "canonical_name": "عبد العزيز الابهرى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر بن طاهر",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": false
@@ -42,21 +42,21 @@
       "chain": [
         {
           "name": "أبا نصر",
-          "person_id": 1099,
+          "person_id": 1163,
           "canonical_name": "أبو نصر النيسابوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد العزيز بن محمد الأبهري",
-          "person_id": 1776,
+          "person_id": 1845,
           "canonical_name": "عبد العزيز بن محمد الأبهري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن طاهر",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": false
@@ -70,21 +70,21 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "أبا بكر الرازي",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا بكر ابن طاهر",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": false
@@ -98,28 +98,28 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "عبد الواحد بن أبي بكر",
-          "person_id": 1903,
+          "person_id": 1971,
           "canonical_name": "عبد الواحد بن أبي بكر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بعض أصحابنا",
-          "person_id": 1338,
+          "person_id": 1400,
           "canonical_name": "بعض أصحابنا",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": true
@@ -133,7 +133,7 @@
       "chain": [
         {
           "name": "أبو بكر بن طاهر",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": false
@@ -154,7 +154,7 @@
       "name": "عبد العزيز الابهرى",
       "relationship_type": "narrator",
       "full_text": "يحكي عن عبد العزيز الابهرى",
-      "person_id": 1768,
+      "person_id": 1837,
       "canonical_name": "عبد العزيز الابهرى",
       "has_id": NaN
     },
@@ -162,7 +162,7 @@
       "name": "أبا بكر الرازي",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا بكر الرازي يقول",
-      "person_id": 707,
+      "person_id": 782,
       "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
       "has_id": NaN
     }

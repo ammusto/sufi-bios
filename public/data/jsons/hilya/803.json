@@ -8,38 +8,45 @@
       "chain": [
         {
           "name": "إبراهيم بن محمد بن يحيى",
-          "person_id": 575,
+          "person_id": 645,
           "canonical_name": "أبو إسحاق إبراهيم بن محمد بن يحيى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن إسحاق الثقفي",
-          "person_id": 2279,
+          "person_id": 2343,
           "canonical_name": "محمد بن إسحاق الثقفي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبيد الله ابن جرير",
-          "person_id": 1928,
+          "person_id": 1997,
           "canonical_name": "عبيد الله بن جرير",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سليمان بن موسى",
-          "person_id": 1632,
+          "person_id": 1693,
           "canonical_name": "سليمان بن موسى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "رجل",
-          "person_id": 1530,
+          "person_id": 1593,
           "canonical_name": "رجل",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2560,
+          "canonical_name": "مسعود الجهمي",
+          "has_id": 803,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -57,7 +64,7 @@
       "name": "رجل",
       "relationship_type": "questioner",
       "full_text": "عن رجل رأى مسعود بن الحارث أخا خالد في النوم فقال له: ما فعل بك ربك؟",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     }

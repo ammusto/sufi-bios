@@ -24,10 +24,17 @@
       "chain": [
         {
           "name": "شیخ بوبکر طمستانی",
-          "person_id": 634,
+          "person_id": 704,
           "canonical_name": "أبو بكر الطمستاني",
           "has_id": 377,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 555,
+          "canonical_name": "أبو العباس أبي الورد",
+          "has_id": 48,
+          "subj_added": true
         }
       ],
       "type": "single_informant",
@@ -54,7 +61,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیدهاند",
         "full_text": "و بوالعباس باوردی و بوبکر طمسانی بزرگانند و شبلی دیدهاند",
-        "person_id": 628,
+        "person_id": 699,
         "canonical_name": "أبو بكر الشبلي",
         "has_id": 376
       }
@@ -67,7 +74,7 @@
       "name": "شیخ بوبکر طمستانی",
       "relationship_type": "narrator",
       "full_text": "شیخ بوبکر طمستانی٭ ایشان گفتهاند",
-      "person_id": 634,
+      "person_id": 704,
       "canonical_name": "أبو بكر الطمستاني",
       "has_id": 377
     },
@@ -75,7 +82,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -83,7 +90,7 @@
       "name": "شبلی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "کی شبلی صاحب حال بود، ذرهٔ از توحید نداشت",
-      "person_id": 628,
+      "person_id": 699,
       "canonical_name": "أبو بكر الشبلي",
       "has_id": 376
     }

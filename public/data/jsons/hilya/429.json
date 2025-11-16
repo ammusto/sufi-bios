@@ -14,45 +14,52 @@
       "chain": [
         {
           "name": "محمد بن أحمد بن عمر",
-          "person_id": 2312,
+          "person_id": 2376,
           "canonical_name": "محمد بن أحمد بن عمر العبدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 1046,
+          "person_id": 1112,
           "canonical_name": "أبو محمد أحمد بن عمر العبدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر بن عبيد",
-          "person_id": 673,
+          "person_id": 744,
           "canonical_name": "أبو بكر بن عبيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن الحسين",
-          "person_id": 2239,
+          "person_id": 2304,
           "canonical_name": "محمد بن الحسين البرجلاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عون بن عمارة",
-          "person_id": 2136,
+          "person_id": 2202,
           "canonical_name": "عون بن عمارة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو محرز الطفاوي",
-          "person_id": 1032,
+          "person_id": 1101,
           "canonical_name": "أبو محرز الطفاوي",
           "has_id": 430,
           "subj_added": false
+        },
+        {
+          "person_id": 1100,
+          "canonical_name": "أبو محرز",
+          "has_id": 429,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -63,45 +70,52 @@
       "chain": [
         {
           "name": "محمد بن أحمد بن عمر",
-          "person_id": 2312,
+          "person_id": 2376,
           "canonical_name": "محمد بن أحمد بن عمر العبدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 1046,
+          "person_id": 1112,
           "canonical_name": "أبو محمد أحمد بن عمر العبدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر بن عبيد",
-          "person_id": 673,
+          "person_id": 744,
           "canonical_name": "أبو بكر بن عبيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن الحسين",
-          "person_id": 2239,
+          "person_id": 2304,
           "canonical_name": "محمد بن الحسين البرجلاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عون بن عمارة",
-          "person_id": 2136,
+          "person_id": 2202,
           "canonical_name": "عون بن عمارة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو محرز الطفاوي",
-          "person_id": 1032,
+          "person_id": 1101,
           "canonical_name": "أبو محرز الطفاوي",
           "has_id": 430,
           "subj_added": false
+        },
+        {
+          "person_id": 1100,
+          "canonical_name": "أبو محرز",
+          "has_id": 429,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "bi-isnadihi",
@@ -119,7 +133,7 @@
       "name": "عون بن عمارة",
       "relationship_type": "narrator",
       "full_text": "ثنا عون بن عمارة",
-      "person_id": 2136,
+      "person_id": 2202,
       "canonical_name": "عون بن عمارة",
       "has_id": NaN
     }

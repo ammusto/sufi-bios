@@ -39,7 +39,7 @@
       "chain": [
         {
           "name": "بوبکر طمستانی",
-          "person_id": 634,
+          "person_id": 704,
           "canonical_name": "أبو بكر الطمستاني",
           "has_id": 377,
           "subj_added": false
@@ -59,7 +59,7 @@
       "chain": [
         {
           "name": "بوبکر طمستانی",
-          "person_id": 634,
+          "person_id": 704,
           "canonical_name": "أبو بكر الطمستاني",
           "has_id": 377,
           "subj_added": false
@@ -73,7 +73,7 @@
       "chain": [
         {
           "name": "بوبکر طمستانی",
-          "person_id": 634,
+          "person_id": 704,
           "canonical_name": "أبو بكر الطمستاني",
           "has_id": 377,
           "subj_added": false
@@ -87,7 +87,7 @@
       "chain": [
         {
           "name": "بوبکر طمستانی",
-          "person_id": 634,
+          "person_id": 704,
           "canonical_name": "أبو بكر الطمستاني",
           "has_id": 377,
           "subj_added": false
@@ -101,7 +101,7 @@
       "chain": [
         {
           "name": "بوبکر طمستانی",
-          "person_id": 634,
+          "person_id": 704,
           "canonical_name": "أبو بكر الطمستاني",
           "has_id": 377,
           "subj_added": false
@@ -121,7 +121,7 @@
       "chain": [
         {
           "name": "بوبکر طمستانی",
-          "person_id": 634,
+          "person_id": 704,
           "canonical_name": "أبو بكر الطمستاني",
           "has_id": 377,
           "subj_added": false
@@ -135,7 +135,7 @@
       "chain": [
         {
           "name": "بوبکر طمستانی",
-          "person_id": 634,
+          "person_id": 704,
           "canonical_name": "أبو بكر الطمستاني",
           "has_id": 377,
           "subj_added": false
@@ -149,7 +149,7 @@
       "chain": [
         {
           "name": "بوبکر طمستانی",
-          "person_id": 634,
+          "person_id": 704,
           "canonical_name": "أبو بكر الطمستاني",
           "has_id": 377,
           "subj_added": false
@@ -163,7 +163,7 @@
       "chain": [
         {
           "name": "بوبکر طمستانی",
-          "person_id": 634,
+          "person_id": 704,
           "canonical_name": "أبو بكر الطمستاني",
           "has_id": 377,
           "subj_added": false
@@ -181,7 +181,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد شبلی بود",
-        "person_id": 628,
+        "person_id": 699,
         "canonical_name": "أبو بكر الشبلي",
         "has_id": 376
       }
@@ -194,7 +194,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ الاسلام گفت",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -202,7 +202,7 @@
       "name": "کسی",
       "relationship_type": "questioner",
       "full_text": "کسی بوبکر طمستانی را گفت: مرا وصیتی بکن",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -210,7 +210,7 @@
       "name": "شبلی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "کی شبلی صاحب حال بود، از توحید ذرهٔ نبویید.",
-      "person_id": 628,
+      "person_id": 699,
       "canonical_name": "أبو بكر الشبلي",
       "has_id": 376
     }

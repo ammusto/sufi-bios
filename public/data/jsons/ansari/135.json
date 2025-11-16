@@ -14,9 +14,9 @@
       "chain": [
         {
           "name": "بوعبداللّه جاوباره",
-          "person_id": 905,
-          "canonical_name": "أبو عبد الله جاوباره",
-          "has_id": NaN,
+          "person_id": 928,
+          "canonical_name": "أبو عبد اللّه جاوباره همداني",
+          "has_id": 135,
           "subj_added": false
         }
       ],
@@ -28,9 +28,9 @@
       "chain": [
         {
           "name": "بوعبداللّه جاوباره",
-          "person_id": 905,
-          "canonical_name": "أبو عبد الله جاوباره",
-          "has_id": NaN,
+          "person_id": 928,
+          "canonical_name": "أبو عبد اللّه جاوباره همداني",
+          "has_id": 135,
           "subj_added": false
         }
       ],
@@ -54,7 +54,7 @@
       "chain": [
         {
           "name": "احمد داودی",
-          "person_id": 1157,
+          "person_id": 1221,
           "canonical_name": "أحمد الداودي",
           "has_id": NaN,
           "subj_added": false
@@ -68,7 +68,7 @@
       "chain": [
         {
           "name": "احمد داودی",
-          "person_id": 1157,
+          "person_id": 1221,
           "canonical_name": "أحمد الداودي",
           "has_id": NaN,
           "subj_added": false
@@ -82,7 +82,7 @@
       "chain": [
         {
           "name": "شافعی",
-          "person_id": 166,
+          "person_id": 188,
           "canonical_name": "الشافعي",
           "has_id": 613,
           "subj_added": false
@@ -96,7 +96,7 @@
       "chain": [
         {
           "name": "کافور",
-          "person_id": 2191,
+          "person_id": 2259,
           "canonical_name": "كافور",
           "has_id": NaN,
           "subj_added": false
@@ -129,7 +129,7 @@
       "name": "شیخ بوبکر زقاق مصری٭",
       "relationship_type": "interlocutor",
       "full_text": "فرا شیخ بوبکر زقاق مصری٭ گفتم: کی صحبت با کی دارم؟",
-      "person_id": 625,
+      "person_id": 696,
       "canonical_name": "أبو بكر الزقاق",
       "has_id": 375
     },
@@ -137,7 +137,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -146,7 +146,7 @@
       "relationship_type": "narrator",
       "context": "questioner",
       "full_text": "شیخ الاسلام گفت: که احمد داودی گویدکه یحیی نعاذ٭ را گفتم: که صحبت با کی پیوندم؟",
-      "person_id": 1157,
+      "person_id": 1221,
       "canonical_name": "أحمد الداودي",
       "has_id": NaN
     },
@@ -154,7 +154,7 @@
       "name": "یحیی نعاذ٭",
       "relationship_type": "interlocutor",
       "full_text": "یحیی نعاذ٭ را گفتم: که صحبت با کی پیوندم؟",
-      "person_id": 2650,
+      "person_id": 2709,
       "canonical_name": "يحيى بن معاذ الرازي",
       "has_id": 844
     },
@@ -162,7 +162,7 @@
       "name": "ذوالنون",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "و ذوالنون و خراز٭ درین سخن گفتهاند.",
-      "person_id": 1523,
+      "person_id": 1586,
       "canonical_name": "ذو النون المصري",
       "has_id": 570
     },
@@ -170,7 +170,7 @@
       "name": "خراز٭",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "و ذوالنون و خراز٭ درین سخن گفتهاند.",
-      "person_id": 801,
+      "person_id": 877,
       "canonical_name": "أبو سعيد الخراز",
       "has_id": 123
     },
@@ -178,7 +178,7 @@
       "name": "امیرکافور",
       "relationship_type": "interlocutor",
       "full_text": "وقتی امیرکافور، زر فرستاد بشیخ بوعبداللهّ جاوباره بسیاری، و وی بنه پذیرفت باز فرستاد، یعنی لشکریست.",
-      "person_id": 265,
+      "person_id": 291,
       "canonical_name": "امير كافور",
       "has_id": NaN
     },
@@ -186,7 +186,7 @@
       "name": "بوعلی کاتب٭",
       "relationship_type": "interlocutor",
       "full_text": "فرا بوعلی کاتب٭ گفتند: که فلانکس از لشکری چیزی نمیستاند و فلان پیر میستاند. گفت: آنکه بنمیستاند از علم بنمیستاند، و آنک میستاند از عین میستاند.",
-      "person_id": 973,
+      "person_id": 1044,
       "canonical_name": "أبو علي بن الكاتب",
       "has_id": 23
     },
@@ -194,7 +194,7 @@
       "name": "شافعی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "شافعی گوید: که نه دوست تو بود کی باو مدارا باید کرد.",
-      "person_id": 166,
+      "person_id": 188,
       "canonical_name": "الشافعي",
       "has_id": 613
     }

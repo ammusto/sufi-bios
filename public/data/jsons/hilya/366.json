@@ -8,31 +8,38 @@
       "chain": [
         {
           "name": "عبد الله بن محمد",
-          "person_id": 1855,
+          "person_id": 1924,
           "canonical_name": "عبد الله بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إسحاق بن أبي حسان",
-          "person_id": 343,
+          "person_id": 370,
           "canonical_name": "إسحاق بن أبي حسان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن أبي الحواري",
-          "person_id": 1177,
+          "person_id": 1241,
           "canonical_name": "أحمد بن أبي الحواري",
           "has_id": 442,
           "subj_added": false
         },
         {
           "name": "أبا سليمان",
-          "person_id": 816,
+          "person_id": 894,
           "canonical_name": "أبو سليمان",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 632,
+          "canonical_name": "أبو اليمان",
+          "has_id": 366,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -50,7 +57,7 @@
       "name": "أبا سليمان",
       "relationship_type": "narrator",
       "full_text": "قال سمعت أبا سليمان يقول:",
-      "person_id": 816,
+      "person_id": 894,
       "canonical_name": "أبو سليمان",
       "has_id": NaN
     },
@@ -59,7 +66,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "subject_of_anecdote",
       "full_text": "كان عندنا شيخ يزعمون أنه يعرف اسم الله الأعظم.",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     }

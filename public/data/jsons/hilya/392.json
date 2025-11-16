@@ -14,21 +14,21 @@
       "chain": [
         {
           "name": "عبد الواحد بن أحمد الهاشمي",
-          "person_id": 1906,
+          "person_id": 1974,
           "canonical_name": "عبد الواحد بن أحمد الهاشمي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو عبد الله بن خفيف",
-          "person_id": 22,
+          "person_id": 974,
           "canonical_name": "أبو عبد الله بن خفيف",
           "has_id": 26,
           "subj_added": false
         },
         {
           "name": "أبو جعفر الكتاني",
-          "person_id": 738,
+          "person_id": 814,
           "canonical_name": "أبو جعفر الكتاني",
           "has_id": 392,
           "subj_added": false
@@ -42,21 +42,21 @@
       "chain": [
         {
           "name": "عبد الواحد بن بكر",
-          "person_id": 1908,
+          "person_id": 1976,
           "canonical_name": "عبد الواحد بن بكر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "همام بن الحارث",
-          "person_id": 2606,
+          "person_id": 2667,
           "canonical_name": "همام بن الحارث",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الكتاني",
-          "person_id": 738,
+          "person_id": 814,
           "canonical_name": "أبو جعفر الكتاني",
           "has_id": 392,
           "subj_added": false
@@ -78,7 +78,7 @@
       "relationship_type": "narrator",
       "context": "questioner",
       "full_text": "قال: سألت أبا جعفر الكتاني",
-      "person_id": 22,
+      "person_id": 974,
       "canonical_name": "أبو عبد الله بن خفيف",
       "has_id": 26
     },
@@ -86,7 +86,7 @@
       "name": "همام بن الحارث",
       "relationship_type": "narrator",
       "full_text": "سمعت الكتاني يقول",
-      "person_id": 2606,
+      "person_id": 2667,
       "canonical_name": "همام بن الحارث",
       "has_id": NaN
     },
@@ -95,7 +95,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "visitor",
       "full_text": "فخرج بعض أصحابه زائرا",
-      "person_id": 1339,
+      "person_id": 1401,
       "canonical_name": "بعض أصحابه",
       "has_id": NaN
     },
@@ -104,7 +104,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "helpers",
       "full_text": "فتعرف المؤذنون والمجاورن حاله فصعدوا غرفته",
-      "person_id": 244,
+      "person_id": 270,
       "canonical_name": "المؤذنون والمجاورن",
       "has_id": NaN
     }

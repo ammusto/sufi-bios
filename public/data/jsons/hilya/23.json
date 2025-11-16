@@ -14,21 +14,21 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "أحمد بن علي بن جعفر",
-          "person_id": 1226,
+          "person_id": 1288,
           "canonical_name": "أحمد بن علي بن جعفر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا علي الكاتب",
-          "person_id": 973,
+          "person_id": 1044,
           "canonical_name": "أبو علي بن الكاتب",
           "has_id": 23,
           "subj_added": false
@@ -42,21 +42,21 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "أبا القاسم المصري",
-          "person_id": 539,
+          "person_id": 602,
           "canonical_name": "أبو القاسم المصري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 973,
+          "person_id": 1044,
           "canonical_name": "أبو علي بن الكاتب",
           "has_id": 23,
           "subj_added": true
@@ -77,7 +77,7 @@
       "name": "أبا علي الكاتب",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا علي الكاتب يقول",
-      "person_id": 973,
+      "person_id": 1044,
       "canonical_name": "أبو علي بن الكاتب",
       "has_id": 23
     },
@@ -85,7 +85,7 @@
       "name": "أبا القاسم المصري",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا القاسم المصري يقول",
-      "person_id": 539,
+      "person_id": 602,
       "canonical_name": "أبو القاسم المصري",
       "has_id": NaN
     }

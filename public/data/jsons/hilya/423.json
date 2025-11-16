@@ -8,23 +8,23 @@
       "chain": [
         {
           "name": "محمد بن إبراهيم",
-          "person_id": 2273,
+          "person_id": 2337,
           "canonical_name": "محمد بن إبراهيم بن علي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "جعفر بن محمد بن نصير",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "أبو علي الوراق",
-          "person_id": 951,
+          "person_id": 1023,
           "canonical_name": "أبو علي الحسن بن علي بن الخطاب الوراق",
-          "has_id": NaN,
+          "has_id": 423,
           "subj_added": false
         }
       ],
@@ -43,7 +43,7 @@
       "name": "جعفر بن محمد بن نصير",
       "relationship_type": "narrator",
       "full_text": "قال سمعت أبا علي الوراق يقول",
-      "person_id": 1405,
+      "person_id": 1464,
       "canonical_name": "جعفر بن محمد الخلدي",
       "has_id": 495
     }

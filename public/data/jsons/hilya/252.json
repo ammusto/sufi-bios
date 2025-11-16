@@ -19,17 +19,24 @@
       "chain": [
         {
           "name": "أبا محمد بن حيان",
-          "person_id": 1050,
+          "person_id": 1116,
           "canonical_name": "أبو محمد بن حيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبى عبد الله الكسائى",
-          "person_id": 883,
+          "person_id": 958,
           "canonical_name": "أبو عبد الله الكسائى",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 276,
+          "canonical_name": "النعمان بن عبد السلام",
+          "has_id": 252,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -46,7 +53,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب سفيان الثوري ومالك بن أنس.",
-        "person_id": 1607,
+        "person_id": 1668,
         "canonical_name": "سفيان الثوري",
         "has_id": 598
       },
@@ -55,7 +62,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب سفيان الثوري ومالك بن أنس.",
-        "person_id": 2204,
+        "person_id": 2270,
         "canonical_name": "مالك بن أنس",
         "has_id": NaN
       }
@@ -66,7 +73,7 @@
       "name": "أبى عبد الله الكسائى",
       "relationship_type": "narrator",
       "full_text": "يحكي عن أبى عبد الله الكسائى قال",
-      "person_id": 883,
+      "person_id": 958,
       "canonical_name": "أبو عبد الله الكسائى",
       "has_id": NaN
     },
@@ -75,7 +82,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "رأى في المنام",
       "full_text": "بلغني أن رجلا رأى في المنام",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     }

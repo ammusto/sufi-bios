@@ -19,9 +19,9 @@
       "chain": [
         {
           "name": "بوعبداللّه سالمی",
-          "person_id": 870,
-          "canonical_name": "أبو عبد الله السالمي",
-          "has_id": NaN,
+          "person_id": 969,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
           "subj_added": false
         }
       ],
@@ -33,7 +33,7 @@
       "chain": [
         {
           "name": "شیخ بوعبداللّه خفیف",
-          "person_id": 22,
+          "person_id": 974,
           "canonical_name": "أبو عبد الله بن خفيف",
           "has_id": 26,
           "subj_added": false
@@ -53,7 +53,7 @@
       "chain": [
         {
           "name": "شیخ بوعبداللّه خفیف",
-          "person_id": 22,
+          "person_id": 974,
           "canonical_name": "أبو عبد الله بن خفيف",
           "has_id": 26,
           "subj_added": false
@@ -71,7 +71,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "ببصره بود شاگرد سهل تستری٭ سی سال باوی تا شصت سال و طریقت از ویگرفته بود اما مست.",
-        "person_id": 1639,
+        "person_id": 1700,
         "canonical_name": "سهل بن عبد الله التستري",
         "has_id": 605
       },
@@ -80,7 +80,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "طریقت از ویگرفته بود",
         "full_text": "ببصره بود شاگرد سهل تستری٭ سی سال باوی تا شصت سال و طریقت از ویگرفته بود اما مست.",
-        "person_id": 1639,
+        "person_id": 1700,
         "canonical_name": "سهل بن عبد الله التستري",
         "has_id": 605
       },
@@ -89,7 +89,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "باوی",
         "full_text": "سی سال باوی تا شصت سال",
-        "person_id": 1639,
+        "person_id": 1700,
         "canonical_name": "سهل بن عبد الله التستري",
         "has_id": 605
       }
@@ -102,7 +102,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت: کی بوعبداللّه سالمی گفته بود: که اللّه در ازل همه چیز میدید، ویرا مهجور کرده بودند باین سبب.",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -110,7 +110,7 @@
       "name": "شیخ بوعبداللّه خفیف",
       "relationship_type": "narrator",
       "full_text": "شیخ بوعبداللّه خفیف گوید: که این قدم دهر بود.",
-      "person_id": 22,
+      "person_id": 974,
       "canonical_name": "أبو عبد الله بن خفيف",
       "has_id": 26
     }

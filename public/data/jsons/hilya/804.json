@@ -8,49 +8,49 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو الحسن العبدي",
-          "person_id": 404,
+          "person_id": 452,
           "canonical_name": "أبو الحسن العبدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر بن أبي الدنيا",
-          "person_id": 661,
+          "person_id": 730,
           "canonical_name": "أبو بكر بن أبي الدنيا",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن الحسين البرجلاني",
-          "person_id": 2239,
+          "person_id": 2304,
           "canonical_name": "محمد بن الحسين البرجلاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مسكين بن عبيد الصوفي",
-          "person_id": 2501,
+          "person_id": 2562,
           "canonical_name": "مسكين بن عبيد الصوفي",
           "has_id": 804,
           "subj_added": false
         },
         {
           "name": "المتوكل بن الحسين العابد",
-          "person_id": 225,
+          "person_id": 251,
           "canonical_name": "المتوكل بن الحسين العابد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إبراهيم بن أدهم",
-          "person_id": 301,
+          "person_id": 326,
           "canonical_name": "إبراهيم بن أدهم",
           "has_id": 274,
           "subj_added": false
@@ -68,7 +68,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "حدثني",
         "full_text": "قال: حدثني المتوكل بن الحسين العابد",
-        "person_id": 225,
+        "person_id": 251,
         "canonical_name": "المتوكل بن الحسين العابد",
         "has_id": NaN
       },
@@ -77,7 +77,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "سلك مسلكه",
         "full_text": "فسلك مسلكه في التوحيد والزهد",
-        "person_id": 301,
+        "person_id": 326,
         "canonical_name": "إبراهيم بن أدهم",
         "has_id": 274
       }
@@ -88,7 +88,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "حدثني",
         "full_text": "حدثني محمد بن الحسين البرجلاني حدثني مسكين بن عبيد الصوفي",
-        "person_id": 2239,
+        "person_id": 2304,
         "canonical_name": "محمد بن الحسين البرجلاني",
         "has_id": NaN
       }
@@ -99,7 +99,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب أصحاب إبراهيم بن أدهم",
-        "person_id": 1297,
+        "person_id": 1358,
         "canonical_name": "أصحاب إبراهيم بن أدهم",
         "has_id": NaN
       }
@@ -110,7 +110,7 @@
       "name": "محمد بن الحسين البرجلاني",
       "relationship_type": "narrator",
       "full_text": "حدثني محمد بن الحسين البرجلاني",
-      "person_id": 845,
+      "person_id": 922,
       "canonical_name": "أبو عبد الرحمن السلمي",
       "has_id": 133
     }

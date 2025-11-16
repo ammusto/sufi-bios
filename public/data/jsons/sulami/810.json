@@ -24,17 +24,24 @@
       "chain": [
         {
           "name": "مُحَمَّد بن يَعْقُوب الْأَصَم",
-          "person_id": 2473,
+          "person_id": 2534,
           "canonical_name": "محمد بن يعقوب الأصم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "زَكَرِيَّا بن يحيى بن أَسد",
-          "person_id": 1562,
+          "person_id": 1624,
           "canonical_name": "زكريا بن يحيى بن أسد",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -45,24 +52,31 @@
       "chain": [
         {
           "name": "جدي إِسْمَاعِيل بن نجيد",
-          "person_id": 1015,
+          "person_id": 1083,
           "canonical_name": "أبو عمرو إسماعيل بن نجيد",
           "has_id": 176,
           "subj_added": false
         },
         {
           "name": "أَبَا الْعَبَّاس السراج",
-          "person_id": 489,
+          "person_id": 547,
           "canonical_name": "أبو العباس السراج",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم بن الْجُنَيْد",
-          "person_id": 292,
+          "person_id": 318,
           "canonical_name": "إبراهيم بن الجنيد",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -73,38 +87,45 @@
       "chain": [
         {
           "name": "يُوسُف بن عمر الزَّاهِد",
-          "person_id": 517,
+          "person_id": 579,
           "canonical_name": "أبو الفتح يوسف بن عمر بن مسرور القواس",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبيد الله بن جَعْفَر الصغاني",
-          "person_id": 1929,
+          "person_id": 1998,
           "canonical_name": "عبيد الله بن جعفر الصغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمر بن وَاصل",
-          "person_id": 2112,
+          "person_id": 2178,
           "canonical_name": "عمر بن واصل النيسابوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سهل بن عبد الله",
-          "person_id": 1639,
+          "person_id": 1700,
           "canonical_name": "سهل بن عبد الله التستري",
           "has_id": 605,
           "subj_added": false
         },
         {
           "name": "مُحَمَّد بن سوار",
-          "person_id": 2363,
+          "person_id": 2427,
           "canonical_name": "محمد بن سوار",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -115,24 +136,31 @@
       "chain": [
         {
           "name": "أَبَا الْحسن بن مقسم الْمُقْرِئ",
-          "person_id": 414,
+          "person_id": 468,
           "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا عَليّ الصفار",
-          "person_id": 963,
-          "canonical_name": "أبو علي الصفار",
+          "person_id": 1035,
+          "canonical_name": "أبو علي الصفار الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم بن الْجَزرِي",
-          "person_id": 291,
+          "person_id": 317,
           "canonical_name": "إبراهيم بن الجزري",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -143,31 +171,38 @@
       "chain": [
         {
           "name": "أَبُو الْحُسَيْن عَليّ بن الْحسن بن جَعْفَر الْحَافِظ الْعَطَّار",
-          "person_id": 461,
+          "person_id": 518,
           "canonical_name": "أبو الحسين علي بن الحسن بن جعفر الحافظ العطّار",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَحْمد بن الْحسن الْمُقْرِئ ديس",
-          "person_id": 1160,
+          "person_id": 1224,
           "canonical_name": "أحمد بن الحسن المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "نصر بن دَاوُد",
-          "person_id": 2583,
+          "person_id": 2643,
           "canonical_name": "نصر بن داود",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "خلف ابْن هِشَام",
-          "person_id": 1506,
+          "person_id": 1568,
           "canonical_name": "خلف بن هشام",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -178,31 +213,38 @@
       "chain": [
         {
           "name": "بكر بن خُنَيْس",
-          "person_id": 1352,
+          "person_id": 1413,
           "canonical_name": "بكر بن خنيس",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سُفْيَان الثَّوْريّ",
-          "person_id": 1607,
+          "person_id": 1668,
           "canonical_name": "سفيان الثوري",
           "has_id": 598,
           "subj_added": false
         },
         {
           "name": "أبي الزبير",
-          "person_id": 478,
+          "person_id": 536,
           "canonical_name": "أبو الزبير",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "جَابر",
-          "person_id": 1372,
+          "person_id": 1434,
           "canonical_name": "جابر",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -213,31 +255,38 @@
       "chain": [
         {
           "name": "عبد الله بن عُثْمَان بن جَعْفَر",
-          "person_id": 1844,
+          "person_id": 1912,
           "canonical_name": "عبد الله بن عثمان بن جعفر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَحْمد بن عبد الله بن سُلَيْمَان",
-          "person_id": 1212,
+          "person_id": 1276,
           "canonical_name": "أحمد بن عبد الله بن سليمان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 587,
+          "person_id": 658,
           "canonical_name": "أبو أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مُحَمَّد بن نصر",
-          "person_id": 2459,
+          "person_id": 2521,
           "canonical_name": "محمد بن نصر",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -248,45 +297,52 @@
       "chain": [
         {
           "name": "عبد الله",
-          "person_id": 1844,
+          "person_id": 1912,
           "canonical_name": "عبد الله بن عثمان بن جعفر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَحْمد",
-          "person_id": 1154,
+          "person_id": 1218,
           "canonical_name": "أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 587,
+          "person_id": 658,
           "canonical_name": "أبو أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن مُوسَى",
-          "person_id": 2681,
+          "person_id": 2739,
           "canonical_name": "يوسف بن موسى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابْن خبيق",
-          "person_id": 21,
+          "person_id": 27,
           "canonical_name": "ابن خبيق",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم الْبكاء",
-          "person_id": 274,
+          "person_id": 301,
           "canonical_name": "إبراهيم البكاء",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -297,45 +353,52 @@
       "chain": [
         {
           "name": "عبد الله",
-          "person_id": 1844,
+          "person_id": 1912,
           "canonical_name": "عبد الله بن عثمان بن جعفر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَحْمد",
-          "person_id": 1154,
+          "person_id": 1218,
           "canonical_name": "أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 587,
+          "person_id": 658,
           "canonical_name": "أبو أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن مُوسَى",
-          "person_id": 2681,
+          "person_id": 2739,
           "canonical_name": "يوسف بن موسى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابْن خبيق",
-          "person_id": 21,
+          "person_id": 27,
           "canonical_name": "ابن خبيق",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم الْبكاء",
-          "person_id": 274,
+          "person_id": 301,
           "canonical_name": "إبراهيم البكاء",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -346,38 +409,45 @@
       "chain": [
         {
           "name": "عبد الله",
-          "person_id": 1844,
+          "person_id": 1912,
           "canonical_name": "عبد الله بن عثمان بن جعفر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَحْمد",
-          "person_id": 1154,
+          "person_id": 1218,
           "canonical_name": "أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 587,
+          "person_id": 658,
           "canonical_name": "أبو أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "هَاشم بن أبي عبد الله",
-          "person_id": 2595,
+          "person_id": 2655,
           "canonical_name": "هاشم بن أبي عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبُو زَكَرِيَّا الْحمال",
-          "person_id": 790,
+          "person_id": 866,
           "canonical_name": "أبو زكريا الحمال",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -388,31 +458,38 @@
       "chain": [
         {
           "name": "أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا الْعَبَّاس الفرغاني",
-          "person_id": 493,
+          "person_id": 551,
           "canonical_name": "أبو العباس الفرغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الْجُنَيْد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
         },
         {
           "name": "السّري",
-          "person_id": 161,
+          "person_id": 183,
           "canonical_name": "السري السقطي",
           "has_id": 236,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -423,31 +500,38 @@
       "chain": [
         {
           "name": "أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا الْعَبَّاس الفرغاني",
-          "person_id": 493,
+          "person_id": 551,
           "canonical_name": "أبو العباس الفرغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الْجُنَيْد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
         },
         {
           "name": "السّري",
-          "person_id": 161,
+          "person_id": 183,
           "canonical_name": "السري السقطي",
           "has_id": 236,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -458,31 +542,38 @@
       "chain": [
         {
           "name": "أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا الْعَبَّاس الفرغاني",
-          "person_id": 493,
+          "person_id": 551,
           "canonical_name": "أبو العباس الفرغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الْجُنَيْد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
         },
         {
           "name": "السّري",
-          "person_id": 161,
+          "person_id": 183,
           "canonical_name": "السري السقطي",
           "has_id": 236,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -493,31 +584,38 @@
       "chain": [
         {
           "name": "أَبَا بكر مُحَمَّد بن عبد الله الرَّازِيّ",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا الْعَبَّاس الفرغاني",
-          "person_id": 493,
+          "person_id": 551,
           "canonical_name": "أبو العباس الفرغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الْجُنَيْد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
         },
         {
           "name": "السّري",
-          "person_id": 161,
+          "person_id": 183,
           "canonical_name": "السري السقطي",
           "has_id": 236,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -528,31 +626,38 @@
       "chain": [
         {
           "name": "أَحْمد بن مُحَمَّد بن يَعْقُوب الْهَرَوِيّ",
-          "person_id": 1266,
+          "person_id": 1327,
           "canonical_name": "أحمد بن محمد بن يعقوب الهروي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَحْمد ابْن عَطاء",
-          "person_id": 498,
+          "person_id": 559,
           "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
           "has_id": 340,
           "subj_added": false
         },
         {
           "name": "عمر بن مخلد",
-          "person_id": 2109,
+          "person_id": 2175,
           "canonical_name": "عمر بن مخلد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابْن أبي الْورْد",
-          "person_id": 11,
+          "person_id": 12,
           "canonical_name": "ابن أبي الورد",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -563,31 +668,38 @@
       "chain": [
         {
           "name": "أَحْمد بن مُحَمَّد بن يَعْقُوب الْهَرَوِيّ",
-          "person_id": 1266,
+          "person_id": 1327,
           "canonical_name": "أحمد بن محمد بن يعقوب الهروي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَحْمد ابْن عَطاء",
-          "person_id": 498,
+          "person_id": 559,
           "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
           "has_id": 340,
           "subj_added": false
         },
         {
           "name": "عمر بن مخلد",
-          "person_id": 2109,
+          "person_id": 2175,
           "canonical_name": "عمر بن مخلد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابْن أبي الْورْد",
-          "person_id": 11,
+          "person_id": 12,
           "canonical_name": "ابن أبي الورد",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -598,10 +710,17 @@
       "chain": [
         {
           "name": "أَبُو سُلَيْمَان الدَّارَانِي",
-          "person_id": 817,
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
           "has_id": 404,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "single_informant",
@@ -612,10 +731,17 @@
       "chain": [
         {
           "name": "أَبُو سُلَيْمَان الدَّارَانِي",
-          "person_id": 817,
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
           "has_id": 404,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -626,10 +752,17 @@
       "chain": [
         {
           "name": "أَبُو سُلَيْمَان الدَّارَانِي",
-          "person_id": 817,
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
           "has_id": 404,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -640,10 +773,17 @@
       "chain": [
         {
           "name": "أَبُو سُلَيْمَان الدَّارَانِي",
-          "person_id": 817,
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
           "has_id": 404,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -654,10 +794,17 @@
       "chain": [
         {
           "name": "أَبُو سُلَيْمَان الدَّارَانِي",
-          "person_id": 817,
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
           "has_id": 404,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -668,10 +815,17 @@
       "chain": [
         {
           "name": "أَبُو سُلَيْمَان الدَّارَانِي",
-          "person_id": 817,
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
           "has_id": 404,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -682,10 +836,17 @@
       "chain": [
         {
           "name": "أَبُو سُلَيْمَان الدَّارَانِي",
-          "person_id": 817,
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
           "has_id": 404,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -696,17 +857,24 @@
       "chain": [
         {
           "name": "أَبَا الْفَتْح القواس الزَّاهِد",
-          "person_id": 517,
+          "person_id": 579,
           "canonical_name": "أبو الفتح يوسف بن عمر بن مسرور القواس",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا عَمْرو الْبزورِي",
-          "person_id": 1007,
+          "person_id": 1076,
           "canonical_name": "أبو عمرو البزوري",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -717,17 +885,24 @@
       "chain": [
         {
           "name": "أَبَا الْفَتْح القواس الزَّاهِد",
-          "person_id": 517,
+          "person_id": 579,
           "canonical_name": "أبو الفتح يوسف بن عمر بن مسرور القواس",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا عَمْرو الْبزورِي",
-          "person_id": 1007,
+          "person_id": 1076,
           "canonical_name": "أبو عمرو البزوري",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2583,
+          "canonical_name": "معروف الكرخي",
+          "has_id": 810,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -742,7 +917,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "أسلم على يَد",
         "full_text": "وَكَانَ مَعْرُوف أسلم على يَد عَليّ بن مُوسَى الرِّضَا",
-        "person_id": 2073,
+        "person_id": 2138,
         "canonical_name": "علي بن موسى الرضا",
         "has_id": NaN
       }
@@ -753,7 +928,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "أستاذ",
         "full_text": "كَانَ أستاذ سري السَّقطِي",
-        "person_id": 161,
+        "person_id": 183,
         "canonical_name": "السري السقطي",
         "has_id": 236
       }
@@ -764,7 +939,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب دَاوُد الطَّائِي",
-        "person_id": 1513,
+        "person_id": 1576,
         "canonical_name": "داود الطائي",
         "has_id": 405
       }
@@ -776,7 +951,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "cause_of_conversion",
       "full_text": "وَكَانَ مَعْرُوف أسلم على يَد عَليّ بن مُوسَى الرِّضَا",
-      "person_id": 2073,
+      "person_id": 2138,
       "canonical_name": "علي بن موسى الرضا",
       "has_id": NaN
     },
@@ -784,7 +959,7 @@
       "name": "أَبُو سُلَيْمَان الدَّارَانِي",
       "relationship_type": "questioner",
       "full_text": "وَقَالَ أَبُو سُلَيْمَان الدَّارَانِي سَأَلت مَعْرُوفا الْكَرْخِي",
-      "person_id": 817,
+      "person_id": 895,
       "canonical_name": "أبو سليمان الداراني",
       "has_id": 404
     },
@@ -793,7 +968,7 @@
       "relationship_type": "interlocutor",
       "context": "addressing_subject",
       "full_text": "وَبِه قَالَ قَالَ رجل لمعروف مَا شكرت معروفي",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     }

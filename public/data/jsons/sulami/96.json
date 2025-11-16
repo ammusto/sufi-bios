@@ -14,49 +14,49 @@
       "chain": [
         {
           "name": "أَبُو بكر مُحَمَّد بن عبد الله بن عبد الْعَزِيز بن شَاذان الرَّازِيّ",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبُو بكر الْحُسَيْن بن عَليّ بن يزدانيار الصُّوفِي",
-          "person_id": 616,
+          "person_id": 688,
           "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
-          "has_id": 231,
+          "has_id": 96,
           "subj_added": false
         },
         {
           "name": "مُحَمَّد بن يُونُس بن مُوسَى الْبَصْرِيّ",
-          "person_id": 2480,
+          "person_id": 2541,
           "canonical_name": "محمد بن يونس بن موسى البصري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبُو عَاصِم الضَّحَّاك بن مخلد النَّبِيل",
-          "person_id": 840,
+          "person_id": 918,
           "canonical_name": "أبو عاصم الضّحّاك بن مخلد النبيل",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابْن جريج",
-          "person_id": 17,
+          "person_id": 22,
           "canonical_name": "ابن جريج",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي الزبير",
-          "person_id": 478,
+          "person_id": 536,
           "canonical_name": "أبو الزبير",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "جَابر",
-          "person_id": 1372,
+          "person_id": 1434,
           "canonical_name": "جابر",
           "has_id": NaN,
           "subj_added": false
@@ -70,16 +70,16 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر بن يزدانيار",
-          "person_id": 616,
+          "person_id": 688,
           "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
-          "has_id": 231,
+          "has_id": 96,
           "subj_added": false
         }
       ],
@@ -91,17 +91,24 @@
       "chain": [
         {
           "name": "أَبَا الْفرج الورثاني",
-          "person_id": 519,
+          "person_id": 581,
           "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا عبد الرَّحْمَن الْموصِلِي",
-          "person_id": 849,
+          "person_id": 926,
           "canonical_name": "أبو عبد الرحمن الموصلي",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "person_id": 688,
+          "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
+          "has_id": 96,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -112,23 +119,23 @@
       "chain": [
         {
           "name": "أَبَا الْفرج",
-          "person_id": 519,
+          "person_id": 581,
           "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عَليّ بن إِبْرَاهِيم الأرموي",
-          "person_id": 2010,
+          "person_id": 2081,
           "canonical_name": "علي بن إبراهيم الأرموي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابْن يزدانيار",
-          "person_id": 616,
+          "person_id": 688,
           "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
-          "has_id": 231,
+          "has_id": 96,
           "subj_added": false
         }
       ],
@@ -140,16 +147,16 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر بن يزدانيار",
-          "person_id": 616,
+          "person_id": 688,
           "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
-          "has_id": 231,
+          "has_id": 96,
           "subj_added": false
         }
       ],
@@ -161,16 +168,16 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر بن يزدانيار",
-          "person_id": 616,
+          "person_id": 688,
           "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
-          "has_id": 231,
+          "has_id": 96,
           "subj_added": false
         }
       ],
@@ -182,16 +189,16 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر بن يزدانيار",
-          "person_id": 616,
+          "person_id": 688,
           "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
-          "has_id": 231,
+          "has_id": 96,
           "subj_added": false
         }
       ],
@@ -203,16 +210,16 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر بن يزدانيار",
-          "person_id": 616,
+          "person_id": 688,
           "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
-          "has_id": 231,
+          "has_id": 96,
           "subj_added": false
         }
       ],
@@ -224,16 +231,16 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر بن يزدانيار",
-          "person_id": 616,
+          "person_id": 688,
           "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
-          "has_id": 231,
+          "has_id": 96,
           "subj_added": false
         }
       ],
@@ -245,16 +252,16 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر بن يزدانيار",
-          "person_id": 616,
+          "person_id": 688,
           "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
-          "has_id": 231,
+          "has_id": 96,
           "subj_added": false
         }
       ],
@@ -266,16 +273,16 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر بن يزدانيار",
-          "person_id": 616,
+          "person_id": 688,
           "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
-          "has_id": 231,
+          "has_id": 96,
           "subj_added": false
         }
       ],
@@ -287,16 +294,16 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر بن يزدانيار",
-          "person_id": 616,
+          "person_id": 688,
           "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
-          "has_id": 231,
+          "has_id": 96,
           "subj_added": false
         }
       ],
@@ -315,7 +322,7 @@
       "name": "أَبُو بكر مُحَمَّد بن عبد الله بن عبد الْعَزِيز بن شَاذان الرَّازِيّ",
       "relationship_type": "narrator",
       "full_text": "أخبرنَا أَبُو بكر مُحَمَّد بن عبد الله بن عبد الْعَزِيز بن شَاذان الرَّازِيّ قَالَ أخبرنَا أَبُو بكر الْحُسَيْن بن عَليّ بن يزدانيار الصُّوفِي",
-      "person_id": 711,
+      "person_id": 785,
       "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
       "has_id": NaN
     },
@@ -323,7 +330,7 @@
       "name": "أَبَا بكر الرَّازِيّ",
       "relationship_type": "narrator",
       "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول سَمِعت أَبَا بكر بن يزدانيار يَقُول",
-      "person_id": 711,
+      "person_id": 785,
       "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
       "has_id": NaN
     },
@@ -331,7 +338,7 @@
       "name": "أَبَا عبد الرَّحْمَن الْموصِلِي",
       "relationship_type": "narrator",
       "full_text": "سَمِعت أَبَا الْفرج الورثاني يَقُول سَمِعت أَبَا عبد الرَّحْمَن الْموصِلِي يَقُول رَأَيْت ابْن يزدانيار فِي الْقَوْم وَهُوَ يحدث أَصْحَابه",
-      "person_id": 849,
+      "person_id": 926,
       "canonical_name": "أبو عبد الرحمن الموصلي",
       "has_id": NaN
     },
@@ -339,7 +346,7 @@
       "name": "عَليّ بن إِبْرَاهِيم الأرموي",
       "relationship_type": "narrator",
       "full_text": "سَمِعت أَبَا الْفرج يَقُول سَمِعت عَليّ بن إِبْرَاهِيم الأرموي يَقُول سَمِعت ابْن يزدانيار يَقُول",
-      "person_id": 2010,
+      "person_id": 2081,
       "canonical_name": "علي بن إبراهيم الأرموي",
       "has_id": NaN
     }

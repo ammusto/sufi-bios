@@ -29,7 +29,7 @@
       "chain": [
         {
           "name": "محفوظ",
-          "person_id": 2212,
+          "person_id": 2278,
           "canonical_name": "محفوظ",
           "has_id": NaN,
           "subj_added": false
@@ -53,7 +53,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "بپرسیدن مسایلی را ازو",
         "full_text": "و وی از نسابیامدی قاصد ببوعثمان به نشاپور. بپرسیدن مسایلی را ازو",
-        "person_id": 932,
+        "person_id": 1013,
         "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
         "has_id": 419
       }
@@ -65,7 +65,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اصحاب",
         "full_text": "از اجلهٔ اصحاب بوعثمان حیری.",
-        "person_id": 932,
+        "person_id": 1013,
         "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
         "has_id": 419
       }
@@ -76,7 +76,7 @@
       "name": "محفوظ",
       "relationship_type": "narrator",
       "full_text": "محفوظ گوید:",
-      "person_id": 2212,
+      "person_id": 2278,
       "canonical_name": "محفوظ",
       "has_id": NaN
     },
@@ -84,7 +84,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -92,7 +92,7 @@
       "name": "بوعثمان",
       "relationship_type": "interlocutor",
       "full_text": "قاصد ببوعثمان به نشاپور. بپرسیدن مسایلی را ازو",
-      "person_id": 932,
+      "person_id": 1013,
       "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
       "has_id": 419
     },
@@ -100,7 +100,7 @@
       "name": "باحفص٭",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "شیخ الاسلام گفت: از وی ببوعثمان و بباحفص٭ میآمدی روا بودی طعام خوردن",
-      "person_id": 759,
+      "person_id": 836,
       "canonical_name": "أبو حفص الحداد النيسابوري",
       "has_id": 715
     }

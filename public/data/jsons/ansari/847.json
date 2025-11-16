@@ -61,14 +61,14 @@
       "chain": [
         {
           "name": "بوبکر مفید٭ جرجرای",
-          "person_id": 647,
+          "person_id": 775,
           "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
           "has_id": 91,
           "subj_added": false
         },
         {
           "name": "یوسف حسین رازی",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -82,14 +82,14 @@
       "chain": [
         {
           "name": "بوعثمان مغربی٭",
-          "person_id": 942,
+          "person_id": 1015,
           "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
           "has_id": 156,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": true
@@ -103,7 +103,7 @@
       "chain": [
         {
           "name": "یوسف بن الحسین",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -117,28 +117,28 @@
       "chain": [
         {
           "name": "بوالحسین آبری",
-          "person_id": 455,
+          "person_id": 513,
           "canonical_name": "أبو الحسين آبري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "موسی عیسی مکی",
-          "person_id": 2568,
+          "person_id": 2628,
           "canonical_name": "موسي بن عيسي المكي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "یوسف حسین رازی",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
         },
         {
           "name": "ذوالنون مصری٭",
-          "person_id": 1523,
+          "person_id": 1586,
           "canonical_name": "ذو النون المصري",
           "has_id": 570,
           "subj_added": false
@@ -158,7 +158,7 @@
       "chain": [
         {
           "name": "یوسف حسین رازی",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
@@ -182,7 +182,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد ذوالنون مصری بابوتراب نخشبی و یحیی معاذ رازی٭",
-        "person_id": 1523,
+        "person_id": 1586,
         "canonical_name": "ذو النون المصري",
         "has_id": 570
       },
@@ -191,7 +191,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد ذوالنون مصری بابوتراب نخشبی و یحیی معاذ رازی٭",
-        "person_id": 721,
+        "person_id": 796,
         "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
         "has_id": 388
       },
@@ -200,7 +200,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد ذوالنون مصری بابوتراب نخشبی و یحیی معاذ رازی٭",
-        "person_id": 2650,
+        "person_id": 2709,
         "canonical_name": "يحيى بن معاذ الرازي",
         "has_id": 844
       }
@@ -212,7 +212,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "رفیق",
         "full_text": "رفیق بوسعید خراز٭ بوده در سفرها.",
-        "person_id": 801,
+        "person_id": 877,
         "canonical_name": "أبو سعيد الخراز",
         "has_id": 123
       },
@@ -221,7 +221,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "مکاتبات",
         "full_text": "ویرا مکاتبات است بجنید سخت نیکو",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       }
@@ -232,7 +232,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت عظم اللّه کرامته:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -240,7 +240,7 @@
       "name": "بوبکر مفید٭ جرجرای",
       "relationship_type": "direct_narrator",
       "full_text": "بوبکر مفید٭ جرجرای گوید، کی یوسف حسین رازی گفت",
-      "person_id": 647,
+      "person_id": 775,
       "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
       "has_id": 91
     },
@@ -248,7 +248,7 @@
       "name": "بوالحسین آبری",
       "relationship_type": "narrator",
       "full_text": "بوالحسین آبری گوید: که موسی عیسی مکی گفت: که یوسف حسین رازی گفت",
-      "person_id": 455,
+      "person_id": 513,
       "canonical_name": "أبو الحسين آبري",
       "has_id": NaN
     },
@@ -256,7 +256,7 @@
       "name": "موسی عیسی مکی",
       "relationship_type": "direct_narrator",
       "full_text": "موسی عیسی مکی گفت: که یوسف حسین رازی گفت",
-      "person_id": 2568,
+      "person_id": 2628,
       "canonical_name": "موسي بن عيسي المكي",
       "has_id": NaN
     },
@@ -265,7 +265,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "خال",
       "full_text": "عبداللهّ بن حاضر خال یوسف حسین رازی بود",
-      "person_id": 1786,
+      "person_id": 1854,
       "canonical_name": "عبد اللهّ بن حاضر",
       "has_id": NaN
     },
@@ -273,7 +273,7 @@
       "name": "بوعثمان مغربی٭",
       "relationship_type": "narrator",
       "full_text": "بوعثمان مغربی٭ گوید:",
-      "person_id": 942,
+      "person_id": 1015,
       "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
       "has_id": 156
     }

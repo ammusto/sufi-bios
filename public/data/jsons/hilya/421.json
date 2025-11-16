@@ -14,21 +14,21 @@
       "chain": [
         {
           "name": "محمد بن الحسين بن موسى",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "أبا بكر الرازي",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا علي الجورجاني",
-          "person_id": 949,
+          "person_id": 1021,
           "canonical_name": "أبو علي الجوزجاني",
           "has_id": 421,
           "subj_added": false
@@ -42,21 +42,21 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "عبد الله بن محمد بن عبد الرحمن الرازي",
-          "person_id": 1063,
+          "person_id": 1131,
           "canonical_name": "أبو محمد عبد الله بن محمد بن عبد الله الشعراني",
           "has_id": 432,
           "subj_added": false
         },
         {
           "name": "أبا علي الجورجاني",
-          "person_id": 949,
+          "person_id": 1021,
           "canonical_name": "أبو علي الجوزجاني",
           "has_id": 421,
           "subj_added": false
@@ -77,7 +77,7 @@
       "name": "أبا بكر الرازي",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا بكر الرازي يقول",
-      "person_id": 707,
+      "person_id": 782,
       "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
       "has_id": NaN
     },
@@ -85,7 +85,7 @@
       "name": "عبد الله بن محمد بن عبد الرحمن الرازي",
       "relationship_type": "narrator",
       "full_text": "سمعت عبد الله بن محمد بن عبد الرحمن الرازي يقول",
-      "person_id": 1063,
+      "person_id": 1131,
       "canonical_name": "أبو محمد عبد الله بن محمد بن عبد الله الشعراني",
       "has_id": 432
     }

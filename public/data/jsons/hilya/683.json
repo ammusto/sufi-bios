@@ -14,35 +14,35 @@
       "chain": [
         {
           "name": "أبو محمد بن حيان",
-          "person_id": 1050,
+          "person_id": 1116,
           "canonical_name": "أبو محمد بن حيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن محمود",
-          "person_id": 1268,
+          "person_id": 1329,
           "canonical_name": "أحمد بن محمود",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يوسف بن سعيد بن مسلم",
-          "person_id": 2679,
+          "person_id": 2737,
           "canonical_name": "يوسف بن سعيد بن مسلم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علي بن بكار",
-          "person_id": 2024,
+          "person_id": 2095,
           "canonical_name": "علي بن بكار",
           "has_id": 701,
           "subj_added": false
         },
         {
           "name": "عريفا اليماني",
-          "person_id": 1959,
+          "person_id": 2029,
           "canonical_name": "عريف اليماني",
           "has_id": 683,
           "subj_added": false
@@ -63,7 +63,7 @@
       "name": "علي بن بكار",
       "relationship_type": "narrator",
       "full_text": "سمعت علي بن بكار يقول سمعت عريفا اليماني يقول",
-      "person_id": 2024,
+      "person_id": 2095,
       "canonical_name": "علي بن بكار",
       "has_id": 701
     }

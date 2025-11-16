@@ -19,17 +19,24 @@
       "chain": [
         {
           "name": "أبو بكر المفيد",
-          "person_id": 647,
+          "person_id": 775,
           "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
           "has_id": 91,
           "subj_added": false
         },
         {
           "name": "إبراهيم الخواص",
-          "person_id": 278,
+          "person_id": 640,
           "canonical_name": "أبو إسحاق إبراهيم الخواص",
           "has_id": 268,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1828,
+          "canonical_name": "عبد الرحيم بن عبد الملك",
+          "has_id": 650,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -46,7 +53,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب المتقدمين من أصحاب السري وبشر.",
-        "person_id": 224,
+        "person_id": 250,
         "canonical_name": "المتقدمين من أصحاب السري وبشر",
         "has_id": NaN
       }
@@ -57,7 +64,7 @@
       "name": "إبراهيم الخواص",
       "relationship_type": "narrator",
       "full_text": "عن إبراهيم الخواص قال",
-      "person_id": 278,
+      "person_id": 640,
       "canonical_name": "أبو إسحاق إبراهيم الخواص",
       "has_id": 268
     },
@@ -65,7 +72,7 @@
       "name": "القيم",
       "relationship_type": "interlocutor",
       "full_text": "فقلت للقيم: متى قعد هذا الرجل هاهنا؟",
-      "person_id": 219,
+      "person_id": 245,
       "canonical_name": "القيم",
       "has_id": NaN
     },
@@ -73,7 +80,7 @@
       "name": "رجل",
       "relationship_type": "interlocutor",
       "full_text": "فإذا رجل يدق باب المسجد",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     }

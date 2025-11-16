@@ -49,14 +49,14 @@
       "chain": [
         {
           "name": "اسماعیل",
-          "person_id": 49,
+          "person_id": 67,
           "canonical_name": "اسماعيل",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "پسر نصرآبادی",
-          "person_id": 9,
+          "person_id": 8,
           "canonical_name": "ابن النصراباذي",
           "has_id": NaN,
           "subj_added": false
@@ -70,14 +70,14 @@
       "chain": [
         {
           "name": "اسماعیل",
-          "person_id": 49,
+          "person_id": 67,
           "canonical_name": "اسماعيل",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "پسر نصرآبادی",
-          "person_id": 9,
+          "person_id": 8,
           "canonical_name": "ابن النصراباذي",
           "has_id": NaN,
           "subj_added": false
@@ -91,14 +91,14 @@
       "chain": [
         {
           "name": "اسماعیل",
-          "person_id": 49,
+          "person_id": 67,
           "canonical_name": "اسماعيل",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "پسر نصرآبادی",
-          "person_id": 9,
+          "person_id": 8,
           "canonical_name": "ابن النصراباذي",
           "has_id": NaN,
           "subj_added": false
@@ -112,14 +112,14 @@
       "chain": [
         {
           "name": "الحسین بن محمد الباشانی ابا عبداللّه",
-          "person_id": 121,
+          "person_id": 140,
           "canonical_name": "الحسين بن محمد الباشاني أبو عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابا عثمان المغربی٭",
-          "person_id": 942,
+          "person_id": 1015,
           "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
           "has_id": 156,
           "subj_added": false
@@ -151,14 +151,14 @@
       "chain": [
         {
           "name": "شیخ بوبکر رازی",
-          "person_id": 624,
+          "person_id": 695,
           "canonical_name": "أبو بكر الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عثمان آدمی٭",
-          "person_id": 1949,
+          "person_id": 2018,
           "canonical_name": "عثمان آدمي",
           "has_id": NaN,
           "subj_added": false
@@ -178,7 +178,7 @@
       "chain": [
         {
           "name": "شیخ عمو٭",
-          "person_id": 1683,
+          "person_id": 1747,
           "canonical_name": "شيخ عمو",
           "has_id": 717,
           "subj_added": false
@@ -196,7 +196,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد ابراهیم شیبان بود",
-        "person_id": 283,
+        "person_id": 309,
         "canonical_name": "إبراهيم الشيبان",
         "has_id": NaN
       },
@@ -205,7 +205,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده",
         "full_text": "و شبلی و واسطی دیده",
-        "person_id": 628,
+        "person_id": 699,
         "canonical_name": "أبو بكر الشبلي",
         "has_id": 376
       },
@@ -214,7 +214,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده",
         "full_text": "و شبلی و واسطی دیده",
-        "person_id": 653,
+        "person_id": 721,
         "canonical_name": "أبو بكر الواسطي",
         "has_id": 379
       },
@@ -223,7 +223,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "و صحبت کرده با شبلی",
-        "person_id": 628,
+        "person_id": 699,
         "canonical_name": "أبو بكر الشبلي",
         "has_id": 376
       },
@@ -232,7 +232,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "و با بوعلی رودباری",
-        "person_id": 959,
+        "person_id": 1031,
         "canonical_name": "أبو علي الروذباري",
         "has_id": 422
       },
@@ -241,7 +241,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "و مرتعش",
-        "person_id": 1043,
+        "person_id": 1128,
         "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
         "has_id": 251
       },
@@ -250,7 +250,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "و بوبکر طاهر ابهری٭",
-        "person_id": 686,
+        "person_id": 759,
         "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
         "has_id": 29
       }
@@ -263,7 +263,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -271,7 +271,7 @@
       "name": "اسماعیل",
       "relationship_type": "narrator",
       "full_text": "اسماعیل گفت پسر نصرآبادی مرا",
-      "person_id": 49,
+      "person_id": 67,
       "canonical_name": "اسماعيل",
       "has_id": NaN
     },
@@ -279,7 +279,7 @@
       "name": "پسر نصرآبادی",
       "relationship_type": "direct_narrator",
       "full_text": "پسر نصرآبادی مرا کی وی گفت.",
-      "person_id": 9,
+      "person_id": 8,
       "canonical_name": "ابن النصراباذي",
       "has_id": NaN
     },
@@ -287,7 +287,7 @@
       "name": "عثمان مغربی",
       "relationship_type": "interlocutor",
       "full_text": "چون در مکه شد، با عثمان مغربی پیش او آمدگفت: چه جای تست مکه، بطبیب!",
-      "person_id": 942,
+      "person_id": 1015,
       "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
       "has_id": 156
     },
@@ -295,7 +295,7 @@
       "name": "الحسین بن محمد الباشانی ابا عبداللّه",
       "relationship_type": "narrator",
       "full_text": "سمعت الحسین بن محمد الباشانی ابا عبداللّه،",
-      "person_id": 121,
+      "person_id": 140,
       "canonical_name": "الحسين بن محمد الباشاني أبو عبد الله",
       "has_id": NaN
     },
@@ -303,7 +303,7 @@
       "name": "شیخ بوبکر رازی",
       "relationship_type": "narrator",
       "full_text": "شیخ بوبکر رازی گوید:",
-      "person_id": 624,
+      "person_id": 695,
       "canonical_name": "أبو بكر الرازي",
       "has_id": NaN
     },
@@ -311,7 +311,7 @@
       "name": "شیخ عمو٭",
       "relationship_type": "narrator",
       "full_text": "شیخ عمو٭ با من گفت:",
-      "person_id": 1683,
+      "person_id": 1747,
       "canonical_name": "شيخ عمو",
       "has_id": 717
     }

@@ -19,7 +19,7 @@
       "chain": [
         {
           "name": "عبد الله بن محمد",
-          "person_id": 1855,
+          "person_id": 1924,
           "canonical_name": "عبد الله بن محمد",
           "has_id": NaN,
           "subj_added": false
@@ -27,23 +27,30 @@
         {
           "name": "ابن ماهان الرازي",
           "has_id": NaN,
-          "person_id": 14,
-          "canonical_name": "ابن أبي محمد الصائغ وهو عبد الواحد بن بكر",
+          "person_id": 1297,
+          "canonical_name": "أحمد بن عيسى بن ماهان",
           "subj_added": false
         },
         {
           "name": "إسحاق بن الضيف",
-          "person_id": 338,
+          "person_id": 365,
           "canonical_name": "إسحاق بن الضيف",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مشيخة من أهل عوف",
-          "person_id": 2508,
+          "person_id": 2569,
           "canonical_name": "مشيخة من أهل عوف",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 158,
+          "canonical_name": "الحكم بن أبان",
+          "has_id": 233,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -61,7 +68,7 @@
       "name": "مشيخة من أهل عوف",
       "relationship_type": "narrator",
       "full_text": "قال سمعت مشيخة من أهل عوف يقولون",
-      "person_id": 2508,
+      "person_id": 2569,
       "canonical_name": "مشيخة من أهل عوف",
       "has_id": NaN
     }

@@ -19,7 +19,7 @@
       "chain": [
         {
           "name": "علی سهل",
-          "person_id": 2036,
+          "person_id": 2107,
           "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
           "has_id": 697,
           "subj_added": false
@@ -39,7 +39,7 @@
       "chain": [
         {
           "name": "علی سهل",
-          "person_id": 2036,
+          "person_id": 2107,
           "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
           "has_id": 697,
           "subj_added": false
@@ -53,7 +53,7 @@
       "chain": [
         {
           "name": "علی سهل",
-          "person_id": 2036,
+          "person_id": 2107,
           "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
           "has_id": 697,
           "subj_added": false
@@ -67,7 +67,7 @@
       "chain": [
         {
           "name": "علی سهل",
-          "person_id": 2036,
+          "person_id": 2107,
           "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
           "has_id": 697,
           "subj_added": false
@@ -99,14 +99,14 @@
       "chain": [
         {
           "name": "ابن المبارک",
-          "person_id": 1804,
+          "person_id": 1871,
           "canonical_name": "عبد الله بن المبارك",
           "has_id": 668,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2036,
+          "person_id": 2107,
           "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
           "has_id": 697,
           "subj_added": true
@@ -120,14 +120,14 @@
       "chain": [
         {
           "name": "ابن المبارک",
-          "person_id": 1804,
+          "person_id": 1871,
           "canonical_name": "عبد الله بن المبارك",
           "has_id": 668,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2036,
+          "person_id": 2107,
           "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
           "has_id": 697,
           "subj_added": true
@@ -141,14 +141,14 @@
       "chain": [
         {
           "name": "سهل علی مروزی",
-          "person_id": 1642,
+          "person_id": 1704,
           "canonical_name": "سهل بن علي المروزي",
           "has_id": 607,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2036,
+          "person_id": 2107,
           "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
           "has_id": 697,
           "subj_added": true
@@ -162,14 +162,14 @@
       "chain": [
         {
           "name": "سهل علی مروزی",
-          "person_id": 1642,
+          "person_id": 1704,
           "canonical_name": "سهل بن علي المروزي",
           "has_id": 607,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2036,
+          "person_id": 2107,
           "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
           "has_id": 697,
           "subj_added": true
@@ -183,14 +183,14 @@
       "chain": [
         {
           "name": "مصطفی",
-          "person_id": 246,
+          "person_id": 272,
           "canonical_name": "النبي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2036,
+          "person_id": 2107,
           "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
           "has_id": 697,
           "subj_added": true
@@ -204,14 +204,14 @@
       "chain": [
         {
           "name": "سهل علی",
-          "person_id": 1646,
+          "person_id": 1708,
           "canonical_name": "سهل علي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2036,
+          "person_id": 2107,
           "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
           "has_id": 697,
           "subj_added": true
@@ -231,14 +231,14 @@
       "chain": [
         {
           "name": "ابن جریج",
-          "person_id": 17,
+          "person_id": 22,
           "canonical_name": "ابن جريج",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2036,
+          "person_id": 2107,
           "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
           "has_id": 697,
           "subj_added": true
@@ -256,7 +256,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد محمد یوسف بنا٭ بود",
-        "person_id": 2477,
+        "person_id": 2538,
         "canonical_name": "محمد بن يوسف البناء",
         "has_id": 791
       },
@@ -265,7 +265,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده بود",
         "full_text": "با ابن معدان و بابوتراب نخشبی٭ صحبت کرده بود.",
-        "person_id": 35,
+        "person_id": 455,
         "canonical_name": "أبو الحسن القزويني",
         "has_id": NaN
       },
@@ -274,7 +274,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده بود",
         "full_text": "با ابن معدان و بابوتراب نخشبی٭ صحبت کرده بود.",
-        "person_id": 721,
+        "person_id": 796,
         "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
         "has_id": 388
       }
@@ -286,7 +286,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اقران",
         "full_text": "از اقران جنید بوده",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -295,7 +295,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "مکاتبت و رسالت",
         "full_text": "او را بوی مکاتبت و رسالت بود",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       }
@@ -306,7 +306,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -315,7 +315,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "شاعر",
       "full_text": "للمرشدی: یعیری قومی علی الملبس الدون الابیات.",
-      "person_id": 231,
+      "person_id": 257,
       "canonical_name": "المرشدي",
       "has_id": NaN
     },
@@ -323,7 +323,7 @@
       "name": "عمر",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "عمر و عثمان مکی٭ را که می سی هزار درم وام برآمد بمکه",
-      "person_id": 2084,
+      "person_id": 2149,
       "canonical_name": "عمر",
       "has_id": NaN
     },
@@ -331,7 +331,7 @@
       "name": "عثمان مکی٭",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "عمر و عثمان مکی٭ را که می سی هزار درم وام برآمد بمکه",
-      "person_id": 2126,
+      "person_id": 2192,
       "canonical_name": "عمرو بن عثمان المكي",
       "has_id": 716
     },
@@ -339,7 +339,7 @@
       "name": "عبداللهّ مبارک٭",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "در سرای عبداللهّ مبارک٭ شد",
-      "person_id": 1785,
+      "person_id": 1853,
       "canonical_name": "عبد اللهّ بن المبارك",
       "has_id": NaN
     },
@@ -347,7 +347,7 @@
       "name": "مصطفی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "مصطفی گفت ﷺ: نعمتان مغبون فیهما کثیر من",
-      "person_id": 246,
+      "person_id": 272,
       "canonical_name": "النبي",
       "has_id": NaN
     },
@@ -355,7 +355,7 @@
       "name": "سهل علی مروزی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "سهل علی مروزی پرسیدند: کی از نواختهاء اللّه کی بنده بدان بنوازد، کدام مه\nاست؟",
-      "person_id": 1642,
+      "person_id": 1704,
       "canonical_name": "سهل بن علي المروزي",
       "has_id": 607
     },
@@ -363,7 +363,7 @@
       "name": "ابن جریج",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "ابن جریج گوید: هرکه از راه طریق عزم نیست، او را ور زیادت روی نیست.",
-      "person_id": 17,
+      "person_id": 22,
       "canonical_name": "ابن جريج",
       "has_id": NaN
     }

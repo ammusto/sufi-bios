@@ -24,7 +24,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب سفيان الثوري ثلاث عشرة سنة",
-        "person_id": 1607,
+        "person_id": 1668,
         "canonical_name": "سفيان الثوري",
         "has_id": 598
       }
@@ -35,7 +35,7 @@
       "name": "سفيان الثوري",
       "relationship_type": "interlocutor",
       "full_text": "فقال لسفيان: لو أتيتهم؟ فقال سفيان: أتراني أخاف هوانهم؟ إنما أخاف كرامتهم.",
-      "person_id": 1607,
+      "person_id": 1668,
       "canonical_name": "سفيان الثوري",
       "has_id": 598
     },
@@ -44,7 +44,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "الخليفة",
       "full_text": "وكان رسوله إلى أمير المؤمنين المهدي، فعرض عليه المهدي برا ومالا فلم يقبل",
-      "person_id": 1309,
+      "person_id": 1371,
       "canonical_name": "أمير المؤمنين المهدي",
       "has_id": NaN
     }

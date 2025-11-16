@@ -14,7 +14,7 @@
       "chain": [
         {
           "name": "محمد بن أحمد",
-          "person_id": 2292,
+          "person_id": 2356,
           "canonical_name": "محمد بن أحمد",
           "has_id": NaN,
           "subj_added": false
@@ -22,13 +22,13 @@
         {
           "name": "أبا العباس الثقفي",
           "has_id": NaN,
-          "person_id": 53,
-          "canonical_name": "اصحاب ذوالنون",
+          "person_id": 413,
+          "canonical_name": "أبا العباس الثقفي",
           "subj_added": false
         },
         {
           "name": "أبا عمرو المروزي",
-          "person_id": 1013,
+          "person_id": 1081,
           "canonical_name": "أبو عمرو المروزي",
           "has_id": 427,
           "subj_added": false
@@ -50,7 +50,7 @@
       "relationship_type": "narrator",
       "full_text": "سمعت أبا العباس الثقفي يقول",
       "has_id": NaN,
-      "person_id": 52,
+      "person_id": 545,
       "canonical_name": "أبو العباس الثقفي"
     }
   ]

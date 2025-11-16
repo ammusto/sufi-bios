@@ -8,7 +8,7 @@
       "chain": [
         {
           "name": "ابوعبداللّه الحصری٭",
-          "person_id": 861,
+          "person_id": 938,
           "canonical_name": "أبو عبد الله الحصري",
           "has_id": 136,
           "subj_added": false
@@ -22,14 +22,14 @@
       "chain": [
         {
           "name": "ولید بن عبداللهّ القاء",
-          "person_id": 2619,
+          "person_id": 2679,
           "canonical_name": "وليد بن عبد الله السقاء",
           "has_id": 843,
           "subj_added": false
         },
         {
           "name": "ذوالنون",
-          "person_id": 1523,
+          "person_id": 1586,
           "canonical_name": "ذو النون المصري",
           "has_id": 570,
           "subj_added": false
@@ -50,7 +50,7 @@
       "name": "ابوعبداللّه الحصری٭",
       "relationship_type": "narrator",
       "full_text": "ذکره ابوعبداللّه الحصری٭ یقول:",
-      "person_id": 861,
+      "person_id": 938,
       "canonical_name": "أبو عبد الله الحصري",
       "has_id": 136
     },
@@ -58,7 +58,7 @@
       "name": "ولید بن عبداللهّ القاء",
       "relationship_type": "narrator",
       "full_text": "ولید بن عبداللهّ القاء کنیت وی ابواسحق از اصحاب ذوالنون بود وی گوید:",
-      "person_id": 2619,
+      "person_id": 2679,
       "canonical_name": "وليد بن عبد الله السقاء",
       "has_id": 843
     },
@@ -67,7 +67,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "quoted",
       "full_text": "که ذوالنون گفت:",
-      "person_id": 1523,
+      "person_id": 1586,
       "canonical_name": "ذو النون المصري",
       "has_id": 570
     }

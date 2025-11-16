@@ -23,7 +23,7 @@
       "chain": [
         {
           "name": "حارث",
-          "person_id": 69,
+          "person_id": 87,
           "canonical_name": "الحارث بن أسد المحاسبي",
           "has_id": 229,
           "subj_added": false
@@ -37,7 +37,7 @@
       "chain": [
         {
           "name": "حارث",
-          "person_id": 69,
+          "person_id": 87,
           "canonical_name": "الحارث بن أسد المحاسبي",
           "has_id": 229,
           "subj_added": false
@@ -51,14 +51,14 @@
       "chain": [
         {
           "name": "بوعبداللّه خفیف ٭",
-          "person_id": 22,
+          "person_id": 974,
           "canonical_name": "أبو عبد الله بن خفيف",
           "has_id": 26,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 69,
+          "person_id": 87,
           "canonical_name": "الحارث بن أسد المحاسبي",
           "has_id": 229,
           "subj_added": true
@@ -72,7 +72,7 @@
       "chain": [
         {
           "name": "الحارث",
-          "person_id": 69,
+          "person_id": 87,
           "canonical_name": "الحارث بن أسد المحاسبي",
           "has_id": 229,
           "subj_added": false
@@ -128,14 +128,14 @@
       "chain": [
         {
           "name": "واسطی",
-          "person_id": 653,
+          "person_id": 721,
           "canonical_name": "أبو بكر الواسطي",
           "has_id": 379,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 69,
+          "person_id": 87,
           "canonical_name": "الحارث بن أسد المحاسبي",
           "has_id": 229,
           "subj_added": true
@@ -156,7 +156,7 @@
       "name": "بوعبداللّه خفیف ٭",
       "relationship_type": "narrator",
       "full_text": "بوعبداللّه خفیف ٭ گوید:",
-      "person_id": 22,
+      "person_id": 974,
       "canonical_name": "أبو عبد الله بن خفيف",
       "has_id": 26
     },
@@ -164,7 +164,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -172,7 +172,7 @@
       "name": "واسطی",
       "relationship_type": "narrator",
       "full_text": "واسطی میگوید:",
-      "person_id": 653,
+      "person_id": 721,
       "canonical_name": "أبو بكر الواسطي",
       "has_id": 379
     },
@@ -181,7 +181,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "questioner",
       "full_text": "مرد فرا درآمد",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -190,15 +190,15 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "questioner",
       "full_text": "آن درویش گفت:که حق او است بر بنده",
-      "person_id": 1319,
-      "canonical_name": "آن درويش",
+      "person_id": 1582,
+      "canonical_name": "درويش",
       "has_id": NaN
     },
     {
       "name": "الجنید",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "بوعبداللّه خفیف ٭ گوید: اقتدو الخمسة من شیوخنا و الباقون سلموا احوالهم: حارث المحاسبی و الجنید و رویم و ابن عطا و عمر و بن عثمان الملکی ٭ لانهم جمعوا بین العلم و الحقایق.",
-      "person_id": 532,
+      "person_id": 595,
       "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
       "has_id": 228
     },
@@ -206,7 +206,7 @@
       "name": "رویم",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "بوعبداللّه خفیف ٭ گوید: اقتدو الخمسة من شیوخنا و الباقون سلموا احوالهم: حارث المحاسبی و الجنید و رویم و ابن عطا و عمر و بن عثمان الملکی ٭ لانهم جمعوا بین العلم و الحقایق.",
-      "person_id": 1553,
+      "person_id": 1615,
       "canonical_name": "رويم بن أحمد",
       "has_id": 578
     },
@@ -214,7 +214,7 @@
       "name": "ابن عطا",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "بوعبداللّه خفیف ٭ گوید: اقتدو الخمسة من شیوخنا و الباقون سلموا احوالهم: حارث المحاسبی و الجنید و رویم و ابن عطا و عمر و بن عثمان الملکی ٭ لانهم جمعوا بین العلم و الحقایق.",
-      "person_id": 498,
+      "person_id": 559,
       "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
       "has_id": 340
     },
@@ -222,7 +222,7 @@
       "name": "عمر و بن عثمان الملکی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "بوعبداللّه خفیف ٭ گوید: اقتدو الخمسة من شیوخنا و الباقون سلموا احوالهم: حارث المحاسبی و الجنید و رویم و ابن عطا و عمر و بن عثمان الملکی ٭ لانهم جمعوا بین العلم و الحقایق.",
-      "person_id": 2126,
+      "person_id": 2192,
       "canonical_name": "عمرو بن عثمان المكي",
       "has_id": 716
     },
@@ -230,7 +230,7 @@
       "name": "احمد حنبل",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "پس احمد حنبل بدو سال.",
-      "person_id": 1192,
+      "person_id": 1256,
       "canonical_name": "أحمد بن حنبل",
       "has_id": NaN
     }

@@ -46,21 +46,21 @@
       "chain": [
         {
           "name": "بوعبداللّه باکو",
-          "person_id": 15,
+          "person_id": 20,
           "canonical_name": "ابن باكوية الشيرازي",
           "has_id": 150,
           "subj_added": false
         },
         {
           "name": "بوعبداللّه الرودباری",
-          "person_id": 894,
+          "person_id": 967,
           "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
           "has_id": 413,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 894,
+          "person_id": 967,
           "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
           "has_id": 413,
           "subj_added": true
@@ -74,14 +74,14 @@
       "chain": [
         {
           "name": "بوالقاسم بوسلمهٔ باروردی «خطیب»",
-          "person_id": 546,
+          "person_id": 609,
           "canonical_name": "أبو القاسم باوردي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "شیخ بوعبداللّه رودباری",
-          "person_id": 894,
+          "person_id": 967,
           "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
           "has_id": 413,
           "subj_added": false
@@ -95,14 +95,14 @@
       "chain": [
         {
           "name": "بوسعید مقری",
-          "person_id": 805,
+          "person_id": 883,
           "canonical_name": "أبو سعيد المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 894,
+          "person_id": 967,
           "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
           "has_id": 413,
           "subj_added": true
@@ -116,14 +116,14 @@
       "chain": [
         {
           "name": "محمد شگرفت",
-          "person_id": 2366,
+          "person_id": 2429,
           "canonical_name": "محمد بن شگرفت",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 894,
+          "person_id": 967,
           "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
           "has_id": 413,
           "subj_added": true
@@ -137,35 +137,35 @@
       "chain": [
         {
           "name": "بوعمرو اکاف٭",
-          "person_id": 996,
+          "person_id": 1074,
           "canonical_name": "أبو عمرو اكاف",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "شیخ بوعبداللّه با نیک",
-          "person_id": 897,
+          "person_id": 970,
           "canonical_name": "أبو عبد الله با نيك",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "شبلی",
-          "person_id": 628,
+          "person_id": 699,
           "canonical_name": "أبو بكر الشبلي",
           "has_id": 376,
           "subj_added": false
         },
         {
           "name": "جنید",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 894,
+          "person_id": 967,
           "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
           "has_id": 413,
           "subj_added": true
@@ -179,14 +179,14 @@
       "chain": [
         {
           "name": "بوسعید خراز٭",
-          "person_id": 801,
+          "person_id": 877,
           "canonical_name": "أبو سعيد الخراز",
           "has_id": 123,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 894,
+          "person_id": 967,
           "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
           "has_id": 413,
           "subj_added": true
@@ -200,21 +200,21 @@
       "chain": [
         {
           "name": "خرقانی",
-          "person_id": 396,
+          "person_id": 441,
           "canonical_name": "أبو الحسن الخرقاني",
           "has_id": 303,
           "subj_added": false
         },
         {
           "name": "شاگردی ازان بوعبداللّه دونی",
-          "person_id": 1660,
+          "person_id": 1722,
           "canonical_name": "شاگردي ازان بوعبد الله دوني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 894,
+          "person_id": 967,
           "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
           "has_id": 413,
           "subj_added": true
@@ -228,14 +228,14 @@
       "chain": [
         {
           "name": "خرقانی",
-          "person_id": 396,
+          "person_id": 441,
           "canonical_name": "أبو الحسن الخرقاني",
           "has_id": 303,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 894,
+          "person_id": 967,
           "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
           "has_id": 413,
           "subj_added": true
@@ -249,14 +249,14 @@
       "chain": [
         {
           "name": "بوعبداللّه دونی",
-          "person_id": 865,
+          "person_id": 942,
           "canonical_name": "أبو عبد الله الدوني",
           "has_id": 137,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 894,
+          "person_id": 967,
           "canonical_name": "أبو عبد الله أحمد بن عطاء الروذباري",
           "has_id": 413,
           "subj_added": true
@@ -277,7 +277,7 @@
       "name": "شیخ بوعبداللّه باکو٭",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ بوعبداللّه باکو٭",
-      "person_id": 15,
+      "person_id": 20,
       "canonical_name": "ابن باكوية الشيرازي",
       "has_id": 150
     },
@@ -285,7 +285,7 @@
       "name": "بوالقاسم بوسلمهٔ باروردی «خطیب»",
       "relationship_type": "direct_narrator",
       "full_text": "بوالقاسم بوسلمهٔ باروردی «خطیب» گفت",
-      "person_id": 546,
+      "person_id": 609,
       "canonical_name": "أبو القاسم باوردي",
       "has_id": NaN
     },
@@ -293,7 +293,7 @@
       "name": "بوسعید مقری",
       "relationship_type": "direct_narrator",
       "full_text": "بوسعید مقری گوید:",
-      "person_id": 805,
+      "person_id": 883,
       "canonical_name": "أبو سعيد المقرئ",
       "has_id": NaN
     },
@@ -301,7 +301,7 @@
       "name": "محمد شگرفت",
       "relationship_type": "narrator",
       "full_text": "محمد شگرفت گفت:",
-      "person_id": 2366,
+      "person_id": 2429,
       "canonical_name": "محمد بن شگرفت",
       "has_id": NaN
     },
@@ -309,7 +309,7 @@
       "name": "بونصر قبانی پیر من ایذ",
       "relationship_type": "narrator",
       "full_text": "بونصر قبانی پیر من ایذ شیخ بوعبداللّه با نیک دیده بود",
-      "person_id": 1098,
+      "person_id": 1161,
       "canonical_name": "أبو نصر القباني",
       "has_id": 192
     },
@@ -317,7 +317,7 @@
       "name": "بوعمرو اکاف٭",
       "relationship_type": "narrator",
       "full_text": "بوعمرو اکاف٭ به اردن",
-      "person_id": 996,
+      "person_id": 1074,
       "canonical_name": "أبو عمرو اكاف",
       "has_id": NaN
     },
@@ -325,7 +325,7 @@
       "name": "شیخ بوعبداللّه با نیک",
       "relationship_type": "narrator",
       "full_text": "شیخ بوعبداللّه با نیک کگفت",
-      "person_id": 897,
+      "person_id": 970,
       "canonical_name": "أبو عبد الله با نيك",
       "has_id": NaN
     },
@@ -334,7 +334,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "speaker",
       "full_text": "شبلی گفت روزی بر منبر:",
-      "person_id": 628,
+      "person_id": 699,
       "canonical_name": "أبو بكر الشبلي",
       "has_id": 376
     },
@@ -343,7 +343,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "source_of_statement",
       "full_text": "که حق جنیدگفت",
-      "person_id": 532,
+      "person_id": 595,
       "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
       "has_id": 228
     },
@@ -351,7 +351,7 @@
       "name": "بوسعید خراز٭",
       "relationship_type": "narrator",
       "full_text": "بوسعید خراز٭ بمصر آمد، ویرا گفتند: ای سید قوم! سخن بگوی. گفت:",
-      "person_id": 801,
+      "person_id": 877,
       "canonical_name": "أبو سعيد الخراز",
       "has_id": 123
     },
@@ -359,7 +359,7 @@
       "name": "خرقانی",
       "relationship_type": "narrator",
       "full_text": "خرقانی فرامن گفت:",
-      "person_id": 396,
+      "person_id": 441,
       "canonical_name": "أبو الحسن الخرقاني",
       "has_id": 303
     },
@@ -367,7 +367,7 @@
       "name": "شاگردی ازان بوعبداللّه دونی",
       "relationship_type": "narrator",
       "full_text": "شاگردی ازان بوعبداللّه دونی مرا گفت",
-      "person_id": 1660,
+      "person_id": 1722,
       "canonical_name": "شاگردي ازان بوعبد الله دوني",
       "has_id": NaN
     },
@@ -375,7 +375,7 @@
       "name": "بوعبداللّه دونی",
       "relationship_type": "interlocutor",
       "full_text": "از بوعبداللّه دونی پرسیدند: که فقر چیست؟ گفت:",
-      "person_id": 865,
+      "person_id": 942,
       "canonical_name": "أبو عبد الله الدوني",
       "has_id": 137
     },
@@ -383,7 +383,7 @@
       "name": "بوعبداللّه مولی",
       "relationship_type": "interlocutor",
       "full_text": "بوعبداللّه مولی ... وی گفت",
-      "person_id": 921,
+      "person_id": 994,
       "canonical_name": "أبو عبد الله مولي",
       "has_id": NaN
     },
@@ -392,7 +392,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "will_come_to_speak",
       "full_text": "فردا بوسعد آید شما را بگوید.",
-      "person_id": 795,
+      "person_id": 871,
       "canonical_name": "أبو سعد",
       "has_id": NaN
     },
@@ -401,7 +401,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "teacher_of_شیخ بوعبداللّه با نیک",
       "full_text": "شاگرد بندار ارغانی٭",
-      "person_id": 1363,
+      "person_id": 1424,
       "canonical_name": "بندار الحسين الاركاني",
       "has_id": NaN
     }

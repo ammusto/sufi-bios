@@ -8,16 +8,16 @@
       "chain": [
         {
           "name": "أبا عمرو عثمان بن محمد العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو عبد الله القرشي",
-          "person_id": 880,
-          "canonical_name": "أبو عبد الله القرشي",
-          "has_id": NaN,
+          "person_id": 986,
+          "canonical_name": "أبو عبد الله محمد بن سعيد القرشي",
+          "has_id": 780,
           "subj_added": false
         }
       ],
@@ -29,23 +29,23 @@
       "chain": [
         {
           "name": "عبد الواحد بن بكر",
-          "person_id": 1908,
+          "person_id": 1976,
           "canonical_name": "عبد الواحد بن بكر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن سعيد",
-          "person_id": 1201,
+          "person_id": 1265,
           "canonical_name": "أحمد بن سعيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو عبد الله القرشي",
-          "person_id": 880,
-          "canonical_name": "أبو عبد الله القرشي",
-          "has_id": NaN,
+          "person_id": 986,
+          "canonical_name": "أبو عبد الله محمد بن سعيد القرشي",
+          "has_id": 780,
           "subj_added": false
         }
       ],
@@ -57,23 +57,23 @@
       "chain": [
         {
           "name": "عبد الواحد بن بكر",
-          "person_id": 1908,
+          "person_id": 1976,
           "canonical_name": "عبد الواحد بن بكر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن سعيد",
-          "person_id": 1201,
+          "person_id": 1265,
           "canonical_name": "أحمد بن سعيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو عبد الله القرشي",
-          "person_id": 880,
-          "canonical_name": "أبو عبد الله القرشي",
-          "has_id": NaN,
+          "person_id": 986,
+          "canonical_name": "أبو عبد الله محمد بن سعيد القرشي",
+          "has_id": 780,
           "subj_added": false
         }
       ],
@@ -92,7 +92,7 @@
       "name": "أبا عمرو عثمان بن محمد العثماني",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا عمرو عثمان بن محمد العثماني يقول",
-      "person_id": 1021,
+      "person_id": 1089,
       "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
       "has_id": NaN
     },
@@ -100,7 +100,7 @@
       "name": "أحمد بن سعيد",
       "relationship_type": "narrator",
       "full_text": "قال حدثني أحمد بن سعيد قال سمعت أبا عبد الله القرشي",
-      "person_id": 1201,
+      "person_id": 1265,
       "canonical_name": "أحمد بن سعيد",
       "has_id": NaN
     }

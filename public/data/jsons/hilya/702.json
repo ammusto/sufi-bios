@@ -1,5 +1,5 @@
 {
-  "bio_id": "478",
+  "bio_id": "702",
   "source": "hilya",
   "death_date": {
     "year_hijri": "353",
@@ -12,52 +12,59 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "علي بن عبد الله بن مبشر الواسطي",
-          "person_id": 2051,
+          "person_id": 2119,
           "canonical_name": "علي بن عبد الله بن مبشر الواسطي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن سنان",
-          "person_id": 2362,
+          "person_id": 2426,
           "canonical_name": "محمد بن سنان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الرحمن بن مهدي",
-          "person_id": 1755,
+          "person_id": 1823,
           "canonical_name": "عبد الرحمن بن مهدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مالك بن أنس",
-          "person_id": 2204,
+          "person_id": 2270,
           "canonical_name": "مالك بن أنس",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سعيد المقبري",
-          "person_id": 1594,
+          "person_id": 1656,
           "canonical_name": "سعيد بن أبي سعيد المقبري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي سلمة",
-          "person_id": 814,
+          "person_id": 892,
           "canonical_name": "أبو سلمة",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 477,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -67,32 +74,11 @@
     {
       "chain": [
         {
-          "name": "أبو بكر بن خلاد",
-          "person_id": 668,
-          "canonical_name": "أبو بكر بن خلاد",
-          "has_id": NaN,
-          "subj_added": false
-        },
-        {
-          "name": "محمد بن غالب",
-          "person_id": 2428,
-          "canonical_name": "محمد بن غالب",
-          "has_id": NaN,
-          "subj_added": false
-        },
-        {
-          "name": "القعنبي",
-          "person_id": 215,
-          "canonical_name": "القعنبي",
-          "has_id": NaN,
-          "subj_added": false
-        },
-        {
-          "name": "مالك",
-          "person_id": 2203,
-          "canonical_name": "مالك",
-          "has_id": NaN,
-          "subj_added": false
+          "name": "",
+          "person_id": 477,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -103,10 +89,17 @@
       "chain": [
         {
           "name": "عبد الواحد بن محمد بن بندار",
-          "person_id": 1914,
+          "person_id": 1981,
           "canonical_name": "عبد الواحد بن محمد بن بندار",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 477,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -117,10 +110,17 @@
       "chain": [
         {
           "name": "عبد الواحد بن محمد بن بندار",
-          "person_id": 1914,
+          "person_id": 1981,
           "canonical_name": "عبد الواحد بن محمد بن بندار",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 477,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -131,10 +131,17 @@
       "chain": [
         {
           "name": "عبد الواحد بن محمد بن بندار",
-          "person_id": 1914,
+          "person_id": 1981,
           "canonical_name": "عبد الواحد بن محمد بن بندار",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 477,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -145,10 +152,17 @@
       "chain": [
         {
           "name": "عبد الواحد بن محمد بن بندار",
-          "person_id": 1914,
+          "person_id": 1981,
           "canonical_name": "عبد الواحد بن محمد بن بندار",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 477,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -159,10 +173,17 @@
       "chain": [
         {
           "name": "عبد الواحد بن محمد بن بندار",
-          "person_id": 1914,
+          "person_id": 1981,
           "canonical_name": "عبد الواحد بن محمد بن بندار",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 477,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -173,10 +194,17 @@
       "chain": [
         {
           "name": "عبد الواحد بن محمد بن بندار",
-          "person_id": 1914,
+          "person_id": 1981,
           "canonical_name": "عبد الواحد بن محمد بن بندار",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 477,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -187,10 +215,17 @@
       "chain": [
         {
           "name": "عبد الواحد بن محمد بن بندار",
-          "person_id": 1914,
+          "person_id": 1981,
           "canonical_name": "عبد الواحد بن محمد بن بندار",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 477,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -201,10 +236,17 @@
       "chain": [
         {
           "name": "عبد الواحد بن محمد بن بندار",
-          "person_id": 1914,
+          "person_id": 1981,
           "canonical_name": "عبد الواحد بن محمد بن بندار",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 477,
+          "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
+          "has_id": 702,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -222,7 +264,7 @@
       "name": "أبو زرعة الطبري",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "وحضر مجلسه أبو زرعة الطبري، شيرازي المولد، سكن أرجان.",
-      "person_id": 789,
+      "person_id": 865,
       "canonical_name": "أبو زرعة الطبري",
       "has_id": NaN
     },
@@ -230,7 +272,7 @@
       "name": "عبد الواحد بن محمد بن بندار",
       "relationship_type": "questioner",
       "full_text": "سمعت عبد الواحد بن محمد بن بندار يقول: سألت بندار بن الحسن",
-      "person_id": 1914,
+      "person_id": 1981,
       "canonical_name": "عبد الواحد بن محمد بن بندار",
       "has_id": NaN
     }

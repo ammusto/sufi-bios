@@ -14,44 +14,44 @@
       "chain": [
         {
           "name": "عبد الله بن محمد",
-          "person_id": 1855,
+          "person_id": 1924,
           "canonical_name": "عبد الله بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو الحسن بن أبان",
-          "person_id": 417,
+          "person_id": 471,
           "canonical_name": "أبو الحسن بن أبان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر بن عبيد",
-          "person_id": 673,
+          "person_id": 744,
           "canonical_name": "أبو بكر بن عبيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو ثابت الخطاب",
-          "person_id": 723,
+          "person_id": 798,
           "canonical_name": "أبو ثابت الخطاب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "رجاء بن عيسى",
-          "person_id": 1527,
+          "person_id": 1590,
           "canonical_name": "رجاء بن عيسى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمرو ابن جرير",
-          "person_id": 2122,
-          "canonical_name": "عمرو بن جرير",
-          "has_id": NaN,
+          "person_id": 2188,
+          "canonical_name": "عمرو بن جرير البجلي",
+          "has_id": 710,
           "subj_added": false
         }
       ],
@@ -70,7 +70,7 @@
       "name": "رجاء بن عيسى",
       "relationship_type": "narrator",
       "full_text": "حدثني رجاء بن عيسى. قال قال لى عمرو ابن جرير",
-      "person_id": 1527,
+      "person_id": 1590,
       "canonical_name": "رجاء بن عيسى",
       "has_id": NaN
     }

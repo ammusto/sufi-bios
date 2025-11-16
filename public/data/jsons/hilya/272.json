@@ -8,21 +8,21 @@
       "chain": [
         {
           "name": "أبا إسحاق إبراهيم بن محمد بن يحيى",
-          "person_id": 575,
+          "person_id": 645,
           "canonical_name": "أبو إسحاق إبراهيم بن محمد بن يحيى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إبراهيم بن السري السقطي",
-          "person_id": 293,
+          "person_id": 319,
           "canonical_name": "إبراهيم بن السري السقطي",
           "has_id": 272,
           "subj_added": false
         },
         {
           "name": "أبى",
-          "person_id": 161,
+          "person_id": 183,
           "canonical_name": "السري السقطي",
           "has_id": 236,
           "subj_added": false
@@ -36,7 +36,7 @@
       "chain": [
         {
           "name": "إبراهيم بن محمد",
-          "person_id": 322,
+          "person_id": 348,
           "canonical_name": "إبراهيم بن محمد",
           "has_id": NaN,
           "subj_added": false
@@ -44,20 +44,20 @@
         {
           "name": "أبا العباس",
           "has_id": NaN,
-          "person_id": 21,
-          "canonical_name": "ابن خبيق",
+          "person_id": 543,
+          "canonical_name": "أبو العباس",
           "subj_added": false
         },
         {
           "name": "إبراهيم ابن السري",
-          "person_id": 293,
+          "person_id": 319,
           "canonical_name": "إبراهيم بن السري السقطي",
           "has_id": 272,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 161,
+          "person_id": 183,
           "canonical_name": "السري السقطي",
           "has_id": 236,
           "subj_added": false
@@ -78,7 +78,7 @@
       "name": "إبراهيم بن السري السقطي",
       "relationship_type": "narrator",
       "full_text": "سمعت إبراهيم بن السري السقطي يقول",
-      "person_id": 293,
+      "person_id": 319,
       "canonical_name": "إبراهيم بن السري السقطي",
       "has_id": 272
     },
@@ -86,7 +86,7 @@
       "name": "إبراهيم ابن السري",
       "relationship_type": "narrator",
       "full_text": "سمعت إبراهيم ابن السري يقول",
-      "person_id": 293,
+      "person_id": 319,
       "canonical_name": "إبراهيم بن السري السقطي",
       "has_id": 272
     }

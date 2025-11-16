@@ -28,7 +28,7 @@
       "chain": [
         {
           "name": "وی",
-          "person_id": 2621,
+          "person_id": 2681,
           "canonical_name": "وي",
           "has_id": NaN,
           "subj_added": false
@@ -42,7 +42,7 @@
       "chain": [
         {
           "name": "وی",
-          "person_id": 2621,
+          "person_id": 2681,
           "canonical_name": "وي",
           "has_id": NaN,
           "subj_added": false
@@ -56,7 +56,7 @@
       "chain": [
         {
           "name": "وی",
-          "person_id": 2621,
+          "person_id": 2681,
           "canonical_name": "وي",
           "has_id": NaN,
           "subj_added": false
@@ -70,7 +70,7 @@
       "chain": [
         {
           "name": "وی",
-          "person_id": 2621,
+          "person_id": 2681,
           "canonical_name": "وي",
           "has_id": NaN,
           "subj_added": false
@@ -90,21 +90,21 @@
       "chain": [
         {
           "name": "شیخ بوسعد مالینی",
-          "person_id": 796,
+          "person_id": 872,
           "canonical_name": "أبو سعد الماليني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بوالحسن سیروانی",
-          "person_id": 402,
+          "person_id": 449,
           "canonical_name": "أبو الحسن السيرواني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سهل «عبداللّه» تستری٭",
-          "person_id": 1639,
+          "person_id": 1700,
           "canonical_name": "سهل بن عبد الله التستري",
           "has_id": 605,
           "subj_added": false
@@ -118,7 +118,7 @@
       "chain": [
         {
           "name": "سیروانی مهین",
-          "person_id": 402,
+          "person_id": 449,
           "canonical_name": "أبو الحسن السيرواني",
           "has_id": NaN,
           "subj_added": false
@@ -132,7 +132,7 @@
       "chain": [
         {
           "name": "سیروانی مهین",
-          "person_id": 402,
+          "person_id": 449,
           "canonical_name": "أبو الحسن السيرواني",
           "has_id": NaN,
           "subj_added": false
@@ -170,7 +170,7 @@
       "chain": [
         {
           "name": "قرافی",
-          "person_id": 406,
+          "person_id": 454,
           "canonical_name": "أبو الحسن القرا في",
           "has_id": NaN,
           "subj_added": false
@@ -200,7 +200,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده بود با",
         "full_text": "با جنید صحبت کرده بود",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -209,7 +209,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده بود با",
         "full_text": "و با عثمان٭",
-        "person_id": 1947,
+        "person_id": 2016,
         "canonical_name": "عثمان",
         "has_id": NaN
       },
@@ -218,7 +218,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده بود با",
         "full_text": "و محمد ابن افضل البلخی رویم",
-        "person_id": 2222,
+        "person_id": 2288,
         "canonical_name": "محمد بن افضل البلخي",
         "has_id": NaN
       },
@@ -227,7 +227,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده بود با",
         "full_text": "و سمنون",
-        "person_id": 1634,
+        "person_id": 1695,
         "canonical_name": "سمنون بن حمزة المحب",
         "has_id": 603
       },
@@ -236,7 +236,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده بود با",
         "full_text": "و بوعلی گوزگانی",
-        "person_id": 966,
+        "person_id": 1037,
         "canonical_name": "أبو علي الگوزگاني",
         "has_id": NaN
       },
@@ -245,7 +245,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده بود با",
         "full_text": "و محمد حامد٭",
-        "person_id": 2337,
+        "person_id": 2401,
         "canonical_name": "محمد بن حامد الترمذي",
         "has_id": 381
       }
@@ -258,7 +258,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -266,7 +266,7 @@
       "name": "شیخ بوسعد مالینی",
       "relationship_type": "narrator",
       "full_text": "شیخ بوسعد مالینی آورده در «اربعین مشایخ:»",
-      "person_id": 796,
+      "person_id": 872,
       "canonical_name": "أبو سعد الماليني",
       "has_id": NaN
     },
@@ -274,7 +274,7 @@
       "name": "شیخ بوالحسن سیروانی مهین",
       "relationship_type": "narrator",
       "full_text": "بوالحسن سیروانی گوید",
-      "person_id": 402,
+      "person_id": 449,
       "canonical_name": "أبو الحسن السيرواني",
       "has_id": NaN
     },
@@ -282,7 +282,7 @@
       "name": "سهل «عبداللّه» تستری٭",
       "relationship_type": "narrator",
       "full_text": "سهل «عبداللّه» تستری٭ گوید",
-      "person_id": 1639,
+      "person_id": 1700,
       "canonical_name": "سهل بن عبد الله التستري",
       "has_id": 605
     },
@@ -290,7 +290,7 @@
       "name": "قرافی",
       "relationship_type": "narrator",
       "full_text": "قرافی گوید",
-      "person_id": 406,
+      "person_id": 454,
       "canonical_name": "أبو الحسن القرا في",
       "has_id": NaN
     },
@@ -298,7 +298,7 @@
       "name": "الخواص",
       "relationship_type": "interlocutor",
       "full_text": "و قال للخواص اوصنی فقال لی الزم الفقراء فان الخیر فهیم",
-      "person_id": 149,
+      "person_id": 170,
       "canonical_name": "الخواص",
       "has_id": NaN
     },
@@ -306,7 +306,7 @@
       "name": "شیخ بوسلیمان نیلی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "شیخ بوسلیمان نیلی بقرآنی آمده بوسه داد بر سر قرافی",
-      "person_id": 818,
+      "person_id": 896,
       "canonical_name": "أبو سليمان النيلي",
       "has_id": 127
     },
@@ -314,7 +314,7 @@
       "name": "بوبکر دقی٭",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "بوبکر دقی٭ بقرافی شد",
-      "person_id": 621,
+      "person_id": 693,
       "canonical_name": "أبو بكر الدقي",
       "has_id": 382
     }

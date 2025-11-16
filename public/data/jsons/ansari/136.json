@@ -14,14 +14,14 @@
       "chain": [
         {
           "name": "ابا عبداللّه الحصری",
-          "person_id": 861,
+          "person_id": 938,
           "canonical_name": "أبو عبد الله الحصري",
           "has_id": 136,
           "subj_added": false
         },
         {
           "name": "فتح الموصلی",
-          "person_id": 2165,
+          "person_id": 2231,
           "canonical_name": "فتح الموصلي",
           "has_id": 728,
           "subj_added": false
@@ -35,14 +35,14 @@
       "chain": [
         {
           "name": "محمدبن احمد النحاط",
-          "person_id": 2300,
+          "person_id": 2364,
           "canonical_name": "محمد بن أحمد النحاط",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 861,
+          "person_id": 938,
           "canonical_name": "أبو عبد الله الحصري",
           "has_id": 136,
           "subj_added": true
@@ -56,14 +56,14 @@
       "chain": [
         {
           "name": "ابوعبداللّه الحصری",
-          "person_id": 861,
+          "person_id": 938,
           "canonical_name": "أبو عبد الله الحصري",
           "has_id": 136,
           "subj_added": false
         },
         {
           "name": "ابن الفرجی",
-          "person_id": 749,
+          "person_id": 826,
           "canonical_name": "أبو جعفر محمد بن يعقوب الفرجي",
           "has_id": 21,
           "subj_added": false
@@ -81,7 +81,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "من المشایخ القدیم شاگرد فتح موصلی٭ ایذ و جز ازو.",
-        "person_id": 2165,
+        "person_id": 2231,
         "canonical_name": "فتح الموصلي",
         "has_id": 728
       },
@@ -90,7 +90,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "سمعت ... یقول",
         "full_text": "سمعت فتح الموصلی یقول",
-        "person_id": 2165,
+        "person_id": 2231,
         "canonical_name": "فتح الموصلي",
         "has_id": 728
       },
@@ -99,7 +99,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "سمعت ... یقول",
         "full_text": "سمعت ابن الفرجی یقول",
-        "person_id": 749,
+        "person_id": 826,
         "canonical_name": "أبو جعفر محمد بن يعقوب الفرجي",
         "has_id": 21
       }
@@ -112,7 +112,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "direct_narrator",
       "full_text": "سمعت شیخ الاسلام گفت رحمه اللّه",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -120,7 +120,7 @@
       "name": "محمدبن احمد النحاط",
       "relationship_type": "narrator",
       "full_text": "قال محمدبن احمد النحاط: لقیت ابا عبداللّه الحصری بالموصل فذاکرته فلم ننکره.",
-      "person_id": 2300,
+      "person_id": 2364,
       "canonical_name": "محمد بن أحمد النحاط",
       "has_id": NaN
     }

@@ -14,31 +14,38 @@
       "chain": [
         {
           "name": "أبو الحسن محمد بن محمد بن عبيد الله",
-          "person_id": 439,
+          "person_id": 494,
           "canonical_name": "أبو الحسن محمد بن محمد بن عبيد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عبد الله محمد بن محمد",
-          "person_id": 919,
+          "person_id": 992,
           "canonical_name": "أبو عبد الله محمد بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن عبد الله الرازي",
-          "person_id": 2380,
+          "person_id": 2443,
           "canonical_name": "محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "خيرا النساج",
-          "person_id": 1510,
+          "person_id": 1572,
           "canonical_name": "خير النساج",
           "has_id": 564,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2277,
+          "canonical_name": "محارب بن حسان",
+          "has_id": 759,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -56,7 +63,7 @@
       "name": "خيرا النساج",
       "relationship_type": "narrator",
       "full_text": "سمعت خيرا النساج يقول",
-      "person_id": 1510,
+      "person_id": 1572,
       "canonical_name": "خير النساج",
       "has_id": 564
     },
@@ -65,7 +72,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "presence",
       "full_text": "فجلس إلينا غلام جميل من أهل المغرب",
-      "person_id": 2150,
+      "person_id": 2216,
       "canonical_name": "غلام جميل من أهل المغرب",
       "has_id": NaN
     }

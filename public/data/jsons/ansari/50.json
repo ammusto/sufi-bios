@@ -29,7 +29,7 @@
       "chain": [
         {
           "name": "الامام",
-          "person_id": 55,
+          "person_id": 74,
           "canonical_name": "الامام",
           "has_id": NaN,
           "subj_added": false
@@ -49,7 +49,7 @@
       "chain": [
         {
           "name": "بوالحسین هاشمی",
-          "person_id": 469,
+          "person_id": 511,
           "canonical_name": "أبو الحسين الهاشمي",
           "has_id": 323,
           "subj_added": false
@@ -81,7 +81,7 @@
       "chain": [
         {
           "name": "جنید",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -95,7 +95,7 @@
       "chain": [
         {
           "name": "احد حنبل",
-          "person_id": 1192,
+          "person_id": 1256,
           "canonical_name": "أحمد بن حنبل",
           "has_id": NaN,
           "subj_added": false
@@ -109,7 +109,7 @@
       "chain": [
         {
           "name": "زجاج",
-          "person_id": 1011,
+          "person_id": 1079,
           "canonical_name": "أبو عمرو الزجاجي",
           "has_id": 426,
           "subj_added": false
@@ -135,7 +135,7 @@
       "chain": [
         {
           "name": "ذوالنون",
-          "person_id": 1523,
+          "person_id": 1586,
           "canonical_name": "ذو النون المصري",
           "has_id": 570,
           "subj_added": false
@@ -149,7 +149,7 @@
       "chain": [
         {
           "name": "عبداللّه بستی",
-          "person_id": 1798,
+          "person_id": 1856,
           "canonical_name": "عبد الله البستي",
           "has_id": NaN,
           "subj_added": false
@@ -163,8 +163,8 @@
       "chain": [
         {
           "name": "جنید",
-          "person_id": 550,
-          "canonical_name": "أبو القاسم حنانه",
+          "person_id": 1476,
+          "canonical_name": "جنید",
           "has_id": NaN,
           "subj_added": false
         }
@@ -177,7 +177,7 @@
       "chain": [
         {
           "name": "بزرگی",
-          "person_id": 1322,
+          "person_id": 1383,
           "canonical_name": "بزرگي",
           "has_id": NaN,
           "subj_added": false
@@ -191,7 +191,7 @@
       "chain": [
         {
           "name": "همام حارث",
-          "person_id": 2606,
+          "person_id": 2667,
           "canonical_name": "همام بن الحارث",
           "has_id": NaN,
           "subj_added": false
@@ -211,7 +211,7 @@
       "chain": [
         {
           "name": "واسطی٭",
-          "person_id": 653,
+          "person_id": 721,
           "canonical_name": "أبو بكر الواسطي",
           "has_id": 379,
           "subj_added": false
@@ -225,7 +225,7 @@
       "chain": [
         {
           "name": "واسطی٭",
-          "person_id": 653,
+          "person_id": 721,
           "canonical_name": "أبو بكر الواسطي",
           "has_id": 379,
           "subj_added": false
@@ -239,7 +239,7 @@
       "chain": [
         {
           "name": "فارس بغدادی٭",
-          "person_id": 2159,
+          "person_id": 2227,
           "canonical_name": "فارس بن عيسى البغدادي",
           "has_id": 721,
           "subj_added": false
@@ -265,7 +265,7 @@
       "chain": [
         {
           "name": "جنید",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -279,8 +279,8 @@
       "chain": [
         {
           "name": "مجنون عامری",
-          "person_id": 2211,
-          "canonical_name": "مجنون عامري",
+          "person_id": 2276,
+          "canonical_name": "مجنون العامري",
           "has_id": NaN,
           "subj_added": false
         }
@@ -299,7 +299,7 @@
       "chain": [
         {
           "name": "ابوبکر الشبهی",
-          "person_id": 629,
+          "person_id": 771,
           "canonical_name": "أبو بكر محمد بن أحمد بن جعفر الشبهي",
           "has_id": 384,
           "subj_added": false
@@ -313,7 +313,7 @@
       "chain": [
         {
           "name": "ابوالعباس الدینوری",
-          "person_id": 488,
+          "person_id": 556,
           "canonical_name": "أبو العباس أحمد الدينوري",
           "has_id": 338,
           "subj_added": false
@@ -327,9 +327,9 @@
       "chain": [
         {
           "name": "ابوالقاسم العباس الرازی المقری",
-          "person_id": 537,
+          "person_id": 600,
           "canonical_name": "أبو القاسم العباس الرازي المقرئ",
-          "has_id": 418,
+          "has_id": 141,
           "subj_added": false
         }
       ],
@@ -341,7 +341,7 @@
       "chain": [
         {
           "name": "عبدالعزیز بحرانی",
-          "person_id": 1769,
+          "person_id": 1838,
           "canonical_name": "عبد العزيز البحراني",
           "has_id": 652,
           "subj_added": false
@@ -355,7 +355,7 @@
       "chain": [
         {
           "name": "عبدالعزیز بحرانی",
-          "person_id": 1769,
+          "person_id": 1838,
           "canonical_name": "عبد العزيز البحراني",
           "has_id": 652,
           "subj_added": false
@@ -369,7 +369,7 @@
       "chain": [
         {
           "name": "عبدالعزیز بحرانی",
-          "person_id": 1769,
+          "person_id": 1838,
           "canonical_name": "عبد العزيز البحراني",
           "has_id": 652,
           "subj_added": false
@@ -383,7 +383,7 @@
       "chain": [
         {
           "name": "بوالعباس",
-          "person_id": 485,
+          "person_id": 543,
           "canonical_name": "أبو العباس",
           "has_id": NaN,
           "subj_added": false
@@ -403,9 +403,9 @@
       "chain": [
         {
           "name": "عبدالعزیز بحرانی",
-          "person_id": 1814,
-          "canonical_name": "عبد الله بن أحمد بن حنبل",
-          "has_id": NaN,
+          "person_id": 1838,
+          "canonical_name": "عبد العزيز البحراني",
+          "has_id": 652,
           "subj_added": false
         }
       ],
@@ -417,9 +417,9 @@
       "chain": [
         {
           "name": "عبدالعزیز بحرانی",
-          "person_id": 1814,
-          "canonical_name": "عبد الله بن أحمد بن حنبل",
-          "has_id": NaN,
+          "person_id": 1838,
+          "canonical_name": "عبد العزيز البحراني",
+          "has_id": 652,
           "subj_added": false
         }
       ],
@@ -431,9 +431,9 @@
       "chain": [
         {
           "name": "عبدالعزیز بحرانی",
-          "person_id": 1814,
-          "canonical_name": "عبد الله بن أحمد بن حنبل",
-          "has_id": NaN,
+          "person_id": 1838,
+          "canonical_name": "عبد العزيز البحراني",
+          "has_id": 652,
           "subj_added": false
         }
       ],
@@ -445,7 +445,7 @@
       "chain": [
         {
           "name": "بوالعباس",
-          "person_id": 502,
+          "person_id": 564,
           "canonical_name": "أبو العباس بن حكويه الرازي",
           "has_id": NaN,
           "subj_added": false
@@ -469,7 +469,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دید",
         "full_text": "کسی ویرا گفت: که چون دیدی جنید را؟ گفت:",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -478,7 +478,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده و صحبت کرده",
         "full_text": "در بغداد جنید دیده و صحبت کرده",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -487,7 +487,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "پیر ... بودهام و صحبت کردهام",
         "full_text": "با پیر شما جنید٭ بودهام و صحبت کردهام",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -496,8 +496,8 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده و صحبت کرده",
         "full_text": "در بغداد جنید دیده و صحبت کرده",
-        "person_id": 550,
-        "canonical_name": "أبو القاسم حنانه",
+        "person_id": 1476,
+        "canonical_name": "جنید",
         "has_id": NaN
       },
       {
@@ -505,8 +505,8 @@
         "relationship_type": "student_of",
         "relationship_phrase": "پیر ... بودهام و صحبت کردهام",
         "full_text": "با پیر شما جنید٭ بودهام و صحبت کردهام",
-        "person_id": 550,
-        "canonical_name": "أبو القاسم حنانه",
+        "person_id": 1476,
+        "canonical_name": "جنید",
         "has_id": NaN
       }
     ],
@@ -517,7 +517,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "با",
         "full_text": "با بوعبداللّه صوفی کبیر.",
-        "person_id": 875,
+        "person_id": 951,
         "canonical_name": "أبو عبد الله الصوفي كبير",
         "has_id": NaN
       },
@@ -526,7 +526,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "با",
         "full_text": "با بوعبداللّه صوفی کبیر.",
-        "person_id": 904,
+        "person_id": 977,
         "canonical_name": "أبو عبد الله بن علان",
         "has_id": 30
       }
@@ -537,7 +537,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -545,7 +545,7 @@
       "name": "الامام",
       "relationship_type": "narrator",
       "full_text": "انشدنا الامام للحلاج لنفسه فی المراثیه",
-      "person_id": 55,
+      "person_id": 74,
       "canonical_name": "الامام",
       "has_id": NaN
     },
@@ -554,7 +554,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "poet",
       "full_text": "انشدنا الامام للحلاج لنفسه فی المراثیه",
-      "person_id": 127,
+      "person_id": 146,
       "canonical_name": "الحسين بن منصور الحلاج",
       "has_id": 232
     },
@@ -562,7 +562,7 @@
       "name": "بوالحسین هاشمی",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت: که بوالحسین هاشمیگوید:",
-      "person_id": 469,
+      "person_id": 511,
       "canonical_name": "أبو الحسين الهاشمي",
       "has_id": 323
     },
@@ -570,7 +570,7 @@
       "name": "زجاج ٭",
       "relationship_type": "questioner",
       "full_text": "شیخ الاسلام گفت: کی زجاج ٭ پرسید جنید را از دوستی.",
-      "person_id": 1011,
+      "person_id": 1079,
       "canonical_name": "أبو عمرو الزجاجي",
       "has_id": 426
     },
@@ -578,7 +578,7 @@
       "name": "فلیح بغدادی مجنون",
       "relationship_type": "interlocutor",
       "full_text": "کی وقت جنید با ذوالنون، فرا فلیح بغدادی مجنون رسید، ویرا گفت:",
-      "person_id": 2172,
+      "person_id": 2238,
       "canonical_name": "فليح بغدادي مجنون",
       "has_id": NaN
     },
@@ -586,7 +586,7 @@
       "name": "یکی",
       "relationship_type": "questioner",
       "full_text": "یکی از جنید پرسید: که دل کی خوش بود؟",
-      "person_id": 2670,
+      "person_id": 2728,
       "canonical_name": "يكي",
       "has_id": NaN
     },
@@ -594,7 +594,7 @@
       "name": "کسی",
       "relationship_type": "questioner",
       "full_text": "کسی ویرا گفت: که چون دیدی جنید را؟",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -603,7 +603,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "interlocutor",
       "full_text": "شیخ الاسلام گفت: که امیرالمومنین علی کرم اللّه وجهه، بر مجلس حسن بصری بگذشت وی سخن میگفت خلق را.",
-      "person_id": 264,
+      "person_id": 290,
       "canonical_name": "امير المومنين علي كرم الله وجهه",
       "has_id": NaN
     },
@@ -612,7 +612,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "interlocutor",
       "full_text": "شیخ الاسلام گفت: که امیرالمومنین علی کرم اللّه وجهه، بر مجلس حسن بصری بگذشت وی سخن میگفت خلق را.",
-      "person_id": 1444,
+      "person_id": 1506,
       "canonical_name": "حسن البصري",
       "has_id": 513
     },
@@ -621,7 +621,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "respondent",
       "full_text": "ازکتانی ٭ پرسیدند: کی مرد کی ازین سخن بایدگفت؟",
-      "person_id": 712,
+      "person_id": 786,
       "canonical_name": "أبو بكر محمد بن علي الكتاني",
       "has_id": 378
     },
@@ -629,7 +629,7 @@
       "name": "ذوالنون",
       "relationship_type": "narrator",
       "full_text": "و قال ذوالنون: اقبح الغفلة بالالباء والعلة بالاطباء والسلوة بالاحباء.",
-      "person_id": 1523,
+      "person_id": 1586,
       "canonical_name": "ذو النون المصري",
       "has_id": 570
     },
@@ -637,7 +637,7 @@
       "name": "عبداللّه بستی",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت: که عبداللّه بستی گوید، کی جنیدگفت: ارمرد این سخنان ما از وراء هفتاد پرده قبول کند، آخر از اهل آنست.",
-      "person_id": 1798,
+      "person_id": 1856,
       "canonical_name": "عبد الله البستي",
       "has_id": NaN
     },
@@ -645,7 +645,7 @@
       "name": "همام حارث",
       "relationship_type": "narrator",
       "full_text": "همام حارث گویدکه مرد فرا جنیدگفت: کی پیران خراسان، بران یافتم، کی حجاب سه است:",
-      "person_id": 2606,
+      "person_id": 2667,
       "canonical_name": "همام بن الحارث",
       "has_id": NaN
     },
@@ -653,7 +653,7 @@
       "name": "واسطی٭",
       "relationship_type": "narrator",
       "full_text": "واسطی٭ گفت: مطالبة الا عواض علی الطاعات من نسیان الفضل",
-      "person_id": 653,
+      "person_id": 721,
       "canonical_name": "أبو بكر الواسطي",
       "has_id": 379
     },
@@ -661,7 +661,7 @@
       "name": "فارس بغدادی٭",
       "relationship_type": "narrator",
       "full_text": "و فارس بغدادی٭ گفت: حلاوة الطاعات والشرک سواء.",
-      "person_id": 2159,
+      "person_id": 2227,
       "canonical_name": "فارس بن عيسى البغدادي",
       "has_id": 721
     },
@@ -669,8 +669,8 @@
       "name": "مجنون عامری",
       "relationship_type": "narrator",
       "full_text": "مجنون عامری گفت:",
-      "person_id": 2211,
-      "canonical_name": "مجنون عامري",
+      "person_id": 2276,
+      "canonical_name": "مجنون العامري",
       "has_id": NaN
     },
     {
@@ -678,7 +678,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "speaker",
       "full_text": "جنیدگفت: عین دوستی آنست: که ار خلق آن دوستداری، که ملک از ایشان دارد.",
-      "person_id": 532,
+      "person_id": 595,
       "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
       "has_id": 228
     },
@@ -686,7 +686,7 @@
       "name": "احد حنبل",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت: کی احد حنبل گفت رحمت اللّه علیه: که کمینه چیز در دوستی موافقت است",
-      "person_id": 1192,
+      "person_id": 1256,
       "canonical_name": "أحمد بن حنبل",
       "has_id": NaN
     },
@@ -695,7 +695,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "interlocutor",
       "full_text": "جنید گفت کی فا بشران بن حامد گفتم: آن چه روز است؟",
-      "person_id": 2156,
+      "person_id": 2222,
       "canonical_name": "فا بشران بن حامد",
       "has_id": NaN
     },
@@ -703,7 +703,7 @@
       "name": "ابوبکر الشبهی",
       "relationship_type": "narrator",
       "full_text": "قال ابوبکر الشبهی الفتوة حسن الخلق و بذل المعروف",
-      "person_id": 629,
+      "person_id": 771,
       "canonical_name": "أبو بكر محمد بن أحمد بن جعفر الشبهي",
       "has_id": 384
     },
@@ -711,7 +711,7 @@
       "name": "ابوالعباس الدینوری",
       "relationship_type": "narrator",
       "full_text": "قال ابوالعباس الدینوری: لیس یبلغ الانسان الی مراتب الاخیار الا الصدق",
-      "person_id": 488,
+      "person_id": 556,
       "canonical_name": "أبو العباس أحمد الدينوري",
       "has_id": 338
     },
@@ -719,15 +719,15 @@
       "name": "ابوالقاسم العباس الرازی المقری",
       "relationship_type": "narrator",
       "full_text": "قال ابوالقاسم العباس الرازی المقری",
-      "person_id": 537,
+      "person_id": 600,
       "canonical_name": "أبو القاسم العباس الرازي المقرئ",
-      "has_id": 418
+      "has_id": 141
     },
     {
       "name": "بزرگی",
       "relationship_type": "narrator",
       "full_text": "بزرگی گفت: که پیشین نشان و برکة، که اهل این کوی را ظاهرگردد، ولایت دل پدید آید",
-      "person_id": 1322,
+      "person_id": 1383,
       "canonical_name": "بزرگي",
       "has_id": NaN
     },
@@ -736,7 +736,7 @@
       "relationship_type": "direct_narrator",
       "context": "questioner",
       "full_text": "کی عبدالعزیز بحرانی، بکران مجلس بوالعباس سریج شد گفت",
-      "person_id": 1769,
+      "person_id": 1838,
       "canonical_name": "عبد العزيز البحراني",
       "has_id": 652
     },
@@ -744,7 +744,7 @@
       "name": "بوعبداللّه صوفی کبیر",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "با بوعبداللّه صوفی کبیر.",
-      "person_id": 875,
+      "person_id": 951,
       "canonical_name": "أبو عبد الله الصوفي كبير",
       "has_id": NaN
     },
@@ -752,8 +752,8 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1725,
-      "canonical_name": "عبد الأعلى بن أبي المساور",
+      "person_id": 1750,
+      "canonical_name": "شیخ الاسلام",
       "has_id": NaN
     },
     {
@@ -761,15 +761,15 @@
       "relationship_type": "direct_narrator",
       "context": "questioner",
       "full_text": "کی عبدالعزیز بحرانی، بکران مجلس بوالعباس سریج شد گفت",
-      "person_id": 1814,
-      "canonical_name": "عبد الله بن أحمد بن حنبل",
-      "has_id": NaN
+      "person_id": 1838,
+      "canonical_name": "عبد العزيز البحراني",
+      "has_id": 652
     },
     {
       "name": "بوعبداللّه صوفی کبیر",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "با بوعبداللّه صوفی کبیر.",
-      "person_id": 904,
+      "person_id": 977,
       "canonical_name": "أبو عبد الله بن علان",
       "has_id": 30
     }

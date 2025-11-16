@@ -14,44 +14,44 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو الحسن بن أبان",
-          "person_id": 417,
+          "person_id": 471,
           "canonical_name": "أبو الحسن بن أبان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو عبد الله محمد بن سفيان",
-          "person_id": 914,
+          "person_id": 987,
           "canonical_name": "أبو عبد الله محمد بن سفيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علي ابن مريم",
-          "person_id": 2070,
+          "person_id": 2135,
           "canonical_name": "علي بن مريم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "زهير بن عباد",
-          "person_id": 1565,
+          "person_id": 1627,
           "canonical_name": "زهير بن عباد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "داود بن هلال النصيبي",
-          "person_id": 1517,
+          "person_id": 1580,
           "canonical_name": "داود بن هلال النصيبي",
-          "has_id": NaN,
+          "has_id": 567,
           "subj_added": false
         }
       ],
@@ -70,7 +70,7 @@
       "name": "زهير بن عباد",
       "relationship_type": "narrator",
       "full_text": "عن زهير بن عباد ثنا داود بن هلال النصيبي",
-      "person_id": 1565,
+      "person_id": 1627,
       "canonical_name": "زهير بن عباد",
       "has_id": NaN
     }

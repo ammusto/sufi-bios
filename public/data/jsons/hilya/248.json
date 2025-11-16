@@ -8,23 +8,23 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "عبد الواحد بن بكر",
-          "person_id": 1908,
+          "person_id": 1976,
           "canonical_name": "عبد الواحد بن بكر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو عبد الله القلانسي",
-          "person_id": 881,
+          "person_id": 956,
           "canonical_name": "أبو عبد الله القلانسي",
-          "has_id": NaN,
+          "has_id": 248,
           "subj_added": false
         }
       ],
@@ -43,7 +43,7 @@
       "name": "عبد الواحد بن بكر",
       "relationship_type": "narrator",
       "full_text": "ثنا عبد الواحد بن بكر أن أبا عبد الله القلانسي",
-      "person_id": 1908,
+      "person_id": 1976,
       "canonical_name": "عبد الواحد بن بكر",
       "has_id": NaN
     },
@@ -51,7 +51,7 @@
       "name": "أهل المركب",
       "relationship_type": "questioner",
       "full_text": "وقالوا: أي عبد الله كلنا قد عاهدنا الله ونذرنا نذرا إن نجانا الله، فانذر أنت نذرا وعاهد الله عهدا",
-      "person_id": 1311,
+      "person_id": 1373,
       "canonical_name": "أهل المركب",
       "has_id": NaN
     },
@@ -59,7 +59,7 @@
       "name": "ترجمانه",
       "relationship_type": "questioner",
       "full_text": "وسألني ترجمانه فأخبرته بالقصة وما جرى على القوم",
-      "person_id": 1366,
+      "person_id": 1426,
       "canonical_name": "ترجمانه",
       "has_id": NaN
     },
@@ -67,7 +67,7 @@
       "name": "ملكهم",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "فجملونى إلى ملكهم",
-      "person_id": 2533,
+      "person_id": 2592,
       "canonical_name": "ملكهم",
       "has_id": NaN
     }

@@ -18,29 +18,31 @@
       "chain": [
         {
           "name": "خراز",
-          "person_id": 801,
+          "person_id": 877,
           "canonical_name": "أبو سعيد الخراز",
           "has_id": 123,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 498,
+          "person_id": 559,
           "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
           "has_id": 340,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 498,
+          "name": "",
+          "person_id": 559,
           "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
-          "has_id": 340
+          "has_id": 340,
+          "subj_added": false
         },
         {
-          "name": NaN,
-          "person_id": 498,
+          "name": "",
+          "person_id": 559,
           "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
-          "has_id": 340
+          "has_id": 340,
+          "subj_added": false
         }
       ],
       "type": "single_informant",
@@ -51,7 +53,7 @@
       "chain": [
         {
           "name": "بلعباس عطا",
-          "person_id": 498,
+          "person_id": 559,
           "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
           "has_id": 340,
           "subj_added": false
@@ -65,7 +67,7 @@
       "chain": [
         {
           "name": "بلعباس عطا",
-          "person_id": 498,
+          "person_id": 559,
           "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
           "has_id": 340,
           "subj_added": false
@@ -85,21 +87,21 @@
       "chain": [
         {
           "name": "شیخ بوالعباس ارزیزی",
-          "person_id": 486,
+          "person_id": 544,
           "canonical_name": "أبو العباس الارزيزي",
           "has_id": 335,
           "subj_added": false
         },
         {
           "name": "بوالحسین عبادانی",
-          "person_id": 447,
+          "person_id": 505,
           "canonical_name": "أبو الحسين العباداني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 498,
+          "person_id": 559,
           "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
           "has_id": 340,
           "subj_added": true
@@ -129,18 +131,18 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده بود با",
         "full_text": "صحبت کرده بود با ابراهیم مارستانی",
-        "person_id": 573,
+        "person_id": 641,
         "canonical_name": "أبو إسحاق إبراهيم المارستاني",
-        "has_id": NaN
+        "has_id": 269
       },
       {
         "name": "ابراهیم مارستانی",
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد او بود",
-        "person_id": 573,
+        "person_id": 641,
         "canonical_name": "أبو إسحاق إبراهيم المارستاني",
-        "has_id": NaN
+        "has_id": 269
       }
     ],
     "students": [],
@@ -150,7 +152,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از یاران",
         "full_text": "از یاران جنید٭ است",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       }
@@ -161,7 +163,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -169,7 +171,7 @@
       "name": "بوسعید خراز٭",
       "relationship_type": "narrator",
       "full_text": "خرازگوید: التصوف خلق و لبس انابة و مارایت من اهله الاالجنید و ابن عطا.",
-      "person_id": 801,
+      "person_id": 877,
       "canonical_name": "أبو سعيد الخراز",
       "has_id": 123
     },
@@ -178,7 +180,7 @@
       "relationship_type": "questioner",
       "context": "در حلاج چه گوئی؟",
       "full_text": "بلعباس را گفت: در حلاج چه گوئی؟",
-      "person_id": 2617,
+      "person_id": 2677,
       "canonical_name": "وزير",
       "has_id": NaN
     },
@@ -186,7 +188,7 @@
       "name": "شیخ بوالعباس ارزیزی",
       "relationship_type": "narrator",
       "full_text": "شیخ بوالعباس ارزیزی گفت:",
-      "person_id": 486,
+      "person_id": 544,
       "canonical_name": "أبو العباس الارزيزي",
       "has_id": 335
     },
@@ -194,7 +196,7 @@
       "name": "بوالحسین عبادانی",
       "relationship_type": "narrator",
       "full_text": "بوالحسین عبادانی گفت:",
-      "person_id": 447,
+      "person_id": 505,
       "canonical_name": "أبو الحسين العباداني",
       "has_id": NaN
     },
@@ -202,7 +204,7 @@
       "name": "حلاج",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "بسبب حلاج کشته شده فی ذی القعده سنه تسع و ثلثمائه.",
-      "person_id": 127,
+      "person_id": 146,
       "canonical_name": "الحسين بن منصور الحلاج",
       "has_id": 232
     },
@@ -210,7 +212,7 @@
       "name": "رئیس حبله",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "پسر رئیس حبله امروز سه روز است کی ناپدید است",
-      "person_id": 1555,
+      "person_id": 1617,
       "canonical_name": "رئيس حبله",
       "has_id": NaN
     }

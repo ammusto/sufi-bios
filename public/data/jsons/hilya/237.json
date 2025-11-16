@@ -14,28 +14,28 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن جعفر بن هانئ",
-          "person_id": 1188,
+          "person_id": 1252,
           "canonical_name": "أحمد بن جعفر بن هانئ",
           "has_id": 444,
           "subj_added": false
         },
         {
           "name": "محمد بن يوسف البناء",
-          "person_id": 2477,
+          "person_id": 2538,
           "canonical_name": "محمد بن يوسف البناء",
           "has_id": 791,
           "subj_added": false
         },
         {
           "name": "إبراهيم الهروي",
-          "person_id": 289,
+          "person_id": 315,
           "canonical_name": "إبراهيم الهروي",
           "has_id": 271,
           "subj_added": false
@@ -43,9 +43,16 @@
         {
           "name": "ابن المبارك",
           "has_id": 668,
-          "person_id": 1804,
+          "person_id": 1871,
           "canonical_name": "عبد الله بن المبارك",
           "subj_added": false
+        },
+        {
+          "person_id": 194,
+          "canonical_name": "العباس المجنون",
+          "has_id": 237,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -55,11 +62,11 @@
     {
       "chain": [
         {
-          "name": "غلام أبي سليمان الداراني",
-          "person_id": 2149,
-          "canonical_name": "غلام أبي سليمان الداراني",
-          "has_id": NaN,
-          "subj_added": false
+          "person_id": 194,
+          "canonical_name": "العباس المجنون",
+          "has_id": 237,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "single_informant",
@@ -69,11 +76,11 @@
     {
       "chain": [
         {
-          "name": "غلام أبي سليمان الداراني",
-          "person_id": 2149,
-          "canonical_name": "غلام أبي سليمان الداراني",
-          "has_id": NaN,
-          "subj_added": false
+          "person_id": 194,
+          "canonical_name": "العباس المجنون",
+          "has_id": 237,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "single_informant",
@@ -92,14 +99,14 @@
       "relationship_type": "narrator",
       "full_text": "عن ابن المبارك قال: صعدت جبل لبنان",
       "has_id": 668,
-      "person_id": 1804,
+      "person_id": 1871,
       "canonical_name": "عبد الله بن المبارك"
     },
     {
       "name": "غلام أبي سليمان الداراني",
       "relationship_type": "interlocutor",
       "full_text": "فلقيني غلام أبي سليمان الداراني فسألته عنه وأعطيته صفته",
-      "person_id": 2149,
+      "person_id": 2215,
       "canonical_name": "غلام أبي سليمان الداراني",
       "has_id": NaN
     }

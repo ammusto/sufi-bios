@@ -14,35 +14,35 @@
       "chain": [
         {
           "name": "عبد الله بن محمد بن جعفر",
-          "person_id": 1868,
+          "person_id": 1937,
           "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إسحاق بن أبي حسان",
-          "person_id": 343,
+          "person_id": 370,
           "canonical_name": "إسحاق بن أبي حسان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد ابن أبي الحواري",
-          "person_id": 1177,
+          "person_id": 1241,
           "canonical_name": "أحمد بن أبي الحواري",
           "has_id": 442,
           "subj_added": false
         },
         {
           "name": "جعفر بن محمد",
-          "person_id": 1404,
-          "canonical_name": "جعفر بن محمد",
+          "person_id": 1464,
+          "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "أحمد الميموني",
-          "person_id": 1159,
+          "person_id": 1223,
           "canonical_name": "أحمد الميموني وأحمد الموصلي",
           "has_id": 438,
           "subj_added": false
@@ -56,14 +56,14 @@
       "chain": [
         {
           "name": "أبو العالية",
-          "person_id": 484,
+          "person_id": 542,
           "canonical_name": "أبو العالية",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1159,
+          "person_id": 1223,
           "canonical_name": "أحمد الميموني وأحمد الموصلي",
           "has_id": 438,
           "subj_added": true
@@ -83,7 +83,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "كانا متواخيين",
         "full_text": "كانا متواخيين",
-        "person_id": 1159,
+        "person_id": 1223,
         "canonical_name": "أحمد الميموني وأحمد الموصلي",
         "has_id": 438
       }
@@ -94,7 +94,7 @@
       "name": "جعفر بن محمد",
       "relationship_type": "narrator",
       "full_text": "ثنا جعفر بن محمد عن أحمد الميموني",
-      "person_id": 1405,
+      "person_id": 1464,
       "canonical_name": "جعفر بن محمد الخلدي",
       "has_id": 495
     },
@@ -103,7 +103,7 @@
       "relationship_type": "interlocutor",
       "context": "dialogue",
       "full_text": "أتيت أحمد الموصلي فقلت",
-      "person_id": 1159,
+      "person_id": 1223,
       "canonical_name": "أحمد الميموني وأحمد الموصلي",
       "has_id": 438
     },
@@ -112,7 +112,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "cited_authority",
       "full_text": "بلغني عن أبي العالية أنه قال",
-      "person_id": 484,
+      "person_id": 542,
       "canonical_name": "أبو العالية",
       "has_id": NaN
     }

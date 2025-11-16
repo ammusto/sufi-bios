@@ -28,24 +28,31 @@
       "chain": [
         {
           "name": "أبا بكر الطوسي الدينوري",
-          "person_id": 622,
+          "person_id": 694,
           "canonical_name": "أبو بكر الدينوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "شيخي إبراهيم",
-          "person_id": 315,
+          "person_id": 340,
           "canonical_name": "إبراهيم بن شيبان أستاذه",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عبد الله المغربي",
-          "person_id": 885,
+          "person_id": 960,
           "canonical_name": "أبو عبد الله المغربي",
           "has_id": 416,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2101,
+          "canonical_name": "علي بن رزين",
+          "has_id": 696,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -56,10 +63,17 @@
       "chain": [
         {
           "name": "الشيخ",
-          "person_id": 169,
+          "person_id": 191,
           "canonical_name": "الشيخ",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2101,
+          "canonical_name": "علي بن رزين",
+          "has_id": 696,
+          "subj_added": true
         }
       ],
       "type": "single_informant",
@@ -70,10 +84,17 @@
       "chain": [
         {
           "name": "أبو بكر الطرسوسي",
-          "person_id": 623,
+          "person_id": 725,
           "canonical_name": "أبو بكر أحمد بن محمد الطرسوسي",
           "has_id": 79,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2101,
+          "canonical_name": "علي بن رزين",
+          "has_id": 696,
+          "subj_added": true
         }
       ],
       "type": "single_informant",
@@ -84,17 +105,24 @@
       "chain": [
         {
           "name": "إبراهيم بن شيبان أستاذه",
-          "person_id": 315,
+          "person_id": 340,
           "canonical_name": "إبراهيم بن شيبان أستاذه",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عبد الله المغربي",
-          "person_id": 885,
+          "person_id": 960,
           "canonical_name": "أبو عبد الله المغربي",
           "has_id": 416,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2101,
+          "canonical_name": "علي بن رزين",
+          "has_id": 696,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -105,17 +133,24 @@
       "chain": [
         {
           "name": "إبراهيم بن شيبان أستاذه",
-          "person_id": 315,
+          "person_id": 340,
           "canonical_name": "إبراهيم بن شيبان أستاذه",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عبد الله المغربي",
-          "person_id": 885,
+          "person_id": 960,
           "canonical_name": "أبو عبد الله المغربي",
           "has_id": 416,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2101,
+          "canonical_name": "علي بن رزين",
+          "has_id": 696,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -131,7 +166,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "تخرج به",
         "full_text": "تخرج به أبو عبد الرحمن المغربي أستاذ إبراهيم بن شيبان",
-        "person_id": 847,
+        "person_id": 924,
         "canonical_name": "أبو عبد الرحمن المغربي",
         "has_id": NaN
       },
@@ -140,7 +175,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "تلميذ",
         "full_text": "وكان أبو عبد الله لمغربى محمد بن إسماعيل تلميذ علي بن رزين.",
-        "person_id": 885,
+        "person_id": 960,
         "canonical_name": "أبو عبد الله المغربي",
         "has_id": 416
       }
@@ -151,7 +186,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "أصحبه",
         "full_text": "كان لي شيخ أصحبه يشرب في كل أربعة أشهر شربة من ماء - يعني صاحبه علي بن رزين -",
-        "person_id": 885,
+        "person_id": 960,
         "canonical_name": "أبو عبد الله المغربي",
         "has_id": 416
       }
@@ -162,7 +197,7 @@
       "name": "أبا عبد الله المغربي",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا عبد الله المغربي يقول",
-      "person_id": 885,
+      "person_id": 960,
       "canonical_name": "أبو عبد الله المغربي",
       "has_id": 416
     },
@@ -170,7 +205,7 @@
       "name": "الشيخ",
       "relationship_type": "narrator",
       "full_text": "قال الشيخ",
-      "person_id": 169,
+      "person_id": 191,
       "canonical_name": "الشيخ",
       "has_id": NaN
     },
@@ -178,7 +213,7 @@
       "name": "أبو بكر الطرسوسي",
       "relationship_type": "narrator",
       "full_text": "ذكر ذلك لي أبو بكر الطرسوسي بمكة سنة ثمان وخمسين وثلاثمائة",
-      "person_id": 623,
+      "person_id": 725,
       "canonical_name": "أبو بكر أحمد بن محمد الطرسوسي",
       "has_id": 79
     }

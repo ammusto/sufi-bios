@@ -19,45 +19,52 @@
       "chain": [
         {
           "name": "محمد بن أحمد بن عمر",
-          "person_id": 2312,
+          "person_id": 2376,
           "canonical_name": "محمد بن أحمد بن عمر العبدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 1046,
+          "person_id": 1112,
           "canonical_name": "أبو محمد أحمد بن عمر العبدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر بن سفيان",
-          "person_id": 671,
+          "person_id": 741,
           "canonical_name": "أبو بكر بن سفيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "زياد ابن أيوب",
-          "person_id": 1568,
+          "person_id": 1630,
           "canonical_name": "زياد بن أيوب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن أبي الحواري",
-          "person_id": 1177,
+          "person_id": 1241,
           "canonical_name": "أحمد بن أبي الحواري",
           "has_id": 442,
           "subj_added": false
         },
         {
           "name": "أبو عمرو الكندي",
-          "person_id": 1012,
+          "person_id": 1080,
           "canonical_name": "أبو عمرو الكندي",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1388,
+          "canonical_name": "بشير الطبري",
+          "has_id": 473,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -75,7 +82,7 @@
       "name": "أبو عمرو الكندي",
       "relationship_type": "narrator",
       "full_text": "قال حدثني أبو عمرو الكندي قال:",
-      "person_id": 1012,
+      "person_id": 1080,
       "canonical_name": "أبو عمرو الكندي",
       "has_id": NaN
     },
@@ -84,14 +91,14 @@
       "relationship_type": "interlocutor",
       "full_text": "فقال له ابنه: يا أبت أفقرتنا.",
       "has_id": NaN,
-      "person_id": 79,
-      "canonical_name": "الحسن بن أحمد أبو علي الصوفي"
+      "person_id": 60,
+      "canonical_name": "ابنه"
     },
     {
       "name": "عبيده",
       "relationship_type": "interlocutor",
       "full_text": "فلقينا عبيده الذين كانت معهم الجواميس، معهم عصيهم، فقالوا: يا مولانا ذهبت الجواميس.",
-      "person_id": 1942,
+      "person_id": 2011,
       "canonical_name": "عبيدة",
       "has_id": NaN
     }

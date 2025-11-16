@@ -14,28 +14,28 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "محمد بن عبد الله",
-          "person_id": 2376,
+          "person_id": 2439,
           "canonical_name": "محمد بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إبراهيم ابن الوليد",
-          "person_id": 298,
+          "person_id": 643,
           "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
           "has_id": 273,
           "subj_added": false
         },
         {
           "name": "إبراهيم المغربي",
-          "person_id": 288,
+          "person_id": 314,
           "canonical_name": "إبراهيم المغربي",
           "has_id": 270,
           "subj_added": false
@@ -56,7 +56,7 @@
       "name": "إبراهيم ابن الوليد",
       "relationship_type": "narrator",
       "full_text": "سمعت إبراهيم ابن الوليد يقول",
-      "person_id": 298,
+      "person_id": 643,
       "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
       "has_id": 273
     }

@@ -19,14 +19,14 @@
       "chain": [
         {
           "name": "أبا القاسم الدِّمَشْقِي",
-          "person_id": 556,
+          "person_id": 619,
           "canonical_name": "أبو القاسم عبد الله بن محمد الدمشقي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "طَاهِرا الْمَقْدِسِي",
-          "person_id": 1696,
+          "person_id": 1764,
           "canonical_name": "طاهر المقدسي",
           "has_id": 640,
           "subj_added": false
@@ -40,14 +40,14 @@
       "chain": [
         {
           "name": "أبا القاسم الدِّمَشْقِي",
-          "person_id": 556,
+          "person_id": 619,
           "canonical_name": "أبو القاسم عبد الله بن محمد الدمشقي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "طَاهِرا الْمَقْدِسِي",
-          "person_id": 1696,
+          "person_id": 1764,
           "canonical_name": "طاهر المقدسي",
           "has_id": 640,
           "subj_added": false
@@ -61,14 +61,14 @@
       "chain": [
         {
           "name": "أبا القاسم الدِّمَشْقِي",
-          "person_id": 556,
+          "person_id": 619,
           "canonical_name": "أبو القاسم عبد الله بن محمد الدمشقي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "طَاهِرا الْمَقْدِسِي",
-          "person_id": 1696,
+          "person_id": 1764,
           "canonical_name": "طاهر المقدسي",
           "has_id": 640,
           "subj_added": false
@@ -82,14 +82,14 @@
       "chain": [
         {
           "name": "عبد الله بن مُحَمَّد الدِّمَشْقِي",
-          "person_id": 1857,
+          "person_id": 1927,
           "canonical_name": "عبد الله بن محمد الدمشقي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "طَاهِرا الْمَقْدِسِي",
-          "person_id": 1696,
+          "person_id": 1764,
           "canonical_name": "طاهر المقدسي",
           "has_id": 640,
           "subj_added": false
@@ -103,14 +103,14 @@
       "chain": [
         {
           "name": "عبد الله بن مُحَمَّد الدِّمَشْقِي",
-          "person_id": 1857,
+          "person_id": 1927,
           "canonical_name": "عبد الله بن محمد الدمشقي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "طَاهِرا الْمَقْدِسِي",
-          "person_id": 1696,
+          "person_id": 1764,
           "canonical_name": "طاهر المقدسي",
           "has_id": 640,
           "subj_added": false
@@ -130,7 +130,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "رأى",
         "full_text": "رأى ذَا النُّون الْمصْرِيّ",
-        "person_id": 1523,
+        "person_id": 1586,
         "canonical_name": "ذو النون المصري",
         "has_id": 570
       },
@@ -139,7 +139,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "وَصَحب يحيى الْجلاء",
-        "person_id": 2625,
+        "person_id": 2685,
         "canonical_name": "يحيى بن الجلاء",
         "has_id": NaN
       }
@@ -150,7 +150,7 @@
       "name": "أبا القاسم الدِّمَشْقِي",
       "relationship_type": "narrator",
       "full_text": "سَمِعت أَبَا الْقَاسِم الدِّمَشْقِي يَقُول",
-      "person_id": 556,
+      "person_id": 619,
       "canonical_name": "أبو القاسم عبد الله بن محمد الدمشقي",
       "has_id": NaN
     },
@@ -158,7 +158,7 @@
       "name": "عبد الله بن مُحَمَّد الدِّمَشْقِي",
       "relationship_type": "narrator",
       "full_text": "أَنْشدني عبد الله بن مُحَمَّد الدِّمَشْقِي",
-      "person_id": 1857,
+      "person_id": 1927,
       "canonical_name": "عبد الله بن محمد الدمشقي",
       "has_id": NaN
     },
@@ -166,7 +166,7 @@
       "name": "الشبلي",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "وَهُوَ الَّذِي يُسَمِّيه الشبلي حبر أهل الشَّام",
-      "person_id": 628,
+      "person_id": 699,
       "canonical_name": "أبو بكر الشبلي",
       "has_id": 376
     }

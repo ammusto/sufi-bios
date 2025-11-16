@@ -8,28 +8,28 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو الحسن بن أبان",
-          "person_id": 417,
+          "person_id": 471,
           "canonical_name": "أبو الحسن بن أبان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر بن عبيد",
-          "person_id": 673,
+          "person_id": 744,
           "canonical_name": "أبو بكر بن عبيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن صالح التيمي",
-          "person_id": 2367,
+          "person_id": 2430,
           "canonical_name": "محمد بن صالح التيمي",
           "has_id": 781,
           "subj_added": false
@@ -50,7 +50,7 @@
       "name": "أبو بكر بن عبيد",
       "relationship_type": "narrator",
       "full_text": "ثنا أبو بكر بن عبيد قال: حدثني محمد بن صالح التيمي",
-      "person_id": 673,
+      "person_id": 744,
       "canonical_name": "أبو بكر بن عبيد",
       "has_id": NaN
     }

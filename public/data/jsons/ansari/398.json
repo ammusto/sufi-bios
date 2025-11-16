@@ -55,14 +55,14 @@
       "chain": [
         {
           "name": "شبلی",
-          "person_id": 628,
+          "person_id": 699,
           "canonical_name": "أبو بكر الشبلي",
           "has_id": 376,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 765,
+          "person_id": 841,
           "canonical_name": "أبو حمزة الخراساني",
           "has_id": 398,
           "subj_added": true
@@ -76,14 +76,14 @@
       "chain": [
         {
           "name": "شیخ بوالحسن مالکی",
-          "person_id": 450,
+          "person_id": 508,
           "canonical_name": "أبو الحسين المالكي",
           "has_id": 321,
           "subj_added": false
         },
         {
           "name": "شیخ بوحمزهٔ خراسانی",
-          "person_id": 765,
+          "person_id": 841,
           "canonical_name": "أبو حمزة الخراساني",
           "has_id": 398,
           "subj_added": false
@@ -97,14 +97,14 @@
       "chain": [
         {
           "name": "الامام",
-          "person_id": 55,
+          "person_id": 74,
           "canonical_name": "الامام",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 765,
+          "person_id": 841,
           "canonical_name": "أبو حمزة الخراساني",
           "has_id": 398,
           "subj_added": true
@@ -122,7 +122,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده",
         "full_text": "و بابوتراب نخشبی ٭ صحبت کرده و سفر",
-        "person_id": 721,
+        "person_id": 796,
         "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
         "has_id": 388
       }
@@ -134,7 +134,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اقران",
         "full_text": "از اقران جنید ٭بوده",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -143,7 +143,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "رفیق بوده",
         "full_text": "و با بوسغید خراز رفیق بوده",
-        "person_id": 801,
+        "person_id": 877,
         "canonical_name": "أبو سعيد الخراز",
         "has_id": 123
       }
@@ -154,7 +154,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -162,7 +162,7 @@
       "name": "شبلی",
       "relationship_type": "narrator",
       "full_text": "شبلی گوید:",
-      "person_id": 628,
+      "person_id": 699,
       "canonical_name": "أبو بكر الشبلي",
       "has_id": 376
     },
@@ -170,7 +170,7 @@
       "name": "شیخ بوالحسن مالکی",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ بوالحسن مالکی گوید: کی شیخ بوحمزهٔ خراسانی گفت:",
-      "person_id": 450,
+      "person_id": 508,
       "canonical_name": "أبو الحسين المالكي",
       "has_id": 321
     },
@@ -178,7 +178,7 @@
       "name": "الامام",
       "relationship_type": "narrator",
       "full_text": "وانشدنا الامام لا بی عقال بن علوان المغربی من اهل قیر وان و هو مات بمکه:",
-      "person_id": 55,
+      "person_id": 74,
       "canonical_name": "الامام",
       "has_id": NaN
     },
@@ -186,7 +186,7 @@
       "name": "کسی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "کسی دبیقی فراوی انداخت بقیمت فراوان",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -194,7 +194,7 @@
       "name": "هاتفی",
       "relationship_type": "interlocutor",
       "full_text": "هاتفی آواز داد: یا با حمزه! الیس ذالمحسن نجیناک بالتلف من التلف، فمشیت و انا اقول:",
-      "person_id": 2590,
+      "person_id": 2650,
       "canonical_name": "هاتف",
       "has_id": NaN
     }

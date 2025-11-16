@@ -55,7 +55,7 @@
       "chain": [
         {
           "name": "بوعلی رودباری",
-          "person_id": 959,
+          "person_id": 1031,
           "canonical_name": "أبو علي الروذباري",
           "has_id": 422,
           "subj_added": false
@@ -69,14 +69,14 @@
       "chain": [
         {
           "name": "شیخ بوعلی کاتب",
-          "person_id": 973,
+          "person_id": 1044,
           "canonical_name": "أبو علي بن الكاتب",
           "has_id": 23,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 959,
+          "person_id": 1031,
           "canonical_name": "أبو علي الروذباري",
           "has_id": 422,
           "subj_added": true
@@ -102,7 +102,7 @@
       "chain": [
         {
           "name": "بوعلی رودباری",
-          "person_id": 959,
+          "person_id": 1031,
           "canonical_name": "أبو علي الروذباري",
           "has_id": 422,
           "subj_added": false
@@ -138,7 +138,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "لزم ... و صحبه",
         "full_text": "لزم الجنید و صحبه",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -147,7 +147,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد بوالعباس مسروق ایذ",
-        "person_id": 505,
+        "person_id": 567,
         "canonical_name": "أبو العباس بن مسروق الطوسي",
         "has_id": 451
       },
@@ -156,7 +156,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "و با جنید و نوری و بوحمزه و حسن مسوحی صحبت کرده",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -165,7 +165,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "و با جنید و نوری و بوحمزه و حسن مسوحی صحبت کرده",
-        "person_id": 452,
+        "person_id": 510,
         "canonical_name": "أبو الحسين النوري",
         "has_id": 439
       },
@@ -174,8 +174,8 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "و با جنید و نوری و بوحمزه و حسن مسوحی صحبت کرده",
-        "person_id": 768,
-        "canonical_name": "أبو حمزه",
+        "person_id": 840,
+        "canonical_name": "أبو حمزة",
         "has_id": NaN
       },
       {
@@ -183,7 +183,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "و با جنید و نوری و بوحمزه و حسن مسوحی صحبت کرده",
-        "person_id": 1445,
+        "person_id": 1507,
         "canonical_name": "حسن المسوحي",
         "has_id": 512
       },
@@ -192,16 +192,16 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "و بشام بابوعبداللشه جلا صحبت کرده",
-        "person_id": 851,
-        "canonical_name": "أبو عبد اللشه جلا",
-        "has_id": NaN
+        "person_id": 971,
+        "canonical_name": "أبو عبد الله بن الجلاء",
+        "has_id": 410
       },
       {
         "name": "جنید",
         "relationship_type": "student_of",
         "relationship_phrase": "استاد من در تصوف",
         "full_text": "کی استاد من در تصوف جنید ایذ",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -210,7 +210,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "در فقه",
         "full_text": "و در فقه بوالعباس سریج",
-        "person_id": 503,
+        "person_id": 565,
         "canonical_name": "أبو العباس بن سريج",
         "has_id": 50
       },
@@ -219,7 +219,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "در ادب",
         "full_text": "و در ادب بوالعباس ثعلب",
-        "person_id": 506,
+        "person_id": 568,
         "canonical_name": "أبو العباس ثعلب",
         "has_id": NaN
       },
@@ -228,7 +228,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "در حدیث",
         "full_text": "و در حدیث ابرهیم حربی",
-        "person_id": 276,
+        "person_id": 303,
         "canonical_name": "إبراهيم الحربي",
         "has_id": NaN
       }
@@ -242,7 +242,7 @@
       "relationship_type": "narrator",
       "context": "",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -251,7 +251,7 @@
       "relationship_type": "narrator",
       "context": "",
       "full_text": "و شیخ بوعلی کاتب گوید:",
-      "person_id": 973,
+      "person_id": 1044,
       "canonical_name": "أبو علي بن الكاتب",
       "has_id": 23
     }

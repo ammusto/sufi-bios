@@ -14,38 +14,45 @@
       "chain": [
         {
           "name": "محمد بن أحمد",
-          "person_id": 2292,
+          "person_id": 2356,
           "canonical_name": "محمد بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 1046,
+          "person_id": 1112,
           "canonical_name": "أبو محمد أحمد بن عمر العبدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن محمد",
-          "person_id": 1855,
+          "person_id": 1924,
           "canonical_name": "عبد الله بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن إدريس",
-          "person_id": 2275,
+          "person_id": 2339,
           "canonical_name": "محمد بن إدريس",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إسحاق بن عباد",
-          "person_id": 351,
+          "person_id": 378,
           "canonical_name": "إسحاق بن عباد",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2153,
+          "canonical_name": "عمر الصوفي",
+          "has_id": 711,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -63,7 +70,7 @@
       "name": "إسحاق بن عباد",
       "relationship_type": "narrator",
       "full_text": "قال سمعت إسحاق بن عباد يقول",
-      "person_id": 351,
+      "person_id": 378,
       "canonical_name": "إسحاق بن عباد",
       "has_id": NaN
     }

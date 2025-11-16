@@ -34,7 +34,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده",
         "full_text": "باحفص حداد٭ دیده و حمدون گارز",
-        "person_id": 759,
+        "person_id": 836,
         "canonical_name": "أبو حفص الحداد النيسابوري",
         "has_id": 715
       },
@@ -43,7 +43,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده",
         "full_text": "باحفص حداد٭ دیده و حمدون گارز",
-        "person_id": 827,
+        "person_id": 906,
         "canonical_name": "أبو صالح حمدون بن أحمد القصار",
         "has_id": 524
       }
@@ -57,7 +57,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -66,7 +66,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "praiser",
       "full_text": "و بوعثمان حیری٭ ویرا نیکوگفتی.",
-      "person_id": 932,
+      "person_id": 1013,
       "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
       "has_id": 419
     }

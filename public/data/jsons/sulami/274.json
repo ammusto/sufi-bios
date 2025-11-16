@@ -59,63 +59,63 @@
       "chain": [
         {
           "name": "عبد الله بن مُوسَى بن الْحسن السلَامِي",
-          "person_id": 1883,
+          "person_id": 1952,
           "canonical_name": "عبد الله بن موسى بن الحسن السلامي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "لَاحق ابْن الْهَيْثَم اللاحقي",
-          "person_id": 2200,
+          "person_id": 2266,
           "canonical_name": "لاحق بن الهيثم اللاحقي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الْحسن بن عِيسَى الدِّمَشْقِي",
-          "person_id": 100,
+          "person_id": 118,
           "canonical_name": "الحسن بن عيسى الدمشقي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مُحَمَّد بن فَيْرُوز الْمصْرِيّ",
-          "person_id": 2432,
+          "person_id": 2494,
           "canonical_name": "محمد بن فيروز المصري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بَقِيَّة",
-          "person_id": 1347,
+          "person_id": 1408,
           "canonical_name": "بقية",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم بن آدم",
-          "person_id": 304,
-          "canonical_name": "إبراهيم بن آدم",
-          "has_id": NaN,
+          "person_id": 326,
+          "canonical_name": "إبراهيم بن أدهم",
+          "has_id": 274,
           "subj_added": false
         },
         {
           "name": "أَبِيه أدهم بن مَنْصُور",
-          "person_id": 1151,
+          "person_id": 1214,
           "canonical_name": "أبوه أدهم بن منصور",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سعيد بن جُبَير",
-          "person_id": 1596,
+          "person_id": 1658,
           "canonical_name": "سعيد بن جبير",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابْن عَبَّاس",
-          "person_id": 26,
+          "person_id": 38,
           "canonical_name": "ابن عباس",
           "has_id": NaN,
           "subj_added": false
@@ -129,35 +129,35 @@
       "chain": [
         {
           "name": "أَبَا الْعَبَّاس مُحَمَّد بن الْحسن بن الخشاب",
-          "person_id": 508,
+          "person_id": 570,
           "canonical_name": "أبو العباس محمد بن الحسن بن الخشاب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبُو الْحسن عَليّ بن مُحَمَّد بن أَحْمد الْمصْرِيّ",
-          "person_id": 434,
+          "person_id": 488,
           "canonical_name": "أبو الحسن علي بن محمد بن أحمد المصري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبُو سعيد أَحْمد بن عِيسَى الخراز",
-          "person_id": 801,
+          "person_id": 877,
           "canonical_name": "أبو سعيد الخراز",
           "has_id": 123,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم بن بشار",
-          "person_id": 305,
+          "person_id": 329,
           "canonical_name": "إبراهيم بن بشار",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 301,
+          "person_id": 326,
           "canonical_name": "إبراهيم بن أدهم",
           "has_id": 274,
           "subj_added": true
@@ -171,49 +171,49 @@
       "chain": [
         {
           "name": "مُحَمَّد بن الْحسن الْبَغْدَادِيّ",
-          "person_id": 507,
+          "person_id": 569,
           "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عَليّ بن مُحَمَّد بن أَحْمد الْمصْرِيّ",
-          "person_id": 434,
+          "person_id": 488,
           "canonical_name": "أبو الحسن علي بن محمد بن أحمد المصري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَحْمد بن عِيسَى الخراز",
-          "person_id": 801,
+          "person_id": 877,
           "canonical_name": "أبو سعيد الخراز",
           "has_id": 123,
           "subj_added": false
         },
         {
           "name": "غير وَاحِد من أَصْحَابنَا",
-          "person_id": 2153,
+          "person_id": 2219,
           "canonical_name": "غير واحد من أصحابنا",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عُثْمَان بن عمَارَة",
-          "person_id": 1954,
+          "person_id": 2023,
           "canonical_name": "عثمان بن عمارة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم بن أدهم",
-          "person_id": 301,
+          "person_id": 326,
           "canonical_name": "إبراهيم بن أدهم",
           "has_id": 274,
           "subj_added": false
         },
         {
           "name": "رجل من أهل إسكندرية يُقَال لَهُ أسلم بن يزِيد الْجُهَنِيّ",
-          "person_id": 1541,
+          "person_id": 1603,
           "canonical_name": "رجل من أهل إسكندرية يقال له أسلم بن يزيد الجهني",
           "has_id": NaN,
           "subj_added": false
@@ -227,21 +227,21 @@
       "chain": [
         {
           "name": "أَحْمد بن عَليّ بن الْحسن الْمُقْرِئ",
-          "person_id": 1225,
+          "person_id": 1287,
           "canonical_name": "أحمد بن علي بن الحسن المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مُحَمَّد بن غَالب التمتام",
-          "person_id": 2429,
+          "person_id": 2491,
           "canonical_name": "محمد بن غالب التمتام",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 301,
+          "person_id": 326,
           "canonical_name": "إبراهيم بن أدهم",
           "has_id": 274,
           "subj_added": true
@@ -255,49 +255,49 @@
       "chain": [
         {
           "name": "أَبَا الْعَبَّاس الْبَغْدَادِيّ",
-          "person_id": 507,
+          "person_id": 569,
           "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عَليّ بن مُحَمَّد بن أَحْمد الْمصْرِيّ",
-          "person_id": 434,
+          "person_id": 488,
           "canonical_name": "أبو الحسن علي بن محمد بن أحمد المصري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يُوسُف بن مُوسَى",
-          "person_id": 2681,
+          "person_id": 2739,
           "canonical_name": "يوسف بن موسى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن خبيق",
-          "person_id": 1057,
+          "person_id": 1123,
           "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
           "has_id": 661,
           "subj_added": false
         },
         {
           "name": "خلف بن تَمِيم",
-          "person_id": 1504,
+          "person_id": 1566,
           "canonical_name": "خلف بن تميم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا الْأَحْوَص",
-          "person_id": 383,
+          "person_id": 426,
           "canonical_name": "أبو الأحوص",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 301,
+          "person_id": 326,
           "canonical_name": "إبراهيم بن أدهم",
           "has_id": 274,
           "subj_added": true
@@ -311,42 +311,42 @@
       "chain": [
         {
           "name": "عَليّ بن بنْدَار",
-          "person_id": 431,
+          "person_id": 485,
           "canonical_name": "أبو الحسن علي بن بندار الصيرفي",
           "has_id": 478,
           "subj_added": false
         },
         {
           "name": "مُحَمَّد بن شريك",
-          "person_id": 2364,
+          "person_id": 2428,
           "canonical_name": "محمد بن شريك",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابْن أبي الدُّنْيَا",
-          "person_id": 10,
+          "person_id": 11,
           "canonical_name": "ابن أبي الدنيا",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مُحَمَّد بن إِسْحَاق",
-          "person_id": 2276,
+          "person_id": 2340,
           "canonical_name": "محمد بن إسحاق",
           "has_id": 774,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 1045,
+          "person_id": 1111,
           "canonical_name": "أبو محمد إسحاق بن الإمام",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 301,
+          "person_id": 326,
           "canonical_name": "إبراهيم بن أدهم",
           "has_id": 274,
           "subj_added": true
@@ -360,28 +360,28 @@
       "chain": [
         {
           "name": "مَنْصُور بن عبد الله",
-          "person_id": 2547,
+          "person_id": 2606,
           "canonical_name": "منصور بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مُحَمَّد بن حَامِد",
-          "person_id": 2337,
+          "person_id": 2401,
           "canonical_name": "محمد بن حامد الترمذي",
           "has_id": 381,
           "subj_added": false
         },
         {
           "name": "أَحْمد بن خضرويه",
-          "person_id": 1194,
+          "person_id": 1258,
           "canonical_name": "أحمد بن خضرويه البلخي",
           "has_id": 440,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 301,
+          "person_id": 326,
           "canonical_name": "إبراهيم بن أدهم",
           "has_id": 274,
           "subj_added": true
@@ -399,7 +399,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "عَلمنِي",
         "full_text": "وَعَلمنِي اسْم الله الْأَعْظَم",
-        "person_id": 1511,
+        "person_id": 1573,
         "canonical_name": "داود",
         "has_id": NaN
       }
@@ -411,7 +411,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صَحب",
         "full_text": "خرج إِلَى مَكَّة وَصَحب بهَا سُفْيَان الثَّوْريّ والفضيل ابْن عِيَاض",
-        "person_id": 1607,
+        "person_id": 1668,
         "canonical_name": "سفيان الثوري",
         "has_id": 598
       },
@@ -420,7 +420,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صَحب",
         "full_text": "خرج إِلَى مَكَّة وَصَحب بهَا سُفْيَان الثَّوْريّ والفضيل ابْن عِيَاض",
-        "person_id": 200,
+        "person_id": 225,
         "canonical_name": "الفضيل بن عياض",
         "has_id": 243
       },
@@ -429,7 +429,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صَحِبت",
         "full_text": "قَالَ صَحِبت إِبْرَاهِيم بن أدهم\nبِالشَّام أَنا وَأَبُو يُوسُف الغسولي وَأَبُو عبد الله السنجاري",
-        "person_id": 305,
+        "person_id": 329,
         "canonical_name": "إبراهيم بن بشار",
         "has_id": NaN
       },
@@ -438,7 +438,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صَحِبت",
         "full_text": "قَالَ صَحِبت إِبْرَاهِيم بن أدهم\nبِالشَّام أَنا وَأَبُو يُوسُف الغسولي وَأَبُو عبد الله السنجاري",
-        "person_id": 1147,
+        "person_id": 1211,
         "canonical_name": "أبو يوسف الغسولي",
         "has_id": NaN
       },
@@ -447,7 +447,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صَحِبت",
         "full_text": "قَالَ صَحِبت إِبْرَاهِيم بن أدهم\nبِالشَّام أَنا وَأَبُو يُوسُف الغسولي وَأَبُو عبد الله السنجاري",
-        "person_id": 873,
+        "person_id": 949,
         "canonical_name": "أبو عبد الله السنجاري",
         "has_id": NaN
       }
@@ -458,7 +458,7 @@
       "name": "بَقِيَّة",
       "relationship_type": "narrator",
       "full_text": "قَالَ حَدثنَا بَقِيَّة قَالَ حَدثنَا إِبْرَاهِيم بن آدم",
-      "person_id": 1347,
+      "person_id": 1408,
       "canonical_name": "بقية",
       "has_id": NaN
     },
@@ -466,7 +466,7 @@
       "name": "إِبْرَاهِيم بن بشار",
       "relationship_type": "interlocutor",
       "full_text": "فَقلت يَا ابا إِسْحَاق خبرني عَن بَدْء أَمرك كَيفَ كَانَ",
-      "person_id": 305,
+      "person_id": 329,
       "canonical_name": "إبراهيم بن بشار",
       "has_id": NaN
     },
@@ -474,7 +474,7 @@
       "name": "عُثْمَان بن عمَارَة",
       "relationship_type": "narrator",
       "full_text": "قَالُوا حَدثنَا عُثْمَان بن عمَارَة قَالَ حَدثنِي إِبْرَاهِيم بن أدهم",
-      "person_id": 1954,
+      "person_id": 2023,
       "canonical_name": "عثمان بن عمارة",
       "has_id": NaN
     },
@@ -482,7 +482,7 @@
       "name": "أبي",
       "relationship_type": "interlocutor",
       "full_text": "قَالَ قلت لإِبْرَاهِيم بن أدهم أوصني",
-      "person_id": 580,
+      "person_id": 651,
       "canonical_name": "أبو أبي عبد الرحمن السلمي",
       "has_id": NaN
     },
@@ -491,7 +491,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "mentor_encountered",
       "full_text": "عَن رجل من أهل إسكندرية يُقَال لَهُ أسلم بن يزِيد الْجُهَنِيّ قَالَ لَقيته بالإسكندرية فَقَالَ لي من أَنْت يَا غُلَام",
-      "person_id": 1290,
+      "person_id": 1351,
       "canonical_name": "أسلم بن يزيد الجهني",
       "has_id": NaN
     },
@@ -499,7 +499,7 @@
       "name": "رجل مِمَّن كَانَ مَعَه",
       "relationship_type": "questioner",
       "full_text": "فَقَالَ رجل مِمَّن كَانَ مَعَه وَأي شَيْء الصَّبْر",
-      "person_id": 1535,
+      "person_id": 1597,
       "canonical_name": "رجل ممّن كان معه",
       "has_id": NaN
     },
@@ -507,7 +507,7 @@
       "name": "الْخضر",
       "relationship_type": "interlocutor",
       "full_text": "فَقَالَ لَا روع عَلَيْك وَلَا بَأْس عَلَيْك أَنا أَخُوك الْخضر",
-      "person_id": 145,
+      "person_id": 166,
       "canonical_name": "الخضر",
       "has_id": NaN
     },
@@ -516,7 +516,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "addressee",
       "full_text": "قَالَ إِبْرَاهِيم بن أدهم لرجل فِي الطّواف اعْلَم أَنَّك لَا تنَال دَرَجَة الصَّالِحين حَتَّى تجوز سِتّ عِقَاب",
-      "person_id": 1533,
+      "person_id": 1595,
       "canonical_name": "رجل في الطواف",
       "has_id": NaN
     },
@@ -525,7 +525,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "companion_present",
       "full_text": "بِالشَّام أَنا وَأَبُو يُوسُف الغسولي وَأَبُو عبد الله السنجاري",
-      "person_id": 1147,
+      "person_id": 1211,
       "canonical_name": "أبو يوسف الغسولي",
       "has_id": NaN
     },
@@ -534,7 +534,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "companion_present",
       "full_text": "بِالشَّام أَنا وَأَبُو يُوسُف الغسولي وَأَبُو عبد الله السنجاري",
-      "person_id": 873,
+      "person_id": 949,
       "canonical_name": "أبو عبد الله السنجاري",
       "has_id": NaN
     },
@@ -542,7 +542,7 @@
       "name": "رجل من أَصْحَابه",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "فَقَالَ لَهُ رجل من أَصْحَابه اضربه فأوجعه",
-      "person_id": 1539,
+      "person_id": 1601,
       "canonical_name": "رجل من أصحابه",
       "has_id": NaN
     }

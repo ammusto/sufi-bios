@@ -54,7 +54,7 @@
       "chain": [
         {
           "name": "جنید",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -68,7 +68,7 @@
       "chain": [
         {
           "name": "شیخ بوبکرکتانی٭",
-          "person_id": 712,
+          "person_id": 786,
           "canonical_name": "أبو بكر محمد بن علي الكتاني",
           "has_id": 378,
           "subj_added": false
@@ -82,7 +82,7 @@
       "chain": [
         {
           "name": "شیخ بوالحسن خرقانی٭",
-          "person_id": 396,
+          "person_id": 441,
           "canonical_name": "أبو الحسن الخرقاني",
           "has_id": 303,
           "subj_added": false
@@ -96,7 +96,7 @@
       "chain": [
         {
           "name": "بوالحسن علوی",
-          "person_id": 425,
+          "person_id": 480,
           "canonical_name": "أبو الحسن علوي",
           "has_id": NaN,
           "subj_added": false
@@ -122,7 +122,7 @@
       "chain": [
         {
           "name": "ممشاد دینور٭",
-          "person_id": 2534,
+          "person_id": 2593,
           "canonical_name": "ممشاد الدينوري",
           "has_id": 815,
           "subj_added": false
@@ -154,21 +154,21 @@
       "chain": [
         {
           "name": "پدر",
-          "person_id": 377,
+          "person_id": 420,
           "canonical_name": "أببي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بوالمظفر ترمذی٭",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": false
         },
         {
           "name": "عبدالرحمن خراسانی",
-          "person_id": 1734,
+          "person_id": 1801,
           "canonical_name": "عبد الرحمن الخراساني",
           "has_id": NaN,
           "subj_added": false
@@ -186,7 +186,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت",
         "full_text": "و وی صحبت دار خضر بوده ﷷ.",
-        "person_id": 145,
+        "person_id": 166,
         "canonical_name": "الخضر",
         "has_id": NaN
       }
@@ -197,7 +197,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "استاد",
         "full_text": "استاد جعفر خلدی",
-        "person_id": 1405,
+        "person_id": 1464,
         "canonical_name": "جعفر بن محمد الخلدي",
         "has_id": 495
       }
@@ -208,7 +208,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اقران",
         "full_text": "از اقران جنید و نوری٭ بوده",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -217,7 +217,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اقران",
         "full_text": "از اقران جنید و نوری٭ بوده",
-        "person_id": 452,
+        "person_id": 510,
         "canonical_name": "أبو الحسين النوري",
         "has_id": 439
       }
@@ -228,7 +228,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -237,7 +237,7 @@
       "relationship_type": "narrator",
       "context": "پس از وفات او گفت",
       "full_text": "جنیدگفت: که بساط توکل در نور دیدند.",
-      "person_id": 532,
+      "person_id": 595,
       "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
       "has_id": 228
     },
@@ -245,7 +245,7 @@
       "name": "شیخ بوبکرکتانی٭",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ بوبکرکتانی٭ گویدکه",
-      "person_id": 712,
+      "person_id": 786,
       "canonical_name": "أبو بكر محمد بن علي الكتاني",
       "has_id": 378
     },
@@ -253,7 +253,7 @@
       "name": "شیخ بوالحسن خرقانی٭",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت: کی شیخ بوالحسن خرقانی٭ مرا گفت:",
-      "person_id": 396,
+      "person_id": 441,
       "canonical_name": "أبو الحسن الخرقاني",
       "has_id": 303
     },
@@ -261,7 +261,7 @@
       "name": "بوالحسن علوی",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ الاسلام گفت که بوالحسن علوی گوید: که در مسجد دینور شدم، خواص را دیدم",
-      "person_id": 425,
+      "person_id": 480,
       "canonical_name": "أبو الحسن علوي",
       "has_id": NaN
     },
@@ -269,7 +269,7 @@
       "name": "ممشاد دینور٭",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ الاسلام گفت: ممشاد دینور٭ گوید: که",
-      "person_id": 2534,
+      "person_id": 2593,
       "canonical_name": "ممشاد الدينوري",
       "has_id": 815
     },
@@ -278,7 +278,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "غسل و دفن",
       "full_text": "و یوسف حسین رازی ویرا بشسته و دفن کرده به وی و گور وی آنجاست.",
-      "person_id": 1140,
+      "person_id": 1205,
       "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
       "has_id": 847
     },
@@ -287,7 +287,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "مشاهده و همراهی",
       "full_text": "خضر ﷷ فرا من رسید، مرا گفت، ابراهیم خواهی که با تو همراهی کنم؟",
-      "person_id": 145,
+      "person_id": 166,
       "canonical_name": "الخضر",
       "has_id": NaN
     },
@@ -295,7 +295,7 @@
       "name": "فضل رازی",
       "relationship_type": "questioner",
       "full_text": "برخاست بنزدیک ابراهیم خواص رفت از وی پرسید: کی صدهزار درم میراث یافتم در پاشیدم ده درم ماند در علم بکار بردم.",
-      "person_id": 2169,
+      "person_id": 2235,
       "canonical_name": "فضل رازي",
       "has_id": NaN
     },
@@ -303,7 +303,7 @@
       "name": "پدر",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت: کی پدر گفت",
-      "person_id": 377,
+      "person_id": 420,
       "canonical_name": "أببي",
       "has_id": NaN
     },
@@ -311,7 +311,7 @@
       "name": "بوالمظفر ترمذی٭",
       "relationship_type": "narrator",
       "full_text": "بوالمظفر ترمذی٭ گفت",
-      "person_id": 559,
+      "person_id": 624,
       "canonical_name": "أبو المظفر الترمذي",
       "has_id": 363
     },
@@ -319,7 +319,7 @@
       "name": "عبدالرحمن خراسانی",
       "relationship_type": "narrator",
       "full_text": "عبدالرحمن خراسانی گفت",
-      "person_id": 1734,
+      "person_id": 1801,
       "canonical_name": "عبد الرحمن الخراساني",
       "has_id": NaN
     },
@@ -327,7 +327,7 @@
       "name": "کسی",
       "relationship_type": "questioner",
       "full_text": "کسی از شبلی پرسید؟",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -336,7 +336,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "مسئول در حکایت زکوة",
       "full_text": "از شبلی پرسید؟ کی از دویست درم چند زکوة باید داد؟",
-      "person_id": 628,
+      "person_id": 699,
       "canonical_name": "أبو بكر الشبلي",
       "has_id": 376
     },
@@ -344,7 +344,7 @@
       "name": "ابوبکر صدیق رضی اللّه عنه",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "گفت: آن ابوبکر صدیق رضی اللّه عنه",
-      "person_id": 631,
+      "person_id": 701,
       "canonical_name": "أبو بكر الصديق",
       "has_id": NaN
     }

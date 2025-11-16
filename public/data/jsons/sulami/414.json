@@ -14,14 +14,14 @@
       "chain": [
         {
           "name": "مُحَمَّد بن أَحْمد الْفراء",
-          "person_id": 698,
+          "person_id": 772,
           "canonical_name": "أبو بكر محمد بن أحمد بن حمدون الفراء",
           "has_id": 385,
           "subj_added": false
         },
         {
           "name": "أَبُو عبد الله السجْزِي",
-          "person_id": 871,
+          "person_id": 947,
           "canonical_name": "أبو عبد الله السجزي",
           "has_id": 414,
           "subj_added": false
@@ -35,14 +35,14 @@
       "chain": [
         {
           "name": "مُحَمَّדًا",
-          "person_id": 698,
+          "person_id": 772,
           "canonical_name": "أبو بكر محمد بن أحمد بن حمدون الفراء",
           "has_id": 385,
           "subj_added": false
         },
         {
           "name": "أَبُو عبد الله",
-          "person_id": 871,
+          "person_id": 947,
           "canonical_name": "أبو عبد الله السجزي",
           "has_id": 414,
           "subj_added": false
@@ -56,14 +56,14 @@
       "chain": [
         {
           "name": "جدي",
-          "person_id": 1015,
+          "person_id": 1083,
           "canonical_name": "أبو عمرو إسماعيل بن نجيد",
           "has_id": 176,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 871,
+          "person_id": 947,
           "canonical_name": "أبو عبد الله السجزي",
           "has_id": 414,
           "subj_added": true
@@ -77,14 +77,14 @@
       "chain": [
         {
           "name": "جدي",
-          "person_id": 1015,
+          "person_id": 1083,
           "canonical_name": "أبو عمرو إسماعيل بن نجيد",
           "has_id": 176,
           "subj_added": false
         },
         {
           "name": "أَبَا عبد الله",
-          "person_id": 871,
+          "person_id": 947,
           "canonical_name": "أبو عبد الله السجزي",
           "has_id": 414,
           "subj_added": false
@@ -98,14 +98,14 @@
       "chain": [
         {
           "name": "جدي",
-          "person_id": 1015,
+          "person_id": 1083,
           "canonical_name": "أبو عمرو إسماعيل بن نجيد",
           "has_id": 176,
           "subj_added": false
         },
         {
           "name": "أَبَا عبد الله",
-          "person_id": 871,
+          "person_id": 947,
           "canonical_name": "أبو عبد الله السجزي",
           "has_id": 414,
           "subj_added": false
@@ -119,14 +119,14 @@
       "chain": [
         {
           "name": "جدي",
-          "person_id": 1015,
+          "person_id": 1083,
           "canonical_name": "أبو عمرو إسماعيل بن نجيد",
           "has_id": 176,
           "subj_added": false
         },
         {
           "name": "أَبَا عبد الله",
-          "person_id": 871,
+          "person_id": 947,
           "canonical_name": "أبو عبد الله السجزي",
           "has_id": 414,
           "subj_added": false
@@ -140,14 +140,14 @@
       "chain": [
         {
           "name": "جدي",
-          "person_id": 1015,
+          "person_id": 1083,
           "canonical_name": "أبو عمرو إسماعيل بن نجيد",
           "has_id": 176,
           "subj_added": false
         },
         {
           "name": "أَبَا عبد الله",
-          "person_id": 871,
+          "person_id": 947,
           "canonical_name": "أبو عبد الله السجزي",
           "has_id": 414,
           "subj_added": false
@@ -161,14 +161,14 @@
       "chain": [
         {
           "name": "جدي",
-          "person_id": 1015,
+          "person_id": 1083,
           "canonical_name": "أبو عمرو إسماعيل بن نجيد",
           "has_id": 176,
           "subj_added": false
         },
         {
           "name": "أَبَا عبد الله",
-          "person_id": 871,
+          "person_id": 947,
           "canonical_name": "أبو عبد الله السجزي",
           "has_id": 414,
           "subj_added": false
@@ -182,14 +182,14 @@
       "chain": [
         {
           "name": "جدي",
-          "person_id": 1015,
+          "person_id": 1083,
           "canonical_name": "أبو عمرو إسماعيل بن نجيد",
           "has_id": 176,
           "subj_added": false
         },
         {
           "name": "أَبَا عبد الله",
-          "person_id": 871,
+          "person_id": 947,
           "canonical_name": "أبو عبد الله السجزي",
           "has_id": 414,
           "subj_added": false
@@ -209,7 +209,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب أَبَا حَفْص",
-        "person_id": 759,
+        "person_id": 836,
         "canonical_name": "أبو حفص الحداد النيسابوري",
         "has_id": 715
       }
@@ -220,7 +220,7 @@
       "name": "مُحَمَّد بن أَحْمد الْفراء",
       "relationship_type": "narrator",
       "full_text": "سَمِعت مُحَمَّد بن أَحْمد الْفراء يَقُول",
-      "person_id": 698,
+      "person_id": 772,
       "canonical_name": "أبو بكر محمد بن أحمد بن حمدون الفراء",
       "has_id": 385
     },
@@ -228,7 +228,7 @@
       "name": "مُحَمَّدًا",
       "relationship_type": "narrator",
       "full_text": "وَسمعت مُحَمَّدًا يَقُول",
-      "person_id": 698,
+      "person_id": 772,
       "canonical_name": "أبو بكر محمد بن أحمد بن حمدون الفراء",
       "has_id": 385
     },
@@ -236,7 +236,7 @@
       "name": "جدي",
       "relationship_type": "narrator",
       "full_text": "سَمِعت جدي يَقُول",
-      "person_id": 1015,
+      "person_id": 1083,
       "canonical_name": "أبو عمرو إسماعيل بن نجيد",
       "has_id": 176
     },
@@ -244,7 +244,7 @@
       "name": "رجل",
       "relationship_type": "questioner",
       "full_text": "دخل رجل على أبي عبد الله السجْزِي فَقَالَ لَهُ معي دِينَار أُرِيد أَن أدفعه إِلَيْك فَمَا ترى",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     }

@@ -23,14 +23,14 @@
       "chain": [
         {
           "name": "أَبُو عُثْمَان المغربي",
-          "person_id": 942,
+          "person_id": 1015,
           "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
           "has_id": 156,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1137,
+          "person_id": 1202,
           "canonical_name": "أبو يعقوب النهرجوري",
           "has_id": 437,
           "subj_added": true
@@ -44,14 +44,14 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا يَعْقُوب النهرجوري",
-          "person_id": 1137,
+          "person_id": 1202,
           "canonical_name": "أبو يعقوب النهرجوري",
           "has_id": 437,
           "subj_added": false
@@ -65,14 +65,14 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "النهرجوري",
-          "person_id": 1137,
+          "person_id": 1202,
           "canonical_name": "أبو يعقوب النهرجوري",
           "has_id": 437,
           "subj_added": false
@@ -86,14 +86,14 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "النهرجوري",
-          "person_id": 1137,
+          "person_id": 1202,
           "canonical_name": "أبو يعقوب النهرجوري",
           "has_id": 437,
           "subj_added": false
@@ -107,14 +107,14 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "النهرجوري",
-          "person_id": 1137,
+          "person_id": 1202,
           "canonical_name": "أبو يعقوب النهرجوري",
           "has_id": 437,
           "subj_added": false
@@ -128,14 +128,14 @@
       "chain": [
         {
           "name": "أَبَا الْحُسَيْن الْفَارِسِي",
-          "person_id": 449,
+          "person_id": 519,
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
           "subj_added": false
         },
         {
           "name": "النهرجوري",
-          "person_id": 1137,
+          "person_id": 1202,
           "canonical_name": "أبو يعقوب النهرجوري",
           "has_id": 437,
           "subj_added": false
@@ -149,14 +149,14 @@
       "chain": [
         {
           "name": "أَبَا الْحُسَيْن الْفَارِسِي",
-          "person_id": 449,
+          "person_id": 519,
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
           "subj_added": false
         },
         {
           "name": "النهرجوري",
-          "person_id": 1137,
+          "person_id": 1202,
           "canonical_name": "أبو يعقوب النهرجوري",
           "has_id": 437,
           "subj_added": false
@@ -170,28 +170,28 @@
       "chain": [
         {
           "name": "أَبَا الْحُسَيْن",
-          "person_id": 449,
+          "person_id": 519,
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
           "subj_added": false
         },
         {
           "name": "أَحْمد بن عَليّ",
-          "person_id": 1222,
+          "person_id": 1284,
           "canonical_name": "أحمد بن علي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابا يَعْقُوب",
-          "person_id": 1136,
+          "person_id": 1200,
           "canonical_name": "أبو يعقوب السوسي",
           "has_id": 196,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1137,
+          "person_id": 1202,
           "canonical_name": "أبو يعقوب النهرجوري",
           "has_id": 437,
           "subj_added": true
@@ -205,21 +205,21 @@
       "chain": [
         {
           "name": "أَبَا الْحُسَيْن",
-          "person_id": 449,
+          "person_id": 519,
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم بن فاتك",
-          "person_id": 321,
+          "person_id": 347,
           "canonical_name": "إبراهيم بن فاتك",
           "has_id": 32,
           "subj_added": false
         },
         {
           "name": "النهرجوري",
-          "person_id": 1137,
+          "person_id": 1202,
           "canonical_name": "أبو يعقوب النهرجوري",
           "has_id": 437,
           "subj_added": false
@@ -233,21 +233,21 @@
       "chain": [
         {
           "name": "أَبَا الْحُسَيْن",
-          "person_id": 449,
+          "person_id": 519,
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم بن فاتك",
-          "person_id": 321,
+          "person_id": 347,
           "canonical_name": "إبراهيم بن فاتك",
           "has_id": 32,
           "subj_added": false
         },
         {
           "name": "أَبَا يَعْقُوب النهرجوري",
-          "person_id": 1137,
+          "person_id": 1202,
           "canonical_name": "أبو يعقوب النهرجوري",
           "has_id": 437,
           "subj_added": false
@@ -261,21 +261,21 @@
       "chain": [
         {
           "name": "أَبَا الْحُسَيْن",
-          "person_id": 449,
+          "person_id": 519,
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم بن فاتك",
-          "person_id": 321,
+          "person_id": 347,
           "canonical_name": "إبراهيم بن فاتك",
           "has_id": 32,
           "subj_added": false
         },
         {
           "name": "النهرجوري",
-          "person_id": 1137,
+          "person_id": 1202,
           "canonical_name": "أبو يعقوب النهرجوري",
           "has_id": 437,
           "subj_added": false
@@ -289,21 +289,21 @@
       "chain": [
         {
           "name": "أَبَا الْحُسَيْن",
-          "person_id": 449,
+          "person_id": 519,
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم بن فاتك",
-          "person_id": 321,
+          "person_id": 347,
           "canonical_name": "إبراهيم بن فاتك",
           "has_id": 32,
           "subj_added": false
         },
         {
           "name": "النهرجوري",
-          "person_id": 1137,
+          "person_id": 1202,
           "canonical_name": "أبو يعقوب النهرجوري",
           "has_id": 437,
           "subj_added": false
@@ -317,21 +317,21 @@
       "chain": [
         {
           "name": "أَبَا الْحُسَيْن",
-          "person_id": 449,
+          "person_id": 519,
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم بن فاتك",
-          "person_id": 321,
+          "person_id": 347,
           "canonical_name": "إبراهيم بن فاتك",
           "has_id": 32,
           "subj_added": false
         },
         {
           "name": "النهرجوري",
-          "person_id": 1137,
+          "person_id": 1202,
           "canonical_name": "أبو يعقوب النهرجوري",
           "has_id": 437,
           "subj_added": false
@@ -345,21 +345,21 @@
       "chain": [
         {
           "name": "أَبَا الْحُسَيْن",
-          "person_id": 449,
+          "person_id": 519,
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم بن فاتك",
-          "person_id": 321,
+          "person_id": 347,
           "canonical_name": "إبراهيم بن فاتك",
           "has_id": 32,
           "subj_added": false
         },
         {
           "name": "النهرجوري",
-          "person_id": 1137,
+          "person_id": 1202,
           "canonical_name": "أبو يعقوب النهرجوري",
           "has_id": 437,
           "subj_added": false
@@ -373,21 +373,21 @@
       "chain": [
         {
           "name": "أَبَا الْحُسَيْن",
-          "person_id": 449,
+          "person_id": 519,
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم بن فاتك",
-          "person_id": 321,
+          "person_id": 347,
           "canonical_name": "إبراهيم بن فاتك",
           "has_id": 32,
           "subj_added": false
         },
         {
           "name": "النهرجوري",
-          "person_id": 1137,
+          "person_id": 1202,
           "canonical_name": "أبو يعقوب النهرجوري",
           "has_id": 437,
           "subj_added": false
@@ -401,21 +401,21 @@
       "chain": [
         {
           "name": "أَبَا الْحُسَيْن",
-          "person_id": 449,
+          "person_id": 519,
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم بن فاتك",
-          "person_id": 321,
+          "person_id": 347,
           "canonical_name": "إبراهيم بن فاتك",
           "has_id": 32,
           "subj_added": false
         },
         {
           "name": "النهرجوري",
-          "person_id": 1137,
+          "person_id": 1202,
           "canonical_name": "أبو يعقوب النهرجوري",
           "has_id": 437,
           "subj_added": false
@@ -429,21 +429,21 @@
       "chain": [
         {
           "name": "أَبَا الْحُسَيْن",
-          "person_id": 449,
+          "person_id": 519,
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم بن فاتك",
-          "person_id": 321,
+          "person_id": 347,
           "canonical_name": "إبراهيم بن فاتك",
           "has_id": 32,
           "subj_added": false
         },
         {
           "name": "النهرجوري",
-          "person_id": 1137,
+          "person_id": 1202,
           "canonical_name": "أبو يعقوب النهرجوري",
           "has_id": 437,
           "subj_added": false
@@ -457,21 +457,21 @@
       "chain": [
         {
           "name": "أَبَا الْحُسَيْن",
-          "person_id": 449,
+          "person_id": 519,
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم بن فاتك",
-          "person_id": 321,
+          "person_id": 347,
           "canonical_name": "إبراهيم بن فاتك",
           "has_id": 32,
           "subj_added": false
         },
         {
           "name": "النهرجوري",
-          "person_id": 1137,
+          "person_id": 1202,
           "canonical_name": "أبو يعقوب النهرجوري",
           "has_id": 437,
           "subj_added": false
@@ -485,21 +485,21 @@
       "chain": [
         {
           "name": "أَبَا الْحُسَيْن",
-          "person_id": 449,
+          "person_id": 519,
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم بن فاتك",
-          "person_id": 321,
+          "person_id": 347,
           "canonical_name": "إبراهيم بن فاتك",
           "has_id": 32,
           "subj_added": false
         },
         {
           "name": "النهرجوري",
-          "person_id": 1137,
+          "person_id": 1202,
           "canonical_name": "أبو يعقوب النهرجوري",
           "has_id": 437,
           "subj_added": false
@@ -513,21 +513,21 @@
       "chain": [
         {
           "name": "أَبَا الْحُسَيْن",
-          "person_id": 449,
+          "person_id": 519,
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم بن فاتك",
-          "person_id": 321,
+          "person_id": 347,
           "canonical_name": "إبراهيم بن فاتك",
           "has_id": 32,
           "subj_added": false
         },
         {
           "name": "النهرجوري",
-          "person_id": 1137,
+          "person_id": 1202,
           "canonical_name": "أبو يعقوب النهرجوري",
           "has_id": 437,
           "subj_added": false
@@ -547,7 +547,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب الْجُنَيْد",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -556,7 +556,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "وَعَمْرو بن عُثْمَان الْمَكِّيّ",
-        "person_id": 2126,
+        "person_id": 2192,
         "canonical_name": "عمرو بن عثمان المكي",
         "has_id": 716
       },
@@ -565,7 +565,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "وَأَبا يَعْقُوب السُّوسِي",
-        "person_id": 1136,
+        "person_id": 1200,
         "canonical_name": "أبو يعقوب السوسي",
         "has_id": 196
       }
@@ -576,7 +576,7 @@
       "name": "أَبُو عُثْمَان المغربي",
       "relationship_type": "narrator",
       "full_text": "وَكَانَ أَبُو عُثْمَان المغربي يَقُول",
-      "person_id": 942,
+      "person_id": 1015,
       "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
       "has_id": 156
     },
@@ -584,7 +584,7 @@
       "name": "أَبَا بكر الرَّازِيّ",
       "relationship_type": "narrator",
       "full_text": "سَمِعت أَبَا بكر الرَّازِيّ يَقُول",
-      "person_id": 707,
+      "person_id": 782,
       "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
       "has_id": NaN
     },
@@ -592,7 +592,7 @@
       "name": "أَبَا الْحُسَيْن الْفَارِسِي",
       "relationship_type": "narrator",
       "full_text": "سَمِعت أَبَا الْحُسَيْن الْفَارِسِي يَقُول",
-      "person_id": 449,
+      "person_id": 519,
       "canonical_name": "أبو الحسين علي بن هند الفارسي",
       "has_id": 317
     },
@@ -600,7 +600,7 @@
       "name": "أَحْمد بن عَليّ",
       "relationship_type": "narrator",
       "full_text": "سَمِعت أَحْمد بن عَليّ يَقُول",
-      "person_id": 1222,
+      "person_id": 1284,
       "canonical_name": "أحمد بن علي",
       "has_id": NaN
     },
@@ -608,7 +608,7 @@
       "name": "إِبْرَاهِيم بن فاتك",
       "relationship_type": "narrator",
       "full_text": "سَمِعت إِبْرَاهِيم بن فاتك يَقُول",
-      "person_id": 321,
+      "person_id": 347,
       "canonical_name": "إبراهيم بن فاتك",
       "has_id": 32
     },
@@ -616,7 +616,7 @@
       "name": "رجل",
       "relationship_type": "interlocutor",
       "full_text": "قَالَ وَسمعت النهرجوري يَقُول لرجل يَا دنيء الهمة فَقَالَ لم تَقول هَذَا أَيهَا الشَّيْخ",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     }

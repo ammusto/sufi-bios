@@ -29,16 +29,16 @@
       "chain": [
         {
           "name": "والدي",
-          "person_id": 2615,
+          "person_id": 2675,
           "canonical_name": "والدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا جعفر المزين الكبير",
-          "person_id": 742,
+          "person_id": 818,
           "canonical_name": "أبو جعفر المزين الكبير",
-          "has_id": NaN,
+          "has_id": 391,
           "subj_added": false
         }
       ],
@@ -50,16 +50,16 @@
       "chain": [
         {
           "name": "أبا جعفر الخياط الأصبهاني",
-          "person_id": 730,
+          "person_id": 805,
           "canonical_name": "أبو جعفر الخياط الأصبهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا جعفر المزين",
-          "person_id": 742,
+          "person_id": 818,
           "canonical_name": "أبو جعفر المزين الكبير",
-          "has_id": NaN,
+          "has_id": 391,
           "subj_added": false
         }
       ],
@@ -71,14 +71,14 @@
       "chain": [
         {
           "name": "أحمد بن أبي عمران الهروي",
-          "person_id": 523,
+          "person_id": 586,
           "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو نصر الهروى",
-          "person_id": 1100,
+          "person_id": 1164,
           "canonical_name": "أبو نصر الهروى",
           "has_id": NaN,
           "subj_added": false
@@ -86,9 +86,16 @@
         {
           "name": "أبا الحسن المزين الصغير",
           "has_id": NaN,
-          "person_id": 47,
-          "canonical_name": "اسحق محمود",
+          "person_id": 461,
+          "canonical_name": "أبو الحسن المزين الصغير",
           "subj_added": false
+        },
+        {
+          "person_id": 813,
+          "canonical_name": "أبو جعفر الكبير وأبو الحسن الصغير",
+          "has_id": 391,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -99,24 +106,31 @@
       "chain": [
         {
           "name": "عبد المنعم بن عمر",
-          "person_id": 1895,
+          "person_id": 1964,
           "canonical_name": "عبد المنعم بن عمر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "المرتَعِش",
-          "person_id": 1043,
+          "person_id": 1128,
           "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
           "has_id": 251,
           "subj_added": false
         },
         {
           "name": "أبو الحسن المزين",
-          "person_id": 408,
+          "person_id": 460,
           "canonical_name": "أبو الحسن المزين",
           "has_id": 295,
           "subj_added": false
+        },
+        {
+          "person_id": 813,
+          "canonical_name": "أبو جعفر الكبير وأبو الحسن الصغير",
+          "has_id": 391,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -134,7 +148,7 @@
       "name": "والدي",
       "relationship_type": "narrator",
       "full_text": "سمعت والدي يقول",
-      "person_id": 2615,
+      "person_id": 2675,
       "canonical_name": "والدي",
       "has_id": NaN
     },
@@ -142,7 +156,7 @@
       "name": "أبا جعفر الخياط الأصبهاني",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا جعفر الخياط الأصبهاني - بمكة - يقول",
-      "person_id": 730,
+      "person_id": 805,
       "canonical_name": "أبو جعفر الخياط الأصبهاني",
       "has_id": NaN
     },
@@ -150,7 +164,7 @@
       "name": "أبو نصر الهروى",
       "relationship_type": "narrator",
       "full_text": "حكى أبو نصر الهروى",
-      "person_id": 1100,
+      "person_id": 1164,
       "canonical_name": "أبو نصر الهروى",
       "has_id": NaN
     },
@@ -158,7 +172,7 @@
       "name": "المرتَعِش",
       "relationship_type": "narrator",
       "full_text": "سمعت المرتعش يقول",
-      "person_id": 1043,
+      "person_id": 1128,
       "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
       "has_id": 251
     },
@@ -166,7 +180,7 @@
       "name": "إنسان",
       "relationship_type": "interlocutor",
       "full_text": "فجذبني إنسان من ورائي وجعل يقول: يا حجام كم تحدث نفسك بالأباطيل؟",
-      "person_id": 372,
+      "person_id": 399,
       "canonical_name": "إنسان",
       "has_id": NaN
     }

@@ -15,28 +15,28 @@
         {
           "name": "عمر بن أحمد بن شاهين",
           "person_id": 2142,
-          "canonical_name": "عيسى بن عبيد الجبيلي",
+          "canonical_name": "علي بن يوسف الشيرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علي بن محمد المصري",
           "person_id": 448,
-          "canonical_name": "أبو الحسين العلوي",
+          "canonical_name": "أبو الحسن السنجري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمرو بن سعيد القلانسي",
           "person_id": 2173,
-          "canonical_name": "فهد بن سلام",
+          "canonical_name": "عمر بن محمد بن عبد الصمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن الحسن القلانسي",
           "person_id": 2683,
-          "canonical_name": "يوسف بن موسى بن عبد الله المروزي",
+          "canonical_name": "يحيى",
           "has_id": NaN,
           "subj_added": false
         }
@@ -50,28 +50,28 @@
         {
           "name": "عبد المنعم بن عمر",
           "person_id": 1942,
-          "canonical_name": "عبيدة",
+          "canonical_name": "عبد الله بن محمد بن عبيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو سعيد بن الأعرابي",
           "person_id": 834,
-          "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
+          "canonical_name": "أبو حفص الأبار عمر بن عبد الرحمن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الكتاني",
           "person_id": 221,
-          "canonical_name": "الكعبي",
+          "canonical_name": "الفضل بن حمّاد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "منية البصري",
           "person_id": 2595,
-          "canonical_name": "هاشم بن أبي عبد الله",
+          "canonical_name": "من حضر موت خير النساج",
           "has_id": NaN,
           "subj_added": false
         }
@@ -85,7 +85,7 @@
         {
           "name": "أبو سعيد بن الأعرابي",
           "person_id": 834,
-          "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
+          "canonical_name": "أبو حفص الأبار عمر بن عبد الرحمن",
           "has_id": NaN,
           "subj_added": false
         }
@@ -103,7 +103,7 @@
         "relationship_phrase": "تخرج عليه",
         "full_text": "صحب أبا حمزة وتخرج عليه.",
         "person_id": 790,
-        "canonical_name": "أبو زكريا الحمال",
+        "canonical_name": "أبو بكر مصري",
         "has_id": NaN
       },
       {
@@ -112,8 +112,8 @@
         "relationship_phrase": "يذهب مذهب",
         "full_text": "ويذهب مذهب شقيق في التوكل",
         "person_id": 1013,
-        "canonical_name": "أبو عمرو المروزي",
-        "has_id": 427
+        "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+        "has_id": 419
       }
     ],
     "students": [],
@@ -124,7 +124,7 @@
         "relationship_phrase": "صحب",
         "full_text": "صحب أبا حمزة",
         "person_id": 790,
-        "canonical_name": "أبو زكريا الحمال",
+        "canonical_name": "أبو بكر مصري",
         "has_id": NaN
       },
       {
@@ -133,7 +133,7 @@
         "relationship_phrase": "صحب",
         "full_text": "وكان قد صحب أبا محمد الرباطي المروزي",
         "person_id": 1075,
-        "canonical_name": "أبو مسلم عبد الرحمن بن محمد بن أحمد الواعظ",
+        "canonical_name": "أبو عمرو الإصطخري",
         "has_id": NaN
       },
       {
@@ -142,7 +142,7 @@
         "relationship_phrase": "يكرمونه ويقدمونه على غيره",
         "full_text": "وكان أبو حمزة وابن وهب وجماعة المشايخ يكرمونه ويقدمونه على غيره",
         "person_id": 790,
-        "canonical_name": "أبو زكريا الحمال",
+        "canonical_name": "أبو بكر مصري",
         "has_id": NaN
       },
       {
@@ -152,7 +152,7 @@
         "full_text": "وكان أبو حمزة وابن وهب وجماعة المشايخ يكرمونه ويقدمونه على غيره",
         "has_id": NaN,
         "person_id": 33,
-        "canonical_name": "ابن مخلد"
+        "canonical_name": "ابن شابور"
       }
     ]
   },
@@ -162,7 +162,7 @@
       "relationship_type": "narrator",
       "full_text": "سمعت يحيى بن الحسن القلانسي يقول",
       "person_id": 2683,
-      "canonical_name": "يوسف بن موسى بن عبد الله المروزي",
+      "canonical_name": "يحيى",
       "has_id": NaN
     },
     {
@@ -170,7 +170,7 @@
       "relationship_type": "narrator",
       "full_text": "قال منية البصري",
       "person_id": 2595,
-      "canonical_name": "هاشم بن أبي عبد الله",
+      "canonical_name": "من حضر موت خير النساج",
       "has_id": NaN
     },
     {
@@ -178,7 +178,7 @@
       "relationship_type": "narrator",
       "full_text": "قال أبو سعيد بن الأعرابي",
       "person_id": 834,
-      "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
+      "canonical_name": "أبو حفص الأبار عمر بن عبد الرحمن",
       "has_id": NaN
     }
   ]

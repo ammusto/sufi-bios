@@ -78,7 +78,7 @@
       "chain": [
         {
           "name": "واسطی",
-          "person_id": 653,
+          "person_id": 721,
           "canonical_name": "أبو بكر الواسطي",
           "has_id": 379,
           "subj_added": false
@@ -134,14 +134,14 @@
       "chain": [
         {
           "name": "بوطیب بصری",
-          "person_id": 838,
+          "person_id": 916,
           "canonical_name": "أبو طيب البصري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 653,
+          "person_id": 721,
           "canonical_name": "أبو بكر الواسطي",
           "has_id": 379,
           "subj_added": true
@@ -155,7 +155,7 @@
       "chain": [
         {
           "name": "واسطی",
-          "person_id": 653,
+          "person_id": 721,
           "canonical_name": "أبو بكر الواسطي",
           "has_id": 379,
           "subj_added": false
@@ -181,7 +181,7 @@
       "chain": [
         {
           "name": "واسطی",
-          "person_id": 653,
+          "person_id": 721,
           "canonical_name": "أبو بكر الواسطي",
           "has_id": 379,
           "subj_added": false
@@ -195,7 +195,7 @@
       "chain": [
         {
           "name": "واسطی",
-          "person_id": 653,
+          "person_id": 721,
           "canonical_name": "أبو بكر الواسطي",
           "has_id": 379,
           "subj_added": false
@@ -209,7 +209,7 @@
       "chain": [
         {
           "name": "واسطی",
-          "person_id": 653,
+          "person_id": 721,
           "canonical_name": "أبو بكر الواسطي",
           "has_id": 379,
           "subj_added": false
@@ -223,7 +223,7 @@
       "chain": [
         {
           "name": "واسطی",
-          "person_id": 653,
+          "person_id": 721,
           "canonical_name": "أبو بكر الواسطي",
           "has_id": 379,
           "subj_added": false
@@ -243,7 +243,7 @@
       "chain": [
         {
           "name": "واسطی",
-          "person_id": 653,
+          "person_id": 721,
           "canonical_name": "أبو بكر الواسطي",
           "has_id": 379,
           "subj_added": false
@@ -267,7 +267,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "اصحاب",
         "full_text": "از قدیمان و مهینان اصحاب جنید و نوریست٭",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -276,7 +276,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "اصحاب",
         "full_text": "از قدیمان و مهینان اصحاب جنید و نوریست٭",
-        "person_id": 452,
+        "person_id": 510,
         "canonical_name": "أبو الحسين النوري",
         "has_id": 439
       },
@@ -285,7 +285,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "استاد",
         "full_text": "استاد جنید ایذ",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       }
@@ -296,7 +296,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد بوالعباس سیاری",
-        "person_id": 494,
+        "person_id": 552,
         "canonical_name": "أبو العباس القاسم بن القاسم السياري",
         "has_id": 245
       }
@@ -308,7 +308,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ الاسلام گفت: واسطی گوید",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -316,7 +316,7 @@
       "name": "بوطیب بصری",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت: که بوطیب بصری گوید: من لم یندرج له وفاء العبودیة فی عزالربوبیة لم تصف له العبودیه.",
-      "person_id": 838,
+      "person_id": 916,
       "canonical_name": "أبو طيب البصري",
       "has_id": NaN
     },
@@ -324,7 +324,7 @@
       "name": "بوبکر قحطبی",
       "relationship_type": "questioner",
       "full_text": "شیخ الاسلام گفت: کی بوبکر قحطبی از شاگردان بوعثمان حیری٭ یکی دید ببغدادگفت: پیر شما، شما را بچه دلالت کرد؟",
-      "person_id": 688,
+      "person_id": 761,
       "canonical_name": "أبو بكر قحطبي",
       "has_id": NaN
     },
@@ -332,7 +332,7 @@
       "name": "یکی",
       "relationship_type": "interlocutor",
       "full_text": "یکی دید ببغداد",
-      "person_id": 2670,
+      "person_id": 2728,
       "canonical_name": "يكي",
       "has_id": NaN
     },
@@ -340,7 +340,7 @@
       "name": "بوعثمان حیری",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "بوعثمان حیری برفته",
-      "person_id": 932,
+      "person_id": 1013,
       "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
       "has_id": 419
     },
@@ -348,7 +348,7 @@
       "name": "یحیی معاذ رازی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "فرو یحیی معاذ رازی مینگرم",
-      "person_id": 2650,
+      "person_id": 2709,
       "canonical_name": "يحيى بن معاذ الرازي",
       "has_id": 844
     },
@@ -356,7 +356,7 @@
       "name": "نصرآبادی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "و فرا نصرآبادی مینگرم",
-      "person_id": 545,
+      "person_id": 608,
       "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
       "has_id": 360
     }

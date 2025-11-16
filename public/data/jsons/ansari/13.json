@@ -34,7 +34,7 @@
       "chain": [
         {
           "name": "ابراهیم قصار",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
@@ -48,14 +48,14 @@
       "chain": [
         {
           "name": "ابراهیم مرادی",
-          "person_id": 286,
+          "person_id": 312,
           "canonical_name": "إبراهيم المرادي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": true
@@ -69,14 +69,14 @@
       "chain": [
         {
           "name": "الشیخ ابوعبداللّه الطاقی",
-          "person_id": 876,
+          "person_id": 952,
           "canonical_name": "أبو عبد الله الطافي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": true
@@ -90,7 +90,7 @@
       "chain": [
         {
           "name": "ابراهیم القصار",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
@@ -104,7 +104,7 @@
       "chain": [
         {
           "name": "ابراهیم قصار",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
@@ -118,7 +118,7 @@
       "chain": [
         {
           "name": "ابراهیم قصار",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
@@ -132,7 +132,7 @@
       "chain": [
         {
           "name": "ابراهیم قصار",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
@@ -158,14 +158,14 @@
       "chain": [
         {
           "name": "شیخ عمو٭",
-          "person_id": 1683,
+          "person_id": 1747,
           "canonical_name": "شيخ عمو",
           "has_id": 717,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": true
@@ -183,7 +183,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت او با ... بوده",
         "full_text": "صحبت او با مشایخ شام بوده",
-        "person_id": 2507,
+        "person_id": 2568,
         "canonical_name": "مشايخ شام",
         "has_id": NaN
       },
@@ -192,7 +192,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده",
         "full_text": "ذوالنون دیده",
-        "person_id": 1523,
+        "person_id": 1586,
         "canonical_name": "ذو النون المصري",
         "has_id": 570
       }
@@ -204,7 +204,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اقران",
         "full_text": "از اقران جنید و بوعبداللّه جلا٭",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -213,9 +213,9 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اقران",
         "full_text": "از اقران جنید و بوعبداللّه جلا٭",
-        "person_id": 901,
-        "canonical_name": "أبو عبد الله بن جلاء",
-        "has_id": NaN
+        "person_id": 971,
+        "canonical_name": "أبو عبد الله بن الجلاء",
+        "has_id": 410
       }
     ]
   },
@@ -224,7 +224,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "ششیخ الاسلام گفت اناراللّه برهانه:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -232,7 +232,7 @@
       "name": "ابراهیم مرادی",
       "relationship_type": "narrator",
       "full_text": "ابراهیم مرادی گوید، کی مردی پرسید ابراهیم قصار را:",
-      "person_id": 286,
+      "person_id": 312,
       "canonical_name": "إبراهيم المرادي",
       "has_id": NaN
     },
@@ -241,7 +241,7 @@
       "relationship_type": "questioner",
       "context": "questioner",
       "full_text": "مردی پرسید ابراهیم قصار را:",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -249,7 +249,7 @@
       "name": "الشیخ ابوعبداللّه الطاقی",
       "relationship_type": "narrator",
       "full_text": "انشدنا شیخ الاسلام قال انشدنا الشیخ ابوعبداللّه الطاقی لبعضهم رحمه اللّه",
-      "person_id": 876,
+      "person_id": 952,
       "canonical_name": "أبو عبد الله الطافي",
       "has_id": NaN
     },
@@ -257,7 +257,7 @@
       "name": "شیخ عمو٭",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت کی شیخ عمو٭ گفت:",
-      "person_id": 1683,
+      "person_id": 1747,
       "canonical_name": "شيخ عمو",
       "has_id": 717
     },
@@ -265,7 +265,7 @@
       "name": "شیخ بوالخیر حبشی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "شیخ بوالخیر حبشی میآمد و از خشم زردی بر روی وی اثرکرده گفت جوانمردی باید، که جوانمردان را بیند.",
-      "person_id": 472,
+      "person_id": 529,
       "canonical_name": "أبو الخير الحبشي",
       "has_id": 325
     },
@@ -273,7 +273,7 @@
       "name": "محمود",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "محمود بسرگور بایزید شد درویشی دید آنجا گفت:",
-      "person_id": 2481,
+      "person_id": 2542,
       "canonical_name": "محمود",
       "has_id": NaN
     },
@@ -281,7 +281,7 @@
       "name": "درویشی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "درویشی دید آنجا",
-      "person_id": 1519,
+      "person_id": 1582,
       "canonical_name": "درويش",
       "has_id": NaN
     }

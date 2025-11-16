@@ -28,7 +28,7 @@
       "chain": [
         {
           "name": "عبداللّه منازل",
-          "person_id": 1065,
+          "person_id": 1133,
           "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
           "has_id": 654,
           "subj_added": false
@@ -54,9 +54,9 @@
       "chain": [
         {
           "name": "ابرهیم شیبان",
-          "person_id": 314,
+          "person_id": 339,
           "canonical_name": "إبراهيم بن شيبان",
-          "has_id": NaN,
+          "has_id": 277,
           "subj_added": false
         }
       ],
@@ -68,9 +68,9 @@
       "chain": [
         {
           "name": "ابرهیم شیبان",
-          "person_id": 314,
+          "person_id": 339,
           "canonical_name": "إبراهيم بن شيبان",
-          "has_id": NaN,
+          "has_id": 277,
           "subj_added": false
         }
       ],
@@ -82,9 +82,9 @@
       "chain": [
         {
           "name": "ابراهیم شیبان",
-          "person_id": 314,
+          "person_id": 339,
           "canonical_name": "إبراهيم بن شيبان",
-          "has_id": NaN,
+          "has_id": 277,
           "subj_added": false
         }
       ],
@@ -100,7 +100,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد بوعبداللّه مغربی بود",
-        "person_id": 885,
+        "person_id": 960,
         "canonical_name": "أبو عبد الله المغربي",
         "has_id": 416
       },
@@ -109,7 +109,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد بوعبداللّه مغربی بود و ابراهیم خواص.",
-        "person_id": 278,
+        "person_id": 640,
         "canonical_name": "أبو إسحاق إبراهيم الخواص",
         "has_id": 268
       }
@@ -120,7 +120,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "سالی باو نشست",
         "full_text": "کی خواجه بوزید مرغزی فقیه خراسان به حج میشد، بکرمانشاهان رسید، ابراهیم شیبان آنجا یافت، سالی باو نشست",
-        "person_id": 792,
+        "person_id": 868,
         "canonical_name": "أبو زيد محمد بن أحمد الفقيه المروزي",
         "has_id": 120
       }
@@ -132,7 +132,7 @@
       "name": "عبداللّه منازل",
       "relationship_type": "narrator",
       "full_text": "از عبداللّه منازل پرسیدند از وی، که در و چه گوئی؟ گفت:",
-      "person_id": 1065,
+      "person_id": 1133,
       "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
       "has_id": 654
     },
@@ -140,7 +140,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ الاسلام گفت: که ابراهیم شیبان گوید:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -148,7 +148,7 @@
       "name": "شیخ السلام",
       "relationship_type": "narrator",
       "full_text": "شیخ السلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -156,7 +156,7 @@
       "name": "خواجه بوزید مرغزی فقیه خراسان",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "کی خواجه بوزید مرغزی فقیه خراسان به حج میشد، بکرمانشاهان رسید، ابراهیم شیبان آنجا یافت، سالی باو نشست",
-      "person_id": 792,
+      "person_id": 868,
       "canonical_name": "أبو زيد محمد بن أحمد الفقيه المروزي",
       "has_id": 120
     }

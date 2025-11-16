@@ -23,23 +23,24 @@
       "chain": [
         {
           "name": "مهلب بن احمدبن مرزوق",
-          "person_id": 2558,
+          "person_id": 2617,
           "canonical_name": "مهلب بن أحمد بن مرزوق",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 686,
+          "name": "",
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
-          "has_id": 29
+          "has_id": 29,
+          "subj_added": false
         }
       ],
       "type": "single_informant",
@@ -56,7 +57,7 @@
       "chain": [
         {
           "name": "ابوبکر بن طاهر",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": false
@@ -70,7 +71,7 @@
       "chain": [
         {
           "name": "ابوبکر بن طاهر",
-          "person_id": 686,
+          "person_id": 759,
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": false
@@ -88,7 +89,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "صحبت کرده با یوسف حسن رازی.",
-        "person_id": 1140,
+        "person_id": 1205,
         "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
         "has_id": 847
       }
@@ -99,7 +100,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "صحبت",
         "full_text": "صحبت شیخ بوبکر طاهر ابهری.",
-        "person_id": 2558,
+        "person_id": 2617,
         "canonical_name": "مهلب بن أحمد بن مرزوق",
         "has_id": NaN
       }
@@ -110,7 +111,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اقران",
         "full_text": "از اقران شبلی٭ بوده",
-        "person_id": 628,
+        "person_id": 699,
         "canonical_name": "أبو بكر الشبلي",
         "has_id": 376
       },
@@ -119,7 +120,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "رفیق",
         "full_text": "رفیق مظفر کرمانشاهی بوده",
-        "person_id": 2513,
+        "person_id": 2573,
         "canonical_name": "مظفر القرميسيني",
         "has_id": 807
       }
@@ -130,7 +131,7 @@
       "name": "مهلب بن احمدبن مرزوق",
       "relationship_type": "narrator",
       "full_text": "شیخ مهلب مصری گوید، مهلب بن احمدبن مرزوق:",
-      "person_id": 2558,
+      "person_id": 2617,
       "canonical_name": "مهلب بن أحمد بن مرزوق",
       "has_id": NaN
     },
@@ -138,7 +139,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     }

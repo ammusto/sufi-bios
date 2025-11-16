@@ -24,31 +24,38 @@
       "chain": [
         {
           "name": "عبد الله بن محمد بن جعفر",
-          "person_id": 1868,
+          "person_id": 1937,
           "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن محمد بن العباس",
-          "person_id": 1864,
+          "person_id": 1934,
           "canonical_name": "عبد الله بن محمد بن العباس",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سلمة ابن شبيب",
-          "person_id": 1614,
+          "person_id": 1675,
           "canonical_name": "سلمة بن شبيب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إبراهيم بن الجنيد",
-          "person_id": 292,
+          "person_id": 318,
           "canonical_name": "إبراهيم بن الجنيد",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "person_id": 92,
+          "canonical_name": "الحسن الحفري",
+          "has_id": 230,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -58,25 +65,11 @@
     {
       "chain": [
         {
-          "name": "عبد الله بن محمد بن جعفر",
-          "person_id": 1868,
-          "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
-          "has_id": NaN,
-          "subj_added": false
-        },
-        {
-          "name": "القواريري",
-          "person_id": 217,
-          "canonical_name": "القواريري",
-          "has_id": NaN,
-          "subj_added": false
-        },
-        {
-          "name": "أبو عمران التمار",
-          "person_id": 998,
-          "canonical_name": "أبو عمران التمار",
-          "has_id": NaN,
-          "subj_added": false
+          "person_id": 92,
+          "canonical_name": "الحسن الحفري",
+          "has_id": 230,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -94,7 +87,7 @@
       "name": "إبراهيم بن الجنيد",
       "relationship_type": "narrator",
       "full_text": "ثنا إبراهيم بن الجنيد",
-      "person_id": 292,
+      "person_id": 318,
       "canonical_name": "إبراهيم بن الجنيد",
       "has_id": NaN
     },
@@ -102,7 +95,7 @@
       "name": "أبو عمران التمار",
       "relationship_type": "narrator",
       "full_text": "ثنا أبو عمران التمار قال:",
-      "person_id": 998,
+      "person_id": 1066,
       "canonical_name": "أبو عمران التمار",
       "has_id": NaN
     }

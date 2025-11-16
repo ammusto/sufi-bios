@@ -25,7 +25,7 @@
       "chain": [
         {
           "name": "علی بن الموفق",
-          "person_id": 2008,
+          "person_id": 2079,
           "canonical_name": "علي بن الموفق",
           "has_id": 694,
           "subj_added": false
@@ -43,7 +43,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده بود",
         "full_text": "ذوالنون مصری٭ دیده بود",
-        "person_id": 1523,
+        "person_id": 1586,
         "canonical_name": "ذو النون المصري",
         "has_id": 570
       }
@@ -56,7 +56,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ الاسلام گفت: که علی بن الموفق گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     }

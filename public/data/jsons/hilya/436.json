@@ -8,17 +8,24 @@
       "chain": [
         {
           "name": "جعفر بن محمد بن نصير",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1199,
+          "canonical_name": "أبو يعقوب الزيات",
+          "has_id": 436,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -29,10 +36,17 @@
       "chain": [
         {
           "name": "أبو سعيد الخزاز",
-          "person_id": 801,
+          "person_id": 877,
           "canonical_name": "أبو سعيد الخراز",
           "has_id": 123,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1199,
+          "canonical_name": "أبو يعقوب الزيات",
+          "has_id": 436,
+          "subj_added": true
         }
       ],
       "type": "single_informant",
@@ -50,7 +64,7 @@
       "name": "الجنيد بن محمد",
       "relationship_type": "narrator",
       "full_text": "سمعت الجنيد بن محمد يقول",
-      "person_id": 532,
+      "person_id": 595,
       "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
       "has_id": 228
     },
@@ -58,7 +72,7 @@
       "name": "أبو سعيد الخزاز",
       "relationship_type": "narrator",
       "full_text": "وحكى عنه أبو سعيد الخزاز قال:",
-      "person_id": 801,
+      "person_id": 877,
       "canonical_name": "أبو سعيد الخراز",
       "has_id": 123
     },
@@ -66,7 +80,7 @@
       "name": "مريد",
       "relationship_type": "interlocutor",
       "full_text": "وقال لمريد:\nتحفظ القرآن؟ فقال: لا.",
-      "person_id": 2498,
+      "person_id": 2558,
       "canonical_name": "مريد",
       "has_id": NaN
     }

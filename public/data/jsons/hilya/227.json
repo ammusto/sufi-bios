@@ -8,49 +8,49 @@
       "chain": [
         {
           "name": "جعفر بن معبد",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "عبد الله بن محمد بن النعمان",
-          "person_id": 1865,
-          "canonical_name": "عبد الله بن محمد بن النعمان",
-          "has_id": NaN,
+          "person_id": 2668,
+          "canonical_name": "همام بن محمد بن النعمان",
+          "has_id": 227,
           "subj_added": false
         },
         {
           "name": "فروة بن أبى العراء",
-          "person_id": 2168,
+          "person_id": 2234,
           "canonical_name": "فروة بن أبى العراء",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علي بن مسهر",
-          "person_id": 2071,
+          "person_id": 2136,
           "canonical_name": "علي بن مسهر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يوسف بن ميمون",
-          "person_id": 2684,
+          "person_id": 2742,
           "canonical_name": "يوسف بن ميمون",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عطاء",
-          "person_id": 498,
+          "person_id": 559,
           "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
           "has_id": 340,
           "subj_added": false
         },
         {
           "name": "عائشة",
-          "person_id": 1710,
+          "person_id": 1778,
           "canonical_name": "عائشة",
           "has_id": NaN,
           "subj_added": false
@@ -64,42 +64,42 @@
       "chain": [
         {
           "name": "عبد الرحمن بن محمد بن عمر القرظي",
-          "person_id": 1754,
+          "person_id": 1822,
           "canonical_name": "عبد الرحمن بن محمد بن عمر القرظي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "همام بن محمد بن النعمان",
-          "person_id": 2607,
+          "person_id": 2668,
           "canonical_name": "همام بن محمد بن النعمان",
-          "has_id": NaN,
+          "has_id": 227,
           "subj_added": false
         },
         {
           "name": "العباس بن يزيد بن فضيل",
-          "person_id": 182,
+          "person_id": 206,
           "canonical_name": "العباس بن يزيد بن فضيل",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمارة بن القعقاع",
-          "person_id": 2083,
+          "person_id": 2148,
           "canonical_name": "عمارة بن القعقاع",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو زرعة",
-          "person_id": 786,
+          "person_id": 862,
           "canonical_name": "أبو زرعة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو هريرة",
-          "person_id": 1120,
+          "person_id": 1185,
           "canonical_name": "أبو هريرة",
           "has_id": NaN,
           "subj_added": false
@@ -120,7 +120,7 @@
       "name": "جعفر بن معبد",
       "relationship_type": "narrator",
       "full_text": "حدثنا جعفر بن معبد",
-      "person_id": 1405,
+      "person_id": 1464,
       "canonical_name": "جعفر بن محمد الخلدي",
       "has_id": 495
     },
@@ -128,7 +128,7 @@
       "name": "عبد الرحمن بن محمد بن عمر القرظي",
       "relationship_type": "narrator",
       "full_text": "حدثنا عبد الرحمن بن محمد بن عمر القرظي",
-      "person_id": 1754,
+      "person_id": 1822,
       "canonical_name": "عبد الرحمن بن محمد بن عمر القرظي",
       "has_id": NaN
     }

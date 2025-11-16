@@ -44,14 +44,14 @@
       "chain": [
         {
           "name": "شیخ عباس فقیر",
-          "person_id": 1718,
+          "person_id": 1785,
           "canonical_name": "عباس الهروي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "شیخ بوبکر حرمی",
-          "person_id": 615,
+          "person_id": 687,
           "canonical_name": "أبو بكر الحرمي",
           "has_id": NaN,
           "subj_added": false
@@ -65,14 +65,14 @@
       "chain": [
         {
           "name": "شیخ عباس فقیر",
-          "person_id": 1718,
+          "person_id": 1785,
           "canonical_name": "عباس الهروي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "شیخ بوبکر حرمی",
-          "person_id": 615,
+          "person_id": 687,
           "canonical_name": "أبو بكر الحرمي",
           "has_id": NaN,
           "subj_added": false
@@ -86,7 +86,7 @@
       "chain": [
         {
           "name": "بوالفرج ورثانی٭",
-          "person_id": 519,
+          "person_id": 581,
           "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
           "has_id": NaN,
           "subj_added": false
@@ -100,7 +100,7 @@
       "chain": [
         {
           "name": "محمدعمر نشاپوری",
-          "person_id": 2421,
+          "person_id": 2483,
           "canonical_name": "محمد بن عمر النيسابوري",
           "has_id": NaN,
           "subj_added": false
@@ -120,14 +120,14 @@
       "chain": [
         {
           "name": "بوالحسین دراجی٭",
-          "person_id": 397,
+          "person_id": 501,
           "canonical_name": "أبو الحسين الدراج",
           "has_id": 318,
           "subj_added": false
         },
         {
           "name": "فوطی",
-          "person_id": 201,
+          "person_id": 226,
           "canonical_name": "الفوطي",
           "has_id": NaN,
           "subj_added": false
@@ -141,7 +141,7 @@
       "chain": [
         {
           "name": "دراج",
-          "person_id": 397,
+          "person_id": 501,
           "canonical_name": "أبو الحسين الدراج",
           "has_id": 318,
           "subj_added": false
@@ -155,9 +155,9 @@
       "chain": [
         {
           "name": "شیخ بوعبداللّه جلا٭",
-          "person_id": 901,
-          "canonical_name": "أبو عبد الله بن جلاء",
-          "has_id": NaN,
+          "person_id": 971,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
           "subj_added": false
         }
       ],
@@ -169,7 +169,7 @@
       "chain": [
         {
           "name": "شیخ بوعمرو علوان",
-          "person_id": 1022,
+          "person_id": 1090,
           "canonical_name": "أبو عمرو علوان",
           "has_id": NaN,
           "subj_added": false
@@ -193,7 +193,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد بوالحسین مالکی٭ بوده",
-        "person_id": 450,
+        "person_id": 508,
         "canonical_name": "أبو الحسين المالكي",
         "has_id": 321
       },
@@ -202,9 +202,9 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرد، با",
         "full_text": "صحبت کرد، با ابراهیم بن شیبان کرمان شاهی٭ و نسبت باوکردی.",
-        "person_id": 314,
+        "person_id": 339,
         "canonical_name": "إبراهيم بن شيبان",
-        "has_id": NaN
+        "has_id": 277
       }
     ],
     "students": [],
@@ -214,7 +214,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اقران",
         "full_text": "شیخ سلمی ویرا در تاریخ نیاورده ویرا دیده و از اقران شیخ سیروانی٭ بوده.",
-        "person_id": 165,
+        "person_id": 187,
         "canonical_name": "السيرواني",
         "has_id": NaN
       }
@@ -225,7 +225,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -233,7 +233,7 @@
       "name": "شیخ عباس فقیر",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ عباس فقیرگفت مرا",
-      "person_id": 1718,
+      "person_id": 1785,
       "canonical_name": "عباس الهروي",
       "has_id": NaN
     },
@@ -241,7 +241,7 @@
       "name": "بوالفرج ورثانی٭",
       "relationship_type": "narrator",
       "full_text": "بوالفرج ورثانی٭ گوید",
-      "person_id": 519,
+      "person_id": 581,
       "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
       "has_id": NaN
     },
@@ -249,7 +249,7 @@
       "name": "محمدعمر نشاپوری",
       "relationship_type": "narrator",
       "full_text": "محمدعمر نشاپوری گوید",
-      "person_id": 2421,
+      "person_id": 2483,
       "canonical_name": "محمد بن عمر النيسابوري",
       "has_id": NaN
     },
@@ -257,7 +257,7 @@
       "name": "بوالحسین دراجی٭",
       "relationship_type": "narrator",
       "full_text": "بوالحسین دراجی٭ و فوطی حکایت کنند.",
-      "person_id": 397,
+      "person_id": 501,
       "canonical_name": "أبو الحسين الدراج",
       "has_id": 318
     },
@@ -265,7 +265,7 @@
       "name": "فوطی",
       "relationship_type": "narrator",
       "full_text": "بوالحسین دراجی٭ و فوطی حکایت کنند.",
-      "person_id": 201,
+      "person_id": 226,
       "canonical_name": "الفوطي",
       "has_id": NaN
     },
@@ -273,15 +273,15 @@
       "name": "شیخ بوعبداللّه جلا٭",
       "relationship_type": "narrator",
       "full_text": "شیخ بوعبداللّه جلا٭ گوید",
-      "person_id": 901,
-      "canonical_name": "أبو عبد الله بن جلاء",
-      "has_id": NaN
+      "person_id": 971,
+      "canonical_name": "أبو عبد الله بن الجلاء",
+      "has_id": 410
     },
     {
       "name": "شیخ بوعمرو علوان",
       "relationship_type": "narrator",
       "full_text": "شیخ بوعمرو علوان گوید",
-      "person_id": 1022,
+      "person_id": 1090,
       "canonical_name": "أبو عمرو علوان",
       "has_id": NaN
     },
@@ -289,7 +289,7 @@
       "name": "شیخ سلمی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "شیخ سلمی ویرا در تاریخ نیاورده ویرا دیده",
-      "person_id": 845,
+      "person_id": 922,
       "canonical_name": "أبو عبد الرحمن السلمي",
       "has_id": 133
     },
@@ -297,7 +297,7 @@
       "name": "ابوالقاسم سایح",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "ابوالقاسم سایح جائی نشسته بود در مهمانی با قومی",
-      "person_id": 551,
+      "person_id": 614,
       "canonical_name": "أبو القاسم سايح",
       "has_id": NaN
     },
@@ -305,7 +305,7 @@
       "name": "ایوب نجارکوز پشت",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "ایوب نجارکوز پشت بود",
-      "person_id": 269,
+      "person_id": 295,
       "canonical_name": "ايوب نجاركوز پشت",
       "has_id": NaN
     },
@@ -313,7 +313,7 @@
       "name": "جبله",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "یکی نام جبله",
-      "person_id": 1379,
+      "person_id": 1441,
       "canonical_name": "جبلة",
       "has_id": NaN
     },
@@ -321,7 +321,7 @@
       "name": "زریق",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "نام دیگر زریق",
-      "person_id": 1559,
+      "person_id": 1621,
       "canonical_name": "زريق",
       "has_id": NaN
     }

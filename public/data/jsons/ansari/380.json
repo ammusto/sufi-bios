@@ -71,29 +71,31 @@
       "chain": [
         {
           "name": "بوبکر صغدی",
-          "person_id": 632,
+          "person_id": 702,
           "canonical_name": "أبو بكر الصغدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 713,
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
           "has_id": 380,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 713,
+          "name": "",
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
-          "has_id": 380
+          "has_id": 380,
+          "subj_added": false
         },
         {
-          "name": NaN,
-          "person_id": 713,
+          "name": "",
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
-          "has_id": 380
+          "has_id": 380,
+          "subj_added": false
         }
       ],
       "type": "explicit",
@@ -104,7 +106,7 @@
       "chain": [
         {
           "name": "بوبکر وراق",
-          "person_id": 713,
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
           "has_id": 380,
           "subj_added": false
@@ -142,29 +144,31 @@
       "chain": [
         {
           "name": "حسین تزمذی",
-          "person_id": 1450,
+          "person_id": 1512,
           "canonical_name": "حسين الترمذي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 713,
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
           "has_id": 380,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 713,
+          "name": "",
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
-          "has_id": 380
+          "has_id": 380,
+          "subj_added": false
         },
         {
-          "name": NaN,
-          "person_id": 713,
+          "name": "",
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
-          "has_id": 380
+          "has_id": 380,
+          "subj_added": false
         }
       ],
       "type": "explicit",
@@ -175,29 +179,31 @@
       "chain": [
         {
           "name": "حسین تزمذی",
-          "person_id": 1450,
+          "person_id": 1512,
           "canonical_name": "حسين الترمذي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 713,
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
           "has_id": 380,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 713,
+          "name": "",
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
-          "has_id": 380
+          "has_id": 380,
+          "subj_added": false
         },
         {
-          "name": NaN,
-          "person_id": 713,
+          "name": "",
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
-          "has_id": 380
+          "has_id": 380,
+          "subj_added": false
         }
       ],
       "type": "bi-isnadihi",
@@ -238,29 +244,31 @@
       "chain": [
         {
           "name": "بوبکر",
-          "person_id": 610,
+          "person_id": 682,
           "canonical_name": "أبو بكر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 713,
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
           "has_id": 380,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 713,
+          "name": "",
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
-          "has_id": 380
+          "has_id": 380,
+          "subj_added": false
         },
         {
-          "name": NaN,
-          "person_id": 713,
+          "name": "",
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
-          "has_id": 380
+          "has_id": 380,
+          "subj_added": false
         }
       ],
       "type": "explicit",
@@ -271,29 +279,31 @@
       "chain": [
         {
           "name": "بوبکر",
-          "person_id": 610,
+          "person_id": 682,
           "canonical_name": "أبو بكر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 713,
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
           "has_id": 380,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 713,
+          "name": "",
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
-          "has_id": 380
+          "has_id": 380,
+          "subj_added": false
         },
         {
-          "name": NaN,
-          "person_id": 713,
+          "name": "",
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
-          "has_id": 380
+          "has_id": 380,
+          "subj_added": false
         }
       ],
       "type": "bi-isnadihi",
@@ -304,29 +314,31 @@
       "chain": [
         {
           "name": "بوبکر",
-          "person_id": 610,
+          "person_id": 682,
           "canonical_name": "أبو بكر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 713,
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
           "has_id": 380,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 713,
+          "name": "",
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
-          "has_id": 380
+          "has_id": 380,
+          "subj_added": false
         },
         {
-          "name": NaN,
-          "person_id": 713,
+          "name": "",
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
-          "has_id": 380
+          "has_id": 380,
+          "subj_added": false
         }
       ],
       "type": "bi-isnadihi",
@@ -337,29 +349,31 @@
       "chain": [
         {
           "name": "بوبکر",
-          "person_id": 610,
+          "person_id": 682,
           "canonical_name": "أبو بكر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 713,
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
           "has_id": 380,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 713,
+          "name": "",
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
-          "has_id": 380
+          "has_id": 380,
+          "subj_added": false
         },
         {
-          "name": NaN,
-          "person_id": 713,
+          "name": "",
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
-          "has_id": 380
+          "has_id": 380,
+          "subj_added": false
         }
       ],
       "type": "bi-isnadihi",
@@ -370,29 +384,31 @@
       "chain": [
         {
           "name": "بوبکر",
-          "person_id": 610,
+          "person_id": 682,
           "canonical_name": "أبو بكر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 713,
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
           "has_id": 380,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 713,
+          "name": "",
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
-          "has_id": 380
+          "has_id": 380,
+          "subj_added": false
         },
         {
-          "name": NaN,
-          "person_id": 713,
+          "name": "",
+          "person_id": 787,
           "canonical_name": "أبو بكر محمد بن عمر الوراق البلخي",
-          "has_id": 380
+          "has_id": 380,
+          "subj_added": false
         }
       ],
       "type": "bi-isnadihi",
@@ -407,7 +423,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده و باوی صحبت کرده",
         "full_text": "خضرویه٭ دیده و باوی صحبت کرده",
-        "person_id": 1194,
+        "person_id": 1258,
         "canonical_name": "أحمد بن خضرويه البلخي",
         "has_id": 440
       },
@@ -416,7 +432,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده",
         "full_text": "با محمد سعد ابراهیم زاهد صحبت کرده",
-        "person_id": 2355,
+        "person_id": 2419,
         "canonical_name": "محمد بن سعد بن إبراهيم الزّاهد",
         "has_id": NaN
       },
@@ -425,8 +441,8 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده",
         "full_text": "و نیز بااحمد عمر خشنام بلخی و جز ازیشان.",
-        "person_id": 1231,
-        "canonical_name": "أحمد بن عمر خشنام بلخي",
+        "person_id": 1293,
+        "canonical_name": "أحمد بن عمر خشنام البلخي",
         "has_id": NaN
       }
     ],
@@ -436,7 +452,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شیخ السلام گفت: کی بوبکر صغدی ازین طایفه است شاگرد بوبکر وراق",
-        "person_id": 632,
+        "person_id": 702,
         "canonical_name": "أبو بكر الصغدي",
         "has_id": NaN
       },
@@ -445,7 +461,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "شاگرد بوده",
         "full_text": "شیخ الاسلام گفت: که بوبکر وراق را شاگرد بوده هاشمی سغدی از سغد سمرقند با او میبود تا مرگ",
-        "person_id": 2596,
+        "person_id": 2656,
         "canonical_name": "هاشمي سغدي",
         "has_id": 840
       },
@@ -454,7 +470,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "صحبت کرده بود با",
         "full_text": "حکیم اسحق بن محمد اسماعیل سمرقندی، ... صحبت کرده بود بابوبکر وراق",
-        "person_id": 1466,
+        "person_id": 1528,
         "canonical_name": "حكيم اسحق بن محمد بن اسماعيل السمرقندي",
         "has_id": NaN
       }
@@ -466,7 +482,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -474,7 +490,7 @@
       "name": "شیخ السلام",
       "relationship_type": "narrator",
       "full_text": "شیخ السلام گفت: کی بوبکر صغدی ازین طایفه است شاگرد بوبکر وراق وی گویدکی:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -482,7 +498,7 @@
       "name": "بوبکر صغدی",
       "relationship_type": "direct_narrator",
       "full_text": "وی گویدکی: بوبکر وراق مرد کریم بود، خدای را بمزد کار نکردی که ور تعظیم کردی.",
-      "person_id": 632,
+      "person_id": 702,
       "canonical_name": "أبو بكر الصغدي",
       "has_id": NaN
     },
@@ -491,7 +507,7 @@
       "relationship_type": "direct_narrator",
       "context": "questioner",
       "full_text": "حسین تزمذی گوید: که با ابوبکر وراق میرفتم در راه، بریک سوی ردای وی حرف خادیدم، و بردیگر سوی میم.",
-      "person_id": 1450,
+      "person_id": 1512,
       "canonical_name": "حسين الترمذي",
       "has_id": NaN
     },
@@ -499,7 +515,7 @@
       "name": "محمد مسلم حصیر باف",
       "relationship_type": "interlocutor",
       "full_text": "محمد مسلم گفت: زود باشیدکی من کاری دارم.",
-      "person_id": 2450,
+      "person_id": 2511,
       "canonical_name": "محمد بن مسلم حصير باف",
       "has_id": NaN
     },
@@ -507,7 +523,7 @@
       "name": "یوسف ترمذی",
       "relationship_type": "interlocutor",
       "full_text": "با یوسف ترمذی",
-      "person_id": 2685,
+      "person_id": 2743,
       "canonical_name": "يوسف ترمذي",
       "has_id": NaN
     },
@@ -515,7 +531,7 @@
       "name": "یوسف خیاط",
       "relationship_type": "interlocutor",
       "full_text": "یوسف خیاط گفت: باش و ترا جز ازان کاریست، کی اللّه پیش تو آرد، و تو نیز بران از خانه بیامدهٔ!",
-      "person_id": 2673,
+      "person_id": 2731,
       "canonical_name": "يوسف الخياط",
       "has_id": NaN
     },
@@ -523,7 +539,7 @@
       "name": "بوالخیر تیناتی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "و برین معنی بوالخیر تیناتی سخن گفته.",
-      "person_id": 471,
+      "person_id": 528,
       "canonical_name": "أبو الخير التيناتي",
       "has_id": NaN
     },
@@ -531,7 +547,7 @@
       "name": "یحیی معاذ٭",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "و یحیی معاذ٭ گفت: انکسار العاصین خیر من صولت المطیعین.",
-      "person_id": 2650,
+      "person_id": 2709,
       "canonical_name": "يحيى بن معاذ الرازي",
       "has_id": 844
     }

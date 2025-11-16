@@ -14,14 +14,14 @@
       "chain": [
         {
           "name": "فارس حمال",
-          "person_id": 2160,
+          "person_id": 2225,
           "canonical_name": "فارس الحمال",
           "has_id": 722,
           "subj_added": false
         },
         {
           "name": "بوالسین نوری",
-          "person_id": 452,
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
           "has_id": 439,
           "subj_added": false
@@ -35,14 +35,14 @@
       "chain": [
         {
           "name": "فارس حمال",
-          "person_id": 2160,
+          "person_id": 2225,
           "canonical_name": "فارس الحمال",
           "has_id": 722,
           "subj_added": false
         },
         {
           "name": "بوالسین نوری",
-          "person_id": 452,
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
           "has_id": 439,
           "subj_added": false
@@ -78,7 +78,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "صحبت کرده بابوالقسم رازی",
-        "person_id": 549,
+        "person_id": 612,
         "canonical_name": "أبو القاسم جعفر بن أحمد الرازي",
         "has_id": 357
       }
@@ -90,7 +90,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "با ... بوده",
         "full_text": "با نابلوسی بوده بمصر،",
-        "person_id": 2575,
+        "person_id": 2635,
         "canonical_name": "نابلوسي",
         "has_id": NaN
       }
@@ -101,7 +101,7 @@
       "name": "فارس حمال",
       "relationship_type": "narrator",
       "full_text": "فارس حمال بوده از بوالسین نوری٭ حکایت کند",
-      "person_id": 2160,
+      "person_id": 2225,
       "canonical_name": "فارس الحمال",
       "has_id": 722
     },
@@ -109,7 +109,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -117,7 +117,7 @@
       "name": "مردی",
       "relationship_type": "questioner",
       "full_text": "مردی ویرا گفت: ای شیخ! مساله",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -126,7 +126,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "هاتف آواز داد",
       "full_text": "هاتف آواز داد: یا بالحسین هیچ محقق ترا ندید کی نشناخت، اما ترا دریغ داشتیم که در تو بندد یا تو درکسی بندی.",
-      "person_id": 2590,
+      "person_id": 2650,
       "canonical_name": "هاتف",
       "has_id": NaN
     }

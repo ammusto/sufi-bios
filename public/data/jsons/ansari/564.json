@@ -19,23 +19,24 @@
       "chain": [
         {
           "name": "عیسی",
-          "person_id": 2144,
+          "person_id": 2210,
           "canonical_name": "عيسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1510,
+          "person_id": 1572,
           "canonical_name": "خير النساج",
           "has_id": 564,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 1510,
+          "name": "",
+          "person_id": 1572,
           "canonical_name": "خير النساج",
-          "has_id": 564
+          "has_id": 564,
+          "subj_added": false
         }
       ],
       "type": "single_informant",
@@ -52,7 +53,7 @@
       "chain": [
         {
           "name": "خیر نساج",
-          "person_id": 1510,
+          "person_id": 1572,
           "canonical_name": "خير النساج",
           "has_id": 564,
           "subj_added": false
@@ -66,14 +67,14 @@
       "chain": [
         {
           "name": "فضیل عیاض",
-          "person_id": 200,
+          "person_id": 225,
           "canonical_name": "الفضيل بن عياض",
           "has_id": 243,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1510,
+          "person_id": 1572,
           "canonical_name": "خير النساج",
           "has_id": 564,
           "subj_added": true
@@ -91,16 +92,16 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده بود با",
         "full_text": "صحبت کرده بود با شیخ بوحمزهٔ\nبغدادی٭",
-        "person_id": 764,
-        "canonical_name": "أبو حمزة البغدادي",
-        "has_id": 397
+        "person_id": 844,
+        "canonical_name": "أبو حمزة محمد بن إبراهيم البغدادي",
+        "has_id": 773
       },
       {
         "name": "سری",
         "relationship_type": "student_of",
         "relationship_phrase": "سوالات پرسیده",
         "full_text": "از سری سوالات پرسیده",
-        "person_id": 161,
+        "person_id": 183,
         "canonical_name": "السري السقطي",
         "has_id": 236
       },
@@ -109,7 +110,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "سوالات پرسیده",
         "full_text": "از سری سوالات پرسیده استاد نوریو ابراهیم خواص و ابن عطا و جریری٭ بود",
-        "person_id": 452,
+        "person_id": 510,
         "canonical_name": "أبو الحسين النوري",
         "has_id": 439
       },
@@ -118,7 +119,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "سوالات پرسیده",
         "full_text": "از سری سوالات پرسیده استاد نوریو ابراهیم خواص و ابن عطا و جریری٭ بود",
-        "person_id": 278,
+        "person_id": 640,
         "canonical_name": "أبو إسحاق إبراهيم الخواص",
         "has_id": 268
       },
@@ -127,7 +128,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "سوالات پرسیده",
         "full_text": "از سری سوالات پرسیده استاد نوریو ابراهیم خواص و ابن عطا و جریری٭ بود",
-        "person_id": 498,
+        "person_id": 559,
         "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
         "has_id": 340
       },
@@ -136,7 +137,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "سوالات پرسیده",
         "full_text": "از سری سوالات پرسیده استاد نوریو ابراهیم خواص و ابن عطا و جریری٭ بود",
-        "person_id": 1035,
+        "person_id": 1104,
         "canonical_name": "أبو محمد الجريري",
         "has_id": 431
       }
@@ -147,7 +148,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "در مجلس وی توبه کرده",
         "full_text": "و شبلی در مجلس وی توبه کرده",
-        "person_id": 628,
+        "person_id": 699,
         "canonical_name": "أبو بكر الشبلي",
         "has_id": 376
       }
@@ -158,7 +159,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اقران",
         "full_text": "وی از اقران نوری٭",
-        "person_id": 452,
+        "person_id": 510,
         "canonical_name": "أبو الحسين النوري",
         "has_id": 439
       }
@@ -169,7 +170,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -177,7 +178,7 @@
       "name": "عیسی",
       "relationship_type": "narrator",
       "full_text": "عیسی گوید: کی نام وی محمدبن اسماعیل است السامری.",
-      "person_id": 2144,
+      "person_id": 2210,
       "canonical_name": "عيسي",
       "has_id": NaN
     },
@@ -186,7 +187,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "درکوفه",
       "full_text": "چون از حج بازگشت مردی ویرا بگرفت و درکوفه گفت: تو بندهٔ منی و نام تو خیر است",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -194,7 +195,7 @@
       "name": "فضیل عیاض٭",
       "relationship_type": "interlocutor",
       "full_text": "«و فضیل عیاض٭ را پرسیدندگفت: لم ار للعبد خیراً من ربه».",
-      "person_id": 200,
+      "person_id": 225,
       "canonical_name": "الفضيل بن عياض",
       "has_id": 243
     }

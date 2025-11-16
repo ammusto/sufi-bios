@@ -8,31 +8,38 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن محمد",
-          "person_id": 1239,
+          "person_id": 1300,
           "canonical_name": "أحمد بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن محمد القرشي",
-          "person_id": 1862,
+          "person_id": 1932,
           "canonical_name": "عبد الله بن محمد القرشي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "شيخ من قريش",
-          "person_id": 2539,
+          "person_id": 2598,
           "canonical_name": "من قريش",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "person_id": 2586,
+          "canonical_name": "مغيث الأسود",
+          "has_id": 812,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -50,7 +57,7 @@
       "name": "شيخ من قريش",
       "relationship_type": "narrator",
       "full_text": "قال: حدثني شيخ من قريش.",
-      "person_id": 2539,
+      "person_id": 2598,
       "canonical_name": "من قريش",
       "has_id": NaN
     }

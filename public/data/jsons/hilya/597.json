@@ -19,63 +19,63 @@
       "chain": [
         {
           "name": "محمد بن المظفر",
-          "person_id": 2262,
+          "person_id": 2327,
           "canonical_name": "محمد بن المظفر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سعيد بن عبد العزيز بن مروان أبو عثمان",
-          "person_id": 1600,
-          "canonical_name": "سعيد بن عبد العزيز بن مروان أبو عثمان",
-          "has_id": NaN,
+          "person_id": 1661,
+          "canonical_name": "سعيد بن عبد العزيز الحلبي",
+          "has_id": 597,
           "subj_added": false
         },
         {
           "name": "أبو نعيم عبيد بن هشام",
-          "person_id": 1115,
+          "person_id": 1179,
           "canonical_name": "أبو نعيم عبيد بن هشام",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "حفص بن عمران الواسطي",
-          "person_id": 1461,
+          "person_id": 1523,
           "canonical_name": "حفص بن عمران الواسطي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمرو ابن كثير",
-          "person_id": 2128,
+          "person_id": 2194,
           "canonical_name": "عمرو بن كثير",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الرحمن بن أبي الزناد",
-          "person_id": 1737,
+          "person_id": 1805,
           "canonical_name": "عبد الرحمن بن أبي الزناد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبيه",
-          "person_id": 1149,
+          "person_id": 1212,
           "canonical_name": "أبوه",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبان بن عثمان بن عفان",
-          "person_id": 375,
+          "person_id": 418,
           "canonical_name": "أبان بن عثمان بن عفان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبيه",
-          "person_id": 1149,
+          "person_id": 1212,
           "canonical_name": "أبوه",
           "has_id": NaN,
           "subj_added": false
@@ -94,7 +94,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "تخرج له",
         "full_text": "تخرج له عدة من الأعلام: إبراهيم بن المولد وطبقته",
-        "person_id": 298,
+        "person_id": 643,
         "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
         "has_id": 273
       }
@@ -105,7 +105,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب سريا السقطى أحد الاوتاد، من علماء العباد.",
-        "person_id": 161,
+        "person_id": 183,
         "canonical_name": "السري السقطي",
         "has_id": 236
       }

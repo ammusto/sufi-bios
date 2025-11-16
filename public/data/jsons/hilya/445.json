@@ -8,28 +8,28 @@
       "chain": [
         {
           "name": "عثمان بن محمد العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسين بن عبد الرحمن القاضي",
-          "person_id": 116,
+          "person_id": 134,
           "canonical_name": "الحسين بن عبد الرحمن القاضي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 460,
+          "person_id": 517,
           "canonical_name": "أبو الحسين عبد الرحمن القاضي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن روح",
-          "person_id": 1199,
+          "person_id": 1263,
           "canonical_name": "أحمد بن روح",
           "has_id": 445,
           "subj_added": false
@@ -43,28 +43,28 @@
       "chain": [
         {
           "name": "عثمان بن محمد العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسين بن عبد الرحمن القاضي",
-          "person_id": 116,
+          "person_id": 134,
           "canonical_name": "الحسين بن عبد الرحمن القاضي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 460,
+          "person_id": 517,
           "canonical_name": "أبو الحسين عبد الرحمن القاضي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن روح",
-          "person_id": 1199,
+          "person_id": 1263,
           "canonical_name": "أحمد بن روح",
           "has_id": 445,
           "subj_added": false
@@ -85,7 +85,7 @@
       "name": "أبي",
       "relationship_type": "narrator",
       "full_text": "قال حدثني أبي قال سمعت أحمد بن روح ينشد",
-      "person_id": 585,
+      "person_id": 656,
       "canonical_name": "أبو أبي نعيم الأصفهاني",
       "has_id": NaN
     }

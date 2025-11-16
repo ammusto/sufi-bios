@@ -19,7 +19,7 @@
       "chain": [
         {
           "name": "شیخ بوبکرکتانی",
-          "person_id": 712,
+          "person_id": 786,
           "canonical_name": "أبو بكر محمد بن علي الكتاني",
           "has_id": 378,
           "subj_added": false
@@ -33,7 +33,7 @@
       "chain": [
         {
           "name": "بوبکر زقاق کهین",
-          "person_id": 626,
+          "person_id": 697,
           "canonical_name": "أبو بكر الزقاق الكبير",
           "has_id": NaN,
           "subj_added": false
@@ -53,7 +53,7 @@
       "chain": [
         {
           "name": "شیخ بوبکر رازی",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
@@ -67,7 +67,7 @@
       "chain": [
         {
           "name": "شیخ بوبکر رازی",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
@@ -85,7 +85,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد بوبکر زقاق مهین ایذ",
-        "person_id": 627,
+        "person_id": 698,
         "canonical_name": "أبو بكر الزقاق مهين",
         "has_id": NaN
       },
@@ -94,7 +94,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "از ... شنیدهام",
         "full_text": "بوبکر زقاق کهین گفت: کی چهل سالست کی از جنید سخنی شنیدهام در فنا، هنوز برجای آن در سر منست.",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       }
@@ -106,7 +106,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از یاران و اقران",
         "full_text": "و بوبکر مصری از یاران و اقران جنید بوده.",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       }
@@ -117,7 +117,7 @@
       "name": "شیخ بوبکرکتانی",
       "relationship_type": "narrator",
       "full_text": "شیخ بوبکرکتانی گفت: انقطع حجة الفقراء فی دخولهم مصراً",
-      "person_id": 712,
+      "person_id": 786,
       "canonical_name": "أبو بكر محمد بن علي الكتاني",
       "has_id": 378
     },
@@ -125,7 +125,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت: کی بوبکر زقاقکهین بغدادیست شاگرد بوبکر زقاق مهین ایذ بابتدا دست در حدیث داشت، حدیث مینوشت، پس با طریقت اهل حقیقت گشت و یک چشم بود.",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -134,7 +134,7 @@
       "relationship_type": "narrator",
       "context": "questioner; direct_narrator",
       "full_text": "شیخ بوبکر رازی گوید، که ویرا گفتم: سبب چشم بشدن تو چه بود؟",
-      "person_id": 707,
+      "person_id": 782,
       "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
       "has_id": NaN
     }

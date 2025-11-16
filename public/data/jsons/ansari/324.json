@@ -34,7 +34,7 @@
       "chain": [
         {
           "name": "بوبکر رازی",
-          "person_id": 624,
+          "person_id": 695,
           "canonical_name": "أبو بكر الرازي",
           "has_id": NaN,
           "subj_added": false
@@ -48,9 +48,9 @@
       "chain": [
         {
           "name": "ابوالخیر",
-          "person_id": 30,
-          "canonical_name": "أبو الخير",
-          "has_id": NaN,
+          "person_id": 527,
+          "canonical_name": "أبو الخير الأقطع",
+          "has_id": 324,
           "subj_added": false
         }
       ],
@@ -62,7 +62,7 @@
       "chain": [
         {
           "name": "وی",
-          "person_id": 2621,
+          "person_id": 2681,
           "canonical_name": "وي",
           "has_id": NaN,
           "subj_added": false
@@ -82,7 +82,7 @@
       "chain": [
         {
           "name": "عباس بن محمد الخلال",
-          "person_id": 1722,
+          "person_id": 1789,
           "canonical_name": "عباس بن محمد الخلال",
           "has_id": NaN,
           "subj_added": false
@@ -108,7 +108,7 @@
       "chain": [
         {
           "name": "بوصالح حدثانی",
-          "person_id": 826,
+          "person_id": 905,
           "canonical_name": "أبو صالح الحدثاني",
           "has_id": NaN,
           "subj_added": false
@@ -128,7 +128,7 @@
       "chain": [
         {
           "name": "حسن",
-          "person_id": 1443,
+          "person_id": 1505,
           "canonical_name": "حسن",
           "has_id": NaN,
           "subj_added": false
@@ -142,7 +142,7 @@
       "chain": [
         {
           "name": "زهیر بن بکیر",
-          "person_id": 1564,
+          "person_id": 1626,
           "canonical_name": "زهير بن بكير",
           "has_id": NaN,
           "subj_added": false
@@ -166,16 +166,16 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده بود با",
         "full_text": "صحبت کرده بود با بوعبداللّه جلا و جنید و جز ازو و از مشایخ.",
-        "person_id": 901,
-        "canonical_name": "أبو عبد الله بن جلاء",
-        "has_id": NaN
+        "person_id": 971,
+        "canonical_name": "أبو عبد الله بن الجلاء",
+        "has_id": 410
       },
       {
         "name": "جنید",
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده بود با",
         "full_text": "صحبت کرده بود با بوعبداللّه جلا و جنید و جز ازو و از مشایخ.",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       }
@@ -188,7 +188,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت: که نام وی حماد است غلام بودهبه تینات بودی",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -196,7 +196,7 @@
       "name": "بوبکر رازی",
       "relationship_type": "direct_narrator",
       "full_text": "بوبکر رازی گوید: که وی این دو بیت انشا کرد برمن:",
-      "person_id": 624,
+      "person_id": 695,
       "canonical_name": "أبو بكر الرازي",
       "has_id": NaN
     },
@@ -204,7 +204,7 @@
       "name": "عباس بن محمد الخلال",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ الاسلام گفت: کی عباس بن محمد الخلال گوید از مرو: کی بوالخیر\nتیتانی مرا گفت:",
-      "person_id": 1722,
+      "person_id": 1789,
       "canonical_name": "عباس بن محمد الخلال",
       "has_id": NaN
     },
@@ -213,7 +213,7 @@
       "relationship_type": "direct_narrator",
       "context": "questioner",
       "full_text": "شیخ الاسلام گفت: که بوصالح حدثانی گوید نام وی هارون کی در خانهٔ بوالخیر تیتانی شدم بزیارت، مرا گفت: اکنون سفر کجا میکنی؟ ... بوصالح گفت: ای شیخ! حج و غزا میگوئی؟",
-      "person_id": 826,
+      "person_id": 905,
       "canonical_name": "أبو صالح الحدثاني",
       "has_id": NaN
     },
@@ -221,7 +221,7 @@
       "name": "حسن",
       "relationship_type": "direct_narrator",
       "full_text": "حسن گوید خادم بوالخیر تیناتی: که روزی شیخ نشسته بود گفت و علیکم السلام.",
-      "person_id": 1443,
+      "person_id": 1505,
       "canonical_name": "حسن",
       "has_id": NaN
     },
@@ -230,7 +230,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "son",
       "full_text": "شیخ الاسلام گفت: که بواخیر تیتانی را پسری بود عیسی نام",
-      "person_id": 2144,
+      "person_id": 2210,
       "canonical_name": "عيسي",
       "has_id": NaN
     }

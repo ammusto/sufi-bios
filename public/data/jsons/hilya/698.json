@@ -14,15 +14,15 @@
       "chain": [
         {
           "name": "محمد بن الحسين اليقطيني",
-          "person_id": 2232,
+          "person_id": 2297,
           "canonical_name": "محمد بن الحسن بن علي اليقطيني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علي بن عبد الحميد العطائري",
-          "person_id": 2040,
-          "canonical_name": "علي بن عبد الحميد العطائري",
+          "person_id": 2109,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
           "has_id": 698,
           "subj_added": false
         }
@@ -35,15 +35,15 @@
       "chain": [
         {
           "name": "محمد بن إبراهيم",
-          "person_id": 2269,
+          "person_id": 2334,
           "canonical_name": "محمد بن إبراهيم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علي بن عبد الحميد العطائري",
-          "person_id": 2040,
-          "canonical_name": "علي بن عبد الحميد العطائري",
+          "person_id": 2109,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
           "has_id": 698,
           "subj_added": false
         }
@@ -56,15 +56,15 @@
       "chain": [
         {
           "name": "أبو الحسن السري بن المغلس السقطي",
-          "person_id": 161,
+          "person_id": 183,
           "canonical_name": "السري السقطي",
           "has_id": 236,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2040,
-          "canonical_name": "علي بن عبد الحميد العطائري",
+          "person_id": 2109,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
           "has_id": 698,
           "subj_added": true
         }
@@ -77,63 +77,63 @@
       "chain": [
         {
           "name": "محمد بن علي بن عاصم",
-          "person_id": 2419,
+          "person_id": 2481,
           "canonical_name": "محمد بن علي بن عاصم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علي بن عبد الحميد العطائري",
-          "person_id": 2040,
-          "canonical_name": "علي بن عبد الحميد العطائري",
+          "person_id": 2109,
+          "canonical_name": "علي بن عبد الحميد الغضائري",
           "has_id": 698,
           "subj_added": false
         },
         {
           "name": "سوار بن عبد الله",
-          "person_id": 1649,
+          "person_id": 1711,
           "canonical_name": "سوار بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "معتمر بن سليمان",
-          "person_id": 2520,
+          "person_id": 2580,
           "canonical_name": "معتمر بن سليمان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سفيان الثوري",
-          "person_id": 1607,
+          "person_id": 1668,
           "canonical_name": "سفيان الثوري",
           "has_id": 598,
           "subj_added": false
         },
         {
           "name": "معاوية بن صالح",
-          "person_id": 2518,
+          "person_id": 2578,
           "canonical_name": "معاوية بن صالح",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن ربيعة",
-          "person_id": 2349,
+          "person_id": 2413,
           "canonical_name": "محمد بن ربيعة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن عامر",
-          "person_id": 1834,
+          "person_id": 1902,
           "canonical_name": "عبد الله بن عامر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "معاوية",
-          "person_id": 2518,
+          "person_id": 2578,
           "canonical_name": "معاوية بن صالح",
           "has_id": NaN,
           "subj_added": false
@@ -151,7 +151,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "سمعته يقول",
         "full_text": "دققت على أبي الحسن السري بن المغلس السقطي بابه فسمعته يقول: اللهم من شغلني عنك فاشغله بك عني.",
-        "person_id": 161,
+        "person_id": 183,
         "canonical_name": "السري السقطي",
         "has_id": 236
       },
@@ -160,7 +160,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "ثنا",
         "full_text": "ثنا سوار بن عبد الله",
-        "person_id": 1649,
+        "person_id": 1711,
         "canonical_name": "سوار بن عبد الله",
         "has_id": NaN
       }
@@ -171,7 +171,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "سمعنا",
         "full_text": "سمعت محمد بن الحسين اليقطيني ومحمد بن إبراهيم يقولان سمعنا علي بن عبد الحميد العطائري يقول",
-        "person_id": 2232,
+        "person_id": 2297,
         "canonical_name": "محمد بن الحسن بن علي اليقطيني",
         "has_id": NaN
       },
@@ -180,7 +180,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "سمعنا",
         "full_text": "سمعت محمد بن الحسين اليقطيني ومحمد بن إبراهيم يقولان سمعنا علي بن عبد الحميد العطائري يقول",
-        "person_id": 2269,
+        "person_id": 2334,
         "canonical_name": "محمد بن إبراهيم",
         "has_id": NaN
       },
@@ -189,7 +189,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "ثنا",
         "full_text": "حدثنا محمد بن علي بن عاصم ثنا علي بن عبد الحميد العطائري - وكان من الأبدال -",
-        "person_id": 2419,
+        "person_id": 2481,
         "canonical_name": "محمد بن علي بن عاصم",
         "has_id": NaN
       }
@@ -201,7 +201,7 @@
       "name": "محمد بن الحسين اليقطيني",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن الحسين اليقطيني ومحمد بن إبراهيم يقولان سمعنا علي بن عبد الحميد العطائري يقول",
-      "person_id": 2232,
+      "person_id": 2297,
       "canonical_name": "محمد بن الحسن بن علي اليقطيني",
       "has_id": NaN
     },
@@ -209,7 +209,7 @@
       "name": "محمد بن إبراهيم",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن الحسين اليقطيني ومحمد بن إبراهيم يقولان سمعنا علي بن عبد الحميد العطائري يقول",
-      "person_id": 2269,
+      "person_id": 2334,
       "canonical_name": "محمد بن إبراهيم",
       "has_id": NaN
     },
@@ -217,7 +217,7 @@
       "name": "محمد بن علي بن عاصم",
       "relationship_type": "narrator",
       "full_text": "حدثنا محمد بن علي بن عاصم ثنا علي بن عبد الحميد العطائري - وكان من الأبدال -",
-      "person_id": 2419,
+      "person_id": 2481,
       "canonical_name": "محمد بن علي بن عاصم",
       "has_id": NaN
     },
@@ -225,7 +225,7 @@
       "name": "أبو الحسن السري بن المغلس السقطي",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "دققت على أبي الحسن السري بن المغلس السقطي بابه فسمعته يقول: اللهم من شغلني عنك فاشغله بك عني.",
-      "person_id": 161,
+      "person_id": 183,
       "canonical_name": "السري السقطي",
       "has_id": 236
     }

@@ -8,10 +8,17 @@
       "chain": [
         {
           "name": "أبا محمد بن حيان",
-          "person_id": 1050,
+          "person_id": 1116,
           "canonical_name": "أبو محمد بن حيان",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2622,
+          "canonical_name": "موسى بن عبد الرحمن الخزاز",
+          "has_id": 817,
+          "subj_added": true
         }
       ],
       "type": "single_informant",
@@ -22,70 +29,70 @@
       "chain": [
         {
           "name": "عبد الله محمد بن جعفر",
-          "person_id": 1889,
+          "person_id": 1958,
           "canonical_name": "عبد الله محمد بن جعفر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن يحيى بن منده",
-          "person_id": 2471,
+          "person_id": 2532,
           "canonical_name": "محمد بن يحيى بن منده",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "موسى بن عبد الرحمن",
-          "person_id": 2563,
-          "canonical_name": "موسى بن عبد الرحمن",
-          "has_id": NaN,
+          "person_id": 2622,
+          "canonical_name": "موسى بن عبد الرحمن الخزاز",
+          "has_id": 817,
           "subj_added": false
         },
         {
           "name": "أبيه",
-          "person_id": 1149,
+          "person_id": 1212,
           "canonical_name": "أبوه",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "النعمان",
-          "person_id": 247,
+          "person_id": 273,
           "canonical_name": "النعمان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سفيان",
-          "person_id": 1606,
+          "person_id": 1667,
           "canonical_name": "سفيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمرو بن دينار",
-          "person_id": 2123,
+          "person_id": 2189,
           "canonical_name": "عمرو بن دينار",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي الزبير",
-          "person_id": 478,
+          "person_id": 536,
           "canonical_name": "أبو الزبير",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "جابر",
-          "person_id": 1372,
+          "person_id": 1434,
           "canonical_name": "جابر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "النبي ﷺ",
-          "person_id": 246,
+          "person_id": 272,
           "canonical_name": "النبي",
           "has_id": NaN,
           "subj_added": false
@@ -106,7 +113,7 @@
       "name": "أبا محمد بن حيان",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا محمد بن حيان يقول",
-      "person_id": 1050,
+      "person_id": 1116,
       "canonical_name": "أبو محمد بن حيان",
       "has_id": NaN
     },
@@ -114,7 +121,7 @@
       "name": "محمد بن يحيى بن منده",
       "relationship_type": "narrator",
       "full_text": "ثنا محمد بن يحيى بن منده ثنا موسى بن عبد الرحمن",
-      "person_id": 2471,
+      "person_id": 2532,
       "canonical_name": "محمد بن يحيى بن منده",
       "has_id": NaN
     }

@@ -8,21 +8,21 @@
       "chain": [
         {
           "name": "محمد بن أحمد بن محمد البغدادي",
-          "person_id": 2315,
+          "person_id": 2379,
           "canonical_name": "محمد بن أحمد بن محمد البغدادي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "جعفر بن عبد الله الدينوري",
-          "person_id": 1402,
+          "person_id": 1462,
           "canonical_name": "جعفر بن عبد الله الدينوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا حمزة",
-          "person_id": 763,
+          "person_id": 840,
           "canonical_name": "أبو حمزة",
           "has_id": NaN,
           "subj_added": false
@@ -30,9 +30,16 @@
         {
           "name": "ابن دينار الجعفي",
           "has_id": NaN,
-          "person_id": 97,
-          "canonical_name": "الحسن بن علي بن شهريار",
+          "person_id": 28,
+          "canonical_name": "ابن دينار الجعفي",
           "subj_added": false
+        },
+        {
+          "person_id": 1893,
+          "canonical_name": "عبد الله بن دينار",
+          "has_id": 663,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -50,7 +57,7 @@
       "name": "أبا حمزة",
       "relationship_type": "questioner",
       "full_text": "قلت لابن دينار الجعفي: أوصني",
-      "person_id": 763,
+      "person_id": 840,
       "canonical_name": "أبو حمزة",
       "has_id": NaN
     }

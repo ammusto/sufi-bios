@@ -38,49 +38,49 @@
       "chain": [
         {
           "name": "أبو جعفر أحمد بن إبراهيم بن يوسف",
-          "person_id": 744,
+          "person_id": 820,
           "canonical_name": "أبو جعفر أحمد بن إبراهيم بن يوسف",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو طاهر سهل بن عبد الله",
-          "person_id": 833,
-          "canonical_name": "أبو طاهر سهل بن عبد الله",
-          "has_id": NaN,
+          "person_id": 1701,
+          "canonical_name": "سهل بن عبد الله بن الفرحان",
+          "has_id": 606,
           "subj_added": false
         },
         {
           "name": "أبو أيوب سليمان بن عبد الرحمن الدمشقي",
-          "person_id": 605,
+          "person_id": 677,
           "canonical_name": "أبو أيوب سليمان بن عبد الرحمن الدمشقي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الوليد بن مسلم",
-          "person_id": 258,
+          "person_id": 284,
           "canonical_name": "الوليد بن مسلم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عفير بن معدان أبو كامل",
-          "person_id": 1973,
-          "canonical_name": "عفير بن معدان أبو كامل",
+          "person_id": 2042,
+          "canonical_name": "عفير بن معدان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سليم بن عامر",
-          "person_id": 1619,
+          "person_id": 1680,
           "canonical_name": "سليم بن عامر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو أمامة",
-          "person_id": 603,
+          "person_id": 674,
           "canonical_name": "أبو أمامة",
           "has_id": NaN,
           "subj_added": false
@@ -94,49 +94,49 @@
       "chain": [
         {
           "name": "أحمد بن إبراهيم",
-          "person_id": 1171,
+          "person_id": 1235,
           "canonical_name": "أحمد بن إبراهيم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سهل بن عبد الله",
-          "person_id": 1639,
+          "person_id": 1700,
           "canonical_name": "سهل بن عبد الله التستري",
           "has_id": 605,
           "subj_added": false
         },
         {
           "name": "هشام بن عمار",
-          "person_id": 2601,
+          "person_id": 2661,
           "canonical_name": "هشام بن عمار",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بقية بن الوليد",
-          "person_id": 1348,
+          "person_id": 1409,
           "canonical_name": "بقية بن الوليد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يوسف بن كثير",
-          "person_id": 2680,
+          "person_id": 2738,
           "canonical_name": "يوسف بن كثير",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "نوح بن ذكوان",
-          "person_id": 2588,
+          "person_id": 2648,
           "canonical_name": "نوح بن ذكوان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن",
-          "person_id": 75,
+          "person_id": 91,
           "canonical_name": "الحسن",
           "has_id": NaN,
           "subj_added": false
@@ -150,42 +150,42 @@
       "chain": [
         {
           "name": "أحمد بن إبراهيم",
-          "person_id": 1171,
+          "person_id": 1235,
           "canonical_name": "أحمد بن إبراهيم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سهل بن عبد الله",
-          "person_id": 1639,
+          "person_id": 1700,
           "canonical_name": "سهل بن عبد الله التستري",
           "has_id": 605,
           "subj_added": false
         },
         {
           "name": "محمد بن أبي السري",
-          "person_id": 2285,
+          "person_id": 2349,
           "canonical_name": "محمد بن أبي السري العسقلاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بقية",
-          "person_id": 1348,
+          "person_id": 1409,
           "canonical_name": "بقية بن الوليد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بن الهيعة",
-          "person_id": 1361,
+          "person_id": 1422,
           "canonical_name": "بن الهيعة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "دراج",
-          "person_id": 397,
+          "person_id": 501,
           "canonical_name": "أبو الحسين الدراج",
           "has_id": 318,
           "subj_added": false
@@ -193,20 +193,20 @@
         {
           "name": "ابن أبي السمح",
           "has_id": NaN,
-          "person_id": 92,
+          "person_id": 110,
           "canonical_name": "الحسن بن علوية الدامغاني",
           "subj_added": false
         },
         {
           "name": "أبو الهيثم",
-          "person_id": 565,
+          "person_id": 630,
           "canonical_name": "أبو الهيثم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو سعيد الخدري",
-          "person_id": 800,
+          "person_id": 876,
           "canonical_name": "أبو سعيد الخدري",
           "has_id": NaN,
           "subj_added": false
@@ -226,8 +226,8 @@
         "relationship_type": "peer",
         "relationship_phrase": "لقى",
         "full_text": "لقى أحمد بن عصام الأنطاكي وأحمد بن أبي الحواري وأبا يوسف الغسولي وعبد الله، بن خبيق ونظراءهم بالشام",
-        "person_id": 1217,
-        "canonical_name": "أحمد بن عصام الأنطاكي",
+        "person_id": 1272,
+        "canonical_name": "أحمد بن عاصم الأنطاكي",
         "has_id": 446
       },
       {
@@ -235,7 +235,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "لقى",
         "full_text": "لقى أحمد بن عصام الأنطاكي وأحمد بن أبي الحواري وأبا يوسف الغسولي وعبد الله، بن خبيق ونظراءهم بالشام",
-        "person_id": 1177,
+        "person_id": 1241,
         "canonical_name": "أحمد بن أبي الحواري",
         "has_id": 442
       },
@@ -244,7 +244,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "لقى",
         "full_text": "لقى أحمد بن عصام الأنطاكي وأحمد بن أبي الحواري وأبا يوسف الغسولي وعبد الله، بن خبيق ونظراءهم بالشام",
-        "person_id": 1147,
+        "person_id": 1211,
         "canonical_name": "أبو يوسف الغسولي",
         "has_id": NaN
       },
@@ -253,7 +253,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "لقى",
         "full_text": "لقى أحمد بن عصام الأنطاكي وأحمد بن أبي الحواري وأبا يوسف الغسولي وعبد الله، بن خبيق ونظراءهم بالشام",
-        "person_id": 1057,
+        "person_id": 1123,
         "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
         "has_id": 661
       }
@@ -264,7 +264,7 @@
       "name": "أبو أمامة",
       "relationship_type": "narrator",
       "full_text": "عن أبي أمامة قال",
-      "person_id": 603,
+      "person_id": 674,
       "canonical_name": "أبو أمامة",
       "has_id": NaN
     },
@@ -272,7 +272,7 @@
       "name": "الحسن",
       "relationship_type": "narrator",
       "full_text": "عن الحسن.",
-      "person_id": 75,
+      "person_id": 91,
       "canonical_name": "الحسن",
       "has_id": NaN
     },
@@ -280,7 +280,7 @@
       "name": "أبو سعيد الخدري",
       "relationship_type": "narrator",
       "full_text": "عن أبي سعيد الخدري",
-      "person_id": 800,
+      "person_id": 876,
       "canonical_name": "أبو سعيد الخدري",
       "has_id": NaN
     }

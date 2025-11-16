@@ -30,7 +30,7 @@
       "chain": [
         {
           "name": "بوسعید مالینی",
-          "person_id": 796,
+          "person_id": 872,
           "canonical_name": "أبو سعد الماليني",
           "has_id": NaN,
           "subj_added": false
@@ -44,7 +44,7 @@
       "chain": [
         {
           "name": "شیخ بوسعید",
-          "person_id": 798,
+          "person_id": 874,
           "canonical_name": "أبو سعيد",
           "has_id": NaN,
           "subj_added": false
@@ -74,7 +74,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد ابوالمظفر کرمانشاهی",
-        "person_id": 560,
+        "person_id": 625,
         "canonical_name": "أبو المظفر الكرمانشاهي",
         "has_id": NaN
       }
@@ -87,7 +87,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت که",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -96,7 +96,7 @@
       "relationship_type": "direct_narrator",
       "context": "questioner",
       "full_text": "بوسعید مالینی ٭ حافظ گوید: کی بر بالین شیخ عباس بن شاعر بودم و او محتضر بود گفتم: چونست حال تو؟",
-      "person_id": 796,
+      "person_id": 872,
       "canonical_name": "أبو سعد الماليني",
       "has_id": NaN
     },
@@ -105,7 +105,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "دیدار",
       "full_text": "من یک تن دیدم کی ویرا دیده سید بوده، شیخ بوالقسم بوسلمه باوردی خطیب ٭",
-      "person_id": 546,
+      "person_id": 609,
       "canonical_name": "أبو القاسم باوردي",
       "has_id": NaN
     }

@@ -14,14 +14,14 @@
       "chain": [
         {
           "name": "أبا عمرو العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا يعقوب النهرجوري",
-          "person_id": 1137,
+          "person_id": 1202,
           "canonical_name": "أبو يعقوب النهرجوري",
           "has_id": 437,
           "subj_added": false
@@ -42,7 +42,7 @@
       "name": "أبا عمرو العثماني",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا عمرو العثماني يقول",
-      "person_id": 1021,
+      "person_id": 1089,
       "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
       "has_id": NaN
     },
@@ -51,7 +51,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "questioner",
       "full_text": "فقال الرجل: لم تقول هذا أيها الشيخ؟",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     }

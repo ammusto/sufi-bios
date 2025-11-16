@@ -8,38 +8,45 @@
       "chain": [
         {
           "name": "محمد بن إبراهيم",
-          "person_id": 2272,
+          "person_id": 2336,
           "canonical_name": "محمد بن إبراهيم بن أبان السراج",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الواحد بن أحمد",
-          "person_id": 1904,
+          "person_id": 1972,
           "canonical_name": "عبد الواحد بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو الفرج بن بكر",
-          "person_id": 519,
+          "person_id": 581,
           "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد العزيز بن أحمد",
-          "person_id": 1772,
+          "person_id": 1841,
           "canonical_name": "عبد العزيز بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو موسى الطويل البصري",
-          "person_id": 1089,
+          "person_id": 1153,
           "canonical_name": "أبو موسى الطويل البصري",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1724,
+          "canonical_name": "شبل المدري",
+          "has_id": 616,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -57,7 +64,7 @@
       "name": "أبو موسى الطويل البصري",
       "relationship_type": "narrator",
       "full_text": "عن أبي موسى الطويل البصري",
-      "person_id": 1089,
+      "person_id": 1153,
       "canonical_name": "أبو موسى الطويل البصري",
       "has_id": NaN
     },
@@ -66,7 +73,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "زوجة",
       "full_text": "وقع في حجر امرأة شبل",
-      "person_id": 263,
+      "person_id": 289,
       "canonical_name": "امرأة شبل",
       "has_id": NaN
     }

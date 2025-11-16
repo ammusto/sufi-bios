@@ -58,7 +58,7 @@
       "chain": [
         {
           "name": "معتز",
-          "person_id": 1080,
+          "person_id": 1146,
           "canonical_name": "أبو معتز",
           "has_id": 766,
           "subj_added": false
@@ -82,7 +82,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد جنید و ابراهیم خواص",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -91,7 +91,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد جنید و ابراهیم خواص",
-        "person_id": 278,
+        "person_id": 640,
         "canonical_name": "أبو إسحاق إبراهيم الخواص",
         "has_id": 268
       },
@@ -100,7 +100,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده",
         "full_text": "و با نوری و رویم و سمنون و جریری صحبت کرده",
-        "person_id": 452,
+        "person_id": 510,
         "canonical_name": "أبو الحسين النوري",
         "has_id": 439
       },
@@ -109,7 +109,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده",
         "full_text": "و با نوری و رویم و سمنون و جریری صحبت کرده",
-        "person_id": 1553,
+        "person_id": 1615,
         "canonical_name": "رويم بن أحمد",
         "has_id": 578
       },
@@ -118,7 +118,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده",
         "full_text": "و با نوری و رویم و سمنون و جریری صحبت کرده",
-        "person_id": 1634,
+        "person_id": 1695,
         "canonical_name": "سمنون بن حمزة المحب",
         "has_id": 603
       },
@@ -127,7 +127,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده",
         "full_text": "و با نوری و رویم و سمنون و جریری صحبت کرده",
-        "person_id": 1035,
+        "person_id": 1104,
         "canonical_name": "أبو محمد الجريري",
         "has_id": 431
       },
@@ -136,7 +136,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "پیر",
         "full_text": "پیر شیخ بوالعباس نهاوندی",
-        "person_id": 499,
+        "person_id": 560,
         "canonical_name": "أبو العباس أحمد بن محمد بن الفضل النهاوندي",
         "has_id": 53
       }
@@ -147,7 +147,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "از وی حدیث داشت",
         "full_text": "و از وی حدیث داشت قاضی بامنصور هروی ببغداد دیده بود و آن حدیث ما را سماعت.",
-        "person_id": 272,
+        "person_id": 299,
         "canonical_name": "إبراهيم الباخرزي",
         "has_id": NaN
       }
@@ -159,7 +159,7 @@
       "name": "یک تن",
       "relationship_type": "narrator",
       "full_text": "که من یک تن دیدم که ویرا دیده بود",
-      "person_id": 2668,
+      "person_id": 2726,
       "canonical_name": "يك تن",
       "has_id": NaN
     },
@@ -167,7 +167,7 @@
       "name": "قاضی بامنصور هروی",
       "relationship_type": "narrator",
       "full_text": "و از وی حدیث داشت قاضی بامنصور هروی ببغداد دیده بود و آن حدیث ما را سماعت.",
-      "person_id": 272,
+      "person_id": 299,
       "canonical_name": "إبراهيم الباخرزي",
       "has_id": NaN
     },
@@ -176,7 +176,7 @@
       "relationship_type": "interlocutor",
       "context": "addressed by subject",
       "full_text": "وی گفت مردی را: کن شریف الهمة فان الهمم تبلغ بالرجل لاالمجاهدات.",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -184,7 +184,7 @@
       "name": "معتز",
       "relationship_type": "narrator",
       "full_text": "که معتز گفت فرامن: که صوفی نبود، اربود نه صوفی بود.",
-      "person_id": 1080,
+      "person_id": 1146,
       "canonical_name": "أبو معتز",
       "has_id": 766
     }

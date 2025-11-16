@@ -17,7 +17,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "لزم",
         "full_text": "وبلغني أنه لزم سريا في داره بالبصرة ثلاثين سنة متعبدا فيها",
-        "person_id": 161,
+        "person_id": 183,
         "canonical_name": "السري السقطي",
         "has_id": 236
       }
@@ -29,7 +29,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحبه",
         "full_text": "وصحبه والدي بالبصرة قبل انتقاله إلى السوس",
-        "person_id": 2615,
+        "person_id": 2675,
         "canonical_name": "والدي",
         "has_id": NaN
       }

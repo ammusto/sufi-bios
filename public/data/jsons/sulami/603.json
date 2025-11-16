@@ -24,28 +24,28 @@
       "chain": [
         {
           "name": "عبد الْوَاحِد بن بكر",
-          "person_id": 1908,
+          "person_id": 1976,
           "canonical_name": "عبد الواحد بن بكر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مُحَمَّد بن عبد الْعَزِيز",
-          "person_id": 2374,
+          "person_id": 2437,
           "canonical_name": "محمد بن عبد العزيز",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا الْحسن بن زرعان",
-          "person_id": 420,
+          "person_id": 474,
           "canonical_name": "أبو الحسن بن زرعان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سمنون",
-          "person_id": 1634,
+          "person_id": 1695,
           "canonical_name": "سمنون بن حمزة المحب",
           "has_id": 603,
           "subj_added": false
@@ -59,21 +59,21 @@
       "chain": [
         {
           "name": "أَبَا بكر الرَّازِيّ",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر العجان",
-          "person_id": 636,
+          "person_id": 706,
           "canonical_name": "أبو بكر العجان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سمنون",
-          "person_id": 1634,
+          "person_id": 1695,
           "canonical_name": "سمنون بن حمزة المحب",
           "has_id": 603,
           "subj_added": false
@@ -86,36 +86,36 @@
     {
       "chain": [
         {
-          "name": "عَليّ بن سعيد الثغري",
-          "person_id": 2034,
+          "name": "",
+          "person_id": 2105,
           "canonical_name": "علي بن سعيد الثغري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عَليّ بن إِبْرَاهِيم الثَّقَفِيّ",
-          "person_id": 2011,
+          "person_id": 2082,
           "canonical_name": "علي بن إبراهيم الثّقفي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمر بن رفيل",
-          "person_id": 2098,
+          "person_id": 2164,
           "canonical_name": "عمر بن رفيل",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا الْقَاسِم الْهَاشِمِي",
-          "person_id": 544,
+          "person_id": 607,
           "canonical_name": "أبو القاسم الهاشمي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سمنون",
-          "person_id": 1634,
+          "person_id": 1695,
           "canonical_name": "سمنون بن حمزة المحب",
           "has_id": 603,
           "subj_added": false
@@ -129,28 +129,28 @@
       "chain": [
         {
           "name": "عَليّ بن سعيد",
-          "person_id": 2033,
-          "canonical_name": "علي بن سعيد",
+          "person_id": 2105,
+          "canonical_name": "علي بن سعيد الثغري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَحْمد بن عَطاء",
-          "person_id": 1219,
+          "person_id": 1282,
           "canonical_name": "أحمد بن عطاء",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم بن المولد",
-          "person_id": 298,
+          "person_id": 643,
           "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
           "has_id": 273,
           "subj_added": false
         },
         {
           "name": "سمنون",
-          "person_id": 1634,
+          "person_id": 1695,
           "canonical_name": "سمنون بن حمزة المحب",
           "has_id": 603,
           "subj_added": false
@@ -164,21 +164,21 @@
       "chain": [
         {
           "name": "أَبُو بكر الرَّازِيّ",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبُو بكر الْحَرْبِيّ",
-          "person_id": 614,
+          "person_id": 686,
           "canonical_name": "أبو بكر الحربي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سمنون",
-          "person_id": 1634,
+          "person_id": 1695,
           "canonical_name": "سمنون بن حمزة المحب",
           "has_id": 603,
           "subj_added": false
@@ -192,28 +192,28 @@
       "chain": [
         {
           "name": "أَبَا الْعَبَّاس أَحْمد بن مُحَمَّد زَكَرِيَّا",
-          "person_id": 501,
+          "person_id": 563,
           "canonical_name": "أبو العباس أحمد بن محمد زكريا",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عَليّ بن الْحُسَيْن بن طفان",
-          "person_id": 2005,
+          "person_id": 2076,
           "canonical_name": "علي بن الحسين بن طفان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بعض أَصْحَابنَا",
-          "person_id": 1338,
+          "person_id": 1400,
           "canonical_name": "بعض أصحابنا",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1634,
+          "person_id": 1695,
           "canonical_name": "سمنون بن حمزة المحب",
           "has_id": 603,
           "subj_added": true
@@ -227,21 +227,21 @@
       "chain": [
         {
           "name": "أَبَا نصر الطوسي",
-          "person_id": 1108,
+          "person_id": 1172,
           "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا الطّيب العكي",
-          "person_id": 481,
+          "person_id": 539,
           "canonical_name": "أبو الطيب العكي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سمنون",
-          "person_id": 1634,
+          "person_id": 1695,
           "canonical_name": "سمنون بن حمزة المحب",
           "has_id": 603,
           "subj_added": false
@@ -255,21 +255,21 @@
       "chain": [
         {
           "name": "مُحَمَّد بن عبد الله بن عبد الْعَزِيز",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبُو جَعْفَر الفرغاني",
-          "person_id": 737,
+          "person_id": 811,
           "canonical_name": "أبو جعفر الفرغاني",
           "has_id": 396,
           "subj_added": false
         },
         {
           "name": "سمنون",
-          "person_id": 1634,
+          "person_id": 1695,
           "canonical_name": "سمنون بن حمزة المحب",
           "has_id": 603,
           "subj_added": false
@@ -283,21 +283,21 @@
       "chain": [
         {
           "name": "مُحَمَّد",
-          "person_id": 2374,
+          "person_id": 2437,
           "canonical_name": "محمد بن عبد العزيز",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبُو جَعْفَر",
-          "person_id": 736,
-          "canonical_name": "أبو جعفر الفرغانى",
+          "person_id": 811,
+          "canonical_name": "أبو جعفر الفرغاني",
           "has_id": 396,
           "subj_added": false
         },
         {
           "name": "سمنون",
-          "person_id": 1634,
+          "person_id": 1695,
           "canonical_name": "سمنون بن حمزة المحب",
           "has_id": 603,
           "subj_added": false
@@ -311,21 +311,21 @@
       "chain": [
         {
           "name": "عَليّ بن أَحْمد بن جَعْفَر",
-          "person_id": 2019,
+          "person_id": 2090,
           "canonical_name": "علي بن أحمد بن جعفر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابْن فراس",
-          "person_id": 31,
+          "person_id": 45,
           "canonical_name": "ابن فراس",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1634,
+          "person_id": 1695,
           "canonical_name": "سمنون بن حمزة المحب",
           "has_id": 603,
           "subj_added": true
@@ -339,7 +339,7 @@
       "chain": [
         {
           "name": "سمنون",
-          "person_id": 1634,
+          "person_id": 1695,
           "canonical_name": "سمنون بن حمزة المحب",
           "has_id": 603,
           "subj_added": false
@@ -353,21 +353,21 @@
       "chain": [
         {
           "name": "مُحَمَّد بن عبد الله",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبُو جَعْفَر",
-          "person_id": 736,
-          "canonical_name": "أبو جعفر الفرغانى",
+          "person_id": 811,
+          "canonical_name": "أبو جعفر الفرغاني",
           "has_id": 396,
           "subj_added": false
         },
         {
           "name": "سمنون",
-          "person_id": 1634,
+          "person_id": 1695,
           "canonical_name": "سمنون بن حمزة المحب",
           "has_id": 603,
           "subj_added": false
@@ -387,7 +387,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب سريا السَّقطِي وَمُحَمّد بن عَليّ القصاب وَأَبا أَحْمد القلانسي",
-        "person_id": 161,
+        "person_id": 183,
         "canonical_name": "السري السقطي",
         "has_id": 236
       },
@@ -396,7 +396,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب سريا السَّقطِي وَمُحَمّد بن عَليّ القصاب وَأَبا أَحْمد القلانسي",
-        "person_id": 2412,
+        "person_id": 2474,
         "canonical_name": "محمد بن علي القصاب",
         "has_id": NaN
       },
@@ -405,7 +405,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب سريا السَّقطِي وَمُحَمّد بن عَليّ القصاب وَأَبا أَحْمد القلانسي",
-        "person_id": 591,
+        "person_id": 662,
         "canonical_name": "أبو أحمد القلانسي",
         "has_id": 371
       }
@@ -416,7 +416,7 @@
       "name": "أَبَا الْحسن بن زرعان",
       "relationship_type": "narrator",
       "full_text": "سَمِعت أَبَا الْحسن بن زرعان يَقُول",
-      "person_id": 420,
+      "person_id": 474,
       "canonical_name": "أبو الحسن بن زرعان",
       "has_id": NaN
     },
@@ -424,7 +424,7 @@
       "name": "أَبَا بكر العجان",
       "relationship_type": "narrator",
       "full_text": "سَمِعت أَبَا بكر العجان يَقُول",
-      "person_id": 636,
+      "person_id": 706,
       "canonical_name": "أبو بكر العجان",
       "has_id": NaN
     },
@@ -432,7 +432,7 @@
       "name": "أَبَا الْقَاسِم الْهَاشِمِي",
       "relationship_type": "narrator",
       "full_text": "سَمِعت أَبَا الْقَاسِم الْهَاشِمِي يَقُول",
-      "person_id": 544,
+      "person_id": 607,
       "canonical_name": "أبو القاسم الهاشمي",
       "has_id": NaN
     },
@@ -440,7 +440,7 @@
       "name": "إِبْرَاهِيم بن المولد",
       "relationship_type": "narrator",
       "full_text": "قَالَ إِبْرَاهِيم بن المولد",
-      "person_id": 298,
+      "person_id": 643,
       "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
       "has_id": 273
     },
@@ -448,7 +448,7 @@
       "name": "أَبُو بكر الْحَرْبِيّ",
       "relationship_type": "narrator",
       "full_text": "قَالَ أنشدي أَبُو بكر الْحَرْبِيّ",
-      "person_id": 614,
+      "person_id": 686,
       "canonical_name": "أبو بكر الحربي",
       "has_id": NaN
     },
@@ -456,7 +456,7 @@
       "name": "بعض أَصْحَابنَا",
       "relationship_type": "narrator",
       "full_text": "أَنْشدني بعض أَصْحَابنَا",
-      "person_id": 1338,
+      "person_id": 1400,
       "canonical_name": "بعض أصحابنا",
       "has_id": NaN
     },
@@ -464,7 +464,7 @@
       "name": "أَبَا الطّيب العكي",
       "relationship_type": "narrator",
       "full_text": "سَمِعت أَبَا الطّيب العكي يَقُول",
-      "person_id": 481,
+      "person_id": 539,
       "canonical_name": "أبو الطيب العكي",
       "has_id": NaN
     },
@@ -472,7 +472,7 @@
       "name": "أَبُو جَعْفَر الفرغاني",
       "relationship_type": "narrator",
       "full_text": "قَالَ أنشدنا أَبُو جَعْفَر الفرغاني",
-      "person_id": 737,
+      "person_id": 811,
       "canonical_name": "أبو جعفر الفرغاني",
       "has_id": 396
     },
@@ -480,15 +480,15 @@
       "name": "أَبُو جَعْفَر",
       "relationship_type": "narrator",
       "full_text": "قَالَ أنشدنا أَبُو جَعْفَر",
-      "person_id": 736,
-      "canonical_name": "أبو جعفر الفرغانى",
+      "person_id": 811,
+      "canonical_name": "أبو جعفر الفرغاني",
       "has_id": 396
     },
     {
       "name": "ابْن فراس",
       "relationship_type": "narrator",
       "full_text": "قَالَ أَنْشدني ابْن فراس",
-      "person_id": 31,
+      "person_id": 45,
       "canonical_name": "ابن فراس",
       "has_id": NaN
     }

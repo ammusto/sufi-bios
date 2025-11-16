@@ -1,5 +1,5 @@
 {
-  "bio_id": "409",
+  "bio_id": "139",
   "source": "hilya",
   "death_date": "",
   "geographical_locations": [
@@ -14,9 +14,9 @@
       "chain": [
         {
           "name": "أبو عبد الله",
-          "person_id": 852,
-          "canonical_name": "أبو عبد الله",
-          "has_id": NaN,
+          "person_id": 969,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
           "subj_added": false
         }
       ],
@@ -28,9 +28,9 @@
       "chain": [
         {
           "name": "أبو عبد الله",
-          "person_id": 852,
-          "canonical_name": "أبو عبد الله",
-          "has_id": NaN,
+          "person_id": 969,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
           "subj_added": false
         }
       ],
@@ -42,17 +42,24 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "محمد بن عبد الله الرازي",
-          "person_id": 2380,
+          "person_id": 2443,
           "canonical_name": "محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 969,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -63,17 +70,24 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "محمد بن عبد الله الرازي",
-          "person_id": 2380,
+          "person_id": 2443,
           "canonical_name": "محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 969,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -84,17 +98,24 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "محمد بن عبد الله الرازي",
-          "person_id": 2380,
+          "person_id": 2443,
           "canonical_name": "محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 969,
+          "canonical_name": "أبو عبد الله أحمد بن محمد بن سالم البصري",
+          "has_id": 139,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -109,7 +130,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "أستاده",
         "full_text": "سلك مسلك أستاده سهل وابنه أبي الحسن.",
-        "person_id": 1639,
+        "person_id": 1700,
         "canonical_name": "سهل بن عبد الله التستري",
         "has_id": 605
       },
@@ -118,7 +139,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "أستاده",
         "full_text": "سلك مسلك أستاده سهل وابنه أبي الحسن.",
-        "person_id": 6,
+        "person_id": 436,
         "canonical_name": "أبو الحسن",
         "has_id": NaN
       }
@@ -130,7 +151,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صاحب",
         "full_text": "صاحب سهل بن عبد الله التستري",
-        "person_id": 1639,
+        "person_id": 1700,
         "canonical_name": "سهل بن عبد الله التستري",
         "has_id": 605
       }
@@ -141,7 +162,7 @@
       "name": "محمد بن عبد الله الرازي",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن عبد الله الرازي يقول",
-      "person_id": 2380,
+      "person_id": 2443,
       "canonical_name": "محمد بن عبد الله الرازي",
       "has_id": NaN
     },
@@ -150,7 +171,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "questioner",
       "full_text": "سأل رجل أبا عبد الله بن سالم وأنا أسمع: أنحن مستعبدون بالكسب أو بالتوكل؟",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     }

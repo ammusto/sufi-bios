@@ -28,7 +28,7 @@
       "chain": [
         {
           "name": "بوعمرو نجید",
-          "person_id": 1015,
+          "person_id": 1083,
           "canonical_name": "أبو عمرو إسماعيل بن نجيد",
           "has_id": 176,
           "subj_added": false
@@ -42,7 +42,7 @@
       "chain": [
         {
           "name": "بوعثمان مغربی",
-          "person_id": 942,
+          "person_id": 1015,
           "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
           "has_id": 156,
           "subj_added": false
@@ -68,16 +68,16 @@
       "chain": [
         {
           "name": "کعبی",
-          "person_id": 221,
+          "person_id": 247,
           "canonical_name": "الكعبي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بوعمرو",
-          "person_id": 1005,
-          "canonical_name": "أبو عمرو",
-          "has_id": NaN,
+          "person_id": 1079,
+          "canonical_name": "أبو عمرو الزجاجي",
+          "has_id": 426,
           "subj_added": false
         }
       ],
@@ -89,16 +89,16 @@
       "chain": [
         {
           "name": "کعبی",
-          "person_id": 221,
+          "person_id": 247,
           "canonical_name": "الكعبي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بوعمرو",
-          "person_id": 1005,
-          "canonical_name": "أبو عمرو",
-          "has_id": NaN,
+          "person_id": 1079,
+          "canonical_name": "أبو عمرو الزجاجي",
+          "has_id": 426,
           "subj_added": false
         }
       ],
@@ -110,16 +110,16 @@
       "chain": [
         {
           "name": "کعبی",
-          "person_id": 221,
+          "person_id": 247,
           "canonical_name": "الكعبي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بوعمرو",
-          "person_id": 1005,
-          "canonical_name": "أبو عمرو",
-          "has_id": NaN,
+          "person_id": 1079,
+          "canonical_name": "أبو عمرو الزجاجي",
+          "has_id": 426,
           "subj_added": false
         }
       ],
@@ -135,7 +135,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "صحبت کرده با بوعثمان حیری و جنید و رویم و خواص",
-        "person_id": 932,
+        "person_id": 1013,
         "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
         "has_id": 419
       },
@@ -144,7 +144,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "صحبت کرده با بوعثمان حیری و جنید و رویم و خواص",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -153,7 +153,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "صحبت کرده با بوعثمان حیری و جنید و رویم و خواص",
-        "person_id": 1553,
+        "person_id": 1615,
         "canonical_name": "رويم بن أحمد",
         "has_id": 578
       },
@@ -162,7 +162,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "صحبت کرده با بوعثمان حیری و جنید و رویم و خواص",
-        "person_id": 278,
+        "person_id": 640,
         "canonical_name": "أبو إسحاق إبراهيم الخواص",
         "has_id": 268
       }
@@ -174,7 +174,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "مشایخ وقت ... در حلقه",
         "full_text": "و مشایخ وقت چون کتانی و بوالحسین مزین کبیر و صغیر و جز ایشان از مشایخ در حلقه، و صدر همه بوعمر و زجاج بود",
-        "person_id": 712,
+        "person_id": 786,
         "canonical_name": "أبو بكر محمد بن علي الكتاني",
         "has_id": 378
       },
@@ -183,7 +183,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "مشایخ وقت ... در حلقه",
         "full_text": "و مشایخ وقت چون کتانی و بوالحسین مزین کبیر و صغیر و جز ایشان از مشایخ در حلقه، و صدر همه بوعمر و زجاج بود",
-        "person_id": 451,
+        "person_id": 509,
         "canonical_name": "أبو الحسين المزين كبير و صغير",
         "has_id": 295
       }
@@ -195,7 +195,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "بوعمر و نجیدگوید: که بمکه بودم، و مشایخ وقت چون کتانی و بوالحسین مزین کبیر و صغیر و جز ایشان از مشایخ در حلقه، و صدر همه بوعمر و زجاج بود و چون سخن رفتی، حکم وی کردی و باو حوالت کردندی.",
-      "person_id": 1015,
+      "person_id": 1083,
       "canonical_name": "أبو عمرو إسماعيل بن نجيد",
       "has_id": 176
     },
@@ -204,7 +204,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "و بوعثمان مغربی گوید ویرا: و هومن السالکین و آیاته و فضایله اکثر من ان یحصی و یعد.",
-      "person_id": 942,
+      "person_id": 1015,
       "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
       "has_id": 156
     },
@@ -212,7 +212,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت: کی از بو عمرو زجاج پرسیدند: که مرد ازین باب سخن گوید، و آن حال و مقام او نبود، روا بود ییا نه؟ گفت: که تقصیر خود میداند، میان خود و او، روا بود.",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -220,7 +220,7 @@
       "name": "کعبی",
       "relationship_type": "questioner",
       "full_text": "کعبی از بوعمرو پرسید: کیف الطریق الی اللهّ؟",
-      "person_id": 221,
+      "person_id": 247,
       "canonical_name": "الكعبي",
       "has_id": NaN
     },
@@ -229,7 +229,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "son",
       "full_text": "و پسر را گفته بوبکر را: که هر موی که از من برگیری دانگی ترا دهم.",
-      "person_id": 610,
+      "person_id": 682,
       "canonical_name": "أبو بكر",
       "has_id": NaN
     },
@@ -238,7 +238,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "father",
       "full_text": "و پدر بوعمر و زجاجی از مشایخ است، نام وی ابرهیم بن یوسف بن محمد الزجاجی کنیه ابواسحق",
-      "person_id": 333,
+      "person_id": 359,
       "canonical_name": "إبراهيم بن يوسف بن محمد الزجاجي",
       "has_id": 12
     },
@@ -247,7 +247,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "companion_of_father",
       "full_text": "از مهینان اصحاب باحفص٭ بود",
-      "person_id": 759,
+      "person_id": 836,
       "canonical_name": "أبو حفص الحداد النيسابوري",
       "has_id": 715
     }

@@ -8,35 +8,35 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن محمد بن عمر",
-          "person_id": 1259,
+          "person_id": 1321,
           "canonical_name": "أحمد بن محمد بن عمر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن محمد بن سفيان",
-          "person_id": 1870,
+          "person_id": 1939,
           "canonical_name": "عبد الله بن محمد بن سفيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن العباس بن محمد",
-          "person_id": 2253,
+          "person_id": 2318,
           "canonical_name": "محمد بن العباس بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن معاوية الصوفي",
-          "person_id": 2452,
+          "person_id": 2513,
           "canonical_name": "محمد بن معاوية الصوفي",
           "has_id": 787,
           "subj_added": false
@@ -57,7 +57,7 @@
       "name": "محمد بن العباس بن محمد",
       "relationship_type": "narrator",
       "full_text": "قال حدثني محمد بن العباس بن محمد ثنا محمد بن معاوية الصوفي",
-      "person_id": 2253,
+      "person_id": 2318,
       "canonical_name": "محمد بن العباس بن محمد",
       "has_id": NaN
     },
@@ -65,7 +65,7 @@
       "name": "حكيم من الحكماء",
       "relationship_type": "questioner",
       "full_text": "فقال: يا معشر الأحياء ما يوقفكم بمدرجة الموتى؟",
-      "person_id": 1469,
+      "person_id": 1531,
       "canonical_name": "حكيم من الحكماء",
       "has_id": NaN
     },
@@ -73,7 +73,7 @@
       "name": "فتية من الحلماء",
       "relationship_type": "interlocutor",
       "full_text": "قالوا: قعدنا نعتبر.",
-      "person_id": 2167,
+      "person_id": 2233,
       "canonical_name": "فتية من الحلماء",
       "has_id": NaN
     }

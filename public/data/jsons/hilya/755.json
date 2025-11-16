@@ -8,28 +8,28 @@
       "chain": [
         {
           "name": "عبد الله بن محمد بن جعفر",
-          "person_id": 1868,
+          "person_id": 1937,
           "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن محمد بن العباس",
-          "person_id": 1864,
+          "person_id": 1934,
           "canonical_name": "عبد الله بن محمد بن العباس",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو تراب الزاهد",
-          "person_id": 721,
+          "person_id": 796,
           "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
           "has_id": 388,
           "subj_added": false
         },
         {
           "name": "مجاهد الصوفي",
-          "person_id": 2209,
+          "person_id": 2275,
           "canonical_name": "مجاهد الصوفي",
           "has_id": 755,
           "subj_added": false
@@ -51,7 +51,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "ثنا أبو تراب الزاهد قال قال مجاهد الصوفي",
-      "person_id": 721,
+      "person_id": 796,
       "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
       "has_id": 388
     }

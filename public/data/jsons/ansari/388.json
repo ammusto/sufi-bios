@@ -52,7 +52,7 @@
       "chain": [
         {
           "name": "ابوتراب النخشبی",
-          "person_id": 721,
+          "person_id": 796,
           "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
           "has_id": 388,
           "subj_added": false
@@ -66,23 +66,24 @@
       "chain": [
         {
           "name": "بوبکر زقاق",
-          "person_id": 625,
+          "person_id": 696,
           "canonical_name": "أبو بكر الزقاق",
           "has_id": 375,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 721,
+          "person_id": 796,
           "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
           "has_id": 388,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 721,
+          "name": "",
+          "person_id": 796,
           "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
-          "has_id": 388
+          "has_id": 388,
+          "subj_added": false
         }
       ],
       "type": "single_informant",
@@ -93,7 +94,7 @@
       "chain": [
         {
           "name": "بوتراب",
-          "person_id": 721,
+          "person_id": 796,
           "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
           "has_id": 388,
           "subj_added": false
@@ -107,7 +108,7 @@
       "chain": [
         {
           "name": "ابوتراب",
-          "person_id": 721,
+          "person_id": 796,
           "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
           "has_id": 388,
           "subj_added": false
@@ -121,23 +122,24 @@
       "chain": [
         {
           "name": "حصری",
-          "person_id": 394,
+          "person_id": 439,
           "canonical_name": "أبو الحسن الحصري",
           "has_id": 301,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 721,
+          "person_id": 796,
           "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
           "has_id": 388,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 721,
+          "name": "",
+          "person_id": 796,
           "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
-          "has_id": 388
+          "has_id": 388,
+          "subj_added": false
         }
       ],
       "type": "single_informant",
@@ -152,7 +154,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "بعلم و فتوت و توکل و زهد صحبت کرده با ابوحاتم عطار بصری و حاتم اصم بلخی",
-        "person_id": 751,
+        "person_id": 828,
         "canonical_name": "أبو حاتم العطّار البصري",
         "has_id": 109
       },
@@ -161,7 +163,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "بعلم و فتوت و توکل و زهد صحبت کرده با ابوحاتم عطار بصری و حاتم اصم بلخی",
-        "person_id": 1424,
+        "person_id": 1484,
         "canonical_name": "حاتم الأصم",
         "has_id": 505
       }
@@ -172,16 +174,16 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "استاذ ... بود",
         "full_text": "استاذ بوعبداللّه جلی بود",
-        "person_id": 901,
-        "canonical_name": "أبو عبد الله بن جلاء",
-        "has_id": NaN
+        "person_id": 971,
+        "canonical_name": "أبو عبد الله بن الجلاء",
+        "has_id": 410
       },
       {
         "name": "بو عبید بسری",
         "relationship_type": "teacher_of",
         "relationship_phrase": "باوی بماندند، با درویشی برفتند",
         "full_text": "دو تن باوی بماندند، با درویشی برفتند، یکی ازان بوعبداللهّ جلی، ددیگر بو عبید بسری، و دیگر همه بازگشتند.",
-        "person_id": 927,
+        "person_id": 1000,
         "canonical_name": "أبو عبيد بسري",
         "has_id": NaN
       }
@@ -192,7 +194,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اقران ویست و جزوی",
         "full_text": "درآن سال کی ذوالنون برفت از دنیا، از اقران ویست و جزوی.",
-        "person_id": 1523,
+        "person_id": 1586,
         "canonical_name": "ذو النون المصري",
         "has_id": 570
       }
@@ -203,7 +205,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -211,7 +213,7 @@
       "name": "بوبکر زقاق",
       "relationship_type": "narrator",
       "full_text": "و بوبکر زقاق گوید:",
-      "person_id": 625,
+      "person_id": 696,
       "canonical_name": "أبو بكر الزقاق",
       "has_id": 375
     },
@@ -219,7 +221,7 @@
       "name": "حصری",
       "relationship_type": "narrator",
       "full_text": "و حصریگوید:",
-      "person_id": 394,
+      "person_id": 439,
       "canonical_name": "أبو الحسن الحصري",
       "has_id": 301
     }

@@ -54,7 +54,7 @@
       "chain": [
         {
           "name": "شیخ بونصر احمد حاجی",
-          "person_id": 1102,
+          "person_id": 1166,
           "canonical_name": "أبو نصر أحمد الحاجي",
           "has_id": 207,
           "subj_added": false
@@ -80,7 +80,7 @@
       "chain": [
         {
           "name": "شیخ عمو",
-          "person_id": 1683,
+          "person_id": 1747,
           "canonical_name": "شيخ عمو",
           "has_id": 717,
           "subj_added": false
@@ -118,7 +118,7 @@
       "chain": [
         {
           "name": "شیخ عمو",
-          "person_id": 1683,
+          "person_id": 1747,
           "canonical_name": "شيخ عمو",
           "has_id": 717,
           "subj_added": false
@@ -132,7 +132,7 @@
       "chain": [
         {
           "name": "شیخ عمو",
-          "person_id": 1683,
+          "person_id": 1747,
           "canonical_name": "شيخ عمو",
           "has_id": 717,
           "subj_added": false
@@ -146,7 +146,7 @@
       "chain": [
         {
           "name": "شیخ عمو",
-          "person_id": 1683,
+          "person_id": 1747,
           "canonical_name": "شيخ عمو",
           "has_id": 717,
           "subj_added": false
@@ -166,7 +166,7 @@
       "chain": [
         {
           "name": "شیخ احمدکوفانی",
-          "person_id": 1158,
+          "person_id": 1222,
           "canonical_name": "أحمد الكوفاني",
           "has_id": 212,
           "subj_added": false
@@ -180,7 +180,7 @@
       "chain": [
         {
           "name": "شیخ احمدکوفانی",
-          "person_id": 1158,
+          "person_id": 1222,
           "canonical_name": "أحمد الكوفاني",
           "has_id": 212,
           "subj_added": false
@@ -194,7 +194,7 @@
       "chain": [
         {
           "name": "شیخ احمدکوفانی",
-          "person_id": 1158,
+          "person_id": 1222,
           "canonical_name": "أحمد الكوفاني",
           "has_id": 212,
           "subj_added": false
@@ -212,7 +212,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد کوکبی بود و جعفر خلدی،",
-        "person_id": 2199,
+        "person_id": 2265,
         "canonical_name": "كوكبي",
         "has_id": NaN
       },
@@ -221,7 +221,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد کوکبی بود و جعفر خلدی،",
-        "person_id": 1405,
+        "person_id": 1464,
         "canonical_name": "جعفر بن محمد الخلدي",
         "has_id": 495
       }
@@ -233,7 +233,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "ویرا دیده بود",
         "full_text": "و بندار و بشری٭ ویرا دیده بود،",
-        "person_id": 1362,
+        "person_id": 1423,
         "canonical_name": "بندار",
         "has_id": NaN
       },
@@ -242,7 +242,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "ویرا دیده بود",
         "full_text": "و بندار و بشری٭ ویرا دیده بود،",
-        "person_id": 1326,
+        "person_id": 1387,
         "canonical_name": "بشري",
         "has_id": NaN
       },
@@ -251,7 +251,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "هم دیده بود",
         "full_text": "شیخ احمدکوفانی٭ هم دیده بود.",
-        "person_id": 1158,
+        "person_id": 1222,
         "canonical_name": "أحمد الكوفاني",
         "has_id": 212
       }
@@ -262,7 +262,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -270,7 +270,7 @@
       "name": "شیخ بونصر احمد حاجی",
       "relationship_type": "narrator",
       "full_text": "شیخ بونصر احمد حاجی مرا گفت",
-      "person_id": 1102,
+      "person_id": 1166,
       "canonical_name": "أبو نصر أحمد الحاجي",
       "has_id": 207
     },
@@ -278,7 +278,7 @@
       "name": "شیخ عمو",
       "relationship_type": "narrator",
       "full_text": "شیخ عموگفت:",
-      "person_id": 1683,
+      "person_id": 1747,
       "canonical_name": "شيخ عمو",
       "has_id": 717
     },
@@ -286,7 +286,7 @@
       "name": "شیخ احمدکوفانی",
       "relationship_type": "narrator",
       "full_text": "در جعبهٔ من از شیخ احمدکوفانی این حکایت است",
-      "person_id": 1158,
+      "person_id": 1222,
       "canonical_name": "أحمد الكوفاني",
       "has_id": 212
     },
@@ -294,7 +294,7 @@
       "name": "یکی",
       "relationship_type": "questioner",
       "full_text": "یکی فرا شیخ سیروانی گفت: ای شیخ!",
-      "person_id": 2670,
+      "person_id": 2728,
       "canonical_name": "يكي",
       "has_id": NaN
     },
@@ -302,7 +302,7 @@
       "name": "شیخ سیروانی",
       "relationship_type": "interlocutor",
       "full_text": "شیخ سیروانی گفت: که رنج از پیر است ور پسر نه از پسر بر پیر",
-      "person_id": 165,
+      "person_id": 187,
       "canonical_name": "السيرواني",
       "has_id": NaN
     },
@@ -310,7 +310,7 @@
       "name": "بندار",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "و بندار و بشری٭ ویرا دیده بود،",
-      "person_id": 1362,
+      "person_id": 1423,
       "canonical_name": "بندار",
       "has_id": NaN
     },
@@ -318,7 +318,7 @@
       "name": "بشری٭",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "و بندار و بشری٭ ویرا دیده بود،",
-      "person_id": 1326,
+      "person_id": 1387,
       "canonical_name": "بشري",
       "has_id": NaN
     },
@@ -326,7 +326,7 @@
       "name": "عقیل بستی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "عقیل بستی از بست بیامد به حج خواست شد،",
-      "person_id": 1977,
+      "person_id": 2046,
       "canonical_name": "عقيل البستي",
       "has_id": NaN
     }

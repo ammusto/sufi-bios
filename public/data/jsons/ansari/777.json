@@ -20,14 +20,14 @@
       "chain": [
         {
           "name": "بوبکر واسطی",
-          "person_id": 653,
+          "person_id": 721,
           "canonical_name": "أبو بكر الواسطي",
           "has_id": 379,
           "subj_added": false
         },
         {
           "name": "محمدحسن جوهری",
-          "person_id": 2340,
+          "person_id": 2404,
           "canonical_name": "محمد بن حسن الجوهري",
           "has_id": 777,
           "subj_added": false
@@ -47,14 +47,14 @@
       "chain": [
         {
           "name": "پیری",
-          "person_id": 1680,
+          "person_id": 1745,
           "canonical_name": "شيج",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2340,
+          "person_id": 2404,
           "canonical_name": "محمد بن حسن الجوهري",
           "has_id": 777,
           "subj_added": true
@@ -84,7 +84,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد ذوالنون مصری٭ مردی بزرگ.",
-        "person_id": 1523,
+        "person_id": 1586,
         "canonical_name": "ذو النون المصري",
         "has_id": 570
       }
@@ -97,7 +97,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -105,7 +105,7 @@
       "name": "شیخ بوبکر واسطی",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ بوبکر واسطی٭ با جلالت خود، از وی حکایت کند.",
-      "person_id": 653,
+      "person_id": 721,
       "canonical_name": "أبو بكر الواسطي",
       "has_id": 379
     },
@@ -113,7 +113,7 @@
       "name": "مردی",
       "relationship_type": "questioner",
       "full_text": "که مردی ذوالنون مصری را گفت: که مرا دعایی کم.",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -121,7 +121,7 @@
       "name": "ذوالنون مصری",
       "relationship_type": "interlocutor",
       "full_text": "که مردی ذوالنون مصری را گفت: که مرا دعایی کم.",
-      "person_id": 1523,
+      "person_id": 1586,
       "canonical_name": "ذو النون المصري",
       "has_id": 570
     },
@@ -130,7 +130,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "مخاطب درخواست دعا",
       "full_text": "نمیری را گفتند: که مرا دعائی کن",
-      "person_id": 2354,
+      "person_id": 2418,
       "canonical_name": "محمد بن سباع النميري",
       "has_id": 765
     },
@@ -138,7 +138,7 @@
       "name": "پیری",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "پیری گفته:",
-      "person_id": 1680,
+      "person_id": 1745,
       "canonical_name": "شيج",
       "has_id": NaN
     },
@@ -146,7 +146,7 @@
       "name": "حفص بغاوردان",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "با حفص بغاوردان پاس از شب برنیل خفته میگفت:",
-      "person_id": 1459,
+      "person_id": 1521,
       "canonical_name": "حفص بغاوردان",
       "has_id": NaN
     }

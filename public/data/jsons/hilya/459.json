@@ -8,24 +8,31 @@
       "chain": [
         {
           "name": "أبو الحسن محمد بن محمد بن عبيد الله الصوفي",
-          "person_id": 439,
+          "person_id": 494,
           "canonical_name": "أبو الحسن محمد بن محمد بن عبيد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عبد الله محمد بن محمد",
-          "person_id": 919,
+          "person_id": 992,
           "canonical_name": "أبو عبد الله محمد بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "خيرا النساج الصوفى",
-          "person_id": 1510,
+          "person_id": 1572,
           "canonical_name": "خير النساج",
           "has_id": 564,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1370,
+          "canonical_name": "أمية بن الصامت",
+          "has_id": 459,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -42,7 +49,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "كنت مع",
         "full_text": "كنت مع أمية ابن الصامت الصوفي",
-        "person_id": 1510,
+        "person_id": 1572,
         "canonical_name": "خير النساج",
         "has_id": 564
       }
@@ -53,7 +60,7 @@
       "name": "خيرا النساج الصوفى",
       "relationship_type": "narrator",
       "full_text": "سمعت خيرا النساج الصوفى يقول",
-      "person_id": 1510,
+      "person_id": 1572,
       "canonical_name": "خير النساج",
       "has_id": 564
     }

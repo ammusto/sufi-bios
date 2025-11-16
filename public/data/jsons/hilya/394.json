@@ -24,42 +24,42 @@
       "chain": [
         {
           "name": "محمد بن أحمد بن عمر",
-          "person_id": 2312,
+          "person_id": 2376,
           "canonical_name": "محمد بن أحمد بن عمر العبدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 1046,
+          "person_id": 1112,
           "canonical_name": "أبو محمد أحمد بن عمر العبدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن محمد",
-          "person_id": 1855,
+          "person_id": 1924,
           "canonical_name": "عبد الله بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علي ابن أبي مريم",
-          "person_id": 2017,
+          "person_id": 2088,
           "canonical_name": "علي بن أبي مريم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن أبي حبيب",
-          "person_id": 1809,
+          "person_id": 1876,
           "canonical_name": "عبد الله بن أبي حبيب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو جعفر المحولي",
-          "person_id": 741,
+          "person_id": 817,
           "canonical_name": "أبو جعفر المحولي",
           "has_id": 394,
           "subj_added": false
@@ -80,7 +80,7 @@
       "name": "عبد الله بن أبي حبيب",
       "relationship_type": "narrator",
       "full_text": "قال سمعت أبا جعفر المحولي يقول",
-      "person_id": 1809,
+      "person_id": 1876,
       "canonical_name": "عبد الله بن أبي حبيب",
       "has_id": NaN
     }

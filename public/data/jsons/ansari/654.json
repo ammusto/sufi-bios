@@ -18,7 +18,7 @@
       "chain": [
         {
           "name": "بزرگی",
-          "person_id": 1322,
+          "person_id": 1383,
           "canonical_name": "بزرگي",
           "has_id": NaN,
           "subj_added": false
@@ -32,7 +32,7 @@
       "chain": [
         {
           "name": "وی",
-          "person_id": 2621,
+          "person_id": 2681,
           "canonical_name": "وي",
           "has_id": NaN,
           "subj_added": false
@@ -46,7 +46,7 @@
       "chain": [
         {
           "name": "وی",
-          "person_id": 2621,
+          "person_id": 2681,
           "canonical_name": "وي",
           "has_id": NaN,
           "subj_added": false
@@ -60,7 +60,7 @@
       "chain": [
         {
           "name": "وی",
-          "person_id": 2621,
+          "person_id": 2681,
           "canonical_name": "وي",
           "has_id": NaN,
           "subj_added": false
@@ -74,7 +74,7 @@
       "chain": [
         {
           "name": "وی",
-          "person_id": 2621,
+          "person_id": 2681,
           "canonical_name": "وي",
           "has_id": NaN,
           "subj_added": false
@@ -88,7 +88,7 @@
       "chain": [
         {
           "name": "عبداللهّ حداد رازی",
-          "person_id": 1783,
+          "person_id": 1858,
           "canonical_name": "عبد الله الحداد الرازي",
           "has_id": 656,
           "subj_added": false
@@ -102,28 +102,28 @@
       "chain": [
         {
           "name": "این باکو",
-          "person_id": 15,
+          "person_id": 20,
           "canonical_name": "ابن باكوية الشيرازي",
           "has_id": 150,
           "subj_added": false
         },
         {
           "name": "عبداللّه سیاری",
-          "person_id": 1794,
+          "person_id": 1862,
           "canonical_name": "عبد الله السياري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن عبداللّه سیاری",
-          "person_id": 2381,
+          "person_id": 2444,
           "canonical_name": "محمد بن عبد الله السياري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن عبداللّه الجوسقی",
-          "person_id": 2377,
+          "person_id": 2440,
           "canonical_name": "محمد بن عبد الله الجوسقي",
           "has_id": NaN,
           "subj_added": false
@@ -143,14 +143,14 @@
       "chain": [
         {
           "name": "شیخ السالام",
-          "person_id": 158,
+          "person_id": 180,
           "canonical_name": "السالام",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبداللهّ عصام مقدسی",
-          "person_id": 1787,
+          "person_id": 1915,
           "canonical_name": "عبد الله بن عصام المقدسي",
           "has_id": 664,
           "subj_added": false
@@ -164,7 +164,7 @@
       "chain": [
         {
           "name": "عبداللّه نبادانی",
-          "person_id": 1796,
+          "person_id": 1864,
           "canonical_name": "عبد الله النباداني",
           "has_id": NaN,
           "subj_added": false
@@ -182,7 +182,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده بود با",
         "full_text": "صحبت کرده بود با حمدون فصار.",
-        "person_id": 827,
+        "person_id": 906,
         "canonical_name": "أبو صالح حمدون بن أحمد القصار",
         "has_id": 524
       },
@@ -191,7 +191,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "طریقت ازو گرفته",
         "full_text": "و طریقت ازو گرفته،",
-        "person_id": 827,
+        "person_id": 906,
         "canonical_name": "أبو صالح حمدون بن أحمد القصار",
         "has_id": 524
       }
@@ -204,7 +204,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ الاسلام گفت: که وی گفت",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -212,7 +212,7 @@
       "name": "بزرگی",
       "relationship_type": "narrator",
       "full_text": "بزرگی گفت از مشایخ: کی",
-      "person_id": 1322,
+      "person_id": 1383,
       "canonical_name": "بزرگي",
       "has_id": NaN
     },
@@ -220,7 +220,7 @@
       "name": "عبداللهّ حداد رازی",
       "relationship_type": "narrator",
       "full_text": "عبداللهّ حداد رازی گفت:",
-      "person_id": 1783,
+      "person_id": 1858,
       "canonical_name": "عبد الله الحداد الرازي",
       "has_id": 656
     },
@@ -228,7 +228,7 @@
       "name": "این باکو",
       "relationship_type": "narrator",
       "full_text": "این باکوگفت",
-      "person_id": 15,
+      "person_id": 20,
       "canonical_name": "ابن باكوية الشيرازي",
       "has_id": 150
     },
@@ -236,7 +236,7 @@
       "name": "عبداللّه سیاری",
       "relationship_type": "narrator",
       "full_text": "عبداللّه سیاری گفت",
-      "person_id": 1794,
+      "person_id": 1862,
       "canonical_name": "عبد الله السياري",
       "has_id": NaN
     },
@@ -244,7 +244,7 @@
       "name": "محمد بن عبداللّه سیاری",
       "relationship_type": "narrator",
       "full_text": "محمد بن عبداللّه سیاری گفت",
-      "person_id": 2381,
+      "person_id": 2444,
       "canonical_name": "محمد بن عبد الله السياري",
       "has_id": NaN
     },
@@ -252,7 +252,7 @@
       "name": "محمد بن عبداللّه الجوسقی",
       "relationship_type": "narrator",
       "full_text": "محمد بن عبداللّه الجوسقی گفت",
-      "person_id": 2377,
+      "person_id": 2440,
       "canonical_name": "محمد بن عبد الله الجوسقي",
       "has_id": NaN
     },
@@ -260,7 +260,7 @@
       "name": "شیخ السالام",
       "relationship_type": "narrator",
       "full_text": "شیخ السالام گفت: که عبداللهّ عصام مقدسی",
-      "person_id": 158,
+      "person_id": 180,
       "canonical_name": "السالام",
       "has_id": NaN
     },
@@ -268,7 +268,7 @@
       "name": "عبداللهّ عصام مقدسی",
       "relationship_type": "narrator",
       "full_text": "عبداللهّ عصام مقدسی مصطفی را ﷺ بخواب دید",
-      "person_id": 1787,
+      "person_id": 1915,
       "canonical_name": "عبد الله بن عصام المقدسي",
       "has_id": 664
     },
@@ -276,7 +276,7 @@
       "name": "عبداللّه نبادانی",
       "relationship_type": "narrator",
       "full_text": "عبداللّه نبادانی گفت",
-      "person_id": 1796,
+      "person_id": 1864,
       "canonical_name": "عبد الله النباداني",
       "has_id": NaN
     },
@@ -285,7 +285,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "خواب",
       "full_text": "مصطفی را ﷺ بخواب دید",
-      "person_id": 246,
+      "person_id": 272,
       "canonical_name": "النبي",
       "has_id": NaN
     }

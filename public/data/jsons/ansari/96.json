@@ -26,7 +26,7 @@
       "chain": [
         {
           "name": "رویم",
-          "person_id": 1553,
+          "person_id": 1615,
           "canonical_name": "رويم بن أحمد",
           "has_id": 578,
           "subj_added": false
@@ -40,7 +40,7 @@
       "chain": [
         {
           "name": "رویم",
-          "person_id": 1553,
+          "person_id": 1615,
           "canonical_name": "رويم بن أحمد",
           "has_id": 578,
           "subj_added": false
@@ -66,16 +66,16 @@
       "chain": [
         {
           "name": "ابوبکر الرازی",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابن یزدانیار",
-          "person_id": 616,
+          "person_id": 688,
           "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
-          "has_id": 231,
+          "has_id": 96,
           "subj_added": false
         }
       ],
@@ -87,16 +87,16 @@
       "chain": [
         {
           "name": "ابوبکر الرازی",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابن یزدانیار",
-          "person_id": 616,
+          "person_id": 688,
           "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
-          "has_id": 231,
+          "has_id": 96,
           "subj_added": false
         }
       ],
@@ -108,16 +108,16 @@
       "chain": [
         {
           "name": "ابوبکر الرازی",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابن یزدانیار",
-          "person_id": 616,
+          "person_id": 688,
           "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
-          "has_id": 231,
+          "has_id": 96,
           "subj_added": false
         }
       ],
@@ -129,16 +129,16 @@
       "chain": [
         {
           "name": "ابوبکر الرازی",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابن یزدانیار",
-          "person_id": 616,
+          "person_id": 688,
           "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
-          "has_id": 231,
+          "has_id": 96,
           "subj_added": false
         }
       ],
@@ -150,16 +150,16 @@
       "chain": [
         {
           "name": "ابوبکر الرازی",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابن یزدانیار",
-          "person_id": 616,
+          "person_id": 688,
           "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
-          "has_id": 231,
+          "has_id": 96,
           "subj_added": false
         }
       ],
@@ -171,16 +171,16 @@
       "chain": [
         {
           "name": "ابوبکر الرازی",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابن یزدانیار",
-          "person_id": 616,
+          "person_id": 688,
           "canonical_name": "أبو بكر الحسين بن علي بن يزدانيار",
-          "has_id": 231,
+          "has_id": 96,
           "subj_added": false
         }
       ],
@@ -192,7 +192,7 @@
       "chain": [
         {
           "name": "ابوبکر الخباز بغدادی",
-          "person_id": 618,
+          "person_id": 690,
           "canonical_name": "أبو بكر الخباز",
           "has_id": 58,
           "subj_added": false
@@ -206,7 +206,7 @@
       "chain": [
         {
           "name": "شیخ بوبکر بیکندی",
-          "person_id": 681,
+          "person_id": 754,
           "canonical_name": "أبو بكر بيكندي",
           "has_id": NaN,
           "subj_added": false
@@ -220,7 +220,7 @@
       "chain": [
         {
           "name": "شیخ بوبکر بیکندی",
-          "person_id": 681,
+          "person_id": 754,
           "canonical_name": "أبو بكر بيكندي",
           "has_id": NaN,
           "subj_added": false
@@ -239,7 +239,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "استاد",
         "full_text": "استاد شیخ بوبکر رازی ایذ.",
-        "person_id": 711,
+        "person_id": 785,
         "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
         "has_id": NaN
       }
@@ -251,7 +251,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -259,7 +259,7 @@
       "name": "ابوبکر الرازی",
       "relationship_type": "direct_narrator",
       "full_text": "قال ابوبکر الرازی: سمعت ابن یزدانیار",
-      "person_id": 711,
+      "person_id": 785,
       "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
       "has_id": NaN
     },
@@ -267,7 +267,7 @@
       "name": "رویم",
       "relationship_type": "narrator",
       "full_text": "رویم گفت بوعبداللّه خفیف را:",
-      "person_id": 1553,
+      "person_id": 1615,
       "canonical_name": "رويم بن أحمد",
       "has_id": 578
     },
@@ -276,7 +276,7 @@
       "relationship_type": "interlocutor",
       "context": "addressee",
       "full_text": "رویم گفت بوعبداللّه خفیف را:",
-      "person_id": 22,
+      "person_id": 974,
       "canonical_name": "أبو عبد الله بن خفيف",
       "has_id": 26
     },
@@ -284,7 +284,7 @@
       "name": "بوالعباس نهاوندی٭",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "شیخ الاسلام گفت: که بوالعباس نهاوندی٭ روزی نماز بام صوفیان همه خفته دید",
-      "person_id": 499,
+      "person_id": 560,
       "canonical_name": "أبو العباس أحمد بن محمد بن الفضل النهاوندي",
       "has_id": 53
     },
@@ -293,7 +293,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "منکر برو",
       "full_text": "بعضی مشایخ برو منکر بودند چون شبلی و جز ازوی.",
-      "person_id": 628,
+      "person_id": 699,
       "canonical_name": "أبو بكر الشبلي",
       "has_id": 376
     },
@@ -301,7 +301,7 @@
       "name": "ابوبکر الخباز بغدادی",
       "relationship_type": "narrator",
       "full_text": "ابوبکر الخباز بغدادی کان من استاذی الجریری قال: العیال عقوبة تنفیذ الشهوات الحلال",
-      "person_id": 618,
+      "person_id": 690,
       "canonical_name": "أبو بكر الخباز",
       "has_id": 58
     },
@@ -309,7 +309,7 @@
       "name": "شیخ بوبکر بیکندی",
       "relationship_type": "narrator",
       "full_text": "شیخ بوبکر بیکندی گفت: که اللّه مهر خود بر دلها قسم کرد.",
-      "person_id": 681,
+      "person_id": 754,
       "canonical_name": "أبو بكر بيكندي",
       "has_id": NaN
     },
@@ -318,7 +318,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "died",
       "full_text": "ابوبکر بن عیسی من اهل ابهر من اقران ابیبکر بن طاهر وابرمنه. دخل ابوبکر علیه و هو فی الموت فقال له احسن ظنک بربک ففتح عینه و قال: لمثلی یقال هذا الکلام؟ ان ترکنا عبدناه وان دعانا اجبناه مات سنه خمس و ثلثمائه.",
-      "person_id": 676,
+      "person_id": 748,
       "canonical_name": "أبو بكر بن عيسي المطوعي",
       "has_id": 64
     },
@@ -327,7 +327,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "اقران",
       "full_text": "ابوبکر بن عیسی من اهل ابهر من اقران ابیبکر بن طاهر وابرمنه.",
-      "person_id": 39,
+      "person_id": 62,
       "canonical_name": "ابيبكر بن طاهر",
       "has_id": NaN
     }

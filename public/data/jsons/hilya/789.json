@@ -14,21 +14,21 @@
       "chain": [
         {
           "name": "زيد بن علي المغربي",
-          "person_id": 1576,
+          "person_id": 1638,
           "canonical_name": "زيد بن علي المغربي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسين بن مصعب",
-          "person_id": 126,
+          "person_id": 145,
           "canonical_name": "الحسين بن مصعب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن منصور الطوسي",
-          "person_id": 2454,
+          "person_id": 2516,
           "canonical_name": "محمد بن منصور الطوسي",
           "has_id": 789,
           "subj_added": false
@@ -42,42 +42,42 @@
       "chain": [
         {
           "name": "عبد الله بن محمد",
-          "person_id": 1855,
+          "person_id": 1924,
           "canonical_name": "عبد الله بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن العباس",
-          "person_id": 2252,
+          "person_id": 2317,
           "canonical_name": "محمد بن العباس بن أيوب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن منصور الطوسي",
-          "person_id": 2454,
+          "person_id": 2516,
           "canonical_name": "محمد بن منصور الطوسي",
           "has_id": 789,
           "subj_added": false
         },
         {
           "name": "الحسن بن الربيع",
-          "person_id": 76,
-          "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم",
+          "person_id": 93,
+          "canonical_name": "الحسن بن الربيع",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا إسحاق الفزاري",
-          "person_id": 571,
+          "person_id": 637,
           "canonical_name": "أبو إسحاق القرشي التيمي",
           "has_id": 368,
           "subj_added": false
         },
         {
           "name": "حبيبي الفضيل بن عياض",
-          "person_id": 200,
+          "person_id": 225,
           "canonical_name": "الفضيل بن عياض",
           "has_id": 243,
           "subj_added": false
@@ -91,7 +91,7 @@
       "chain": [
         {
           "name": "محمد بن الحسين بن موسى",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
@@ -99,20 +99,20 @@
         {
           "name": "أبا الحسين الفارسي",
           "has_id": NaN,
-          "person_id": 112,
-          "canonical_name": "الحسين بن أحمد بن موسى",
+          "person_id": 409,
+          "canonical_name": "أبا الحسين الفارسي",
           "subj_added": false
         },
         {
           "name": "الحسن بن علوية",
-          "person_id": 92,
+          "person_id": 110,
           "canonical_name": "الحسن بن علوية الدامغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن منصور",
-          "person_id": 2454,
+          "person_id": 2516,
           "canonical_name": "محمد بن منصور الطوسي",
           "has_id": 789,
           "subj_added": false
@@ -126,7 +126,7 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
@@ -134,20 +134,20 @@
         {
           "name": "أبا الحسين",
           "has_id": NaN,
-          "person_id": 113,
-          "canonical_name": "الحسين بن حفص",
+          "person_id": 407,
+          "canonical_name": "أبا الحسين",
           "subj_added": false
         },
         {
           "name": "الحسن",
-          "person_id": 75,
+          "person_id": 91,
           "canonical_name": "الحسن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2454,
+          "person_id": 2516,
           "canonical_name": "محمد بن منصور الطوسي",
           "has_id": 789,
           "subj_added": true
@@ -161,7 +161,7 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
@@ -169,20 +169,20 @@
         {
           "name": "أبا الحسين",
           "has_id": NaN,
-          "person_id": 114,
-          "canonical_name": "الحسين بن داود البلخي",
+          "person_id": 407,
+          "canonical_name": "أبا الحسين",
           "subj_added": false
         },
         {
           "name": "الحسن",
-          "person_id": 75,
+          "person_id": 91,
           "canonical_name": "الحسن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2454,
+          "person_id": 2516,
           "canonical_name": "محمد بن منصور الطوسي",
           "has_id": 789,
           "subj_added": true
@@ -196,28 +196,28 @@
       "chain": [
         {
           "name": "أحمد بن أبي عمران الهروي",
-          "person_id": 523,
+          "person_id": 586,
           "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "منصور بن عبد الله",
-          "person_id": 2547,
+          "person_id": 2606,
           "canonical_name": "منصور بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسين بن عبد الرحمن",
-          "person_id": 115,
+          "person_id": 133,
           "canonical_name": "الحسين بن عبد الرحمن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن منصور",
-          "person_id": 2454,
+          "person_id": 2516,
           "canonical_name": "محمد بن منصور الطوسي",
           "has_id": 789,
           "subj_added": false
@@ -231,28 +231,28 @@
       "chain": [
         {
           "name": "أبا الفضل أحمد بن أبي عمران",
-          "person_id": 523,
+          "person_id": 586,
           "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "منصورا",
-          "person_id": 2556,
+          "person_id": 2615,
           "canonical_name": "منصورا",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسين بن محمد",
-          "person_id": 120,
+          "person_id": 139,
           "canonical_name": "الحسين بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن منصور",
-          "person_id": 2454,
+          "person_id": 2516,
           "canonical_name": "محمد بن منصور الطوسي",
           "has_id": 789,
           "subj_added": false
@@ -266,14 +266,14 @@
       "chain": [
         {
           "name": "الشيخ",
-          "person_id": 169,
+          "person_id": 191,
           "canonical_name": "الشيخ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2454,
+          "person_id": 2516,
           "canonical_name": "محمد بن منصور الطوسي",
           "has_id": 789,
           "subj_added": true
@@ -287,63 +287,63 @@
       "chain": [
         {
           "name": "سليمان بن أحمد",
-          "person_id": 1626,
+          "person_id": 1687,
           "canonical_name": "سليمان بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن العباس بن أيوب",
-          "person_id": 2252,
+          "person_id": 2317,
           "canonical_name": "محمد بن العباس بن أيوب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن منصور الطوسي",
-          "person_id": 2454,
+          "person_id": 2516,
           "canonical_name": "محمد بن منصور الطوسي",
           "has_id": 789,
           "subj_added": false
         },
         {
           "name": "صالح بن إسحاق الجهبذي",
-          "person_id": 1685,
+          "person_id": 1752,
           "canonical_name": "صالح بن إسحاق الجهبذي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "معروف ابن واصل",
-          "person_id": 2525,
+          "person_id": 2584,
           "canonical_name": "معروف بن واصل",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يعقوب بن أبي نباتة",
-          "person_id": 2664,
+          "person_id": 2723,
           "canonical_name": "يعقوب بن أبي نباتة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الرحمن الأغر",
-          "person_id": 1733,
+          "person_id": 1800,
           "canonical_name": "عبد الرحمن الأغر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أنس بن مالك",
-          "person_id": 1310,
+          "person_id": 1372,
           "canonical_name": "أنس بن مالك",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "رسول الله ﷺ",
-          "person_id": 246,
+          "person_id": 272,
           "canonical_name": "النبي",
           "has_id": NaN,
           "subj_added": false
@@ -357,63 +357,63 @@
       "chain": [
         {
           "name": "سليمان بن أحمد",
-          "person_id": 1626,
+          "person_id": 1687,
           "canonical_name": "سليمان بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن العباس",
-          "person_id": 2252,
+          "person_id": 2317,
           "canonical_name": "محمد بن العباس بن أيوب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن منصور الطوسي",
-          "person_id": 2454,
+          "person_id": 2516,
           "canonical_name": "محمد بن منصور الطوسي",
           "has_id": 789,
           "subj_added": false
         },
         {
           "name": "يحيى بن إسحاق السبحي",
-          "person_id": 2629,
+          "person_id": 2689,
           "canonical_name": "يحيى بن إسحاق السبحي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إبراهيم بن سعد",
-          "person_id": 1139,
+          "person_id": 1204,
           "canonical_name": "أبو يعقوب إبراهيم بن سعد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبيه سعد بن إبراهيم",
-          "person_id": 1152,
+          "person_id": 1215,
           "canonical_name": "أبوه سعد بن إبراهيم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبيه إبراهيم",
-          "person_id": 1150,
+          "person_id": 1213,
           "canonical_name": "أبوه إبراهيم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي سلمة",
-          "person_id": 814,
+          "person_id": 892,
           "canonical_name": "أبو سلمة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أم حبيبة",
-          "person_id": 1305,
+          "person_id": 1366,
           "canonical_name": "أم حبيبة",
           "has_id": NaN,
           "subj_added": false
@@ -427,56 +427,56 @@
       "chain": [
         {
           "name": "سليمان بن أحمد",
-          "person_id": 1626,
+          "person_id": 1687,
           "canonical_name": "سليمان بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن زهير التستري",
-          "person_id": 1200,
+          "person_id": 1264,
           "canonical_name": "أحمد بن زهير التستري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن منصور الطوسي",
-          "person_id": 2454,
+          "person_id": 2516,
           "canonical_name": "محمد بن منصور الطوسي",
           "has_id": 789,
           "subj_added": false
         },
         {
           "name": "علي بن ثابت",
-          "person_id": 2025,
+          "person_id": 2096,
           "canonical_name": "علي بن ثابت الزيات",
           "has_id": 695,
           "subj_added": false
         },
         {
           "name": "المفضل بن صدقة",
-          "person_id": 241,
+          "person_id": 267,
           "canonical_name": "المفضل بن صدقة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سعيد بن مسروق",
-          "person_id": 1604,
+          "person_id": 1665,
           "canonical_name": "سعيد بن مسروق",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "المسيب بن رافع",
-          "person_id": 234,
+          "person_id": 260,
           "canonical_name": "المسيب بن رافع",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي أيوب الأنصاري",
-          "person_id": 604,
+          "person_id": 675,
           "canonical_name": "أبو أيوب الأنصاري",
           "has_id": NaN,
           "subj_added": false
@@ -490,56 +490,56 @@
       "chain": [
         {
           "name": "سليمان بن أحمد",
-          "person_id": 1626,
+          "person_id": 1687,
           "canonical_name": "سليمان بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن العباس",
-          "person_id": 2252,
+          "person_id": 2317,
           "canonical_name": "محمد بن العباس بن أيوب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن منصور الطوسي",
-          "person_id": 2454,
+          "person_id": 2516,
           "canonical_name": "محمد بن منصور الطوسي",
           "has_id": 789,
           "subj_added": false
         },
         {
           "name": "يونس بن محمد المؤدب",
-          "person_id": 2690,
+          "person_id": 2748,
           "canonical_name": "يونس بن محمد المؤدب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "حماد بن زيد",
-          "person_id": 1471,
+          "person_id": 1533,
           "canonical_name": "حماد بن زيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سعيد الثوري",
-          "person_id": 1590,
+          "person_id": 1652,
           "canonical_name": "سعيد الثوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "زيد بن أسلم",
-          "person_id": 1574,
+          "person_id": 1636,
           "canonical_name": "زيد بن أسلم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الرحمن بن وعلة",
-          "person_id": 1756,
+          "person_id": 1824,
           "canonical_name": "عبد الرحمن بن وعلة",
           "has_id": NaN,
           "subj_added": false
@@ -547,13 +547,13 @@
         {
           "name": "ابن عباس",
           "has_id": NaN,
-          "person_id": 26,
+          "person_id": 38,
           "canonical_name": "ابن عباس",
           "subj_added": false
         },
         {
           "name": "النبي ﷺ",
-          "person_id": 246,
+          "person_id": 272,
           "canonical_name": "النبي",
           "has_id": NaN,
           "subj_added": false
@@ -567,70 +567,70 @@
       "chain": [
         {
           "name": "سليمان بن أحمد",
-          "person_id": 1626,
+          "person_id": 1687,
           "canonical_name": "سليمان بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن زهير",
-          "person_id": 1200,
+          "person_id": 1264,
           "canonical_name": "أحمد بن زهير التستري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن منصور الطوسي",
-          "person_id": 2454,
+          "person_id": 2516,
           "canonical_name": "محمد بن منصور الطوسي",
           "has_id": 789,
           "subj_added": false
         },
         {
           "name": "هاشم بن القاسم",
-          "person_id": 2594,
+          "person_id": 2654,
           "canonical_name": "هاشم بن القاسم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن طلحة",
-          "person_id": 2368,
+          "person_id": 2431,
           "canonical_name": "محمد بن طلحة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "زبيد",
-          "person_id": 1556,
+          "person_id": 1618,
           "canonical_name": "زبيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "جامع بن أبي راشد",
-          "person_id": 1378,
+          "person_id": 1440,
           "canonical_name": "جامع بن أبي راشد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أم بشر",
-          "person_id": 1304,
+          "person_id": 1365,
           "canonical_name": "أم بشر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أم سلمة زوج النبي ﷺ",
-          "person_id": 1306,
+          "person_id": 1367,
           "canonical_name": "أم سلمة زوج النبي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "رسول الله ﷺ",
-          "person_id": 246,
+          "person_id": 272,
           "canonical_name": "النبي",
           "has_id": NaN,
           "subj_added": false
@@ -644,63 +644,63 @@
       "chain": [
         {
           "name": "سليمان بن أحمد",
-          "person_id": 1626,
+          "person_id": 1687,
           "canonical_name": "سليمان بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن زهير",
-          "person_id": 1200,
+          "person_id": 1264,
           "canonical_name": "أحمد بن زهير التستري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن منصور الطوسي",
-          "person_id": 2454,
+          "person_id": 2516,
           "canonical_name": "محمد بن منصور الطوسي",
           "has_id": 789,
           "subj_added": false
         },
         {
           "name": "يعقوب بن إبراهيم بن سعد",
-          "person_id": 2662,
+          "person_id": 2721,
           "canonical_name": "يعقوب بن إبراهيم بن سعد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 1139,
+          "person_id": 1204,
           "canonical_name": "أبو يعقوب إبراهيم بن سعد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن إسحاق",
-          "person_id": 2276,
+          "person_id": 2340,
           "canonical_name": "محمد بن إسحاق",
           "has_id": 774,
           "subj_added": false
         },
         {
           "name": "محمد بن مسلم الزهري وهشام بن عروة كلاهما",
-          "person_id": 2449,
+          "person_id": 2510,
           "canonical_name": "محمد بن مسلم الزهري وهشام بن عروة كلاهما",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عروة",
-          "person_id": 1957,
-          "canonical_name": "عروة",
+          "person_id": 2028,
+          "canonical_name": "عروة بن الزبير",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عائشة",
-          "person_id": 1710,
+          "person_id": 1778,
           "canonical_name": "عائشة",
           "has_id": NaN,
           "subj_added": false
@@ -714,56 +714,56 @@
       "chain": [
         {
           "name": "أبو محمد بن حيان",
-          "person_id": 1050,
+          "person_id": 1116,
           "canonical_name": "أبو محمد بن حيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن الحسن الصوفي",
-          "person_id": 2227,
+          "person_id": 2293,
           "canonical_name": "محمد بن الحسن الصوفي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن منصور الطوسي",
-          "person_id": 2454,
+          "person_id": 2516,
           "canonical_name": "محمد بن منصور الطوسي",
           "has_id": 789,
           "subj_added": false
         },
         {
           "name": "حمزة بن زياد الطوسي",
-          "person_id": 1479,
+          "person_id": 1541,
           "canonical_name": "حمزة بن زياد الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ثويب أبو حامد",
-          "person_id": 1371,
+          "person_id": 1433,
           "canonical_name": "ثويب أبو حامد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "خالد بن معدان",
-          "person_id": 1491,
+          "person_id": 1553,
           "canonical_name": "خالد بن معدان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو أمامة",
-          "person_id": 603,
+          "person_id": 674,
           "canonical_name": "أبو أمامة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "رسول الله ﷺ",
-          "person_id": 246,
+          "person_id": 272,
           "canonical_name": "النبي",
           "has_id": NaN,
           "subj_added": false
@@ -777,77 +777,77 @@
       "chain": [
         {
           "name": "أبو بكر محمد بن أحمد بن محمد",
-          "person_id": 700,
+          "person_id": 774,
           "canonical_name": "أبو بكر محمد بن أحمد بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن هارون الحضرمي",
-          "person_id": 2463,
+          "person_id": 2524,
           "canonical_name": "محمد بن هارون الحضرمي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد ابن منصور الطوسي",
-          "person_id": 2454,
+          "person_id": 2516,
           "canonical_name": "محمد بن منصور الطوسي",
           "has_id": 789,
           "subj_added": false
         },
         {
           "name": "أبو الجواب",
-          "person_id": 388,
+          "person_id": 432,
           "canonical_name": "أبو الجواب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمار بن رزيق",
-          "person_id": 2081,
+          "person_id": 2146,
           "canonical_name": "عمار بن رزيق",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "قطن",
-          "person_id": 2181,
+          "person_id": 2248,
           "canonical_name": "قطن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "القاسم بن أبي بزة",
-          "person_id": 204,
+          "person_id": 230,
           "canonical_name": "القاسم بن أبي بزة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عطاء الخراساني",
-          "person_id": 1964,
+          "person_id": 2034,
           "canonical_name": "عطاء الخراساني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمران",
-          "person_id": 2114,
+          "person_id": 2180,
           "canonical_name": "عمران",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن عمر",
-          "person_id": 1853,
+          "person_id": 1922,
           "canonical_name": "عبد الله بن عمر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "رسول الله ﷺ",
-          "person_id": 246,
+          "person_id": 272,
           "canonical_name": "النبي",
           "has_id": NaN,
           "subj_added": false
@@ -861,35 +861,35 @@
       "chain": [
         {
           "name": "محمد بن أحمد",
-          "person_id": 700,
+          "person_id": 774,
           "canonical_name": "أبو بكر محمد بن أحمد بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن هارون",
-          "person_id": 2463,
+          "person_id": 2524,
           "canonical_name": "محمد بن هارون الحضرمي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن منصور",
-          "person_id": 2454,
+          "person_id": 2516,
           "canonical_name": "محمد بن منصور الطوسي",
           "has_id": 789,
           "subj_added": false
         },
         {
           "name": "يعقوب ابن إبراهيم بن سعد",
-          "person_id": 2662,
+          "person_id": 2721,
           "canonical_name": "يعقوب بن إبراهيم بن سعد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 1139,
+          "person_id": 1204,
           "canonical_name": "أبو يعقوب إبراهيم بن سعد",
           "has_id": NaN,
           "subj_added": false
@@ -897,27 +897,27 @@
         {
           "name": "ابن إسحاق",
           "has_id": NaN,
-          "person_id": 111,
-          "canonical_name": "الحسين بن أحمد بن سعيد الواسطي",
+          "person_id": 9,
+          "canonical_name": "ابن إسحاق",
           "subj_added": false
         },
         {
           "name": "يحيى بن سعيد وغيره",
-          "person_id": 2644,
+          "person_id": 2703,
           "canonical_name": "يحيى بن سعيد وغيره",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "القاسم",
-          "person_id": 204,
+          "person_id": 230,
           "canonical_name": "القاسم بن أبي بزة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عائشة",
-          "person_id": 1710,
+          "person_id": 1778,
           "canonical_name": "عائشة",
           "has_id": NaN,
           "subj_added": false
@@ -939,7 +939,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "ثنا الحسين بن مصعب ثنا محمد بن منصور الطوسي",
-      "person_id": 126,
+      "person_id": 145,
       "canonical_name": "الحسين بن مصعب",
       "has_id": NaN
     },
@@ -948,7 +948,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "ثنا محمد بن العباس ثنا محمد بن منصور الطوسي",
-      "person_id": 2252,
+      "person_id": 2317,
       "canonical_name": "محمد بن العباس بن أيوب",
       "has_id": NaN
     },
@@ -957,7 +957,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "سمعت الحسن بن علوية يقول قال محمد بن منصور",
-      "person_id": 92,
+      "person_id": 110,
       "canonical_name": "الحسن بن علوية الدامغاني",
       "has_id": NaN
     },
@@ -966,7 +966,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "سمعت الحسين بن عبد الرحمن يقول أنشدني محمد بن منصور",
-      "person_id": 115,
+      "person_id": 133,
       "canonical_name": "الحسين بن عبد الرحمن",
       "has_id": NaN
     },
@@ -975,7 +975,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "سمعت الحسين بن محمد يقول: أنشدني محمد بن منصور",
-      "person_id": 120,
+      "person_id": 139,
       "canonical_name": "الحسين بن محمد",
       "has_id": NaN
     },
@@ -984,7 +984,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "ثنا محمد بن العباس بن أيوب ثنا محمد بن منصور الطوسي",
-      "person_id": 2252,
+      "person_id": 2317,
       "canonical_name": "محمد بن العباس بن أيوب",
       "has_id": NaN
     },
@@ -993,7 +993,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "ثنا أحمد بن زهير التستري ثنا محمد بن منصور الطوسي",
-      "person_id": 1200,
+      "person_id": 1264,
       "canonical_name": "أحمد بن زهير التستري",
       "has_id": NaN
     },
@@ -1002,7 +1002,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "ثنا أحمد بن زهير ثنا محمد بن منصور الطوسي",
-      "person_id": 1200,
+      "person_id": 1264,
       "canonical_name": "أحمد بن زهير التستري",
       "has_id": NaN
     },
@@ -1011,7 +1011,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "حدثنا محمد بن الحسن الصوفي ثنا محمد بن منصور الطوسي",
-      "person_id": 2227,
+      "person_id": 2293,
       "canonical_name": "محمد بن الحسن الصوفي",
       "has_id": NaN
     },
@@ -1020,7 +1020,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "ثنا محمد بن هارون الحضرمي ثنا محمد ابن منصور الطوسي",
-      "person_id": 2463,
+      "person_id": 2524,
       "canonical_name": "محمد بن هارون الحضرمي",
       "has_id": NaN
     },
@@ -1029,7 +1029,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "ثنا محمد بن هارون ثنا محمد بن منصور",
-      "person_id": 2463,
+      "person_id": 2524,
       "canonical_name": "محمد بن هارون الحضرمي",
       "has_id": NaN
     },
@@ -1037,7 +1037,7 @@
       "name": "رجل",
       "relationship_type": "questioner",
       "full_text": "فقال رجل: يا أنس أنت سمعت هذا من رسول الله ﷺ؟",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     }

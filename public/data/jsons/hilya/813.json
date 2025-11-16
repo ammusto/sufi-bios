@@ -14,51 +14,51 @@
       "chain": [
         {
           "name": "أبو بكر المؤذن",
-          "person_id": 650,
+          "person_id": 719,
           "canonical_name": "أبو بكر المؤذن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن أبان",
-          "person_id": 1175,
+          "person_id": 1239,
           "canonical_name": "أحمد بن أبان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر بن عبيد",
-          "person_id": 673,
+          "person_id": 744,
           "canonical_name": "أبو بكر بن عبيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن الحسين",
-          "person_id": 2239,
+          "person_id": 2304,
           "canonical_name": "محمد بن الحسين البرجلاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يوسف بن الحكم الرقي",
-          "person_id": 2675,
+          "person_id": 2733,
           "canonical_name": "يوسف بن الحكم الرقي",
-          "has_id": 13,
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "فياض بن محمد بن سنان",
-          "person_id": 2174,
+          "person_id": 2240,
           "canonical_name": "فياض بن محمد بن سنان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مغيث الأسود",
-          "person_id": 2527,
+          "person_id": 2586,
           "canonical_name": "مغيث الأسود",
-          "has_id": 813,
+          "has_id": 812,
           "subj_added": false
         }
       ],
@@ -77,7 +77,7 @@
       "name": "فياض بن محمد بن سنان",
       "relationship_type": "narrator",
       "full_text": "ثنا فياض بن محمد بن سنان قال قال لي مغيث الأسود",
-      "person_id": 2174,
+      "person_id": 2240,
       "canonical_name": "فياض بن محمد بن سنان",
       "has_id": NaN
     },
@@ -86,7 +86,7 @@
       "relationship_type": "interlocutor",
       "context": "questioner",
       "full_text": "قال قال لي راهب بدير الخلق: ما لي أراك طويل الحزن؟",
-      "person_id": 1525,
+      "person_id": 1588,
       "canonical_name": "راهب بدير الخلق",
       "has_id": NaN
     }

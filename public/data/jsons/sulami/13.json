@@ -1,5 +1,5 @@
 {
-  "bio_id": "267",
+  "bio_id": "13",
   "source": "sulami",
   "death_date": {
     "year_hijri": "326",
@@ -23,14 +23,14 @@
       "chain": [
         {
           "name": "أَبَا عبد الله الْحُسَيْن بن أَحْمد",
-          "person_id": 859,
+          "person_id": 936,
           "canonical_name": "أبو عبد الله الحسين بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم الْقصار الرقي",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
@@ -44,17 +44,24 @@
       "chain": [
         {
           "name": "أَبَا الْفضل نصر بن مُحَمَّد بن أَحْمد بن يَعْقُوب الْعَطَّار",
-          "person_id": 528,
+          "person_id": 591,
           "canonical_name": "أبو الفضل نصر بن محمد الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم بن أَحْمد بن المولد",
-          "person_id": 298,
+          "person_id": 643,
           "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
           "has_id": 273,
           "subj_added": false
+        },
+        {
+          "person_id": 310,
+          "canonical_name": "إبراهيم القصار الرقي",
+          "has_id": 13,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -65,14 +72,14 @@
       "chain": [
         {
           "name": "أَبَا بكر بن شَاذان",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم الْقصار",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
@@ -86,14 +93,14 @@
       "chain": [
         {
           "name": "أَبَا بكر بن شَاذان",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم الْقصار",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
@@ -107,14 +114,14 @@
       "chain": [
         {
           "name": "أَبَا بكر بن شَاذان",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم الْقصار",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
@@ -128,14 +135,14 @@
       "chain": [
         {
           "name": "أَبَا بكر بن شَاذان",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم الْقصار",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
@@ -149,14 +156,14 @@
       "chain": [
         {
           "name": "أَبَا بكر بن شَاذان",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم الْقصار",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
@@ -170,14 +177,14 @@
       "chain": [
         {
           "name": "أَبَا بكر بن شَاذان",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم الْقصار",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
@@ -191,14 +198,14 @@
       "chain": [
         {
           "name": "أَبَا بكر بن شَاذان",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم الْقصار",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
@@ -212,14 +219,14 @@
       "chain": [
         {
           "name": "أَبَا بكر بن شَاذان",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم الْقصار",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
@@ -233,14 +240,14 @@
       "chain": [
         {
           "name": "أَبَا بكر بن شَاذان",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم الْقصار",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
@@ -254,14 +261,14 @@
       "chain": [
         {
           "name": "أَبَا بكر بن شَاذان",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم الْقصار",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
@@ -275,14 +282,14 @@
       "chain": [
         {
           "name": "أَبَا بكر بن شَاذان",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم الْقصار",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
@@ -296,14 +303,14 @@
       "chain": [
         {
           "name": "أَبَا بكر بن شَاذان",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم الْقصار",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
@@ -317,14 +324,14 @@
       "chain": [
         {
           "name": "أَبَا بكر بن شَاذان",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم الْقصار",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
@@ -338,14 +345,14 @@
       "chain": [
         {
           "name": "أَبَا بكر بن شَاذان",
-          "person_id": 711,
+          "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إِبْرَاهِيم الْقصار",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
@@ -365,7 +372,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "من أَقْرَان",
         "full_text": "من أَقْرَان الْجُنَيْد وَابْن الْجلاء",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -374,7 +381,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "من أَقْرَان",
         "full_text": "من أَقْرَان الْجُنَيْد وَابْن الْجلاء",
-        "person_id": 898,
+        "person_id": 971,
         "canonical_name": "أبو عبد الله بن الجلاء",
         "has_id": 410
       }
@@ -385,7 +392,7 @@
       "name": "أَبَا عبد الله الْحُسَيْن بن أَحْمد",
       "relationship_type": "narrator",
       "full_text": "سَمِعت أَبَا عبد الله الْحُسَيْن بن أَحْمد يَقُول",
-      "person_id": 859,
+      "person_id": 936,
       "canonical_name": "أبو عبد الله الحسين بن أحمد",
       "has_id": NaN
     },
@@ -393,7 +400,7 @@
       "name": "إِبْرَاهِيم بن أَحْمد بن المولد",
       "relationship_type": "narrator",
       "full_text": "سَمِعت إِبْرَاهِيم بن أَحْمد بن المولد يَقُول",
-      "person_id": 298,
+      "person_id": 643,
       "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
       "has_id": 273
     },
@@ -401,7 +408,7 @@
       "name": "أَبَا بكر بن شَاذان",
       "relationship_type": "narrator",
       "full_text": "سَمِعت أَبَا بكر بن شَاذان يَقُول",
-      "person_id": 711,
+      "person_id": 785,
       "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
       "has_id": NaN
     },
@@ -410,7 +417,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "questioner",
       "full_text": "سَأَلَ رجل إِبْرَاهِيم الْقصار الرقي",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     }

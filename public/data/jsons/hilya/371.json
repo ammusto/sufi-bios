@@ -24,31 +24,38 @@
       "chain": [
         {
           "name": "عمر بن أحمد بن شاهين",
-          "person_id": 2093,
+          "person_id": 2159,
           "canonical_name": "عمر بن أحمد بن شاهين",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علي بن محمد المصري",
-          "person_id": 434,
+          "person_id": 488,
           "canonical_name": "أبو الحسن علي بن محمد بن أحمد المصري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمرو بن سعيد القلانسي",
-          "person_id": 2124,
+          "person_id": 2190,
           "canonical_name": "عمرو بن سعيد القلانسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن الحسن القلانسي",
-          "person_id": 2627,
+          "person_id": 2687,
           "canonical_name": "يحيى بن الحسن القلانسي",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 662,
+          "canonical_name": "أبو أحمد القلانسي",
+          "has_id": 371,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -59,31 +66,38 @@
       "chain": [
         {
           "name": "عبد المنعم بن عمر",
-          "person_id": 1895,
+          "person_id": 1964,
           "canonical_name": "عبد المنعم بن عمر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو سعيد بن الأعرابي",
-          "person_id": 807,
+          "person_id": 885,
           "canonical_name": "أبو سعيد بن الأعرابي",
           "has_id": 400,
           "subj_added": false
         },
         {
           "name": "الكتاني",
-          "person_id": 220,
+          "person_id": 246,
           "canonical_name": "الكتاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "منية البصري",
-          "person_id": 2540,
+          "person_id": 2599,
           "canonical_name": "منبه البصري",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 662,
+          "canonical_name": "أبو أحمد القلانسي",
+          "has_id": 371,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -94,10 +108,17 @@
       "chain": [
         {
           "name": "أبو سعيد بن الأعرابي",
-          "person_id": 807,
+          "person_id": 885,
           "canonical_name": "أبو سعيد بن الأعرابي",
           "has_id": 400,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 662,
+          "canonical_name": "أبو أحمد القلانسي",
+          "has_id": 371,
+          "subj_added": true
         }
       ],
       "type": "single_informant",
@@ -108,31 +129,38 @@
       "chain": [
         {
           "name": "عبد المنعم بن عمر",
-          "person_id": 1895,
+          "person_id": 1964,
           "canonical_name": "عبد المنعم بن عمر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا سعيد بن الأعرابي",
-          "person_id": 807,
+          "person_id": 885,
           "canonical_name": "أبو سعيد بن الأعرابي",
           "has_id": 400,
           "subj_added": false
         },
         {
           "name": "محمد بن علي الكتاني",
-          "person_id": 712,
+          "person_id": 786,
           "canonical_name": "أبو بكر محمد بن علي الكتاني",
           "has_id": 378,
           "subj_added": false
         },
         {
           "name": "منبه البصري",
-          "person_id": 2540,
+          "person_id": 2599,
           "canonical_name": "منبه البصري",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 662,
+          "canonical_name": "أبو أحمد القلانسي",
+          "has_id": 371,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -143,9 +171,9 @@
       "chain": [
         {
           "name": "أبي أحمد",
-          "person_id": 587,
-          "canonical_name": "أبو أحمد",
-          "has_id": NaN,
+          "person_id": 662,
+          "canonical_name": "أبو أحمد القلانسي",
+          "has_id": 371,
           "subj_added": false
         }
       ],
@@ -157,31 +185,38 @@
       "chain": [
         {
           "name": "عمر بن أحمد بن شاهين",
-          "person_id": 2142,
-          "canonical_name": "عيسى بن عبيد الجبيلي",
+          "person_id": 2159,
+          "canonical_name": "عمر بن أحمد بن شاهين",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علي بن محمد المصري",
-          "person_id": 448,
+          "person_id": 506,
           "canonical_name": "أبو الحسين العلوي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمرو بن سعيد القلانسي",
-          "person_id": 2173,
-          "canonical_name": "فهد بن سلام",
+          "person_id": 2190,
+          "canonical_name": "عمرو بن سعيد القلانسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن الحسن القلانسي",
-          "person_id": 2683,
+          "person_id": 2741,
           "canonical_name": "يوسف بن موسى بن عبد الله المروزي",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 662,
+          "canonical_name": "أبو أحمد القلانسي",
+          "has_id": 371,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -192,31 +227,38 @@
       "chain": [
         {
           "name": "عبد المنعم بن عمر",
-          "person_id": 1942,
+          "person_id": 2011,
           "canonical_name": "عبيدة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو سعيد بن الأعرابي",
-          "person_id": 834,
+          "person_id": 912,
           "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الكتاني",
-          "person_id": 221,
+          "person_id": 247,
           "canonical_name": "الكعبي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "منية البصري",
-          "person_id": 2595,
+          "person_id": 2655,
           "canonical_name": "هاشم بن أبي عبد الله",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 662,
+          "canonical_name": "أبو أحمد القلانسي",
+          "has_id": 371,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -227,10 +269,17 @@
       "chain": [
         {
           "name": "أبو سعيد بن الأعرابي",
-          "person_id": 834,
+          "person_id": 912,
           "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 662,
+          "canonical_name": "أبو أحمد القلانسي",
+          "has_id": 371,
+          "subj_added": true
         }
       ],
       "type": "single_informant",
@@ -245,7 +294,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "تخرج عليه",
         "full_text": "صحب أبا حمزة وتخرج عليه.",
-        "person_id": 763,
+        "person_id": 840,
         "canonical_name": "أبو حمزة",
         "has_id": NaN
       },
@@ -254,7 +303,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "يذهب مذهب",
         "full_text": "ويذهب مذهب شقيق في التوكل",
-        "person_id": 980,
+        "person_id": 1051,
         "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
         "has_id": 622
       },
@@ -263,7 +312,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "تخرج عليه",
         "full_text": "صحب أبا حمزة وتخرج عليه.",
-        "person_id": 790,
+        "person_id": 866,
         "canonical_name": "أبو زكريا الحمال",
         "has_id": NaN
       },
@@ -272,9 +321,9 @@
         "relationship_type": "student_of",
         "relationship_phrase": "يذهب مذهب",
         "full_text": "ويذهب مذهب شقيق في التوكل",
-        "person_id": 1013,
-        "canonical_name": "أبو عمرو المروزي",
-        "has_id": 427
+        "person_id": 1740,
+        "canonical_name": "شقيق",
+        "has_id": NaN
       }
     ],
     "students": [],
@@ -284,7 +333,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب أبا حمزة",
-        "person_id": 763,
+        "person_id": 840,
         "canonical_name": "أبو حمزة",
         "has_id": NaN
       },
@@ -293,7 +342,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "وكان قد صحب أبا محمد الرباطي المروزي",
-        "person_id": 1040,
+        "person_id": 1108,
         "canonical_name": "أبو محمد الرباطي المروزي",
         "has_id": NaN
       },
@@ -302,7 +351,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "يكرمونه ويقدمونه على غيره",
         "full_text": "وكان أبو حمزة وابن وهب وجماعة المشايخ يكرمونه ويقدمونه على غيره",
-        "person_id": 763,
+        "person_id": 840,
         "canonical_name": "أبو حمزة",
         "has_id": NaN
       },
@@ -312,15 +361,15 @@
         "relationship_phrase": "يكرمونه ويقدمونه على غيره",
         "full_text": "وكان أبو حمزة وابن وهب وجماعة المشايخ يكرمونه ويقدمونه على غيره",
         "has_id": NaN,
-        "person_id": 33,
-        "canonical_name": "ابن مخلد"
+        "person_id": 59,
+        "canonical_name": "ابن وهب"
       },
       {
         "name": "منبه البصري",
         "relationship_type": "peer",
         "relationship_phrase": "سافرت مع",
         "full_text": "قال منبه البصري: سافرت مع أبي أحمد القلانسي",
-        "person_id": 2540,
+        "person_id": 2599,
         "canonical_name": "منبه البصري",
         "has_id": NaN
       },
@@ -329,7 +378,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب أبا حمزة",
-        "person_id": 790,
+        "person_id": 866,
         "canonical_name": "أبو زكريا الحمال",
         "has_id": NaN
       },
@@ -338,7 +387,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "وكان قد صحب أبا محمد الرباطي المروزي",
-        "person_id": 1075,
+        "person_id": 1141,
         "canonical_name": "أبو مسلم عبد الرحمن بن محمد بن أحمد الواعظ",
         "has_id": NaN
       },
@@ -347,7 +396,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "يكرمونه ويقدمونه على غيره",
         "full_text": "وكان أبو حمزة وابن وهب وجماعة المشايخ يكرمونه ويقدمونه على غيره",
-        "person_id": 790,
+        "person_id": 866,
         "canonical_name": "أبو زكريا الحمال",
         "has_id": NaN
       },
@@ -357,8 +406,8 @@
         "relationship_phrase": "يكرمونه ويقدمونه على غيره",
         "full_text": "وكان أبو حمزة وابن وهب وجماعة المشايخ يكرمونه ويقدمونه على غيره",
         "has_id": NaN,
-        "person_id": 33,
-        "canonical_name": "ابن مخلد"
+        "person_id": 59,
+        "canonical_name": "ابن وهب"
       }
     ]
   },
@@ -367,7 +416,7 @@
       "name": "منبه البصري",
       "relationship_type": "narrator",
       "full_text": "قال منبه البصري",
-      "person_id": 2540,
+      "person_id": 2599,
       "canonical_name": "منبه البصري",
       "has_id": NaN
     },
@@ -375,7 +424,7 @@
       "name": "يحيى بن الحسن القلانسي",
       "relationship_type": "narrator",
       "full_text": "سمعت يحيى بن الحسن القلانسي يقول",
-      "person_id": 2627,
+      "person_id": 2687,
       "canonical_name": "يحيى بن الحسن القلانسي",
       "has_id": NaN
     },
@@ -383,7 +432,7 @@
       "name": "منية البصري",
       "relationship_type": "narrator",
       "full_text": "قال منية البصري",
-      "person_id": 2540,
+      "person_id": 2599,
       "canonical_name": "منبه البصري",
       "has_id": NaN
     },
@@ -391,7 +440,7 @@
       "name": "أبو سعيد بن الأعرابي",
       "relationship_type": "narrator",
       "full_text": "قال أبو سعيد بن الأعرابي",
-      "person_id": 807,
+      "person_id": 885,
       "canonical_name": "أبو سعيد بن الأعرابي",
       "has_id": 400
     },
@@ -399,7 +448,7 @@
       "name": "يحيى بن الحسن القلانسي",
       "relationship_type": "narrator",
       "full_text": "سمعت يحيى بن الحسن القلانسي يقول",
-      "person_id": 2683,
+      "person_id": 2741,
       "canonical_name": "يوسف بن موسى بن عبد الله المروزي",
       "has_id": NaN
     },
@@ -407,7 +456,7 @@
       "name": "منية البصري",
       "relationship_type": "narrator",
       "full_text": "قال منية البصري",
-      "person_id": 2595,
+      "person_id": 2655,
       "canonical_name": "هاشم بن أبي عبد الله",
       "has_id": NaN
     },
@@ -415,7 +464,7 @@
       "name": "أبو سعيد بن الأعرابي",
       "relationship_type": "narrator",
       "full_text": "قال أبو سعيد بن الأعرابي",
-      "person_id": 834,
+      "person_id": 912,
       "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
       "has_id": NaN
     }

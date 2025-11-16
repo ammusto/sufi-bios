@@ -8,37 +8,37 @@
       "chain": [
         {
           "name": "عبد الله بن محمد",
-          "person_id": 1855,
+          "person_id": 1924,
           "canonical_name": "عبد الله بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علي بن محمد العسكري",
-          "person_id": 2065,
+          "person_id": 2131,
           "canonical_name": "علي بن محمد العسكري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إبراهيم ابن جعفر الحلوذاني",
-          "person_id": 307,
+          "person_id": 331,
           "canonical_name": "إبراهيم بن جعفر الحلوذاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن معاوية الأزرق",
-          "person_id": 2451,
+          "person_id": 2512,
           "canonical_name": "محمد بن معاوية الأزرق",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو هاشم",
-          "person_id": 1117,
-          "canonical_name": "أبو هاشم الزاهد",
-          "has_id": 434,
+          "person_id": 639,
+          "canonical_name": "أبو إسحاق إبراهيم الآجري",
+          "has_id": 367,
           "subj_added": false
         }
       ],
@@ -50,37 +50,37 @@
       "chain": [
         {
           "name": "محمد بن الحسين بن موسى",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "محمد بن أحمد بن سعيد",
-          "person_id": 748,
+          "person_id": 825,
           "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عباس ابن حمزة",
-          "person_id": 521,
+          "person_id": 583,
           "canonical_name": "أبو الفضل العباس بن حمزة",
           "has_id": 647,
           "subj_added": false
         },
         {
           "name": "أحمد بن أبي الحواري",
-          "person_id": 1177,
+          "person_id": 1241,
           "canonical_name": "أحمد بن أبي الحواري",
           "has_id": 442,
           "subj_added": false
         },
         {
           "name": "أبو هاشم",
-          "person_id": 1117,
-          "canonical_name": "أبو هاشم الزاهد",
-          "has_id": 434,
+          "person_id": 639,
+          "canonical_name": "أبو إسحاق إبراهيم الآجري",
+          "has_id": 367,
           "subj_added": false
         }
       ],
@@ -99,7 +99,7 @@
       "name": "محمد بن معاوية الأزرق",
       "relationship_type": "narrator",
       "full_text": "قال حدثني محمد بن معاوية الأزرق قال قال أبو هاشم",
-      "person_id": 2451,
+      "person_id": 2512,
       "canonical_name": "محمد بن معاوية الأزرق",
       "has_id": NaN
     },
@@ -107,7 +107,7 @@
       "name": "أحمد بن أبي الحواري",
       "relationship_type": "narrator",
       "full_text": "ثنا أحمد بن أبي الحواري. قال سمعت أبا هاشم يقول",
-      "person_id": 1177,
+      "person_id": 1241,
       "canonical_name": "أحمد بن أبي الحواري",
       "has_id": 442
     }

@@ -32,7 +32,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفتکه من:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -40,7 +40,7 @@
       "name": "شبلی",
       "relationship_type": "interlocutor",
       "full_text": "چون شبلی بمصر میشد، گذر وی بر شیخ بایعقوب میدانی بود، بدیدن شبلی آمد، وی آن وقت بنوی فرا زین کار مینگریست، و اول ارادت وی بود مردی فربه بود، شبلی دست بر بروی وی فرود آوردگفت: جبرک اللهّ! خدای ترا هوبره کناد!",
-      "person_id": 628,
+      "person_id": 699,
       "canonical_name": "أبو بكر الشبلي",
       "has_id": 376
     },
@@ -48,7 +48,7 @@
       "name": "مردمان",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "مردمان گفتند: این چیست؟ که وی بوی گفت، چنانک فرا کودک.",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     }

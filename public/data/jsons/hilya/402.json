@@ -8,23 +8,23 @@
       "chain": [
         {
           "name": "أبو الفرج بن بكر",
-          "person_id": 519,
+          "person_id": 581,
           "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "همام بن الحارث",
-          "person_id": 2606,
+          "person_id": 2667,
           "canonical_name": "همام بن الحارث",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا سعيد القرشي",
-          "person_id": 810,
-          "canonical_name": "أبو سعيد عبد الله بن محمد بن عبد الوهاب الرازي",
-          "has_id": NaN,
+          "person_id": 879,
+          "canonical_name": "أبو سعيد القرشي",
+          "has_id": 402,
           "subj_added": false
         }
       ],
@@ -36,23 +36,23 @@
       "chain": [
         {
           "name": "أبو الفرج بن بكر",
-          "person_id": 519,
+          "person_id": 581,
           "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "همام بن الحارث",
-          "person_id": 2606,
+          "person_id": 2667,
           "canonical_name": "همام بن الحارث",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا سعيد القرشي",
-          "person_id": 810,
-          "canonical_name": "أبو سعيد عبد الله بن محمد بن عبد الوهاب الرازي",
-          "has_id": NaN,
+          "person_id": 879,
+          "canonical_name": "أبو سعيد القرشي",
+          "has_id": 402,
           "subj_added": false
         }
       ],
@@ -71,7 +71,7 @@
       "name": "همام بن الحارث",
       "relationship_type": "narrator",
       "full_text": "سمعت همام بن الحارث يقول",
-      "person_id": 2606,
+      "person_id": 2667,
       "canonical_name": "همام بن الحارث",
       "has_id": NaN
     }

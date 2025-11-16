@@ -32,7 +32,7 @@
       "chain": [
         {
           "name": "بوحاتم",
-          "person_id": 751,
+          "person_id": 828,
           "canonical_name": "أبو حاتم العطّار البصري",
           "has_id": 109,
           "subj_added": false
@@ -46,14 +46,14 @@
       "chain": [
         {
           "name": "بوسعید زیادی",
-          "person_id": 809,
+          "person_id": 887,
           "canonical_name": "أبو سعيد زيادي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 751,
+          "person_id": 828,
           "canonical_name": "أبو حاتم العطّار البصري",
           "has_id": 109,
           "subj_added": true
@@ -71,7 +71,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "استاد",
         "full_text": "«و استاد» بو سعید خراز و جنید است",
-        "person_id": 801,
+        "person_id": 877,
         "canonical_name": "أبو سعيد الخراز",
         "has_id": 123
       },
@@ -80,7 +80,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "استاد",
         "full_text": "«و استاد» بو سعید خراز و جنید است",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       }
@@ -91,7 +91,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "از استادان",
         "full_text": "از استادان ابوتراب نخشبی بوده است",
-        "person_id": 721,
+        "person_id": 796,
         "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
         "has_id": 388
       }
@@ -102,7 +102,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اقران",
         "full_text": "از اقران بوتراب بوده است",
-        "person_id": 721,
+        "person_id": 796,
         "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
         "has_id": 388
       },
@@ -111,7 +111,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "باوی سفرکرده است",
         "full_text": "باوی سفرکرده است",
-        "person_id": 721,
+        "person_id": 796,
         "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
         "has_id": 388
       }
@@ -122,7 +122,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -130,7 +130,7 @@
       "name": "بوسعید زیادی",
       "relationship_type": "narrator",
       "full_text": "بوسعید زیادی گوید:",
-      "person_id": 809,
+      "person_id": 887,
       "canonical_name": "أبو سعيد زيادي",
       "has_id": NaN
     },
@@ -138,7 +138,7 @@
       "name": "مردی",
       "relationship_type": "interlocutor",
       "full_text": "مردی فرا در سرای بوحاتم عطار شد در یزد",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -146,7 +146,7 @@
       "name": "محمد وهب",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "گویند کی محمد وهب بود ابویعقوب الزیات در بزد",
-      "person_id": 2467,
+      "person_id": 2528,
       "canonical_name": "محمد بن وهب",
       "has_id": NaN
     },
@@ -154,7 +154,7 @@
       "name": "ابویعقوب الزیات",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "گویند کی محمد وهب بود ابویعقوب الزیات در بزد",
-      "person_id": 1135,
+      "person_id": 1199,
       "canonical_name": "أبو يعقوب الزيات",
       "has_id": 436
     },
@@ -162,7 +162,7 @@
       "name": "شبلی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "شبلی بخواب دید",
-      "person_id": 628,
+      "person_id": 699,
       "canonical_name": "أبو بكر الشبلي",
       "has_id": 376
     },
@@ -170,7 +170,7 @@
       "name": "خضر ﷷ",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "خضر ﷷ ناگاه برو درآمد",
-      "person_id": 145,
+      "person_id": 166,
       "canonical_name": "الخضر",
       "has_id": NaN
     },
@@ -178,7 +178,7 @@
       "name": "الیاس",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "گفت: او چنان است او برادر منست الیاس.",
-      "person_id": 259,
+      "person_id": 285,
       "canonical_name": "الياس",
       "has_id": NaN
     },
@@ -186,7 +186,7 @@
       "name": "موسی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "چنانک موسی بر من منکر شد.",
-      "person_id": 2567,
+      "person_id": 2627,
       "canonical_name": "موسي",
       "has_id": NaN
     }

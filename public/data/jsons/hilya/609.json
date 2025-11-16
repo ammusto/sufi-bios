@@ -14,35 +14,35 @@
       "chain": [
         {
           "name": "عثمان بن محمد العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو الحسن المذكر",
-          "person_id": 407,
+          "person_id": 459,
           "canonical_name": "أبو الحسن المذكر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمر بن يوسف",
-          "person_id": 2113,
+          "person_id": 2179,
           "canonical_name": "عمر بن يوسف",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن مسروق",
-          "person_id": 505,
+          "person_id": 567,
           "canonical_name": "أبو العباس بن مسروق الطوسي",
           "has_id": 451,
           "subj_added": false
         },
         {
           "name": "سيار النباجي",
-          "person_id": 1654,
+          "person_id": 1716,
           "canonical_name": "سيار النباجي",
           "has_id": 609,
           "subj_added": false
@@ -63,7 +63,7 @@
       "name": "أحمد بن مسروق",
       "relationship_type": "narrator",
       "full_text": "ثنا أحمد بن مسروق. قال قال سيار النباجي",
-      "person_id": 505,
+      "person_id": 567,
       "canonical_name": "أبو العباس بن مسروق الطوسي",
       "has_id": 451
     }

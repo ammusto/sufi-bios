@@ -8,42 +8,42 @@
       "chain": [
         {
           "name": "أبو بكر المؤذن",
-          "person_id": 650,
+          "person_id": 719,
           "canonical_name": "أبو بكر المؤذن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن أبان",
-          "person_id": 1175,
+          "person_id": 1239,
           "canonical_name": "أحمد بن أبان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر بن سفيان",
-          "person_id": 671,
+          "person_id": 741,
           "canonical_name": "أبو بكر بن سفيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن الحسين",
-          "person_id": 2239,
+          "person_id": 2304,
           "canonical_name": "محمد بن الحسين البرجلاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "زيد الخبرى",
-          "person_id": 1570,
+          "person_id": 1632,
           "canonical_name": "زيد الخبرى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو الوليد العباس بن المؤمل الصوفي",
-          "person_id": 566,
+          "person_id": 631,
           "canonical_name": "أبو الوليد العباس بن المؤمل الصوفي",
           "has_id": 238,
           "subj_added": false
@@ -57,14 +57,14 @@
       "chain": [
         {
           "name": "زيد الخبرى",
-          "person_id": 1570,
+          "person_id": 1632,
           "canonical_name": "زيد الخبرى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 566,
+          "person_id": 631,
           "canonical_name": "أبو الوليد العباس بن المؤمل الصوفي",
           "has_id": 238,
           "subj_added": true
@@ -85,7 +85,7 @@
       "name": "زيد الخبرى",
       "relationship_type": "narrator",
       "full_text": "قال حدثنى زيد الخبرى",
-      "person_id": 1570,
+      "person_id": 1632,
       "canonical_name": "زيد الخبرى",
       "has_id": NaN
     },
@@ -93,7 +93,7 @@
       "name": "هارون",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "- وكان أمر هارون بالمعروف فحبسه دهرا -",
-      "person_id": 2591,
+      "person_id": 2651,
       "canonical_name": "هارون",
       "has_id": NaN
     }

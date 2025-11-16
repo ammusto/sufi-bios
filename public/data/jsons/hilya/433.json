@@ -25,10 +25,17 @@
       "chain": [
         {
           "name": "جعفر بن محمد",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1162,
+          "canonical_name": "أبو نصر المحب",
+          "has_id": 433,
+          "subj_added": true
         }
       ],
       "type": "single_informant",
@@ -39,17 +46,24 @@
       "chain": [
         {
           "name": "أبو الحسن بن مقسم",
-          "person_id": 414,
+          "person_id": 468,
           "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "جعفر بن محمد",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1162,
+          "canonical_name": "أبو نصر المحب",
+          "has_id": 433,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -60,17 +74,24 @@
       "chain": [
         {
           "name": "أبو الحسن بن مقسم",
-          "person_id": 414,
+          "person_id": 468,
           "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا العباس بن مسروق",
-          "person_id": 505,
+          "person_id": 567,
           "canonical_name": "أبو العباس بن مسروق الطوسي",
           "has_id": 451,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1162,
+          "canonical_name": "أبو نصر المحب",
+          "has_id": 433,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -89,14 +110,14 @@
       "relationship_type": "narrator",
       "full_text": "سمعت أبا الحسن بن مقسم يقول",
       "has_id": NaN,
-      "person_id": 57,
-      "canonical_name": "أبو الحسن بن مقسم"
+      "person_id": 468,
+      "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ"
     },
     {
       "name": "جعفر بن محمد",
       "relationship_type": "narrator",
       "full_text": "أخبر جعفر بن محمد في كتابه",
-      "person_id": 1405,
+      "person_id": 1464,
       "canonical_name": "جعفر بن محمد الخلدي",
       "has_id": 495
     },
@@ -104,7 +125,7 @@
       "name": "أبا العباس بن مسروق",
       "relationship_type": "narrator",
       "full_text": "قال سمعت أبا العباس بن مسروق يقول",
-      "person_id": 505,
+      "person_id": 567,
       "canonical_name": "أبو العباس بن مسروق الطوسي",
       "has_id": 451
     },
@@ -113,7 +134,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "beggar",
       "full_text": "فإذا نحن بسائل يسأل ويقول: شفيعي إليكم محمد ﷺ",
-      "person_id": 1585,
+      "person_id": 1647,
       "canonical_name": "سائل",
       "has_id": NaN
     }

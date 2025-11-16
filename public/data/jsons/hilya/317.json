@@ -1,5 +1,5 @@
 {
-  "bio_id": "692",
+  "bio_id": "317",
   "source": "hilya",
   "death_date": "",
   "geographical_locations": [
@@ -14,16 +14,16 @@
       "chain": [
         {
           "name": "أبا القاسم الهاشمي",
-          "person_id": 544,
+          "person_id": 607,
           "canonical_name": "أبو القاسم الهاشمي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو الحسين بن هند الفارسي",
-          "person_id": 458,
-          "canonical_name": "أبو الحسين بن هند الفارسي",
-          "has_id": NaN,
+          "person_id": 519,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
           "subj_added": false
         }
       ],
@@ -35,17 +35,24 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "أبا الحسين بن هند",
-          "has_id": NaN,
-          "person_id": 98,
-          "canonical_name": "الحسن بن علي بن عفان",
+          "has_id": 317,
+          "person_id": 519,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 519,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -56,24 +63,31 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "محمد بن إبراهيم",
-          "person_id": 2269,
+          "person_id": 2334,
           "canonical_name": "محمد بن إبراهيم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا الحسين ابن هند",
-          "has_id": NaN,
-          "person_id": 99,
-          "canonical_name": "الحسن بن عمرو السبيعي",
+          "has_id": 317,
+          "person_id": 519,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 519,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -84,24 +98,31 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "محمد بن إبراهيم",
-          "person_id": 2269,
+          "person_id": 2334,
           "canonical_name": "محمد بن إبراهيم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا الحسين ابن هند",
-          "has_id": NaN,
-          "person_id": 100,
-          "canonical_name": "الحسن بن عيسى الدمشقي",
+          "has_id": 317,
+          "person_id": 519,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 519,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -112,14 +133,14 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "محمد بن إبراهيم",
-          "person_id": 2269,
+          "person_id": 2334,
           "canonical_name": "محمد بن إبراهيم",
           "has_id": NaN,
           "subj_added": false
@@ -127,9 +148,16 @@
         {
           "name": "أبا الحسين ابن هند",
           "has_id": NaN,
-          "person_id": 101,
+          "person_id": 498,
           "canonical_name": "أبو الحسين ابن هند",
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 519,
+          "canonical_name": "أبو الحسين علي بن هند الفارسي",
+          "has_id": 317,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -146,7 +174,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب عمرا المكى والجنيد وجعفر الحذاء.",
-        "person_id": 2126,
+        "person_id": 2192,
         "canonical_name": "عمرو بن عثمان المكي",
         "has_id": 716
       },
@@ -155,7 +183,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب عمرا المكى والجنيد وجعفر الحذاء.",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -164,7 +192,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب عمرا المكى والجنيد وجعفر الحذاء.",
-        "person_id": 727,
+        "person_id": 802,
         "canonical_name": "أبو جعفر الحذاء",
         "has_id": 494
       }
@@ -175,7 +203,7 @@
       "name": "أبا القاسم الهاشمي",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا القاسم الهاشمي يقول",
-      "person_id": 544,
+      "person_id": 607,
       "canonical_name": "أبو القاسم الهاشمي",
       "has_id": NaN
     },
@@ -183,7 +211,7 @@
       "name": "محمد بن الحسين",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن الحسين يقول",
-      "person_id": 845,
+      "person_id": 922,
       "canonical_name": "أبو عبد الرحمن السلمي",
       "has_id": 133
     },
@@ -191,7 +219,7 @@
       "name": "محمد بن إبراهيم",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن إبراهيم يقول",
-      "person_id": 2269,
+      "person_id": 2334,
       "canonical_name": "محمد بن إبراهيم",
       "has_id": NaN
     }

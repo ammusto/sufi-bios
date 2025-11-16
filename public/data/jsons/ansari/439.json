@@ -28,23 +28,24 @@
       "chain": [
         {
           "name": "ابواحمد المغازلی",
-          "person_id": 592,
+          "person_id": 663,
           "canonical_name": "أبو أحمد المغازلي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 452,
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
           "has_id": 439,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 452,
+          "name": "",
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
-          "has_id": 439
+          "has_id": 439,
+          "subj_added": false
         }
       ],
       "type": "single_informant",
@@ -61,29 +62,31 @@
       "chain": [
         {
           "name": "بوحمزهٔ بغدادی",
-          "person_id": 764,
-          "canonical_name": "أبو حمزة البغدادي",
-          "has_id": 397,
+          "person_id": 844,
+          "canonical_name": "أبو حمزة محمد بن إبراهيم البغدادي",
+          "has_id": 773,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 452,
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
           "has_id": 439,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 452,
+          "name": "",
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
-          "has_id": 439
+          "has_id": 439,
+          "subj_added": false
         },
         {
-          "name": NaN,
-          "person_id": 452,
+          "name": "",
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
-          "has_id": 439
+          "has_id": 439,
+          "subj_added": false
         }
       ],
       "type": "single_informant",
@@ -100,7 +103,7 @@
       "chain": [
         {
           "name": "بوالحسین نوری",
-          "person_id": 452,
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
           "has_id": 439,
           "subj_added": false
@@ -114,23 +117,24 @@
       "chain": [
         {
           "name": "بو زرعهٔ طبری",
-          "person_id": 789,
+          "person_id": 865,
           "canonical_name": "أبو زرعة الطبري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 452,
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
           "has_id": 439,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 452,
+          "name": "",
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
-          "has_id": 439
+          "has_id": 439,
+          "subj_added": false
         }
       ],
       "type": "single_informant",
@@ -141,29 +145,31 @@
       "chain": [
         {
           "name": "ذوالنون مصری",
-          "person_id": 1523,
+          "person_id": 1586,
           "canonical_name": "ذو النون المصري",
           "has_id": 570,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 452,
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
           "has_id": 439,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 452,
+          "name": "",
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
-          "has_id": 439
+          "has_id": 439,
+          "subj_added": false
         },
         {
-          "name": NaN,
-          "person_id": 452,
+          "name": "",
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
-          "has_id": 439
+          "has_id": 439,
+          "subj_added": false
         }
       ],
       "type": "single_informant",
@@ -174,7 +180,7 @@
       "chain": [
         {
           "name": "ابوالحسین نوری",
-          "person_id": 452,
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
           "has_id": 439,
           "subj_added": false
@@ -188,21 +194,21 @@
       "chain": [
         {
           "name": "ابوالقاسم بشر بن محمدبن عبداللهّ بن عبیداللّه الخطیب الصوفی السیاح الا بیوردی",
-          "person_id": 548,
+          "person_id": 611,
           "canonical_name": "أبو القاسم بشر بن محمد بن عبد اللهّ بن عبيدالله الخطيب الصوفي السياح الابيوردي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "اباعلی المغازلی الاصم البغدادی",
-          "person_id": 968,
+          "person_id": 1039,
           "canonical_name": "أبو علي المغازلي الاصم البغدادي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابا الحسین النوری",
-          "person_id": 452,
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
           "has_id": 439,
           "subj_added": false
@@ -216,7 +222,7 @@
       "chain": [
         {
           "name": "نوری",
-          "person_id": 452,
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
           "has_id": 439,
           "subj_added": false
@@ -230,23 +236,24 @@
       "chain": [
         {
           "name": "سمنون",
-          "person_id": 1634,
+          "person_id": 1695,
           "canonical_name": "سمنون بن حمزة المحب",
           "has_id": 603,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 452,
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
           "has_id": 439,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 452,
+          "name": "",
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
-          "has_id": 439
+          "has_id": 439,
+          "subj_added": false
         }
       ],
       "type": "single_informant",
@@ -257,7 +264,7 @@
       "chain": [
         {
           "name": "النوری",
-          "person_id": 452,
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
           "has_id": 439,
           "subj_added": false
@@ -271,14 +278,14 @@
       "chain": [
         {
           "name": "الشبلی",
-          "person_id": 628,
+          "person_id": 699,
           "canonical_name": "أبو بكر الشبلي",
           "has_id": 376,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 452,
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
           "has_id": 439,
           "subj_added": true
@@ -292,29 +299,31 @@
       "chain": [
         {
           "name": "ذوالنون",
-          "person_id": 1523,
+          "person_id": 1586,
           "canonical_name": "ذو النون المصري",
           "has_id": 570,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 452,
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
           "has_id": 439,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 452,
+          "name": "",
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
-          "has_id": 439
+          "has_id": 439,
+          "subj_added": false
         },
         {
-          "name": NaN,
-          "person_id": 452,
+          "name": "",
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
-          "has_id": 439
+          "has_id": 439,
+          "subj_added": false
         }
       ],
       "type": "single_informant",
@@ -325,7 +334,7 @@
       "chain": [
         {
           "name": "النوری",
-          "person_id": 452,
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
           "has_id": 439,
           "subj_added": false
@@ -339,7 +348,7 @@
       "chain": [
         {
           "name": "النوری",
-          "person_id": 452,
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
           "has_id": 439,
           "subj_added": false
@@ -353,7 +362,7 @@
       "chain": [
         {
           "name": "نوری",
-          "person_id": 452,
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
           "has_id": 439,
           "subj_added": false
@@ -371,7 +380,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده بود با",
         "full_text": "و نوری صحبت کرده بود باسری سقطی",
-        "person_id": 161,
+        "person_id": 183,
         "canonical_name": "السري السقطي",
         "has_id": 236
       },
@@ -380,7 +389,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده بود",
         "full_text": "و محمدعلی قصاب و احمد بوالحواری ٭ دیده بود",
-        "person_id": 2412,
+        "person_id": 2474,
         "canonical_name": "محمد بن علي القصاب",
         "has_id": NaN
       },
@@ -389,7 +398,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده بود",
         "full_text": "و محمدعلی قصاب و احمد بوالحواری ٭ دیده بود",
-        "person_id": 1177,
+        "person_id": 1241,
         "canonical_name": "أحمد بن أبي الحواري",
         "has_id": 442
       },
@@ -398,7 +407,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده بود",
         "full_text": "والذنون مصری٭ دیده بود.",
-        "person_id": 1523,
+        "person_id": 1586,
         "canonical_name": "ذو النون المصري",
         "has_id": 570
       }
@@ -410,7 +419,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از یاران، از اقران",
         "full_text": "از یاران جنید بوده از اقران او، و تیز وقت تر از جنید بود.",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -419,7 +428,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "گفت ... را",
         "full_text": "وقتی نوری گفت سمنون ٭ را امام محبت: که از دوستی سخن گوی!",
-        "person_id": 1634,
+        "person_id": 1695,
         "canonical_name": "سمنون بن حمزة المحب",
         "has_id": 603
       },
@@ -428,7 +437,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "میگفتم",
         "full_text": "نوری گفت: دی همه روز باخضر میگفتم و دوست میشنید و میپسندید یا نه، زبان من خشک گردید.",
-        "person_id": 145,
+        "person_id": 166,
         "canonical_name": "الخضر",
         "has_id": NaN
       }
@@ -439,7 +448,7 @@
       "name": "ابواحمد المغازلی",
       "relationship_type": "narrator",
       "full_text": "و قال ابواحمد المغازلی٭: مارایت احد قط اعبد من النوری. قبل و لا الجنید؟ قال و لاالجنید.",
-      "person_id": 592,
+      "person_id": 663,
       "canonical_name": "أبو أحمد المغازلي",
       "has_id": NaN
     },
@@ -447,7 +456,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت قدس اللّه روحه: که نوری ایذ، تسبیح داشتی در دست، ویرا گفتند: تستجلب به الذکر؟ وی گفت: لابل استجلب به الغلفه گفت: باین تسبیح میخواهیکه اللّه در یاد تو بود؟گفت: باین تسبیح می غفلت جویم.",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -455,15 +464,15 @@
       "name": "بوحمزهٔ بغدادی",
       "relationship_type": "narrator",
       "full_text": "بوحمزهٔ بغدادی گفت: لولا الغفلة لمات الصدیقون من روح ذکر اللّه.",
-      "person_id": 764,
-      "canonical_name": "أبو حمزة البغدادي",
-      "has_id": 397
+      "person_id": 844,
+      "canonical_name": "أبو حمزة محمد بن إبراهيم البغدادي",
+      "has_id": 773
     },
     {
       "name": "بو زرعهٔ طبری",
       "relationship_type": "narrator",
       "full_text": "بو زرعهٔ طبری ٭ گوید: کی فرا ابوالحسین بغدادی گفتم. که از نوری مرا سخن بگوی، گفت: فراد نوری گفتندکی اللّه به چه شناختی؟ گفت با اللّه. گفتند: پس عقل چیست؟ گفت: عاجز است، راه ننماید مگر بر عاجز. سخن ابراهیم دهستانی ٭ که جز ازو نشناسد، یعنی او با او بتوان شناخت.",
-      "person_id": 789,
+      "person_id": 865,
       "canonical_name": "أبو زرعة الطبري",
       "has_id": NaN
     },
@@ -472,7 +481,7 @@
       "relationship_type": "interlocutor",
       "context": "asked_about_nuri",
       "full_text": "فرا ابوالحسین بغدادی گفتم. که از نوری مرا سخن بگوی",
-      "person_id": 443,
+      "person_id": 500,
       "canonical_name": "أبو الحسين البغدادي",
       "has_id": NaN
     },
@@ -480,7 +489,7 @@
       "name": "جوانی خراسانی",
       "relationship_type": "questioner",
       "full_text": "کی جوانی خراسانی آمد بابرهیم رقی قصار٭ دمی گفت میخواهم که بوالحسین نوری میبینم",
-      "person_id": 1421,
+      "person_id": 1481,
       "canonical_name": "جواني خراساني",
       "has_id": NaN
     },
@@ -488,7 +497,7 @@
       "name": "ابرهیم رقی قصار",
       "relationship_type": "interlocutor",
       "full_text": "بابرهیم رقی قصار٭ دمی گفت میخواهم که بوالحسین نوری میبینم گفت: اوکه سه سال بنزدیک ما بود، هیچ از دهشت بیرون نیامد.",
-      "person_id": 284,
+      "person_id": 310,
       "canonical_name": "إبراهيم القصار الرقي",
       "has_id": 13
     },
@@ -496,7 +505,7 @@
       "name": "ابن الاعرابی",
       "relationship_type": "narrator",
       "full_text": "ابن الاعرابی ٭ گوید: که قرب نگویند تا مسافت نبود، آخر دوگانگی بجا بود که بنگری قرب بعد است. بعدک منی هو قرباک... البیتان.",
-      "person_id": 807,
+      "person_id": 885,
       "canonical_name": "أبو سعيد بن الأعرابي",
       "has_id": 400
     },
@@ -504,7 +513,7 @@
       "name": "سمنون",
       "relationship_type": "interlocutor",
       "full_text": "سمنون گفت: از دوستی او ترا، یا از دوستی تو او را؟",
-      "person_id": 1634,
+      "person_id": 1695,
       "canonical_name": "سمنون بن حمزة المحب",
       "has_id": 603
     },
@@ -512,7 +521,7 @@
       "name": "ابوالقاسم بشر بن محمدبن عبداللهّ بن عبیداللّه الخطیب الصوفی السیاح الا بیوردی",
       "relationship_type": "narrator",
       "full_text": "سمعت ابالقاسم بشر بن محمدبن عبداللهّ بن عبیداللّه الخطیب الصوفی السیاح الا بیوردی فی رجب سنه اربع عشرة و اربعمائة، یقول",
-      "person_id": 548,
+      "person_id": 611,
       "canonical_name": "أبو القاسم بشر بن محمد بن عبد اللهّ بن عبيدالله الخطيب الصوفي السياح الابيوردي",
       "has_id": NaN
     },
@@ -520,7 +529,7 @@
       "name": "اباعلی المغازلی الاصم البغدادی",
       "relationship_type": "direct_narrator",
       "full_text": "سمعت اباعلی المغازلی الاصم البغدادی٭ بالاهوازو کان اتا علیه مائة سنه، یقول سمعت ابا الحسین النوری یقول",
-      "person_id": 968,
+      "person_id": 1039,
       "canonical_name": "أبو علي المغازلي الاصم البغدادي",
       "has_id": NaN
     },
@@ -528,7 +537,7 @@
       "name": "ذوالنون مصری",
       "relationship_type": "narrator",
       "full_text": "ذوالنون مصری گفت: کی اللهّ تعالی عقل بیافرید، گفت: بنشین؟ بنشست گفت: برخیز؟ برخاست. گفت برو؟ برفت. گفت بعزة من که هیچ چیز نیافریم نیکوتر از تو بر من کیم؟ گفت: ندانم ویرا کحل کشید بنور وحدانیت و تعریف.",
-      "person_id": 1523,
+      "person_id": 1586,
       "canonical_name": "ذو النون المصري",
       "has_id": 570
     },
@@ -536,7 +545,7 @@
       "name": "الشبلی",
       "relationship_type": "narrator",
       "full_text": "و قال الشبلی ٭ الذکر مالاذکره.",
-      "person_id": 628,
+      "person_id": 699,
       "canonical_name": "أبو بكر الشبلي",
       "has_id": 376
     },
@@ -545,7 +554,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "interlocutor",
       "full_text": "نوری گفت: دی همه روز باخضر میگفتم و دوست میشنید و میپسندید یا نه، زبان من خشک گردید.",
-      "person_id": 145,
+      "person_id": 166,
       "canonical_name": "الخضر",
       "has_id": NaN
     },
@@ -553,7 +562,7 @@
       "name": "ابراهیم دهستانی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "سخن ابراهیم دهستانی ٭ که جز ازو نشناسد، یعنی او با او بتوان شناخت.",
-      "person_id": 280,
+      "person_id": 306,
       "canonical_name": "إبراهيم الدهستاني",
       "has_id": 14
     },
@@ -561,7 +570,7 @@
       "name": "جنید",
       "relationship_type": "interlocutor",
       "full_text": "وقتی از جنید چیزی پرسیدند از صبر و توکل، جنید آهنگ کرد که جواب گوید. نوری گفت: مگو! بانگ بروی زد گفت: نه تو وقت محنت صوفیان بیک سوی شدی و دست در داشمندی زدی مگوی!",
-      "person_id": 532,
+      "person_id": 595,
       "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
       "has_id": 228
     }

@@ -14,56 +14,56 @@
       "chain": [
         {
           "name": "عبد الله بن محمد بن جعفر",
-          "person_id": 1868,
+          "person_id": 1937,
           "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إسحاق بن أبي حسان",
-          "person_id": 343,
+          "person_id": 370,
           "canonical_name": "إسحاق بن أبي حسان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد ابن أبي الحواري",
-          "person_id": 1177,
+          "person_id": 1241,
           "canonical_name": "أحمد بن أبي الحواري",
           "has_id": 442,
           "subj_added": false
         },
         {
           "name": "أبو سعيد البراقعي",
-          "person_id": 799,
+          "person_id": 875,
           "canonical_name": "أبو سعيد البراقعي",
           "has_id": 401,
           "subj_added": false
         },
         {
           "name": "عبيد الله بن زحر الحداد",
-          "person_id": 1930,
+          "person_id": 1999,
           "canonical_name": "عبيد الله بن زحر الحداد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "صالح المري",
-          "person_id": 1684,
+          "person_id": 1751,
           "canonical_name": "صالح المري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "حوشب",
-          "person_id": 1483,
+          "person_id": 1545,
           "canonical_name": "حوشب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن",
-          "person_id": 75,
+          "person_id": 91,
           "canonical_name": "الحسن",
           "has_id": NaN,
           "subj_added": false
@@ -81,7 +81,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "ثنا",
         "full_text": "ثنا عبيد الله بن زحر الحداد",
-        "person_id": 1930,
+        "person_id": 1999,
         "canonical_name": "عبيد الله بن زحر الحداد",
         "has_id": NaN
       }
@@ -92,7 +92,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "ثنا",
         "full_text": "ثنا أبو سعيد البراقعي",
-        "person_id": 1177,
+        "person_id": 1241,
         "canonical_name": "أحمد بن أبي الحواري",
         "has_id": 442
       }
@@ -104,7 +104,7 @@
       "name": "أحمد ابن أبي الحواري",
       "relationship_type": "narrator",
       "full_text": "ثنا أحمد ابن أبي الحواري",
-      "person_id": 1177,
+      "person_id": 1241,
       "canonical_name": "أحمد بن أبي الحواري",
       "has_id": 442
     }

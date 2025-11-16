@@ -50,29 +50,31 @@
       "chain": [
         {
           "name": "الجنید",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 628,
+          "person_id": 699,
           "canonical_name": "أبو بكر الشبلي",
           "has_id": 376,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 628,
+          "name": "",
+          "person_id": 699,
           "canonical_name": "أبو بكر الشبلي",
-          "has_id": 376
+          "has_id": 376,
+          "subj_added": false
         },
         {
-          "name": NaN,
-          "person_id": 628,
+          "name": "",
+          "person_id": 699,
           "canonical_name": "أبو بكر الشبلي",
-          "has_id": 376
+          "has_id": 376,
+          "subj_added": false
         }
       ],
       "type": "single_informant",
@@ -83,14 +85,14 @@
       "chain": [
         {
           "name": "جنید",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 628,
+          "person_id": 699,
           "canonical_name": "أبو بكر الشبلي",
           "has_id": 376,
           "subj_added": true
@@ -104,42 +106,42 @@
       "chain": [
         {
           "name": "بوعبداللّه",
-          "person_id": 852,
+          "person_id": 929,
           "canonical_name": "أبو عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن یحیی الفرغانی",
-          "person_id": 2472,
+          "person_id": 2533,
           "canonical_name": "محمد بن يحيي الفرغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابوبکر تفلیسی",
-          "person_id": 628,
+          "person_id": 699,
           "canonical_name": "أبو بكر الشبلي",
           "has_id": 376,
           "subj_added": false
         },
         {
           "name": "ابن زیری",
-          "person_id": 23,
+          "person_id": 30,
           "canonical_name": "ابن زيري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "جنید",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 628,
+          "person_id": 699,
           "canonical_name": "أبو بكر الشبلي",
           "has_id": 376,
           "subj_added": true
@@ -159,14 +161,14 @@
       "chain": [
         {
           "name": "جنید",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 628,
+          "person_id": 699,
           "canonical_name": "أبو بكر الشبلي",
           "has_id": 376,
           "subj_added": true
@@ -180,7 +182,7 @@
       "chain": [
         {
           "name": "شبلی",
-          "person_id": 628,
+          "person_id": 699,
           "canonical_name": "أبو بكر الشبلي",
           "has_id": 376,
           "subj_added": false
@@ -194,14 +196,14 @@
       "chain": [
         {
           "name": "شیخ بوسعد مالینی",
-          "person_id": 796,
+          "person_id": 872,
           "canonical_name": "أبو سعد الماليني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "شبلی",
-          "person_id": 628,
+          "person_id": 699,
           "canonical_name": "أبو بكر الشبلي",
           "has_id": 376,
           "subj_added": false
@@ -233,7 +235,7 @@
       "chain": [
         {
           "name": "شبلی",
-          "person_id": 628,
+          "person_id": 699,
           "canonical_name": "أبو بكر الشبلي",
           "has_id": 376,
           "subj_added": false
@@ -247,23 +249,24 @@
       "chain": [
         {
           "name": "کسی",
-          "person_id": 1530,
+          "person_id": 1593,
           "canonical_name": "رجل",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 628,
+          "person_id": 699,
           "canonical_name": "أبو بكر الشبلي",
           "has_id": 376,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 628,
+          "name": "",
+          "person_id": 699,
           "canonical_name": "أبو بكر الشبلي",
-          "has_id": 376
+          "has_id": 376,
+          "subj_added": false
         }
       ],
       "type": "single_informant",
@@ -278,7 +281,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد جنید٭ ایذ عالم بوده",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       }
@@ -291,7 +294,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت: قدس اللّه روحه و عظم کرامته، کی",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -299,7 +302,7 @@
       "name": "بوعبداللّه",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت: که بوعبداللّه گفت، کی محمد بن یحیی الفرغانی گفته: کی از ابوبکر تفلیسی شنیدهم، و از ابن زیری که جنیدگفت:",
-      "person_id": 852,
+      "person_id": 929,
       "canonical_name": "أبو عبد الله",
       "has_id": NaN
     },
@@ -307,7 +310,7 @@
       "name": "محمد بن یحیی الفرغانی",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت: که بوعبداللّه گفت، کی محمد بن یحیی الفرغانی گفته: کی از ابوبکر تفلیسی شنیدهم، و از ابن زیری که جنیدگفت:",
-      "person_id": 2472,
+      "person_id": 2533,
       "canonical_name": "محمد بن يحيي الفرغاني",
       "has_id": NaN
     },
@@ -315,7 +318,7 @@
       "name": "ابوبکر تفلیسی",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت: که بوعبداللّه گفت، کی محمد بن یحیی الفرغانی گفته: کی از ابوبکر تفلیسی شنیدهم، و از ابن زیری که جنیدگفت:",
-      "person_id": 612,
+      "person_id": 684,
       "canonical_name": "أبو بكر التفليسي",
       "has_id": NaN
     },
@@ -323,7 +326,7 @@
       "name": "ابن زیری",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت: که بوعبداللّه گفت، کی محمد بن یحیی الفرغانی گفته: کی از ابوبکر تفلیسی شنیدهم، و از ابن زیری که جنیدگفت:",
-      "person_id": 23,
+      "person_id": 30,
       "canonical_name": "ابن زيري",
       "has_id": NaN
     },
@@ -331,7 +334,7 @@
       "name": "الجنید",
       "relationship_type": "narrator",
       "full_text": "قال الجنید",
-      "person_id": 532,
+      "person_id": 595,
       "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
       "has_id": 228
     },
@@ -339,7 +342,7 @@
       "name": "شیخ بوسعد مالینی",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ الاسلام گفت: کی شیخ بوسعد مالینی حافظ صوفی آورده این حکایت از شبلی، که وی گفته:",
-      "person_id": 796,
+      "person_id": 872,
       "canonical_name": "أبو سعد الماليني",
       "has_id": NaN
     },
@@ -348,7 +351,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "در مجلس خیر نساج٭ توبه کرد",
       "full_text": "در مجلس خیر نساج٭ توبه کرد",
-      "person_id": 1510,
+      "person_id": 1572,
       "canonical_name": "خير النساج",
       "has_id": 564
     },
@@ -356,7 +359,7 @@
       "name": "ابن عطا",
       "relationship_type": "interlocutor",
       "full_text": "فقال له ابن عطا هکذی یا باالقاسم!فقال نعم یا احمد!",
-      "person_id": 498,
+      "person_id": 559,
       "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
       "has_id": 340
     },
@@ -365,7 +368,7 @@
       "relationship_type": "questioner",
       "context": "مرا دعا کن",
       "full_text": "کسی فرا شبلی گفت: کی مرا دعا کن، این بیت برخواند.",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     }

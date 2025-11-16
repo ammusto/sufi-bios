@@ -14,7 +14,7 @@
       "chain": [
         {
           "name": "عثمان بن محمد العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
@@ -22,16 +22,23 @@
         {
           "name": "أبا الحسن محمد بن أحمد",
           "has_id": NaN,
-          "person_id": 81,
-          "canonical_name": "الحسن بن بشر البلخى",
+          "person_id": 406,
+          "canonical_name": "أبا الحسن محمد بن أحمد",
           "subj_added": false
         },
         {
           "name": "عبيد البسرى",
-          "person_id": 1923,
+          "person_id": 1991,
           "canonical_name": "عبيد البسرى",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1565,
+          "canonical_name": "خفي",
+          "has_id": 533,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -49,7 +56,7 @@
       "name": "عبيد البسرى",
       "relationship_type": "narrator",
       "full_text": "ثنا عبيد البسرى",
-      "person_id": 1923,
+      "person_id": 1991,
       "canonical_name": "عبيد البسرى",
       "has_id": NaN
     },
@@ -58,7 +65,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "interlocutor",
       "full_text": "قال: سألت رجلا بالكام: ما الذي أجلسك في هذا الموضع؟",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -67,7 +74,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "interlocutors",
       "full_text": "فبينا أنا على ذلك إذا أنا بجماعة فقالوا: ما فعل الفتى",
-      "person_id": 1412,
+      "person_id": 1471,
       "canonical_name": "جماعة",
       "has_id": NaN
     },
@@ -76,7 +83,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "comparison",
       "full_text": "قلبه على قلب إبراهيم الخليل ﵇",
-      "person_id": 277,
+      "person_id": 304,
       "canonical_name": "إبراهيم الخليل",
       "has_id": NaN
     }

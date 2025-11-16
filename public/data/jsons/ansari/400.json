@@ -45,7 +45,7 @@
       "chain": [
         {
           "name": "ابن الاعرابی",
-          "person_id": 807,
+          "person_id": 885,
           "canonical_name": "أبو سعيد بن الأعرابي",
           "has_id": 400,
           "subj_added": false
@@ -59,7 +59,7 @@
       "chain": [
         {
           "name": "ابن الاعرابی",
-          "person_id": 807,
+          "person_id": 885,
           "canonical_name": "أبو سعيد بن الأعرابي",
           "has_id": 400,
           "subj_added": false
@@ -83,7 +83,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "از این طایفه با جنید٭ صحبت کرده و با عمر و عثمان مکی و بوالحسین نوری و حسن مسوحی٭ و با بوجعفر حداد و بوالفتح حمال",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -92,7 +92,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "از این طایفه با جنید٭ صحبت کرده و با عمر و عثمان مکی و بوالحسین نوری و حسن مسوحی٭ و با بوجعفر حداد و بوالفتح حمال",
-        "person_id": 2084,
+        "person_id": 2149,
         "canonical_name": "عمر",
         "has_id": NaN
       },
@@ -101,7 +101,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "از این طایفه با جنید٭ صحبت کرده و با عمر و عثمان مکی و بوالحسین نوری و حسن مسوحی٭ و با بوجعفر حداد و بوالفتح حمال",
-        "person_id": 2126,
+        "person_id": 2192,
         "canonical_name": "عمرو بن عثمان المكي",
         "has_id": 716
       },
@@ -110,7 +110,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "از این طایفه با جنید٭ صحبت کرده و با عمر و عثمان مکی و بوالحسین نوری و حسن مسوحی٭ و با بوجعفر حداد و بوالفتح حمال",
-        "person_id": 452,
+        "person_id": 510,
         "canonical_name": "أبو الحسين النوري",
         "has_id": 439
       },
@@ -119,7 +119,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "از این طایفه با جنید٭ صحبت کرده و با عمر و عثمان مکی و بوالحسین نوری و حسن مسوحی٭ و با بوجعفر حداد و بوالفتح حمال",
-        "person_id": 1445,
+        "person_id": 1507,
         "canonical_name": "حسن المسوحي",
         "has_id": 512
       },
@@ -128,7 +128,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "از این طایفه با جنید٭ صحبت کرده و با عمر و عثمان مکی و بوالحسین نوری و حسن مسوحی٭ و با بوجعفر حداد و بوالفتح حمال",
-        "person_id": 726,
+        "person_id": 801,
         "canonical_name": "أبو جعفر الحداد",
         "has_id": 389
       },
@@ -137,7 +137,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "از این طایفه با جنید٭ صحبت کرده و با عمر و عثمان مکی و بوالحسین نوری و حسن مسوحی٭ و با بوجعفر حداد و بوالفتح حمال",
-        "person_id": 512,
+        "person_id": 574,
         "canonical_name": "أبو الفتح الحمال",
         "has_id": NaN
       }
@@ -150,7 +150,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -159,7 +159,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "حکایت",
       "full_text": "کی با داود طائی گفتند: کی تو مشتاقی؟ گفت: نه\nغایب مشتاق بود، دوست بر من حاضر است.",
-      "person_id": 1513,
+      "person_id": 1576,
       "canonical_name": "داود الطائي",
       "has_id": 405
     }

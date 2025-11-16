@@ -31,7 +31,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "استاد",
         "full_text": "ابن ابراهیم بن سعد استاد بوالحارث اولاسی است، سید بوده از مشایخ.",
-        "person_id": 389,
+        "person_id": 433,
         "canonical_name": "أبو الحارث الأولاسي",
         "has_id": 290
       }
@@ -42,7 +42,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "نظیر",
         "full_text": "صاحب کرامات ظاهر، نظیر ابراهیم ادهم.",
-        "person_id": 301,
+        "person_id": 326,
         "canonical_name": "إبراهيم بن أدهم",
         "has_id": 274
       }
@@ -53,7 +53,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -61,7 +61,7 @@
       "name": "بوالحارث اولاسی",
       "relationship_type": "interlocutor",
       "full_text": "و بوالحارث گفت: دست بیاور!",
-      "person_id": 389,
+      "person_id": 433,
       "canonical_name": "أبو الحارث الأولاسي",
       "has_id": 290
     }

@@ -8,24 +8,31 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "أبو جعفر الرازي",
-          "person_id": 748,
+          "person_id": 825,
           "canonical_name": "أبو جعفر محمد بن أحمد بن سعيد الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "زكريا بن دلويه",
-          "person_id": 1561,
+          "person_id": 1623,
           "canonical_name": "زكريا بن دلويه",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 585,
+          "canonical_name": "أبو الفضل الهاشمي",
+          "has_id": 348,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -43,7 +50,7 @@
       "name": "زكريا بن دلويه",
       "relationship_type": "narrator",
       "full_text": "قال سمعت زكريا بن دلويه يقول",
-      "person_id": 1561,
+      "person_id": 1623,
       "canonical_name": "زكريا بن دلويه",
       "has_id": NaN
     },
@@ -52,7 +59,7 @@
       "relationship_type": "interlocutor",
       "context": "visitor",
       "full_text": "دخل أبو العباس بن مسروق الطوسي على أبى الفضل الهاشمى",
-      "person_id": 505,
+      "person_id": 567,
       "canonical_name": "أبو العباس بن مسروق الطوسي",
       "has_id": 451
     }

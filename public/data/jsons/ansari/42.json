@@ -29,7 +29,7 @@
         {
           "name": "جعفر بن احمد",
           "person_id": 1437,
-          "canonical_name": "حجاج",
+          "canonical_name": "جارية",
           "has_id": NaN,
           "subj_added": false
         }
@@ -43,7 +43,7 @@
         {
           "name": "المزین الصغیر",
           "person_id": 234,
-          "canonical_name": "المسيب بن رافع",
+          "canonical_name": "القاسم بن غلان الزقاق",
           "has_id": NaN,
           "subj_added": false
         }
@@ -57,21 +57,21 @@
         {
           "name": "بوعبداللّه باکو٭",
           "person_id": 15,
-          "canonical_name": "ابن باكوية الشيرازي",
-          "has_id": 150,
+          "canonical_name": "ابن أبي سعيد الأنصاري",
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد نجار",
           "person_id": 2268,
-          "canonical_name": "محمد بن الهيثم",
+          "canonical_name": "ليث",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بوالحسن مزین",
           "person_id": 420,
-          "canonical_name": "أبو الحسن بن زرعان",
+          "canonical_name": "أببي",
           "has_id": NaN,
           "subj_added": false
         }
@@ -91,7 +91,7 @@
         {
           "name": "بوالحسن مزین",
           "person_id": 420,
-          "canonical_name": "أبو الحسن بن زرعان",
+          "canonical_name": "أببي",
           "has_id": NaN,
           "subj_added": false
         }
@@ -117,8 +117,8 @@
         {
           "name": "شیخ عمو",
           "person_id": 1726,
-          "canonical_name": "عبد الأعلى بن حمّاد",
-          "has_id": NaN,
+          "canonical_name": "شداد المجذوم",
+          "has_id": 617,
           "subj_added": false
         }
       ],
@@ -141,7 +141,7 @@
         "relationship_phrase": "حکایت کند",
         "full_text": "ازو گویندکی از با بعقوب اقطع حکایت کند",
         "person_id": 1385,
-        "canonical_name": "جدي",
+        "canonical_name": "بشر بن السري",
         "has_id": NaN
       }
     ],
@@ -154,7 +154,7 @@
       "relationship_type": "narrator",
       "full_text": "قال جعفر بن احمدکانا المزینان ابنا الخالة.",
       "person_id": 1437,
-      "canonical_name": "حجاج",
+      "canonical_name": "جارية",
       "has_id": NaN
     },
     {
@@ -162,7 +162,7 @@
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
       "person_id": 1725,
-      "canonical_name": "عبد الأعلى بن أبي المساور",
+      "canonical_name": "شخصي",
       "has_id": NaN
     },
     {
@@ -170,15 +170,15 @@
       "relationship_type": "narrator",
       "full_text": "بوعبداللّه باکو٭ گفت",
       "person_id": 15,
-      "canonical_name": "ابن باكوية الشيرازي",
-      "has_id": 150
+      "canonical_name": "ابن أبي سعيد الأنصاري",
+      "has_id": NaN
     },
     {
       "name": "محمد نجار",
       "relationship_type": "direct_narrator",
       "full_text": "محمد نجار گفت",
       "person_id": 2268,
-      "canonical_name": "محمد بن الهيثم",
+      "canonical_name": "ليث",
       "has_id": NaN
     },
     {
@@ -186,8 +186,8 @@
       "relationship_type": "narrator",
       "full_text": "شیخ عمو حکایت کرد",
       "person_id": 1726,
-      "canonical_name": "عبد الأعلى بن حمّاد",
-      "has_id": NaN
+      "canonical_name": "شداد المجذوم",
+      "has_id": 617
     },
     {
       "name": "مردی",
@@ -195,7 +195,7 @@
       "context": "supplicant",
       "full_text": "مردی وقتی فراشیری رسید مرده، گفت: آلهی! ویرا زندهگردان",
       "person_id": 1573,
-      "canonical_name": "زيد بن أخزم",
+      "canonical_name": "داود",
       "has_id": NaN
     },
     {
@@ -203,7 +203,7 @@
       "relationship_type": "interlocutor",
       "full_text": "آن کودک کهینه روباپس کرد وگفت: ایها الشیخ! یعلم ما فی انفسکم فاحذروه.",
       "person_id": 2246,
-      "canonical_name": "محمد بن السماك",
+      "canonical_name": "قرة بن عبد الرحمن",
       "has_id": NaN
     },
     {
@@ -211,7 +211,7 @@
       "relationship_type": "interlocutor",
       "full_text": "باز همان کودک کهین روی باز پس کرد و میرفت گفت: ایها الشیخ! یقبل التوبة عن عباده.",
       "person_id": 2245,
-      "canonical_name": "محمد بن الربيع",
+      "canonical_name": "قتيبة بن سعيد",
       "has_id": NaN
     }
   ]

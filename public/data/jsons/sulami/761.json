@@ -24,15 +24,15 @@
         {
           "name": "أبي جَعْفَر بن حمدَان",
           "person_id": 745,
-          "canonical_name": "أبو ﺟﻌﻔﺮ أحمد ﺑﻦ ﺣَﻤﺪان النيسابوري",
-          "has_id": NaN,
+          "canonical_name": "أبو بكر بن عسى الأبهري",
+          "has_id": 374,
           "subj_added": false
         },
         {
           "name": "مَحْفُوظ بن مَحْمُود",
           "person_id": 2213,
-          "canonical_name": "محفوظ بن محمود",
-          "has_id": 761,
+          "canonical_name": "غلام الدقاق",
+          "has_id": NaN,
           "subj_added": false
         }
       ],
@@ -45,15 +45,15 @@
         {
           "name": "أبي جَعْفَر بن حمدَان",
           "person_id": 745,
-          "canonical_name": "أبو ﺟﻌﻔﺮ أحمد ﺑﻦ ﺣَﻤﺪان النيسابوري",
-          "has_id": NaN,
+          "canonical_name": "أبو بكر بن عسى الأبهري",
+          "has_id": 374,
           "subj_added": false
         },
         {
           "name": "مَحْفُوظ بن مَحْمُود",
           "person_id": 2213,
-          "canonical_name": "محفوظ بن محمود",
-          "has_id": 761,
+          "canonical_name": "غلام الدقاق",
+          "has_id": NaN,
           "subj_added": false
         }
       ],
@@ -66,15 +66,15 @@
         {
           "name": "أبي جَعْفَر بن حمدَان",
           "person_id": 745,
-          "canonical_name": "أبو ﺟﻌﻔﺮ أحمد ﺑﻦ ﺣَﻤﺪان النيسابوري",
-          "has_id": NaN,
+          "canonical_name": "أبو بكر بن عسى الأبهري",
+          "has_id": 374,
           "subj_added": false
         },
         {
           "name": "مَحْفُوظ بن مَحْمُود",
           "person_id": 2213,
-          "canonical_name": "محفوظ بن محمود",
-          "has_id": 761,
+          "canonical_name": "غلام الدقاق",
+          "has_id": NaN,
           "subj_added": false
         }
       ],
@@ -87,15 +87,15 @@
         {
           "name": "أبي جَعْفَر بن حمدَان",
           "person_id": 745,
-          "canonical_name": "أبو ﺟﻌﻔﺮ أحمد ﺑﻦ ﺣَﻤﺪان النيسابوري",
-          "has_id": NaN,
+          "canonical_name": "أبو بكر بن عسى الأبهري",
+          "has_id": 374,
           "subj_added": false
         },
         {
           "name": "مَحْفُوظ بن مَحْمُود",
           "person_id": 2213,
-          "canonical_name": "محفوظ بن محمود",
-          "has_id": 761,
+          "canonical_name": "غلام الدقاق",
+          "has_id": NaN,
           "subj_added": false
         }
       ],
@@ -108,15 +108,15 @@
         {
           "name": "أبي جَعْفَر بن حمدَان",
           "person_id": 745,
-          "canonical_name": "أبو ﺟﻌﻔﺮ أحمد ﺑﻦ ﺣَﻤﺪان النيسابوري",
-          "has_id": NaN,
+          "canonical_name": "أبو بكر بن عسى الأبهري",
+          "has_id": 374,
           "subj_added": false
         },
         {
           "name": "مَحْفُوظ بن مَحْمُود",
           "person_id": 2213,
-          "canonical_name": "محفوظ بن محمود",
-          "has_id": 761,
+          "canonical_name": "غلام الدقاق",
+          "has_id": NaN,
           "subj_added": false
         }
       ],
@@ -129,15 +129,15 @@
         {
           "name": "أبي جَعْفَر بن حمدَان",
           "person_id": 745,
-          "canonical_name": "أبو ﺟﻌﻔﺮ أحمد ﺑﻦ ﺣَﻤﺪان النيسابوري",
-          "has_id": NaN,
+          "canonical_name": "أبو بكر بن عسى الأبهري",
+          "has_id": 374,
           "subj_added": false
         },
         {
           "name": "مَحْفُوظ بن مَحْمُود",
           "person_id": 2213,
-          "canonical_name": "محفوظ بن محمود",
-          "has_id": 761,
+          "canonical_name": "غلام الدقاق",
+          "has_id": NaN,
           "subj_added": false
         }
       ],
@@ -150,15 +150,15 @@
         {
           "name": "مَحْفُوظ",
           "person_id": 2213,
-          "canonical_name": "محفوظ بن محمود",
-          "has_id": 761,
+          "canonical_name": "غلام الدقاق",
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا صَالح حمدونا",
           "person_id": 827,
-          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
-          "has_id": 524,
+          "canonical_name": "أبو جناب الكلبي",
+          "has_id": NaN,
           "subj_added": false
         }
       ],
@@ -174,7 +174,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "سَمِعت ... يَقُول",
         "full_text": "فَقَالَ سَمِعت أَبَا صَالح حمدونا يَقُول",
-        "person_id": 827,
+        "person_id": 906,
         "canonical_name": "أبو صالح حمدون بن أحمد القصار",
         "has_id": 524
       }
@@ -186,7 +186,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "من أَصْحَاب",
         "full_text": "من أَصْحَاب أبي حَفْص النَّيْسَابُورِي",
-        "person_id": 759,
+        "person_id": 836,
         "canonical_name": "أبو حفص الحداد النيسابوري",
         "has_id": 715
       },
@@ -195,7 +195,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "يصحب ... ويلازمه",
         "full_text": "وَكَانَ بعد موت أبي حَفْص يصحب أَبَا عُثْمَان ويلازمه طول عمره",
-        "person_id": 932,
+        "person_id": 1013,
         "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
         "has_id": 419
       },
@@ -204,7 +204,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "وَكَانَ قد صحب أَيْضا حمدونا الْقصار وسلما الباروسي وعليا النصراباذي",
-        "person_id": 827,
+        "person_id": 906,
         "canonical_name": "أبو صالح حمدون بن أحمد القصار",
         "has_id": 524
       },
@@ -213,7 +213,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "وَكَانَ قد صحب أَيْضا حمدونا الْقصار وسلما الباروسي وعليا النصراباذي",
-        "person_id": 423,
+        "person_id": 478,
         "canonical_name": "أبو الحسن سلم بن الحسن الباروسي",
         "has_id": 291
       },
@@ -222,7 +222,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "وَكَانَ قد صحب أَيْضا حمدونا الْقصار وسلما الباروسي وعليا النصراباذي",
-        "person_id": 1990,
+        "person_id": 2061,
         "canonical_name": "علي النصراباذي",
         "has_id": NaN
       }
@@ -233,7 +233,7 @@
       "name": "أبي جَعْفَر بن حمدَان",
       "relationship_type": "narrator",
       "full_text": "رَأَيْت بِخَط أبي جَعْفَر بن حمدَان",
-      "person_id": 745,
+      "person_id": 821,
       "canonical_name": "أبو ﺟﻌﻔﺮ أحمد ﺑﻦ ﺣَﻤﺪان النيسابوري",
       "has_id": NaN
     },
@@ -241,7 +241,7 @@
       "name": "أَبَا صَالح حمدونا",
       "relationship_type": "narrator",
       "full_text": "سَمِعت أَبَا صَالح حمدونا يَقُول",
-      "person_id": 827,
+      "person_id": 906,
       "canonical_name": "أبو صالح حمدون بن أحمد القصار",
       "has_id": 524
     }

@@ -22,45 +22,52 @@
     {
       "chain": [
         {
+          "name": "",
+          "person_id": 482,
+          "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
+          "has_id": 292,
+          "subj_added": true
+        },
+        {
           "name": "محمد بن عبد الرحمن الشامي",
-          "person_id": 2373,
+          "person_id": 2436,
           "canonical_name": "محمد بن عبد الرحمن الشامي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إسماعيل بن أبي إدريس",
-          "person_id": 359,
+          "person_id": 386,
           "canonical_name": "إسماعيل بن أبي إدريس",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إسماعيل بن إبراهيم بن أبي حبيبة",
-          "person_id": 357,
+          "person_id": 384,
           "canonical_name": "إسماعيل بن إبراهيم بن أبي حبيبة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "داود بن الحصين",
-          "person_id": 1514,
+          "person_id": 1577,
           "canonical_name": "داود بن الحصين",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عكرمة",
-          "person_id": 1978,
-          "canonical_name": "عكرمة",
           "has_id": NaN,
+          "person_id": 2047,
+          "canonical_name": "عكرمة",
           "subj_added": false
         },
         {
           "name": "ابن عباس",
-          "has_id": NaN,
-          "person_id": 26,
+          "person_id": 38,
           "canonical_name": "ابن عباس",
+          "has_id": NaN,
           "subj_added": false
         }
       ],
@@ -71,22 +78,29 @@
     {
       "chain": [
         {
+          "name": "",
+          "person_id": 482,
+          "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
+          "has_id": 292,
+          "subj_added": true
+        },
+        {
           "name": "سليمان بن أحمد",
-          "person_id": 1626,
+          "person_id": 1687,
           "canonical_name": "سليمان بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علي بن المبارك الصنعاني",
-          "person_id": 2006,
+          "person_id": 2077,
           "canonical_name": "علي بن المبارك الصنعاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إسماعيل بن أبي أويس",
-          "person_id": 360,
+          "person_id": 387,
           "canonical_name": "إسماعيل بن أبي أويس",
           "has_id": NaN,
           "subj_added": false
@@ -100,23 +114,23 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 507,
-          "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
+          "person_id": 2291,
+          "canonical_name": "محمد بن الحسن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا العباس محمد بن الحسين الخشاب البغدادي",
-          "person_id": 507,
+          "person_id": 569,
           "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا الحسن البوسنجى",
-          "has_id": 26,
-          "person_id": 22,
-          "canonical_name": "أبو عبد الله بن خفيف",
+          "has_id": 292,
+          "person_id": 482,
+          "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
           "subj_added": false
         }
       ],
@@ -128,23 +142,23 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 507,
+          "person_id": 569,
           "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا بكر الرازي",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا الحسن البوسنجى",
-          "has_id": NaN,
-          "person_id": 23,
-          "canonical_name": "ابن زيري",
+          "has_id": 292,
+          "person_id": 482,
+          "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
           "subj_added": false
         }
       ],
@@ -156,23 +170,23 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 507,
+          "person_id": 569,
           "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن عبد الله الحافظ",
-          "person_id": 2378,
+          "person_id": 2441,
           "canonical_name": "محمد بن عبد الله الحافظ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا الحسن البوسنجى",
-          "has_id": NaN,
-          "person_id": 24,
-          "canonical_name": "أبو الحسن البوسنجى",
+          "has_id": 292,
+          "person_id": 482,
+          "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
           "subj_added": false
         }
       ],
@@ -191,7 +205,7 @@
       "name": "أبا العباس محمد بن الحسين الخشاب البغدادي",
       "relationship_type": "questioner",
       "full_text": "سمعت أبا العباس محمد بن الحسين الخشاب البغدادي يقول سمعت أبا الحسن البوسنجى وسألته عن السنة",
-      "person_id": 507,
+      "person_id": 569,
       "canonical_name": "أبو العباس محمد بن الحسن البغدادي",
       "has_id": NaN
     },
@@ -199,7 +213,7 @@
       "name": "أبا بكر الرازي",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا بكر الرازي يقول سمعت أبا الحسن البوسنجى يقول",
-      "person_id": 707,
+      "person_id": 782,
       "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
       "has_id": NaN
     },
@@ -207,7 +221,7 @@
       "name": "محمد بن عبد الله الحافظ",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن عبد الله الحافظ يقول سمعت أبا الحسن البوسنجى يقول",
-      "person_id": 2378,
+      "person_id": 2441,
       "canonical_name": "محمد بن عبد الله الحافظ",
       "has_id": NaN
     }

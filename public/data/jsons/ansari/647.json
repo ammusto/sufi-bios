@@ -24,35 +24,35 @@
       "chain": [
         {
           "name": "بوبکر داشگر فرامن",
-          "person_id": 685,
+          "person_id": 758,
           "canonical_name": "أبو بكر داشگر فرامن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بومعشر معروف",
-          "person_id": 1082,
-          "canonical_name": "أبو معشر معروف",
+          "person_id": 1148,
+          "canonical_name": "أبو معشر معروف بن أحمد الزاهد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بوبکر حفید",
-          "person_id": 617,
+          "person_id": 689,
           "canonical_name": "أبو بكر الحفيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عباس حمزه",
-          "person_id": 521,
+          "person_id": 583,
           "canonical_name": "أبو الفضل العباس بن حمزة",
           "has_id": 647,
           "subj_added": false
         },
         {
           "name": "ذوالنون",
-          "person_id": 1523,
+          "person_id": 1586,
           "canonical_name": "ذو النون المصري",
           "has_id": 570,
           "subj_added": false
@@ -66,7 +66,7 @@
       "chain": [
         {
           "name": "عباس حمزه",
-          "person_id": 521,
+          "person_id": 583,
           "canonical_name": "أبو الفضل العباس بن حمزة",
           "has_id": 647,
           "subj_added": false
@@ -90,7 +90,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده",
         "full_text": "با ذوالنون صحبت کرده",
-        "person_id": 1523,
+        "person_id": 1586,
         "canonical_name": "ذو النون المصري",
         "has_id": 570
       },
@@ -99,7 +99,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده",
         "full_text": "با ذوالنون صحبت کرده و بایزید",
-        "person_id": 1128,
+        "person_id": 1191,
         "canonical_name": "أبو يزيد البسطامي",
         "has_id": 435
       }
@@ -112,7 +112,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -120,7 +120,7 @@
       "name": "بوبکر داشگر فرامن",
       "relationship_type": "narrator",
       "full_text": "بوبکر داشگر فرامن گفت",
-      "person_id": 685,
+      "person_id": 758,
       "canonical_name": "أبو بكر داشگر فرامن",
       "has_id": NaN
     },
@@ -128,15 +128,15 @@
       "name": "بومعشر معروف",
       "relationship_type": "narrator",
       "full_text": "بومعشر معروف گفت",
-      "person_id": 1082,
-      "canonical_name": "أبو معشر معروف",
+      "person_id": 1148,
+      "canonical_name": "أبو معشر معروف بن أحمد الزاهد",
       "has_id": NaN
     },
     {
       "name": "بوبکر حفید",
       "relationship_type": "direct_narrator",
       "full_text": "بوبکر حفیدگفت، که جد من عباس حمزه",
-      "person_id": 617,
+      "person_id": 689,
       "canonical_name": "أبو بكر الحفيد",
       "has_id": NaN
     }

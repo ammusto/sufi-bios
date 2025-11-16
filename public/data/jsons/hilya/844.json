@@ -1,5 +1,5 @@
 {
-  "bio_id": "884",
+  "bio_id": "844",
   "source": "hilya",
   "death_date": "",
   "geographical_locations": [
@@ -14,21 +14,21 @@
       "chain": [
         {
           "name": "أبو الحسن محمد بن محمد بن عبيد الله بن عمرو",
-          "person_id": 439,
+          "person_id": 494,
           "canonical_name": "أبو الحسن محمد بن محمد بن عبيد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن بن علوية الدامغاني",
-          "person_id": 92,
+          "person_id": 110,
           "canonical_name": "الحسن بن علوية الدامغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -42,21 +42,21 @@
       "chain": [
         {
           "name": "محمد بن محمد",
-          "person_id": 438,
+          "person_id": 493,
           "canonical_name": "أبو الحسن محمد بن محمد المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن بن علوية",
-          "person_id": 92,
+          "person_id": 110,
           "canonical_name": "الحسن بن علوية الدامغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -70,21 +70,21 @@
       "chain": [
         {
           "name": "محمد",
-          "person_id": 438,
+          "person_id": 493,
           "canonical_name": "أبو الحسن محمد بن محمد المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن",
-          "person_id": 92,
+          "person_id": 110,
           "canonical_name": "الحسن بن علوية الدامغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -98,21 +98,21 @@
       "chain": [
         {
           "name": "محمد",
-          "person_id": 438,
+          "person_id": 493,
           "canonical_name": "أبو الحسن محمد بن محمد المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن",
-          "person_id": 92,
+          "person_id": 110,
           "canonical_name": "الحسن بن علوية الدامغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -126,21 +126,21 @@
       "chain": [
         {
           "name": "محمد",
-          "person_id": 438,
+          "person_id": 493,
           "canonical_name": "أبو الحسن محمد بن محمد المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن",
-          "person_id": 92,
+          "person_id": 110,
           "canonical_name": "الحسن بن علوية الدامغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -154,28 +154,28 @@
       "chain": [
         {
           "name": "عثمان بن محمد العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن أحمد بن محمد البغدادي",
-          "person_id": 2315,
+          "person_id": 2379,
           "canonical_name": "محمد بن أحمد بن محمد البغدادي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن سهل الرازي",
-          "person_id": 1831,
+          "person_id": 1899,
           "canonical_name": "عبد الله بن سهل الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -189,28 +189,28 @@
       "chain": [
         {
           "name": "عثمان بن محمد العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن أحمد بن محمد البغدادي",
-          "person_id": 2315,
+          "person_id": 2379,
           "canonical_name": "محمد بن أحمد بن محمد البغدادي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن سهل الرازي",
-          "person_id": 1831,
+          "person_id": 1899,
           "canonical_name": "عبد الله بن سهل الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -224,21 +224,21 @@
       "chain": [
         {
           "name": "محمد بن محمد بن زيد",
-          "person_id": 2442,
+          "person_id": 2504,
           "canonical_name": "محمد بن محمد بن زيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن بن علوية الدامغاني",
-          "person_id": 92,
+          "person_id": 110,
           "canonical_name": "الحسن بن علوية الدامغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -252,21 +252,21 @@
       "chain": [
         {
           "name": "محمد بن محمد بن زيد",
-          "person_id": 2442,
+          "person_id": 2504,
           "canonical_name": "محمد بن محمد بن زيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن بن علوية الدامغاني",
-          "person_id": 92,
+          "person_id": 110,
           "canonical_name": "الحسن بن علوية الدامغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -280,21 +280,21 @@
       "chain": [
         {
           "name": "أبو الحسن أحمد بن محمد بن الحسن بن مقسم",
-          "person_id": 411,
+          "person_id": 464,
           "canonical_name": "أبو الحسن أحمد بن محمد بن الحسن بن مقسم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو العباس بن حكويه الرازي",
-          "person_id": 502,
+          "person_id": 564,
           "canonical_name": "أبو العباس بن حكويه الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -308,21 +308,21 @@
       "chain": [
         {
           "name": "أبو الحسن",
-          "person_id": 411,
+          "person_id": 464,
           "canonical_name": "أبو الحسن أحمد بن محمد بن الحسن بن مقسم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو العباس",
-          "person_id": 502,
+          "person_id": 564,
           "canonical_name": "أبو العباس بن حكويه الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -336,21 +336,21 @@
       "chain": [
         {
           "name": "أبو الحسن",
-          "person_id": 411,
+          "person_id": 464,
           "canonical_name": "أبو الحسن أحمد بن محمد بن الحسن بن مقسم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو العباس",
-          "person_id": 502,
+          "person_id": 564,
           "canonical_name": "أبو العباس بن حكويه الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -364,28 +364,28 @@
       "chain": [
         {
           "name": "محمد بن محمد",
-          "person_id": 438,
+          "person_id": 493,
           "canonical_name": "أبو الحسن محمد بن محمد المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن بن محمد الرازي المذكر",
-          "person_id": 101,
-          "canonical_name": "أبو الحسين ابن هند",
+          "person_id": 119,
+          "canonical_name": "الحسن بن محمد الرازي المذكر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 584,
+          "person_id": 655,
           "canonical_name": "أبو أبي محمد محمد الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -399,28 +399,28 @@
       "chain": [
         {
           "name": "محمد",
-          "person_id": 438,
+          "person_id": 493,
           "canonical_name": "أبو الحسن محمد بن محمد المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن",
-          "person_id": 92,
+          "person_id": 110,
           "canonical_name": "الحسن بن علوية الدامغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 426,
-          "canonical_name": "أبو الحسن علوية الدامغاني",
+          "person_id": 1216,
+          "canonical_name": "أبي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -434,21 +434,21 @@
       "chain": [
         {
           "name": "أبو الحسن بن عمرو",
-          "person_id": 437,
+          "person_id": 492,
           "canonical_name": "أبو الحسن محمد بن عمرو الجرجاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن بن علوية",
-          "person_id": 92,
+          "person_id": 110,
           "canonical_name": "الحسن بن علوية الدامغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -462,28 +462,28 @@
       "chain": [
         {
           "name": "محمد بن أحمد البغدادي أبو بكر",
-          "person_id": 693,
+          "person_id": 766,
           "canonical_name": "أبو بكر محمد بن أحمد البغدادي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عثمان ابن محمد العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن سهل الرازي",
-          "person_id": 1831,
+          "person_id": 1899,
           "canonical_name": "عبد الله بن سهل الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -497,14 +497,14 @@
       "chain": [
         {
           "name": "محمد بن إبراهيم",
-          "person_id": 2269,
+          "person_id": 2334,
           "canonical_name": "محمد بن إبراهيم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن قارن الرازى",
-          "person_id": 2433,
+          "person_id": 2495,
           "canonical_name": "محمد بن قارن الرازى",
           "has_id": NaN,
           "subj_added": false
@@ -512,9 +512,16 @@
         {
           "name": "ابن معاذ",
           "has_id": NaN,
-          "person_id": 120,
-          "canonical_name": "الحسين بن محمد",
+          "person_id": 54,
+          "canonical_name": "ابن معاذ",
           "subj_added": false
+        },
+        {
+          "person_id": 2709,
+          "canonical_name": "يحيى بن معاذ الرازي",
+          "has_id": 844,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -525,28 +532,28 @@
       "chain": [
         {
           "name": "أبو بكر محمد بن الحسين الآجري",
-          "person_id": 689,
+          "person_id": 762,
           "canonical_name": "أبو بكر محمد بن الحسين الآجري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عباس بن يوسف الشكلي",
-          "person_id": 185,
+          "person_id": 209,
           "canonical_name": "العباس بن يوسف الشكلي",
           "has_id": 649,
           "subj_added": false
         },
         {
           "name": "محمد بن الحسن بن العلاء البلخي",
-          "person_id": 2229,
+          "person_id": 2295,
           "canonical_name": "محمد بن الحسن بن العلاء البلخي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ الرازي",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -560,21 +567,21 @@
       "chain": [
         {
           "name": "أبو الحسن",
-          "person_id": 411,
+          "person_id": 464,
           "canonical_name": "أبو الحسن أحمد بن محمد بن الحسن بن مقسم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو العباس",
-          "person_id": 502,
+          "person_id": 564,
           "canonical_name": "أبو العباس بن حكويه الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -588,21 +595,21 @@
       "chain": [
         {
           "name": "أبو الحسن",
-          "person_id": 411,
+          "person_id": 464,
           "canonical_name": "أبو الحسن أحمد بن محمد بن الحسن بن مقسم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو العباس",
-          "person_id": 502,
+          "person_id": 564,
           "canonical_name": "أبو العباس بن حكويه الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -616,28 +623,28 @@
       "chain": [
         {
           "name": "أبو بكر محمد بن أحمد",
-          "person_id": 693,
+          "person_id": 766,
           "canonical_name": "أبو بكر محمد بن أحمد البغدادي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عثمان",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله ابن سهل الرازي",
-          "person_id": 1831,
+          "person_id": 1899,
           "canonical_name": "عبد الله بن سهل الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -651,21 +658,21 @@
       "chain": [
         {
           "name": "أبو الحسن محمد بن عمرو",
-          "person_id": 437,
+          "person_id": 492,
           "canonical_name": "أبو الحسن محمد بن عمرو الجرجاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن بن علوية",
-          "person_id": 92,
+          "person_id": 110,
           "canonical_name": "الحسن بن علوية الدامغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -679,21 +686,21 @@
       "chain": [
         {
           "name": "أبو الحسن",
-          "person_id": 411,
+          "person_id": 464,
           "canonical_name": "أبو الحسن أحمد بن محمد بن الحسن بن مقسم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن",
-          "person_id": 92,
+          "person_id": 110,
           "canonical_name": "الحسن بن علوية الدامغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -707,21 +714,21 @@
       "chain": [
         {
           "name": "محمد بن محمد بن عبيد الله",
-          "person_id": 2445,
+          "person_id": 2506,
           "canonical_name": "محمد بن محمد بن عبيد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن محمد بن مسعود البدشي",
-          "person_id": 2448,
+          "person_id": 2509,
           "canonical_name": "محمد بن محمد بن مسعود البدشي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -735,21 +742,21 @@
       "chain": [
         {
           "name": "محمد بن محمد بن عبيد الله",
-          "person_id": 2445,
+          "person_id": 2506,
           "canonical_name": "محمد بن محمد بن عبيد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن محمد بن مسعود",
-          "person_id": 1262,
+          "person_id": 1324,
           "canonical_name": "أحمد بن محمد بن مسعود",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -763,21 +770,21 @@
       "chain": [
         {
           "name": "محمد بن محمد",
-          "person_id": 438,
+          "person_id": 493,
           "canonical_name": "أبو الحسن محمد بن محمد المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن أحمد بن مسعود البدشي",
-          "person_id": 2448,
+          "person_id": 2509,
           "canonical_name": "محمد بن محمد بن مسعود البدشي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -791,21 +798,21 @@
       "chain": [
         {
           "name": "محمد بن محمد بن عبيد الله",
-          "person_id": 2445,
+          "person_id": 2506,
           "canonical_name": "محمد بن محمد بن عبيد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن أحمد",
-          "person_id": 2292,
+          "person_id": 2356,
           "canonical_name": "محمد بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -819,28 +826,28 @@
       "chain": [
         {
           "name": "أبو بكر محمد بن أحمد البغدادي",
-          "person_id": 693,
+          "person_id": 766,
           "canonical_name": "أبو بكر محمد بن أحمد البغدادي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عثمان بن محمد",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن سهل",
-          "person_id": 1831,
+          "person_id": 1899,
           "canonical_name": "عبد الله بن سهل الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -854,28 +861,28 @@
       "chain": [
         {
           "name": "أبو الحسن محمد بن عمرو الجرجاني",
-          "person_id": 437,
+          "person_id": 492,
           "canonical_name": "أبو الحسن محمد بن عمرو الجرجاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو محمد الحسن ابن محمد الرازي المذكر",
-          "person_id": 1037,
+          "person_id": 1106,
           "canonical_name": "أبو محمد الحسن بن محمد الرازي المذكر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 584,
+          "person_id": 655,
           "canonical_name": "أبو أبي محمد محمد الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -889,28 +896,28 @@
       "chain": [
         {
           "name": "محمد بن الحسين بن موسى",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "منصور بن عبد الله",
-          "person_id": 2547,
+          "person_id": 2606,
           "canonical_name": "منصور بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن بن علوية",
-          "person_id": 92,
+          "person_id": 110,
           "canonical_name": "الحسن بن علوية الدامغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -924,28 +931,28 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "محمد بن علي النهاوندي",
-          "person_id": 2413,
+          "person_id": 2475,
           "canonical_name": "محمد بن علي النهاوندي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "موسى بن محمد",
-          "person_id": 2564,
+          "person_id": 2623,
           "canonical_name": "موسى بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -959,28 +966,28 @@
       "chain": [
         {
           "name": "عبد الواحد بن بكر",
-          "person_id": 519,
+          "person_id": 581,
           "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن محمد بن علي البردعي",
-          "person_id": 1258,
+          "person_id": 1320,
           "canonical_name": "أحمد بن محمد بن علي البرذعي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "طاهر ابن إسماعيل الرازي",
-          "person_id": 1698,
+          "person_id": 1766,
           "canonical_name": "طاهر بن إسماعيل الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -994,28 +1001,28 @@
       "chain": [
         {
           "name": "عثمان بن محمد العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر البغدادي",
-          "person_id": 611,
+          "person_id": 683,
           "canonical_name": "أبو بكر البغدادي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن سهل الرازي",
-          "person_id": 1831,
+          "person_id": 1899,
           "canonical_name": "عبد الله بن سهل الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -1029,28 +1036,28 @@
       "chain": [
         {
           "name": "عثمان بن محمد",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو الحسن أحمد بن محمد بن عيسى",
-          "person_id": 412,
+          "person_id": 465,
           "canonical_name": "أبو الحسن أحمد بن محمد بن عيسى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إسماعيل بن معاذ",
-          "person_id": 367,
+          "person_id": 394,
           "canonical_name": "إسماعيل بن معاذ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -1064,28 +1071,28 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "عبد الواحد بن بكر",
-          "person_id": 519,
+          "person_id": 581,
           "canonical_name": "أبو الفرج عبد الواحد بن بكر الورثاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن أبي طلحة",
-          "person_id": 523,
+          "person_id": 586,
           "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن أحمد الجرجاني",
-          "person_id": 2296,
+          "person_id": 2360,
           "canonical_name": "محمد بن أحمد الجرجاني",
           "has_id": NaN,
           "subj_added": false
@@ -1093,13 +1100,13 @@
         {
           "name": "ابن كمال الجرجاني",
           "has_id": NaN,
-          "person_id": 121,
-          "canonical_name": "الحسين بن محمد الباشاني أبو عبد الله",
+          "person_id": 50,
+          "canonical_name": "ابن كمال الجرجاني",
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -1113,21 +1120,21 @@
       "chain": [
         {
           "name": "محمد بن محمد بن عبد الله",
-          "person_id": 2444,
-          "canonical_name": "محمد بن محمد بن عبد الله",
+          "person_id": 2506,
+          "canonical_name": "محمد بن محمد بن عبيد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن بن علوية",
-          "person_id": 92,
+          "person_id": 110,
           "canonical_name": "الحسن بن علوية الدامغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -1141,28 +1148,28 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "محمد بن عبد الله",
-          "person_id": 464,
+          "person_id": 522,
           "canonical_name": "أبو الحسين محمد بن عبد الله بن عمرو",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن ابن علوية",
-          "person_id": 92,
+          "person_id": 110,
           "canonical_name": "الحسن بن علوية الدامغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -1176,28 +1183,28 @@
       "chain": [
         {
           "name": "عثمان بن محمد العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن بن أبي الحسن البصرى",
-          "person_id": 78,
+          "person_id": 96,
           "canonical_name": "الحسن بن أبي الحسن البصري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "على ابن جعفر بن أحمد الكاتب",
-          "person_id": 1982,
+          "person_id": 2051,
           "canonical_name": "على بن جعفر بن أحمد الكاتب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ الرازي",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -1211,21 +1218,21 @@
       "chain": [
         {
           "name": "عثمان بن محمد العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي الحسن الزهري البصري",
-          "person_id": 399,
+          "person_id": 444,
           "canonical_name": "أبو الحسن الزهري البصري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ الرازي",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -1239,28 +1246,28 @@
       "chain": [
         {
           "name": "محمد بن أحمد",
-          "person_id": 693,
+          "person_id": 766,
           "canonical_name": "أبو بكر محمد بن أحمد البغدادي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عثمان بن محمد",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن سهل الرازي",
-          "person_id": 1831,
+          "person_id": 1899,
           "canonical_name": "عبد الله بن سهل الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -1274,21 +1281,21 @@
       "chain": [
         {
           "name": "أبو الحسن محمد بن محمد المقرئ",
-          "person_id": 438,
+          "person_id": 493,
           "canonical_name": "أبو الحسن محمد بن محمد المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن بن علوية الدامغاني",
-          "person_id": 92,
+          "person_id": 110,
           "canonical_name": "الحسن بن علوية الدامغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -1302,28 +1309,28 @@
       "chain": [
         {
           "name": "عثمان بن محمد العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر البغدادي",
-          "person_id": 611,
+          "person_id": 683,
           "canonical_name": "أبو بكر البغدادي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن سهل",
-          "person_id": 1831,
+          "person_id": 1899,
           "canonical_name": "عبد الله بن سهل الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -1337,28 +1344,28 @@
       "chain": [
         {
           "name": "عثمان بن محمد",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو الحسن أحمد بن محمد بن عيسى",
-          "person_id": 412,
+          "person_id": 465,
           "canonical_name": "أبو الحسن أحمد بن محمد بن عيسى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إسماعيل بن معاذ",
-          "person_id": 367,
+          "person_id": 394,
           "canonical_name": "إسماعيل بن معاذ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -1372,21 +1379,21 @@
       "chain": [
         {
           "name": "محمد بن محمد بن زيد",
-          "person_id": 2442,
+          "person_id": 2504,
           "canonical_name": "محمد بن محمد بن زيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن بن علوية",
-          "person_id": 92,
+          "person_id": 110,
           "canonical_name": "الحسن بن علوية الدامغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -1400,21 +1407,21 @@
       "chain": [
         {
           "name": "محمد بن عبيد الله",
-          "person_id": 2397,
+          "person_id": 2459,
           "canonical_name": "محمد بن عبيد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن بن علوية",
-          "person_id": 92,
+          "person_id": 110,
           "canonical_name": "الحسن بن علوية الدامغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -1428,35 +1435,35 @@
       "chain": [
         {
           "name": "أبو الحسين محمد بن عبد الله بن عمرو",
-          "person_id": 464,
+          "person_id": 522,
           "canonical_name": "أبو الحسين محمد بن عبد الله بن عمرو",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن بن علوية",
-          "person_id": 92,
+          "person_id": 110,
           "canonical_name": "الحسن بن علوية الدامغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
         },
         {
           "name": "علي بن محمد الطنافسي",
-          "person_id": 2064,
+          "person_id": 2130,
           "canonical_name": "علي بن محمد الطنافسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن آدم",
-          "person_id": 2638,
+          "person_id": 2697,
           "canonical_name": "يحيى بن آدم",
           "has_id": NaN,
           "subj_added": false
@@ -1464,41 +1471,41 @@
         {
           "name": "ابن المبارك",
           "has_id": 668,
-          "person_id": 1804,
+          "person_id": 1871,
           "canonical_name": "عبد الله بن المبارك",
           "subj_added": false
         },
         {
           "name": "حيوة بن شريح",
-          "person_id": 1486,
+          "person_id": 1548,
           "canonical_name": "حيوة بن شريح",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بكر بن عمرو",
-          "person_id": 1355,
+          "person_id": 1416,
           "canonical_name": "بكر بن عمرو",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن هبيرة",
-          "person_id": 1886,
+          "person_id": 1955,
           "canonical_name": "عبد الله بن هبيرة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو تميم",
-          "person_id": 722,
+          "person_id": 797,
           "canonical_name": "أبو تميم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمر بن الخطاب",
-          "person_id": 2091,
+          "person_id": 2157,
           "canonical_name": "عمر بن الخطاب",
           "has_id": NaN,
           "subj_added": false
@@ -1512,31 +1519,38 @@
       "chain": [
         {
           "name": "أحمد بن يوسف",
-          "person_id": 1282,
+          "person_id": 1342,
           "canonical_name": "أحمد بن يوسف",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحارث بن أبي أسامة",
-          "person_id": 70,
+          "person_id": 86,
           "canonical_name": "الحارث بن أبي أسامة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو عبد الرحمن المقرئ",
-          "person_id": 848,
+          "person_id": 925,
           "canonical_name": "أبو عبد الرحمن المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "حيوة بن شريح",
-          "person_id": 1486,
+          "person_id": 1548,
           "canonical_name": "حيوة بن شريح",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "person_id": 2709,
+          "canonical_name": "يحيى بن معاذ الرازي",
+          "has_id": 844,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -1547,56 +1561,56 @@
       "chain": [
         {
           "name": "محمد بن محمد بن زيد",
-          "person_id": 2442,
+          "person_id": 2504,
           "canonical_name": "محمد بن محمد بن زيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن بن علوية",
-          "person_id": 92,
+          "person_id": 110,
           "canonical_name": "الحسن بن علوية الدامغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
         },
         {
           "name": "علي بن محمد الطنافسي",
-          "person_id": 2064,
+          "person_id": 2130,
           "canonical_name": "علي بن محمد الطنافسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو معاوية",
-          "person_id": 1079,
+          "person_id": 1145,
           "canonical_name": "أبو معاوية",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إسماعيل بن نفيع",
-          "person_id": 368,
+          "person_id": 395,
           "canonical_name": "إسماعيل بن نفيع بن الحارث",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو داود",
-          "person_id": 773,
+          "person_id": 849,
           "canonical_name": "أبو داود",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أنس بن مالك",
-          "person_id": 1310,
+          "person_id": 1372,
           "canonical_name": "أنس بن مالك",
           "has_id": NaN,
           "subj_added": false
@@ -1610,45 +1624,52 @@
       "chain": [
         {
           "name": "أبو بكر الطلحي",
-          "person_id": 633,
+          "person_id": 703,
           "canonical_name": "أبو بكر الطلحي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبيد بن عثمان",
-          "person_id": 1939,
+          "person_id": 2008,
           "canonical_name": "عبيد بن عثمان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر بن أبي شيبة",
-          "person_id": 663,
+          "person_id": 733,
           "canonical_name": "أبو بكر بن أبي شيبة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن نمير",
-          "person_id": 1885,
+          "person_id": 1954,
           "canonical_name": "عبد الله بن نمير",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إسماعيل ابن نفيع بن الحارث",
-          "person_id": 368,
+          "person_id": 395,
           "canonical_name": "إسماعيل بن نفيع بن الحارث",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أنس",
-          "person_id": 1310,
+          "person_id": 1372,
           "canonical_name": "أنس بن مالك",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "person_id": 2709,
+          "canonical_name": "يحيى بن معاذ الرازي",
+          "has_id": 844,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -1659,63 +1680,63 @@
       "chain": [
         {
           "name": "أبو الحسن محمد بن أحمد الجرجاني",
-          "person_id": 437,
+          "person_id": 492,
           "canonical_name": "أبو الحسن محمد بن عمرو الجرجاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن بن علوية",
-          "person_id": 92,
+          "person_id": 110,
           "canonical_name": "الحسن بن علوية الدامغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى ابن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
         },
         {
           "name": "علي بن محمد",
-          "person_id": 2064,
+          "person_id": 2130,
           "canonical_name": "علي بن محمد الطنافسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن فضيل",
-          "person_id": 2430,
+          "person_id": 2492,
           "canonical_name": "محمد بن فضيل",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "وكيع",
-          "person_id": 2618,
+          "person_id": 2678,
           "canonical_name": "وكيع بن الجراح",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سفيان",
-          "person_id": 1606,
+          "person_id": 1667,
           "canonical_name": "سفيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ضرار بن مرة",
-          "person_id": 1694,
+          "person_id": 1762,
           "canonical_name": "ضرار بن مرة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سعيد بن جبير",
-          "person_id": 1596,
+          "person_id": 1658,
           "canonical_name": "سعيد بن جبير",
           "has_id": NaN,
           "subj_added": false
@@ -1729,45 +1750,52 @@
       "chain": [
         {
           "name": "أبو بكر ابن مالك",
-          "person_id": 677,
+          "person_id": 749,
           "canonical_name": "أبو بكر بن مالك",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن أحمد بن حنبل",
-          "person_id": 1814,
+          "person_id": 1881,
           "canonical_name": "عبد الله بن أحمد بن حنبل",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 587,
+          "person_id": 658,
           "canonical_name": "أبو أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن فضيل",
-          "person_id": 2430,
+          "person_id": 2492,
           "canonical_name": "محمد بن فضيل",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ضرار",
-          "person_id": 1693,
+          "person_id": 1761,
           "canonical_name": "ضرار",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سعيد",
-          "person_id": 1596,
+          "person_id": 1658,
           "canonical_name": "سعيد بن جبير",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "person_id": 2709,
+          "canonical_name": "يحيى بن معاذ الرازي",
+          "has_id": 844,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -1778,49 +1806,49 @@
       "chain": [
         {
           "name": "أبو الحسين",
-          "person_id": 464,
+          "person_id": 522,
           "canonical_name": "أبو الحسين محمد بن عبد الله بن عمرو",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن بن علوية",
-          "person_id": 92,
+          "person_id": 110,
           "canonical_name": "الحسن بن علوية الدامغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
         },
         {
           "name": "علي بن محمد الطنافسي",
-          "person_id": 2064,
+          "person_id": 2130,
           "canonical_name": "علي بن محمد الطنافسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو معاوية",
-          "person_id": 1079,
+          "person_id": 1145,
           "canonical_name": "أبو معاوية",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "حجاج",
-          "person_id": 1437,
+          "person_id": 1498,
           "canonical_name": "حجاج",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مكحول",
-          "person_id": 2529,
+          "person_id": 2588,
           "canonical_name": "مكحول",
           "has_id": NaN,
           "subj_added": false
@@ -1841,7 +1869,7 @@
       "name": "الحسن بن علوية الدامغاني",
       "relationship_type": "narrator",
       "full_text": "قال سمعت الحسن بن علوية الدامغاني يقول - سنة أربع عشرة وثلاثمائة - قال سمعت يحيى بن معاذ يقول",
-      "person_id": 92,
+      "person_id": 110,
       "canonical_name": "الحسن بن علوية الدامغاني",
       "has_id": NaN
     },
@@ -1849,7 +1877,7 @@
       "name": "الحسن بن علوية",
       "relationship_type": "narrator",
       "full_text": "حدثنا محمد بن محمد ثنا الحسن بن علوية قال سمعت يحيى بن معاذ يقول",
-      "person_id": 92,
+      "person_id": 110,
       "canonical_name": "الحسن بن علوية الدامغاني",
       "has_id": NaN
     },
@@ -1857,7 +1885,7 @@
       "name": "الحسن",
       "relationship_type": "narrator",
       "full_text": "حدثنا محمد ثنا الحسن قال سمعت يحيى يقول",
-      "person_id": 92,
+      "person_id": 110,
       "canonical_name": "الحسن بن علوية الدامغاني",
       "has_id": NaN
     },
@@ -1865,7 +1893,7 @@
       "name": "عبد الله بن سهل الرازي",
       "relationship_type": "narrator",
       "full_text": "ثنا عبد الله بن سهل الرازي قال سمعت يحيى بن معاذ يقول",
-      "person_id": 1831,
+      "person_id": 1899,
       "canonical_name": "عبد الله بن سهل الرازي",
       "has_id": NaN
     },
@@ -1874,22 +1902,22 @@
       "relationship_type": "narrator",
       "full_text": "سمعت أبا العباس بن حكويه الرازي يقول سمعت يحيى بن معاذ يقول",
       "has_id": NaN,
-      "person_id": 118,
-      "canonical_name": "الحسين بن عبد الله بن الحسن"
+      "person_id": 415,
+      "canonical_name": "أبا العباس بن حكويه الرازي"
     },
     {
       "name": "أبا العباس",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا العباس يقول سمعت يحيى بن معاذ يقول",
       "has_id": NaN,
-      "person_id": 119,
-      "canonical_name": "الحسين بن عبد الله بن شاكر السمرقندي"
+      "person_id": 412,
+      "canonical_name": "أبا العباس"
     },
     {
       "name": "أبي",
       "relationship_type": "narrator",
       "full_text": "سمعت أبي يقول سمعت يحيى بن معاذ يقول",
-      "person_id": 585,
+      "person_id": 656,
       "canonical_name": "أبو أبي نعيم الأصفهاني",
       "has_id": NaN
     },
@@ -1897,7 +1925,7 @@
       "name": "محمد بن الحسن بن العلاء البلخي",
       "relationship_type": "narrator",
       "full_text": "ثنا محمد بن الحسن بن العلاء البلخي قال سمعت يحيى بن معاذ الرازي يقول",
-      "person_id": 2229,
+      "person_id": 2295,
       "canonical_name": "محمد بن الحسن بن العلاء البلخي",
       "has_id": NaN
     },
@@ -1905,7 +1933,7 @@
       "name": "محمد بن قارن الرازى",
       "relationship_type": "narrator",
       "full_text": "ثنا محمد بن قارن الرازى قال سمعت ابن معاذ يقول",
-      "person_id": 2433,
+      "person_id": 2495,
       "canonical_name": "محمد بن قارن الرازى",
       "has_id": NaN
     },
@@ -1913,7 +1941,7 @@
       "name": "محمد بن محمد بن مسعود البدشي",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن محمد بن مسعود البدشي يقول سمعت يحيى بن معاذ يقول",
-      "person_id": 2448,
+      "person_id": 2509,
       "canonical_name": "محمد بن محمد بن مسعود البدشي",
       "has_id": NaN
     },
@@ -1921,7 +1949,7 @@
       "name": "أحمد بن محمد بن مسعود",
       "relationship_type": "narrator",
       "full_text": "سمعت أحمد بن محمد بن مسعود يقول سمعت يحيى بن معاذ يقول",
-      "person_id": 1262,
+      "person_id": 1324,
       "canonical_name": "أحمد بن محمد بن مسعود",
       "has_id": NaN
     },
@@ -1929,7 +1957,7 @@
       "name": "محمد بن أحمد بن مسعود البدشي",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن أحمد بن مسعود البدشي يقول سمعت يحيى بن معاذ يقول",
-      "person_id": 2448,
+      "person_id": 2509,
       "canonical_name": "محمد بن محمد بن مسعود البدشي",
       "has_id": NaN
     },
@@ -1937,7 +1965,7 @@
       "name": "محمد بن أحمد",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن أحمد - سنة خمس وثلاثمائة - يقول سمعت يحيى بن معاذ يقول",
-      "person_id": 2292,
+      "person_id": 2356,
       "canonical_name": "محمد بن أحمد",
       "has_id": NaN
     },
@@ -1945,7 +1973,7 @@
       "name": "عبد الله بن سهل",
       "relationship_type": "narrator",
       "full_text": "ثنا عبد الله بن سهل قال سمعت يحيى بن معاذ يقول",
-      "person_id": 1831,
+      "person_id": 1899,
       "canonical_name": "عبد الله بن سهل الرازي",
       "has_id": NaN
     },
@@ -1953,7 +1981,7 @@
       "name": "موسى بن محمد",
       "relationship_type": "narrator",
       "full_text": "سمعت موسى بن محمد يقول سمعت يحيى بن معاذ يقول",
-      "person_id": 2564,
+      "person_id": 2623,
       "canonical_name": "موسى بن محمد",
       "has_id": NaN
     },
@@ -1961,7 +1989,7 @@
       "name": "طاهر ابن إسماعيل الرازي",
       "relationship_type": "narrator",
       "full_text": "ثنا طاهر ابن إسماعيل الرازي قال قيل ليحيى بن معاذ",
-      "person_id": 1698,
+      "person_id": 1766,
       "canonical_name": "طاهر بن إسماعيل الرازي",
       "has_id": NaN
     },
@@ -1969,7 +1997,7 @@
       "name": "إسماعيل بن معاذ",
       "relationship_type": "narrator",
       "full_text": "سمعت إسماعيل بن معاذ يقول سمعت يحيى بن معاذ يقول",
-      "person_id": 367,
+      "person_id": 394,
       "canonical_name": "إسماعيل بن معاذ",
       "has_id": NaN
     },
@@ -1978,14 +2006,14 @@
       "relationship_type": "narrator",
       "full_text": "سمعت ابن كمال الجرجاني يقول: سئل يحيى بن معاذ عن الرقص",
       "has_id": NaN,
-      "person_id": 117,
+      "person_id": 135,
       "canonical_name": "الحسين بن عبد الله"
     },
     {
       "name": "الحسن ابن علوية",
       "relationship_type": "narrator",
       "full_text": "سمعت الحسن ابن علوية يقول سمعت يحيى بن معاذ يقول",
-      "person_id": 92,
+      "person_id": 110,
       "canonical_name": "الحسن بن علوية الدامغاني",
       "has_id": NaN
     },
@@ -1993,7 +2021,7 @@
       "name": "على ابن جعفر بن أحمد الكاتب",
       "relationship_type": "narrator",
       "full_text": "ثنا على ابن جعفر بن أحمد الكاتب قال سمعت يحيى بن معاذ الرازي يقول",
-      "person_id": 1982,
+      "person_id": 2051,
       "canonical_name": "على بن جعفر بن أحمد الكاتب",
       "has_id": NaN
     },
@@ -2001,7 +2029,7 @@
       "name": "أبي الحسن الزهري البصري",
       "relationship_type": "narrator",
       "full_text": "قرأت في كتاب أبي الحسن الزهري البصري قال قال يحيى بن معاذ الرازي",
-      "person_id": 399,
+      "person_id": 444,
       "canonical_name": "أبو الحسن الزهري البصري",
       "has_id": NaN
     }

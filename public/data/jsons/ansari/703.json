@@ -34,28 +34,28 @@
       "chain": [
         {
           "name": "شیخ عباس فقیر",
-          "person_id": 1718,
+          "person_id": 1785,
           "canonical_name": "عباس الهروي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبدالعزیز مرغری",
-          "person_id": 1771,
+          "person_id": 1840,
           "canonical_name": "عبد العزيز المرغري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بوالحسین مراغی",
-          "person_id": 468,
+          "person_id": 526,
           "canonical_name": "أبو الحسين مراغي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علی حمزهٔ حلاج",
-          "person_id": 2028,
+          "person_id": 2099,
           "canonical_name": "علي بن حمزة الحلاج",
           "has_id": 703,
           "subj_added": false
@@ -79,7 +79,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد محمد بن یوسف بنا٭ بود باصفهان",
-        "person_id": 2477,
+        "person_id": 2538,
         "canonical_name": "محمد بن يوسف البناء",
         "has_id": 791
       },
@@ -88,7 +88,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "بنزدیک ... میبودم",
         "full_text": "من بروزگار، بنزدیک محمد یوسف رازه٭ میبودم بسپاهان، و با او مینشستم، و او در علم حلال خوردن، فراوان گفتی، از حکایات او مینوشتم.",
-        "person_id": 2477,
+        "person_id": 2538,
         "canonical_name": "محمد بن يوسف البناء",
         "has_id": 791
       }
@@ -101,7 +101,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -109,7 +109,7 @@
       "name": "شیخ عباس فقیر",
       "relationship_type": "narrator",
       "full_text": "شیخ عباس فقیر مرا گفت،",
-      "person_id": 1718,
+      "person_id": 1785,
       "canonical_name": "عباس الهروي",
       "has_id": NaN
     },
@@ -117,7 +117,7 @@
       "name": "عبدالعزیز مرغری",
       "relationship_type": "narrator",
       "full_text": "عبدالعزیز مرغری گفت،",
-      "person_id": 1771,
+      "person_id": 1840,
       "canonical_name": "عبد العزيز المرغري",
       "has_id": NaN
     },
@@ -125,7 +125,7 @@
       "name": "بوالحسین مراغی",
       "relationship_type": "direct_narrator",
       "full_text": "کی بوالحسین مراغی گفت: کی علی حمزهٔ حلاجگفت:",
-      "person_id": 468,
+      "person_id": 526,
       "canonical_name": "أبو الحسين مراغي",
       "has_id": NaN
     },
@@ -134,7 +134,7 @@
       "relationship_type": "interlocutor",
       "context": "در خواب",
       "full_text": "آن شب سهل تستری٭ را بخواب دیدم، مرا گفت: ای مبارک! رنجه شدی؟ که آن دفترهای تو در آب افتاد.",
-      "person_id": 1639,
+      "person_id": 1700,
       "canonical_name": "سهل بن عبد الله التستري",
       "has_id": 605
     },
@@ -143,7 +143,7 @@
       "relationship_type": "interlocutor",
       "context": "در خواب",
       "full_text": "مصطفیﷺ بخندید بر شادی",
-      "person_id": 246,
+      "person_id": 272,
       "canonical_name": "النبي",
       "has_id": NaN
     },
@@ -152,7 +152,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "در خواب",
       "full_text": "مصطفی را دیدم ﷺ، کی میآمد با جماعتی از یاران از اصحاب صفه",
-      "person_id": 1415,
+      "person_id": 1474,
       "canonical_name": "جماعتي از ياران از اصحاب صفه",
       "has_id": NaN
     },
@@ -160,7 +160,7 @@
       "name": "حسین منصور٭",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "نه حلاج بود چون حسین منصور٭",
-      "person_id": 127,
+      "person_id": 146,
       "canonical_name": "الحسين بن منصور الحلاج",
       "has_id": 232
     }

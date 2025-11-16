@@ -14,7 +14,7 @@
       "chain": [
         {
           "name": "عباس بن یوسف الشکلی",
-          "person_id": 185,
+          "person_id": 209,
           "canonical_name": "العباس بن يوسف الشكلي",
           "has_id": 649,
           "subj_added": false
@@ -47,7 +47,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     }

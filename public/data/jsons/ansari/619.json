@@ -24,7 +24,7 @@
       "chain": [
         {
           "name": "شریف",
-          "person_id": 1664,
+          "person_id": 1728,
           "canonical_name": "شريف",
           "has_id": NaN,
           "subj_added": false
@@ -48,7 +48,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "هم صحبت",
         "full_text": "وی هم صحبت خضر بوده",
-        "person_id": 145,
+        "person_id": 166,
         "canonical_name": "الخضر",
         "has_id": NaN
       }
@@ -59,7 +59,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "باوی صحبت کرده",
         "full_text": "و پدر شیخ الاسلام باوی صحبت کرده سالها و او را تعظیم داشتی.",
-        "person_id": 377,
+        "person_id": 420,
         "canonical_name": "أببي",
         "has_id": NaN
       }
@@ -71,7 +71,7 @@
       "name": "شریف",
       "relationship_type": "narrator",
       "full_text": "شریف گوید:",
-      "person_id": 1664,
+      "person_id": 1728,
       "canonical_name": "شريف",
       "has_id": NaN
     },
@@ -79,7 +79,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -87,7 +87,7 @@
       "name": "خضر ﷷ",
       "relationship_type": "interlocutor",
       "full_text": "کی خضر ﷷ فراز آمد و مرا گفت: حمزهٔ خیز و طواف کن",
-      "person_id": 145,
+      "person_id": 166,
       "canonical_name": "الخضر",
       "has_id": NaN
     },
@@ -96,7 +96,7 @@
       "relationship_type": "interlocutor",
       "context": "addressee",
       "full_text": "وی گفت ببلخ: که بومنصور ما را پسر آمد",
-      "person_id": 1085,
+      "person_id": 1150,
       "canonical_name": "أبو منصور",
       "has_id": NaN
     }

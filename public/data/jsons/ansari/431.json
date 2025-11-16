@@ -1,5 +1,5 @@
 {
-  "bio_id": "122",
+  "bio_id": "431",
   "source": "ansari",
   "death_date": {
     "year_hijri": "312",
@@ -24,7 +24,7 @@
       "chain": [
         {
           "name": "جریری",
-          "person_id": 1035,
+          "person_id": 1104,
           "canonical_name": "أبو محمد الجريري",
           "has_id": 431,
           "subj_added": false
@@ -44,7 +44,7 @@
       "chain": [
         {
           "name": "جریری",
-          "person_id": 1035,
+          "person_id": 1104,
           "canonical_name": "أبو محمد الجريري",
           "has_id": 431,
           "subj_added": false
@@ -58,7 +58,7 @@
       "chain": [
         {
           "name": "جریری",
-          "person_id": 1035,
+          "person_id": 1104,
           "canonical_name": "أبو محمد الجريري",
           "has_id": 431,
           "subj_added": false
@@ -72,7 +72,7 @@
       "chain": [
         {
           "name": "جریری",
-          "person_id": 1035,
+          "person_id": 1104,
           "canonical_name": "أبو محمد الجريري",
           "has_id": 431,
           "subj_added": false
@@ -98,7 +98,7 @@
       "chain": [
         {
           "name": "الامام",
-          "person_id": 55,
+          "person_id": 74,
           "canonical_name": "الامام",
           "has_id": NaN,
           "subj_added": false
@@ -117,8 +117,8 @@
         "relationship_phrase": "از مهینان اصحاب جنید",
         "full_text": "وی از مهینان اصحاب جنید٭ بوده",
         "person_id": 532,
-        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
-        "has_id": 228
+        "canonical_name": "أبو الخير العسقلاني",
+        "has_id": 328
       },
       {
         "name": "سهل تستری",
@@ -126,8 +126,8 @@
         "relationship_phrase": "صحبت کرده بود با",
         "full_text": "صحبت کرده بود با سهل تستری٭ و جز ازو",
         "person_id": 1639,
-        "canonical_name": "سهل بن عبد الله التستري",
-        "has_id": 605
+        "canonical_name": "زيد بن وهب",
+        "has_id": NaN
       }
     ],
     "students": [],
@@ -139,15 +139,15 @@
       "relationship_type": "direct_narrator",
       "full_text": "شیخ الاسلامگفت قدس اللّه روحه: کی جریری گفت:",
       "person_id": 1682,
-      "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
-      "has_id": 36
+      "canonical_name": "سليم بن مطير",
+      "has_id": NaN
     },
     {
       "name": "الامام",
       "relationship_type": "narrator",
       "full_text": "وانشدنا الامام لنفسه:",
       "person_id": 55,
-      "canonical_name": "الامام",
+      "canonical_name": "ابن منيع",
       "has_id": NaN
     }
   ]

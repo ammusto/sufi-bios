@@ -12,49 +12,49 @@
       "chain": [
         {
           "name": "مُحَمَّد بن أَحْمد بن جَعْفَر الشبهي",
-          "person_id": 629,
+          "person_id": 771,
           "canonical_name": "أبو بكر محمد بن أحمد بن جعفر الشبهي",
           "has_id": 384,
           "subj_added": false
         },
         {
           "name": "جَعْفَر بن أبي نصر الْحَافِظ",
-          "person_id": 1396,
+          "person_id": 1456,
           "canonical_name": "جعفر بن أبي نصر الحافظ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الْوَارِث بن عبد الصَّمد",
-          "person_id": 1917,
+          "person_id": 1984,
           "canonical_name": "عبد الوارث بن عبد الصمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 922,
+          "person_id": 995,
           "canonical_name": "أبو عبد الوارث عبد الصمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مُحَمَّد بن ثَابت الْبنانِيّ",
-          "person_id": 2326,
+          "person_id": 2390,
           "canonical_name": "محمد بن ثابت البناني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ثَابت الْبنانِيّ",
-          "person_id": 2326,
-          "canonical_name": "محمد بن ثابت البناني",
+          "person_id": 1429,
+          "canonical_name": "ثَابت الْبنانِيّ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أنس ﵁",
-          "person_id": 1310,
+          "person_id": 1372,
           "canonical_name": "أنس بن مالك",
           "has_id": NaN,
           "subj_added": false
@@ -68,7 +68,7 @@
       "chain": [
         {
           "name": "مُحَمَّد بن أَحْمد بن جَعْفَر الشبهي",
-          "person_id": 629,
+          "person_id": 771,
           "canonical_name": "أبو بكر محمد بن أحمد بن جعفر الشبهي",
           "has_id": 384,
           "subj_added": false
@@ -82,14 +82,14 @@
       "chain": [
         {
           "name": "أَبَا الْحسن الخباز",
-          "person_id": 395,
+          "person_id": 440,
           "canonical_name": "أبو الحسن الخباز",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مُحَمَّدًا الشبهي",
-          "person_id": 629,
+          "person_id": 771,
           "canonical_name": "أبو بكر محمد بن أحمد بن جعفر الشبهي",
           "has_id": 384,
           "subj_added": false
@@ -103,14 +103,14 @@
       "chain": [
         {
           "name": "أَبَا الْحسن",
-          "person_id": 395,
+          "person_id": 440,
           "canonical_name": "أبو الحسن الخباز",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر الشبهي",
-          "person_id": 629,
+          "person_id": 771,
           "canonical_name": "أبو بكر محمد بن أحمد بن جعفر الشبهي",
           "has_id": 384,
           "subj_added": false
@@ -124,14 +124,14 @@
       "chain": [
         {
           "name": "أَبَا الْحسن",
-          "person_id": 395,
+          "person_id": 440,
           "canonical_name": "أبو الحسن الخباز",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا بكر الشبهي",
-          "person_id": 629,
+          "person_id": 771,
           "canonical_name": "أبو بكر محمد بن أحمد بن جعفر الشبهي",
           "has_id": 384,
           "subj_added": false
@@ -151,7 +151,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب أَبَا عُثْمَان الْحِيرِي",
-        "person_id": 932,
+        "person_id": 1013,
         "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
         "has_id": 419
       }
@@ -162,7 +162,7 @@
       "name": "أَبَا الْحسن الخباز",
       "relationship_type": "narrator",
       "full_text": "سَمِعت أَبَا الْحسن الخباز يَقُول",
-      "person_id": 395,
+      "person_id": 440,
       "canonical_name": "أبو الحسن الخباز",
       "has_id": NaN
     },
@@ -170,7 +170,7 @@
       "name": "بعض أَصْحَابه",
       "relationship_type": "interlocutor",
       "full_text": "وَدخل عَلَيْهِ بعض أَصْحَابه فَقَالَ أَنا إِذا مشيت فِي السُّوق يَقُول النَّاس انْظُرُوا إِلَى خشوع هَذَا الْمُنَافِق",
-      "person_id": 1339,
+      "person_id": 1401,
       "canonical_name": "بعض أصحابه",
       "has_id": NaN
     }

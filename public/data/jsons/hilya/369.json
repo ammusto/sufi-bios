@@ -15,22 +15,22 @@
         {
           "name": "محمد بن موسى",
           "person_id": 2510,
-          "canonical_name": "مطرب",
+          "canonical_name": "محمد بن مسلم الزهري وهشام بن عروة كلاهما",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسين بن أحمد",
           "person_id": 107,
-          "canonical_name": "الحسين بن أحمد",
+          "canonical_name": "الحسن بن عبد الله القرشي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إبراهيم القصار الرقي",
           "person_id": 288,
-          "canonical_name": "إبراهيم المغربي",
-          "has_id": 270,
+          "canonical_name": "امرأة أبي يزيد البسطامي",
+          "has_id": NaN,
           "subj_added": false
         }
       ],
@@ -43,14 +43,14 @@
         {
           "name": "أبو الفضل نصر بن محمد الطوسي",
           "person_id": 546,
-          "canonical_name": "أبو القاسم باوردي",
+          "canonical_name": "أبو العباس الدمشقي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إبراهيم بن أحمد بن المولد",
           "person_id": 304,
-          "canonical_name": "إبراهيم بن آدم",
+          "canonical_name": "إبراهيم الخليل",
           "has_id": NaN,
           "subj_added": false
         }
@@ -71,7 +71,7 @@
       "relationship_type": "narrator",
       "full_text": "سمعت الحسين بن أحمد يقول",
       "person_id": 107,
-      "canonical_name": "الحسين بن أحمد",
+      "canonical_name": "الحسن بن عبد الله القرشي",
       "has_id": NaN
     },
     {
@@ -79,7 +79,7 @@
       "relationship_type": "narrator",
       "full_text": "قال سمعت إبراهيم بن أحمد بن المولد يقول",
       "person_id": 304,
-      "canonical_name": "إبراهيم بن آدم",
+      "canonical_name": "إبراهيم الخليل",
       "has_id": NaN
     },
     {
@@ -87,7 +87,7 @@
       "relationship_type": "questioner",
       "full_text": "سأل رجل إبراهيم القصار الرقي فقال",
       "person_id": 1573,
-      "canonical_name": "زيد بن أخزم",
+      "canonical_name": "داود",
       "has_id": NaN
     }
   ]

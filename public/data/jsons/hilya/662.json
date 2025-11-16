@@ -14,21 +14,21 @@
       "chain": [
         {
           "name": "والدي",
-          "person_id": 2615,
+          "person_id": 2675,
           "canonical_name": "والدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن يحيى بن منده",
-          "person_id": 2471,
+          "person_id": 2532,
           "canonical_name": "محمد بن يحيى بن منده",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن داود",
-          "person_id": 1824,
+          "person_id": 1892,
           "canonical_name": "عبد الله بن داود",
           "has_id": 662,
           "subj_added": false
@@ -46,7 +46,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "يحدث عن",
         "full_text": "يحدث عن الحسين بن حفص.",
-        "person_id": 113,
+        "person_id": 131,
         "canonical_name": "الحسين بن حفص",
         "has_id": NaN
       }
@@ -59,7 +59,7 @@
       "name": "محمد بن يحيى بن منده",
       "relationship_type": "narrator",
       "full_text": "يحكي عن محمد بن يحيى بن منده أنه سمع عبد الله بن داود يقول",
-      "person_id": 2471,
+      "person_id": 2532,
       "canonical_name": "محمد بن يحيى بن منده",
       "has_id": NaN
     }

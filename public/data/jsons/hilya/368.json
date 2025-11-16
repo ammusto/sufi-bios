@@ -8,28 +8,28 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن عمر",
-          "person_id": 1228,
+          "person_id": 1290,
           "canonical_name": "أحمد بن عمر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن عبيد",
-          "person_id": 1840,
+          "person_id": 1908,
           "canonical_name": "عبد الله بن عبيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو إسحاق القرشي التيمي",
-          "person_id": 571,
+          "person_id": 637,
           "canonical_name": "أبو إسحاق القرشي التيمي",
           "has_id": 368,
           "subj_added": false
@@ -50,7 +50,7 @@
       "name": "عبد الله بن عبيد",
       "relationship_type": "narrator",
       "full_text": "ثنا عبد الله بن عبيد قال: أنشدني أبو إسحاق القرشي التيمي",
-      "person_id": 1840,
+      "person_id": 1908,
       "canonical_name": "عبد الله بن عبيد",
       "has_id": NaN
     }

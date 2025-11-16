@@ -8,49 +8,49 @@
       "chain": [
         {
           "name": "عبد الرحمن بن محمد بن أحمد الواعظ",
-          "person_id": 1075,
+          "person_id": 1141,
           "canonical_name": "أبو مسلم عبد الرحمن بن محمد بن أحمد الواعظ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو عبد الله محمد بن الحسين الخشوعي",
-          "person_id": 907,
+          "person_id": 979,
           "canonical_name": "أبو عبد الله محمد بن الحسين الخشوعي",
           "has_id": 768,
           "subj_added": false
         },
         {
           "name": "جعفر بن أمية",
-          "person_id": 1399,
+          "person_id": 1459,
           "canonical_name": "جعفر بن أمية",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن أيوب الرازي",
-          "person_id": 2322,
+          "person_id": 2386,
           "canonical_name": "محمد بن أيوب الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الأصمعي",
-          "person_id": 1891,
+          "person_id": 1960,
           "canonical_name": "عبد الملك بن قريب الأصمعي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر بن عياش",
-          "person_id": 675,
+          "person_id": 747,
           "canonical_name": "أبو بكر بن عياش",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عاصم بن أبي النجود",
-          "person_id": 1707,
+          "person_id": 1775,
           "canonical_name": "عاصم بن أبي النجود",
           "has_id": NaN,
           "subj_added": false
@@ -64,70 +64,70 @@
       "chain": [
         {
           "name": "أبو مسلم محمد بن إبراهيم الغزال",
-          "person_id": 1076,
+          "person_id": 1142,
           "canonical_name": "أبو مسلم محمد بن إبراهيم الغزال",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن الحسين الخشوعي العابد",
-          "person_id": 907,
+          "person_id": 979,
           "canonical_name": "أبو عبد الله محمد بن الحسين الخشوعي",
           "has_id": 768,
           "subj_added": false
         },
         {
           "name": "الحسين بن عبد الله بن الحسن",
-          "person_id": 118,
+          "person_id": 136,
           "canonical_name": "الحسين بن عبد الله بن الحسن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر ابن خلاد",
-          "person_id": 668,
+          "person_id": 738,
           "canonical_name": "أبو بكر بن خلاد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى",
-          "person_id": 2623,
+          "person_id": 2683,
           "canonical_name": "يحيى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبيد الله",
-          "person_id": 1924,
+          "person_id": 1992,
           "canonical_name": "عبيد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "نافع",
-          "person_id": 2576,
+          "person_id": 2636,
           "canonical_name": "نافع",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "صفية",
-          "person_id": 1690,
+          "person_id": 1758,
           "canonical_name": "صفية",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بعض أزواج النبي",
-          "person_id": 1335,
+          "person_id": 1397,
           "canonical_name": "بعض أزواج النبي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "النبي ﷺ",
-          "person_id": 246,
+          "person_id": 272,
           "canonical_name": "النبي",
           "has_id": NaN,
           "subj_added": false
@@ -146,7 +146,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "تخرج به",
         "full_text": "تخرج به جماعة من السباق والرواد. منهم أبو الحسن علي بن أحمد بن المرزبان الأسواري",
-        "person_id": 427,
+        "person_id": 481,
         "canonical_name": "أبو الحسن علي بن أحمد بن المرزبان الأسواري",
         "has_id": NaN
       },
@@ -155,7 +155,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "تخرج به",
         "full_text": "وسليم بن عبد الله بن المرزبان أبو بكر الواعظ",
-        "person_id": 1620,
+        "person_id": 1681,
         "canonical_name": "سليم بن عبد الله بن المرزبان أبو بكر الواعظ",
         "has_id": NaN
       },
@@ -164,7 +164,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "تخرج به",
         "full_text": "وبعدهما من المذكورين والمشهورين عبد الله بن محمد بن صالح",
-        "person_id": 1872,
+        "person_id": 1941,
         "canonical_name": "عبد الله بن محمد بن صالح",
         "has_id": NaN
       },
@@ -173,7 +173,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "تخرج به",
         "full_text": "وأبو عثمان بن أبي هريرة",
-        "person_id": 938,
+        "person_id": 1010,
         "canonical_name": "أبو عثمان بن أبي هريرة",
         "has_id": NaN
       }
@@ -186,7 +186,7 @@
       "relationship_type": "narrator",
       "context": "last_in_isnad",
       "full_text": "عن عاصم بن أبي النجود قال",
-      "person_id": 1707,
+      "person_id": 1775,
       "canonical_name": "عاصم بن أبي النجود",
       "has_id": NaN
     },
@@ -195,7 +195,7 @@
       "relationship_type": "narrator",
       "context": "last_in_isnad",
       "full_text": "عن\nالنبي ﷺ قال",
-      "person_id": 246,
+      "person_id": 272,
       "canonical_name": "النبي",
       "has_id": NaN
     }

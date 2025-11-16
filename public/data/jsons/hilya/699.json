@@ -14,28 +14,28 @@
       "chain": [
         {
           "name": "عمر بن أحمد",
-          "person_id": 2092,
+          "person_id": 2158,
           "canonical_name": "عمر بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن مسعود الزبيري",
-          "person_id": 1270,
+          "person_id": 1331,
           "canonical_name": "أحمد بن مسعود الزبيري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "هارون بن كامل",
-          "person_id": 2593,
+          "person_id": 2653,
           "canonical_name": "هارون بن كامل",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علي بن معبد",
-          "person_id": 2072,
+          "person_id": 2137,
           "canonical_name": "علي بن معبد",
           "has_id": 699,
           "subj_added": false
@@ -49,35 +49,35 @@
       "chain": [
         {
           "name": "عثمان بن محمد العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن زيد السائح",
-          "person_id": 2353,
+          "person_id": 2417,
           "canonical_name": "محمد بن زيد النيسابوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "جعفر بن محمد ابن سهل أبو محمد السامري",
-          "person_id": 1054,
+          "person_id": 1120,
           "canonical_name": "أبو محمد جعفر بن محمد بن سهل السامري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ذا النون المصري",
-          "person_id": 1523,
+          "person_id": 1586,
           "canonical_name": "ذو النون المصري",
           "has_id": 570,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2072,
+          "person_id": 2137,
           "canonical_name": "علي بن معبد",
           "has_id": 699,
           "subj_added": true
@@ -91,14 +91,14 @@
       "chain": [
         {
           "name": "ذو النون",
-          "person_id": 1523,
+          "person_id": 1586,
           "canonical_name": "ذو النون المصري",
           "has_id": 570,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2072,
+          "person_id": 2137,
           "canonical_name": "علي بن معبد",
           "has_id": 699,
           "subj_added": true
@@ -119,7 +119,7 @@
       "name": "هارون بن كامل",
       "relationship_type": "narrator",
       "full_text": "سمعت هارون بن كامل يقول",
-      "person_id": 2593,
+      "person_id": 2653,
       "canonical_name": "هارون بن كامل",
       "has_id": NaN
     },
@@ -127,7 +127,7 @@
       "name": "جعفر بن محمد ابن سهل أبو محمد السامري",
       "relationship_type": "narrator",
       "full_text": "ثنا جعفر بن محمد ابن سهل أبو محمد السامري - بعسقلان - قال",
-      "person_id": 1054,
+      "person_id": 1120,
       "canonical_name": "أبو محمد جعفر بن محمد بن سهل السامري",
       "has_id": NaN
     },
@@ -135,7 +135,7 @@
       "name": "رجل من أهل التعبد والاجتهاد، وذوي العزلة والانفراد",
       "relationship_type": "interlocutor",
       "full_text": "فإذا أنا برجل من أهل التعبد والاجتهاد، وذوي العزلة والانفراد",
-      "person_id": 1540,
+      "person_id": 1602,
       "canonical_name": "رجل من أهل التعبد والاجتهاد، وذوي العزلة والانفراد",
       "has_id": NaN
     }

@@ -8,28 +8,28 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو الحسن بن أبان",
-          "person_id": 417,
+          "person_id": 471,
           "canonical_name": "أبو الحسن بن أبان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر بن عبيد",
-          "person_id": 673,
+          "person_id": 744,
           "canonical_name": "أبو بكر بن عبيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علي بن الحسن",
-          "person_id": 1993,
+          "person_id": 2064,
           "canonical_name": "علي بن الحسن",
           "has_id": 693,
           "subj_added": false
@@ -51,7 +51,7 @@
       "relationship_type": "narrator",
       "context": "direct",
       "full_text": "ثنا أبو بكر بن عبيد قال: حدثني\nعلي بن الحسن",
-      "person_id": 673,
+      "person_id": 744,
       "canonical_name": "أبو بكر بن عبيد",
       "has_id": NaN
     },
@@ -60,7 +60,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "respondent",
       "full_text": "سئل بعض العلماء",
-      "person_id": 1329,
+      "person_id": 1391,
       "canonical_name": "بعض العلماء",
       "has_id": NaN
     }

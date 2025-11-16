@@ -14,17 +14,24 @@
       "chain": [
         {
           "name": "أبو الفضل أحمد بن أبي عمران الهروي",
-          "person_id": 523,
+          "person_id": 586,
           "canonical_name": "أبو الفضل أحمد بن أبي عمران الهروي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إبراهيم بن أبي حماد الأبهري",
-          "person_id": 297,
+          "person_id": 323,
           "canonical_name": "إبراهيم بن أبي حماد الأبهري",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 745,
+          "canonical_name": "أبو بكر بن عسى الأبهري",
+          "has_id": 374,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -42,7 +49,7 @@
       "name": "إبراهيم بن أبي حماد الأبهري",
       "relationship_type": "narrator",
       "full_text": "ذكر لي فيما أرى أبو الفضل أحمد بن أبي عمران الهروي عن إبراهيم بن أبي حماد الأبهري",
-      "person_id": 297,
+      "person_id": 323,
       "canonical_name": "إبراهيم بن أبي حماد الأبهري",
       "has_id": NaN
     },
@@ -50,7 +57,7 @@
       "name": "أبو بكر بن طاهر الأبهري",
       "relationship_type": "interlocutor",
       "full_text": "أن أبا بكر بن طاهر الأبهري حضر أبا بكر بن عيسى الأبهري وهو في النزع فقال له: أحسن بربك الظن",
-      "person_id": 686,
+      "person_id": 759,
       "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
       "has_id": 29
     }

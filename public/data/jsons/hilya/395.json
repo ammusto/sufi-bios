@@ -30,10 +30,17 @@
       "chain": [
         {
           "name": "جعفر بن محمد بن نصير",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 823,
+          "canonical_name": "أبو جعفر بن الكوفي",
+          "has_id": 395,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -44,38 +51,45 @@
       "chain": [
         {
           "name": "أبو عمرو العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن علي البغدادي",
-          "person_id": 2408,
+          "person_id": 2470,
           "canonical_name": "محمد بن علي البغدادي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن محمد بن مسروق",
-          "person_id": 505,
+          "person_id": 567,
           "canonical_name": "أبو العباس بن مسروق الطوسي",
           "has_id": 451,
           "subj_added": false
         },
         {
           "name": "محمد بن الحسين البرجلاني",
-          "person_id": 2239,
+          "person_id": 2304,
           "canonical_name": "محمد بن الحسين البرجلاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "حكيم بن جعفر",
-          "person_id": 1467,
+          "person_id": 1529,
           "canonical_name": "حكيم بن جعفر",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 823,
+          "canonical_name": "أبو جعفر بن الكوفي",
+          "has_id": 395,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -90,7 +104,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "تخرج ب",
         "full_text": "وكان أبو جعفر بن الكوفي ممن تخرج بأبي عبد الله البراثي الزاهد ومن تلامذته",
-        "person_id": 856,
+        "person_id": 933,
         "canonical_name": "أبو عبد الله البراثي",
         "has_id": 407
       }
@@ -104,15 +118,15 @@
       "relationship_type": "narrator",
       "full_text": "سمعت أبا الحسن بن مقسم يرفع منه جدا وأنه فاق أقرانه في الاجتهاد وكثرة الأوراد.",
       "has_id": NaN,
-      "person_id": 50,
-      "canonical_name": "اسماعيل عباد"
+      "person_id": 405,
+      "canonical_name": "أبا الحسن بن مقسم"
     },
     {
       "name": "جعفر بن محمد بن نصير",
       "relationship_type": "narrator",
       "context": "ثم سألته فقلت: يرحمك الله الرجل يتكلم في العلم الذي لم يبلغ استعمال كل عمله.",
       "full_text": "وحدثني عنه جعفر بن محمد بن نصير قال",
-      "person_id": 1405,
+      "person_id": 1464,
       "canonical_name": "جعفر بن محمد الخلدي",
       "has_id": 495
     },
@@ -121,7 +135,7 @@
       "relationship_type": "interlocutor",
       "context": "ذهب إليه يوما بصرة دراهم وعرضها عليه",
       "full_text": "ذهب إليه يوما الجنيد ابن محمد بصرة دراهم عرضها عليه فأبى أن يأخذها منه",
-      "person_id": 532,
+      "person_id": 595,
       "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
       "has_id": 228
     },
@@ -130,7 +144,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "كان يسكن براثا",
       "full_text": "كنا نأتي أبا عبد الله بن أبي جعفر الزاهد وكان يسكن براثا",
-      "person_id": 900,
+      "person_id": 973,
       "canonical_name": "أبو عبد الله بن أبى جعفر البرائى",
       "has_id": NaN
     },
@@ -139,7 +153,7 @@
       "relationship_type": "interlocutor",
       "context": "امرأة متعبدة",
       "full_text": "وكانت له امرأة متعبدة يقال لها جوهرة",
-      "person_id": 1422,
+      "person_id": 1482,
       "canonical_name": "جوهرة",
       "has_id": NaN
     },
@@ -147,7 +161,7 @@
       "name": "حكيم بن جعفر",
       "relationship_type": "narrator",
       "full_text": "قال: كنا نأتي أبا عبد الله بن أبي جعفر الزاهد وكان يسكن براثا، وكانت له امرأة متعبدة",
-      "person_id": 1467,
+      "person_id": 1529,
       "canonical_name": "حكيم بن جعفر",
       "has_id": NaN
     }

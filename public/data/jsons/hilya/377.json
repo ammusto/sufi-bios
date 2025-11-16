@@ -33,10 +33,17 @@
       "chain": [
         {
           "name": "أبا حامد أحمد بن محمد بن رستة الجمال الصوفي",
-          "person_id": 754,
+          "person_id": 831,
           "canonical_name": "أبو حامد أحمد بن محمد بن رستة الجمال الصوفي",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 704,
+          "canonical_name": "أبو بكر الطمستاني",
+          "has_id": 377,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -54,7 +61,7 @@
       "name": "أبا حامد أحمد بن محمد بن رستة الجمال الصوفي",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا حامد أحمد بن محمد بن رستة الجمال الصوفي يقول",
-      "person_id": 754,
+      "person_id": 831,
       "canonical_name": "أبو حامد أحمد بن محمد بن رستة الجمال الصوفي",
       "has_id": NaN
     }

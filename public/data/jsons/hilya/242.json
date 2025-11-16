@@ -8,49 +8,49 @@
       "chain": [
         {
           "name": "عبد الله بن محمد",
-          "person_id": 1855,
+          "person_id": 1924,
           "canonical_name": "عبد الله بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن محمد",
-          "person_id": 1855,
+          "person_id": 1924,
           "canonical_name": "عبد الله بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سلمة بن شبيب",
-          "person_id": 1614,
+          "person_id": 1675,
           "canonical_name": "سلمة بن شبيب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سهل بن عاصم",
-          "person_id": 1638,
+          "person_id": 1699,
           "canonical_name": "سهل بن عاصم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو روح الفرج بن سعيد الصوفي",
-          "person_id": 785,
+          "person_id": 861,
           "canonical_name": "أبو روح الفرج بن سعيد الصوفي",
           "has_id": 242,
           "subj_added": false
         },
         {
           "name": "عثمان بن عمار",
-          "person_id": 1953,
+          "person_id": 2022,
           "canonical_name": "عثمان بن عمار",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "حماد بن زيد",
-          "person_id": 1471,
+          "person_id": 1533,
           "canonical_name": "حماد بن زيد",
           "has_id": NaN,
           "subj_added": false
@@ -64,14 +64,14 @@
       "chain": [
         {
           "name": "ثابت",
-          "person_id": 2326,
-          "canonical_name": "محمد بن ثابت البناني",
+          "person_id": 1430,
+          "canonical_name": "ثابت البناني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 785,
+          "person_id": 861,
           "canonical_name": "أبو روح الفرج بن سعيد الصوفي",
           "has_id": 242,
           "subj_added": true
@@ -91,14 +91,14 @@
       "chain": [
         {
           "name": "ثابت",
-          "person_id": 2326,
-          "canonical_name": "محمد بن ثابت البناني",
+          "person_id": 1430,
+          "canonical_name": "ثابت البناني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 785,
+          "person_id": 861,
           "canonical_name": "أبو روح الفرج بن سعيد الصوفي",
           "has_id": 242,
           "subj_added": true
@@ -112,14 +112,14 @@
       "chain": [
         {
           "name": "يونس بن عبيد",
-          "person_id": 2688,
+          "person_id": 2746,
           "canonical_name": "يونس بن عبيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 785,
+          "person_id": 861,
           "canonical_name": "أبو روح الفرج بن سعيد الصوفي",
           "has_id": 242,
           "subj_added": true
@@ -133,14 +133,14 @@
       "chain": [
         {
           "name": "أيوب",
-          "person_id": 1314,
+          "person_id": 1376,
           "canonical_name": "أيوب السختياتى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 785,
+          "person_id": 861,
           "canonical_name": "أبو روح الفرج بن سعيد الصوفي",
           "has_id": 242,
           "subj_added": true
@@ -154,14 +154,14 @@
       "chain": [
         {
           "name": "حماد",
-          "person_id": 1471,
+          "person_id": 1533,
           "canonical_name": "حماد بن زيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 785,
+          "person_id": 861,
           "canonical_name": "أبو روح الفرج بن سعيد الصوفي",
           "has_id": 242,
           "subj_added": true
@@ -175,14 +175,14 @@
       "chain": [
         {
           "name": "يونس",
-          "person_id": 2688,
+          "person_id": 2746,
           "canonical_name": "يونس بن عبيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 785,
+          "person_id": 861,
           "canonical_name": "أبو روح الفرج بن سعيد الصوفي",
           "has_id": 242,
           "subj_added": true
@@ -200,7 +200,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "حدثني",
         "full_text": "قال: حدثني عثمان بن عمار",
-        "person_id": 1953,
+        "person_id": 2022,
         "canonical_name": "عثمان بن عمار",
         "has_id": NaN
       }
@@ -211,7 +211,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "ثنا",
         "full_text": "ثنا سهل بن عاصم ثنا أبو روح الفرج بن سعيد الصوفي",
-        "person_id": 1638,
+        "person_id": 1699,
         "canonical_name": "سهل بن عاصم",
         "has_id": NaN
       }
@@ -223,7 +223,7 @@
       "name": "سهل بن عاصم",
       "relationship_type": "narrator",
       "full_text": "ثنا سهل بن عاصم ثنا أبو روح الفرج بن سعيد الصوفي",
-      "person_id": 1638,
+      "person_id": 1699,
       "canonical_name": "سهل بن عاصم",
       "has_id": NaN
     },
@@ -231,8 +231,8 @@
       "name": "ثابت البناني",
       "relationship_type": "questioner",
       "full_text": "فقال ثابت: يا هؤلاء كيف يكون العبد إذا ادعا الله فاستجاب له دعاءه",
-      "person_id": 2326,
-      "canonical_name": "محمد بن ثابت البناني",
+      "person_id": 1430,
+      "canonical_name": "ثابت البناني",
       "has_id": NaN
     },
     {
@@ -240,14 +240,14 @@
       "relationship_type": "interlocutor",
       "full_text": "قال ابن عون: يكون البلاء في نفسه.",
       "has_id": NaN,
-      "person_id": 19,
-      "canonical_name": "ابن حاتم العكلي"
+      "person_id": 43,
+      "canonical_name": "ابن عون"
     },
     {
       "name": "يونس بن عبيد",
       "relationship_type": "interlocutor",
       "full_text": "فقال يونس بن عبيد: لا يكون العبد يعجب بصنع الله له إلا وهو مستدرج.",
-      "person_id": 2688,
+      "person_id": 2746,
       "canonical_name": "يونس بن عبيد",
       "has_id": NaN
     },
@@ -255,7 +255,7 @@
       "name": "أيوب السختياتى",
       "relationship_type": "questioner",
       "full_text": "فقال أيوب وما علامة المستدرج؟",
-      "person_id": 1314,
+      "person_id": 1376,
       "canonical_name": "أيوب السختياتى",
       "has_id": NaN
     },
@@ -265,7 +265,7 @@
       "context": "سئل عن الاستدراج",
       "full_text": "إن ابن عمر سئل عن الاستدراج فقال: ذلك مكره بالعباد المضيعين.",
       "has_id": NaN,
-      "person_id": 28,
+      "person_id": 41,
       "canonical_name": "ابن عمر"
     }
   ]

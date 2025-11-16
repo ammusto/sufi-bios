@@ -14,42 +14,42 @@
       "chain": [
         {
           "name": "محمد بن أحمد بن عمر",
-          "person_id": 2312,
+          "person_id": 2376,
           "canonical_name": "محمد بن أحمد بن عمر العبدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 1046,
+          "person_id": 1112,
           "canonical_name": "أبو محمد أحمد بن عمر العبدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر بن سفيان",
-          "person_id": 671,
+          "person_id": 741,
           "canonical_name": "أبو بكر بن سفيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن الحسين",
-          "person_id": 2239,
+          "person_id": 2304,
           "canonical_name": "محمد بن الحسين البرجلاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمار بن عثمان",
-          "person_id": 2082,
+          "person_id": 2147,
           "canonical_name": "عمار بن عثمان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بشر بن بشار المجاشعي",
-          "person_id": 1325,
+          "person_id": 1386,
           "canonical_name": "بشر بن بشار المجاشعي",
           "has_id": 471,
           "subj_added": false
@@ -70,7 +70,7 @@
       "name": "عمار بن عثمان",
       "relationship_type": "narrator",
       "full_text": "حدثني عمار بن عثمان",
-      "person_id": 2082,
+      "person_id": 2147,
       "canonical_name": "عمار بن عثمان",
       "has_id": NaN
     },
@@ -79,7 +79,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "encountered",
       "full_text": "لقيت عبادا ثلاثة ببيت المقدس",
-      "person_id": 1715,
+      "person_id": 1782,
       "canonical_name": "عبادا ثلاثة",
       "has_id": NaN
     },
@@ -88,7 +88,7 @@
       "relationship_type": "interlocutor",
       "context": "وصية",
       "full_text": "فقلت لأحدهم: أوصني.",
-      "person_id": 1153,
+      "person_id": 1217,
       "canonical_name": "أحدهم",
       "has_id": NaN
     },
@@ -97,7 +97,7 @@
       "relationship_type": "interlocutor",
       "context": "وصية",
       "full_text": "فقلت للآخر: أوصني.",
-      "person_id": 62,
+      "person_id": 456,
       "canonical_name": "أبو الحسن القناد",
       "has_id": NaN
     }

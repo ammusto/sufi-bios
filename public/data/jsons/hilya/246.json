@@ -14,42 +14,42 @@
       "chain": [
         {
           "name": "أبو بكر الآجري",
-          "person_id": 689,
+          "person_id": 762,
           "canonical_name": "أبو بكر محمد بن الحسين الآجري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن محمد العطشي",
-          "person_id": 1861,
+          "person_id": 1931,
           "canonical_name": "عبد الله بن محمد العطشي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إبراهيم بن الجنيد",
-          "person_id": 292,
+          "person_id": 318,
           "canonical_name": "إبراهيم بن الجنيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن همام",
-          "person_id": 1281,
+          "person_id": 1341,
           "canonical_name": "أحمد بن همام",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن الحسين",
-          "person_id": 2239,
+          "person_id": 2304,
           "canonical_name": "محمد بن الحسين البرجلاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "القاسم بن محمد بن سلمة الصوفي",
-          "person_id": 209,
+          "person_id": 235,
           "canonical_name": "القاسم بن محمد بن سلمة الصوفي",
           "has_id": 246,
           "subj_added": false
@@ -63,49 +63,49 @@
       "chain": [
         {
           "name": "أبو بكر",
-          "person_id": 689,
+          "person_id": 762,
           "canonical_name": "أبو بكر محمد بن الحسين الآجري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله",
-          "person_id": 1861,
+          "person_id": 1931,
           "canonical_name": "عبد الله بن محمد العطشي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إبراهيم",
-          "person_id": 292,
+          "person_id": 318,
           "canonical_name": "إبراهيم بن الجنيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو أحمد بن همام",
-          "person_id": 595,
+          "person_id": 666,
           "canonical_name": "أبو أحمد بن همام",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن الحسين",
-          "person_id": 2239,
+          "person_id": 2304,
           "canonical_name": "محمد بن الحسين البرجلاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "القاسم بن محمد بن سلمة الصوفي العابد",
-          "person_id": 209,
+          "person_id": 235,
           "canonical_name": "القاسم بن محمد بن سلمة الصوفي",
           "has_id": 246,
           "subj_added": false
         },
         {
           "name": "أبو صفوان العابد الشامي - الذي كان بمكة -",
-          "person_id": 829,
+          "person_id": 908,
           "canonical_name": "أبو صفوان العابد الشامي",
           "has_id": NaN,
           "subj_added": false
@@ -126,7 +126,7 @@
       "name": "محمد بن الحسين",
       "relationship_type": "narrator",
       "full_text": "قال حدثني محمد بن الحسين",
-      "person_id": 845,
+      "person_id": 922,
       "canonical_name": "أبو عبد الرحمن السلمي",
       "has_id": 133
     },
@@ -134,7 +134,7 @@
       "name": "راهب",
       "relationship_type": "interlocutor",
       "full_text": "قال قال لي راهب في بيعة بالشام",
-      "person_id": 1524,
+      "person_id": 1587,
       "canonical_name": "راهب",
       "has_id": NaN
     }

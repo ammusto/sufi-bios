@@ -20,14 +20,14 @@
       "chain": [
         {
           "name": "بوعبداللهّ خفیف٭",
-          "person_id": 22,
+          "person_id": 974,
           "canonical_name": "أبو عبد الله بن خفيف",
           "has_id": 26,
           "subj_added": false
         },
         {
           "name": "بوالحسن مزین٭",
-          "person_id": 408,
+          "person_id": 460,
           "canonical_name": "أبو الحسن المزين",
           "has_id": 295,
           "subj_added": false
@@ -47,7 +47,7 @@
       "chain": [
         {
           "name": "بوالحسن مزین",
-          "person_id": 408,
+          "person_id": 460,
           "canonical_name": "أبو الحسن المزين",
           "has_id": 295,
           "subj_added": false
@@ -61,7 +61,7 @@
       "chain": [
         {
           "name": "شیخ بوعبداللّه خفیف",
-          "person_id": 22,
+          "person_id": 974,
           "canonical_name": "أبو عبد الله بن خفيف",
           "has_id": 26,
           "subj_added": false
@@ -87,7 +87,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "کاتب الجنید وراسله",
         "full_text": "کاتب الجنید وراسله.",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       }
@@ -98,7 +98,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت: که وی بمکه بود.",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -106,7 +106,7 @@
       "name": "بوعبداللهّ خفیف٭",
       "relationship_type": "narrator",
       "full_text": "بوعبداللهّ خفیف٭ گوید: کی بوالحسن مزین٭ گفت:",
-      "person_id": 22,
+      "person_id": 974,
       "canonical_name": "أبو عبد الله بن خفيف",
       "has_id": 26
     },
@@ -114,7 +114,7 @@
       "name": "بوالحسن مزین٭",
       "relationship_type": "direct_narrator",
       "full_text": "بوالحسن مزین٭ گفت: در مکه شدم، با یعقوب اقطع در حال رفتن بود از دنیا",
-      "person_id": 408,
+      "person_id": 460,
       "canonical_name": "أبو الحسن المزين",
       "has_id": 295
     },
@@ -123,7 +123,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "محتضر بود؛ یکی شهادت بروی عرضه کرد؛ وی گفت: خاموش!",
       "full_text": "شیخ بوعبداللهّ طافی محتضر بود، یکی شهادت بروی عرضه کرد، وی گفت: خاموش! قومی بیادبان بیحرمتان آمدهاند، و شهادت بر دوستی از آن او عرضه کنند، تو آن خود گوی، من آن خود گفتهام. توفنی مسلماً والحقنی بالصالحین.",
-      "person_id": 876,
+      "person_id": 952,
       "canonical_name": "أبو عبد الله الطافي",
       "has_id": NaN
     },
@@ -132,7 +132,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "شهادت عرضه کردند؛ تلقین کرد تا همه شهادت بگفتند",
       "full_text": "وقتی قومی بر پیری از مشایخ شهادت عرضه کردند، وی از آن غیرت برجست و شهادت بر یک یک عرضه میکرد، و تلقین میکرد، تا همه شهادت بگفتند، و سرباز نهاد و جان بداد.",
-      "person_id": 1680,
+      "person_id": 1745,
       "canonical_name": "شيج",
       "has_id": NaN
     },
@@ -141,7 +141,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "respondent to 'توکل چیست؟'",
       "full_text": "و از سهل تستری ٭ پرسیدندگفت: تبری از توان خود",
-      "person_id": 1639,
+      "person_id": 1700,
       "canonical_name": "سهل بن عبد الله التستري",
       "has_id": 605
     },
@@ -150,7 +150,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "respondent to 'توکل چیست؟'",
       "full_text": "و از حلاج٭ پرسیدندگفت: دیدن مسبب.",
-      "person_id": 127,
+      "person_id": 146,
       "canonical_name": "الحسين بن منصور الحلاج",
       "has_id": 232
     },
@@ -159,7 +159,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "respondent to 'توکل چیست؟'",
       "full_text": "و از فتح موصلی٭ پرسیدند، گفت: ملال از سبب.",
-      "person_id": 2165,
+      "person_id": 2231,
       "canonical_name": "فتح الموصلي",
       "has_id": 728
     },
@@ -168,7 +168,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "respondent to 'توکل چیست؟'",
       "full_text": "و از شقیق بلخی٭ پرسیدندگفت: دیدار در عجز فرق.",
-      "person_id": 980,
+      "person_id": 1051,
       "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
       "has_id": 622
     },
@@ -177,7 +177,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "respondent to 'توکل چیست؟'",
       "full_text": "و از شبلی٭ پرسیدند کی توکل چیست؟ گفت: در دیدار دل فراموش کردن همه کس.",
-      "person_id": 628,
+      "person_id": 699,
       "canonical_name": "أبو بكر الشبلي",
       "has_id": 376
     }

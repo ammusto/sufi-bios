@@ -20,14 +20,14 @@
         {
           "name": "أبا بكر الدينوري الطرسوسي",
           "person_id": 642,
-          "canonical_name": "أبو بكر القطيعي",
-          "has_id": 85,
+          "canonical_name": "أبو إسحاق إبراهيم الهري",
+          "has_id": 271,
           "subj_added": false
         },
         {
           "name": "مظفر القرميسيني",
           "person_id": 2567,
-          "canonical_name": "موسي",
+          "canonical_name": "مشايخ بغداد",
           "has_id": NaN,
           "subj_added": false
         }
@@ -41,14 +41,14 @@
         {
           "name": "أبا عبد الله محمد بن أحمد بن دينار الدينورى",
           "person_id": 932,
-          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
-          "has_id": 419,
+          "canonical_name": "أبو عبد اللهّ الرودباري",
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مظفر القرميسينى",
           "person_id": 2566,
-          "canonical_name": "موسى بن يزيد",
+          "canonical_name": "مسلمة بن جعفر",
           "has_id": NaN,
           "subj_added": false
         }
@@ -62,14 +62,14 @@
         {
           "name": "أبا عبد الله محمد بن أحمد بن دينار الدينورى",
           "person_id": 932,
-          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
-          "has_id": 419,
+          "canonical_name": "أبو عبد اللهّ الرودباري",
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مظفر القرميسينى",
           "person_id": 2566,
-          "canonical_name": "موسى بن يزيد",
+          "canonical_name": "مسلمة بن جعفر",
           "has_id": NaN,
           "subj_added": false
         }
@@ -83,14 +83,14 @@
         {
           "name": "محمد بن الحسين",
           "person_id": 872,
-          "canonical_name": "أبو عبد الله السليمي الفقيه",
+          "canonical_name": "أبو سعد الماليني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مظفر القرميسيني",
           "person_id": 2567,
-          "canonical_name": "موسي",
+          "canonical_name": "مشايخ بغداد",
           "has_id": NaN,
           "subj_added": false
         }
@@ -104,14 +104,14 @@
         {
           "name": "محمد بن الحسين",
           "person_id": 872,
-          "canonical_name": "أبو عبد الله السليمي الفقيه",
+          "canonical_name": "أبو سعد الماليني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مظفر القرميسيني",
           "person_id": 2567,
-          "canonical_name": "موسي",
+          "canonical_name": "مشايخ بغداد",
           "has_id": NaN,
           "subj_added": false
         }
@@ -125,14 +125,14 @@
         {
           "name": "محمد بن الحسين",
           "person_id": 872,
-          "canonical_name": "أبو عبد الله السليمي الفقيه",
+          "canonical_name": "أبو سعد الماليني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مظفر",
           "person_id": 2566,
-          "canonical_name": "موسى بن يزيد",
+          "canonical_name": "مسلمة بن جعفر",
           "has_id": NaN,
           "subj_added": false
         }
@@ -146,14 +146,14 @@
         {
           "name": "محمد بن الحسين",
           "person_id": 872,
-          "canonical_name": "أبو عبد الله السليمي الفقيه",
+          "canonical_name": "أبو سعد الماليني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مظفر",
           "person_id": 2566,
-          "canonical_name": "موسى بن يزيد",
+          "canonical_name": "مسلمة بن جعفر",
           "has_id": NaN,
           "subj_added": false
         }
@@ -167,14 +167,14 @@
         {
           "name": "محمد بن الحسين",
           "person_id": 872,
-          "canonical_name": "أبو عبد الله السليمي الفقيه",
+          "canonical_name": "أبو سعد الماليني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مظفر",
           "person_id": 2566,
-          "canonical_name": "موسى بن يزيد",
+          "canonical_name": "مسلمة بن جعفر",
           "has_id": NaN,
           "subj_added": false
         }
@@ -195,23 +195,23 @@
       "relationship_type": "narrator",
       "full_text": "سمعت أبا بكر الدينوري الطرسوسي - شيخ الحرمة - يقول",
       "person_id": 642,
-      "canonical_name": "أبو بكر القطيعي",
-      "has_id": 85
+      "canonical_name": "أبو إسحاق إبراهيم الهري",
+      "has_id": 271
     },
     {
       "name": "أبا عبد الله محمد بن أحمد بن دينار الدينورى",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا عبد الله محمد بن أحمد بن دينار الدينورى بمكة يقول",
       "person_id": 932,
-      "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
-      "has_id": 419
+      "canonical_name": "أبو عبد اللهّ الرودباري",
+      "has_id": NaN
     },
     {
       "name": "محمد بن الحسين",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن الحسين يقول",
       "person_id": 872,
-      "canonical_name": "أبو عبد الله السليمي الفقيه",
+      "canonical_name": "أبو سعد الماليني",
       "has_id": NaN
     }
   ]

@@ -14,24 +14,31 @@
       "chain": [
         {
           "name": "جعفر بن محمد الخواص",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "أحمد بن محمد ابن مقسم",
-          "person_id": 1263,
+          "person_id": 1325,
           "canonical_name": "أحمد بن محمد بن مقسم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -42,24 +49,31 @@
       "chain": [
         {
           "name": "جعفر بن محمد",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "أحمد بن محمد بن مقسم",
-          "person_id": 414,
+          "person_id": 468,
           "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -70,24 +84,31 @@
       "chain": [
         {
           "name": "جعفر بن محمد",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "أبو الحسن",
-          "person_id": 6,
+          "person_id": 436,
           "canonical_name": "أبو الحسن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -98,24 +119,31 @@
       "chain": [
         {
           "name": "جعفر",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "أبو الحسن",
-          "person_id": 6,
+          "person_id": 436,
           "canonical_name": "أبو الحسن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -126,10 +154,17 @@
       "chain": [
         {
           "name": "أبا علي بن خيران الفقيه",
-          "person_id": 976,
+          "person_id": 1047,
           "canonical_name": "أبو علي بن خيران الفقيه",
           "has_id": 162,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -140,17 +175,24 @@
       "chain": [
         {
           "name": "محمد بن إسحاق بن الإمام",
-          "person_id": 2280,
+          "person_id": 2344,
           "canonical_name": "محمد بن إسحاق بن الإمام",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 1045,
+          "person_id": 1111,
           "canonical_name": "أبو محمد إسحاق بن الإمام",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -161,24 +203,31 @@
       "chain": [
         {
           "name": "جعفر بن محمد الخواص",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "أبو على الحسين ابن يحيى بن زكريا الفقيه",
-          "person_id": 954,
+          "person_id": 1026,
           "canonical_name": "أبو علي الحسين بن يحيى بن زكريا الفقيه",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا العباس بن مسروق والجنيد بن محمد",
-          "person_id": 505,
+          "person_id": 567,
           "canonical_name": "أبو العباس بن مسروق الطوسي",
           "has_id": 451,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -189,24 +238,31 @@
       "chain": [
         {
           "name": "جعفر",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "أبو طاهر محمد بن إبراهيم بن أحمد",
-          "person_id": 834,
+          "person_id": 912,
           "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عثمان البلدي",
-          "person_id": 934,
+          "person_id": 1006,
           "canonical_name": "أبو عثمان البلدي",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -217,24 +273,31 @@
       "chain": [
         {
           "name": "جعفر",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "أبو طاهر محمد بن إبراهيم بن أحمد",
-          "person_id": 834,
+          "person_id": 912,
           "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عثمان البلدي",
-          "person_id": 934,
+          "person_id": 1006,
           "canonical_name": "أبو عثمان البلدي",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -245,24 +308,31 @@
       "chain": [
         {
           "name": "أبو جعفر",
-          "person_id": 725,
+          "person_id": 800,
           "canonical_name": "أبو جعفر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن إبراهيم",
-          "person_id": 834,
+          "person_id": 912,
           "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -273,24 +343,31 @@
       "chain": [
         {
           "name": "أبو جعفر",
-          "person_id": 725,
+          "person_id": 800,
           "canonical_name": "أبو جعفر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن إبراهيم",
-          "person_id": 834,
+          "person_id": 912,
           "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -301,24 +378,31 @@
       "chain": [
         {
           "name": "أبو جعفر",
-          "person_id": 725,
+          "person_id": 800,
           "canonical_name": "أبو جعفر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن إبراهيم",
-          "person_id": 834,
+          "person_id": 912,
           "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "bi-isnadihi",
@@ -329,24 +413,31 @@
       "chain": [
         {
           "name": "جعفر بن محمد",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "محمد بن إبراهيم",
-          "person_id": 834,
+          "person_id": 912,
           "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -357,24 +448,31 @@
       "chain": [
         {
           "name": "أبو بكر محمد بن أحمد",
-          "person_id": 691,
+          "person_id": 764,
           "canonical_name": "أبو بكر محمد بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عثمان بن محمد العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو عبد الله أحمد بن عبد الله بن ميمون",
-          "person_id": 893,
+          "person_id": 966,
           "canonical_name": "أبو عبد الله أحمد بن عبد الله بن ميمون",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -385,24 +483,31 @@
       "chain": [
         {
           "name": "أبو بكر محمد بن أحمد",
-          "person_id": 691,
+          "person_id": 764,
           "canonical_name": "أبو بكر محمد بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عثمان بن محمد العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو عبد الله أحمد بن عبد الله بن ميمون",
-          "person_id": 893,
+          "person_id": 966,
           "canonical_name": "أبو عبد الله أحمد بن عبد الله بن ميمون",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -413,24 +518,31 @@
       "chain": [
         {
           "name": "محمد بن أحمد",
-          "person_id": 2314,
+          "person_id": 2378,
           "canonical_name": "محمد بن أحمد بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عثمان بن محمد",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو العباس بن مسروق",
-          "person_id": 505,
+          "person_id": 567,
           "canonical_name": "أبو العباس بن مسروق الطوسي",
           "has_id": 451,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -441,24 +553,31 @@
       "chain": [
         {
           "name": "محمد بن أحمد",
-          "person_id": 2314,
+          "person_id": 2378,
           "canonical_name": "محمد بن أحمد بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عثمان",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو العباس بن مسروق",
-          "person_id": 505,
+          "person_id": 567,
           "canonical_name": "أبو العباس بن مسروق الطوسي",
           "has_id": 451,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -469,17 +588,24 @@
       "chain": [
         {
           "name": "محمد",
-          "person_id": 2314,
+          "person_id": 2378,
           "canonical_name": "محمد بن أحمد بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن عبد الله بن ميمون",
-          "person_id": 1214,
+          "person_id": 1278,
           "canonical_name": "أحمد بن عبد الله بن ميمون",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -490,24 +616,31 @@
       "chain": [
         {
           "name": "محمد بن أحمد بن محمد",
-          "person_id": 2314,
+          "person_id": 2378,
           "canonical_name": "محمد بن أحمد بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عثمان بن محمد العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن عبد الله بن ميمون",
-          "person_id": 1214,
+          "person_id": 1278,
           "canonical_name": "أحمد بن عبد الله بن ميمون",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -518,24 +651,31 @@
       "chain": [
         {
           "name": "جعفر بن محمد بن نصر",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "محمد بن إبراهيم",
-          "person_id": 834,
+          "person_id": 912,
           "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عثمان البلدي",
-          "person_id": 934,
+          "person_id": 1006,
           "canonical_name": "أبو عثمان البلدي",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -546,24 +686,31 @@
       "chain": [
         {
           "name": "محمد بن أحمد",
-          "person_id": 2314,
+          "person_id": 2378,
           "canonical_name": "محمد بن أحمد بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عثمان بن محمد العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن محمد بن مسروق",
-          "person_id": 505,
+          "person_id": 567,
           "canonical_name": "أبو العباس بن مسروق الطوسي",
           "has_id": 451,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -574,24 +721,31 @@
       "chain": [
         {
           "name": "جعفر بن محمد",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "أحمد بن محمد بن مقسم",
-          "person_id": 414,
+          "person_id": 468,
           "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -602,24 +756,31 @@
       "chain": [
         {
           "name": "محمد بن أحمد",
-          "person_id": 2314,
+          "person_id": 2378,
           "canonical_name": "محمد بن أحمد بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عثمان بن محمد",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو عبد الله أحمد بن عبد الله بن ميمون",
-          "person_id": 893,
+          "person_id": 966,
           "canonical_name": "أبو عبد الله أحمد بن عبد الله بن ميمون",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -630,24 +791,31 @@
       "chain": [
         {
           "name": "محمد بن أحمد",
-          "person_id": 2314,
+          "person_id": 2378,
           "canonical_name": "محمد بن أحمد بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عثمان",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن محمد بن مسروق",
-          "person_id": 505,
+          "person_id": 567,
           "canonical_name": "أبو العباس بن مسروق الطوسي",
           "has_id": 451,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -658,24 +826,31 @@
       "chain": [
         {
           "name": "جعفر بن محمد بن نصير",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "عثمان بن محمد العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 87,
+          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": 229,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -693,7 +868,7 @@
       "name": "الجنيد بن محمد",
       "relationship_type": "narrator",
       "full_text": "سمعت الجنيد بن محمد يقول",
-      "person_id": 532,
+      "person_id": 595,
       "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
       "has_id": 228
     },
@@ -701,7 +876,7 @@
       "name": "أبا علي بن خيران الفقيه",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا علي بن خيران الفقيه يقول",
-      "person_id": 976,
+      "person_id": 1047,
       "canonical_name": "أبو علي بن خيران الفقيه",
       "has_id": 162
     },
@@ -709,7 +884,7 @@
       "name": "أبا عثمان البلدي",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا عثمان البلدي يقول",
-      "person_id": 934,
+      "person_id": 1006,
       "canonical_name": "أبو عثمان البلدي",
       "has_id": NaN
     },
@@ -717,7 +892,7 @@
       "name": "أبو عبد الله أحمد بن عبد الله بن ميمون",
       "relationship_type": "narrator",
       "full_text": "قال سمعت الحارث بن أسد يقول",
-      "person_id": 893,
+      "person_id": 966,
       "canonical_name": "أبو عبد الله أحمد بن عبد الله بن ميمون",
       "has_id": NaN
     },
@@ -725,7 +900,7 @@
       "name": "أبو العباس بن مسروق",
       "relationship_type": "narrator",
       "full_text": "قال سمعت الحارث بن أسد يقول",
-      "person_id": 505,
+      "person_id": 567,
       "canonical_name": "أبو العباس بن مسروق الطوسي",
       "has_id": 451
     },
@@ -733,7 +908,7 @@
       "name": "أحمد بن محمد بن مسروق",
       "relationship_type": "narrator",
       "full_text": "قال قال الحارث بن أسد",
-      "person_id": 505,
+      "person_id": 567,
       "canonical_name": "أبو العباس بن مسروق الطوسي",
       "has_id": 451
     },
@@ -741,7 +916,7 @@
       "name": "أبي",
       "relationship_type": "questioner",
       "full_text": "حدثني أبي قال: سألت الحارث بن أسد المحاسبي",
-      "person_id": 585,
+      "person_id": 656,
       "canonical_name": "أبو أبي نعيم الأصفهاني",
       "has_id": NaN
     }

@@ -24,15 +24,15 @@
     {
       "chain": [
         {
-          "name": " طاهر مقدسی",
-          "person_id": 1696,
+          "name": "طاهر مقدسی",
+          "person_id": 1764,
           "canonical_name": "طاهر المقدسي",
           "has_id": 640,
           "subj_added": false
         },
         {
           "name": "ذوالنون مصری",
-          "person_id": 1523,
+          "person_id": 1586,
           "canonical_name": "ذو النون المصري",
           "has_id": 570,
           "subj_added": false
@@ -52,7 +52,7 @@
       "chain": [
         {
           "name": "طاهر مقدسی",
-          "person_id": 1696,
+          "person_id": 1764,
           "canonical_name": "طاهر المقدسي",
           "has_id": 640,
           "subj_added": false
@@ -66,7 +66,7 @@
       "chain": [
         {
           "name": "طاهر",
-          "person_id": 1696,
+          "person_id": 1764,
           "canonical_name": "طاهر المقدسي",
           "has_id": 640,
           "subj_added": false
@@ -90,7 +90,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "را دیده",
         "full_text": "ذوالنون مصری را دیده،",
-        "person_id": 1523,
+        "person_id": 1586,
         "canonical_name": "ذو النون المصري",
         "has_id": 570
       },
@@ -99,7 +99,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده",
         "full_text": "با یحیی جلا٭ صحبت کرده",
-        "person_id": 2655,
+        "person_id": 2714,
         "canonical_name": "يحيي بن الجلاء",
         "has_id": NaN
       },
@@ -108,7 +108,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "فرامن گفت",
         "full_text": "ذوالنون مصری فرامن گفت",
-        "person_id": 1523,
+        "person_id": 1586,
         "canonical_name": "ذو النون المصري",
         "has_id": 570
       }
@@ -121,7 +121,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت قدس اللّه روحه:کی",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -129,7 +129,7 @@
       "name": "ذوالنون مصری",
       "relationship_type": "interlocutor",
       "full_text": "ذوالنون مصری فرامن گفت: العلم فی ذات الحق جهل والکلام فی حقیقة المعرفه حیرة والاشارة عن المشیر شرک.",
-      "person_id": 1523,
+      "person_id": 1586,
       "canonical_name": "ذو النون المصري",
       "has_id": 570
     },
@@ -137,7 +137,7 @@
       "name": "شبلی٭",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "و گویند که شبلی٭ گفته ویرا.",
-      "person_id": 628,
+      "person_id": 699,
       "canonical_name": "أبو بكر الشبلي",
       "has_id": 376
     }

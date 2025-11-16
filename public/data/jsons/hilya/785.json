@@ -19,28 +19,28 @@
       "chain": [
         {
           "name": "عبد الله بن محمد بن جعفر",
-          "person_id": 1868,
+          "person_id": 1937,
           "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إسحاق بن أحمد الفارسي",
-          "person_id": 345,
+          "person_id": 372,
           "canonical_name": "إسحاق بن أحمد الفارسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو زرعة",
-          "person_id": 786,
+          "person_id": 862,
           "canonical_name": "أبو زرعة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2424,
+          "person_id": 2486,
           "canonical_name": "محمد بن عمرو المغربي",
           "has_id": 785,
           "subj_added": true
@@ -54,28 +54,28 @@
       "chain": [
         {
           "name": "أبو محمد بن حيان",
-          "person_id": 1050,
+          "person_id": 1116,
           "canonical_name": "أبو محمد بن حيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن يحيى",
-          "person_id": 2468,
+          "person_id": 2529,
           "canonical_name": "محمد بن يحيى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إبراهيم بن أبي أيوب",
-          "person_id": 296,
+          "person_id": 322,
           "canonical_name": "إبراهيم بن أبي أيوب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن عمرو المغربي",
-          "person_id": 2424,
+          "person_id": 2486,
           "canonical_name": "محمد بن عمرو المغربي",
           "has_id": 785,
           "subj_added": false
@@ -89,42 +89,42 @@
       "chain": [
         {
           "name": "محمد بن علي",
-          "person_id": 2407,
+          "person_id": 2469,
           "canonical_name": "محمد بن علي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن الحسن بن قتيبة",
-          "person_id": 2235,
+          "person_id": 2300,
           "canonical_name": "محمد بن الحسن بن قتيبة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن عمرو المغربي",
-          "person_id": 2424,
+          "person_id": 2486,
           "canonical_name": "محمد بن عمرو المغربي",
           "has_id": 785,
           "subj_added": false
         },
         {
           "name": "الوليد بن مسلم",
-          "person_id": 258,
+          "person_id": 284,
           "canonical_name": "الوليد بن مسلم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الرحمن بن يزيد بن جابر",
-          "person_id": 1757,
+          "person_id": 1825,
           "canonical_name": "عبد الرحمن بن يزيد بن جابر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مولاة أبي أمامة",
-          "person_id": 2570,
+          "person_id": 2630,
           "canonical_name": "مولاة أبي أمامة",
           "has_id": NaN,
           "subj_added": false
@@ -144,14 +144,14 @@
       "chain": [
         {
           "name": "محمد بن إبراهيم",
-          "person_id": 2269,
+          "person_id": 2334,
           "canonical_name": "محمد بن إبراهيم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن الحسن",
-          "person_id": 2225,
+          "person_id": 2291,
           "canonical_name": "محمد بن الحسن",
           "has_id": NaN,
           "subj_added": false
@@ -159,20 +159,20 @@
         {
           "name": "ابن عمرو المغربى",
           "has_id": NaN,
-          "person_id": 108,
-          "canonical_name": "الحسين بن أحمد الرازي",
+          "person_id": 42,
+          "canonical_name": "ابن عمرو المغربى",
           "subj_added": false
         },
         {
           "name": "عثمان ابن سعيد",
-          "person_id": 1950,
+          "person_id": 2019,
           "canonical_name": "عثمان بن سعيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن مهاجر",
-          "person_id": 2455,
+          "person_id": 2517,
           "canonical_name": "محمد بن مهاجر",
           "has_id": NaN,
           "subj_added": false
@@ -180,20 +180,20 @@
         {
           "name": "ابن حلبس",
           "has_id": NaN,
-          "person_id": 109,
-          "canonical_name": "الحسين بن أحمد بن الماذرائي",
+          "person_id": 25,
+          "canonical_name": "ابن حلبس",
           "subj_added": false
         },
         {
           "name": "أبو إدريس عائذ الله",
-          "person_id": 569,
+          "person_id": 635,
           "canonical_name": "أبو إدريس عائذ الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2424,
+          "person_id": 2486,
           "canonical_name": "محمد بن عمرو المغربي",
           "has_id": 785,
           "subj_added": true
@@ -207,42 +207,42 @@
       "chain": [
         {
           "name": "محمد بن علي",
-          "person_id": 2407,
+          "person_id": 2469,
           "canonical_name": "محمد بن علي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو العباس بن قتيبة",
-          "person_id": 504,
+          "person_id": 566,
           "canonical_name": "أبو العباس بن قتيبة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن عمرو المغربي",
-          "person_id": 2424,
+          "person_id": 2486,
           "canonical_name": "محمد بن عمرو المغربي",
           "has_id": 785,
           "subj_added": false
         },
         {
           "name": "عطاف بن خالد",
-          "person_id": 1968,
+          "person_id": 2038,
           "canonical_name": "عطاف بن خالد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن أبي بكر بن مطرف بن عبد الرحمن بن عوف",
-          "person_id": 2288,
+          "person_id": 2352,
           "canonical_name": "محمد بن أبي بكر بن مطرف بن عبد الرحمن بن عوف",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عائشة",
-          "person_id": 1710,
+          "person_id": 1778,
           "canonical_name": "عائشة",
           "has_id": NaN,
           "subj_added": false
@@ -260,7 +260,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "ثنا",
         "full_text": "ثنا الوليد بن مسلم",
-        "person_id": 258,
+        "person_id": 284,
         "canonical_name": "الوليد بن مسلم",
         "has_id": NaN
       },
@@ -269,7 +269,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "ثنا",
         "full_text": "ثنا عثمان ابن سعيد",
-        "person_id": 1950,
+        "person_id": 2019,
         "canonical_name": "عثمان بن سعيد",
         "has_id": NaN
       },
@@ -278,7 +278,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "ثنا",
         "full_text": "ثنا عطاف بن خالد",
-        "person_id": 1968,
+        "person_id": 2038,
         "canonical_name": "عطاف بن خالد",
         "has_id": NaN
       }
@@ -289,7 +289,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "ثنا",
         "full_text": "ثنا إبراهيم بن أبي أيوب ثنا محمد بن عمرو المغربي",
-        "person_id": 296,
+        "person_id": 322,
         "canonical_name": "إبراهيم بن أبي أيوب",
         "has_id": NaN
       },
@@ -298,7 +298,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "ثنا",
         "full_text": "ثنا محمد بن الحسن بن قتيبة ثنا محمد بن عمرو المغربي",
-        "person_id": 2235,
+        "person_id": 2300,
         "canonical_name": "محمد بن الحسن بن قتيبة",
         "has_id": NaN
       },
@@ -307,7 +307,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "ثنا",
         "full_text": "ثنا محمد بن الحسن ثنا ابن عمرو المغربى",
-        "person_id": 2225,
+        "person_id": 2291,
         "canonical_name": "محمد بن الحسن",
         "has_id": NaN
       },
@@ -316,7 +316,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "ثنا",
         "full_text": "ثنا أبو العباس بن قتيبة ثنا محمد بن عمرو المغربي",
-        "person_id": 504,
+        "person_id": 566,
         "canonical_name": "أبو العباس بن قتيبة",
         "has_id": NaN
       }
@@ -328,7 +328,7 @@
       "name": "أبو زرعة",
       "relationship_type": "narrator",
       "full_text": "قال سمعت أبا زرعة يقول",
-      "person_id": 786,
+      "person_id": 862,
       "canonical_name": "أبو زرعة",
       "has_id": NaN
     },
@@ -337,7 +337,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "ثنا إبراهيم بن أبي أيوب ثنا محمد بن عمرو المغربي",
-      "person_id": 296,
+      "person_id": 322,
       "canonical_name": "إبراهيم بن أبي أيوب",
       "has_id": NaN
     },
@@ -346,7 +346,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "ثنا محمد بن الحسن بن قتيبة ثنا محمد بن عمرو المغربي",
-      "person_id": 2235,
+      "person_id": 2300,
       "canonical_name": "محمد بن الحسن بن قتيبة",
       "has_id": NaN
     },
@@ -355,7 +355,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "ثنا محمد بن الحسن ثنا ابن عمرو المغربى",
-      "person_id": 2225,
+      "person_id": 2291,
       "canonical_name": "محمد بن الحسن",
       "has_id": NaN
     },
@@ -364,7 +364,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "ثنا أبو العباس بن قتيبة ثنا محمد بن عمرو المغربي",
-      "person_id": 504,
+      "person_id": 566,
       "canonical_name": "أبو العباس بن قتيبة",
       "has_id": NaN
     }

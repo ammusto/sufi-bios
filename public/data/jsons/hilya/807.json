@@ -19,22 +19,22 @@
       "chain": [
         {
           "name": "أبا بكر الدينوري الطرسوسي",
-          "person_id": 623,
+          "person_id": 725,
           "canonical_name": "أبو بكر أحمد بن محمد الطرسوسي",
           "has_id": 79,
           "subj_added": false
         },
         {
           "name": "مظفر القرميسيني",
-          "person_id": 2513,
+          "person_id": 2573,
           "canonical_name": "مظفر القرميسيني",
           "has_id": 807,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2512,
-          "canonical_name": "مظفر القرميسينى",
+          "person_id": 2573,
+          "canonical_name": "مظفر القرميسيني",
           "has_id": 807,
           "subj_added": true
         }
@@ -47,15 +47,15 @@
       "chain": [
         {
           "name": "أبا عبد الله محمد بن أحمد بن دينار الدينورى",
-          "person_id": 902,
+          "person_id": 975,
           "canonical_name": "أبو عبد الله بن دينار الدينوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مظفر القرميسينى",
-          "person_id": 2512,
-          "canonical_name": "مظفر القرميسينى",
+          "person_id": 2573,
+          "canonical_name": "مظفر القرميسيني",
           "has_id": 807,
           "subj_added": false
         }
@@ -68,15 +68,15 @@
       "chain": [
         {
           "name": "أبا عبد الله محمد بن أحمد بن دينار الدينورى",
-          "person_id": 902,
+          "person_id": 975,
           "canonical_name": "أبو عبد الله بن دينار الدينوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مظفر القرميسينى",
-          "person_id": 2512,
-          "canonical_name": "مظفر القرميسينى",
+          "person_id": 2573,
+          "canonical_name": "مظفر القرميسيني",
           "has_id": 807,
           "subj_added": false
         }
@@ -89,22 +89,22 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "مظفر القرميسيني",
-          "person_id": 2513,
+          "person_id": 2573,
           "canonical_name": "مظفر القرميسيني",
           "has_id": 807,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2512,
-          "canonical_name": "مظفر القرميسينى",
+          "person_id": 2573,
+          "canonical_name": "مظفر القرميسيني",
           "has_id": 807,
           "subj_added": true
         }
@@ -117,22 +117,22 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "مظفر القرميسيني",
-          "person_id": 2513,
+          "person_id": 2573,
           "canonical_name": "مظفر القرميسيني",
           "has_id": 807,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2512,
-          "canonical_name": "مظفر القرميسينى",
+          "person_id": 2573,
+          "canonical_name": "مظفر القرميسيني",
           "has_id": 807,
           "subj_added": true
         }
@@ -145,15 +145,15 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "مظفر",
-          "person_id": 2512,
-          "canonical_name": "مظفر القرميسينى",
+          "person_id": 2573,
+          "canonical_name": "مظفر القرميسيني",
           "has_id": 807,
           "subj_added": false
         }
@@ -166,15 +166,15 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "مظفر",
-          "person_id": 2512,
-          "canonical_name": "مظفر القرميسينى",
+          "person_id": 2573,
+          "canonical_name": "مظفر القرميسيني",
           "has_id": 807,
           "subj_added": false
         }
@@ -187,15 +187,15 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "مظفر",
-          "person_id": 2512,
-          "canonical_name": "مظفر القرميسينى",
+          "person_id": 2573,
+          "canonical_name": "مظفر القرميسيني",
           "has_id": 807,
           "subj_added": false
         }
@@ -215,7 +215,7 @@
       "name": "أبا بكر الدينوري الطرسوسي",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا بكر الدينوري الطرسوسي - شيخ الحرمة - يقول",
-      "person_id": 623,
+      "person_id": 725,
       "canonical_name": "أبو بكر أحمد بن محمد الطرسوسي",
       "has_id": 79
     },
@@ -223,7 +223,7 @@
       "name": "أبا عبد الله محمد بن أحمد بن دينار الدينورى",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا عبد الله محمد بن أحمد بن دينار الدينورى بمكة يقول",
-      "person_id": 902,
+      "person_id": 975,
       "canonical_name": "أبو عبد الله بن دينار الدينوري",
       "has_id": NaN
     },
@@ -231,7 +231,7 @@
       "name": "محمد بن الحسين",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن الحسين يقول",
-      "person_id": 845,
+      "person_id": 922,
       "canonical_name": "أبو عبد الرحمن السلمي",
       "has_id": 133
     }

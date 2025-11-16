@@ -14,10 +14,17 @@
       "chain": [
         {
           "name": "جعفر بن محمد بن نصير",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
+        },
+        {
+          "person_id": 676,
+          "canonical_name": "أبو أيوب الحمال",
+          "has_id": 373,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "single_informant",
@@ -28,38 +35,45 @@
       "chain": [
         {
           "name": "محمد بن إبراهيم",
-          "person_id": 2269,
+          "person_id": 2334,
           "canonical_name": "محمد بن إبراهيم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "جعفر بن محمد بن نصير",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
         },
         {
           "name": "محمد بن وهب",
-          "person_id": 2467,
+          "person_id": 2528,
           "canonical_name": "محمد بن وهب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بعض أصحابه",
-          "person_id": 1339,
+          "person_id": 1401,
           "canonical_name": "بعض أصحابه",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "person_id": 676,
+          "canonical_name": "أبو أيوب الحمال",
+          "has_id": 373,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -70,21 +84,21 @@
       "chain": [
         {
           "name": "جعفر بن محمد",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "محمد بن خالد",
-          "person_id": 2344,
+          "person_id": 2408,
           "canonical_name": "محمد بن خالد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أيوب",
-          "person_id": 1313,
+          "person_id": 1375,
           "canonical_name": "أيوب",
           "has_id": NaN,
           "subj_added": false
@@ -105,7 +119,7 @@
       "name": "جعفر بن محمد بن نصير",
       "relationship_type": "narrator",
       "full_text": "أخبر جعفر بن محمد بن نصير - في كتابه -",
-      "person_id": 1405,
+      "person_id": 1464,
       "canonical_name": "جعفر بن محمد الخلدي",
       "has_id": 495
     },
@@ -113,7 +127,7 @@
       "name": "بعض أصحابه",
       "relationship_type": "narrator",
       "full_text": "أخبرني محمد بن وهب عن بعض أصحابه",
-      "person_id": 1339,
+      "person_id": 1401,
       "canonical_name": "بعض أصحابه",
       "has_id": NaN
     },
@@ -121,7 +135,7 @@
       "name": "محمد بن خالد",
       "relationship_type": "narrator",
       "full_text": "عن محمد بن خالد قال سمعت أيوب يقول",
-      "person_id": 2344,
+      "person_id": 2408,
       "canonical_name": "محمد بن خالد",
       "has_id": NaN
     }

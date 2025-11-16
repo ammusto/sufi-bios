@@ -19,7 +19,7 @@
         {
           "name": "عبدالعزیز بحرانی",
           "person_id": 1814,
-          "canonical_name": "عبد الله بن أحمد بن حنبل",
+          "canonical_name": "عبد الرحمن بن سعد مولى آل بني سفيان",
           "has_id": NaN,
           "subj_added": false
         }
@@ -33,7 +33,7 @@
         {
           "name": "عبدالعزیز بحرانی",
           "person_id": 1814,
-          "canonical_name": "عبد الله بن أحمد بن حنبل",
+          "canonical_name": "عبد الرحمن بن سعد مولى آل بني سفيان",
           "has_id": NaN,
           "subj_added": false
         }
@@ -47,7 +47,7 @@
         {
           "name": "عبدالعزیز بحرانی",
           "person_id": 1814,
-          "canonical_name": "عبد الله بن أحمد بن حنبل",
+          "canonical_name": "عبد الرحمن بن سعد مولى آل بني سفيان",
           "has_id": NaN,
           "subj_added": false
         }
@@ -61,7 +61,7 @@
         {
           "name": "بوالعباس",
           "person_id": 502,
-          "canonical_name": "أبو العباس بن حكويه الرازي",
+          "canonical_name": "أبو الحسين الزنجاني",
           "has_id": NaN,
           "subj_added": false
         }
@@ -85,7 +85,7 @@
         "relationship_phrase": "دیده و صحبت کرده",
         "full_text": "در بغداد جنید دیده و صحبت کرده",
         "person_id": 550,
-        "canonical_name": "أبو القاسم حنانه",
+        "canonical_name": "أبو العباس الطحّان",
         "has_id": NaN
       },
       {
@@ -94,7 +94,7 @@
         "relationship_phrase": "پیر ... بودهام و صحبت کردهام",
         "full_text": "با پیر شما جنید٭ بودهام و صحبت کردهام",
         "person_id": 550,
-        "canonical_name": "أبو القاسم حنانه",
+        "canonical_name": "أبو العباس الطحّان",
         "has_id": NaN
       }
     ],
@@ -106,8 +106,8 @@
         "relationship_phrase": "با",
         "full_text": "با بوعبداللّه صوفی کبیر.",
         "person_id": 904,
-        "canonical_name": "أبو عبد الله بن علان",
-        "has_id": 30
+        "canonical_name": "أبو صالح البصري",
+        "has_id": NaN
       }
     ]
   },
@@ -117,7 +117,7 @@
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
       "person_id": 1725,
-      "canonical_name": "عبد الأعلى بن أبي المساور",
+      "canonical_name": "شخصي",
       "has_id": NaN
     },
     {
@@ -126,7 +126,7 @@
       "context": "questioner",
       "full_text": "کی عبدالعزیز بحرانی، بکران مجلس بوالعباس سریج شد گفت",
       "person_id": 1814,
-      "canonical_name": "عبد الله بن أحمد بن حنبل",
+      "canonical_name": "عبد الرحمن بن سعد مولى آل بني سفيان",
       "has_id": NaN
     },
     {
@@ -134,8 +134,8 @@
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "با بوعبداللّه صوفی کبیر.",
       "person_id": 904,
-      "canonical_name": "أبو عبد الله بن علان",
-      "has_id": 30
+      "canonical_name": "أبو صالح البصري",
+      "has_id": NaN
     }
   ]
 }

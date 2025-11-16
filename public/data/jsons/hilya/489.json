@@ -14,28 +14,28 @@
       "chain": [
         {
           "name": "محمد بن أحمد بن يعقوب",
-          "person_id": 702,
+          "person_id": 777,
           "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
-          "has_id": 380,
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
         },
         {
           "name": "أبو جعفر الخصاف",
-          "person_id": 729,
+          "person_id": 804,
           "canonical_name": "أبو جعفر الخصاف",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "جابر الرحبي",
-          "person_id": 1373,
+          "person_id": 1435,
           "canonical_name": "جابر الرحبي",
           "has_id": 489,
           "subj_added": false
@@ -56,7 +56,7 @@
       "name": "أبو جعفر الخصاف",
       "relationship_type": "narrator",
       "full_text": "قال قال لي جابر الرحبي يوما وأنا أماشيه",
-      "person_id": 729,
+      "person_id": 804,
       "canonical_name": "أبو جعفر الخصاف",
       "has_id": NaN
     }

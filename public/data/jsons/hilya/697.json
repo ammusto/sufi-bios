@@ -14,14 +14,14 @@
       "chain": [
         {
           "name": "أبا حامد أحمد بن رستم",
-          "person_id": 753,
+          "person_id": 830,
           "canonical_name": "أبو حامد أحمد بن رستم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2036,
+          "person_id": 2107,
           "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
           "has_id": 697,
           "subj_added": true
@@ -35,14 +35,14 @@
       "chain": [
         {
           "name": "أبا عبد الله أحمد بن إسحاق الشعار",
-          "person_id": 892,
+          "person_id": 965,
           "canonical_name": "أبو عبد الله أحمد بن إسحاق الشعار",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علي بن سهل",
-          "person_id": 2036,
+          "person_id": 2107,
           "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
           "has_id": 697,
           "subj_added": false
@@ -56,14 +56,14 @@
       "chain": [
         {
           "name": "أبا حامد",
-          "person_id": 753,
+          "person_id": 830,
           "canonical_name": "أبو حامد أحمد بن رستم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علي بن سهل",
-          "person_id": 2036,
+          "person_id": 2107,
           "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
           "has_id": 697,
           "subj_added": false
@@ -77,14 +77,14 @@
       "chain": [
         {
           "name": "أبا جعفر المحلاوي",
-          "person_id": 740,
+          "person_id": 816,
           "canonical_name": "أبو جعفر المحلاوي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علي بن سهل",
-          "person_id": 2036,
+          "person_id": 2107,
           "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
           "has_id": 697,
           "subj_added": false
@@ -98,14 +98,14 @@
       "chain": [
         {
           "name": "علي بن هارون",
-          "person_id": 435,
+          "person_id": 489,
           "canonical_name": "أبو الحسن علي بن هارون",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2036,
+          "person_id": 2107,
           "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
           "has_id": 697,
           "subj_added": true
@@ -119,14 +119,14 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علي بن سهل",
-          "person_id": 2036,
+          "person_id": 2107,
           "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
           "has_id": 697,
           "subj_added": false
@@ -140,14 +140,14 @@
       "chain": [
         {
           "name": "سليمان بن أحمد",
-          "person_id": 1626,
+          "person_id": 1687,
           "canonical_name": "سليمان بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علي بن سهل الصوفي الأصبهاني",
-          "person_id": 2036,
+          "person_id": 2107,
           "canonical_name": "علي بن سهل بن الأزهر الأصبهاني",
           "has_id": 697,
           "subj_added": false
@@ -155,34 +155,34 @@
         {
           "name": "ابن مهدي",
           "has_id": NaN,
-          "person_id": 102,
-          "canonical_name": "الحسن بن محمد الطنافسي",
+          "person_id": 56,
+          "canonical_name": "ابن مهدي",
           "subj_added": false
         },
         {
           "name": "علي بن صالح - صاحب المصلى -",
-          "person_id": 2038,
+          "person_id": 2108,
           "canonical_name": "علي بن صالح",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "القاسم بن معن",
-          "person_id": 210,
+          "person_id": 236,
           "canonical_name": "القاسم بن معن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "حميد الطويل",
-          "person_id": 1481,
+          "person_id": 1543,
           "canonical_name": "حميد الأعرج",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أنس بن مالك",
-          "person_id": 1310,
+          "person_id": 1372,
           "canonical_name": "أنس بن مالك",
           "has_id": NaN,
           "subj_added": false
@@ -202,7 +202,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "من أصحابه",
         "full_text": "وكانا من أصحابه",
-        "person_id": 753,
+        "person_id": 830,
         "canonical_name": "أبو حامد أحمد بن رستم",
         "has_id": NaN
       },
@@ -211,7 +211,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "من أصحابه",
         "full_text": "وكانا من أصحابه",
-        "person_id": 740,
+        "person_id": 816,
         "canonical_name": "أبو جعفر المحلاوي",
         "has_id": NaN
       }
@@ -222,7 +222,7 @@
       "name": "أبا حامد أحمد بن رستم",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا حامد أحمد بن رستم يقول:",
-      "person_id": 753,
+      "person_id": 830,
       "canonical_name": "أبو حامد أحمد بن رستم",
       "has_id": NaN
     },
@@ -230,7 +230,7 @@
       "name": "أبا عبد الله أحمد بن إسحاق الشعار",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا عبد الله أحمد بن إسحاق الشعار يقول",
-      "person_id": 892,
+      "person_id": 965,
       "canonical_name": "أبو عبد الله أحمد بن إسحاق الشعار",
       "has_id": NaN
     },
@@ -238,7 +238,7 @@
       "name": "أبا حامد",
       "relationship_type": "narrator",
       "full_text": "وسمعت أبا حامد وأبا جعفر المحلاوي يقولان - وكانا من أصحابه - قالا قال علي بن سهل:",
-      "person_id": 753,
+      "person_id": 830,
       "canonical_name": "أبو حامد أحمد بن رستم",
       "has_id": NaN
     },
@@ -246,7 +246,7 @@
       "name": "أبا جعفر المحلاوي",
       "relationship_type": "narrator",
       "full_text": "وسمعت أبا حامد وأبا جعفر المحلاوي يقولان - وكانا من أصحابه - قالا قال علي بن سهل:",
-      "person_id": 740,
+      "person_id": 816,
       "canonical_name": "أبو جعفر المحلاوي",
       "has_id": NaN
     },
@@ -254,7 +254,7 @@
       "name": "علي بن هارون",
       "relationship_type": "narrator",
       "full_text": "فقد حدثنا علي بن هارون - صاحب أبي القاسم الجنيد بن محمد - قال:",
-      "person_id": 435,
+      "person_id": 489,
       "canonical_name": "أبو الحسن علي بن هارون",
       "has_id": NaN
     },
@@ -262,7 +262,7 @@
       "name": "سليمان بن أحمد",
       "relationship_type": "narrator",
       "full_text": "حدثنا سليمان بن أحمد",
-      "person_id": 1626,
+      "person_id": 1687,
       "canonical_name": "سليمان بن أحمد",
       "has_id": NaN
     },
@@ -270,7 +270,7 @@
       "name": "أبي",
       "relationship_type": "narrator",
       "full_text": "سمعت أبي وعنده أصحاب علي بن سهل أنه كان يقول:",
-      "person_id": 585,
+      "person_id": 656,
       "canonical_name": "أبو أبي نعيم الأصفهاني",
       "has_id": NaN
     },
@@ -279,7 +279,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "مكتوب إليه",
       "full_text": "قرأت ما كتب به علي بن سهل إلى الجنيد",
-      "person_id": 532,
+      "person_id": 595,
       "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
       "has_id": 228
     },
@@ -288,7 +288,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "حضور",
       "full_text": "وعنده أصحاب علي بن سهل",
-      "person_id": 1300,
+      "person_id": 1361,
       "canonical_name": "أصحاب علي بن سهل",
       "has_id": NaN
     },
@@ -296,7 +296,7 @@
       "name": "محمد بن يوسف",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "فقيل لمحمد بن يوسف",
-      "person_id": 2475,
+      "person_id": 2536,
       "canonical_name": "محمد بن يوسف",
       "has_id": NaN
     }

@@ -14,45 +14,52 @@
       "chain": [
         {
           "name": "عبد الله بن محمد بن جعفر",
-          "person_id": 1868,
+          "person_id": 1937,
           "canonical_name": "عبد الله بن محمد بن جعفر الأصبهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن محمد بن العباس",
-          "person_id": 1864,
+          "person_id": 1934,
           "canonical_name": "عبد الله بن محمد بن العباس",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سلمة ابن شبيب",
-          "person_id": 1614,
+          "person_id": 1675,
           "canonical_name": "سلمة بن شبيب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سهل بن عاصم",
-          "person_id": 1638,
+          "person_id": 1699,
           "canonical_name": "سهل بن عاصم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن عيينة",
-          "person_id": 2427,
+          "person_id": 2489,
           "canonical_name": "محمد بن عيينة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مخلد بن الحسين",
-          "person_id": 2487,
+          "person_id": 2548,
           "canonical_name": "مخلد بن الحسين",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1726,
+          "canonical_name": "شداد المجذوم",
+          "has_id": 617,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -70,7 +77,7 @@
       "name": "مخلد بن الحسين",
       "relationship_type": "narrator",
       "full_text": "عن مخلد بن الحسين",
-      "person_id": 2487,
+      "person_id": 2548,
       "canonical_name": "مخلد بن الحسين",
       "has_id": NaN
     },
@@ -79,7 +86,7 @@
       "relationship_type": "questioner",
       "context": "عواده",
       "full_text": "فدخل عليه عواده من أصحاب الحسن. فقالوا: كيف تجدك؟",
-      "person_id": 2134,
+      "person_id": 2200,
       "canonical_name": "عواده من أصحاب الحسن",
       "has_id": NaN
     }

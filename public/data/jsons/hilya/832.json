@@ -8,28 +8,28 @@
       "chain": [
         {
           "name": "أبو بكر محمد بن أحمد المعدل",
-          "person_id": 695,
+          "person_id": 768,
           "canonical_name": "أبو بكر محمد بن أحمد المعدل",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن محمد بن عمر",
-          "person_id": 1259,
+          "person_id": 1321,
           "canonical_name": "أحمد بن محمد بن عمر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إسحاق\nابن سفيان",
-          "person_id": 336,
+          "person_id": 363,
           "canonical_name": "إسحاق ابن سفيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "نصر بن الحريش الصامت",
-          "person_id": 2580,
+          "person_id": 2640,
           "canonical_name": "نصر بن الحريش الصامت",
           "has_id": 832,
           "subj_added": false
@@ -43,56 +43,56 @@
       "chain": [
         {
           "name": "محمد بن أحمد بن الحسن",
-          "person_id": 2302,
+          "person_id": 2366,
           "canonical_name": "محمد بن أحمد بن الحسن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن بن علي بن الوليد الفسوي",
-          "person_id": 95,
+          "person_id": 113,
           "canonical_name": "الحسن بن علي بن الوليد الفسوي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "نصر بن الحريش الصامت",
-          "person_id": 2580,
+          "person_id": 2640,
           "canonical_name": "نصر بن الحريش الصامت",
           "has_id": 832,
           "subj_added": false
         },
         {
           "name": "المشمعل بن ملحان",
-          "person_id": 235,
+          "person_id": 261,
           "canonical_name": "المشمعل بن ملحان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن بن دينار",
-          "person_id": 83,
-          "canonical_name": "ابن كاسب",
+          "person_id": 101,
+          "canonical_name": "الحسن بن دينار",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أيوب",
-          "person_id": 1313,
+          "person_id": 1375,
           "canonical_name": "أيوب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو قلابة",
-          "person_id": 1029,
+          "person_id": 1097,
           "canonical_name": "أبو قلابة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عائشة",
-          "person_id": 1710,
+          "person_id": 1778,
           "canonical_name": "عائشة",
           "has_id": NaN,
           "subj_added": false
@@ -106,56 +106,56 @@
       "chain": [
         {
           "name": "أبو بكر محمد بن أحمد",
-          "person_id": 695,
+          "person_id": 768,
           "canonical_name": "أبو بكر محمد بن أحمد المعدل",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو الحسن بن أبان",
-          "person_id": 417,
+          "person_id": 471,
           "canonical_name": "أبو الحسن بن أبان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إسحاق بن سنين",
-          "person_id": 350,
+          "person_id": 377,
           "canonical_name": "إسحاق بن سنين",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "نصر بن الحريش الصامت",
-          "person_id": 2580,
+          "person_id": 2640,
           "canonical_name": "نصر بن الحريش الصامت",
           "has_id": 832,
           "subj_added": false
         },
         {
           "name": "المشمعل بن ملحان",
-          "person_id": 235,
+          "person_id": 261,
           "canonical_name": "المشمعل بن ملحان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سويد بن عمر",
-          "person_id": 1653,
+          "person_id": 1715,
           "canonical_name": "سويد بن عمر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سالم الأفطس",
-          "person_id": 1581,
+          "person_id": 1643,
           "canonical_name": "سالم الأفطس",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سعيد بن جبير",
-          "person_id": 1596,
+          "person_id": 1658,
           "canonical_name": "سعيد بن جبير",
           "has_id": NaN,
           "subj_added": false
@@ -163,7 +163,7 @@
         {
           "name": "ابن عمر",
           "has_id": NaN,
-          "person_id": 28,
+          "person_id": 41,
           "canonical_name": "ابن عمر",
           "subj_added": false
         }
@@ -180,7 +180,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "ثنا",
         "full_text": "ثنا نصر بن الحريش الصامت ثنا المشمعل بن ملحان",
-        "person_id": 235,
+        "person_id": 261,
         "canonical_name": "المشمعل بن ملحان",
         "has_id": NaN
       }
@@ -191,7 +191,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "ثنا",
         "full_text": "ثنا إسحاق\nابن سفيان ثنا نصر بن الحريش الصامت",
-        "person_id": 336,
+        "person_id": 363,
         "canonical_name": "إسحاق ابن سفيان",
         "has_id": NaN
       },
@@ -200,7 +200,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "ثنا",
         "full_text": "ثنا الحسن بن علي بن الوليد الفسوي ثنا نصر بن الحريش الصامت",
-        "person_id": 95,
+        "person_id": 113,
         "canonical_name": "الحسن بن علي بن الوليد الفسوي",
         "has_id": NaN
       },
@@ -209,7 +209,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "ثنا",
         "full_text": "ثنا إسحاق بن سنين ثنا نصر بن الحريش الصامت",
-        "person_id": 350,
+        "person_id": 377,
         "canonical_name": "إسحاق بن سنين",
         "has_id": NaN
       }

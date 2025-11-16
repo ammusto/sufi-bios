@@ -14,14 +14,14 @@
       "chain": [
         {
           "name": "المرتعش",
-          "person_id": 1043,
+          "person_id": 1128,
           "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
           "has_id": 251,
           "subj_added": false
         },
         {
           "name": "أبا عبد الله الحضرمي",
-          "person_id": 862,
+          "person_id": 939,
           "canonical_name": "أبو عبد الله الحضرمي",
           "has_id": 411,
           "subj_added": false
@@ -43,7 +43,7 @@
       "relationship_type": "narrator",
       "context": "questioner",
       "full_text": "سمعت المرتعش يقول: سألت أبا عبد الله الحضرمي عن التصوف",
-      "person_id": 1043,
+      "person_id": 1128,
       "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
       "has_id": 251
     }

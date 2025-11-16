@@ -39,14 +39,14 @@
       "chain": [
         {
           "name": "بوعمر و زجاجی ٭",
-          "person_id": 1011,
+          "person_id": 1079,
           "canonical_name": "أبو عمرو الزجاجي",
           "has_id": 426,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 759,
+          "person_id": 836,
           "canonical_name": "أبو حفص الحداد النيسابوري",
           "has_id": 715,
           "subj_added": true
@@ -60,29 +60,31 @@
       "chain": [
         {
           "name": "المومل الجصاص الشیرازی",
-          "person_id": 245,
+          "person_id": 271,
           "canonical_name": "المؤمل الجصاص الشيرازي",
           "has_id": 821,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 759,
+          "person_id": 836,
           "canonical_name": "أبو حفص الحداد النيسابوري",
           "has_id": 715,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 759,
+          "name": "",
+          "person_id": 836,
           "canonical_name": "أبو حفص الحداد النيسابوري",
-          "has_id": 715
+          "has_id": 715,
+          "subj_added": false
         },
         {
-          "name": NaN,
-          "person_id": 759,
+          "name": "",
+          "person_id": 836,
           "canonical_name": "أبو حفص الحداد النيسابوري",
-          "has_id": 715
+          "has_id": 715,
+          "subj_added": false
         }
       ],
       "type": "explicit",
@@ -93,7 +95,7 @@
       "chain": [
         {
           "name": "ابوحفص",
-          "person_id": 759,
+          "person_id": 836,
           "canonical_name": "أبو حفص الحداد النيسابوري",
           "has_id": 715,
           "subj_added": false
@@ -107,7 +109,7 @@
       "chain": [
         {
           "name": "با حفص احداد",
-          "person_id": 759,
+          "person_id": 836,
           "canonical_name": "أبو حفص الحداد النيسابوري",
           "has_id": 715,
           "subj_added": false
@@ -127,7 +129,7 @@
       "chain": [
         {
           "name": "با حفص",
-          "person_id": 759,
+          "person_id": 836,
           "canonical_name": "أبو حفص الحداد النيسابوري",
           "has_id": 715,
           "subj_added": false
@@ -141,14 +143,14 @@
       "chain": [
         {
           "name": "الامام",
-          "person_id": 55,
+          "person_id": 74,
           "canonical_name": "الامام",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 759,
+          "person_id": 836,
           "canonical_name": "أبو حفص الحداد النيسابوري",
           "has_id": 715,
           "subj_added": true
@@ -162,14 +164,14 @@
       "chain": [
         {
           "name": "بوعلی ثقفی",
-          "person_id": 947,
-          "canonical_name": "أبو علي الثقفي",
+          "person_id": 1058,
+          "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
           "has_id": 112,
           "subj_added": false
         },
         {
           "name": "باحفص",
-          "person_id": 759,
+          "person_id": 836,
           "canonical_name": "أبو حفص الحداد النيسابوري",
           "has_id": 715,
           "subj_added": false
@@ -183,14 +185,14 @@
       "chain": [
         {
           "name": "ابوعمرو بن نجید",
-          "person_id": 1015,
+          "person_id": 1083,
           "canonical_name": "أبو عمرو إسماعيل بن نجيد",
           "has_id": 176,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 759,
+          "person_id": 836,
           "canonical_name": "أبو حفص الحداد النيسابوري",
           "has_id": 715,
           "subj_added": true
@@ -204,14 +206,14 @@
       "chain": [
         {
           "name": "ابوالحسن البوشنجی الصوفی",
-          "person_id": 428,
+          "person_id": 482,
           "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
           "has_id": 292,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 759,
+          "person_id": 836,
           "canonical_name": "أبو حفص الحداد النيسابوري",
           "has_id": 715,
           "subj_added": true
@@ -225,14 +227,14 @@
       "chain": [
         {
           "name": "ابراهیم بن داود القصار",
-          "person_id": 309,
+          "person_id": 333,
           "canonical_name": "إبراهيم بن داود القصار",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 759,
+          "person_id": 836,
           "canonical_name": "أبو حفص الحداد النيسابوري",
           "has_id": 715,
           "subj_added": true
@@ -252,14 +254,14 @@
       "chain": [
         {
           "name": "الامام",
-          "person_id": 55,
+          "person_id": 74,
           "canonical_name": "الامام",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 759,
+          "person_id": 836,
           "canonical_name": "أبو حفص الحداد النيسابوري",
           "has_id": 715,
           "subj_added": true
@@ -273,29 +275,31 @@
       "chain": [
         {
           "name": "بوبکر زقاق",
-          "person_id": 625,
+          "person_id": 696,
           "canonical_name": "أبو بكر الزقاق",
           "has_id": 375,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 759,
+          "person_id": 836,
           "canonical_name": "أبو حفص الحداد النيسابوري",
           "has_id": 715,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 759,
+          "name": "",
+          "person_id": 836,
           "canonical_name": "أبو حفص الحداد النيسابوري",
-          "has_id": 715
+          "has_id": 715,
+          "subj_added": false
         },
         {
-          "name": NaN,
-          "person_id": 759,
+          "name": "",
+          "person_id": 836,
           "canonical_name": "أبو حفص الحداد النيسابوري",
-          "has_id": 715
+          "has_id": 715,
+          "subj_added": false
         }
       ],
       "type": "explicit",
@@ -316,7 +320,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد عبداللّه مهدی باوردی،",
-        "person_id": 1882,
+        "person_id": 1951,
         "canonical_name": "عبد الله بن مهدي",
         "has_id": NaN
       },
@@ -325,7 +329,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "صحبت کرده با شیخ علی نصرآبادی.",
-        "person_id": 1990,
+        "person_id": 2061,
         "canonical_name": "علي النصراباذي",
         "has_id": NaN
       }
@@ -336,7 +340,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "از شاگردان باحفص",
         "full_text": "سید از شاگردان باحفص",
-        "person_id": 2221,
+        "person_id": 2287,
         "canonical_name": "محمد آهنگر",
         "has_id": NaN
       },
@@ -345,7 +349,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "شاگرد باحفص است",
         "full_text": "محمد علیان سید بوده از این طایفه از نسا، شاگرد باحفص است",
-        "person_id": 2420,
+        "person_id": 2482,
         "canonical_name": "محمد بن عليان",
         "has_id": 784
       }
@@ -356,7 +360,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "رفیق",
         "full_text": "باحفص رفیق احمد خضرویه است و بایزید بسطامی.",
-        "person_id": 1194,
+        "person_id": 1258,
         "canonical_name": "أحمد بن خضرويه البلخي",
         "has_id": 440
       },
@@ -365,7 +369,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "رفیق",
         "full_text": "باحفص رفیق احمد خضرویه است و بایزید بسطامی.",
-        "person_id": 1128,
+        "person_id": 1191,
         "canonical_name": "أبو يزيد البسطامي",
         "has_id": 435
       }
@@ -376,7 +380,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ الاسلام گفت با حفص احداد گوید",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -384,7 +388,7 @@
       "name": "المومل الجصاص الشیرازی",
       "relationship_type": "narrator",
       "full_text": "و قال المومل الجصاص الشیرازی",
-      "person_id": 245,
+      "person_id": 271,
       "canonical_name": "المؤمل الجصاص الشيرازي",
       "has_id": 821
     },
@@ -392,7 +396,7 @@
       "name": "بوعمر و زجاجی ٭",
       "relationship_type": "narrator",
       "full_text": "بوعمر و زجاجی ٭ گوید",
-      "person_id": 1011,
+      "person_id": 1079,
       "canonical_name": "أبو عمرو الزجاجي",
       "has_id": 426
     },
@@ -400,7 +404,7 @@
       "name": "الامام",
       "relationship_type": "narrator",
       "full_text": "و انشدنا الامام لغیره",
-      "person_id": 55,
+      "person_id": 74,
       "canonical_name": "الامام",
       "has_id": NaN
     },
@@ -408,15 +412,15 @@
       "name": "بوعلی ثقفی",
       "relationship_type": "direct_narrator",
       "full_text": "بوعلی ثقفی گویدکه با حفص گفت",
-      "person_id": 947,
-      "canonical_name": "أبو علي الثقفي",
+      "person_id": 1058,
+      "canonical_name": "أبو علي محمد بن عبد الوهّاب الثّقفي",
       "has_id": 112
     },
     {
       "name": "ابوعمرو بن نجید",
       "relationship_type": "narrator",
       "full_text": "قال ابوعمرو بن نجید",
-      "person_id": 1015,
+      "person_id": 1083,
       "canonical_name": "أبو عمرو إسماعيل بن نجيد",
       "has_id": 176
     },
@@ -424,7 +428,7 @@
       "name": "ابوالحسن البوشنجی الصوفی",
       "relationship_type": "narrator",
       "full_text": "و قال ابوالحسن البوشنجی الصوفی",
-      "person_id": 428,
+      "person_id": 482,
       "canonical_name": "أبو الحسن علي بن أحمد بن سهل البوشنجي",
       "has_id": 292
     },
@@ -432,7 +436,7 @@
       "name": "ابراهیم بن داود القصار",
       "relationship_type": "narrator",
       "full_text": "و قال! ابراهیم بن داود القصار",
-      "person_id": 284,
+      "person_id": 310,
       "canonical_name": "إبراهيم القصار الرقي",
       "has_id": 13
     },
@@ -440,7 +444,7 @@
       "name": "بوبکر زقاق",
       "relationship_type": "narrator",
       "full_text": "بوبکر زقاق گوید",
-      "person_id": 625,
+      "person_id": 696,
       "canonical_name": "أبو بكر الزقاق",
       "has_id": 375
     },
@@ -448,7 +452,7 @@
       "name": "جنید",
       "relationship_type": "interlocutor",
       "full_text": "جنید پذیره آمد ... جنید گفت ویرا: این اصحاب خود را آداب ملوک آموختهٔ؟",
-      "person_id": 532,
+      "person_id": 595,
       "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
       "has_id": 228
     },
@@ -457,7 +461,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "visitor",
       "full_text": "شیخ بومزاحم در رسید «از پارس.»",
-      "person_id": 1071,
+      "person_id": 1138,
       "canonical_name": "أبو مزاحم الشيرازي",
       "has_id": 184
     },
@@ -466,7 +470,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "visitor",
       "full_text": "شیخ الاسلام گفت: که وقتی مردی وی آمد",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     }

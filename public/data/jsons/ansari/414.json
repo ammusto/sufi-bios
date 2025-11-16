@@ -19,7 +19,7 @@
       "chain": [
         {
           "name": "ابوعبداللّه السجزی",
-          "person_id": 871,
+          "person_id": 947,
           "canonical_name": "أبو عبد الله السجزي",
           "has_id": 414,
           "subj_added": false
@@ -33,7 +33,7 @@
       "chain": [
         {
           "name": "ابوعبداللّه السجزی",
-          "person_id": 871,
+          "person_id": 947,
           "canonical_name": "أبو عبد الله السجزي",
           "has_id": 414,
           "subj_added": false
@@ -51,7 +51,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده",
         "full_text": "با حفص حداد صحبت کرده",
-        "person_id": 759,
+        "person_id": 836,
         "canonical_name": "أبو حفص الحداد النيسابوري",
         "has_id": 715
       }

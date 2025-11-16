@@ -29,14 +29,14 @@
       "chain": [
         {
           "name": "أَبَا الْفضل نصر بن أبي نصر",
-          "person_id": 528,
+          "person_id": 591,
           "canonical_name": "أبو الفضل نصر بن محمد الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي عبد الله الدينَوَرِي",
-          "person_id": 866,
+          "person_id": 943,
           "canonical_name": "أبو عبد الله الدينوري",
           "has_id": 138,
           "subj_added": false
@@ -50,14 +50,14 @@
       "chain": [
         {
           "name": "أَبَا الْفضل نصر بن أبي نصر",
-          "person_id": 528,
+          "person_id": 591,
           "canonical_name": "أبو الفضل نصر بن محمد الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبُو عبد الله الدينَوَرِي",
-          "person_id": 866,
+          "person_id": 943,
           "canonical_name": "أبو عبد الله الدينوري",
           "has_id": 138,
           "subj_added": false
@@ -71,14 +71,14 @@
       "chain": [
         {
           "name": "ابا عَليّ الدينَوَرِي",
-          "person_id": 957,
+          "person_id": 1029,
           "canonical_name": "أبو علي الدينوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبَا عبد الله الدينَوَرِي",
-          "person_id": 866,
+          "person_id": 943,
           "canonical_name": "أبو عبد الله الدينوري",
           "has_id": 138,
           "subj_added": false
@@ -92,7 +92,7 @@
       "chain": [
         {
           "name": "أَبُو عبد الله الدينَوَرِي",
-          "person_id": 866,
+          "person_id": 943,
           "canonical_name": "أبو عبد الله الدينوري",
           "has_id": 138,
           "subj_added": false
@@ -106,7 +106,7 @@
       "chain": [
         {
           "name": "أَبُو عبد الله الدينَوَرِي",
-          "person_id": 866,
+          "person_id": 943,
           "canonical_name": "أبو عبد الله الدينوري",
           "has_id": 138,
           "subj_added": false
@@ -120,14 +120,14 @@
       "chain": [
         {
           "name": "عبد الله بن عَليّ",
-          "person_id": 1848,
+          "person_id": 1917,
           "canonical_name": "عبد الله بن علي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 866,
+          "person_id": 943,
           "canonical_name": "أبو عبد الله الدينوري",
           "has_id": 138,
           "subj_added": true
@@ -141,14 +141,14 @@
       "chain": [
         {
           "name": "الْحُسَيْن بن أَحْمد بن سعيد الوَاسِطِيّ",
-          "person_id": 111,
+          "person_id": 129,
           "canonical_name": "الحسين بن أحمد بن سعيد الواسطي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبُو عبد الله الدينَوَرِي",
-          "person_id": 866,
+          "person_id": 943,
           "canonical_name": "أبو عبد الله الدينوري",
           "has_id": 138,
           "subj_added": false
@@ -162,14 +162,14 @@
       "chain": [
         {
           "name": "الْحُسَيْن بن أَحْمد بن سعيد الوَاسِطِيّ",
-          "person_id": 111,
+          "person_id": 129,
           "canonical_name": "الحسين بن أحمد بن سعيد الواسطي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبُو عبد الله الدينَوَرِي",
-          "person_id": 866,
+          "person_id": 943,
           "canonical_name": "أبو عبد الله الدينوري",
           "has_id": 138,
           "subj_added": false
@@ -183,14 +183,14 @@
       "chain": [
         {
           "name": "الْحُسَيْن بن أَحْمد بن سعيد الوَاسِطِيّ",
-          "person_id": 111,
+          "person_id": 129,
           "canonical_name": "الحسين بن أحمد بن سعيد الواسطي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أَبُو عبد الله الدينَوَرِي",
-          "person_id": 866,
+          "person_id": 943,
           "canonical_name": "أبو عبد الله الدينوري",
           "has_id": 138,
           "subj_added": false
@@ -211,7 +211,7 @@
       "name": "أَبَا الْفضل نصر بن أبي نصر",
       "relationship_type": "narrator",
       "full_text": "سَمِعت أَبَا الْفضل نصر بن أبي نصر يحْكى عَن أبي عبد الله الدينَوَرِي",
-      "person_id": 528,
+      "person_id": 591,
       "canonical_name": "أبو الفضل نصر بن محمد الطوسي",
       "has_id": NaN
     },
@@ -219,7 +219,7 @@
       "name": "ابا عَليّ الدينَوَرِي",
       "relationship_type": "narrator",
       "full_text": "سَمِعت ابا عَليّ الدينَوَرِي يَقُول",
-      "person_id": 957,
+      "person_id": 1029,
       "canonical_name": "أبو علي الدينوري",
       "has_id": NaN
     },
@@ -227,7 +227,7 @@
       "name": "عبد الله بن عَليّ",
       "relationship_type": "narrator",
       "full_text": "سَمِعت عبد الله بن عَليّ يَقُول",
-      "person_id": 1848,
+      "person_id": 1917,
       "canonical_name": "عبد الله بن علي",
       "has_id": NaN
     },
@@ -235,7 +235,7 @@
       "name": "الْحُسَيْن بن أَحْمد بن سعيد الوَاسِطِيّ",
       "relationship_type": "narrator",
       "full_text": "وأنشدنا الْحُسَيْن بن أَحْمد بن سعيد الوَاسِطِيّ بِبَغْدَاد",
-      "person_id": 111,
+      "person_id": 129,
       "canonical_name": "الحسين بن أحمد بن سعيد الواسطي",
       "has_id": NaN
     },
@@ -244,7 +244,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "companion",
       "full_text": "قَالَ أَبُو عبد الله الدينَوَرِي لبَعض أَصْحَابه",
-      "person_id": 1339,
+      "person_id": 1401,
       "canonical_name": "بعض أصحابه",
       "has_id": NaN
     },
@@ -253,7 +253,7 @@
       "relationship_type": "questioner",
       "context": "questioner",
       "full_text": "دخل رجل على أبي عبد الله الدينَوَرِي فَقَالَ لَهُ كَيفَ أمسيت",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -262,7 +262,7 @@
       "relationship_type": "interlocutor",
       "context": "interlocutor",
       "full_text": "رَأَيْت فِي بعض أسفاري رجلا يقفز بِإِحْدَى\nرجلَيْهِ فَقلت لَهُ مَا لَك وَالسّفر مَعَ فقدان الْآلَة فَقَالَ لي أمسلم أَنْت قلت نعم قَالَ اقْرَأ قَوْله تَعَالَى ﴿وحملناهم فِي الْبر وَالْبَحْر﴾ الأسراء ٧٠",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     }

@@ -8,31 +8,38 @@
       "chain": [
         {
           "name": "عمر بن أحمد بن شاهين",
-          "person_id": 2093,
+          "person_id": 2159,
           "canonical_name": "عمر بن أحمد بن شاهين",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمر بن الحسن بن علي بن مالك",
-          "person_id": 2090,
+          "person_id": 2156,
           "canonical_name": "عمر بن الحسن بن علي بن مالك",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن سفيان",
-          "person_id": 1829,
+          "person_id": 1897,
           "canonical_name": "عبد الله بن سفيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمر بن عبد الله العمري",
-          "person_id": 2102,
+          "person_id": 2168,
           "canonical_name": "عمر بن عبد الله العمري",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1994,
+          "canonical_name": "عبيد الله العمري",
+          "has_id": 676,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -43,42 +50,42 @@
       "chain": [
         {
           "name": "عمر بن أحمد",
-          "person_id": 2093,
+          "person_id": 2159,
           "canonical_name": "عمر بن أحمد بن شاهين",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن موسى",
-          "person_id": 2457,
+          "person_id": 2519,
           "canonical_name": "محمد بن موسى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن الهيثم",
-          "person_id": 2268,
+          "person_id": 2333,
           "canonical_name": "محمد بن الهيثم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "المثنى بن جامع",
-          "person_id": 227,
+          "person_id": 253,
           "canonical_name": "المثنى بن جامع",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو جعفر الحذاء",
-          "person_id": 727,
+          "person_id": 802,
           "canonical_name": "أبو جعفر الحذاء",
           "has_id": 494,
           "subj_added": false
         },
         {
           "name": "العمري",
-          "person_id": 2102,
+          "person_id": 2168,
           "canonical_name": "عمر بن عبد الله العمري",
           "has_id": NaN,
           "subj_added": false
@@ -99,7 +106,7 @@
       "name": "عمر بن عبد الله العمري",
       "relationship_type": "narrator",
       "full_text": "ثنا عمر بن عبد الله العمري قال: قرأت على باب دار عبيد الله بن عبد الله مكتوب:",
-      "person_id": 2102,
+      "person_id": 2168,
       "canonical_name": "عمر بن عبد الله العمري",
       "has_id": NaN
     },
@@ -107,7 +114,7 @@
       "name": "أبو جعفر الحذاء",
       "relationship_type": "narrator",
       "full_text": "ثنا أبو جعفر الحذاء. قال قال العمري: كما أحسنتم الظن بما لم يضمن، فأحسنوا الظن بما قد ضمن.",
-      "person_id": 727,
+      "person_id": 802,
       "canonical_name": "أبو جعفر الحذاء",
       "has_id": 494
     }

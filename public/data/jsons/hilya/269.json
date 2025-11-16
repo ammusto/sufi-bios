@@ -8,24 +8,31 @@
       "chain": [
         {
           "name": "أبو بكر محمد بن أحمد بن المفيد",
-          "person_id": 647,
+          "person_id": 775,
           "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
           "has_id": 91,
           "subj_added": false
         },
         {
           "name": "أبو عمرو العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الصمد بن محمد الجبلي",
-          "person_id": 1766,
+          "person_id": 1835,
           "canonical_name": "عبد الصمد بن محمد الجبلي",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 641,
+          "canonical_name": "أبو إسحاق إبراهيم المارستاني",
+          "has_id": 269,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -36,16 +43,16 @@
       "chain": [
         {
           "name": "أبي محمد الجريري",
-          "person_id": 1035,
+          "person_id": 1104,
           "canonical_name": "أبو محمد الجريري",
           "has_id": 431,
           "subj_added": false
         },
         {
           "name": "أبا إسحاق المارستاني",
-          "person_id": 573,
+          "person_id": 641,
           "canonical_name": "أبو إسحاق إبراهيم المارستاني",
-          "has_id": NaN,
+          "has_id": 269,
           "subj_added": false
         }
       ],
@@ -63,7 +70,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "كان الجنيد له مواخيا",
         "full_text": "كان الجنيد له مواخيا، وعليه حاميا وحانيا.",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       }
@@ -74,7 +81,7 @@
       "name": "عبد الصمد بن محمد الجبلي",
       "relationship_type": "narrator",
       "full_text": "ثنا عبد الصمد بن محمد الجبلي قال",
-      "person_id": 1766,
+      "person_id": 1835,
       "canonical_name": "عبد الصمد بن محمد الجبلي",
       "has_id": NaN
     },
@@ -82,7 +89,7 @@
       "name": "أبي محمد الجريري",
       "relationship_type": "narrator",
       "full_text": "يحكي عن أبي محمد الجريري قال",
-      "person_id": 1035,
+      "person_id": 1104,
       "canonical_name": "أبو محمد الجريري",
       "has_id": 431
     },
@@ -90,7 +97,7 @@
       "name": "الخضر ﵇",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "رأيت الخضر ﵇ فعلمنى عشر كلمات - وأحصاها بيده -",
-      "person_id": 145,
+      "person_id": 166,
       "canonical_name": "الخضر",
       "has_id": NaN
     }

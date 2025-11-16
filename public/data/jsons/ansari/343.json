@@ -24,21 +24,21 @@
       "chain": [
         {
           "name": "بوالحسن بشری٭",
-          "person_id": 430,
+          "person_id": 484,
           "canonical_name": "أبو الحسن علي بن بشريى السجزي",
           "has_id": 298,
           "subj_added": false
         },
         {
           "name": "بونصر ترشیزی",
-          "person_id": 1104,
+          "person_id": 1168,
           "canonical_name": "أبو نصر ترشيزي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "شیخ بوالعباس سهروردی",
-          "person_id": 490,
+          "person_id": 548,
           "canonical_name": "أبو العباس السهروردي",
           "has_id": 343,
           "subj_added": false
@@ -64,7 +64,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "با",
         "full_text": "بمکه بوده، با مشایخ وقت سیروانی٭ و جز ازو.",
-        "person_id": 165,
+        "person_id": 187,
         "canonical_name": "السيرواني",
         "has_id": NaN
       }
@@ -75,7 +75,7 @@
       "name": "بوالحسن بشری٭",
       "relationship_type": "narrator",
       "full_text": "بوالحسن بشری٭ مرا گفت",
-      "person_id": 430,
+      "person_id": 484,
       "canonical_name": "أبو الحسن علي بن بشريى السجزي",
       "has_id": 298
     },
@@ -83,7 +83,7 @@
       "name": "بونصر ترشیزی",
       "relationship_type": "direct_narrator",
       "full_text": "بونصر ترشیزی گفت",
-      "person_id": 1104,
+      "person_id": 1168,
       "canonical_name": "أبو نصر ترشيزي",
       "has_id": NaN
     },
@@ -91,7 +91,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "و من طبقة الرابعه شیخ الاسلامگفت که نام:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -99,7 +99,7 @@
       "name": "شیخ سیروانی",
       "relationship_type": "interlocutor",
       "full_text": "در سلام شیخ سیروانی شدند خواستند: کی ازان چیزی گویند وی گفت: روزگاری من بر ریگ میخفتم، و دست بالین میکردم و نشان سنگ بود بر پهلوی من، بسماع مینشستم.",
-      "person_id": 165,
+      "person_id": 187,
       "canonical_name": "السيرواني",
       "has_id": NaN
     },
@@ -107,7 +107,7 @@
       "name": "شیخ بوالحسن سرکی٭",
       "relationship_type": "interlocutor",
       "full_text": "شیخ بوالحسن سرکی٭ حاضر بود، وی گفت: مرا با خدای عهد است ار او برسماع منکر شد، من هرگز بسماع ننشینم.",
-      "person_id": 422,
+      "person_id": 446,
       "canonical_name": "أبو الحسن السركي",
       "has_id": 45
     },
@@ -115,7 +115,7 @@
       "name": "قوم",
       "relationship_type": "questioner",
       "full_text": "قوم گفتند آن چه بود، که وی کرد؟ برسماع منکر شد چه افتاد؟",
-      "person_id": 2185,
+      "person_id": 2252,
       "canonical_name": "قوم",
       "has_id": NaN
     }

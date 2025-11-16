@@ -53,21 +53,21 @@
       "chain": [
         {
           "name": "بوالحسن بشری سجزی",
-          "person_id": 430,
+          "person_id": 484,
           "canonical_name": "أبو الحسن علي بن بشريى السجزي",
           "has_id": 298,
           "subj_added": false
         },
         {
           "name": "شیخ سید",
-          "person_id": 1655,
+          "person_id": 1717,
           "canonical_name": "سيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 22,
+          "person_id": 974,
           "canonical_name": "أبو عبد الله بن خفيف",
           "has_id": 26,
           "subj_added": true
@@ -81,14 +81,14 @@
       "chain": [
         {
           "name": "شیخ بوعبداللّه باکو٭",
-          "person_id": 15,
+          "person_id": 20,
           "canonical_name": "ابن باكوية الشيرازي",
           "has_id": 150,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 22,
+          "person_id": 974,
           "canonical_name": "أبو عبد الله بن خفيف",
           "has_id": 26,
           "subj_added": true
@@ -150,14 +150,14 @@
       "chain": [
         {
           "name": "شیخ سیروانی",
-          "person_id": 165,
+          "person_id": 187,
           "canonical_name": "السيرواني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 22,
+          "person_id": 974,
           "canonical_name": "أبو عبد الله بن خفيف",
           "has_id": 26,
           "subj_added": true
@@ -171,14 +171,14 @@
       "chain": [
         {
           "name": "سفینان عیینه",
-          "person_id": 1608,
+          "person_id": 1669,
           "canonical_name": "سفيان بن عيينة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 22,
+          "person_id": 974,
           "canonical_name": "أبو عبد الله بن خفيف",
           "has_id": 26,
           "subj_added": true
@@ -192,14 +192,14 @@
       "chain": [
         {
           "name": "سفینان عیینه",
-          "person_id": 1608,
+          "person_id": 1669,
           "canonical_name": "سفيان بن عيينة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 22,
+          "person_id": 974,
           "canonical_name": "أبو عبد الله بن خفيف",
           "has_id": 26,
           "subj_added": true
@@ -213,14 +213,14 @@
       "chain": [
         {
           "name": "سفینان عیینه",
-          "person_id": 1608,
+          "person_id": 1669,
           "canonical_name": "سفيان بن عيينة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 22,
+          "person_id": 974,
           "canonical_name": "أبو عبد الله بن خفيف",
           "has_id": 26,
           "subj_added": true
@@ -240,14 +240,14 @@
       "chain": [
         {
           "name": "علی بن المولد",
-          "person_id": 2009,
+          "person_id": 2080,
           "canonical_name": "علي بن المولد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 22,
+          "person_id": 974,
           "canonical_name": "أبو عبد الله بن خفيف",
           "has_id": 26,
           "subj_added": true
@@ -273,14 +273,14 @@
       "chain": [
         {
           "name": "شیخ بوعبداللهّ",
-          "person_id": 853,
+          "person_id": 930,
           "canonical_name": "أبو عبد اللهّ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 22,
+          "person_id": 974,
           "canonical_name": "أبو عبد الله بن خفيف",
           "has_id": 26,
           "subj_added": true
@@ -312,14 +312,14 @@
       "chain": [
         {
           "name": "شیخ بوطالب",
-          "person_id": 830,
+          "person_id": 909,
           "canonical_name": "أبو طالب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 22,
+          "person_id": 974,
           "canonical_name": "أبو عبد الله بن خفيف",
           "has_id": 26,
           "subj_added": true
@@ -351,7 +351,7 @@
       "chain": [
         {
           "name": "بوعبداللّه خفیف",
-          "person_id": 22,
+          "person_id": 974,
           "canonical_name": "أبو عبد الله بن خفيف",
           "has_id": 26,
           "subj_added": false
@@ -365,7 +365,7 @@
       "chain": [
         {
           "name": "ابن خفیف",
-          "person_id": 22,
+          "person_id": 974,
           "canonical_name": "أبو عبد الله بن خفيف",
           "has_id": 26,
           "subj_added": false
@@ -383,7 +383,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد شیخ بوطالب خزرج بغدادی٭ بود",
-        "person_id": 832,
+        "person_id": 911,
         "canonical_name": "أبو طالب خزرج بغدادي",
         "has_id": NaN
       },
@@ -392,7 +392,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده",
         "full_text": "رویم دیده وکتانی و یوسف حسین رازی و وبالحسین مالکی و بوالحسین مزین و بوالحسین دراج٭",
-        "person_id": 1553,
+        "person_id": 1615,
         "canonical_name": "رويم بن أحمد",
         "has_id": 578
       },
@@ -401,7 +401,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده",
         "full_text": "رویم دیده وکتانی و یوسف حسین رازی و وبالحسین مالکی و بوالحسین مزین و بوالحسین دراج٭",
-        "person_id": 712,
+        "person_id": 786,
         "canonical_name": "أبو بكر محمد بن علي الكتاني",
         "has_id": 378
       },
@@ -410,7 +410,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده",
         "full_text": "رویم دیده وکتانی و یوسف حسین رازی و وبالحسین مالکی و بوالحسین مزین و بوالحسین دراج٭",
-        "person_id": 1140,
+        "person_id": 1205,
         "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
         "has_id": 847
       },
@@ -419,7 +419,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده",
         "full_text": "رویم دیده وکتانی و یوسف حسین رازی و وبالحسین مالکی و بوالحسین مزین و بوالحسین دراج٭",
-        "person_id": 450,
+        "person_id": 508,
         "canonical_name": "أبو الحسين المالكي",
         "has_id": 321
       },
@@ -428,7 +428,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده",
         "full_text": "رویم دیده وکتانی و یوسف حسین رازی و وبالحسین مالکی و بوالحسین مزین و بوالحسین دراج٭",
-        "person_id": 408,
+        "person_id": 460,
         "canonical_name": "أبو الحسن المزين",
         "has_id": 295
       },
@@ -437,7 +437,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده",
         "full_text": "رویم دیده وکتانی و یوسف حسین رازی و وبالحسین مالکی و بوالحسین مزین و بوالحسین دراج٭",
-        "person_id": 397,
+        "person_id": 501,
         "canonical_name": "أبو الحسين الدراج",
         "has_id": 318
       },
@@ -446,7 +446,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "و صحبت کرده با طاهر مقدسی و بابو عمر و دمشقی٭",
-        "person_id": 1696,
+        "person_id": 1764,
         "canonical_name": "طاهر المقدسي",
         "has_id": 640
       },
@@ -455,7 +455,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "و صحبت کرده با طاهر مقدسی و بابو عمر و دمشقی٭",
-        "person_id": 1010,
+        "person_id": 1078,
         "canonical_name": "أبو عمرو الدمشقي",
         "has_id": 425
       }
@@ -466,7 +466,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "شاگردان",
         "full_text": "واشاگردان دولتی و مرزوق و ایام موافق و دولتی.",
-        "person_id": 1521,
+        "person_id": 1584,
         "canonical_name": "دولتي",
         "has_id": NaN
       },
@@ -475,7 +475,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "شاگردان",
         "full_text": "واشاگردان دولتی و مرزوق و ایام موافق و دولتی.",
-        "person_id": 2492,
+        "person_id": 2553,
         "canonical_name": "مرزوق",
         "has_id": NaN
       },
@@ -484,7 +484,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "شاگردان",
         "full_text": "واشاگردان دولتی و مرزوق و ایام موافق و دولتی.",
-        "person_id": 268,
+        "person_id": 294,
         "canonical_name": "ايام موافق",
         "has_id": NaN
       }
@@ -496,7 +496,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -504,7 +504,7 @@
       "name": "بوالحسن بشری سجزی",
       "relationship_type": "narrator",
       "full_text": "بوالحسن بشری سجزی مرا گفت",
-      "person_id": 430,
+      "person_id": 484,
       "canonical_name": "أبو الحسن علي بن بشريى السجزي",
       "has_id": 298
     },
@@ -512,7 +512,7 @@
       "name": "شیخ سید",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ سیدگفت بوعبداللّه خفیف",
-      "person_id": 1655,
+      "person_id": 1717,
       "canonical_name": "سيد",
       "has_id": NaN
     },
@@ -520,7 +520,7 @@
       "name": "شیخ بوعبداللّه باکو٭",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ بوعبداللّه باکو٭ گفت",
-      "person_id": 15,
+      "person_id": 20,
       "canonical_name": "ابن باكوية الشيرازي",
       "has_id": 150
     },
@@ -528,7 +528,7 @@
       "name": "شیخ بوالخیر مالکی",
       "relationship_type": "interlocutor",
       "full_text": "شیخ بوالخیر مالکی بود وقتی دیگر این حکایت بکرد ... درآمد بنزدیک من بنشست",
-      "person_id": 476,
+      "person_id": 533,
       "canonical_name": "أبو الخير المالكي",
       "has_id": 329
     },
@@ -536,7 +536,7 @@
       "name": "شیخ حکمی",
       "relationship_type": "interlocutor",
       "full_text": "شیخ حکمی گفت از مشایخ آن دیار بود، درآمد بنزدیک من بنشست",
-      "person_id": 1465,
+      "person_id": 1527,
       "canonical_name": "حكمي",
       "has_id": NaN
     },
@@ -544,7 +544,7 @@
       "name": "شیخ موسی عمران جیرفتی",
       "relationship_type": "interlocutor",
       "full_text": "موسی عمران جواب باز فرستادکه من در جیرفت هزار دشمن دارم",
-      "person_id": 2569,
+      "person_id": 2629,
       "canonical_name": "موسي عمران جيرفتي",
       "has_id": NaN
     },
@@ -552,7 +552,7 @@
       "name": "علی دیلم",
       "relationship_type": "questioner",
       "full_text": "علی دیلم پرسید از ابوعبداللّه خفیف",
-      "person_id": 2029,
+      "person_id": 2100,
       "canonical_name": "علي بن ديلم",
       "has_id": NaN
     },
@@ -561,7 +561,7 @@
       "relationship_type": "narrator",
       "context": "این حکایت بوسعد مالینی آرد ازوی.",
       "full_text": "این حکایت بوسعد مالینی آرد ازوی.",
-      "person_id": 796,
+      "person_id": 872,
       "canonical_name": "أبو سعد الماليني",
       "has_id": NaN
     },
@@ -569,7 +569,7 @@
       "name": "شیخ سیروانی",
       "relationship_type": "narrator",
       "full_text": "شیخ سیروانی گفت: که آخر ما یخرج من قلوب الصدیقین حب الریاسة",
-      "person_id": 165,
+      "person_id": 187,
       "canonical_name": "السيرواني",
       "has_id": NaN
     },
@@ -577,7 +577,7 @@
       "name": "سفینان عیینه",
       "relationship_type": "narrator",
       "full_text": "سفینان عیینه گوید امام فقهاء مکه استاد شافعی واحمد و جز ازو:",
-      "person_id": 1608,
+      "person_id": 1669,
       "canonical_name": "سفيان بن عيينة",
       "has_id": NaN
     },
@@ -585,7 +585,7 @@
       "name": "علی بن المولد",
       "relationship_type": "narrator",
       "full_text": "قال علی بن المولد:",
-      "person_id": 2009,
+      "person_id": 2080,
       "canonical_name": "علي بن المولد",
       "has_id": NaN
     },
@@ -593,7 +593,7 @@
       "name": "شیخ بوطالب",
       "relationship_type": "interlocutor",
       "full_text": "شیخ بوطالب گفت: شیرازی! بناز دار «یعنی: غنیمت شمار»",
-      "person_id": 830,
+      "person_id": 909,
       "canonical_name": "أبو طالب",
       "has_id": NaN
     }

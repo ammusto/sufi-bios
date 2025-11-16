@@ -8,49 +8,49 @@
       "chain": [
         {
           "name": "عبد الله بن الحسين بن بندار",
-          "person_id": 1802,
+          "person_id": 1869,
           "canonical_name": "عبد الله بن الحسين بن بندار",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أسيد بن عاصم",
-          "person_id": 1293,
+          "person_id": 1354,
           "canonical_name": "أسيد بن عاصم",
           "has_id": 455,
           "subj_added": false
         },
         {
           "name": "الحسين بن حفص",
-          "person_id": 113,
+          "person_id": 131,
           "canonical_name": "الحسين بن حفص",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سفيان",
-          "person_id": 1606,
+          "person_id": 1667,
           "canonical_name": "سفيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يونس بن عبيد",
-          "person_id": 2688,
+          "person_id": 2746,
           "canonical_name": "يونس بن عبيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "شعيب",
-          "person_id": 1672,
+          "person_id": 1736,
           "canonical_name": "شعيب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أنس بن مالك",
-          "person_id": 1310,
+          "person_id": 1372,
           "canonical_name": "أنس بن مالك",
           "has_id": NaN,
           "subj_added": false
@@ -64,49 +64,49 @@
       "chain": [
         {
           "name": "عبد الله بن محمد",
-          "person_id": 1855,
+          "person_id": 1924,
           "canonical_name": "عبد الله بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو علي بن إبراهيم",
-          "person_id": 974,
+          "person_id": 1045,
           "canonical_name": "أبو علي بن إبراهيم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أسيد بن عاصم",
-          "person_id": 1293,
+          "person_id": 1354,
           "canonical_name": "أسيد بن عاصم",
           "has_id": 455,
           "subj_added": false
         },
         {
           "name": "إسماعيل بن عمر",
-          "person_id": 365,
+          "person_id": 392,
           "canonical_name": "إسماعيل بن عمر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "قيس بن عمار الذهنى",
-          "person_id": 2189,
+          "person_id": 2257,
           "canonical_name": "قيس بن عمار الذهنى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عطية",
-          "person_id": 1970,
+          "person_id": 2040,
           "canonical_name": "عطية",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي سعيد",
-          "person_id": 798,
+          "person_id": 874,
           "canonical_name": "أبو سعيد",
           "has_id": NaN,
           "subj_added": false
@@ -127,7 +127,7 @@
       "name": "عبد الله بن الحسين بن بندار",
       "relationship_type": "narrator",
       "full_text": "حدثنا عبد الله بن الحسين بن بندار ثنا أسيد بن عاصم",
-      "person_id": 1802,
+      "person_id": 1869,
       "canonical_name": "عبد الله بن الحسين بن بندار",
       "has_id": NaN
     },
@@ -135,7 +135,7 @@
       "name": "أبو علي بن إبراهيم",
       "relationship_type": "narrator",
       "full_text": "ثنا أبو علي بن إبراهيم ثنا أسيد بن عاصم",
-      "person_id": 974,
+      "person_id": 1045,
       "canonical_name": "أبو علي بن إبراهيم",
       "has_id": NaN
     }

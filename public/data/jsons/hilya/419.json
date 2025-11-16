@@ -1,5 +1,5 @@
 {
-  "bio_id": "596",
+  "bio_id": "419",
   "source": "hilya",
   "death_date": {
     "year_hijri": "298",
@@ -43,10 +43,17 @@
       "chain": [
         {
           "name": "أبو عمرو بن حمدان",
-          "person_id": 1023,
-          "canonical_name": "أبو علي الحسن بن علي بن الخطاب الوراق",
-          "has_id": 423,
+          "person_id": 1091,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "person_id": 1013,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "single_informant",
@@ -57,16 +64,16 @@
       "chain": [
         {
           "name": "أبا عمرو بن حمدان",
-          "person_id": 1023,
-          "canonical_name": "أبو علي الحسن بن علي بن الخطاب الوراق",
-          "has_id": 423,
+          "person_id": 1091,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو عثمان الحيري",
-          "person_id": 932,
-          "canonical_name": "أبو عبد اللهّ الرودباري",
-          "has_id": NaN,
+          "person_id": 1013,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
           "subj_added": false
         }
       ],
@@ -78,24 +85,31 @@
       "chain": [
         {
           "name": "عبد الله بن محمد المعلم - صاحب الخان -",
-          "person_id": 1061,
-          "canonical_name": "أبو عمر البسطامي",
+          "person_id": 1129,
+          "canonical_name": "أبو محمد عبد الله بن محمد المعلم النيسابوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عمر بن نجيد",
-          "person_id": 1015,
-          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
-          "has_id": 156,
+          "person_id": 1083,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+          "has_id": 176,
           "subj_added": false
         },
         {
           "name": "محمد بن الفضل البلخي",
-          "person_id": 2254,
-          "canonical_name": "قيس بن الربيع",
-          "has_id": NaN,
+          "person_id": 2319,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
           "subj_added": false
+        },
+        {
+          "person_id": 1013,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -106,23 +120,23 @@
       "chain": [
         {
           "name": "محمد بن الحسين بن موسى",
-          "person_id": 845,
-          "canonical_name": "أبو حميد الساعدي",
-          "has_id": NaN,
+          "person_id": 922,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
           "subj_added": false
         },
         {
           "name": "جدي أبا عمر بن نجيد",
-          "person_id": 1015,
-          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
-          "has_id": 156,
+          "person_id": 1083,
+          "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+          "has_id": 176,
           "subj_added": false
         },
         {
           "name": "أبا عثمان",
-          "person_id": 932,
-          "canonical_name": "أبو عبد اللهّ الرودباري",
-          "has_id": NaN,
+          "person_id": 1013,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
           "subj_added": false
         }
       ],
@@ -134,16 +148,16 @@
       "chain": [
         {
           "name": "محمد بن أحمد بن عثمان",
-          "person_id": 2311,
-          "canonical_name": "محمد بن السماك",
+          "person_id": 2375,
+          "canonical_name": "محمد بن أحمد بن عثمان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عثمان",
-          "person_id": 932,
-          "canonical_name": "أبو عبد اللهّ الرودباري",
-          "has_id": NaN,
+          "person_id": 1013,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
           "subj_added": false
         }
       ],
@@ -155,23 +169,23 @@
       "chain": [
         {
           "name": "أبا عمرو بن حمدان",
-          "person_id": 1023,
-          "canonical_name": "أبو علي الحسن بن علي بن الخطاب الوراق",
-          "has_id": 423,
+          "person_id": 1091,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي أحمد بن حمدان",
-          "person_id": 593,
-          "canonical_name": "أبو القاسم البزاز",
+          "person_id": 664,
+          "canonical_name": "أبو أحمد بن حمدان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عثمان",
-          "person_id": 932,
-          "canonical_name": "أبو عبد اللهّ الرودباري",
-          "has_id": NaN,
+          "person_id": 1013,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
           "subj_added": false
         }
       ],
@@ -183,23 +197,23 @@
       "chain": [
         {
           "name": "أبا عمرو بن حمدان",
-          "person_id": 1023,
-          "canonical_name": "أبو علي الحسن بن علي بن الخطاب الوراق",
-          "has_id": 423,
+          "person_id": 1091,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي أحمد بن حمدان",
-          "person_id": 593,
-          "canonical_name": "أبو القاسم البزاز",
+          "person_id": 664,
+          "canonical_name": "أبو أحمد بن حمدان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عثمان",
-          "person_id": 932,
-          "canonical_name": "أبو عبد اللهّ الرودباري",
-          "has_id": NaN,
+          "person_id": 1013,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
           "subj_added": false
         }
       ],
@@ -211,23 +225,23 @@
       "chain": [
         {
           "name": "أبا عمرو بن حمدان",
-          "person_id": 1023,
-          "canonical_name": "أبو علي الحسن بن علي بن الخطاب الوراق",
-          "has_id": 423,
+          "person_id": 1091,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي أحمد بن حمدان",
-          "person_id": 593,
-          "canonical_name": "أبو القاسم البزاز",
+          "person_id": 664,
+          "canonical_name": "أبو أحمد بن حمدان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عثمان",
-          "person_id": 932,
-          "canonical_name": "أبو عبد اللهّ الرودباري",
-          "has_id": NaN,
+          "person_id": 1013,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
           "subj_added": false
         }
       ],
@@ -239,23 +253,23 @@
       "chain": [
         {
           "name": "أبا عمرو بن حمدان",
-          "person_id": 1023,
-          "canonical_name": "أبو علي الحسن بن علي بن الخطاب الوراق",
-          "has_id": 423,
+          "person_id": 1091,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي أحمد بن حمدان",
-          "person_id": 593,
-          "canonical_name": "أبو القاسم البزاز",
+          "person_id": 664,
+          "canonical_name": "أبو أحمد بن حمدان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عثمان",
-          "person_id": 932,
-          "canonical_name": "أبو عبد اللهّ الرودباري",
-          "has_id": NaN,
+          "person_id": 1013,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
           "subj_added": false
         }
       ],
@@ -267,23 +281,23 @@
       "chain": [
         {
           "name": "أبا عمرو بن حمدان",
-          "person_id": 1023,
-          "canonical_name": "أبو علي الحسن بن علي بن الخطاب الوراق",
-          "has_id": 423,
+          "person_id": 1091,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي أحمد بن حمدان",
-          "person_id": 593,
-          "canonical_name": "أبو القاسم البزاز",
+          "person_id": 664,
+          "canonical_name": "أبو أحمد بن حمدان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عثمان",
-          "person_id": 932,
-          "canonical_name": "أبو عبد اللهّ الرودباري",
-          "has_id": NaN,
+          "person_id": 1013,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
           "subj_added": false
         }
       ],
@@ -295,23 +309,23 @@
       "chain": [
         {
           "name": "أبا عمرو بن حمدان",
-          "person_id": 1023,
-          "canonical_name": "أبو علي الحسن بن علي بن الخطاب الوراق",
-          "has_id": 423,
+          "person_id": 1091,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي أحمد بن حمدان",
-          "person_id": 593,
-          "canonical_name": "أبو القاسم البزاز",
+          "person_id": 664,
+          "canonical_name": "أبو أحمد بن حمدان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عثمان",
-          "person_id": 932,
-          "canonical_name": "أبو عبد اللهّ الرودباري",
-          "has_id": NaN,
+          "person_id": 1013,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
           "subj_added": false
         }
       ],
@@ -323,23 +337,23 @@
       "chain": [
         {
           "name": "أبا عمرو بن حمدان",
-          "person_id": 1023,
-          "canonical_name": "أبو علي الحسن بن علي بن الخطاب الوراق",
-          "has_id": 423,
+          "person_id": 1091,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي أحمد بن حمدان",
-          "person_id": 593,
-          "canonical_name": "أبو القاسم البزاز",
+          "person_id": 664,
+          "canonical_name": "أبو أحمد بن حمدان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عثمان",
-          "person_id": 932,
-          "canonical_name": "أبو عبد اللهّ الرودباري",
-          "has_id": NaN,
+          "person_id": 1013,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
           "subj_added": false
         }
       ],
@@ -351,23 +365,23 @@
       "chain": [
         {
           "name": "أبا عمرو بن حمدان",
-          "person_id": 1023,
-          "canonical_name": "أبو علي الحسن بن علي بن الخطاب الوراق",
-          "has_id": 423,
+          "person_id": 1091,
+          "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي أحمد بن حمدان",
-          "person_id": 593,
-          "canonical_name": "أبو القاسم البزاز",
+          "person_id": 664,
+          "canonical_name": "أبو أحمد بن حمدان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عثمان",
-          "person_id": 932,
-          "canonical_name": "أبو عبد اللهّ الرودباري",
-          "has_id": NaN,
+          "person_id": 1013,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
           "subj_added": false
         }
       ],
@@ -379,17 +393,24 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
-          "canonical_name": "أبو حميد الساعدي",
-          "has_id": NaN,
+          "person_id": 922,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
           "subj_added": false
         },
         {
           "name": "عبد الله الرازي",
-          "person_id": 1793,
-          "canonical_name": "عبد الأعلى بن حمّاد",
+          "person_id": 1861,
+          "canonical_name": "عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "person_id": 1013,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -400,24 +421,31 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
-          "canonical_name": "أبو حميد الساعدي",
-          "has_id": NaN,
+          "person_id": 922,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
           "subj_added": false
         },
         {
           "name": "محمد بن أحمد الملامتي",
-          "person_id": 2298,
-          "canonical_name": "محمد بن الحسن بن عون",
+          "person_id": 2362,
+          "canonical_name": "محمد بن أحمد الملامتي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسين الوراق (¬١)",
-          "person_id": 951,
-          "canonical_name": "أبو عبد الله الصوفي كبير",
-          "has_id": NaN,
+          "person_id": 1023,
+          "canonical_name": "أبو علي الحسن بن علي بن الخطاب الوراق",
+          "has_id": 423,
           "subj_added": false
+        },
+        {
+          "person_id": 1013,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -428,30 +456,30 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
-          "canonical_name": "أبو حميد الساعدي",
-          "has_id": NaN,
+          "person_id": 922,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
           "subj_added": false
         },
         {
           "name": "أبا الحسين الفارسي",
           "has_id": NaN,
-          "person_id": 85,
-          "canonical_name": "الجوهري",
+          "person_id": 409,
+          "canonical_name": "أبا الحسين الفارسي",
           "subj_added": false
         },
         {
           "name": "محمد بن أحمد بن يوسف",
-          "person_id": 703,
-          "canonical_name": "أبو بكر الطلحي",
+          "person_id": 778,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يوسف",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عثمان",
-          "person_id": 932,
-          "canonical_name": "أبو عبد اللهّ الرودباري",
-          "has_id": NaN,
+          "person_id": 1013,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
           "subj_added": false
         }
       ],
@@ -463,30 +491,30 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
-          "canonical_name": "أبو حميد الساعدي",
-          "has_id": NaN,
+          "person_id": 922,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
           "subj_added": false
         },
         {
           "name": "أبا الحسين الفارسي",
           "has_id": NaN,
-          "person_id": 86,
-          "canonical_name": "الحارث بن أبي أسامة",
+          "person_id": 409,
+          "canonical_name": "أبا الحسين الفارسي",
           "subj_added": false
         },
         {
           "name": "محمد بن أحمد بن يوسف",
-          "person_id": 703,
-          "canonical_name": "أبو بكر الطلحي",
+          "person_id": 778,
+          "canonical_name": "أبو بكر محمد بن أحمد بن يوسف",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عثمان",
-          "person_id": 932,
-          "canonical_name": "أبو عبد اللهّ الرودباري",
-          "has_id": NaN,
+          "person_id": 1013,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
           "subj_added": false
         }
       ],
@@ -498,24 +526,31 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
-          "canonical_name": "أبو حميد الساعدي",
-          "has_id": NaN,
+          "person_id": 922,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
           "subj_added": false
         },
         {
           "name": "محمد بن أحمد بن إبراهيم",
-          "person_id": 2305,
-          "canonical_name": "محمد بن الحسين البغدادي",
+          "person_id": 2369,
+          "canonical_name": "محمد بن أحمد بن إبراهيم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا الحسين الوراق",
-          "has_id": 229,
-          "person_id": 87,
-          "canonical_name": "الحارث بن أسد المحاسبي",
+          "has_id": NaN,
+          "person_id": 410,
+          "canonical_name": "أبا الحسين الوراق",
           "subj_added": false
+        },
+        {
+          "person_id": 1013,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -526,10 +561,17 @@
       "chain": [
         {
           "name": "محفوظ",
-          "person_id": 2212,
-          "canonical_name": "غالب القطّان",
+          "person_id": 2278,
+          "canonical_name": "محفوظ",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "person_id": 1013,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "single_informant",
@@ -540,66 +582,73 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
-          "canonical_name": "أبو حميد الساعدي",
-          "has_id": NaN,
+          "person_id": 922,
+          "canonical_name": "أبو عبد الرحمن السلمي",
+          "has_id": 133,
           "subj_added": false
         },
         {
           "name": "سعيد بن عبد الله بن سعيد بن إسماعيل",
-          "person_id": 1602,
-          "canonical_name": "رجل من أهل التعبد والاجتهاد، وذوي العزلة والانفراد",
+          "person_id": 1663,
+          "canonical_name": "سعيد بن عبد الله بن سعيد بن إسماعيل",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو صالح حمدون القصار صاحب أبي محمد بن يحيى النيسابوري",
-          "person_id": 827,
-          "canonical_name": "أبو جناب الكلبي",
-          "has_id": NaN,
+          "person_id": 906,
+          "canonical_name": "أبو صالح حمدون بن أحمد القصار",
+          "has_id": 524,
           "subj_added": false
         },
         {
           "name": "قتيبة بن سعيد",
-          "person_id": 2178,
-          "canonical_name": "عمر بن واصل النيسابوري",
+          "person_id": 2245,
+          "canonical_name": "قتيبة بن سعيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبثر",
-          "person_id": 1723,
-          "canonical_name": "شاه بن شجاع الكرماني",
-          "has_id": 614,
+          "person_id": 1790,
+          "canonical_name": "عبثر بن القاسم",
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أشعث",
-          "person_id": 1295,
-          "canonical_name": "أحمد بن عمرو بن جابر",
+          "person_id": 1356,
+          "canonical_name": "أشعث بن سوار",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد",
-          "person_id": 2214,
-          "canonical_name": "غلام الدقي",
+          "person_id": 2280,
+          "canonical_name": "محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "نافع",
-          "person_id": 2576,
-          "canonical_name": "معاذ بن أسد",
+          "person_id": 2636,
+          "canonical_name": "نافع",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابن عمر",
           "has_id": NaN,
-          "person_id": 28,
-          "canonical_name": "ابن دينار الجعفي",
+          "person_id": 41,
+          "canonical_name": "ابن عمر",
           "subj_added": false
+        },
+        {
+          "person_id": 1013,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -610,59 +659,66 @@
       "chain": [
         {
           "name": "سليمان بن أحمد",
-          "person_id": 1626,
-          "canonical_name": "زهير بن بكير",
+          "person_id": 1687,
+          "canonical_name": "سليمان بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبدان بن محمد المروزي",
-          "person_id": 1920,
-          "canonical_name": "عبد الله بن علي العكبري",
+          "person_id": 1988,
+          "canonical_name": "عبدان بن محمد المروزي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "قتيبة بن سعيد",
-          "person_id": 2178,
-          "canonical_name": "عمر بن واصل النيسابوري",
+          "person_id": 2245,
+          "canonical_name": "قتيبة بن سعيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبثر بن القاسم",
-          "person_id": 1723,
-          "canonical_name": "شاه بن شجاع الكرماني",
-          "has_id": 614,
+          "person_id": 1790,
+          "canonical_name": "عبثر بن القاسم",
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أشعث بن سوار",
-          "person_id": 1295,
-          "canonical_name": "أحمد بن عمرو بن جابر",
+          "person_id": 1356,
+          "canonical_name": "أشعث بن سوار",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد",
-          "person_id": 2214,
-          "canonical_name": "غلام الدقي",
+          "person_id": 2280,
+          "canonical_name": "محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "نافع",
-          "person_id": 2576,
-          "canonical_name": "معاذ بن أسد",
+          "person_id": 2636,
+          "canonical_name": "نافع",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابن عمر",
           "has_id": NaN,
-          "person_id": 28,
-          "canonical_name": "ابن دينار الجعفي",
+          "person_id": 41,
+          "canonical_name": "ابن عمر",
           "subj_added": false
+        },
+        {
+          "person_id": 1013,
+          "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
+          "has_id": 419,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -677,18 +733,18 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شيخه",
         "full_text": "مع شيخه شاه الكرماني",
-        "person_id": 1661,
-        "canonical_name": "سعيد بن عبد العزيز الحلبي",
-        "has_id": 597
+        "person_id": 1723,
+        "canonical_name": "شاه بن شجاع الكرماني",
+        "has_id": 614
       },
       {
         "name": "أبو حفص النيسابوري",
         "relationship_type": "student_of",
         "relationship_phrase": "أستاذه",
         "full_text": "عند قبر أستاذه أبي حفص النيسابوري",
-        "person_id": 759,
-        "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
-        "has_id": 29
+        "person_id": 836,
+        "canonical_name": "أبو حفص الحداد النيسابوري",
+        "has_id": 715
       }
     ],
     "students": [],
@@ -699,40 +755,40 @@
       "name": "أبا عمرو بن حمدان",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا عمرو بن حمدان يقول سمعت أبا عثمان الحيري يقول",
-      "person_id": 1023,
-      "canonical_name": "أبو علي الحسن بن علي بن الخطاب الوراق",
-      "has_id": 423
+      "person_id": 1091,
+      "canonical_name": "أبو عمرو محمد بن أحمد بن حمدان النيسابور",
+      "has_id": NaN
     },
     {
       "name": "جدي أبا عمر بن نجيد",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن الحسين بن موسى يقول سمعت جدي أبا عمر بن نجيد يقول سمعت أبا عثمان يقول",
-      "person_id": 1015,
-      "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
-      "has_id": 156
+      "person_id": 1083,
+      "canonical_name": "أبو عمرو إسماعيل بن نجيد",
+      "has_id": 176
     },
     {
       "name": "محمد بن أحمد بن عثمان",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن أحمد بن عثمان يقول سمعت أبا عثمان يقول",
-      "person_id": 2311,
-      "canonical_name": "محمد بن السماك",
+      "person_id": 2375,
+      "canonical_name": "محمد بن أحمد بن عثمان",
       "has_id": NaN
     },
     {
       "name": "أبي أحمد بن حمدان",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا عمرو بن حمدان يقول: قرأت بخط أبي أحمد بن حمدان:\nسمعت أبا عثمان يقول",
-      "person_id": 593,
-      "canonical_name": "أبو القاسم البزاز",
+      "person_id": 664,
+      "canonical_name": "أبو أحمد بن حمدان",
       "has_id": NaN
     },
     {
       "name": "محمد بن أحمد بن يوسف",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن الحسين يقول سمعت أبا الحسين الفارسي يقول سمعت محمد بن أحمد بن يوسف يقول سمعت أبا عثمان يقول",
-      "person_id": 703,
-      "canonical_name": "أبو بكر الطلحي",
+      "person_id": 778,
+      "canonical_name": "أبو بكر محمد بن أحمد بن يوسف",
       "has_id": NaN
     },
     {
@@ -740,24 +796,24 @@
       "relationship_type": "questioner",
       "context": "سألت أبا عثمان عن الصحبة",
       "full_text": "سألت أبا عثمان عن الصحبة فقال",
-      "person_id": 951,
-      "canonical_name": "أبو عبد الله الصوفي كبير",
-      "has_id": NaN
+      "person_id": 1023,
+      "canonical_name": "أبو علي الحسن بن علي بن الخطاب الوراق",
+      "has_id": 423
     },
     {
       "name": "عبد الله الرازي",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن الحسين يقول سمعت عبد الله الرازي يقول",
-      "person_id": 1793,
-      "canonical_name": "عبد الأعلى بن حمّاد",
+      "person_id": 1861,
+      "canonical_name": "عبد الله الرازي",
       "has_id": NaN
     },
     {
       "name": "محفوظ",
       "relationship_type": "narrator",
       "full_text": "وقال محفوظ: سئل أبو عثمان",
-      "person_id": 2212,
-      "canonical_name": "غالب القطّان",
+      "person_id": 2278,
+      "canonical_name": "محفوظ",
       "has_id": NaN
     },
     {
@@ -765,17 +821,17 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "ثناء",
       "full_text": "قال محمد بن الفضل البلخي: إن الله تعالى زين أبا عثمان بفنون عبوديته وأبرزه للناس ليعلمهم آداب العبودية",
-      "person_id": 2254,
-      "canonical_name": "قيس بن الربيع",
-      "has_id": NaN
+      "person_id": 2319,
+      "canonical_name": "محمد بن الفضل البلخي",
+      "has_id": 770
     },
     {
       "name": "أبو بكر",
       "relationship_type": "mentioned_in_anecdote",
       "context": "ابن",
       "full_text": "مزق ابنه أبو بكر قميصا كان عليه",
-      "person_id": 610,
-      "canonical_name": "أبو القاسم بردان الهاوندي",
+      "person_id": 682,
+      "canonical_name": "أبو بكر",
       "has_id": NaN
     }
   ]

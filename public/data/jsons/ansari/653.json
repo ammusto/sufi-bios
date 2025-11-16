@@ -23,7 +23,7 @@
       "chain": [
         {
           "name": "عبداللهّ خراز",
-          "person_id": 1791,
+          "person_id": 1926,
           "canonical_name": "عبد الله بن محمد الخراز الرازي",
           "has_id": 653,
           "subj_added": false
@@ -37,14 +37,14 @@
       "chain": [
         {
           "name": "یوسف بن الحسین",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1791,
+          "person_id": 1926,
           "canonical_name": "عبد الله بن محمد الخراز الرازي",
           "has_id": 653,
           "subj_added": true
@@ -62,7 +62,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده بود با",
         "full_text": "صحبت کرده بود با شیخ عمران کبیر",
-        "person_id": 2117,
+        "person_id": 2183,
         "canonical_name": "عمران كبير",
         "has_id": NaN
       },
@@ -71,7 +71,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده بود",
         "full_text": "و باحفص نشابوری دیده بود",
-        "person_id": 759,
+        "person_id": 836,
         "canonical_name": "أبو حفص الحداد النيسابوري",
         "has_id": 715
       }
@@ -83,8 +83,8 @@
         "relationship_type": "peer",
         "relationship_phrase": "واصحاب بایزید٭ ویرا بزرگ میداشتند",
         "full_text": "واصحاب بایزید٭ ویرا بزرگ میداشتند",
-        "person_id": 52,
-        "canonical_name": "أبو العباس الثقفي",
+        "person_id": 70,
+        "canonical_name": "اصحاب بایزید٭",
         "has_id": NaN
       }
     ]
@@ -94,7 +94,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ الاسلام گفت: کی عبداللهّ خرازگوید",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -102,7 +102,7 @@
       "name": "یوسف بن الحسین",
       "relationship_type": "narrator",
       "full_text": "قال یوسف بن الحسین",
-      "person_id": 1140,
+      "person_id": 1205,
       "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
       "has_id": 847
     }

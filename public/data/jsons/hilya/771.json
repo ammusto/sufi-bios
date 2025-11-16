@@ -14,21 +14,21 @@
       "chain": [
         {
           "name": "أبا محمد بن حيان",
-          "person_id": 1050,
+          "person_id": 1116,
           "canonical_name": "أبو محمد بن حيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن محمد بن صبيح",
-          "person_id": 1256,
+          "person_id": 1318,
           "canonical_name": "أحمد بن محمد بن صبيح",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن النعمان",
-          "person_id": 2266,
+          "person_id": 2331,
           "canonical_name": "محمد بن النعمان",
           "has_id": 771,
           "subj_added": false
@@ -42,28 +42,28 @@
       "chain": [
         {
           "name": "أبا محمد بن حيان",
-          "person_id": 1050,
+          "person_id": 1116,
           "canonical_name": "أبو محمد بن حيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن الحسين بن المهلب",
-          "person_id": 2241,
+          "person_id": 2306,
           "canonical_name": "محمد بن الحسين بن المهلب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن عاصم",
-          "person_id": 2369,
+          "person_id": 2432,
           "canonical_name": "محمد بن عاصم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن النعمان",
-          "person_id": 2266,
+          "person_id": 2331,
           "canonical_name": "محمد بن النعمان",
           "has_id": 771,
           "subj_added": false
@@ -83,7 +83,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب وكيعا وسفيان بن عيينة وأبا بكر بن عياش.",
-        "person_id": 2618,
+        "person_id": 2678,
         "canonical_name": "وكيع بن الجراح",
         "has_id": NaN
       },
@@ -92,7 +92,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب وكيعا وسفيان بن عيينة وأبا بكر بن عياش.",
-        "person_id": 1608,
+        "person_id": 1669,
         "canonical_name": "سفيان بن عيينة",
         "has_id": NaN
       },
@@ -101,7 +101,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب وكيعا وسفيان بن عيينة وأبا بكر بن عياش.",
-        "person_id": 675,
+        "person_id": 747,
         "canonical_name": "أبو بكر بن عياش",
         "has_id": NaN
       }
@@ -113,7 +113,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "يسميه",
       "full_text": "كان زيد بن أخرم يسميه عابد أهل أصبهان.",
-      "person_id": 1572,
+      "person_id": 1634,
       "canonical_name": "زيد بن أخرم",
       "has_id": NaN
     },
@@ -121,7 +121,7 @@
       "name": "أحمد بن محمد بن صبيح",
       "relationship_type": "narrator",
       "full_text": "سمعت أحمد بن محمد بن صبيح يقول",
-      "person_id": 1256,
+      "person_id": 1318,
       "canonical_name": "أحمد بن محمد بن صبيح",
       "has_id": NaN
     },
@@ -129,7 +129,7 @@
       "name": "محمد بن عاصم",
       "relationship_type": "narrator",
       "full_text": "ثنا محمد بن عاصم",
-      "person_id": 2369,
+      "person_id": 2432,
       "canonical_name": "محمد بن عاصم",
       "has_id": NaN
     }

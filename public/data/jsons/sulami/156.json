@@ -2,265 +2,64 @@
   "bio_id": "156",
   "source": "sulami",
   "death_date": {
-    "year_hijri": "367",
-    "full_text": "وَمَات سنة سبع وَسِتِّينَ وثلاثمائة",
+    "year_hijri": "373",
+    "full_text": "وَمَات بهَا سنة ثَلَاث وَسبعين وثلاثمائة",
     "certainty": "definite"
   },
   "geographical_locations": [
     {
-      "place": "نصراباذ",
+      "place": "المغرب",
       "context": "nisba",
-      "full_text": "النصراباذي"
+      "full_text": "المغربي"
     },
     {
-      "place": "نيسابور",
-      "context": "nisba",
-      "full_text": "نيسابوري الأَصْل والمنشأ والمولد"
-    },
-    {
-      "place": "نيسابور",
+      "place": "قيروان",
       "context": "born",
-      "full_text": "نيسابوري الأَصْل والمنشأ والمولد"
+      "full_text": "من نَاحيَة قيروان"
     },
     {
-      "place": "نيسابور",
-      "context": "lived",
-      "full_text": "أَقَامَ بنيسابور"
-    },
-    {
-      "place": "مَكَّة",
-      "context": "visited",
-      "full_text": "خرج فِي آخر عمره إِلَى مَكَّة"
+      "place": "كركنت",
+      "context": "born",
+      "full_text": "من قَرْيَة يُقَال لَهَا كركنت"
     },
     {
       "place": "الْحرم",
       "context": "lived",
-      "full_text": "وَأقَام بِالْحرم مجاورا"
+      "full_text": "أَقَامَ بِالْحرم مُدَّة"
     },
     {
-      "place": "خُرَاسَان",
-      "context": "mentioned",
-      "full_text": "شيخ خُرَاسَان فِي وقته"
+      "place": "نيسابور",
+      "context": "visited",
+      "full_text": "ورد نيسابور"
+    },
+    {
+      "place": "نيسابور",
+      "context": "died",
+      "full_text": "وَمَات بهَا"
     }
   ],
   "isnads": [
     {
       "chain": [
         {
-          "name": "إِبْرَاهِيم بن مُحَمَّد بن محمويه النصراباذي الصُّوفِي",
-          "person_id": 545,
-          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
-          "has_id": 360,
-          "subj_added": false
-        },
-        {
-          "name": "أَحْمد ابْن مُحَمَّد بن فضَالة الطوسي",
-          "person_id": 1261,
-          "canonical_name": "أحمد بن محمد بن فضالة الطوسي",
-          "has_id": NaN,
-          "subj_added": false
-        },
-        {
-          "name": "أَحْمد بن ثَقِيف",
-          "person_id": 1181,
-          "canonical_name": "أحمد بن ثقيف",
-          "has_id": NaN,
-          "subj_added": false
-        },
-        {
-          "name": "حَفْص بن يحيى",
-          "person_id": 1463,
-          "canonical_name": "حفص بن يحيى",
-          "has_id": NaN,
-          "subj_added": false
-        },
-        {
-          "name": "خَارِجَة بن مُصعب",
-          "person_id": 1487,
-          "canonical_name": "خارجة بن مصعب",
-          "has_id": NaN,
-          "subj_added": false
-        },
-        {
-          "name": "أَيُّوب",
-          "person_id": 1313,
-          "canonical_name": "أيوب",
-          "has_id": NaN,
-          "subj_added": false
-        },
-        {
-          "name": "يحيى بن أبي كثير",
-          "person_id": 2633,
-          "canonical_name": "يحيى بن أبي كثير",
-          "has_id": NaN,
-          "subj_added": false
-        },
-        {
-          "name": "فَاطِمَة بنت قيس",
-          "person_id": 2163,
-          "canonical_name": "فاطمة بنت قيس",
-          "has_id": NaN,
-          "subj_added": false
-        },
-        {
-          "name": "النَّبِي ﷺ",
-          "person_id": 246,
-          "canonical_name": "النبي",
-          "has_id": NaN,
-          "subj_added": false
-        }
-      ],
-      "type": "explicit",
-      "full_text": "حَدثنَا إِبْرَاهِيم بن مُحَمَّد بن محمويه النصراباذي الصُّوفِي قَالَ حَدثنَا أَحْمد\nابْن مُحَمَّد بن فضَالة الطوسي قَالَ حَدثنَا أَحْمد بن ثَقِيف قَالَ حَدثنَا حَفْص بن يحيى عَن خَارِجَة بن مُصعب عَن أَيُّوب عَن يحيى بن أبي كثير عَن فَاطِمَة بنت قيس عَن النَّبِي ﷺ",
-      "refers_to_previous": false
-    },
-    {
-      "chain": [
-        {
-          "name": "أَبَا الْقَاسِم النصراباذي",
-          "person_id": 545,
-          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
-          "has_id": 360,
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
           "subj_added": false
         }
       ],
       "type": "single_informant",
-      "full_text": "سَمِعت أَبَا الْقَاسِم النصراباذي يَقُول",
+      "full_text": "سَمِعت أَبَا عُثْمَان يَقُول",
       "refers_to_previous": false
     },
     {
       "chain": [
         {
-          "name": "النصراباذي",
-          "person_id": 545,
-          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
-          "has_id": 360,
-          "subj_added": false
-        }
-      ],
-      "type": "single_informant",
-      "full_text": "وَسمعت النصراباذي يَقُول",
-      "refers_to_previous": false
-    },
-    {
-      "chain": [
-        {
-          "name": "أَبَا الْقَاسِم النصراباذي",
-          "person_id": 545,
-          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
-          "has_id": 360,
-          "subj_added": false
-        }
-      ],
-      "type": "single_informant",
-      "full_text": "وَسمعت أَبَا الْقَاسِم النصراباذي يَقُول",
-      "refers_to_previous": false
-    },
-    {
-      "chain": [
-        {
-          "name": "أَبَا الْقَاسِم النصراباذي",
-          "person_id": 545,
-          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
-          "has_id": 360,
-          "subj_added": false
-        }
-      ],
-      "type": "single_informant",
-      "full_text": "وَسمعت أَبَا الْقَاسِم النصراباذي يَقُول",
-      "refers_to_previous": false
-    },
-    {
-      "chain": [
-        {
-          "name": "النصراباذي",
-          "person_id": 545,
-          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
-          "has_id": 360,
-          "subj_added": false
-        }
-      ],
-      "type": "single_informant",
-      "full_text": "وَسمعت النصراباذي يَقُول",
-      "refers_to_previous": false
-    },
-    {
-      "chain": [
-        {
-          "name": "النصراباذي",
-          "person_id": 545,
-          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
-          "has_id": 360,
-          "subj_added": false
-        }
-      ],
-      "type": "single_informant",
-      "full_text": "وَسمعت النصراباذي يَقُول",
-      "refers_to_previous": false
-    },
-    {
-      "chain": [
-        {
-          "name": "النصراباذي",
-          "person_id": 545,
-          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
-          "has_id": 360,
-          "subj_added": false
-        }
-      ],
-      "type": "single_informant",
-      "full_text": "وَسمعت النصراباذي يَقُول",
-      "refers_to_previous": false
-    },
-    {
-      "chain": [
-        {
-          "name": "أَبَا الْقَاسِم",
-          "person_id": 545,
-          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
-          "has_id": 360,
-          "subj_added": false
-        }
-      ],
-      "type": "single_informant",
-      "full_text": "وَسمعت أَبَا الْقَاسِم وَسُئِلَ",
-      "refers_to_previous": false
-    },
-    {
-      "chain": [
-        {
-          "name": "أَبَا الْقَاسِم",
-          "person_id": 545,
-          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
-          "has_id": 360,
-          "subj_added": false
-        }
-      ],
-      "type": "single_informant",
-      "full_text": "وَسمعت أَبَا الْقَاسِم وَقيل لَهُ",
-      "refers_to_previous": false
-    },
-    {
-      "chain": [
-        {
-          "name": "أَبَا الْقَاسِم النصراباذي",
-          "person_id": 545,
-          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
-          "has_id": 360,
-          "subj_added": false
-        }
-      ],
-      "type": "single_informant",
-      "full_text": "سَمِعت أَبَا الْقَاسِم النصراباذي يَقُول",
-      "refers_to_previous": false
-    },
-    {
-      "chain": [
-        {
-          "name": "النصراباذي",
-          "person_id": 545,
-          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
-          "has_id": 360,
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
           "subj_added": false
         }
       ],
@@ -271,10 +70,94 @@
     {
       "chain": [
         {
-          "name": "النصراباذي",
-          "person_id": 545,
-          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
-          "has_id": 360,
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وسمعته وَقيل لَهُ إِن فلَانا مُسَافر فَقَالَ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وسمعته وَذكر بَين يَدَيْهِ قَول الشَّافِعِي ﵁ الْعلم علمَان علم الْأَدْيَان وَعلم الْأَبدَان فَقَالَ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان المغربي",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا عُثْمَان المغربي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا عُثْمَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا عُثْمَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا عُثْمَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
           "subj_added": false
         }
       ],
@@ -285,71 +168,288 @@
     {
       "chain": [
         {
-          "name": "أَبَا الْقَاسِم النصراباذي",
-          "person_id": 545,
-          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
-          "has_id": 360,
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
           "subj_added": false
         }
       ],
       "type": "single_informant",
-      "full_text": "وَسمعت أَبَا الْقَاسِم النصراباذي يَقُول",
+      "full_text": "وَسمعت أَبَا عُثْمَان وَسُئِلَ عَن قَول النَّبِي ﷺ (أَكثر أهل الْجنَّة البله) فَقَالَ",
       "refers_to_previous": false
     },
     {
       "chain": [
         {
-          "name": "أَبَا الْقَاسِم",
-          "person_id": 545,
-          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
-          "has_id": 360,
+          "name": "أَبَا عُثْمَان سعيد بن سَلام المغربي",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
           "subj_added": false
         }
       ],
       "type": "single_informant",
-      "full_text": "وَسمعت أَبَا الْقَاسِم يَقُول",
+      "full_text": "وَسمعت أَبَا عُثْمَان سعيد بن سَلام المغربي يَقُول",
       "refers_to_previous": false
     },
     {
       "chain": [
         {
-          "name": "أَبَا الْقَاسِم",
-          "person_id": 545,
-          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
-          "has_id": 360,
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
           "subj_added": false
         }
       ],
       "type": "single_informant",
-      "full_text": "وَسمعت أَبَا الْقَاسِم يَقُول",
+      "full_text": "وَسمعت أَبَا عُثْمَان يَقُول",
       "refers_to_previous": false
     },
     {
       "chain": [
         {
-          "name": "أَبَا الْقَاسِم",
-          "person_id": 545,
-          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
-          "has_id": 360,
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
           "subj_added": false
         }
       ],
       "type": "single_informant",
-      "full_text": "وَسمعت أَبَا الْقَاسِم يَقُول",
+      "full_text": "وَسمعت أَبَا عُثْمَان يَقُول",
       "refers_to_previous": false
     },
     {
       "chain": [
         {
-          "name": "أَبَا الْقَاسِم النصراباذي",
-          "person_id": 545,
-          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
-          "has_id": 360,
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
           "subj_added": false
         }
       ],
       "type": "single_informant",
-      "full_text": "وَسمعت أَبَا الْقَاسِم النصراباذي يَقُول",
+      "full_text": "سَمِعت أَبَا عُثْمَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا عُثْمَان فِي مَرضه يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا عُثْمَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان المغربي",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا عُثْمَان المغربي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "عبد الله الْمعلم",
+          "person_id": 1863,
+          "canonical_name": "عبد الله المعلم",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": true,
+          "name": ""
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت عبد الله الْمعلم يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا عُثْمَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا عُثْمَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وسمعته يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا عُثْمَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا عُثْمَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا عُثْمَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان المغربي",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا عُثْمَان المغربي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وسمعته يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وسمعته يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا عُثْمَان يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا عُثْمَان",
+          "person_id": 1015,
+          "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
+          "has_id": 156,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا عُثْمَان يَقُول",
       "refers_to_previous": false
     }
   ],
@@ -358,42 +458,68 @@
     "students": [],
     "companions": [
       {
-        "name": "أَبَا بكر الشبلي",
+        "name": "أَبَا عَليّ بن الْكَاتِب",
         "relationship_type": "peer",
-        "relationship_phrase": "صَحب",
-        "full_text": "وَصَحب أَبَا بكر الشبلي",
-        "person_id": 628,
-        "canonical_name": "أبو بكر الشبلي",
-        "has_id": 376
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَا عَليّ بن الْكَاتِب وحبيبا المغربي وَأَبا عَمْرو الزجاجي",
+        "person_id": 1044,
+        "canonical_name": "أبو علي بن الكاتب",
+        "has_id": 23
       },
       {
-        "name": "أَبا عَليّ الرُّوذَبَارِي",
+        "name": "حبيبا المغربي",
         "relationship_type": "peer",
-        "relationship_phrase": "صَحب",
-        "full_text": "وَأَبا عَليّ الرُّوذَبَارِي",
-        "person_id": 959,
-        "canonical_name": "أبو علي الروذباري",
-        "has_id": 422
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَا عَليّ بن الْكَاتِب وحبيبا المغربي وَأَبا عَمْرو الزجاجي",
+        "person_id": 1497,
+        "canonical_name": "حبيبا المغربي",
+        "has_id": NaN
       },
       {
-        "name": "أَبا مُحَمَّد المرتعش",
+        "name": "وَأَبا عَمْرو الزجاجي",
         "relationship_type": "peer",
-        "relationship_phrase": "صَحب",
-        "full_text": "وَأَبا مُحَمَّد المرتعش",
-        "person_id": 1043,
-        "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
-        "has_id": 251
+        "relationship_phrase": "صحب",
+        "full_text": "صحب أَبَا عَليّ بن الْكَاتِب وحبيبا المغربي وَأَبا عَمْرو الزجاجي",
+        "person_id": 1079,
+        "canonical_name": "أبو عمرو الزجاجي",
+        "has_id": 426
+      },
+      {
+        "name": "أَبَا يَعْقُوب النهرجوري",
+        "relationship_type": "peer",
+        "relationship_phrase": "لَقي",
+        "full_text": "وَلَقي أَبَا يَعْقُوب النهرجوري وَأَبا الْحسن بن الصَّائِغ الدينَوَرِي",
+        "person_id": 1202,
+        "canonical_name": "أبو يعقوب النهرجوري",
+        "has_id": 437
+      },
+      {
+        "name": "وَأَبا الْحسن بن الصَّائِغ الدينَوَرِي",
+        "relationship_type": "peer",
+        "relationship_phrase": "لَقي",
+        "full_text": "وَلَقي أَبَا يَعْقُوب النهرجوري وَأَبا الْحسن بن الصَّائِغ الدينَوَرِي",
+        "person_id": 469,
+        "canonical_name": "أبو الحسن بن الصائغ الدينوري",
+        "has_id": 293
       }
     ]
   },
   "associates": [
     {
-      "name": "أَبَا الْقَاسِم النصراباذي",
-      "relationship_type": "narrator",
-      "full_text": "سَمِعت أَبَا الْقَاسِم النصراباذي يَقُول",
-      "person_id": 545,
-      "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
-      "has_id": 360
+      "name": "عبد الله الْمعلم",
+      "relationship_type": "questioner",
+      "full_text": "وَسمعت عبد الله الْمعلم يَقُول سَأَلت أَبَا عُثْمَان مَا عقدَة الْوَرع فَقَالَ",
+      "person_id": 1863,
+      "canonical_name": "عبد الله المعلم",
+      "has_id": NaN
+    },
+    {
+      "name": "سَائل",
+      "relationship_type": "questioner",
+      "full_text": "سَأَلَني سَائل مَتى يقوم الْحق بِالْحَقِّ",
+      "person_id": 1647,
+      "canonical_name": "سائل",
+      "has_id": NaN
     }
   ]
 }

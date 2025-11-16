@@ -24,7 +24,7 @@
       "chain": [
         {
           "name": "عطا",
-          "person_id": 1963,
+          "person_id": 2033,
           "canonical_name": "عطاء",
           "has_id": NaN,
           "subj_added": false
@@ -44,8 +44,8 @@
         "relationship_type": "peer",
         "relationship_phrase": "کان یرافق ... فی الاسفار",
         "full_text": "کان یرافق اباموسی الدبیلی فی الاسفار",
-        "person_id": 1092,
-        "canonical_name": "أبو موسي الدبيلي",
+        "person_id": 1152,
+        "canonical_name": "أبو موسى الديبلي",
         "has_id": NaN
       }
     ]
@@ -55,7 +55,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -63,7 +63,7 @@
       "name": "عطا",
       "relationship_type": "narrator",
       "full_text": "عطا گوید رفتم بران گورستان، حس شنیدم باز شدم:",
-      "person_id": 1963,
+      "person_id": 2033,
       "canonical_name": "عطاء",
       "has_id": NaN
     },
@@ -72,7 +72,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "با ایشان",
       "full_text": "و عطای سلیمن٭ با ایشان",
-      "person_id": 1969,
+      "person_id": 2039,
       "canonical_name": "عطاي سليمن",
       "has_id": NaN
     }

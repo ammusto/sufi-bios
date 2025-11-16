@@ -35,14 +35,14 @@
       "chain": [
         {
           "name": "شیخ سلمی",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": true
@@ -74,14 +74,14 @@
       "chain": [
         {
           "name": "فتح حاجی",
-          "person_id": 2164,
+          "person_id": 2230,
           "canonical_name": "فتح الحاجي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": true
@@ -95,14 +95,14 @@
       "chain": [
         {
           "name": "فتح حاجی",
-          "person_id": 2164,
+          "person_id": 2230,
           "canonical_name": "فتح الحاجي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": true
@@ -116,21 +116,21 @@
       "chain": [
         {
           "name": "شیخ عمو",
-          "person_id": 1683,
+          "person_id": 1747,
           "canonical_name": "شيخ عمو",
           "has_id": 717,
           "subj_added": false
         },
         {
           "name": "شیخ سیروانی",
-          "person_id": 165,
+          "person_id": 187,
           "canonical_name": "السيرواني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": true
@@ -144,14 +144,14 @@
       "chain": [
         {
           "name": "عباس",
-          "person_id": 1716,
+          "person_id": 1783,
           "canonical_name": "عباس",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": true
@@ -165,14 +165,14 @@
       "chain": [
         {
           "name": "عمو",
-          "person_id": 1683,
+          "person_id": 1747,
           "canonical_name": "شيخ عمو",
           "has_id": 717,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": true
@@ -186,21 +186,21 @@
       "chain": [
         {
           "name": "فتح حاجی",
-          "person_id": 2164,
+          "person_id": 2230,
           "canonical_name": "فتح الحاجي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سیروانی",
-          "person_id": 165,
+          "person_id": 187,
           "canonical_name": "السيرواني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": true
@@ -214,63 +214,63 @@
       "chain": [
         {
           "name": "الشیخ لامام الاجل السید شیخ الاسلام ناصر السنة شیخ الشیوخ «زین العلما» امام الایمة ابو اسماعیل عبداللّه بن محمد الانصاری",
-          "person_id": 380,
+          "person_id": 423,
           "canonical_name": "أبو اسماعيل عبد الله بن محمد الانصاري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الشیخ ابوالحسن علی بن بشری السجزی",
-          "person_id": 430,
+          "person_id": 484,
           "canonical_name": "أبو الحسن علي بن بشريى السجزي",
           "has_id": 298,
           "subj_added": false
         },
         {
           "name": "ابوالحسن علی بن جعفر السیروانی بمکة",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": false
         },
         {
           "name": "ابوعقال مولی ابن عزیز",
-          "person_id": 943,
+          "person_id": 1016,
           "canonical_name": "أبو عقال مولي بن عزيز",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مولای محمد بن عزیز یعنی الابلی",
-          "person_id": 2405,
+          "person_id": 2467,
           "canonical_name": "محمد بن عزيز يعني الابلي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سلامة بن روح الکندی",
-          "person_id": 1610,
+          "person_id": 1671,
           "canonical_name": "سلامة بن روح الكندي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عقیل",
-          "person_id": 1976,
+          "person_id": 2045,
           "canonical_name": "عقيل",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الزهری",
-          "person_id": 157,
+          "person_id": 179,
           "canonical_name": "الزهري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "انس بن مالک",
-          "person_id": 1310,
+          "person_id": 1372,
           "canonical_name": "أنس بن مالك",
           "has_id": NaN,
           "subj_added": false
@@ -284,63 +284,63 @@
       "chain": [
         {
           "name": "الشیخ لامام الاجل السید شیخ الاسلام ناصر السنة شیخ الشیوخ «زین العلما» امام الایمة ابو اسماعیل عبداللّه بن محمد الانصاری",
-          "person_id": 380,
+          "person_id": 423,
           "canonical_name": "أبو اسماعيل عبد الله بن محمد الانصاري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابواسماعیل احمد بن حمزة الحداد",
-          "person_id": 379,
+          "person_id": 422,
           "canonical_name": "أبو اسماعيل أحمد بن حمزة الحداد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابوالحسن علی بن جعفر السیروانی بمکة",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": false
         },
         {
           "name": "ابوعقال مولی ابن عزیز",
-          "person_id": 943,
+          "person_id": 1016,
           "canonical_name": "أبو عقال مولي بن عزيز",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مولای محمد بن عزیز یعنی الابلی",
-          "person_id": 2405,
+          "person_id": 2467,
           "canonical_name": "محمد بن عزيز يعني الابلي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سلامة بن روح الکندی",
-          "person_id": 1610,
+          "person_id": 1671,
           "canonical_name": "سلامة بن روح الكندي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عقیل",
-          "person_id": 1976,
+          "person_id": 2045,
           "canonical_name": "عقيل",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الزهری",
-          "person_id": 157,
+          "person_id": 179,
           "canonical_name": "الزهري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "انس بن مالک",
-          "person_id": 1310,
+          "person_id": 1372,
           "canonical_name": "أنس بن مالك",
           "has_id": NaN,
           "subj_added": false
@@ -354,7 +354,7 @@
       "chain": [
         {
           "name": "شیخ سیروانی",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": false
@@ -368,7 +368,7 @@
       "chain": [
         {
           "name": "شیخ سیروانی",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": false
@@ -382,7 +382,7 @@
       "chain": [
         {
           "name": "شیخ سیروانی",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": false
@@ -396,7 +396,7 @@
       "chain": [
         {
           "name": "شیخ سیروانی",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": false
@@ -410,14 +410,14 @@
       "chain": [
         {
           "name": "سیروانی",
-          "person_id": 165,
+          "person_id": 187,
           "canonical_name": "السيرواني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": true
@@ -431,7 +431,7 @@
       "chain": [
         {
           "name": "شیخ سیروانی",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": false
@@ -445,7 +445,7 @@
       "chain": [
         {
           "name": "شیخ سیروانی",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": false
@@ -459,7 +459,7 @@
       "chain": [
         {
           "name": "شیخ سیروانی",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": false
@@ -473,7 +473,7 @@
       "chain": [
         {
           "name": "شیخ سیروانی",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": false
@@ -487,7 +487,7 @@
       "chain": [
         {
           "name": "شیخ سیروانی",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": false
@@ -501,7 +501,7 @@
       "chain": [
         {
           "name": "شیخ سیروانی",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": false
@@ -515,7 +515,7 @@
       "chain": [
         {
           "name": "شیخ سیروانی",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": false
@@ -529,7 +529,7 @@
       "chain": [
         {
           "name": "شیخ سیروانی",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": false
@@ -543,14 +543,14 @@
       "chain": [
         {
           "name": "نهاوندی",
-          "person_id": 251,
+          "person_id": 278,
           "canonical_name": "النهاوندي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": true
@@ -564,14 +564,14 @@
       "chain": [
         {
           "name": "یوسف حین رازی",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 432,
+          "person_id": 486,
           "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
           "has_id": 305,
           "subj_added": true
@@ -601,7 +601,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد سیروانی مهین است",
-        "person_id": 432,
+        "person_id": 486,
         "canonical_name": "أبو الحسن علي بن جعفر السيرواني",
         "has_id": 305
       },
@@ -610,7 +610,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد معاذ مصری ایذ",
-        "person_id": 2515,
+        "person_id": 2575,
         "canonical_name": "معاذ المصري",
         "has_id": NaN
       },
@@ -619,7 +619,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد معاذ مصری ایذ و بوبکر موازینی و جنید و شبلی و ابوالخیر تیناتی",
-        "person_id": 649,
+        "person_id": 718,
         "canonical_name": "أبو بكر الموازيني",
         "has_id": NaN
       },
@@ -628,7 +628,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد معاذ مصری ایذ و بوبکر موازینی و جنید و شبلی و ابوالخیر تیناتی",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -637,7 +637,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد معاذ مصری ایذ و بوبکر موازینی و جنید و شبلی و ابوالخیر تیناتی",
-        "person_id": 628,
+        "person_id": 699,
         "canonical_name": "أبو بكر الشبلي",
         "has_id": 376
       },
@@ -646,7 +646,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد معاذ مصری ایذ و بوبکر موازینی و جنید و شبلی و ابوالخیر تیناتی",
-        "person_id": 471,
+        "person_id": 528,
         "canonical_name": "أبو الخير التيناتي",
         "has_id": NaN
       },
@@ -655,7 +655,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده",
         "full_text": "وکتانی و بوعلی کاتب و بوبکر مصری٭ دیده",
-        "person_id": 712,
+        "person_id": 786,
         "canonical_name": "أبو بكر محمد بن علي الكتاني",
         "has_id": 378
       },
@@ -664,7 +664,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده",
         "full_text": "وکتانی و بوعلی کاتب و بوبکر مصری٭ دیده",
-        "person_id": 973,
+        "person_id": 1044,
         "canonical_name": "أبو علي بن الكاتب",
         "has_id": 23
       },
@@ -673,7 +673,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده",
         "full_text": "وکتانی و بوعلی کاتب و بوبکر مصری٭ دیده",
-        "person_id": 716,
+        "person_id": 790,
         "canonical_name": "أبو بكر مصري",
         "has_id": NaN
       },
@@ -682,7 +682,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "از ... شنیدم",
         "full_text": "شیخ سیروانی گفت: که از جنید شنیدم که گفت: که هر که باوفاقه رسد.",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -691,7 +691,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "از ... شنیدم",
         "full_text": "و هم شیخ سیروانی گفت»: که از ابوالخیر تیناتی٭ شنیدم که گفت: مرا اشراف دادند بر دوزخ، بیشتر اهل آن اصحاب رکوه و مرقع دیدم.",
-        "person_id": 471,
+        "person_id": 528,
         "canonical_name": "أبو الخير التيناتي",
         "has_id": NaN
       }
@@ -703,7 +703,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "میفخرکردند بدیدار وی",
         "full_text": "و شیخ عمو و عباس میفخرکردند بدیدار وی",
-        "person_id": 1683,
+        "person_id": 1747,
         "canonical_name": "شيخ عمو",
         "has_id": 717
       },
@@ -712,7 +712,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "میفخرکردند بدیدار وی",
         "full_text": "و شیخ عمو و عباس میفخرکردند بدیدار وی",
-        "person_id": 1716,
+        "person_id": 1783,
         "canonical_name": "عباس",
         "has_id": NaN
       }
@@ -723,7 +723,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت نور اللّه قبره، کی",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -731,7 +731,7 @@
       "name": "شیخ سلمی",
       "relationship_type": "narrator",
       "full_text": "شیخ سلمی ویرا گفت:",
-      "person_id": 845,
+      "person_id": 922,
       "canonical_name": "أبو عبد الرحمن السلمي",
       "has_id": 133
     },
@@ -739,7 +739,7 @@
       "name": "فتح حاجی",
       "relationship_type": "direct_narrator",
       "full_text": "فتح حاجی گوید، که سیروانی گفت: که کس بود که بزرگان درومی نگرند، ومقام او میبینند و خود نداندکه من هیچ چیز دارم.",
-      "person_id": 2164,
+      "person_id": 2230,
       "canonical_name": "فتح الحاجي",
       "has_id": NaN
     },
@@ -747,7 +747,7 @@
       "name": "شیخ عمو",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ الاسلام گفت: که شیخ عموگفت، که شیخ سیروانی گفت: که آخر ما یخرج من قلوب الصدیقین حب الریاسة.",
-      "person_id": 1683,
+      "person_id": 1747,
       "canonical_name": "شيخ عمو",
       "has_id": 717
     },
@@ -755,7 +755,7 @@
       "name": "عباس",
       "relationship_type": "direct_narrator",
       "full_text": "و عباس گفت: که ویگفت: استوصوا بمن یحبکم، شما را وصیت میکنم بکسی کش شما دوست",
-      "person_id": 1716,
+      "person_id": 1783,
       "canonical_name": "عباس",
       "has_id": NaN
     },
@@ -763,7 +763,7 @@
       "name": "الشیخ ابوالحسن علی بن بشری السجزی",
       "relationship_type": "direct_narrator",
       "full_text": "قال: حدثنا الشیخ ابوالحسن علی بن بشری السجزی",
-      "person_id": 430,
+      "person_id": 484,
       "canonical_name": "أبو الحسن علي بن بشريى السجزي",
       "has_id": 298
     },
@@ -771,7 +771,7 @@
       "name": "ابواسماعیل احمد بن حمزة الحداد",
       "relationship_type": "direct_narrator",
       "full_text": "ابواسماعیل احمد بن حمزة الحداد",
-      "person_id": 379,
+      "person_id": 422,
       "canonical_name": "أبو اسماعيل أحمد بن حمزة الحداد",
       "has_id": NaN
     },
@@ -779,7 +779,7 @@
       "name": "ابوعقال مولی ابن عزیز",
       "relationship_type": "narrator",
       "full_text": "قال ابوعقال مولی ابن عزیز",
-      "person_id": 943,
+      "person_id": 1016,
       "canonical_name": "أبو عقال مولي بن عزيز",
       "has_id": NaN
     },
@@ -787,7 +787,7 @@
       "name": "مولای محمد بن عزیز یعنی الابلی",
       "relationship_type": "narrator",
       "full_text": "قال حدثنا مولای محمد بن عزیز یعنی الابلی",
-      "person_id": 2405,
+      "person_id": 2467,
       "canonical_name": "محمد بن عزيز يعني الابلي",
       "has_id": NaN
     },
@@ -795,7 +795,7 @@
       "name": "سلامة بن روح الکندی",
       "relationship_type": "narrator",
       "full_text": "قال حدثنا سلامة بن روح الکندی",
-      "person_id": 1610,
+      "person_id": 1671,
       "canonical_name": "سلامة بن روح الكندي",
       "has_id": NaN
     },
@@ -803,7 +803,7 @@
       "name": "عقیل",
       "relationship_type": "narrator",
       "full_text": "قال حدثنا عقیل",
-      "person_id": 1976,
+      "person_id": 2045,
       "canonical_name": "عقيل",
       "has_id": NaN
     },
@@ -811,7 +811,7 @@
       "name": "الزهری",
       "relationship_type": "narrator",
       "full_text": "عن الزهری",
-      "person_id": 157,
+      "person_id": 179,
       "canonical_name": "الزهري",
       "has_id": NaN
     },
@@ -819,7 +819,7 @@
       "name": "انس بن مالک",
       "relationship_type": "narrator",
       "full_text": "عن انس بن مالک",
-      "person_id": 1310,
+      "person_id": 1372,
       "canonical_name": "أنس بن مالك",
       "has_id": NaN
     },
@@ -827,7 +827,7 @@
       "name": "شیخ ابوالعباس احمد بن محمد بن الفضل النهاوندی",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت که نهاوندی گفت:",
-      "person_id": 499,
+      "person_id": 560,
       "canonical_name": "أبو العباس أحمد بن محمد بن الفضل النهاوندي",
       "has_id": 53
     },
@@ -835,7 +835,7 @@
       "name": "یوسف حین رازی",
       "relationship_type": "narrator",
       "full_text": "و یوسف حین رازی گفت: که ایشان که خداوندان اسرارند اگر گوی گریبان ایشان از سرایشان آگاه گردد، آنرا برکنند.",
-      "person_id": 1140,
+      "person_id": 1205,
       "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
       "has_id": 847
     },
@@ -844,7 +844,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "quoted",
       "full_text": "حکایت کرد از مرتعش٭ که وی گفت: لولعب الفقیر عشرین سنة ثم صدق\nساعة لنجا",
-      "person_id": 1043,
+      "person_id": 1128,
       "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
       "has_id": 251
     }

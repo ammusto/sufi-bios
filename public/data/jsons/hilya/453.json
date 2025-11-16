@@ -14,28 +14,28 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو الحسن الفهري",
-          "person_id": 405,
+          "person_id": 453,
           "canonical_name": "أبو الحسن الفهري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر القرشي",
-          "person_id": 640,
+          "person_id": 710,
           "canonical_name": "أبو بكر القرشي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن موسى الثقفى",
-          "person_id": 1275,
+          "person_id": 1335,
           "canonical_name": "أحمد بن موسى الثقفي",
           "has_id": 453,
           "subj_added": false
@@ -56,7 +56,7 @@
       "name": "أبو بكر القرشي",
       "relationship_type": "narrator",
       "full_text": "قال أنشدنا أبو بكر القرشي قال: أنشدني أحمد بن موسى الثقفى.",
-      "person_id": 640,
+      "person_id": 710,
       "canonical_name": "أبو بكر القرشي",
       "has_id": NaN
     }

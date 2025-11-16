@@ -23,7 +23,7 @@
       "chain": [
         {
           "name": "جنید",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -41,7 +41,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده",
         "full_text": "بابو حاتم عطار صحبت کرده",
-        "person_id": 751,
+        "person_id": 828,
         "canonical_name": "أبو حاتم العطّار البصري",
         "has_id": 109
       }
@@ -52,7 +52,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "استاد",
         "full_text": "استاد ابویعقوب زیادت",
-        "person_id": 1135,
+        "person_id": 1199,
         "canonical_name": "أبو يعقوب الزيات",
         "has_id": 436
       }
@@ -63,7 +63,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از یاران",
         "full_text": "احمدبن وهب الزیادت از یاران بشر حافی بوده",
-        "person_id": 1323,
+        "person_id": 1384,
         "canonical_name": "بشر بن الحارث الحافي",
         "has_id": 470
       }
@@ -74,7 +74,7 @@
       "name": "جنید",
       "relationship_type": "narrator",
       "full_text": "و جنید گوید: فقدنا علوم الحقایق بموت احمد بن وهب، و اللّه اعلم.",
-      "person_id": 532,
+      "person_id": 595,
       "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
       "has_id": 228
     }

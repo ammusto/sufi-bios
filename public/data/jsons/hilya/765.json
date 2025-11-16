@@ -8,28 +8,28 @@
       "chain": [
         {
           "name": "أبو الحسن بن أبان",
-          "person_id": 417,
+          "person_id": 471,
           "canonical_name": "أبو الحسن بن أبان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر بن عبيد",
-          "person_id": 673,
+          "person_id": 744,
           "canonical_name": "أبو بكر بن عبيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "المثنى بن معاذ العنبري",
-          "person_id": 228,
+          "person_id": 254,
           "canonical_name": "المثنى بن معاذ العنبري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن سباع النميري",
-          "person_id": 2354,
+          "person_id": 2418,
           "canonical_name": "محمد بن سباع النميري",
           "has_id": 765,
           "subj_added": false
@@ -51,7 +51,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "قال حدثني المثنى بن معاذ العنبري",
-      "person_id": 228,
+      "person_id": 254,
       "canonical_name": "المثنى بن معاذ العنبري",
       "has_id": NaN
     }

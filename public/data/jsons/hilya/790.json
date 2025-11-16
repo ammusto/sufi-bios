@@ -35,15 +35,15 @@
         {
           "name": "جعفر بن محمد بن نصير",
           "person_id": 1446,
-          "canonical_name": "حسن بن أحمد البغدادي",
+          "canonical_name": "جدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "المرتعش",
           "person_id": 1078,
-          "canonical_name": "أبو معاذ النحوي",
-          "has_id": NaN,
+          "canonical_name": "أبو عمرو الدمشقي",
+          "has_id": 425,
           "subj_added": false
         }
       ],
@@ -56,8 +56,8 @@
         {
           "name": "أبو جعفر بن الفرجي",
           "person_id": 775,
-          "canonical_name": "أبو دجانة المصري",
-          "has_id": NaN,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
           "subj_added": false
         }
       ],
@@ -70,8 +70,8 @@
         {
           "name": "أبو جعفر بن الفرجي",
           "person_id": 775,
-          "canonical_name": "أبو دجانة المصري",
-          "has_id": NaN,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
           "subj_added": false
         }
       ],
@@ -84,15 +84,15 @@
         {
           "name": "عبد المنعم بن عمر بن أبي سعيد بن الأعرابي",
           "person_id": 1943,
-          "canonical_name": "عبيدة بن لبابة",
+          "canonical_name": "عبد الله بن محمد بن عثمان الواسطي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو جعفر بن الفرجي",
           "person_id": 775,
-          "canonical_name": "أبو دجانة المصري",
-          "has_id": NaN,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
           "subj_added": false
         }
       ],
@@ -105,15 +105,15 @@
         {
           "name": "عبد المنعم بن عمر بن أبي سعيد بن الأعرابي",
           "person_id": 1943,
-          "canonical_name": "عبيدة بن لبابة",
+          "canonical_name": "عبد الله بن محمد بن عثمان الواسطي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو جعفر بن الفرجي",
           "person_id": 775,
-          "canonical_name": "أبو دجانة المصري",
-          "has_id": NaN,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
           "subj_added": false
         }
       ],
@@ -126,15 +126,15 @@
         {
           "name": "عبد المنعم بن عمر بن أبي سعيد بن الأعرابي",
           "person_id": 1943,
-          "canonical_name": "عبيدة بن لبابة",
+          "canonical_name": "عبد الله بن محمد بن عثمان الواسطي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو جعفر بن الفرجي",
           "person_id": 775,
-          "canonical_name": "أبو دجانة المصري",
-          "has_id": NaN,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
           "subj_added": false
         }
       ],
@@ -147,14 +147,14 @@
         {
           "name": "أبو سعيد الأعرابي",
           "person_id": 834,
-          "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
+          "canonical_name": "أبو حفص الأبار عمر بن عبد الرحمن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن أحمد",
           "person_id": 2690,
-          "canonical_name": "يونس بن محمد المؤدب",
+          "canonical_name": "يحيى بن أبي خالد",
           "has_id": NaN,
           "subj_added": false
         },
@@ -162,7 +162,7 @@
           "name": "ابن المرزبان الصيقل",
           "has_id": NaN,
           "person_id": 2,
-          "canonical_name": "ابن المرزبان الصيقل",
+          "canonical_name": "ابن البرقي",
           "subj_added": false
         }
       ],
@@ -175,8 +175,8 @@
         {
           "name": "أبي جعفر محمد بن الفرجي",
           "person_id": 775,
-          "canonical_name": "أبو دجانة المصري",
-          "has_id": NaN,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
           "subj_added": false
         }
       ],
@@ -189,64 +189,64 @@
         {
           "name": "سليمان بن أحمد",
           "person_id": 1669,
-          "canonical_name": "شريك بن عبد الله القاضي",
+          "canonical_name": "سفيان بن عيينة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن يعقوب بن الفرجي الرملى",
           "person_id": 2528,
-          "canonical_name": "مقسم",
+          "canonical_name": "محمد بن وهب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إبراهيم ابن المنذر المجذمي",
           "person_id": 298,
-          "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
-          "has_id": 273,
+          "canonical_name": "إبراهيم الأطروش",
+          "has_id": 1,
           "subj_added": false
         },
         {
           "name": "عبد الله بن وهب",
           "person_id": 1934,
-          "canonical_name": "عبيد الله بن محمد بن محمد بن حمدان العكبري",
+          "canonical_name": "عبد الله بن محمد بن العباس",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "قرة بن عبد الرحمن",
           "person_id": 2228,
-          "canonical_name": "محمد بن الحسن بن الصباح",
+          "canonical_name": "فاطمة بنت المنذر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يزيد بن أبي حبيب",
           "person_id": 2713,
-          "canonical_name": "يزيد بن أبي حبيب",
-          "has_id": null,
+          "canonical_name": "يحيى عمار",
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الزهري",
           "person_id": 157,
-          "canonical_name": "الزهري",
+          "canonical_name": "الحكم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عروة بن الزبير",
           "person_id": 2005,
-          "canonical_name": "علي بن الحسين بن طفان",
+          "canonical_name": "عبيد بن دفيعة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي حميد الساعدي",
           "person_id": 796,
-          "canonical_name": "أبو سعد الماليني",
-          "has_id": NaN,
+          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
+          "has_id": 388,
           "subj_added": false
         }
       ],
@@ -259,70 +259,70 @@
         {
           "name": "أبو عبد الله محمد بن أحمد بن إبراهيم",
           "person_id": 941,
-          "canonical_name": "أبو عثمان سعيد بن أحمد بن جعفر",
+          "canonical_name": "أبو عبد الله الدارمي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن أحمد بن شبويه",
           "person_id": 2361,
-          "canonical_name": "محمد بن سليمان",
+          "canonical_name": "محمد بن أحمد الرافعي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو عمرو أحمد بن محمد بن إبراهيم بن حكيم",
           "person_id": 1051,
-          "canonical_name": "أبو محمد بن صهيب",
-          "has_id": NaN,
+          "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+          "has_id": 622,
           "subj_added": false
         },
         {
           "name": "محمد بن يعقوب الفرجي",
           "person_id": 775,
-          "canonical_name": "أبو دجانة المصري",
-          "has_id": NaN,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
           "subj_added": false
         },
         {
           "name": "محمد بن عبد الملك بن قريب الاحمر",
           "person_id": 2442,
-          "canonical_name": "محمد بن محمد بن زيد",
+          "canonical_name": "محمد بن عبد الله الحضرمي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
           "person_id": 1102,
-          "canonical_name": "أبو نصر أحمد الحاجي",
-          "has_id": 207,
+          "canonical_name": "أبو محمد",
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو معشر",
           "person_id": 1117,
-          "canonical_name": "أبو هاشم الزاهد",
-          "has_id": 434,
+          "canonical_name": "أبو محمد بن صهيب",
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سعد المقبري",
           "person_id": 1637,
-          "canonical_name": "سهل بن سعد",
+          "canonical_name": "زيد بن علي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي هريرة",
           "person_id": 1156,
-          "canonical_name": "أحمد الحراني",
-          "has_id": 208,
+          "canonical_name": "أبو نجم",
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "النبي ﷺ",
           "person_id": 248,
-          "canonical_name": "النعمان بن بشير",
+          "canonical_name": "الليث بن سعد",
           "has_id": NaN,
           "subj_added": false
         }
@@ -336,42 +336,42 @@
         {
           "name": "أبو مسعود محمد بن إبراهيم بن عيسى المقدسي",
           "person_id": 1110,
-          "canonical_name": "أبو نصر محمد بن محمد بن حامد",
+          "canonical_name": "أبو محمد الطيني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن يعقوب الفرجي",
           "person_id": 775,
-          "canonical_name": "أبو دجانة المصري",
-          "has_id": NaN,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
           "subj_added": false
         },
         {
           "name": "خالد بن يزيد",
           "person_id": 1535,
-          "canonical_name": "رجل ممّن كان معه",
+          "canonical_name": "حماد بن يحيى الأجج",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو جعفر الرازي",
           "person_id": 774,
-          "canonical_name": "أبو داود الطيالسي",
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الربيع بن أنس",
           "person_id": 150,
-          "canonical_name": "الربيع بن أنس",
+          "canonical_name": "الحسين بن ياسين",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أنس بن مالك",
           "person_id": 1349,
-          "canonical_name": "بقيه بن الويد",
+          "canonical_name": "أسد بن موسى",
           "has_id": NaN,
           "subj_added": false
         }
@@ -385,70 +385,70 @@
         {
           "name": "عبد المنعم بن عمر",
           "person_id": 1942,
-          "canonical_name": "عبيدة",
+          "canonical_name": "عبد الله بن محمد بن عبيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو سعيد الأعرابي",
           "person_id": 834,
-          "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
+          "canonical_name": "أبو حفص الأبار عمر بن عبد الرحمن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن يعقوب الفرجي",
           "person_id": 775,
-          "canonical_name": "أبو دجانة المصري",
-          "has_id": NaN,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
           "subj_added": false
         },
         {
           "name": "علي بن المديني",
           "person_id": 2054,
-          "canonical_name": "علي بن عبيد الهمدانى",
+          "canonical_name": "علي اعرج هاشمي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "المعتمر بن سليمان",
           "person_id": 241,
-          "canonical_name": "المفضل بن صدقة",
+          "canonical_name": "القعنبي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سفيان الثوري",
           "person_id": 1650,
-          "canonical_name": "سورة بن شداد الزاهد",
+          "canonical_name": "سعدان الحليمي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي سلمة",
           "person_id": 841,
-          "canonical_name": "أبو عاصم عمرو بن عثمان بن مقسم",
-          "has_id": NaN,
+          "canonical_name": "أبو حمزة الخراساني",
+          "has_id": 398,
           "subj_added": false
         },
         {
           "name": "الربيع بن أنس",
           "person_id": 150,
-          "canonical_name": "الربيع بن أنس",
+          "canonical_name": "الحسين بن ياسين",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي العالية",
           "person_id": 501,
-          "canonical_name": "أبو العباس أحمد بن محمد زكريا",
-          "has_id": NaN,
+          "canonical_name": "أبو الحسين الدراج",
+          "has_id": 318,
           "subj_added": false
         },
         {
           "name": "أبي بن كعب",
           "person_id": 744,
-          "canonical_name": "أبو جعفر أحمد بن إبراهيم بن يوسف",
+          "canonical_name": "أبو بكر بن عبيد",
           "has_id": NaN,
           "subj_added": false
         }
@@ -462,56 +462,56 @@
         {
           "name": "محمد بن إبراهيم",
           "person_id": 2319,
-          "canonical_name": "محمد بن أحمد بن منازل",
-          "has_id": NaN,
+          "canonical_name": "محمد بن الفضل البلخي",
+          "has_id": 770,
           "subj_added": false
         },
         {
           "name": "أحمد بن عمرو بن جابر",
           "person_id": 1270,
-          "canonical_name": "أحمد بن مسعود الزبيري",
+          "canonical_name": "أحمد بن صليح الفيومي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن يعقوب الفرجي",
           "person_id": 775,
-          "canonical_name": "أبو دجانة المصري",
-          "has_id": NaN,
+          "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
+          "has_id": 91,
           "subj_added": false
         },
         {
           "name": "أحمد بن عيسى أبو طاهر",
           "person_id": 1272,
-          "canonical_name": "أحمد بن منصور النوشري",
-          "has_id": NaN,
+          "canonical_name": "أحمد بن عاصم الأنطاكي",
+          "has_id": 446,
           "subj_added": false
         },
         {
           "name": "ابن أبي فديك",
           "has_id": NaN,
           "person_id": 0,
-          "canonical_name": "ابن أبي فديك",
+          "canonical_name": "ابن ابى حازم",
           "subj_added": false
         },
         {
           "name": "ابن أبي ذئب",
           "has_id": NaN,
           "person_id": 1,
-          "canonical_name": "ابن أبي ذئب",
+          "canonical_name": "ابن الأنباري",
           "subj_added": false
         },
         {
           "name": "الزهري",
           "person_id": 157,
-          "canonical_name": "الزهري",
+          "canonical_name": "الحكم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أنس",
           "person_id": 1349,
-          "canonical_name": "بقيه بن الويد",
+          "canonical_name": "أسد بن موسى",
           "has_id": NaN,
           "subj_added": false
         }
@@ -531,8 +531,8 @@
         "relationship_phrase": "صحب",
         "full_text": "صحب الحارث بن أسد المحاسبي وطبقته",
         "person_id": 69,
-        "canonical_name": "الحارث بن أسد المحاسبي",
-        "has_id": 229
+        "canonical_name": "اسمعيل بن دباس الجيرفتي",
+        "has_id": NaN
       }
     ]
   },
@@ -542,7 +542,7 @@
       "relationship_type": "narrator",
       "full_text": "حدثنا سليمان بن أحمد ثنا محمد بن يعقوب بن الفرجي الرملى",
       "person_id": 1669,
-      "canonical_name": "شريك بن عبد الله القاضي",
+      "canonical_name": "سفيان بن عيينة",
       "has_id": NaN
     },
     {
@@ -550,15 +550,15 @@
       "relationship_type": "narrator",
       "full_text": "ثنا أبو عمرو أحمد بن محمد بن إبراهيم بن حكيم ثنا محمد بن يعقوب الفرجي",
       "person_id": 1051,
-      "canonical_name": "أبو محمد بن صهيب",
-      "has_id": NaN
+      "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
+      "has_id": 622
     },
     {
       "name": "أبو مسعود محمد بن إبراهيم بن عيسى المقدسي",
       "relationship_type": "narrator",
       "full_text": "أخبرنا أبو مسعود محمد بن إبراهيم بن عيسى المقدسي في كتابه ثنا محمد بن يعقوب الفرجي",
       "person_id": 1110,
-      "canonical_name": "أبو نصر محمد بن محمد بن حامد",
+      "canonical_name": "أبو محمد الطيني",
       "has_id": NaN
     },
     {
@@ -566,7 +566,7 @@
       "relationship_type": "narrator",
       "full_text": "ثنا أبو سعيد الأعرابي ثنا محمد بن يعقوب الفرجي",
       "person_id": 834,
-      "canonical_name": "أبو طاهر محمد بن إبراهيم بن أحمد",
+      "canonical_name": "أبو حفص الأبار عمر بن عبد الرحمن",
       "has_id": NaN
     },
     {
@@ -574,7 +574,7 @@
       "relationship_type": "narrator",
       "full_text": "ثنا أحمد بن عمرو بن جابر ثنا محمد بن يعقوب الفرجي",
       "person_id": 1270,
-      "canonical_name": "أحمد بن مسعود الزبيري",
+      "canonical_name": "أحمد بن صليح الفيومي",
       "has_id": NaN
     },
     {
@@ -582,7 +582,7 @@
       "relationship_type": "narrator",
       "full_text": "وحكى عبد المنعم بن عمر بن أبي سعيد بن الأعرابي أنه قيل لأبي جعفر بن الفرجي إنك تنكر الزعقة والصيحة فقال",
       "person_id": 1943,
-      "canonical_name": "عبيدة بن لبابة",
+      "canonical_name": "عبد الله بن محمد بن عثمان الواسطي",
       "has_id": NaN
     },
     {
@@ -590,7 +590,7 @@
       "relationship_type": "interlocutor",
       "full_text": "فبينا أنا كذلك إذا أنا براهبين يسيران",
       "person_id": 1569,
-      "canonical_name": "زياد بن نعيم",
+      "canonical_name": "خليل بن مرة",
       "has_id": NaN
     },
     {
@@ -598,7 +598,7 @@
       "relationship_type": "interlocutor",
       "full_text": "وأخرج رجل من الشطاحين من السجن يضرب",
       "person_id": 1579,
-      "canonical_name": "زيدان",
+      "canonical_name": "داود بن سوار المزني",
       "has_id": NaN
     }
   ]

@@ -34,10 +34,17 @@
       "chain": [
         {
           "name": "إبراهيم بن أدهم",
-          "person_id": 301,
+          "person_id": 326,
           "canonical_name": "إبراهيم بن أدهم",
           "has_id": 274,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1575,
+          "canonical_name": "داود البلخي",
+          "has_id": 565,
+          "subj_added": true
         }
       ],
       "type": "single_informant",
@@ -48,24 +55,31 @@
       "chain": [
         {
           "name": "محمد بن الفرحي",
-          "person_id": 749,
+          "person_id": 826,
           "canonical_name": "أبو جعفر محمد بن يعقوب الفرجي",
           "has_id": 21,
           "subj_added": false
         },
         {
           "name": "عثمان بن عمار",
-          "person_id": 1953,
+          "person_id": 2022,
           "canonical_name": "عثمان بن عمار",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إبراهيم بن أدهم",
-          "person_id": 301,
+          "person_id": 326,
           "canonical_name": "إبراهيم بن أدهم",
           "has_id": 274,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1575,
+          "canonical_name": "داود البلخي",
+          "has_id": 565,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -81,7 +95,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "علمك",
         "full_text": "إن أخي داود علمك اسم الله الأعظم",
-        "person_id": 301,
+        "person_id": 326,
         "canonical_name": "إبراهيم بن أدهم",
         "has_id": 274
       }
@@ -92,7 +106,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "ومن متقدمى شيوخ المشرق",
         "full_text": "ومن متقدمى شيوخ المشرق داود البلخى وإبراهيم ابن أدهم وشقيق البلخي وحاتم الأصم",
-        "person_id": 301,
+        "person_id": 326,
         "canonical_name": "إبراهيم بن أدهم",
         "has_id": 274
       },
@@ -101,7 +115,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "ومن متقدمى شيوخ المشرق",
         "full_text": "ومن متقدمى شيوخ المشرق داود البلخى وإبراهيم ابن أدهم وشقيق البلخي وحاتم الأصم",
-        "person_id": 980,
+        "person_id": 1051,
         "canonical_name": "أبو علي شقيق بن إبراهيم الأزدي البلخي",
         "has_id": 622
       },
@@ -110,7 +124,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "ومن متقدمى شيوخ المشرق",
         "full_text": "ومن متقدمى شيوخ المشرق داود البلخى وإبراهيم ابن أدهم وشقيق البلخي وحاتم الأصم",
-        "person_id": 1424,
+        "person_id": 1484,
         "canonical_name": "حاتم الأصم",
         "has_id": 505
       }
@@ -121,7 +135,7 @@
       "name": "إبراهيم بن أدهم",
       "relationship_type": "narrator",
       "full_text": "يحكي عنه إبراهيم بن أدهم أنه قال",
-      "person_id": 301,
+      "person_id": 326,
       "canonical_name": "إبراهيم بن أدهم",
       "has_id": 274
     },
@@ -130,7 +144,7 @@
       "relationship_type": "interlocutor",
       "context": "قال لي يا بني ذاك أخي داود",
       "full_text": "فذكرت ذلك لبعض المشايخ ممن له آيات وكرامات فقال لي يا بني ذاك أخي داود",
-      "person_id": 1332,
+      "person_id": 1394,
       "canonical_name": "بعض المشايخ ممن له آيات وكرامات",
       "has_id": NaN
     },
@@ -138,7 +152,7 @@
       "name": "الخضر",
       "relationship_type": "interlocutor",
       "full_text": "لا بأس ولا روع. أنا أخوك الخضر",
-      "person_id": 145,
+      "person_id": 166,
       "canonical_name": "الخضر",
       "has_id": NaN
     }

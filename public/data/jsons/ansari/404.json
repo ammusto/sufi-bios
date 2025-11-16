@@ -44,7 +44,7 @@
       "chain": [
         {
           "name": "با سلیمان",
-          "person_id": 817,
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
           "has_id": 404,
           "subj_added": false
@@ -58,21 +58,21 @@
       "chain": [
         {
           "name": "احمد بوالحواری",
-          "person_id": 1177,
+          "person_id": 1241,
           "canonical_name": "أحمد بن أبي الحواري",
           "has_id": 442,
           "subj_added": false
         },
         {
           "name": "سلیمن",
-          "person_id": 1633,
+          "person_id": 1694,
           "canonical_name": "سليمن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 817,
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
           "has_id": 404,
           "subj_added": true
@@ -86,21 +86,21 @@
       "chain": [
         {
           "name": "احمد بوالحواری",
-          "person_id": 1177,
+          "person_id": 1241,
           "canonical_name": "أحمد بن أبي الحواري",
           "has_id": 442,
           "subj_added": false
         },
         {
           "name": "سلیمن",
-          "person_id": 1633,
+          "person_id": 1694,
           "canonical_name": "سليمن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 817,
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
           "has_id": 404,
           "subj_added": true
@@ -114,7 +114,7 @@
       "chain": [
         {
           "name": "با سلیمان",
-          "person_id": 817,
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
           "has_id": 404,
           "subj_added": false
@@ -134,14 +134,14 @@
       "chain": [
         {
           "name": "احمد بوالحواری",
-          "person_id": 1177,
+          "person_id": 1241,
           "canonical_name": "أحمد بن أبي الحواري",
           "has_id": 442,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 817,
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
           "has_id": 404,
           "subj_added": true
@@ -155,14 +155,14 @@
       "chain": [
         {
           "name": "باحفص حداد",
-          "person_id": 759,
+          "person_id": 836,
           "canonical_name": "أبو حفص الحداد النيسابوري",
           "has_id": 715,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 817,
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
           "has_id": 404,
           "subj_added": true
@@ -182,14 +182,14 @@
       "chain": [
         {
           "name": "احمد بوالحواری",
-          "person_id": 1177,
+          "person_id": 1241,
           "canonical_name": "أحمد بن أبي الحواري",
           "has_id": 442,
           "subj_added": false
         },
         {
           "name": "با سلیمان",
-          "person_id": 817,
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
           "has_id": 404,
           "subj_added": false
@@ -203,29 +203,31 @@
       "chain": [
         {
           "name": "بوبکرکتانی",
-          "person_id": 712,
+          "person_id": 786,
           "canonical_name": "أبو بكر محمد بن علي الكتاني",
           "has_id": 378,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 817,
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
           "has_id": 404,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 817,
+          "name": "",
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
-          "has_id": 404
+          "has_id": 404,
+          "subj_added": false
         },
         {
-          "name": NaN,
-          "person_id": 817,
+          "name": "",
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
-          "has_id": 404
+          "has_id": 404,
+          "subj_added": false
         }
       ],
       "type": "explicit",
@@ -236,21 +238,21 @@
       "chain": [
         {
           "name": "احمد بواحواری",
-          "person_id": 1177,
+          "person_id": 1241,
           "canonical_name": "أحمد بن أبي الحواري",
           "has_id": 442,
           "subj_added": false
         },
         {
           "name": "شیخ بوطالب گرگانی",
-          "person_id": 831,
+          "person_id": 910,
           "canonical_name": "أبو طالب الگرگاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 817,
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
           "has_id": 404,
           "subj_added": true
@@ -264,14 +266,14 @@
       "chain": [
         {
           "name": "الامام",
-          "person_id": 55,
+          "person_id": 74,
           "canonical_name": "الامام",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 817,
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
           "has_id": 404,
           "subj_added": true
@@ -285,29 +287,31 @@
       "chain": [
         {
           "name": "بوبکر وراق",
-          "person_id": 702,
+          "person_id": 777,
           "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
-          "has_id": 380,
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 817,
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
           "has_id": 404,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 817,
+          "name": "",
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
-          "has_id": 404
+          "has_id": 404,
+          "subj_added": false
         },
         {
-          "name": NaN,
-          "person_id": 817,
+          "name": "",
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
-          "has_id": 404
+          "has_id": 404,
+          "subj_added": false
         }
       ],
       "type": "explicit",
@@ -318,29 +322,31 @@
       "chain": [
         {
           "name": "النصر ابادی",
-          "person_id": 545,
+          "person_id": 608,
           "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
           "has_id": 360,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 817,
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
           "has_id": 404,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 817,
+          "name": "",
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
-          "has_id": 404
+          "has_id": 404,
+          "subj_added": false
         },
         {
-          "name": NaN,
-          "person_id": 817,
+          "name": "",
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
-          "has_id": 404
+          "has_id": 404,
+          "subj_added": false
         }
       ],
       "type": "explicit",
@@ -357,21 +363,21 @@
       "chain": [
         {
           "name": "الامام",
-          "person_id": 55,
+          "person_id": 74,
           "canonical_name": "الامام",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنید",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 817,
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
           "has_id": 404,
           "subj_added": true
@@ -391,14 +397,14 @@
       "chain": [
         {
           "name": "شبلی",
-          "person_id": 628,
+          "person_id": 699,
           "canonical_name": "أبو بكر الشبلي",
           "has_id": 376,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 817,
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
           "has_id": 404,
           "subj_added": true
@@ -418,42 +424,42 @@
       "chain": [
         {
           "name": "شیخ بوالحسن بشری",
-          "person_id": 430,
+          "person_id": 484,
           "canonical_name": "أبو الحسن علي بن بشريى السجزي",
           "has_id": 298,
           "subj_added": false
         },
         {
           "name": "شیخ بوالحسین همدانی",
-          "person_id": 817,
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
           "has_id": 404,
           "subj_added": false
         },
         {
           "name": "بوطبیب بن جعفر",
-          "person_id": 835,
+          "person_id": 913,
           "canonical_name": "أبو طبيب بن جعفر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "شجاع صوفی",
-          "person_id": 1661,
+          "person_id": 1723,
           "canonical_name": "شاه بن شجاع الكرماني",
           "has_id": 614,
           "subj_added": false
         },
         {
           "name": "سری سقطی",
-          "person_id": 161,
+          "person_id": 183,
           "canonical_name": "السري السقطي",
           "has_id": 236,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 817,
+          "person_id": 895,
           "canonical_name": "أبو سليمان الداراني",
           "has_id": 404,
           "subj_added": true
@@ -472,7 +478,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "شاگرد",
         "full_text": "احمد بوالحواری شاگرد با سلیمان بود",
-        "person_id": 1177,
+        "person_id": 1241,
         "canonical_name": "أحمد بن أبي الحواري",
         "has_id": 442
       }
@@ -483,7 +489,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "نظیر",
         "full_text": "نظیر عبدالعزیز دمشقی",
-        "person_id": 1770,
+        "person_id": 1839,
         "canonical_name": "عبد العزيز الدمشقي",
         "has_id": NaN
       }
@@ -494,7 +500,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -502,7 +508,7 @@
       "name": "احمد بوالحواری",
       "relationship_type": "direct_narrator",
       "full_text": "احمد لوالحواری دیده و حکایت کند از وی",
-      "person_id": 1177,
+      "person_id": 1241,
       "canonical_name": "أحمد بن أبي الحواري",
       "has_id": 442
     }

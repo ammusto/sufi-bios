@@ -7,64 +7,71 @@
     {
       "chain": [
         {
+          "name": "",
+          "person_id": 1381,
+          "canonical_name": "بدر المغازلي",
+          "has_id": 467,
+          "subj_added": true
+        },
+        {
           "name": "أبو بكر بن خلاد",
-          "person_id": 668,
+          "person_id": 738,
           "canonical_name": "أبو بكر بن خلاد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بكر بن المنذر أبو بكر المغازلي الشيخ الصالح",
-          "person_id": 1351,
+          "person_id": 1412,
           "canonical_name": "بكر بن المنذر أبو بكر المغازلي الصالح",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "معاوية بن عمرو",
-          "person_id": 2519,
+          "person_id": 2579,
           "canonical_name": "معاوية بن عمرو",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "زهير بن معاوية",
-          "person_id": 1566,
+          "person_id": 1628,
           "canonical_name": "زهير بن معاوية",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "العلاء بن المسيب",
-          "person_id": 189,
+          "person_id": 213,
           "canonical_name": "العلاء بن المسيب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سهيلا بن أبي صالح",
-          "person_id": 1648,
+          "person_id": 1710,
           "canonical_name": "سهيل بن أبي صالح",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبيه",
-          "person_id": 1149,
+          "person_id": 1212,
           "canonical_name": "أبوه",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو هريرة",
-          "person_id": 1120,
+          "person_id": 1185,
           "canonical_name": "أبو هريرة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "النبي ﷺ",
-          "person_id": 246,
+          "person_id": 272,
           "canonical_name": "النبي",
           "has_id": NaN,
           "subj_added": false
@@ -77,11 +84,11 @@
     {
       "chain": [
         {
-          "name": "العلاء",
-          "person_id": 189,
-          "canonical_name": "العلاء بن المسيب",
-          "has_id": NaN,
-          "subj_added": false
+          "name": "",
+          "person_id": 1381,
+          "canonical_name": "بدر المغازلي",
+          "has_id": 467,
+          "subj_added": true
         }
       ],
       "type": "single_informant",

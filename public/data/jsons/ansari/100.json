@@ -14,7 +14,7 @@
       "chain": [
         {
           "name": "جنید",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -28,7 +28,7 @@
       "chain": [
         {
           "name": "بوجعفر شومانی",
-          "person_id": 734,
+          "person_id": 809,
           "canonical_name": "أبو جعفر الشوماني",
           "has_id": NaN,
           "subj_added": false
@@ -48,14 +48,14 @@
       "chain": [
         {
           "name": "بوالحسن صایغ",
-          "person_id": 415,
+          "person_id": 469,
           "canonical_name": "أبو الحسن بن الصائغ الدينوري",
           "has_id": 293,
           "subj_added": false
         },
         {
           "name": "بوجعفر صیدلانی",
-          "person_id": 735,
+          "person_id": 810,
           "canonical_name": "أبو جعفر الصيدلاني",
           "has_id": 104,
           "subj_added": false
@@ -69,7 +69,7 @@
       "chain": [
         {
           "name": "ابرهیم ادهم",
-          "person_id": 301,
+          "person_id": 326,
           "canonical_name": "إبراهيم بن أدهم",
           "has_id": 274,
           "subj_added": false
@@ -83,7 +83,7 @@
       "chain": [
         {
           "name": "بوالعباس عطا",
-          "person_id": 498,
+          "person_id": 559,
           "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
           "has_id": 340,
           "subj_added": false
@@ -97,7 +97,7 @@
       "chain": [
         {
           "name": "بوجعفر شومانی",
-          "person_id": 734,
+          "person_id": 809,
           "canonical_name": "أبو جعفر الشوماني",
           "has_id": NaN,
           "subj_added": false
@@ -117,7 +117,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "من اصحاب",
         "full_text": "من اصحاب الجنید٭ وکان قریب السن منه وکان الناس یعدونه من اقران الجنید و کان یعد نفسه من اصحابه کذی وجدت فی التاریخ.",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -126,7 +126,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "من اقران",
         "full_text": "وکان الناس یعدونه من اقران الجنید",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -135,7 +135,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "من اصحابه",
         "full_text": "و کان یعد نفسه من اصحابه",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       }
@@ -146,7 +146,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -154,7 +154,7 @@
       "name": "جنید",
       "relationship_type": "direct_narrator",
       "full_text": "جنیدگوید: کی بجوانی در بغداد میگشتم در ویرانهٔ شدم، شیخ بوجعفر حفار بغدادی را دیدم",
-      "person_id": 532,
+      "person_id": 595,
       "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
       "has_id": 228
     },
@@ -162,7 +162,7 @@
       "name": "بوجعفر شومانی",
       "relationship_type": "narrator",
       "full_text": "بوجعفر شومانی گوید",
-      "person_id": 734,
+      "person_id": 809,
       "canonical_name": "أبو جعفر الشوماني",
       "has_id": NaN
     },
@@ -170,7 +170,7 @@
       "name": "بوالحسن صایغ",
       "relationship_type": "narrator",
       "full_text": "بوالحسن صایغ٭ گوید:",
-      "person_id": 415,
+      "person_id": 469,
       "canonical_name": "أبو الحسن بن الصائغ الدينوري",
       "has_id": 293
     },
@@ -178,7 +178,7 @@
       "name": "بوجعفر صیدلانی",
       "relationship_type": "narrator",
       "full_text": "بوجعفرگوید: که آن وقت صحبت من نه باین قوم بود",
-      "person_id": 735,
+      "person_id": 810,
       "canonical_name": "أبو جعفر الصيدلاني",
       "has_id": 104
     },
@@ -186,7 +186,7 @@
       "name": "ابرهیم ادهم",
       "relationship_type": "narrator",
       "full_text": "ابرهیم ادهم٭ گوید:",
-      "person_id": 301,
+      "person_id": 326,
       "canonical_name": "إبراهيم بن أدهم",
       "has_id": 274
     },
@@ -194,7 +194,7 @@
       "name": "بوالعباس عطا",
       "relationship_type": "narrator",
       "full_text": "بوالعباس عطا٭ گوید:",
-      "person_id": 498,
+      "person_id": 559,
       "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
       "has_id": 340
     }

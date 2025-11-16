@@ -39,7 +39,7 @@
       "chain": [
         {
           "name": "الامام",
-          "person_id": 55,
+          "person_id": 74,
           "canonical_name": "الامام",
           "has_id": NaN,
           "subj_added": false
@@ -53,14 +53,14 @@
       "chain": [
         {
           "name": "شیخ اباعلی الحسین بن احمد بن محمد بن اسحاق الصایغ المرورودی الصوفی الحافظ",
-          "person_id": 952,
+          "person_id": 1024,
           "canonical_name": "أبو علي الحسين بن أحمد بن محمد بن اسحاق الصايغ المرورودي الصوفي الحافظ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابانصر بن الشاه المرورودی الصوفی الحافظ",
-          "person_id": 1103,
+          "person_id": 1167,
           "canonical_name": "أبو نصر بن الشاه المرورودي",
           "has_id": NaN,
           "subj_added": false
@@ -74,14 +74,14 @@
       "chain": [
         {
           "name": "ابوعلی المغازلی الاصم البغدادی",
-          "person_id": 968,
+          "person_id": 1039,
           "canonical_name": "أبو علي المغازلي الاصم البغدادي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بوالحسین نوری",
-          "person_id": 452,
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
           "has_id": 439,
           "subj_added": false
@@ -95,21 +95,21 @@
       "chain": [
         {
           "name": "ابوالمظفر",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": false
         },
         {
           "name": "مبادر رقی برقة البیضا",
-          "person_id": 2205,
+          "person_id": 2271,
           "canonical_name": "مبادر الرقي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سهل صعلوکی",
-          "person_id": 1645,
+          "person_id": 1707,
           "canonical_name": "سهل صعلوكي",
           "has_id": NaN,
           "subj_added": false
@@ -123,21 +123,21 @@
       "chain": [
         {
           "name": "ابوسعد المالینی",
-          "person_id": 796,
+          "person_id": 872,
           "canonical_name": "أبو سعد الماليني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "اباعلی محمد بن الحسن بن حمزه الصوفی الرازی",
-          "person_id": 982,
+          "person_id": 1053,
           "canonical_name": "أبو علي محمد بن الحسن بن حمزه الصوفي الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابالقاسم الحکیم",
-          "person_id": 534,
+          "person_id": 597,
           "canonical_name": "أبو القاسم الحكيم",
           "has_id": NaN,
           "subj_added": false
@@ -151,14 +151,14 @@
       "chain": [
         {
           "name": "اسحق حافظ",
-          "person_id": 46,
+          "person_id": 65,
           "canonical_name": "اسحق حافظ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بوعلی کوکبی گرجی",
-          "person_id": 965,
+          "person_id": 1036,
           "canonical_name": "أبو علي الكوكبي الگرجي",
           "has_id": NaN,
           "subj_added": false
@@ -172,7 +172,7 @@
       "chain": [
         {
           "name": "شیخ ابوالخیر حبشی",
-          "person_id": 472,
+          "person_id": 529,
           "canonical_name": "أبو الخير الحبشي",
           "has_id": 325,
           "subj_added": false
@@ -186,7 +186,7 @@
       "chain": [
         {
           "name": "خرقانی",
-          "person_id": 396,
+          "person_id": 441,
           "canonical_name": "أبو الحسن الخرقاني",
           "has_id": 303,
           "subj_added": false
@@ -207,7 +207,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -215,7 +215,7 @@
       "name": "شیخ عمو",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ سید عمو٭ احمدکوفانی٭ و برا دیده بودند",
-      "person_id": 1683,
+      "person_id": 1747,
       "canonical_name": "شيخ عمو",
       "has_id": 717
     },
@@ -223,7 +223,7 @@
       "name": "احمدکوفانی٭",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ سید عمو٭ احمدکوفانی٭ و برا دیده بودند",
-      "person_id": 1158,
+      "person_id": 1222,
       "canonical_name": "أحمد الكوفاني",
       "has_id": 212
     },
@@ -232,7 +232,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "مطرب که توبه کرد و از جمله اصحابناشد",
       "full_text": "شیخ الاسلام گفت: که نام وی محمد طبرانی بود، و من پسر ویرا دیدهام که بهری آمد بخانقاه شیخ عمو، جوانی بود سخت ظریف.",
-      "person_id": 2247,
+      "person_id": 2312,
       "canonical_name": "محمد بن الطبراني",
       "has_id": NaN
     },
@@ -241,7 +241,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "خواننده در سماع",
       "full_text": "درین برزن برناییست مطرب، ار باید تا ویرا بخوانیم",
-      "person_id": 2510,
+      "person_id": 2571,
       "canonical_name": "مطرب",
       "has_id": NaN
     },
@@ -249,7 +249,7 @@
       "name": "ابوعلی المغازلی الاصم البغدادی",
       "relationship_type": "narrator",
       "full_text": "ابوعلی المغازلی الاصم البغدادی ... گفت: «از» بوعلی مغازلی اصم بغدادی شنیدم باهواز",
-      "person_id": 968,
+      "person_id": 1039,
       "canonical_name": "أبو علي المغازلي الاصم البغدادي",
       "has_id": NaN
     },
@@ -257,7 +257,7 @@
       "name": "ابوسعد المالینی",
       "relationship_type": "narrator",
       "full_text": "قال ابوسعد المالینی٭ سمعت اباعلی محمد بن الحسن بن حمزه الصوفی الرازی",
-      "person_id": 796,
+      "person_id": 872,
       "canonical_name": "أبو سعد الماليني",
       "has_id": NaN
     },
@@ -265,7 +265,7 @@
       "name": "اسحق حافظ",
       "relationship_type": "narrator",
       "full_text": "اسحق حافظ٭ مرا گفت",
-      "person_id": 46,
+      "person_id": 65,
       "canonical_name": "اسحق حافظ",
       "has_id": NaN
     },
@@ -273,7 +273,7 @@
       "name": "خرقانی",
       "relationship_type": "narrator",
       "full_text": "من از خرقانی الحمد الهمد للّه شنیدم",
-      "person_id": 396,
+      "person_id": 441,
       "canonical_name": "أبو الحسن الخرقاني",
       "has_id": 303
     },
@@ -281,7 +281,7 @@
       "name": "شیخ بوالازهر اصطخری",
       "relationship_type": "narrator",
       "full_text": "شیخ بوالازهرگفت هرکس که باین طایفه صحبت دارد اللّه تعالی بدل او نگرد",
-      "person_id": 381,
+      "person_id": 429,
       "canonical_name": "أبو الأزهر عبد الواحد بن محمد الإصطخري",
       "has_id": 37
     },
@@ -289,7 +289,7 @@
       "name": "الامام",
       "relationship_type": "narrator",
       "full_text": "و انشدنا الامام لنفسه",
-      "person_id": 55,
+      "person_id": 74,
       "canonical_name": "الامام",
       "has_id": NaN
     }

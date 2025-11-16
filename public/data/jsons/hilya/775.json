@@ -8,28 +8,28 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن محمد بن عمر",
-          "person_id": 1259,
+          "person_id": 1321,
           "canonical_name": "أحمد بن محمد بن عمر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن محمد بن سفيان",
-          "person_id": 1870,
+          "person_id": 1939,
           "canonical_name": "عبد الله بن محمد بن سفيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن أبي القاسم مولى بن هاشم",
-          "person_id": 2286,
+          "person_id": 2350,
           "canonical_name": "محمد بن أبي القاسم",
           "has_id": 775,
           "subj_added": false
@@ -50,7 +50,7 @@
       "name": "عبد الله بن محمد بن سفيان",
       "relationship_type": "narrator",
       "full_text": "ثنا عبد الله بن محمد بن سفيان",
-      "person_id": 1870,
+      "person_id": 1939,
       "canonical_name": "عبد الله بن محمد بن سفيان",
       "has_id": NaN
     }

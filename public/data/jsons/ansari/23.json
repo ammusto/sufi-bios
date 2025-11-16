@@ -23,14 +23,14 @@
       "chain": [
         {
           "name": "بوعثمان مغربی",
-          "person_id": 942,
+          "person_id": 1015,
           "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
           "has_id": 156,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 973,
+          "person_id": 1044,
           "canonical_name": "أبو علي بن الكاتب",
           "has_id": 23,
           "subj_added": true
@@ -56,7 +56,7 @@
       "chain": [
         {
           "name": "بوعلی کاتب",
-          "person_id": 973,
+          "person_id": 1044,
           "canonical_name": "أبو علي بن الكاتب",
           "has_id": 23,
           "subj_added": false
@@ -70,7 +70,7 @@
       "chain": [
         {
           "name": "بوعلی کاتب",
-          "person_id": 973,
+          "person_id": 1044,
           "canonical_name": "أبو علي بن الكاتب",
           "has_id": 23,
           "subj_added": false
@@ -90,7 +90,7 @@
       "chain": [
         {
           "name": "بوعلی کاتب",
-          "person_id": 973,
+          "person_id": 1044,
           "canonical_name": "أبو علي بن الكاتب",
           "has_id": 23,
           "subj_added": false
@@ -104,14 +104,14 @@
       "chain": [
         {
           "name": "شیخ ابوالقاسم نصرآبادی",
-          "person_id": 545,
+          "person_id": 608,
           "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
           "has_id": 360,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 973,
+          "person_id": 1044,
           "canonical_name": "أبو علي بن الكاتب",
           "has_id": 23,
           "subj_added": true
@@ -129,7 +129,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "صحبت کرده با بوبکر مصری",
-        "person_id": 716,
+        "person_id": 790,
         "canonical_name": "أبو بكر مصري",
         "has_id": NaN
       },
@@ -138,7 +138,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "صحبت کرده با بوبکر مصری و بوعلی رودباری یگانهٔ مشایخ وقت.",
-        "person_id": 959,
+        "person_id": 1031,
         "canonical_name": "أبو علي الروذباري",
         "has_id": 422
       }
@@ -149,7 +149,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شیخ الاسلام گفت: کی وی شاگرد بوعلی کاتب٭ ایذ",
-        "person_id": 967,
+        "person_id": 1038,
         "canonical_name": "أبو علي المشتولي",
         "has_id": 114
       }
@@ -160,7 +160,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اقران",
         "full_text": "از اقران رودباری است",
-        "person_id": 959,
+        "person_id": 1031,
         "canonical_name": "أبو علي الروذباري",
         "has_id": 422
       }
@@ -171,7 +171,7 @@
       "name": "بوعثمان مغربی",
       "relationship_type": "narrator",
       "full_text": "بوعثمان مغربی گوید: هومن السالکین.",
-      "person_id": 942,
+      "person_id": 1015,
       "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
       "has_id": 156
     },
@@ -179,7 +179,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت کی",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -187,7 +187,7 @@
       "name": "شیخ ابوالقاسم نصرآبادی",
       "relationship_type": "narrator",
       "full_text": "شیخ ابوالقاسم نصرآبادی گوید: که بوعلی کاتب را گفتند: کی بکدام بهشت مایل تری ازین دو: بفقر یا بغنا؟ گفت: بآنک بلندتر است درجه و مه است قدر آن، پس ازین دو بیت برخواند.",
-      "person_id": 545,
+      "person_id": 608,
       "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
       "has_id": 360
     },
@@ -196,7 +196,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "مرید",
       "full_text": "در همه مصر ویرا یک مرید بود که چیزی بود دادی، اوبمرد",
-      "person_id": 2669,
+      "person_id": 2727,
       "canonical_name": "يك مريد",
       "has_id": NaN
     },
@@ -205,7 +205,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "در خواب",
       "full_text": "مصطفی را ﷺ بخواب دیدمی و ازو پرسیدمی.",
-      "person_id": 246,
+      "person_id": 272,
       "canonical_name": "النبي",
       "has_id": NaN
     }

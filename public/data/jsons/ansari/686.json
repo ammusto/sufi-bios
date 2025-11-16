@@ -14,14 +14,14 @@
       "chain": [
         {
           "name": "سباع موصلی",
-          "person_id": 1586,
+          "person_id": 1648,
           "canonical_name": "سباع الموصلي",
           "has_id": 588,
           "subj_added": false
         },
         {
           "name": "داود",
-          "person_id": 1511,
+          "person_id": 1573,
           "canonical_name": "داود",
           "has_id": NaN,
           "subj_added": false
@@ -47,8 +47,8 @@
       "chain": [
         {
           "name": "خالد معدان",
-          "person_id": 1495,
-          "canonical_name": "خالد معدان",
+          "person_id": 1553,
+          "canonical_name": "خالد بن معدان",
           "has_id": NaN,
           "subj_added": false
         }
@@ -67,7 +67,7 @@
       "chain": [
         {
           "name": "بورجا عطاردی",
-          "person_id": 781,
+          "person_id": 857,
           "canonical_name": "أبو رجاء العطاردي",
           "has_id": NaN,
           "subj_added": false
@@ -87,7 +87,7 @@
       "chain": [
         {
           "name": "بوطیب خراشی",
-          "person_id": 480,
+          "person_id": 538,
           "canonical_name": "أبو الطيب الخراشي",
           "has_id": NaN,
           "subj_added": false
@@ -107,7 +107,7 @@
       "chain": [
         {
           "name": "اسماعیل عباد",
-          "person_id": 50,
+          "person_id": 68,
           "canonical_name": "اسماعيل عباد",
           "has_id": NaN,
           "subj_added": false
@@ -128,7 +128,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -136,7 +136,7 @@
       "name": "سباع موصلی",
       "relationship_type": "narrator",
       "full_text": "سباع موصلی گوید:",
-      "person_id": 1586,
+      "person_id": 1648,
       "canonical_name": "سباع الموصلي",
       "has_id": 588
     },
@@ -144,7 +144,7 @@
       "name": "داود",
       "relationship_type": "narrator",
       "full_text": "داود گفت ﷷ:",
-      "person_id": 1511,
+      "person_id": 1573,
       "canonical_name": "داود",
       "has_id": NaN
     },
@@ -152,15 +152,15 @@
       "name": "خالد معدان",
       "relationship_type": "narrator",
       "full_text": "خالد معدان گوید:",
-      "person_id": 1495,
-      "canonical_name": "خالد معدان",
+      "person_id": 1553,
+      "canonical_name": "خالد بن معدان",
       "has_id": NaN
     },
     {
       "name": "بومعشر معروف بن احمد الزاهد",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "کی وقتی بومعشر معروف بن احمد الزاهد مات سنه اربع و سبعین فی ربیع الاول بباشان در مسجد بود",
-      "person_id": 1083,
+      "person_id": 1148,
       "canonical_name": "أبو معشر معروف بن أحمد الزاهد",
       "has_id": NaN
     },
@@ -168,7 +168,7 @@
       "name": "جعفر فقیه",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "با جعفر فقیه و بزرگان متفق شدندکه وی خضر بود ﷷ.",
-      "person_id": 1411,
+      "person_id": 1470,
       "canonical_name": "جعفر فقيه",
       "has_id": NaN
     },
@@ -176,7 +176,7 @@
       "name": "خضر",
       "relationship_type": "interlocutor",
       "full_text": "خضرگفت با موسیﷷ ، چون از وی بازگشتگفت: دل بیرایه است نگراز چه پر میکنی؟",
-      "person_id": 145,
+      "person_id": 166,
       "canonical_name": "الخضر",
       "has_id": NaN
     },
@@ -184,7 +184,7 @@
       "name": "موسیﷷ",
       "relationship_type": "interlocutor",
       "full_text": "خضرگفت با موسیﷷ ، چون از وی بازگشتگفت: دل بیرایه است نگراز چه پر میکنی؟",
-      "person_id": 2567,
+      "person_id": 2627,
       "canonical_name": "موسي",
       "has_id": NaN
     },
@@ -192,7 +192,7 @@
       "name": "بورجا عطاردی",
       "relationship_type": "narrator",
       "full_text": "بورجا عطاردی گفت:",
-      "person_id": 781,
+      "person_id": 857,
       "canonical_name": "أبو رجاء العطاردي",
       "has_id": NaN
     },
@@ -200,7 +200,7 @@
       "name": "ابراهیم",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "کی ابراهیم را به آتش انداختند",
-      "person_id": 270,
+      "person_id": 297,
       "canonical_name": "إبراهيم",
       "has_id": NaN
     },
@@ -208,7 +208,7 @@
       "name": "بوطیب خراشی",
       "relationship_type": "narrator",
       "full_text": "بوطیب خراشی گفته عکی باندلس،",
-      "person_id": 480,
+      "person_id": 538,
       "canonical_name": "أبو الطيب الخراشي",
       "has_id": NaN
     },
@@ -216,7 +216,7 @@
       "name": "اسماعیل عباد",
       "relationship_type": "narrator",
       "full_text": "اسماعیل عبادگفت:",
-      "person_id": 50,
+      "person_id": 68,
       "canonical_name": "اسماعيل عباد",
       "has_id": NaN
     }

@@ -2,289 +2,355 @@
   "bio_id": "360",
   "source": "sulami",
   "death_date": {
-    "year_hijri": "~>340",
-    "full_text": "وَمَات بهَا بعد الْأَرْبَعين وثلاثمائة",
-    "certainty": "approximate"
+    "year_hijri": "367",
+    "full_text": "وَمَات سنة سبع وَسِتِّينَ وثلاثمائة",
+    "certainty": "definite"
   },
   "geographical_locations": [
     {
-      "place": "دينور",
+      "place": "نصراباذ",
       "context": "nisba",
-      "full_text": "الدينَوَرِي"
+      "full_text": "النصراباذي"
     },
     {
       "place": "نيسابور",
-      "context": "visited",
-      "full_text": "ورد نيسابور"
+      "context": "nisba",
+      "full_text": "نيسابوري الأَصْل والمنشأ والمولد"
+    },
+    {
+      "place": "نيسابور",
+      "context": "born",
+      "full_text": "نيسابوري الأَصْل والمنشأ والمولد"
     },
     {
       "place": "نيسابور",
       "context": "lived",
-      "full_text": "وَأقَام بهَا مُدَّة"
+      "full_text": "أَقَامَ بنيسابور"
     },
     {
-      "place": "سمرقند",
+      "place": "مَكَّة",
       "context": "visited",
-      "full_text": "ثمَّ رَحل من نيسابور إِلَى سَمَرْقَنْد"
+      "full_text": "خرج فِي آخر عمره إِلَى مَكَّة"
     },
     {
-      "place": "سمرقند",
-      "context": "died",
-      "full_text": "وَمَات بهَا"
+      "place": "الْحرم",
+      "context": "lived",
+      "full_text": "وَأقَام بِالْحرم مجاورا"
+    },
+    {
+      "place": "خُرَاسَان",
+      "context": "mentioned",
+      "full_text": "شيخ خُرَاسَان فِي وقته"
     }
   ],
   "isnads": [
     {
       "chain": [
         {
-          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
-          "person_id": 697,
-          "canonical_name": "أبو بكر محمد بن أحمد بن إبراهيم",
+          "name": "إِبْرَاهِيم بن مُحَمَّد بن محمويه النصراباذي الصُّوفِي",
+          "person_id": 608,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        },
+        {
+          "name": "أَحْمد ابْن مُحَمَّد بن فضَالة الطوسي",
+          "person_id": 1323,
+          "canonical_name": "أحمد بن محمد بن فضالة الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
-          "name": "أبي الْعَبَّاس الدينَوَرِي",
-          "person_id": 488,
-          "canonical_name": "أبو العباس أحمد الدينوري",
-          "has_id": 338,
+          "name": "أَحْمد بن ثَقِيف",
+          "person_id": 1245,
+          "canonical_name": "أحمد بن ثقيف",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "حَفْص بن يحيى",
+          "person_id": 1525,
+          "canonical_name": "حفص بن يحيى",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "خَارِجَة بن مُصعب",
+          "person_id": 1549,
+          "canonical_name": "خارجة بن مصعب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "أَيُّوب",
+          "person_id": 1375,
+          "canonical_name": "أيوب",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "يحيى بن أبي كثير",
+          "person_id": 2693,
+          "canonical_name": "يحيى بن أبي كثير",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "فَاطِمَة بنت قيس",
+          "person_id": 2229,
+          "canonical_name": "فاطمة بنت قيس",
+          "has_id": NaN,
+          "subj_added": false
+        },
+        {
+          "name": "النَّبِي ﷺ",
+          "person_id": 272,
+          "canonical_name": "النبي",
+          "has_id": NaN,
           "subj_added": false
         }
       ],
       "type": "explicit",
-      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم يَقُول دخلت على أبي الْعَبَّاس الدينَوَرِي",
+      "full_text": "حَدثنَا إِبْرَاهِيم بن مُحَمَّد بن محمويه النصراباذي الصُّوفِي قَالَ حَدثنَا أَحْمد\nابْن مُحَمَّد بن فضَالة الطوسي قَالَ حَدثنَا أَحْمد بن ثَقِيف قَالَ حَدثنَا حَفْص بن يحيى عَن خَارِجَة بن مُصعب عَن أَيُّوب عَن يحيى بن أبي كثير عَن فَاطِمَة بنت قيس عَن النَّبِي ﷺ",
       "refers_to_previous": false
     },
     {
       "chain": [
         {
-          "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
-          "person_id": 697,
-          "canonical_name": "أبو بكر محمد بن أحمد بن إبراهيم",
-          "has_id": NaN,
-          "subj_added": false
-        },
-        {
-          "name": "أبي الْعَبَّاس الدينَوَرِي",
-          "person_id": 488,
-          "canonical_name": "أبو العباس أحمد الدينوري",
-          "has_id": 338,
+          "name": "أَبَا الْقَاسِم النصراباذي",
+          "person_id": 608,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
           "subj_added": false
         }
       ],
-      "type": "bi-isnadihi",
-      "full_text": "وسمعته يَقُول قَالَ أَبُو الْعَبَّاس الدينَوَرِي",
-      "refers_to_previous": true
-    },
-    {
-      "chain": [
-        {
-          "name": "عبد الله بن عَليّ الطوسي",
-          "person_id": 1108,
-          "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
-          "has_id": NaN,
-          "subj_added": false
-        },
-        {
-          "name": "أَبُو الْعَبَّاس الدينَوَرِي",
-          "person_id": 488,
-          "canonical_name": "أبو العباس أحمد الدينوري",
-          "has_id": 338,
-          "subj_added": false
-        }
-      ],
-      "type": "explicit",
-      "full_text": "سَمِعت عبد الله بن عَليّ الطوسي يَقُول قَالَ أَبُو الْعَبَّاس الدينَوَرِي",
+      "type": "single_informant",
+      "full_text": "سَمِعت أَبَا الْقَاسِم النصراباذي يَقُول",
       "refers_to_previous": false
     },
     {
       "chain": [
         {
-          "name": "عبد الله بن مُحَمَّد الْمعلم",
-          "person_id": 1061,
-          "canonical_name": "أبو محمد عبد الله بن محمد المعلم النيسابوري",
-          "has_id": NaN,
-          "subj_added": false
-        },
-        {
-          "name": "أَبُو الْعَبَّاس الدينَوَرِي",
-          "person_id": 488,
-          "canonical_name": "أبو العباس أحمد الدينوري",
-          "has_id": 338,
+          "name": "النصراباذي",
+          "person_id": 608,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
           "subj_added": false
         }
       ],
-      "type": "explicit",
-      "full_text": "وَرَأَيْت بِخَط عبد الله بن مُحَمَّد الْمعلم قَالَ أَبُو الْعَبَّاس الدينَوَرِي",
+      "type": "single_informant",
+      "full_text": "وَسمعت النصراباذي يَقُول",
       "refers_to_previous": false
     },
     {
       "chain": [
         {
-          "name": "عبد الله بن مُحَمَّد الْمعلم",
-          "person_id": 1061,
-          "canonical_name": "أبو محمد عبد الله بن محمد المعلم النيسابوري",
-          "has_id": NaN,
-          "subj_added": false
-        },
-        {
-          "name": "أَبُو الْعَبَّاس الدينَوَرِي",
-          "person_id": 488,
-          "canonical_name": "أبو العباس أحمد الدينوري",
-          "has_id": 338,
+          "name": "أَبَا الْقَاسِم النصراباذي",
+          "person_id": 608,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
           "subj_added": false
         }
       ],
-      "type": "bi-isnadihi",
-      "full_text": "وَبِه قَالَ أَبُو الْعَبَّاس الدينَوَرِي",
-      "refers_to_previous": true
-    },
-    {
-      "chain": [
-        {
-          "name": "عبد الله بن مُحَمَّد الْمعلم",
-          "person_id": 1061,
-          "canonical_name": "أبو محمد عبد الله بن محمد المعلم النيسابوري",
-          "has_id": NaN,
-          "subj_added": false
-        },
-        {
-          "name": "أَبُو الْعَبَّاس الدينَوَرِي",
-          "person_id": 488,
-          "canonical_name": "أبو العباس أحمد الدينوري",
-          "has_id": 338,
-          "subj_added": false
-        }
-      ],
-      "type": "bi-isnadihi",
-      "full_text": "وَبِه قَالَ أَبُو الْعَبَّاس الدينَوَرِي",
-      "refers_to_previous": true
-    },
-    {
-      "chain": [
-        {
-          "name": "عبد الله بن مُحَمَّد الْمعلم",
-          "person_id": 1061,
-          "canonical_name": "أبو محمد عبد الله بن محمد المعلم النيسابوري",
-          "has_id": NaN,
-          "subj_added": false
-        },
-        {
-          "name": "أَبُو الْعَبَّاس الدينَوَرِي",
-          "person_id": 488,
-          "canonical_name": "أبو العباس أحمد الدينوري",
-          "has_id": 338,
-          "subj_added": false
-        }
-      ],
-      "type": "bi-isnadihi",
-      "full_text": "وَبِه قَالَ أَبُو الْعَبَّاس الدينَوَرِي",
-      "refers_to_previous": true
-    },
-    {
-      "chain": [
-        {
-          "name": "عبد الله بن مُحَمَّد الْمعلم",
-          "person_id": 1061,
-          "canonical_name": "أبو محمد عبد الله بن محمد المعلم النيسابوري",
-          "has_id": NaN,
-          "subj_added": false
-        },
-        {
-          "name": "أَبُو الْعَبَّاس الدينَوَرِي",
-          "person_id": 488,
-          "canonical_name": "أبو العباس أحمد الدينوري",
-          "has_id": 338,
-          "subj_added": false
-        }
-      ],
-      "type": "bi-isnadihi",
-      "full_text": "وَبِه قَالَ أَبُو الْعَبَّاس الدينَوَرِي",
-      "refers_to_previous": true
-    },
-    {
-      "chain": [
-        {
-          "name": "أبي ﵀",
-          "person_id": 580,
-          "canonical_name": "أبو أبي عبد الرحمن السلمي",
-          "has_id": NaN,
-          "subj_added": false
-        },
-        {
-          "name": "أَبُو الْعَبَّاس الدينَوَرِي",
-          "person_id": 488,
-          "canonical_name": "أبو العباس أحمد الدينوري",
-          "has_id": 338,
-          "subj_added": false
-        }
-      ],
-      "type": "explicit",
-      "full_text": "وَرَأَيْت بِخَط أبي ﵀ قَالَ أَبُو الْعَبَّاس الدينَوَرِي",
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا الْقَاسِم النصراباذي يَقُول",
       "refers_to_previous": false
     },
     {
       "chain": [
         {
-          "name": "أبي ﵀",
-          "person_id": 580,
-          "canonical_name": "أبو أبي عبد الرحمن السلمي",
-          "has_id": NaN,
-          "subj_added": false
-        },
-        {
-          "name": "أَبُو الْعَبَّاس الدينَوَرِي",
-          "person_id": 488,
-          "canonical_name": "أبو العباس أحمد الدينوري",
-          "has_id": 338,
+          "name": "أَبَا الْقَاسِم النصراباذي",
+          "person_id": 608,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
           "subj_added": false
         }
       ],
-      "type": "bi-isnadihi",
-      "full_text": "وَبِه قَالَ أَبُو الْعَبَّاس الدينَوَرِي",
-      "refers_to_previous": true
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا الْقَاسِم النصراباذي يَقُول",
+      "refers_to_previous": false
     },
     {
       "chain": [
         {
-          "name": "أبي ﵀",
-          "person_id": 580,
-          "canonical_name": "أبو أبي عبد الرحمن السلمي",
-          "has_id": NaN,
-          "subj_added": false
-        },
-        {
-          "name": "أَبُو الْعَبَّاس الدينَوَرِي",
-          "person_id": 488,
-          "canonical_name": "أبو العباس أحمد الدينوري",
-          "has_id": 338,
+          "name": "النصراباذي",
+          "person_id": 608,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
           "subj_added": false
         }
       ],
-      "type": "bi-isnadihi",
-      "full_text": "وَبِه قَالَ أَبُو الْعَبَّاس",
-      "refers_to_previous": true
+      "type": "single_informant",
+      "full_text": "وَسمعت النصراباذي يَقُول",
+      "refers_to_previous": false
     },
     {
       "chain": [
         {
-          "name": "أبي ﵀",
-          "person_id": 580,
-          "canonical_name": "أبو أبي عبد الرحمن السلمي",
-          "has_id": NaN,
-          "subj_added": false
-        },
-        {
-          "name": "أَبُو الْعَبَّاس الدينَوَرِي",
-          "person_id": 488,
-          "canonical_name": "أبو العباس أحمد الدينوري",
-          "has_id": 338,
+          "name": "النصراباذي",
+          "person_id": 608,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
           "subj_added": false
         }
       ],
-      "type": "bi-isnadihi",
-      "full_text": "وَبِه قَالَ أَبُو الْعَبَّاس",
-      "refers_to_previous": true
+      "type": "single_informant",
+      "full_text": "وَسمعت النصراباذي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "النصراباذي",
+          "person_id": 608,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت النصراباذي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم",
+          "person_id": 608,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا الْقَاسِم وَسُئِلَ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم",
+          "person_id": 608,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا الْقَاسِم وَقيل لَهُ",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم النصراباذي",
+          "person_id": 608,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "سَمِعت أَبَا الْقَاسِم النصراباذي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "النصراباذي",
+          "person_id": 608,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وسمعته يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "النصراباذي",
+          "person_id": 608,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وسمعته يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم النصراباذي",
+          "person_id": 608,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا الْقَاسِم النصراباذي يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم",
+          "person_id": 608,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا الْقَاسِم يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم",
+          "person_id": 608,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا الْقَاسِم يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم",
+          "person_id": 608,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا الْقَاسِم يَقُول",
+      "refers_to_previous": false
+    },
+    {
+      "chain": [
+        {
+          "name": "أَبَا الْقَاسِم النصراباذي",
+          "person_id": 608,
+          "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+          "has_id": 360,
+          "subj_added": false
+        }
+      ],
+      "type": "single_informant",
+      "full_text": "وَسمعت أَبَا الْقَاسِم النصراباذي يَقُول",
+      "refers_to_previous": false
     }
   ],
   "relationships": {
@@ -292,85 +358,42 @@
     "students": [],
     "companions": [
       {
-        "name": "يُوسُف بن الْحُسَيْن",
+        "name": "أَبَا بكر الشبلي",
         "relationship_type": "peer",
-        "relationship_phrase": "صحب",
-        "full_text": "صحب يُوسُف بن الْحُسَيْن",
-        "person_id": 1140,
-        "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
-        "has_id": 847
+        "relationship_phrase": "صَحب",
+        "full_text": "وَصَحب أَبَا بكر الشبلي",
+        "person_id": 699,
+        "canonical_name": "أبو بكر الشبلي",
+        "has_id": 376
       },
       {
-        "name": "عبد الله الخراز",
+        "name": "أَبا عَليّ الرُّوذَبَارِي",
         "relationship_type": "peer",
-        "relationship_phrase": "صحب",
-        "full_text": "صحب ... وَعبد الله الخراز",
-        "person_id": 1791,
-        "canonical_name": "عبد الله بن محمد الخراز الرازي",
-        "has_id": 653
+        "relationship_phrase": "صَحب",
+        "full_text": "وَأَبا عَليّ الرُّوذَبَارِي",
+        "person_id": 1031,
+        "canonical_name": "أبو علي الروذباري",
+        "has_id": 422
       },
       {
-        "name": "أَبا مُحَمَّد الْجريرِي",
+        "name": "أَبا مُحَمَّد المرتعش",
         "relationship_type": "peer",
-        "relationship_phrase": "صحب",
-        "full_text": "صحب ... وَأَبا مُحَمَّد الْجريرِي",
-        "person_id": 1035,
-        "canonical_name": "أبو محمد الجريري",
-        "has_id": 431
-      },
-      {
-        "name": "أَبا الْعَبَّاس بن عَطاء",
-        "relationship_type": "peer",
-        "relationship_phrase": "صحب",
-        "full_text": "صحب ... وَأَبا الْعَبَّاس بن عَطاء",
-        "person_id": 498,
-        "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
-        "has_id": 340
-      },
-      {
-        "name": "رويما",
-        "relationship_type": "peer",
-        "relationship_phrase": "لقي",
-        "full_text": "وَلَقي رويما",
-        "person_id": 1553,
-        "canonical_name": "رويم بن أحمد",
-        "has_id": 578
+        "relationship_phrase": "صَحب",
+        "full_text": "وَأَبا مُحَمَّد المرتعش",
+        "person_id": 1128,
+        "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
+        "has_id": 251
       }
     ]
   },
   "associates": [
     {
-      "name": "أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم",
+      "name": "أَبَا الْقَاسِم النصراباذي",
       "relationship_type": "narrator",
-      "context": "questioner",
-      "full_text": "سَمِعت أَبَا بكر مُحَمَّد بن أَحْمد بن إِبْرَاهِيم يَقُول",
-      "person_id": 697,
-      "canonical_name": "أبو بكر محمد بن أحمد بن إبراهيم",
-      "has_id": NaN
-    },
-    {
-      "name": "عبد الله بن عَليّ الطوسي",
-      "relationship_type": "narrator",
-      "full_text": "سَمِعت عبد الله بن عَليّ الطوسي يَقُول",
-      "person_id": 1108,
-      "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
-      "has_id": NaN
-    },
-    {
-      "name": "عبد الله بن مُحَمَّد الْمعلم",
-      "relationship_type": "narrator",
-      "full_text": "وَرَأَيْت بِخَط عبد الله بن مُحَمَّد الْمعلم",
-      "person_id": 1061,
-      "canonical_name": "أبو محمد عبد الله بن محمد المعلم النيسابوري",
-      "has_id": NaN
-    },
-    {
-      "name": "أبي ﵀",
-      "relationship_type": "narrator",
-      "full_text": "وَرَأَيْت بِخَط أبي ﵀",
-      "person_id": 580,
-      "canonical_name": "أبو أبي عبد الرحمن السلمي",
-      "has_id": NaN
+      "full_text": "سَمِعت أَبَا الْقَاسِم النصراباذي يَقُول",
+      "person_id": 608,
+      "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
+      "has_id": 360
     }
   ]
 }

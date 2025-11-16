@@ -14,14 +14,14 @@
       "chain": [
         {
           "name": "أبا محمد بن عبد الله بن محمد بن جعفر",
-          "person_id": 1052,
+          "person_id": 1118,
           "canonical_name": "أبو محمد بن عبد الله بن محمد بن جعفر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عبد الله عمرو بن عثمان المكي",
-          "person_id": 2126,
+          "person_id": 2192,
           "canonical_name": "عمرو بن عثمان المكي",
           "has_id": 716,
           "subj_added": false
@@ -35,14 +35,14 @@
       "chain": [
         {
           "name": "أبا محمد عبد الله بن محمد",
-          "person_id": 1058,
+          "person_id": 1124,
           "canonical_name": "أبو محمد عبد الله بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمرو بن عثمان",
-          "person_id": 2126,
+          "person_id": 2192,
           "canonical_name": "عمرو بن عثمان المكي",
           "has_id": 716,
           "subj_added": false
@@ -56,14 +56,14 @@
       "chain": [
         {
           "name": "أبا محمد عبد الله بن محمد بن جعفر",
-          "person_id": 1062,
+          "person_id": 1130,
           "canonical_name": "أبو محمد عبد الله بن محمد بن جعفر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمرو بن عثمان المكي",
-          "person_id": 2126,
+          "person_id": 2192,
           "canonical_name": "عمرو بن عثمان المكي",
           "has_id": 716,
           "subj_added": false
@@ -77,14 +77,14 @@
       "chain": [
         {
           "name": "أبا محمد عبد الله بن محمد",
-          "person_id": 1058,
+          "person_id": 1124,
           "canonical_name": "أبو محمد عبد الله بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمرو بن عثمان",
-          "person_id": 2126,
+          "person_id": 2192,
           "canonical_name": "عمرو بن عثمان المكي",
           "has_id": 716,
           "subj_added": false
@@ -98,14 +98,14 @@
       "chain": [
         {
           "name": "أبا محمد",
-          "person_id": 1033,
+          "person_id": 1102,
           "canonical_name": "أبو محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمرو بن عثمان",
-          "person_id": 2126,
+          "person_id": 2192,
           "canonical_name": "عمرو بن عثمان المكي",
           "has_id": 716,
           "subj_added": false
@@ -119,14 +119,14 @@
       "chain": [
         {
           "name": "الشيخ",
-          "person_id": 169,
+          "person_id": 191,
           "canonical_name": "الشيخ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2126,
+          "person_id": 2192,
           "canonical_name": "عمرو بن عثمان المكي",
           "has_id": 716,
           "subj_added": true
@@ -140,21 +140,21 @@
       "chain": [
         {
           "name": "عبد الله بن محمد",
-          "person_id": 1855,
+          "person_id": 1924,
           "canonical_name": "عبد الله بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمرو بن عثمان",
-          "person_id": 2126,
+          "person_id": 2192,
           "canonical_name": "عمرو بن عثمان المكي",
           "has_id": 716,
           "subj_added": false
         },
         {
           "name": "يونس بن عبد الأعلى",
-          "person_id": 2687,
+          "person_id": 2745,
           "canonical_name": "يونس بن عبد الأعلى",
           "has_id": NaN,
           "subj_added": false
@@ -162,27 +162,27 @@
         {
           "name": "ابن عيينة",
           "has_id": NaN,
-          "person_id": 29,
+          "person_id": 44,
           "canonical_name": "ابن عيينة",
           "subj_added": false
         },
         {
           "name": "ابن عجلان",
           "has_id": NaN,
-          "person_id": 103,
-          "canonical_name": "الحسن بن ناصح المخرمي",
+          "person_id": 39,
+          "canonical_name": "ابن عجلان",
           "subj_added": false
         },
         {
           "name": "أبيه",
-          "person_id": 1149,
+          "person_id": 1212,
           "canonical_name": "أبوه",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي هريرة",
-          "person_id": 1120,
+          "person_id": 1185,
           "canonical_name": "أبو هريرة",
           "has_id": NaN,
           "subj_added": false
@@ -203,7 +203,7 @@
       "name": "أبا محمد بن عبد الله بن محمد بن جعفر",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا محمد بن عبد الله بن محمد بن جعفر يقول",
-      "person_id": 1052,
+      "person_id": 1118,
       "canonical_name": "أبو محمد بن عبد الله بن محمد بن جعفر",
       "has_id": NaN
     },
@@ -212,7 +212,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "questioner",
       "full_text": "في جواب مسألة سئل عنها يخاطب السائل",
-      "person_id": 159,
+      "person_id": 181,
       "canonical_name": "السائل",
       "has_id": NaN
     },
@@ -220,7 +220,7 @@
       "name": "أبا محمد عبد الله بن محمد",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا محمد عبد الله بن محمد يقول",
-      "person_id": 1058,
+      "person_id": 1124,
       "canonical_name": "أبو محمد عبد الله بن محمد",
       "has_id": NaN
     },
@@ -228,7 +228,7 @@
       "name": "أبا محمد",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا محمد يقول",
-      "person_id": 1033,
+      "person_id": 1102,
       "canonical_name": "أبو محمد",
       "has_id": NaN
     },
@@ -236,7 +236,7 @@
       "name": "عبد الله بن محمد",
       "relationship_type": "narrator",
       "full_text": "حدثنا عبد الله بن محمد",
-      "person_id": 1855,
+      "person_id": 1924,
       "canonical_name": "عبد الله بن محمد",
       "has_id": NaN
     },
@@ -244,7 +244,7 @@
       "name": "الشيخ",
       "relationship_type": "narrator",
       "full_text": "قال الشيخ رضي الله تعالى عنه",
-      "person_id": 169,
+      "person_id": 191,
       "canonical_name": "الشيخ",
       "has_id": NaN
     }

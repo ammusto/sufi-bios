@@ -19,17 +19,24 @@
       "chain": [
         {
           "name": "والدى",
-          "person_id": 2614,
-          "canonical_name": "والدى",
+          "person_id": 2675,
+          "canonical_name": "والدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "جعفر الحذاء الشيرازي",
-          "person_id": 727,
+          "person_id": 802,
           "canonical_name": "أبو جعفر الحذاء",
           "has_id": 494,
           "subj_added": false
+        },
+        {
+          "person_id": 623,
+          "canonical_name": "أبو الله عبد خاقان",
+          "has_id": 361,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -53,7 +60,7 @@
       "name": "جعفر الحذاء الشيرازي",
       "relationship_type": "narrator",
       "full_text": "سمعت جعفر الحذاء الشيرازي يقول",
-      "person_id": 727,
+      "person_id": 802,
       "canonical_name": "أبو جعفر الحذاء",
       "has_id": 494
     },
@@ -62,14 +69,14 @@
       "relationship_type": "narrator",
       "full_text": "وذكر أن ابن فضلان الرازي قال",
       "has_id": NaN,
-      "person_id": 32,
+      "person_id": 46,
       "canonical_name": "ابن فضلان الرازي"
     },
     {
       "name": "ثلاثة من الفقراء",
       "relationship_type": "interlocutor",
       "full_text": "قالوا: لا يا أستاذ.",
-      "person_id": 1369,
+      "person_id": 1431,
       "canonical_name": "ثلاثة من الفقراء",
       "has_id": NaN
     }

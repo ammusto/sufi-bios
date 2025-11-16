@@ -14,24 +14,31 @@
       "chain": [
         {
           "name": "عبد الله بن محمد",
-          "person_id": 1855,
+          "person_id": 1924,
           "canonical_name": "عبد الله بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الجبار بن عبد الله",
-          "person_id": 1730,
+          "person_id": 1797,
           "canonical_name": "عبد الجبار بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "آدم بن أبي إياس",
-          "person_id": 1318,
+          "person_id": 1380,
           "canonical_name": "آدم بن أبي إياس",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 165,
+          "canonical_name": "الخادم",
+          "has_id": 234,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -41,11 +48,11 @@
     {
       "chain": [
         {
-          "name": "آدم بن أبي إياس",
-          "person_id": 1318,
-          "canonical_name": "آدم بن أبي إياس",
-          "has_id": NaN,
-          "subj_added": false
+          "name": "",
+          "person_id": 165,
+          "canonical_name": "الخادم",
+          "has_id": 234,
+          "subj_added": true
         }
       ],
       "type": "single_informant",
@@ -60,7 +67,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "يكتب عني",
         "full_text": "كان شاب يكتب عني",
-        "person_id": 1318,
+        "person_id": 1380,
         "canonical_name": "آدم بن أبي إياس",
         "has_id": NaN
       }
@@ -73,7 +80,7 @@
       "name": "آدم بن أبي إياس",
       "relationship_type": "narrator",
       "full_text": "عن آدم بن أبي إياس، قال:",
-      "person_id": 1318,
+      "person_id": 1380,
       "canonical_name": "آدم بن أبي إياس",
       "has_id": NaN
     },
@@ -82,7 +89,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "قرأت على",
       "full_text": "قال قرأت على شيخ ابن حاتم العكلي",
-      "person_id": 19,
+      "person_id": 24,
       "canonical_name": "ابن حاتم العكلي",
       "has_id": NaN
     },
@@ -90,7 +97,7 @@
       "name": "شاب",
       "relationship_type": "interlocutor",
       "full_text": "ثم قال: اشرب",
-      "person_id": 1657,
+      "person_id": 1719,
       "canonical_name": "شاب",
       "has_id": NaN
     }

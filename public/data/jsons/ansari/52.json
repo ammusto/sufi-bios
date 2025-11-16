@@ -29,10 +29,17 @@
       "chain": [
         {
           "name": "عباس",
-          "person_id": 1716,
+          "person_id": 1783,
           "canonical_name": "عباس",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 554,
+          "canonical_name": "أبو العباس النسائي",
+          "has_id": 52,
+          "subj_added": true
         }
       ],
       "type": "single_informant",
@@ -55,31 +62,38 @@
       "chain": [
         {
           "name": "شیخ عمو",
-          "person_id": 1683,
+          "person_id": 1747,
           "canonical_name": "شيخ عمو",
           "has_id": 717,
           "subj_added": false
         },
         {
           "name": "شیخ بوالعباس نسوی",
-          "person_id": 500,
+          "person_id": 561,
           "canonical_name": "أبو العباس أحمد بن محمد بن زكريا النسوي",
           "has_id": 107,
           "subj_added": false
         },
         {
           "name": "احمد بن الحسین",
-          "person_id": 1163,
+          "person_id": 1227,
           "canonical_name": "أحمد بن الحسين بن طلاب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابراهیم بن محمد الواعظ",
-          "person_id": 324,
+          "person_id": 350,
           "canonical_name": "إبراهيم بن محمد الواعظ",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 554,
+          "canonical_name": "أبو العباس النسائي",
+          "has_id": 52,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -100,7 +114,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "از ... شنیدم",
         "full_text": "از احمد بن الحسین شنیدم",
-        "person_id": 1161,
+        "person_id": 1225,
         "canonical_name": "أحمد بن الحسين",
         "has_id": NaN
       },
@@ -109,7 +123,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "از ... شنیدم",
         "full_text": "از ابراهیم بن محمد الواعظ شنیدم",
-        "person_id": 324,
+        "person_id": 350,
         "canonical_name": "إبراهيم بن محمد الواعظ",
         "has_id": NaN
       }
@@ -120,7 +134,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "ویرا بمصر دیده بود",
         "full_text": "شیخ عباس ویرا بمصر دیده بود",
-        "person_id": 1716,
+        "person_id": 1783,
         "canonical_name": "عباس",
         "has_id": NaN
       },
@@ -129,7 +143,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "گفت",
         "full_text": "القصه شیخ عموگفت که شیخ بوالعباس نسوی گفت بمکه",
-        "person_id": 1683,
+        "person_id": 1747,
         "canonical_name": "شيخ عمو",
         "has_id": 717
       }
@@ -141,7 +155,7 @@
       "name": "شیخ عباس",
       "relationship_type": "direct_narrator",
       "full_text": "عباس مرا گفت:",
-      "person_id": 1716,
+      "person_id": 1783,
       "canonical_name": "عباس",
       "has_id": NaN
     },
@@ -149,7 +163,7 @@
       "name": "شیخ عمو",
       "relationship_type": "direct_narrator",
       "full_text": "القصه شیخ عموگفت که شیخ بوالعباس نسوی گفت بمکه",
-      "person_id": 1683,
+      "person_id": 1747,
       "canonical_name": "شيخ عمو",
       "has_id": 717
     },
@@ -157,7 +171,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     }

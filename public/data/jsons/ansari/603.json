@@ -14,7 +14,7 @@
       "chain": [
         {
           "name": "سمنون",
-          "person_id": 1634,
+          "person_id": 1695,
           "canonical_name": "سمنون بن حمزة المحب",
           "has_id": 603,
           "subj_added": false
@@ -40,7 +40,7 @@
       "chain": [
         {
           "name": "سمنون",
-          "person_id": 1634,
+          "person_id": 1695,
           "canonical_name": "سمنون بن حمزة المحب",
           "has_id": 603,
           "subj_added": false
@@ -60,29 +60,31 @@
       "chain": [
         {
           "name": "بوعبداللّه مغربی٭",
-          "person_id": 885,
+          "person_id": 960,
           "canonical_name": "أبو عبد الله المغربي",
           "has_id": 416,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1634,
+          "person_id": 1695,
           "canonical_name": "سمنون بن حمزة المحب",
           "has_id": 603,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 1634,
+          "name": "",
+          "person_id": 1695,
           "canonical_name": "سمنون بن حمزة المحب",
-          "has_id": 603
+          "has_id": 603,
+          "subj_added": false
         },
         {
-          "name": NaN,
-          "person_id": 1634,
+          "name": "",
+          "person_id": 1695,
           "canonical_name": "سمنون بن حمزة المحب",
-          "has_id": 603
+          "has_id": 603,
+          "subj_added": false
         }
       ],
       "type": "single_informant",
@@ -109,7 +111,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده",
         "full_text": "باسری سقطی صحبت کرده",
-        "person_id": 161,
+        "person_id": 183,
         "canonical_name": "السري السقطي",
         "has_id": 236
       },
@@ -118,7 +120,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده",
         "full_text": "باسری سقطی صحبت کرده و محمدعلی قصاب",
-        "person_id": 2412,
+        "person_id": 2474,
         "canonical_name": "محمد بن علي القصاب",
         "has_id": NaN
       },
@@ -127,7 +129,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده",
         "full_text": "باسری سقطی صحبت کرده و محمدعلی قصاب و ابواحمد القلانسی٭.",
-        "person_id": 591,
+        "person_id": 662,
         "canonical_name": "أبو أحمد القلانسي",
         "has_id": 371
       }
@@ -139,7 +141,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اقران",
         "full_text": "از اقران جنید و نوریست",
-        "person_id": 532,
+        "person_id": 595,
         "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
         "has_id": 228
       },
@@ -148,7 +150,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اقران",
         "full_text": "از اقران جنید و نوریست",
-        "person_id": 452,
+        "person_id": 510,
         "canonical_name": "أبو الحسين النوري",
         "has_id": 439
       }
@@ -159,7 +161,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ الاسلام گفت: که روزی سمنون گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     }

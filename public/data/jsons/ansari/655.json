@@ -17,7 +17,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "استاد",
         "full_text": "استاد باحفص حداد است",
-        "person_id": 759,
+        "person_id": 836,
         "canonical_name": "أبو حفص الحداد النيسابوري",
         "has_id": 715
       }
@@ -31,7 +31,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "reciter",
       "full_text": "نا بینائی بر در دکان بگذشت میخواند: المک یومئذن الحق للرحمن، الایه",
-      "person_id": 2574,
+      "person_id": 2634,
       "canonical_name": "نا بينائي",
       "has_id": NaN
     },
@@ -39,7 +39,7 @@
       "name": "شاگردا",
       "relationship_type": "questioner",
       "full_text": "شاگردا: چه شدی؟",
-      "person_id": 1658,
+      "person_id": 1720,
       "canonical_name": "شاگرد",
       "has_id": NaN
     }

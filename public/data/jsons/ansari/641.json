@@ -12,7 +12,7 @@
       "chain": [
         {
           "name": "طلحة بن محمد بن الصباح",
-          "person_id": 1702,
+          "person_id": 1770,
           "canonical_name": "طلحة بن محمد بن الصباح",
           "has_id": NaN,
           "subj_added": false
@@ -32,21 +32,21 @@
       "chain": [
         {
           "name": "بوعثمان نصیبی",
-          "person_id": 937,
+          "person_id": 1009,
           "canonical_name": "أبو عثمان النصيبي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "اسد نصیبی",
-          "person_id": 48,
+          "person_id": 1350,
           "canonical_name": "أسد نصيبي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "شبلی",
-          "person_id": 628,
+          "person_id": 699,
           "canonical_name": "أبو بكر الشبلي",
           "has_id": 376,
           "subj_added": false
@@ -66,7 +66,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "من کبار اصحاب",
         "full_text": "النبلی، کنیه ابومحمد، من کبار اصحاب ابی عثمان حیری٭",
-        "person_id": 932,
+        "person_id": 1013,
         "canonical_name": "أبو عثمان سعيد بن إسماعيل الحيري",
         "has_id": 419
       }
@@ -77,7 +77,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت، که",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -85,7 +85,7 @@
       "name": "بوعثمان نصیبی",
       "relationship_type": "narrator",
       "full_text": "بوعثمان نصیبی گفت:",
-      "person_id": 937,
+      "person_id": 1009,
       "canonical_name": "أبو عثمان النصيبي",
       "has_id": NaN
     },
@@ -93,7 +93,7 @@
       "name": "اسد نصیبی",
       "relationship_type": "narrator",
       "full_text": "اسد نصیبی گفت",
-      "person_id": 48,
+      "person_id": 1350,
       "canonical_name": "أسد نصيبي",
       "has_id": NaN
     },
@@ -101,7 +101,7 @@
       "name": "شبلی",
       "relationship_type": "narrator",
       "full_text": "شبلی گفت: که دست بسر با یعقوب میدانی فرود آوردم، درآن وقت بود که بمصر میشدم",
-      "person_id": 628,
+      "person_id": 699,
       "canonical_name": "أبو بكر الشبلي",
       "has_id": 376
     },
@@ -110,7 +110,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "interlocutor",
       "full_text": "دست بسر با یعقوب میدانی فرود آوردم",
-      "person_id": 2666,
+      "person_id": 1201,
       "canonical_name": "أبو يعقوب الميداني",
       "has_id": 466
     }

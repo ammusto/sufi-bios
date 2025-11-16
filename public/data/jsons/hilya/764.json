@@ -19,14 +19,14 @@
       "chain": [
         {
           "name": "جعفر بن محمد",
-          "person_id": 1404,
-          "canonical_name": "جعفر بن محمد",
+          "person_id": 1464,
+          "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2216,
+          "person_id": 2282,
           "canonical_name": "محمد السمين",
           "has_id": 764,
           "subj_added": true
@@ -40,21 +40,21 @@
       "chain": [
         {
           "name": "محمد بن إبراهيم",
-          "person_id": 2269,
+          "person_id": 2334,
           "canonical_name": "محمد بن إبراهيم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
         },
         {
           "name": "محمد السمين",
-          "person_id": 2216,
+          "person_id": 2282,
           "canonical_name": "محمد السمين",
           "has_id": 764,
           "subj_added": false
@@ -68,35 +68,35 @@
       "chain": [
         {
           "name": "محمد بن الحسين بن موسى",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "محمد بن الحسن البغدادي",
-          "person_id": 2226,
+          "person_id": 2292,
           "canonical_name": "محمد بن الحسن البغدادي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن عبد الله الفرغاني",
-          "person_id": 2383,
+          "person_id": 2446,
           "canonical_name": "محمد بن عبد الله الفرغاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مؤملا المغازلى",
-          "person_id": 2571,
+          "person_id": 2631,
           "canonical_name": "مؤملا المغازلى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2216,
+          "person_id": 2282,
           "canonical_name": "محمد السمين",
           "has_id": 764,
           "subj_added": true
@@ -116,7 +116,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "كنت أصحب",
         "full_text": "كنت أصحب محمد السمين فسافرت معه حتى بلغنا ما بين تكريت وموصل",
-        "person_id": 2571,
+        "person_id": 2631,
         "canonical_name": "مؤملا المغازلى",
         "has_id": NaN
       }
@@ -127,15 +127,15 @@
       "name": "جعفر بن محمد",
       "relationship_type": "narrator",
       "full_text": "أخبر جعفر بن محمد في كتابه",
-      "person_id": 1404,
-      "canonical_name": "جعفر بن محمد",
+      "person_id": 1464,
+      "canonical_name": "جعفر بن محمد الخلدي",
       "has_id": 495
     },
     {
       "name": "الجنيد بن محمد",
       "relationship_type": "narrator",
       "full_text": "سمعت الجنيد بن محمد يقول",
-      "person_id": 532,
+      "person_id": 595,
       "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
       "has_id": 228
     },
@@ -143,7 +143,7 @@
       "name": "مؤملا المغازلى",
       "relationship_type": "narrator",
       "full_text": "سمعت مؤملا المغازلى يقول",
-      "person_id": 2571,
+      "person_id": 2631,
       "canonical_name": "مؤملا المغازلى",
       "has_id": NaN
     }

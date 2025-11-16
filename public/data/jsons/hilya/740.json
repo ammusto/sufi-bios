@@ -19,35 +19,35 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن محمد بن عمر",
-          "person_id": 1259,
+          "person_id": 1321,
           "canonical_name": "أحمد بن محمد بن عمر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر بن سفيان",
-          "person_id": 671,
+          "person_id": 741,
           "canonical_name": "أبو بكر بن سفيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن الحسين",
-          "person_id": 2239,
+          "person_id": 2304,
           "canonical_name": "محمد بن الحسين البرجلاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "قادم الديلمي العابد",
-          "person_id": 2175,
+          "person_id": 2241,
           "canonical_name": "قادم الديلمي",
           "has_id": 740,
           "subj_added": false
@@ -61,42 +61,42 @@
       "chain": [
         {
           "name": "أبو بكر الآجري",
-          "person_id": 689,
+          "person_id": 762,
           "canonical_name": "أبو بكر محمد بن الحسين الآجري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن محمد",
-          "person_id": 1855,
+          "person_id": 1924,
           "canonical_name": "عبد الله بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إبراهيم بن الجنيد",
-          "person_id": 292,
+          "person_id": 318,
           "canonical_name": "إبراهيم بن الجنيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن همام",
-          "person_id": 1281,
+          "person_id": 1341,
           "canonical_name": "أحمد بن همام",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن الحسين",
-          "person_id": 2239,
+          "person_id": 2304,
           "canonical_name": "محمد بن الحسين البرجلاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "قادم الديلمي",
-          "person_id": 2175,
+          "person_id": 2241,
           "canonical_name": "قادم الديلمي",
           "has_id": 740,
           "subj_added": false
@@ -110,14 +110,14 @@
       "chain": [
         {
           "name": "قادم الديلمي",
-          "person_id": 2175,
+          "person_id": 2241,
           "canonical_name": "قادم الديلمي",
           "has_id": 740,
           "subj_added": false
         },
         {
           "name": "عابد قدم علينا بخارى يكنى أبا الحسن",
-          "person_id": 1705,
+          "person_id": 1773,
           "canonical_name": "عابد قدم علينا بخارى يكنى أبو الحسن",
           "has_id": NaN,
           "subj_added": false
@@ -131,21 +131,21 @@
       "chain": [
         {
           "name": "عابد قدم علينا بخارى يكنى أبا الحسن",
-          "person_id": 1705,
+          "person_id": 1773,
           "canonical_name": "عابد قدم علينا بخارى يكنى أبو الحسن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "راهب",
-          "person_id": 1524,
+          "person_id": 1587,
           "canonical_name": "راهب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2175,
+          "person_id": 2241,
           "canonical_name": "قادم الديلمي",
           "has_id": 740,
           "subj_added": true
@@ -165,7 +165,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب الفضيل بن عياض وأقرانه",
-        "person_id": 200,
+        "person_id": 225,
         "canonical_name": "الفضيل بن عياض",
         "has_id": 243
       }
@@ -176,7 +176,7 @@
       "name": "محمد بن الحسين",
       "relationship_type": "narrator",
       "full_text": "حدثني محمد بن الحسين",
-      "person_id": 845,
+      "person_id": 922,
       "canonical_name": "أبو عبد الرحمن السلمي",
       "has_id": 133
     },
@@ -184,7 +184,7 @@
       "name": "الفضيل بن عياض",
       "relationship_type": "interlocutor",
       "full_text": "قلت للفضيل بن عياض",
-      "person_id": 200,
+      "person_id": 225,
       "canonical_name": "الفضيل بن عياض",
       "has_id": 243
     },
@@ -192,7 +192,7 @@
       "name": "عابد قدم علينا بخارى يكنى أبا الحسن",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "حدثني عابد قدم علينا بخارى يكنى أبا الحسن",
-      "person_id": 1705,
+      "person_id": 1773,
       "canonical_name": "عابد قدم علينا بخارى يكنى أبو الحسن",
       "has_id": NaN
     },
@@ -200,7 +200,7 @@
       "name": "راهب",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "قال لي راهب يوما",
-      "person_id": 1524,
+      "person_id": 1587,
       "canonical_name": "راهب",
       "has_id": NaN
     }

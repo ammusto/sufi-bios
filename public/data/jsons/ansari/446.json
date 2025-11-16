@@ -14,8 +14,8 @@
       "chain": [
         {
           "name": "احمد بن عاصم الانطاکی",
-          "person_id": 1217,
-          "canonical_name": "أحمد بن عصام الأنطاكي",
+          "person_id": 1272,
+          "canonical_name": "أحمد بن عاصم الأنطاكي",
           "has_id": 446,
           "subj_added": false
         }
@@ -28,8 +28,8 @@
       "chain": [
         {
           "name": "احمد بن عاصم الانطاکی",
-          "person_id": 1217,
-          "canonical_name": "أحمد بن عصام الأنطاكي",
+          "person_id": 1272,
+          "canonical_name": "أحمد بن عاصم الأنطاكي",
           "has_id": 446,
           "subj_added": false
         }
@@ -42,8 +42,8 @@
       "chain": [
         {
           "name": "احمد بن عاصم الانطاکی",
-          "person_id": 1217,
-          "canonical_name": "أحمد بن عصام الأنطاكي",
+          "person_id": 1272,
+          "canonical_name": "أحمد بن عاصم الأنطاكي",
           "has_id": 446,
           "subj_added": false
         }
@@ -56,15 +56,15 @@
       "chain": [
         {
           "name": "نصرآبادی",
-          "person_id": 545,
+          "person_id": 608,
           "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
           "has_id": 360,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1217,
-          "canonical_name": "أحمد بن عصام الأنطاكي",
+          "person_id": 1272,
+          "canonical_name": "أحمد بن عاصم الأنطاكي",
           "has_id": 446,
           "subj_added": true
         }
@@ -77,15 +77,15 @@
       "chain": [
         {
           "name": "احمد عاصم",
-          "person_id": 1207,
+          "person_id": 1271,
           "canonical_name": "أحمد بن عاصم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1217,
-          "canonical_name": "أحمد بن عصام الأنطاكي",
+          "person_id": 1272,
+          "canonical_name": "أحمد بن عاصم الأنطاكي",
           "has_id": 446,
           "subj_added": true
         }
@@ -98,15 +98,15 @@
       "chain": [
         {
           "name": "احمد بواحواری",
-          "person_id": 1177,
+          "person_id": 1241,
           "canonical_name": "أحمد بن أبي الحواري",
           "has_id": 442,
           "subj_added": false
         },
         {
           "name": "احمد بن عاصم الانطاکی",
-          "person_id": 1217,
-          "canonical_name": "أحمد بن عصام الأنطاكي",
+          "person_id": 1272,
+          "canonical_name": "أحمد بن عاصم الأنطاكي",
           "has_id": 446,
           "subj_added": false
         }
@@ -123,7 +123,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده بود",
         "full_text": "وگفتندکی فضیل عیاض دیده بود",
-        "person_id": 200,
+        "person_id": 225,
         "canonical_name": "الفضيل بن عياض",
         "has_id": 243
       }
@@ -134,7 +134,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "از استادان",
         "full_text": "از استادان احمد بن ابی الحواری ٭.",
-        "person_id": 1177,
+        "person_id": 1241,
         "canonical_name": "أحمد بن أبي الحواري",
         "has_id": 442
       }
@@ -145,7 +145,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اقران",
         "full_text": "از اقران بشر حافی و سری و حارث محاسبی ٭",
-        "person_id": 1323,
+        "person_id": 1384,
         "canonical_name": "بشر بن الحارث الحافي",
         "has_id": 470
       },
@@ -154,7 +154,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اقران",
         "full_text": "از اقران بشر حافی و سری و حارث محاسبی ٭",
-        "person_id": 161,
+        "person_id": 183,
         "canonical_name": "السري السقطي",
         "has_id": 236
       },
@@ -163,7 +163,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اقران",
         "full_text": "از اقران بشر حافی و سری و حارث محاسبی ٭",
-        "person_id": 69,
+        "person_id": 87,
         "canonical_name": "الحارث بن أسد المحاسبي",
         "has_id": 229
       }
@@ -174,7 +174,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ الاسلام گفت: که وی گفت.",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -182,7 +182,7 @@
       "name": "نصرآبادی",
       "relationship_type": "direct_narrator",
       "full_text": "نصرآبادی گوید.",
-      "person_id": 545,
+      "person_id": 608,
       "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
       "has_id": 360
     },
@@ -190,7 +190,7 @@
       "name": "احمد بواحواری",
       "relationship_type": "direct_narrator",
       "full_text": "و احمد بواحواری گویدکه وی گفت.",
-      "person_id": 1177,
+      "person_id": 1241,
       "canonical_name": "أحمد بن أبي الحواري",
       "has_id": 442
     }

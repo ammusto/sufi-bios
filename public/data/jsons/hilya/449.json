@@ -8,59 +8,66 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن أحمد بن يزيد الزهري",
-          "person_id": 2321,
+          "person_id": 2385,
           "canonical_name": "محمد بن أحمد بن يزيد الزهري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو عيسى",
-          "person_id": 1025,
+          "person_id": 1093,
           "canonical_name": "أبو عيسى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الأصمعي",
-          "person_id": 1891,
+          "person_id": 1960,
           "canonical_name": "عبد الملك بن قريب الأصمعي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو طلحة",
-          "person_id": 836,
+          "person_id": 914,
           "canonical_name": "أبو طلحة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو الرجال",
-          "person_id": 477,
+          "person_id": 535,
           "canonical_name": "أبو الرجال",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمرة",
-          "person_id": 2118,
+          "person_id": 2184,
           "canonical_name": "عمرة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عائشة",
-          "person_id": 1710,
+          "person_id": 1778,
           "canonical_name": "عائشة",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "person_id": 1308,
+          "canonical_name": "أحمد بن محمد بن إسحاق",
+          "has_id": 449,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -78,7 +85,7 @@
         "relationship_phrase": "ختن",
         "full_text": "ختن ابن رجاء بن صهيب.",
         "has_id": NaN,
-        "person_id": 74,
+        "person_id": 29,
         "canonical_name": "ابن رجاء بن صهيب"
       }
     ]

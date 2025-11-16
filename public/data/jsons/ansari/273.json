@@ -23,7 +23,7 @@
       "chain": [
         {
           "name": "ابرهیم بن المولد",
-          "person_id": 298,
+          "person_id": 643,
           "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
           "has_id": 273,
           "subj_added": false
@@ -37,7 +37,7 @@
       "chain": [
         {
           "name": "ابرهیم بن المولد",
-          "person_id": 298,
+          "person_id": 643,
           "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
           "has_id": 273,
           "subj_added": false
@@ -51,7 +51,7 @@
       "chain": [
         {
           "name": "ابرهیم بن المولد",
-          "person_id": 298,
+          "person_id": 643,
           "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
           "has_id": 273,
           "subj_added": false
@@ -65,7 +65,7 @@
       "chain": [
         {
           "name": "ابرهیم بن المولد",
-          "person_id": 298,
+          "person_id": 643,
           "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
           "has_id": 273,
           "subj_added": false
@@ -79,7 +79,7 @@
       "chain": [
         {
           "name": "ابرهیم بن المولد",
-          "person_id": 298,
+          "person_id": 643,
           "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
           "has_id": 273,
           "subj_added": false
@@ -93,7 +93,7 @@
       "chain": [
         {
           "name": "ابرهیم بن المولد",
-          "person_id": 298,
+          "person_id": 643,
           "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
           "has_id": 273,
           "subj_added": false
@@ -107,7 +107,7 @@
       "chain": [
         {
           "name": "ابراهیم مولد",
-          "person_id": 298,
+          "person_id": 643,
           "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
           "has_id": 273,
           "subj_added": false
@@ -133,28 +133,28 @@
       "chain": [
         {
           "name": "بوعبداللّه با کو",
-          "person_id": 15,
+          "person_id": 20,
           "canonical_name": "ابن باكوية الشيرازي",
           "has_id": 150,
           "subj_added": false
         },
         {
           "name": "عبدالواحد بکر",
-          "person_id": 1901,
+          "person_id": 1969,
           "canonical_name": "عبد الواحد بكر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابرهیم اطروش",
-          "person_id": 271,
+          "person_id": 298,
           "canonical_name": "إبراهيم الأطروش",
           "has_id": 1,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 298,
+          "person_id": 643,
           "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
           "has_id": 273,
           "subj_added": true
@@ -174,14 +174,14 @@
       "chain": [
         {
           "name": "شیخ بوالازهر اصطخری",
-          "person_id": 381,
+          "person_id": 429,
           "canonical_name": "أبو الأزهر عبد الواحد بن محمد الإصطخري",
           "has_id": 37,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 298,
+          "person_id": 643,
           "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
           "has_id": 273,
           "subj_added": true
@@ -201,14 +201,14 @@
       "chain": [
         {
           "name": "شیخ محمد قصاب",
-          "person_id": 2217,
+          "person_id": 2283,
           "canonical_name": "محمد القصاب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 298,
+          "person_id": 643,
           "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
           "has_id": 273,
           "subj_added": true
@@ -228,14 +228,14 @@
       "chain": [
         {
           "name": "ابراهیم مرغینانی",
-          "person_id": 287,
+          "person_id": 313,
           "canonical_name": "إبراهيم المرغيناني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 298,
+          "person_id": 643,
           "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
           "has_id": 273,
           "subj_added": true
@@ -253,16 +253,16 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده",
         "full_text": "با شیخ بوعبداللّه جلا صحبت کرده",
-        "person_id": 901,
-        "canonical_name": "أبو عبد الله بن جلاء",
-        "has_id": NaN
+        "person_id": 971,
+        "canonical_name": "أبو عبد الله بن الجلاء",
+        "has_id": 410
       },
       {
         "name": "ابرهیم قصار رقی",
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده",
         "full_text": "با شیخ بوعبداللّه جلا صحبت کرده و بابرهیم قصار رقی،",
-        "person_id": 284,
+        "person_id": 310,
         "canonical_name": "إبراهيم القصار الرقي",
         "has_id": 13
       }
@@ -274,7 +274,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "با",
         "full_text": "براس العین بودم در مسجد بابوبکرکتانی و با شیخ بوحفص گیلی",
-        "person_id": 712,
+        "person_id": 786,
         "canonical_name": "أبو بكر محمد بن علي الكتاني",
         "has_id": 378
       },
@@ -283,7 +283,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "با",
         "full_text": "براس العین بودم در مسجد بابوبکرکتانی و با شیخ بوحفص گیلی",
-        "person_id": 760,
+        "person_id": 837,
         "canonical_name": "أبو حفص الگيلي",
         "has_id": NaN
       }
@@ -294,7 +294,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -303,7 +303,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "brother saw him in a dream",
       "full_text": "برادروی بوالحسن بن احمد ویرا بخواب دید پس وفات، گفت: مرا وصیتی کن.",
-      "person_id": 418,
+      "person_id": 472,
       "canonical_name": "أبو الحسن بن أحمد",
       "has_id": NaN
     },
@@ -311,7 +311,7 @@
       "name": "شیخ بوحفص گیلی",
       "relationship_type": "interlocutor",
       "full_text": "شیخ بوحفص گفت: تیراللّه نظر او بود.",
-      "person_id": 760,
+      "person_id": 837,
       "canonical_name": "أبو حفص الگيلي",
       "has_id": NaN
     },
@@ -319,7 +319,7 @@
       "name": "ابوبکرکتانی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "در مسجد بابوبکرکتانی",
-      "person_id": 712,
+      "person_id": 786,
       "canonical_name": "أبو بكر محمد بن علي الكتاني",
       "has_id": 378
     },
@@ -327,7 +327,7 @@
       "name": "جوانی",
       "relationship_type": "questioner",
       "full_text": "جوانی درامد محترق گفت: تیراللّه چه بود؟",
-      "person_id": 1420,
+      "person_id": 1480,
       "canonical_name": "جواني",
       "has_id": NaN
     },
@@ -335,7 +335,7 @@
       "name": "خالد صفوان",
       "relationship_type": "interlocutor",
       "full_text": "گفت: بسلطان اوکه نفس او زیر دست او بود.",
-      "person_id": 1494,
+      "person_id": 1556,
       "canonical_name": "خالد صفوان",
       "has_id": NaN
     },
@@ -343,7 +343,7 @@
       "name": "احنف قیس",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "که احنف قیس بچه چیز سید قوم خویش شد؟",
-      "person_id": 42,
+      "person_id": 63,
       "canonical_name": "احنف قيس",
       "has_id": NaN
     },
@@ -351,7 +351,7 @@
       "name": "بوعبداللّه با کو",
       "relationship_type": "narrator",
       "full_text": "بوعبداللّه با کو گفته:",
-      "person_id": 15,
+      "person_id": 20,
       "canonical_name": "ابن باكوية الشيرازي",
       "has_id": 150
     },
@@ -359,7 +359,7 @@
       "name": "عبدالواحد بکر",
       "relationship_type": "narrator",
       "full_text": "کی عبدالواحد بکر گفت",
-      "person_id": 1901,
+      "person_id": 1969,
       "canonical_name": "عبد الواحد بكر",
       "has_id": NaN
     },
@@ -367,7 +367,7 @@
       "name": "ابرهیم اطروش",
       "relationship_type": "narrator",
       "full_text": "که ابرهیم اطروش گفت:",
-      "person_id": 271,
+      "person_id": 298,
       "canonical_name": "إبراهيم الأطروش",
       "has_id": 1
     },
@@ -375,7 +375,7 @@
       "name": "شیخ بوالازهر اصطخری",
       "relationship_type": "narrator",
       "full_text": "شیخ بوالازهر اصطخری گوید",
-      "person_id": 381,
+      "person_id": 429,
       "canonical_name": "أبو الأزهر عبد الواحد بن محمد الإصطخري",
       "has_id": 37
     },
@@ -383,7 +383,7 @@
       "name": "ابراهیم گیلی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "شیخ الاسلام گفت: که ابراهیم گیلی از زمین گیل بوده پیر بزرگ بود این طایفه را",
-      "person_id": 285,
+      "person_id": 311,
       "canonical_name": "إبراهيم الگيلي",
       "has_id": NaN
     },
@@ -391,7 +391,7 @@
       "name": "شیخ محمد قصاب",
       "relationship_type": "narrator",
       "full_text": "شیخ محمد قصاب مرا گفت بدامغان",
-      "person_id": 2217,
+      "person_id": 2283,
       "canonical_name": "محمد القصاب",
       "has_id": NaN
     },
@@ -399,7 +399,7 @@
       "name": "شیخ ابرهیم دهستانی",
       "relationship_type": "interlocutor",
       "full_text": "مرا گفت: محمد! بازگرد.",
-      "person_id": 280,
+      "person_id": 306,
       "canonical_name": "إبراهيم الدهستاني",
       "has_id": 14
     }

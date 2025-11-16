@@ -25,7 +25,7 @@
       "chain": [
         {
           "name": "سفین ثوری",
-          "person_id": 1607,
+          "person_id": 1668,
           "canonical_name": "سفيان الثوري",
           "has_id": 598,
           "subj_added": false
@@ -39,7 +39,7 @@
       "chain": [
         {
           "name": "منصور عمارد مشقی",
-          "person_id": 2554,
+          "person_id": 2613,
           "canonical_name": "منصور عمارد مشقي",
           "has_id": NaN,
           "subj_added": false
@@ -59,7 +59,7 @@
       "chain": [
         {
           "name": "الامام",
-          "person_id": 55,
+          "person_id": 74,
           "canonical_name": "الامام",
           "has_id": NaN,
           "subj_added": false
@@ -73,9 +73,9 @@
       "chain": [
         {
           "name": "بوهشم",
-          "person_id": 1121,
-          "canonical_name": "أبو هشم",
-          "has_id": NaN,
+          "person_id": 1181,
+          "canonical_name": "أبو هاشم الزاهد",
+          "has_id": 434,
           "subj_added": false
         }
       ],
@@ -87,7 +87,7 @@
       "chain": [
         {
           "name": "شیخ سیروانی٭",
-          "person_id": 165,
+          "person_id": 187,
           "canonical_name": "السيرواني",
           "has_id": NaN,
           "subj_added": false
@@ -101,7 +101,7 @@
       "chain": [
         {
           "name": "محمد بن الجنیدکی",
-          "person_id": 2223,
+          "person_id": 2289,
           "canonical_name": "محمد بن الجنيدكي",
           "has_id": NaN,
           "subj_added": false
@@ -115,7 +115,7 @@
       "chain": [
         {
           "name": "شیخ بوجعفر",
-          "person_id": 725,
+          "person_id": 800,
           "canonical_name": "أبو جعفر",
           "has_id": NaN,
           "subj_added": false
@@ -129,14 +129,14 @@
       "chain": [
         {
           "name": "شیخ بوجعفر",
-          "person_id": 725,
+          "person_id": 800,
           "canonical_name": "أبو جعفر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "با محمد طینی",
-          "person_id": 1042,
+          "person_id": 1110,
           "canonical_name": "أبو محمد الطيني",
           "has_id": NaN,
           "subj_added": false
@@ -150,7 +150,7 @@
       "chain": [
         {
           "name": "الامام",
-          "person_id": 55,
+          "person_id": 74,
           "canonical_name": "الامام",
           "has_id": NaN,
           "subj_added": false
@@ -170,7 +170,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "در ایام ... بوده",
         "full_text": "در ایام سفین ثوری بوده",
-        "person_id": 1607,
+        "person_id": 1668,
         "canonical_name": "سفيان الثوري",
         "has_id": 598
       },
@@ -179,7 +179,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "ایضاً",
         "full_text": "و ابراهیم بن ادهم ایضاً رحمت اللّه علیه.",
-        "person_id": 301,
+        "person_id": 326,
         "canonical_name": "إبراهيم بن أدهم",
         "has_id": 274
       },
@@ -188,7 +188,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "دید",
         "full_text": "وقتی بوهشم، شریک نخعی دیدکیبیرون آمد از سرای یحیی خالد",
-        "person_id": 1670,
+        "person_id": 1734,
         "canonical_name": "شريك نخعي",
         "has_id": NaN
       }
@@ -199,7 +199,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "از شیخ الاسلام شنودم کرم اللّه وجهه کی گفت",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -207,7 +207,7 @@
       "name": "سفین ثوری",
       "relationship_type": "narrator",
       "full_text": "و سفین ثوری گوید",
-      "person_id": 1607,
+      "person_id": 1668,
       "canonical_name": "سفيان الثوري",
       "has_id": 598
     },
@@ -215,7 +215,7 @@
       "name": "منصور عمارد مشقی",
       "relationship_type": "direct_narrator",
       "full_text": "کی منصور عمارد مشقی گوید",
-      "person_id": 2554,
+      "person_id": 2613,
       "canonical_name": "منصور عمارد مشقي",
       "has_id": NaN
     },
@@ -223,7 +223,7 @@
       "name": "الامام",
       "relationship_type": "narrator",
       "full_text": "انشدنا الامام",
-      "person_id": 55,
+      "person_id": 74,
       "canonical_name": "الامام",
       "has_id": NaN
     },
@@ -231,7 +231,7 @@
       "name": "شیخ سیروانی٭",
       "relationship_type": "narrator",
       "full_text": "شیخ سیروانی٭ گفته است",
-      "person_id": 165,
+      "person_id": 187,
       "canonical_name": "السيرواني",
       "has_id": NaN
     },
@@ -239,7 +239,7 @@
       "name": "محمد بن الجنیدکی",
       "relationship_type": "narrator",
       "full_text": "از محمد بن الجنیدکی گفت",
-      "person_id": 2223,
+      "person_id": 2289,
       "canonical_name": "محمد بن الجنيدكي",
       "has_id": NaN
     },
@@ -247,7 +247,7 @@
       "name": "شیخ بوجعفر",
       "relationship_type": "narrator",
       "full_text": "شیخ بوجعفر مرا گفت بدامغان نام وی محمد قصاب دامغانی، شاگرد شیخ بوالعباس قصاب آملی٭ رحمهم اللّه",
-      "person_id": 725,
+      "person_id": 800,
       "canonical_name": "أبو جعفر",
       "has_id": NaN
     },
@@ -255,7 +255,7 @@
       "name": "با محمد طینی",
       "relationship_type": "narrator",
       "full_text": "از با محمد طینی شنیدم",
-      "person_id": 1042,
+      "person_id": 1110,
       "canonical_name": "أبو محمد الطيني",
       "has_id": NaN
     },
@@ -264,7 +264,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "seen_by_subject",
       "full_text": "وقتی بوهشم، شریک نخعی دیدکیبیرون آمد از سرای یحیی خالدگفت: اعوذ باللّه من علم لا ینفع",
-      "person_id": 1670,
+      "person_id": 1734,
       "canonical_name": "شريك نخعي",
       "has_id": NaN
     },
@@ -273,7 +273,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "house_of",
       "full_text": "بیرون آمد از سرای یحیی خالد",
-      "person_id": 2656,
+      "person_id": 2715,
       "canonical_name": "يحيي بن خالد",
       "has_id": NaN
     },
@@ -281,7 +281,7 @@
       "name": "شیخ بوالعباس قصاب آملی٭",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "شاگرد شیخ بوالعباس قصاب آملی٭ رحمهم اللّه",
-      "person_id": 495,
+      "person_id": 553,
       "canonical_name": "أبو العباس القصاب الآملي",
       "has_id": 358
     }

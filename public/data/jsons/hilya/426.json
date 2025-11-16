@@ -28,21 +28,21 @@
       "chain": [
         {
           "name": "أبا بكر الرازي",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي إسحاق المزكي",
-          "person_id": 572,
+          "person_id": 638,
           "canonical_name": "أبو إسحاق المزكي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عمرو الزجاجي",
-          "person_id": 1011,
+          "person_id": 1079,
           "canonical_name": "أبو عمرو الزجاجي",
           "has_id": 426,
           "subj_added": false
@@ -63,7 +63,7 @@
       "name": "أبي إسحاق المزكي",
       "relationship_type": "narrator",
       "full_text": "قدم مع أبي إسحاق المزكي من مكة فسمعته يقول سمعت أبا عمرو الزجاجي يقول",
-      "person_id": 572,
+      "person_id": 638,
       "canonical_name": "أبو إسحاق المزكي",
       "has_id": NaN
     }

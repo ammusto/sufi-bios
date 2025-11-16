@@ -8,10 +8,17 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "person_id": 1985,
+          "canonical_name": "عبد الوهاب الضبي",
+          "has_id": 674,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -26,7 +33,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "روى عن",
         "full_text": "روى عن معتمر بن سليمان.",
-        "person_id": 2520,
+        "person_id": 2580,
         "canonical_name": "معتمر بن سليمان",
         "has_id": NaN
       }
@@ -39,7 +46,7 @@
       "name": "أبي",
       "relationship_type": "narrator",
       "full_text": "سمعت أبي يقول",
-      "person_id": 585,
+      "person_id": 656,
       "canonical_name": "أبو أبي نعيم الأصفهاني",
       "has_id": NaN
     }

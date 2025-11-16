@@ -14,45 +14,52 @@
       "chain": [
         {
           "name": "محمد بن أحمد بن محمد العبدي",
-          "person_id": 2316,
+          "person_id": 2380,
           "canonical_name": "محمد بن أحمد بن محمد العبدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 1046,
+          "person_id": 1112,
           "canonical_name": "أبو محمد أحمد بن عمر العبدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر القرشي",
-          "person_id": 640,
+          "person_id": 710,
           "canonical_name": "أبو بكر القرشي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عون بن إبراهيم",
-          "person_id": 2135,
+          "person_id": 2201,
           "canonical_name": "عون بن إبراهيم بن الصلت",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن أبي الحواري",
-          "person_id": 1177,
+          "person_id": 1241,
           "canonical_name": "أحمد بن أبي الحواري",
           "has_id": 442,
           "subj_added": false
         },
         {
           "name": "المضاء",
-          "person_id": 236,
+          "person_id": 262,
           "canonical_name": "المضاء",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1648,
+          "canonical_name": "سباع الموصلي",
+          "has_id": 588,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -71,7 +78,7 @@
       "relationship_type": "interlocutor",
       "context": "questioner",
       "full_text": "قال سمعت المضاء يقول لسباع الموصلي: يا أبا محمد، إلى أي شيء أفضى بهم الزهد؟",
-      "person_id": 236,
+      "person_id": 262,
       "canonical_name": "المضاء",
       "has_id": NaN
     }

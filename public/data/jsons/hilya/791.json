@@ -8,14 +8,14 @@
       "chain": [
         {
           "name": "أبا محمد بن حيان",
-          "person_id": 1050,
+          "person_id": 1116,
           "canonical_name": "أبو محمد بن حيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن يوسف",
-          "person_id": 2477,
+          "person_id": 2538,
           "canonical_name": "محمد بن يوسف البناء",
           "has_id": 791,
           "subj_added": false
@@ -29,21 +29,21 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن جعفر بن هانئ",
-          "person_id": 1188,
+          "person_id": 1252,
           "canonical_name": "أحمد بن جعفر بن هانئ",
           "has_id": 444,
           "subj_added": false
         },
         {
           "name": "محمد بن يوسف",
-          "person_id": 2477,
+          "person_id": 2538,
           "canonical_name": "محمد بن يوسف البناء",
           "has_id": 791,
           "subj_added": false
@@ -57,42 +57,42 @@
       "chain": [
         {
           "name": "أحمد بن إسحاق",
-          "person_id": 1173,
+          "person_id": 1237,
           "canonical_name": "أحمد بن إسحاق",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن يوسف بن معدان الصوفى",
-          "person_id": 2477,
+          "person_id": 2538,
           "canonical_name": "محمد بن يوسف البناء",
           "has_id": 791,
           "subj_added": false
         },
         {
           "name": "عبد الله ابن محمد السندي - الأسدي بطرسوس -",
-          "person_id": 1860,
+          "person_id": 1930,
           "canonical_name": "عبد الله بن محمد السندي - الأسدي بطرسوس -",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن نمير",
-          "person_id": 1885,
+          "person_id": 1954,
           "canonical_name": "عبد الله بن نمير",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبيد الله",
-          "person_id": 1924,
+          "person_id": 1992,
           "canonical_name": "عبيد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "نافع",
-          "person_id": 2576,
+          "person_id": 2636,
           "canonical_name": "نافع",
           "has_id": NaN,
           "subj_added": false
@@ -100,7 +100,7 @@
         {
           "name": "ابن عمر",
           "has_id": NaN,
-          "person_id": 28,
+          "person_id": 41,
           "canonical_name": "ابن عمر",
           "subj_added": false
         }
@@ -113,21 +113,21 @@
       "chain": [
         {
           "name": "أحمد",
-          "person_id": 1173,
+          "person_id": 1237,
           "canonical_name": "أحمد بن إسحاق",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن يوسف",
-          "person_id": 2477,
+          "person_id": 2538,
           "canonical_name": "محمد بن يوسف البناء",
           "has_id": 791,
           "subj_added": false
         },
         {
           "name": "عبد الله",
-          "person_id": 1782,
+          "person_id": 1851,
           "canonical_name": "عبد الله",
           "has_id": NaN,
           "subj_added": false
@@ -135,20 +135,20 @@
         {
           "name": "ابن نمير",
           "has_id": NaN,
-          "person_id": 36,
+          "person_id": 57,
           "canonical_name": "ابن نمير",
           "subj_added": false
         },
         {
           "name": "عبيد الله",
-          "person_id": 1924,
+          "person_id": 1992,
           "canonical_name": "عبيد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "نافع",
-          "person_id": 2576,
+          "person_id": 2636,
           "canonical_name": "نافع",
           "has_id": NaN,
           "subj_added": false
@@ -156,7 +156,7 @@
         {
           "name": "ابن عمر",
           "has_id": NaN,
-          "person_id": 28,
+          "person_id": 41,
           "canonical_name": "ابن عمر",
           "subj_added": false
         }
@@ -169,42 +169,42 @@
       "chain": [
         {
           "name": "أحمد",
-          "person_id": 1173,
+          "person_id": 1237,
           "canonical_name": "أحمد بن إسحاق",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد",
-          "person_id": 2477,
+          "person_id": 2538,
           "canonical_name": "محمد بن يوسف البناء",
           "has_id": 791,
           "subj_added": false
         },
         {
           "name": "إبراهيم بن سلام",
-          "person_id": 312,
+          "person_id": 337,
           "canonical_name": "إبراهيم بن سلام",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن سليم",
-          "person_id": 2645,
+          "person_id": 2704,
           "canonical_name": "يحيى بن سليم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبيد الله",
-          "person_id": 1924,
+          "person_id": 1992,
           "canonical_name": "عبيد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "نافع",
-          "person_id": 2576,
+          "person_id": 2636,
           "canonical_name": "نافع",
           "has_id": NaN,
           "subj_added": false
@@ -212,7 +212,7 @@
         {
           "name": "ابن عمر",
           "has_id": NaN,
-          "person_id": 28,
+          "person_id": 41,
           "canonical_name": "ابن عمر",
           "subj_added": false
         }
@@ -225,49 +225,49 @@
       "chain": [
         {
           "name": "أبو مسلم عبد الرحمن بن محمد بن أحمد الواعظ",
-          "person_id": 1075,
+          "person_id": 1141,
           "canonical_name": "أبو مسلم عبد الرحمن بن محمد بن أحمد الواعظ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو عبد الله محمد بن يوسف بن معدان",
-          "person_id": 920,
+          "person_id": 993,
           "canonical_name": "أبو عبد الله محمد بن يوسف بن معدان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو صالح محمد بن زنبور",
-          "person_id": 827,
+          "person_id": 906,
           "canonical_name": "أبو صالح حمدون بن أحمد القصار",
           "has_id": 524,
           "subj_added": false
         },
         {
           "name": "الحارث بن عمير",
-          "person_id": 71,
-          "canonical_name": "أبو الحسن الرازي",
+          "person_id": 88,
+          "canonical_name": "الحارث بن عمير",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "حميد",
-          "person_id": 1480,
+          "person_id": 1542,
           "canonical_name": "حميد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أنس",
-          "person_id": 1310,
+          "person_id": 1372,
           "canonical_name": "أنس بن مالك",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 2477,
+          "person_id": 2538,
           "canonical_name": "محمد بن يوسف البناء",
           "has_id": 791,
           "subj_added": true
@@ -281,42 +281,42 @@
       "chain": [
         {
           "name": "أبو مسلم عبد الرحمن بن محمد",
-          "person_id": 1075,
+          "person_id": 1141,
           "canonical_name": "أبو مسلم عبد الرحمن بن محمد بن أحمد الواعظ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن يوسف بن معدان",
-          "person_id": 2477,
+          "person_id": 2538,
           "canonical_name": "محمد بن يوسف البناء",
           "has_id": 791,
           "subj_added": false
         },
         {
           "name": "نصر بن علي الجهضمي",
-          "person_id": 2585,
+          "person_id": 2645,
           "canonical_name": "نصر بن علي الجهضمي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "النعمان بن عبد الله",
-          "person_id": 250,
+          "person_id": 277,
           "canonical_name": "النعمان بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو ظلال",
-          "person_id": 839,
+          "person_id": 917,
           "canonical_name": "أبو ظلال",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أنس",
-          "person_id": 1310,
+          "person_id": 1372,
           "canonical_name": "أنس بن مالك",
           "has_id": NaN,
           "subj_added": false
@@ -337,7 +337,7 @@
       "name": "أبا محمد بن حيان",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا محمد بن حيان يقول",
-      "person_id": 1050,
+      "person_id": 1116,
       "canonical_name": "أبو محمد بن حيان",
       "has_id": NaN
     },
@@ -345,7 +345,7 @@
       "name": "أحمد بن جعفر بن هانئ",
       "relationship_type": "narrator",
       "full_text": "سمعت أبي يقول سمعت أحمد بن جعفر بن هانئ يقول",
-      "person_id": 1188,
+      "person_id": 1252,
       "canonical_name": "أحمد بن جعفر بن هانئ",
       "has_id": 444
     },
@@ -353,7 +353,7 @@
       "name": "أحمد بن إسحاق",
       "relationship_type": "narrator",
       "full_text": "حدثنا أحمد بن إسحاق ثنا محمد بن يوسف بن معدان الصوفى",
-      "person_id": 1173,
+      "person_id": 1237,
       "canonical_name": "أحمد بن إسحاق",
       "has_id": NaN
     },
@@ -361,7 +361,7 @@
       "name": "أحمد",
       "relationship_type": "narrator",
       "full_text": "حدثنا أحمد ثنا محمد بن يوسف",
-      "person_id": 1173,
+      "person_id": 1237,
       "canonical_name": "أحمد بن إسحاق",
       "has_id": NaN
     },
@@ -369,7 +369,7 @@
       "name": "أبو مسلم عبد الرحمن بن محمد بن أحمد الواعظ",
       "relationship_type": "narrator",
       "full_text": "حدثنا أبو مسلم عبد الرحمن بن محمد بن أحمد الواعظ ثنا أبو عبد الله محمد بن يوسف بن معدان",
-      "person_id": 1075,
+      "person_id": 1141,
       "canonical_name": "أبو مسلم عبد الرحمن بن محمد بن أحمد الواعظ",
       "has_id": NaN
     },
@@ -377,7 +377,7 @@
       "name": "أبو مسلم عبد الرحمن بن محمد",
       "relationship_type": "narrator",
       "full_text": "حدثنا أبو مسلم عبد الرحمن بن محمد ثنا محمد بن يوسف بن معدان",
-      "person_id": 1075,
+      "person_id": 1141,
       "canonical_name": "أبو مسلم عبد الرحمن بن محمد بن أحمد الواعظ",
       "has_id": NaN
     }

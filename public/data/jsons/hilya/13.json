@@ -14,21 +14,21 @@
       "chain": [
         {
           "name": "محمد بن موسى",
-          "person_id": 2457,
+          "person_id": 2519,
           "canonical_name": "محمد بن موسى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسين بن أحمد",
-          "person_id": 107,
+          "person_id": 126,
           "canonical_name": "الحسين بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إبراهيم القصار الرقي",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
@@ -42,21 +42,21 @@
       "chain": [
         {
           "name": "أبو الفضل نصر بن محمد الطوسي",
-          "person_id": 528,
+          "person_id": 591,
           "canonical_name": "أبو الفضل نصر بن محمد الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إبراهيم بن أحمد بن المولد",
-          "person_id": 298,
+          "person_id": 643,
           "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
           "has_id": 273,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": true
@@ -77,7 +77,7 @@
       "name": "الحسين بن أحمد",
       "relationship_type": "narrator",
       "full_text": "سمعت الحسين بن أحمد يقول",
-      "person_id": 107,
+      "person_id": 126,
       "canonical_name": "الحسين بن أحمد",
       "has_id": NaN
     },
@@ -85,7 +85,7 @@
       "name": "إبراهيم بن أحمد بن المولد",
       "relationship_type": "narrator",
       "full_text": "قال سمعت إبراهيم بن أحمد بن المولد يقول",
-      "person_id": 298,
+      "person_id": 643,
       "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
       "has_id": 273
     },
@@ -93,7 +93,7 @@
       "name": "رجل",
       "relationship_type": "questioner",
       "full_text": "سأل رجل إبراهيم القصار الرقي فقال",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     }

@@ -29,14 +29,14 @@
       "chain": [
         {
           "name": "أبو عبد الرحمن السلمي",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "أحمد",
-          "person_id": 1194,
+          "person_id": 1258,
           "canonical_name": "أحمد بن خضرويه البلخي",
           "has_id": 440,
           "subj_added": false
@@ -50,28 +50,28 @@
       "chain": [
         {
           "name": "محمد بن الحسين بن موسى",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "منصور بن عبد الله",
-          "person_id": 2547,
+          "person_id": 2606,
           "canonical_name": "منصور بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن حامد",
-          "person_id": 2337,
+          "person_id": 2401,
           "canonical_name": "محمد بن حامد الترمذي",
           "has_id": 381,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1194,
+          "person_id": 1258,
           "canonical_name": "أحمد بن خضرويه البلخي",
           "has_id": 440,
           "subj_added": true
@@ -85,70 +85,70 @@
       "chain": [
         {
           "name": "سليمان بن أحمد",
-          "person_id": 1626,
+          "person_id": 1687,
           "canonical_name": "سليمان بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن الخضر المروزي",
-          "person_id": 1194,
+          "person_id": 1258,
           "canonical_name": "أحمد بن خضرويه البلخي",
           "has_id": 440,
           "subj_added": false
         },
         {
           "name": "محمد بن عبدة المروزي",
-          "person_id": 2393,
+          "person_id": 2455,
           "canonical_name": "محمد بن عبدة المروزي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو معاذ النحوي",
-          "person_id": 1078,
+          "person_id": 1144,
           "canonical_name": "أبو معاذ النحوي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو حمزة السكري",
-          "person_id": 766,
+          "person_id": 842,
           "canonical_name": "أبو حمزة السكري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "رقبة بن مصقلة",
-          "person_id": 1547,
+          "person_id": 1609,
           "canonical_name": "رقبة بن مصقلة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سالم بن بشير",
-          "person_id": 1583,
+          "person_id": 1645,
           "canonical_name": "سالم بن بشير",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد العزيز بن صهيب",
-          "person_id": 1773,
+          "person_id": 1842,
           "canonical_name": "عبد العزيز بن صهيب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أنس بن مالك",
-          "person_id": 1310,
+          "person_id": 1372,
           "canonical_name": "أنس بن مالك",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "النبي صلى الله عليه وسلم",
-          "person_id": 246,
+          "person_id": 272,
           "canonical_name": "النبي",
           "has_id": NaN,
           "subj_added": false
@@ -169,7 +169,7 @@
       "name": "أبو عبد الرحمن السلمي",
       "relationship_type": "narrator",
       "full_text": "وحكى لي أبو عبد الرحمن السلمي عن أحمد قال:",
-      "person_id": 845,
+      "person_id": 922,
       "canonical_name": "أبو عبد الرحمن السلمي",
       "has_id": 133
     },
@@ -177,7 +177,7 @@
       "name": "محمد بن حامد",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن حامد يقول",
-      "person_id": 2337,
+      "person_id": 2401,
       "canonical_name": "محمد بن حامد الترمذي",
       "has_id": 381
     },
@@ -185,7 +185,7 @@
       "name": "سليمان بن أحمد",
       "relationship_type": "narrator",
       "full_text": "حدثنا سليمان بن أحمد ثنا أحمد بن الخضر المروزي - ببغداد -",
-      "person_id": 1626,
+      "person_id": 1687,
       "canonical_name": "سليمان بن أحمد",
       "has_id": NaN
     },
@@ -193,7 +193,7 @@
       "name": "أبو يزيد البسطامي",
       "relationship_type": "interlocutor",
       "full_text": "قال لأبي يزيد أوصني قال تعلم الفتوة من زوجتك.",
-      "person_id": 1128,
+      "person_id": 1191,
       "canonical_name": "أبو يزيد البسطامي",
       "has_id": 435
     },
@@ -202,7 +202,7 @@
       "relationship_type": "interlocutor",
       "context": "زوجته",
       "full_text": "قرينته المكتنية بأم علي من بنات الكبار",
-      "person_id": 1307,
+      "person_id": 1368,
       "canonical_name": "أم علي",
       "has_id": NaN
     },
@@ -210,7 +210,7 @@
       "name": "سليمان المروزي",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "قال وأحمد بن الخضر ذكره سليمان المروزي",
-      "person_id": 1625,
+      "person_id": 1686,
       "canonical_name": "سليمان المروزي",
       "has_id": NaN
     }

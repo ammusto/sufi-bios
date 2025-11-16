@@ -38,14 +38,14 @@
       "chain": [
         {
           "name": "احمد خضرویه",
-          "person_id": 1194,
+          "person_id": 1258,
           "canonical_name": "أحمد بن خضرويه البلخي",
           "has_id": 440,
           "subj_added": false
         },
         {
           "name": "ابراهیم ادهم",
-          "person_id": 301,
+          "person_id": 326,
           "canonical_name": "إبراهيم بن أدهم",
           "has_id": 274,
           "subj_added": false
@@ -59,23 +59,24 @@
       "chain": [
         {
           "name": "حفص حداد",
-          "person_id": 759,
+          "person_id": 836,
           "canonical_name": "أبو حفص الحداد النيسابوري",
           "has_id": 715,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1194,
+          "person_id": 1258,
           "canonical_name": "أحمد بن خضرويه البلخي",
           "has_id": 440,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 1194,
+          "name": "",
+          "person_id": 1258,
           "canonical_name": "أحمد بن خضرويه البلخي",
-          "has_id": 440
+          "has_id": 440,
+          "subj_added": false
         }
       ],
       "type": "single_informant",
@@ -86,7 +87,7 @@
       "chain": [
         {
           "name": "احمد خضرویه",
-          "person_id": 1194,
+          "person_id": 1258,
           "canonical_name": "أحمد بن خضرويه البلخي",
           "has_id": 440,
           "subj_added": false
@@ -100,7 +101,7 @@
       "chain": [
         {
           "name": "احمد بن خضرویه",
-          "person_id": 1194,
+          "person_id": 1258,
           "canonical_name": "أحمد بن خضرويه البلخي",
           "has_id": 440,
           "subj_added": false
@@ -120,14 +121,14 @@
       "chain": [
         {
           "name": "عبداللّه بن منازل",
-          "person_id": 1065,
+          "person_id": 1133,
           "canonical_name": "أبو محمد عبد الله بن محمد بن منازل",
           "has_id": 654,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1194,
+          "person_id": 1258,
           "canonical_name": "أحمد بن خضرويه البلخي",
           "has_id": 440,
           "subj_added": true
@@ -141,23 +142,24 @@
       "chain": [
         {
           "name": "ابوحمزة البغدادی",
-          "person_id": 764,
-          "canonical_name": "أبو حمزة البغدادي",
-          "has_id": 397,
+          "person_id": 844,
+          "canonical_name": "أبو حمزة محمد بن إبراهيم البغدادي",
+          "has_id": 773,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1194,
+          "person_id": 1258,
           "canonical_name": "أحمد بن خضرويه البلخي",
           "has_id": 440,
           "subj_added": true
         },
         {
-          "name": NaN,
-          "person_id": 1194,
+          "name": "",
+          "person_id": 1258,
           "canonical_name": "أحمد بن خضرويه البلخي",
-          "has_id": 440
+          "has_id": 440,
+          "subj_added": false
         }
       ],
       "type": "single_informant",
@@ -168,21 +170,21 @@
       "chain": [
         {
           "name": "یوسف بن الحسین الرازی",
-          "person_id": 1140,
+          "person_id": 1205,
           "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
           "has_id": 847,
           "subj_added": false
         },
         {
           "name": "الجنید",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1194,
+          "person_id": 1258,
           "canonical_name": "أحمد بن خضرويه البلخي",
           "has_id": 440,
           "subj_added": true
@@ -206,7 +208,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده بود",
         "full_text": "با بوتراب نخشبی ٭ صحبت کرده بود",
-        "person_id": 721,
+        "person_id": 796,
         "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
         "has_id": 388
       },
@@ -215,7 +217,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده بود",
         "full_text": "و با حاتم اصم و ابراهیم ادهم ٭ دیده بود",
-        "person_id": 1424,
+        "person_id": 1484,
         "canonical_name": "حاتم الأصم",
         "has_id": 505
       },
@@ -224,7 +226,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده بود",
         "full_text": "و با حاتم اصم و ابراهیم ادهم ٭ دیده بود",
-        "person_id": 301,
+        "person_id": 326,
         "canonical_name": "إبراهيم بن أدهم",
         "has_id": 274
       }
@@ -236,7 +238,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از نظیران",
         "full_text": "از نظیران بایزید و با حفص است،",
-        "person_id": 1128,
+        "person_id": 1191,
         "canonical_name": "أبو يزيد البسطامي",
         "has_id": 435
       },
@@ -245,7 +247,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از نظیران",
         "full_text": "از نظیران بایزید و با حفص است،",
-        "person_id": 759,
+        "person_id": 836,
         "canonical_name": "أبو حفص الحداد النيسابوري",
         "has_id": 715
       }
@@ -256,7 +258,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ الاسلام گفت: که احمد خضرویه گوید",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -264,7 +266,7 @@
       "name": "حفص حداد",
       "relationship_type": "narrator",
       "full_text": "فرا باحفص حداد ٭\nگفتند: که مه دیدندی ازین طبقه؟ گفت ندیدم کس مه از احمد خضرویه\nبهمت و صدق احوال.",
-      "person_id": 759,
+      "person_id": 836,
       "canonical_name": "أبو حفص الحداد النيسابوري",
       "has_id": 715
     },
@@ -272,7 +274,7 @@
       "name": "کسی",
       "relationship_type": "questioner",
       "full_text": "کسی احمد را گفت: مرا وصیتی کن!",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     }

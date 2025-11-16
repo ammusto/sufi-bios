@@ -31,14 +31,14 @@
       "chain": [
         {
           "name": "بوبکر وراق",
-          "person_id": 702,
+          "person_id": 777,
           "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
-          "has_id": 380,
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": true
@@ -52,21 +52,21 @@
       "chain": [
         {
           "name": "پدر من",
-          "person_id": 377,
+          "person_id": 420,
           "canonical_name": "أببي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "امیرجهٔ سفال فروش",
-          "person_id": 266,
+          "person_id": 292,
           "canonical_name": "اميرجة سفال فروش",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": true
@@ -80,21 +80,21 @@
       "chain": [
         {
           "name": "پدر من",
-          "person_id": 377,
+          "person_id": 420,
           "canonical_name": "أببي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "امیرجهٔ سفال فروش",
-          "person_id": 266,
+          "person_id": 292,
           "canonical_name": "اميرجة سفال فروش",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": true
@@ -108,35 +108,35 @@
       "chain": [
         {
           "name": "پدر من",
-          "person_id": 377,
+          "person_id": 420,
           "canonical_name": "أببي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بوالمظفر ترمذی",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": false
         },
         {
           "name": "این الخراسانی",
-          "person_id": 5,
+          "person_id": 458,
           "canonical_name": "أبو الحسن المحلي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبدالرحمن",
-          "person_id": 1681,
+          "person_id": 1802,
           "canonical_name": "عبد الرحمن الصابوني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "شبلی",
-          "person_id": 628,
+          "person_id": 699,
           "canonical_name": "أبو بكر الشبلي",
           "has_id": 376,
           "subj_added": false
@@ -150,14 +150,14 @@
       "chain": [
         {
           "name": "عبدالرحمن خراسانی",
-          "person_id": 1734,
+          "person_id": 1801,
           "canonical_name": "عبد الرحمن الخراساني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": true
@@ -171,21 +171,21 @@
       "chain": [
         {
           "name": "بوحاتم رازی",
-          "person_id": 810,
+          "person_id": 888,
           "canonical_name": "أبو سعيد عبد الله بن محمد بن عبد الوهاب الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "زید عبداللهّ اصبهانی",
-          "person_id": 1578,
+          "person_id": 1640,
           "canonical_name": "زيد عبد اللهّ اصبهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": true
@@ -199,14 +199,14 @@
       "chain": [
         {
           "name": "بونصر ازهری",
-          "person_id": 1096,
+          "person_id": 1159,
           "canonical_name": "أبو نصر ازهري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": true
@@ -220,14 +220,14 @@
       "chain": [
         {
           "name": "امام جهان",
-          "person_id": 260,
+          "person_id": 286,
           "canonical_name": "امام جهان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": true
@@ -241,21 +241,21 @@
       "chain": [
         {
           "name": "بوسعد مالینی",
-          "person_id": 796,
+          "person_id": 872,
           "canonical_name": "أبو سعد الماليني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بوالعباس",
-          "person_id": 485,
+          "person_id": 543,
           "canonical_name": "أبو العباس",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": true
@@ -269,21 +269,21 @@
       "chain": [
         {
           "name": "ابونجم",
-          "person_id": 1093,
+          "person_id": 1156,
           "canonical_name": "أبو نجم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "هلال بن احمد بن یوسف البردعی",
-          "person_id": 2603,
+          "person_id": 2664,
           "canonical_name": "هلال بن أحمد بن يوسف البردعي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": true
@@ -297,21 +297,21 @@
       "chain": [
         {
           "name": "بوالقاسم",
-          "person_id": 529,
+          "person_id": 592,
           "canonical_name": "أبو القاسم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "حسن بن احمد البغدادی",
-          "person_id": 1446,
+          "person_id": 1508,
           "canonical_name": "حسن بن أحمد البغدادي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": true
@@ -325,21 +325,21 @@
       "chain": [
         {
           "name": "ابن باکوی",
-          "person_id": 15,
+          "person_id": 20,
           "canonical_name": "ابن باكوية الشيرازي",
           "has_id": 150,
           "subj_added": false
         },
         {
           "name": "عبدالوهاب بن احمد الاباری",
-          "person_id": 1918,
+          "person_id": 1986,
           "canonical_name": "عبد الوهاب بن أحمد الاباري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": true
@@ -353,28 +353,28 @@
       "chain": [
         {
           "name": "ابن باکوی",
-          "person_id": 15,
+          "person_id": 20,
           "canonical_name": "ابن باكوية الشيرازي",
           "has_id": 150,
           "subj_added": false
         },
         {
           "name": "علی بن محمد بن قزوینی",
-          "person_id": 433,
+          "person_id": 487,
           "canonical_name": "أبو الحسن علي بن محمد القزويني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "قناد",
-          "person_id": 2182,
+          "person_id": 2249,
           "canonical_name": "قناد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": true
@@ -388,14 +388,14 @@
       "chain": [
         {
           "name": "ابن باکوی",
-          "person_id": 15,
+          "person_id": 20,
           "canonical_name": "ابن باكوية الشيرازي",
           "has_id": 150,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": true
@@ -409,14 +409,14 @@
       "chain": [
         {
           "name": "عبداللّه بن محمد الدینوری",
-          "person_id": 1858,
+          "person_id": 1928,
           "canonical_name": "عبد الله بن محمد الدينوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": true
@@ -430,21 +430,21 @@
       "chain": [
         {
           "name": "محمد بن زبرقان",
-          "person_id": 2351,
+          "person_id": 2415,
           "canonical_name": "محمد بن زبرقان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بوعلی رودباری",
-          "person_id": 959,
+          "person_id": 1031,
           "canonical_name": "أبو علي الروذباري",
           "has_id": 422,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": true
@@ -458,21 +458,21 @@
       "chain": [
         {
           "name": "حسین بن احمد الفارسی",
-          "person_id": 1455,
+          "person_id": 1517,
           "canonical_name": "حسين بن أحمد الفارسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بوعلی رودباری",
-          "person_id": 959,
+          "person_id": 1031,
           "canonical_name": "أبو علي الروذباري",
           "has_id": 422,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": true
@@ -486,28 +486,28 @@
       "chain": [
         {
           "name": "بوجعفر",
-          "person_id": 725,
+          "person_id": 800,
           "canonical_name": "أبو جعفر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن احمد للنجار",
-          "person_id": 2299,
+          "person_id": 2363,
           "canonical_name": "محمد بن أحمد النجار",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بوعلی رودباری",
-          "person_id": 959,
+          "person_id": 1031,
           "canonical_name": "أبو علي الروذباري",
           "has_id": 422,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": true
@@ -521,14 +521,14 @@
       "chain": [
         {
           "name": "شیخ عمو",
-          "person_id": 1683,
+          "person_id": 1747,
           "canonical_name": "شيخ عمو",
           "has_id": 717,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": true
@@ -542,14 +542,14 @@
       "chain": [
         {
           "name": "شیخ عباس «فقیر» هروی",
-          "person_id": 1718,
+          "person_id": 1785,
           "canonical_name": "عباس الهروي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": true
@@ -563,14 +563,14 @@
       "chain": [
         {
           "name": "شیخ عباس",
-          "person_id": 1718,
+          "person_id": 1785,
           "canonical_name": "عباس الهروي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": true
@@ -584,14 +584,14 @@
       "chain": [
         {
           "name": "شیخ بوالحسین سال به",
-          "person_id": 459,
+          "person_id": 516,
           "canonical_name": "أبو الحسين سال به",
           "has_id": 44,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 559,
+          "person_id": 624,
           "canonical_name": "أبو المظفر الترمذي",
           "has_id": 363,
           "subj_added": true
@@ -609,7 +609,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد محمد حامد واشگردی بود",
-        "person_id": 2338,
+        "person_id": 2402,
         "canonical_name": "محمد بن حامد الواشگردي",
         "has_id": NaN
       },
@@ -618,9 +618,9 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد بوبکر وراق٭",
-        "person_id": 702,
+        "person_id": 777,
         "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
-        "has_id": 380
+        "has_id": NaN
       }
     ],
     "students": [
@@ -629,7 +629,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "پیر و استاد",
         "full_text": "پیر و استاد پیر شیخ الاسلام بود",
-        "person_id": 1682,
+        "person_id": 650,
         "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
         "has_id": 36
       }
@@ -641,7 +641,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -649,7 +649,7 @@
       "name": "پدر من",
       "relationship_type": "direct_narrator",
       "full_text": "پدر من گفت، کی بوالمظفر ترمذی گفت",
-      "person_id": 377,
+      "person_id": 420,
       "canonical_name": "أببي",
       "has_id": NaN
     },
@@ -657,15 +657,15 @@
       "name": "بوبکر وراق",
       "relationship_type": "narrator",
       "full_text": "بوبکر وراق گویدکه",
-      "person_id": 702,
+      "person_id": 777,
       "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
-      "has_id": 380
+      "has_id": NaN
     },
     {
       "name": "شیخ عمو",
       "relationship_type": "narrator",
       "full_text": "شیخ عموگفت: که",
-      "person_id": 1683,
+      "person_id": 1747,
       "canonical_name": "شيخ عمو",
       "has_id": 717
     },
@@ -673,7 +673,7 @@
       "name": "شیخ عباس «فقیر» هروی",
       "relationship_type": "narrator",
       "full_text": "شیخ عباس «فقیر» هروی گفت: که",
-      "person_id": 1718,
+      "person_id": 1785,
       "canonical_name": "عباس الهروي",
       "has_id": NaN
     },
@@ -681,7 +681,7 @@
       "name": "شیخ بوالحسین سال به",
       "relationship_type": "narrator",
       "full_text": "شیخ بوالحسین سال به گفت: که",
-      "person_id": 459,
+      "person_id": 516,
       "canonical_name": "أبو الحسين سال به",
       "has_id": 44
     },
@@ -689,7 +689,7 @@
       "name": "عبدالرحمن خراسانی",
       "relationship_type": "narrator",
       "full_text": "عبدالرحمن خراسانی گوید: که",
-      "person_id": 1734,
+      "person_id": 1801,
       "canonical_name": "عبد الرحمن الخراساني",
       "has_id": NaN
     },
@@ -697,7 +697,7 @@
       "name": "بوحاتم رازی",
       "relationship_type": "narrator",
       "full_text": "بوحاتم رازی مرا گفت",
-      "person_id": 810,
+      "person_id": 888,
       "canonical_name": "أبو سعيد عبد الله بن محمد بن عبد الوهاب الرازي",
       "has_id": NaN
     },
@@ -705,7 +705,7 @@
       "name": "بونصر ازهری",
       "relationship_type": "narrator",
       "full_text": "بونصر ازهری گوید",
-      "person_id": 1096,
+      "person_id": 1159,
       "canonical_name": "أبو نصر ازهري",
       "has_id": NaN
     },
@@ -713,7 +713,7 @@
       "name": "بوسعد مالینی",
       "relationship_type": "narrator",
       "full_text": "بوسعد مالینی گوید: که",
-      "person_id": 796,
+      "person_id": 872,
       "canonical_name": "أبو سعد الماليني",
       "has_id": NaN
     },
@@ -721,7 +721,7 @@
       "name": "ابونجم",
       "relationship_type": "narrator",
       "full_text": "ابونجم گوید، هلال بن احمد بن یوسف البردعی: که",
-      "person_id": 1093,
+      "person_id": 1156,
       "canonical_name": "أبو نجم",
       "has_id": NaN
     },
@@ -729,7 +729,7 @@
       "name": "بوالقاسم",
       "relationship_type": "narrator",
       "full_text": "بوالقاسم گوید حسن بن احمد البغدادی که",
-      "person_id": 529,
+      "person_id": 592,
       "canonical_name": "أبو القاسم",
       "has_id": NaN
     },
@@ -737,7 +737,7 @@
       "name": "ابن باکوی",
       "relationship_type": "narrator",
       "full_text": "ابن باکوی گفت",
-      "person_id": 15,
+      "person_id": 20,
       "canonical_name": "ابن باكوية الشيرازي",
       "has_id": 150
     },
@@ -746,7 +746,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "در مجلس وی میبودی",
       "full_text": "و خضر ﷷ در مجلس وی میبودی",
-      "person_id": 145,
+      "person_id": 166,
       "canonical_name": "الخضر",
       "has_id": NaN
     },
@@ -755,7 +755,7 @@
       "relationship_type": "questioner",
       "context": "پرسید شبلی را",
       "full_text": "مردی پرسید شبلی را",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -763,7 +763,7 @@
       "name": "پیر",
       "relationship_type": "narrator",
       "full_text": "پیر حکایت کرد ما را که",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     }

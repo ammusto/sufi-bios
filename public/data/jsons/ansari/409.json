@@ -14,9 +14,9 @@
       "chain": [
         {
           "name": "بوعبداللّه جلا",
-          "person_id": 901,
-          "canonical_name": "أبو عبد الله بن جلاء",
-          "has_id": NaN,
+          "person_id": 971,
+          "canonical_name": "أبو عبد الله بن الجلاء",
+          "has_id": 410,
           "subj_added": false
         }
       ],
@@ -28,7 +28,7 @@
       "chain": [
         {
           "name": "بوعثمان آدمی٭",
-          "person_id": 933,
+          "person_id": 1005,
           "canonical_name": "أبو عثمان الأدمي",
           "has_id": NaN,
           "subj_added": false
@@ -42,9 +42,9 @@
       "chain": [
         {
           "name": "بوعبید",
-          "person_id": 923,
-          "canonical_name": "أبو عبيد",
-          "has_id": NaN,
+          "person_id": 997,
+          "canonical_name": "أبو عبيد البسري",
+          "has_id": 409,
           "subj_added": false
         }
       ],
@@ -56,9 +56,9 @@
       "chain": [
         {
           "name": "بوعبید",
-          "person_id": 923,
-          "canonical_name": "أبو عبيد",
-          "has_id": NaN,
+          "person_id": 997,
+          "canonical_name": "أبو عبيد البسري",
+          "has_id": 409,
           "subj_added": false
         }
       ],
@@ -70,9 +70,9 @@
       "chain": [
         {
           "name": "بوعبید",
-          "person_id": 923,
-          "canonical_name": "أبو عبيد",
-          "has_id": NaN,
+          "person_id": 997,
+          "canonical_name": "أبو عبيد البسري",
+          "has_id": 409,
           "subj_added": false
         }
       ],
@@ -97,15 +97,15 @@
       "name": "بوعبداللّه جلا",
       "relationship_type": "narrator",
       "full_text": "بوعبداللّه جلا گوید",
-      "person_id": 901,
-      "canonical_name": "أبو عبد الله بن جلاء",
-      "has_id": NaN
+      "person_id": 971,
+      "canonical_name": "أبو عبد الله بن الجلاء",
+      "has_id": 410
     },
     {
       "name": "بوعثمان آدمی٭",
       "relationship_type": "narrator",
       "full_text": "بوعثمان آدمی٭ گوید",
-      "person_id": 933,
+      "person_id": 1005,
       "canonical_name": "أبو عثمان الأدمي",
       "has_id": NaN
     },
@@ -113,7 +113,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت قدس اللّه روحه",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     }

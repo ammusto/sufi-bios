@@ -14,21 +14,21 @@
       "chain": [
         {
           "name": "محمد بن الحسين بن موسى",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "عبد الله بن علي الطوسي",
-          "person_id": 1108,
+          "person_id": 1172,
           "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو العباس الدينوري",
-          "person_id": 488,
+          "person_id": 556,
           "canonical_name": "أبو العباس أحمد الدينوري",
           "has_id": 338,
           "subj_added": false
@@ -48,7 +48,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب يوسف بن الحسين",
-        "person_id": 1140,
+        "person_id": 1205,
         "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
         "has_id": 847
       },
@@ -57,7 +57,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "لقي",
         "full_text": "ولقي رويما وأبا العباس بن عطاء.",
-        "person_id": 1553,
+        "person_id": 1615,
         "canonical_name": "رويم بن أحمد",
         "has_id": 578
       },
@@ -67,7 +67,7 @@
         "relationship_phrase": "لقي",
         "full_text": "ولقي رويما وأبا العباس بن عطاء.",
         "has_id": 340,
-        "person_id": 498,
+        "person_id": 559,
         "canonical_name": "أبو العباس أحمد بن عطاء الآدمي"
       }
     ]
@@ -77,7 +77,7 @@
       "name": "عبد الله بن علي الطوسي",
       "relationship_type": "narrator",
       "full_text": "سمعت عبد الله بن علي الطوسي يقول قال أبو العباس الدينوري",
-      "person_id": 1108,
+      "person_id": 1172,
       "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
       "has_id": NaN
     }

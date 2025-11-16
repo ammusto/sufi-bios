@@ -29,17 +29,24 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "عبد الله بن محمد الرازي",
-          "person_id": 1859,
+          "person_id": 1929,
           "canonical_name": "عبد الله بن محمد الرازي",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 795,
+          "canonical_name": "أبو تراب الرملي",
+          "has_id": 387,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -57,7 +64,7 @@
       "name": "عبد الله بن محمد الرازي",
       "relationship_type": "narrator",
       "full_text": "سمعت عبد الله بن محمد الرازي يقول",
-      "person_id": 1859,
+      "person_id": 1929,
       "canonical_name": "عبد الله بن محمد الرازي",
       "has_id": NaN
     }

@@ -14,17 +14,24 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "الإمام أبا سهل محمد بن سليمان الفقيه",
-          "person_id": 56,
+          "person_id": 75,
           "canonical_name": "الإمام أبو سهل محمد بن سليمان الفقيه",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 1128,
+          "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
+          "has_id": 251,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -43,14 +50,14 @@
       "relationship_type": "narrator",
       "full_text": "سمعت أبا الحسن بن مقسم يقول:",
       "has_id": NaN,
-      "person_id": 20,
-      "canonical_name": "اﺑﻦ ﺧﺒﺎز"
+      "person_id": 475,
+      "canonical_name": "أبو الحسن بن مقسم"
     },
     {
       "name": "الإمام أبا سهل محمد بن سليمان الفقيه",
       "relationship_type": "narrator",
       "full_text": "سمعت الإمام أبا سهل محمد بن سليمان الفقيه يقول",
-      "person_id": 56,
+      "person_id": 75,
       "canonical_name": "الإمام أبو سهل محمد بن سليمان الفقيه",
       "has_id": NaN
     },
@@ -59,7 +66,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "questioner",
       "full_text": "قال رجل للمرتعش: أوصني.",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -68,7 +75,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "questioner",
       "full_text": "وجاءه رجل فقال: أي الأعمال أفضل؟",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     }

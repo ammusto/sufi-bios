@@ -44,7 +44,7 @@
       "chain": [
         {
           "name": "أبا القاسم الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -58,14 +58,14 @@
       "chain": [
         {
           "name": "أبا بكر محمد بن أحمد المفيد",
-          "person_id": 647,
+          "person_id": 775,
           "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
           "has_id": 91,
           "subj_added": false
         },
         {
           "name": "أبا القاسم الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -79,14 +79,14 @@
       "chain": [
         {
           "name": "أبا محمد الخواص",
-          "person_id": 1038,
+          "person_id": 1107,
           "canonical_name": "أبو محمد الخواص",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -100,14 +100,14 @@
       "chain": [
         {
           "name": "أبي الحسين محمد بن علي بن حبيش الناقد الصوفي صاحب أبي العباس بن عطاء",
-          "person_id": 465,
+          "person_id": 523,
           "canonical_name": "أبو الحسين محمد بن علي بن حبيش المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو القاسم الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -121,28 +121,28 @@
       "chain": [
         {
           "name": "الحسين بن موسى",
-          "person_id": 128,
+          "person_id": 147,
           "canonical_name": "الحسين بن موسى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا نصر الطوسي",
-          "person_id": 1108,
+          "person_id": 1172,
           "canonical_name": "أبو نصر عبد الله بن علي الطوسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الواحد بن علوان",
-          "person_id": 1909,
+          "person_id": 1977,
           "canonical_name": "عبد الواحد بن علوان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -156,21 +156,21 @@
       "chain": [
         {
           "name": "جعفر بن محمد بن نصير",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "محمد بن إبراهيم",
-          "person_id": 983,
+          "person_id": 1054,
           "canonical_name": "أبو علي محمد بن إبراهيم البزّاز",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": true
@@ -185,13 +185,13 @@
         {
           "name": "أبا الحسين بن الدراج",
           "has_id": 443,
-          "person_id": 12,
+          "person_id": 732,
           "canonical_name": "أبو بكر بن أبي سعدان",
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -205,21 +205,21 @@
       "chain": [
         {
           "name": "جعفر بن محمد",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "الحسين بن يحيى الفقيه الأسفيعاني",
-          "person_id": 134,
+          "person_id": 153,
           "canonical_name": "الحسين بن يحيى الفقيه الأسفيعاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -233,14 +233,14 @@
       "chain": [
         {
           "name": "محمد بن علي بن حبيش",
-          "person_id": 465,
+          "person_id": 523,
           "canonical_name": "أبو الحسين محمد بن علي بن حبيش المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو القاسم الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -254,7 +254,7 @@
       "chain": [
         {
           "name": "الجنيد ابن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -268,14 +268,14 @@
       "chain": [
         {
           "name": "علي بن هارون",
-          "person_id": 435,
+          "person_id": 489,
           "canonical_name": "أبو الحسن علي بن هارون",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -289,21 +289,21 @@
       "chain": [
         {
           "name": "جعفر بن محمد بن نصر",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "محمد بن إبراهيم",
-          "person_id": 983,
+          "person_id": 1054,
           "canonical_name": "أبو علي محمد بن إبراهيم البزّاز",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو القاسم الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -317,14 +317,14 @@
       "chain": [
         {
           "name": "أبو بكر محمد بن أحمد بن يعقوب",
-          "person_id": 702,
+          "person_id": 777,
           "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
-          "has_id": 380,
+          "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا القاسم الجنيد ابن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -338,14 +338,14 @@
       "chain": [
         {
           "name": "أبا بكر محمد بن أحمد",
-          "person_id": 647,
+          "person_id": 775,
           "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
           "has_id": 91,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -359,14 +359,14 @@
       "chain": [
         {
           "name": "أبا بكر محمد بن أحمد",
-          "person_id": 647,
+          "person_id": 775,
           "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
           "has_id": 91,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -380,21 +380,21 @@
       "chain": [
         {
           "name": "عثمان بن محمد العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن عطاء",
-          "person_id": 498,
+          "person_id": 559,
           "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
           "has_id": 340,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -408,21 +408,21 @@
       "chain": [
         {
           "name": "عثمان بن محمد",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "بعض أصحابنا",
-          "person_id": 1338,
+          "person_id": 1400,
           "canonical_name": "بعض أصحابنا",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -436,28 +436,28 @@
       "chain": [
         {
           "name": "علي بن عبد الله الجهضمي",
-          "person_id": 2049,
+          "person_id": 2117,
           "canonical_name": "علي بن عبد الله بن جهضم",
           "has_id": 316,
           "subj_added": false
         },
         {
           "name": "أحمد بن عطاء",
-          "person_id": 498,
+          "person_id": 559,
           "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
           "has_id": 340,
           "subj_added": false
         },
         {
           "name": "محمد بن الحريض",
-          "person_id": 2224,
+          "person_id": 2290,
           "canonical_name": "محمد بن الحريض",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -471,21 +471,21 @@
       "chain": [
         {
           "name": "جعفر بن محمد بن نصير",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "محمد بن إبراهيم",
-          "person_id": 983,
+          "person_id": 1054,
           "canonical_name": "أبو علي محمد بن إبراهيم البزّاز",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -499,28 +499,28 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "أبا عبد الله الدارمي",
-          "person_id": 864,
+          "person_id": 941,
           "canonical_name": "أبو عبد الله الدارمي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا بكر العطوي",
-          "person_id": 639,
+          "person_id": 709,
           "canonical_name": "أبو بكر العطوي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": true
@@ -534,14 +534,14 @@
       "chain": [
         {
           "name": "أبو الحسن علي بن هارون",
-          "person_id": 435,
+          "person_id": 489,
           "canonical_name": "أبو الحسن علي بن هارون",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا القاسم الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -555,14 +555,14 @@
       "chain": [
         {
           "name": "علي بن هارون",
-          "person_id": 435,
+          "person_id": 489,
           "canonical_name": "أبو الحسن علي بن هارون",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -576,21 +576,21 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن جعفر بن هانئ",
-          "person_id": 1188,
+          "person_id": 1252,
           "canonical_name": "أحمد بن جعفر بن هانئ",
           "has_id": 444,
           "subj_added": false
         },
         {
           "name": "أبا القاسم الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -604,21 +604,21 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن جعفر بن هانئ",
-          "person_id": 1188,
+          "person_id": 1252,
           "canonical_name": "أحمد بن جعفر بن هانئ",
           "has_id": 444,
           "subj_added": false
         },
         {
           "name": "أبا القاسم الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -632,21 +632,21 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن جعفر بن هانئ",
-          "person_id": 1188,
+          "person_id": 1252,
           "canonical_name": "أحمد بن جعفر بن هانئ",
           "has_id": 444,
           "subj_added": false
         },
         {
           "name": "أبا القاسم الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -660,21 +660,21 @@
       "chain": [
         {
           "name": "جعفر بن محمد بن نصير",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "عثمان بن محمد العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -688,21 +688,21 @@
       "chain": [
         {
           "name": "جعفر",
-          "person_id": 1393,
+          "person_id": 1453,
           "canonical_name": "جعفر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عثمان",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": true
@@ -716,21 +716,21 @@
       "chain": [
         {
           "name": "جعفر",
-          "person_id": 1393,
+          "person_id": 1453,
           "canonical_name": "جعفر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عثمان",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -744,14 +744,14 @@
       "chain": [
         {
           "name": "أبا القاسم المطرز",
-          "person_id": 540,
+          "person_id": 603,
           "canonical_name": "أبو القاسم المطرز",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -766,13 +766,13 @@
         {
           "name": "أبا الحسن المحلي",
           "has_id": NaN,
-          "person_id": 9,
-          "canonical_name": "ابن النصراباذي",
+          "person_id": 458,
+          "canonical_name": "أبو الحسن المحلي",
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -786,14 +786,14 @@
       "chain": [
         {
           "name": "أبا محمد الخواص",
-          "person_id": 1038,
+          "person_id": 1107,
           "canonical_name": "أبو محمد الخواص",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -807,14 +807,14 @@
       "chain": [
         {
           "name": "أبا محمد الخواص",
-          "person_id": 1038,
+          "person_id": 1107,
           "canonical_name": "أبو محمد الخواص",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -828,21 +828,21 @@
       "chain": [
         {
           "name": "جعفر بن محمد",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "أبو الحسن بن مقسم",
-          "person_id": 414,
+          "person_id": 468,
           "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -856,14 +856,14 @@
       "chain": [
         {
           "name": "أبا محمد المرتعش",
-          "person_id": 1043,
+          "person_id": 1128,
           "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
           "has_id": 251,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -877,14 +877,14 @@
       "chain": [
         {
           "name": "أبا القاسم المطرز",
-          "person_id": 540,
+          "person_id": 603,
           "canonical_name": "أبو القاسم المطرز",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -898,28 +898,28 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "أحمد بن إسحاق الرازي",
-          "person_id": 1174,
+          "person_id": 1238,
           "canonical_name": "أحمد بن إسحاق الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "العباس بن عبد الله",
-          "person_id": 178,
+          "person_id": 201,
           "canonical_name": "العباس بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -933,28 +933,28 @@
       "chain": [
         {
           "name": "محمد بن الحسين",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "أحمد بن إسحاق الرازي",
-          "person_id": 1174,
+          "person_id": 1238,
           "canonical_name": "أحمد بن إسحاق الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "العباس بن عبد الله",
-          "person_id": 178,
+          "person_id": 201,
           "canonical_name": "العباس بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -968,7 +968,7 @@
       "chain": [
         {
           "name": "الجنيد بن محمد أبا القاسم",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -982,14 +982,14 @@
       "chain": [
         {
           "name": "بعض أصحابنا",
-          "person_id": 1338,
+          "person_id": 1400,
           "canonical_name": "بعض أصحابنا",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي القاسم الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1003,14 +1003,14 @@
       "chain": [
         {
           "name": "أبا بكر محمد بن أحمد المفيد",
-          "person_id": 647,
+          "person_id": 775,
           "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
           "has_id": 91,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": true
@@ -1024,14 +1024,14 @@
       "chain": [
         {
           "name": "محمد بن سعيد",
-          "person_id": 2356,
+          "person_id": 2420,
           "canonical_name": "محمد بن سعيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1045,14 +1045,14 @@
       "chain": [
         {
           "name": "أبا بكر بن سعيد",
-          "person_id": 670,
+          "person_id": 740,
           "canonical_name": "أبو بكر بن سعيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1066,14 +1066,14 @@
       "chain": [
         {
           "name": "أبا بكر ختن الجنيد",
-          "person_id": 682,
+          "person_id": 755,
           "canonical_name": "أبو بكر ختن الجنيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1087,21 +1087,21 @@
       "chain": [
         {
           "name": "أبو الحسن بن مقسم",
-          "person_id": 414,
+          "person_id": 468,
           "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر ختن الجنيد",
-          "person_id": 682,
+          "person_id": 755,
           "canonical_name": "أبو بكر ختن الجنيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1115,21 +1115,21 @@
       "chain": [
         {
           "name": "أبو الحسن بن مقسم",
-          "person_id": 414,
+          "person_id": 468,
           "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر ختن الجنيد",
-          "person_id": 682,
+          "person_id": 755,
           "canonical_name": "أبو بكر ختن الجنيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1143,14 +1143,14 @@
       "chain": [
         {
           "name": "أبا القاسم المطرز",
-          "person_id": 540,
+          "person_id": 603,
           "canonical_name": "أبو القاسم المطرز",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1164,14 +1164,14 @@
       "chain": [
         {
           "name": "أبا القاسم النقاشي الصوفي",
-          "person_id": 543,
+          "person_id": 606,
           "canonical_name": "أبو القاسم النقاشي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1185,14 +1185,14 @@
       "chain": [
         {
           "name": "أبا القاسم النقاشي",
-          "person_id": 543,
+          "person_id": 606,
           "canonical_name": "أبو القاسم النقاشي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1206,21 +1206,21 @@
       "chain": [
         {
           "name": "أبو الحسن بن مقسم",
-          "person_id": 414,
+          "person_id": 468,
           "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علي بن الحسن القرشي",
-          "person_id": 1994,
+          "person_id": 2065,
           "canonical_name": "علي بن الحسن القرشي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1234,14 +1234,14 @@
       "chain": [
         {
           "name": "أبا القاسم الحفار",
-          "person_id": 533,
+          "person_id": 596,
           "canonical_name": "أبو القاسم الحفار",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1255,14 +1255,14 @@
       "chain": [
         {
           "name": "أحمد بن جعفر بن مالك",
-          "person_id": 1186,
+          "person_id": 1250,
           "canonical_name": "أحمد بن جعفر بن مالك",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا القاسم الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1276,14 +1276,14 @@
       "chain": [
         {
           "name": "أحمد بن جعفر بن مالك",
-          "person_id": 1186,
+          "person_id": 1250,
           "canonical_name": "أحمد بن جعفر بن مالك",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا القاسم الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1297,14 +1297,14 @@
       "chain": [
         {
           "name": "جعفر بن محمد",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1318,14 +1318,14 @@
       "chain": [
         {
           "name": "جعفر بن محمد",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1339,14 +1339,14 @@
       "chain": [
         {
           "name": "جعفر بن محمد",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1360,7 +1360,7 @@
       "chain": [
         {
           "name": "أبا عمرو العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
@@ -1368,13 +1368,13 @@
         {
           "name": "أبا الحسن",
           "has_id": NaN,
-          "person_id": 10,
-          "canonical_name": "ابن أبي الدنيا",
+          "person_id": 436,
+          "canonical_name": "أبو الحسن",
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1389,20 +1389,20 @@
         {
           "name": "أبا الحسن",
           "has_id": NaN,
-          "person_id": 11,
-          "canonical_name": "ابن أبي الورد",
+          "person_id": 436,
+          "canonical_name": "أبو الحسن",
           "subj_added": false
         },
         {
           "name": "أبا عبد الله الفارسي",
-          "person_id": 878,
+          "person_id": 954,
           "canonical_name": "أبو عبد الله الفارسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": true
@@ -1416,28 +1416,28 @@
       "chain": [
         {
           "name": "الجهضمي",
-          "person_id": 2049,
+          "person_id": 2117,
           "canonical_name": "علي بن عبد الله بن جهضم",
           "has_id": 316,
           "subj_added": false
         },
         {
           "name": "محمد بن الحسن",
-          "person_id": 2225,
+          "person_id": 2291,
           "canonical_name": "محمد بن الحسن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو القاسم بردان الهاوندي",
-          "person_id": 547,
+          "person_id": 610,
           "canonical_name": "أبو القاسم بردان الهاوندي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1451,28 +1451,28 @@
       "chain": [
         {
           "name": "علي بن عبد الله",
-          "person_id": 2049,
+          "person_id": 2117,
           "canonical_name": "علي بن عبد الله بن جهضم",
           "has_id": 316,
           "subj_added": false
         },
         {
           "name": "منصور بن أحمد",
-          "person_id": 2544,
+          "person_id": 2603,
           "canonical_name": "منصور بن أحمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "جعفر الدئلي",
-          "person_id": 1394,
+          "person_id": 1454,
           "canonical_name": "جعفر الدئلي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1486,21 +1486,21 @@
       "chain": [
         {
           "name": "عثمان بن محمد العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "حكيم بن محمد",
-          "person_id": 1468,
+          "person_id": 1530,
           "canonical_name": "حكيم بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": true
@@ -1514,14 +1514,14 @@
       "chain": [
         {
           "name": "أبو بكر محمد بن أحمد بن محمد المفيد",
-          "person_id": 647,
+          "person_id": 775,
           "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
           "has_id": 91,
           "subj_added": false
         },
         {
           "name": "أبا القاسم الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1535,21 +1535,21 @@
       "chain": [
         {
           "name": "جعفر بن محمد بن نصير",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "محمد بن إبراهيم",
-          "person_id": 983,
+          "person_id": 1054,
           "canonical_name": "أبو علي محمد بن إبراهيم البزّاز",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1563,21 +1563,21 @@
       "chain": [
         {
           "name": "جعفر",
-          "person_id": 1393,
+          "person_id": 1453,
           "canonical_name": "جعفر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد",
-          "person_id": 2225,
+          "person_id": 2291,
           "canonical_name": "محمد بن الحسن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1591,14 +1591,14 @@
       "chain": [
         {
           "name": "أبو بكر محمد بن أحمد المفيد",
-          "person_id": 647,
+          "person_id": 775,
           "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
           "has_id": 91,
           "subj_added": false
         },
         {
           "name": "الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1612,21 +1612,21 @@
       "chain": [
         {
           "name": "محمد بن أحمد بن هارون",
-          "person_id": 2320,
+          "person_id": 2384,
           "canonical_name": "محمد بن أحمد بن هارون",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علي بن الحسين الغلاب",
-          "person_id": 2001,
+          "person_id": 2072,
           "canonical_name": "علي بن الحسين الغلاب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": true
@@ -1640,21 +1640,21 @@
       "chain": [
         {
           "name": "جعفر بن محمد",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "محمد بن إبراهيم",
-          "person_id": 983,
+          "person_id": 1054,
           "canonical_name": "أبو علي محمد بن إبراهيم البزّاز",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا القاسم الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1668,21 +1668,21 @@
       "chain": [
         {
           "name": "جعفر بن محمد",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "محمد",
-          "person_id": 2225,
+          "person_id": 2291,
           "canonical_name": "محمد بن الحسن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد ابن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1696,21 +1696,21 @@
       "chain": [
         {
           "name": "جعفر بن محمد",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "محمد",
-          "person_id": 2225,
+          "person_id": 2291,
           "canonical_name": "محمد بن الحسن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد ابن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1724,21 +1724,21 @@
       "chain": [
         {
           "name": "جعفر بن محمد",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "محمد",
-          "person_id": 2225,
+          "person_id": 2291,
           "canonical_name": "محمد بن الحسن",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1752,28 +1752,28 @@
       "chain": [
         {
           "name": "أبو نصر محمد بن أحمد بن هارون",
-          "person_id": 1109,
+          "person_id": 1173,
           "canonical_name": "أبو نصر محمد بن أحمد بن هارون",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الواحد بن محمد الإصطخري أبا الأزهر",
-          "person_id": 381,
+          "person_id": 429,
           "canonical_name": "أبو الأزهر عبد الواحد بن محمد الإصطخري",
           "has_id": 37,
           "subj_added": false
         },
         {
           "name": "إبراهيم بن عثمان",
-          "person_id": 318,
+          "person_id": 343,
           "canonical_name": "إبراهيم بن عثمان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد ابن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1787,21 +1787,21 @@
       "chain": [
         {
           "name": "جعفر بن محمد",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "عثمان بن محمد",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": true
@@ -1815,21 +1815,21 @@
       "chain": [
         {
           "name": "جعفر بن محمد",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "عثمان بن محمد",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": true
@@ -1843,28 +1843,28 @@
       "chain": [
         {
           "name": "محمد بن أحمد بن هارون",
-          "person_id": 2320,
+          "person_id": 2384,
           "canonical_name": "محمد بن أحمد بن هارون",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو زرعة الطبرى",
-          "person_id": 788,
+          "person_id": 864,
           "canonical_name": "أبو زرعة الطبرى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسين بن ياسين",
-          "person_id": 131,
+          "person_id": 150,
           "canonical_name": "الحسين بن ياسين",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الجنيد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1878,28 +1878,28 @@
       "chain": [
         {
           "name": "محمد بن أحمد المفيد",
-          "person_id": 647,
+          "person_id": 775,
           "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
           "has_id": 91,
           "subj_added": false
         },
         {
           "name": "عثمان بن محمد",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الصمد بن محمد الجبلي",
-          "person_id": 1766,
+          "person_id": 1835,
           "canonical_name": "عبد الصمد بن محمد الجبلي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": true
@@ -1913,21 +1913,21 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن جعفر بن هانئ",
-          "person_id": 1188,
+          "person_id": 1252,
           "canonical_name": "أحمد بن جعفر بن هانئ",
           "has_id": 444,
           "subj_added": false
         },
         {
           "name": "أبا القاسم الجنيد بن محمد",
-          "person_id": 532,
+          "person_id": 595,
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
@@ -1945,7 +1945,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "يتفقه على مذهب أصحاب الحديث مثل",
         "full_text": "وكان في أول أمره يتفقه على مذهب أصحاب الحديث مثل أبي عبيد",
-        "person_id": 923,
+        "person_id": 996,
         "canonical_name": "أبو عبيد",
         "has_id": NaN
       },
@@ -1954,7 +1954,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "يتفقه على مذهب أصحاب الحديث مثل",
         "full_text": "وكان في أول أمره يتفقه على مذهب أصحاب الحديث مثل أبي عبيد وأبي ثور",
-        "person_id": 724,
+        "person_id": 799,
         "canonical_name": "أبو ثور",
         "has_id": NaN
       }
@@ -1966,7 +1966,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "وصحب الحارث بن أسد المحاسبي وخاله السري بن مفلس",
-        "person_id": 69,
+        "person_id": 87,
         "canonical_name": "الحارث بن أسد المحاسبي",
         "has_id": 229
       },
@@ -1975,7 +1975,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "وصحب الحارث بن أسد المحاسبي وخاله السري بن مفلس",
-        "person_id": 161,
+        "person_id": 183,
         "canonical_name": "السري السقطي",
         "has_id": 236
       }
@@ -1987,14 +1987,14 @@
       "relationship_type": "narrator",
       "full_text": "سمعت أبا الحسن علي بن هارون بن محمد وأبا بكر محمد بن أحمد المفيد يقولان",
       "has_id": NaN,
-      "person_id": 4,
-      "canonical_name": "ابن البرقي"
+      "person_id": 489,
+      "canonical_name": "أبو الحسن علي بن هارون"
     },
     {
       "name": "أبا بكر محمد بن أحمد المفيد",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا الحسن علي بن هارون بن محمد وأبا بكر محمد بن أحمد المفيد يقولان",
-      "person_id": 647,
+      "person_id": 775,
       "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
       "has_id": 91
     },
@@ -2002,7 +2002,7 @@
       "name": "أبا محمد الخواص",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا الحسن أحمد بن محمد بن مقسم يقول سمعت أبا محمد الخواص يقول",
-      "person_id": 1038,
+      "person_id": 1107,
       "canonical_name": "أبو محمد الخواص",
       "has_id": NaN
     },
@@ -2010,7 +2010,7 @@
       "name": "أبي الحسين محمد بن علي بن حبيش الناقد الصوفي صاحب أبي العباس بن عطاء",
       "relationship_type": "narrator",
       "full_text": "قرأت على أبي الحسين محمد بن علي بن حبيش الناقد الصوفي صاحب أبي العباس بن عطاء ببغداد - سنة تسع وخمسين وثلاثمائة",
-      "person_id": 465,
+      "person_id": 523,
       "canonical_name": "أبو الحسين محمد بن علي بن حبيش المقرئ",
       "has_id": NaN
     },
@@ -2018,7 +2018,7 @@
       "name": "عبد الواحد بن علوان",
       "relationship_type": "narrator",
       "full_text": "سمعت عبد الواحد بن علوان يقول",
-      "person_id": 1909,
+      "person_id": 1977,
       "canonical_name": "عبد الواحد بن علوان",
       "has_id": NaN
     },
@@ -2026,7 +2026,7 @@
       "name": "محمد بن إبراهيم",
       "relationship_type": "narrator",
       "full_text": "وحدثني عنه محمد بن إبراهيم قال",
-      "person_id": 983,
+      "person_id": 1054,
       "canonical_name": "أبو علي محمد بن إبراهيم البزّاز",
       "has_id": NaN
     },
@@ -2034,15 +2034,15 @@
       "name": "أبا الحسين بن الدراج",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا الحسين بن الدراج يقول",
-      "has_id": 27,
-      "person_id": 7,
-      "canonical_name": "ابن السماك"
+      "has_id": 318,
+      "person_id": 501,
+      "canonical_name": "أبو الحسين الدراج"
     },
     {
       "name": "الحسين بن يحيى الفقيه الأسفيعاني",
       "relationship_type": "narrator",
       "full_text": "وحدثني عنه الحسين بن يحيى الفقيه الأسفيعاني قال",
-      "person_id": 134,
+      "person_id": 153,
       "canonical_name": "الحسين بن يحيى الفقيه الأسفيعاني",
       "has_id": NaN
     },
@@ -2050,7 +2050,7 @@
       "name": "محمد بن علي بن حبيش",
       "relationship_type": "narrator",
       "full_text": "وقرأت على محمد بن علي بن حبيش",
-      "person_id": 465,
+      "person_id": 523,
       "canonical_name": "أبو الحسين محمد بن علي بن حبيش المقرئ",
       "has_id": NaN
     },
@@ -2059,14 +2059,14 @@
       "relationship_type": "narrator",
       "full_text": "سمعت أبا الحسن علي بن هارون بن محمد السمسار يقول",
       "has_id": NaN,
-      "person_id": 8,
-      "canonical_name": "ابن الفضل القاضي البلخي"
+      "person_id": 489,
+      "canonical_name": "أبو الحسن علي بن هارون"
     },
     {
       "name": "علي بن هارون",
       "relationship_type": "narrator",
       "full_text": "سمعت علي بن هارون يقول",
-      "person_id": 435,
+      "person_id": 489,
       "canonical_name": "أبو الحسن علي بن هارون",
       "has_id": NaN
     },
@@ -2074,15 +2074,15 @@
       "name": "أبو بكر محمد بن أحمد بن يعقوب",
       "relationship_type": "narrator",
       "full_text": "حدثنا أبو بكر محمد بن أحمد بن يعقوب قال",
-      "person_id": 702,
+      "person_id": 777,
       "canonical_name": "أبو بكر محمد بن أحمد بن يعقوب الوراق",
-      "has_id": 380
+      "has_id": NaN
     },
     {
       "name": "أبا بكر محمد بن أحمد",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا بكر محمد بن أحمد يقول",
-      "person_id": 647,
+      "person_id": 775,
       "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
       "has_id": 91
     },
@@ -2090,7 +2090,7 @@
       "name": "أحمد بن عطاء",
       "relationship_type": "narrator",
       "full_text": "سمعت أحمد بن عطاء يقول",
-      "person_id": 498,
+      "person_id": 559,
       "canonical_name": "أبو العباس أحمد بن عطاء الآدمي",
       "has_id": 340
     },
@@ -2098,7 +2098,7 @@
       "name": "بعض أصحابنا",
       "relationship_type": "narrator",
       "full_text": "ثنا بعض أصحابنا قال",
-      "person_id": 1338,
+      "person_id": 1400,
       "canonical_name": "بعض أصحابنا",
       "has_id": NaN
     },
@@ -2106,7 +2106,7 @@
       "name": "محمد بن الحريض",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن الحريض يقول",
-      "person_id": 2224,
+      "person_id": 2290,
       "canonical_name": "محمد بن الحريض",
       "has_id": NaN
     },
@@ -2114,7 +2114,7 @@
       "name": "أبا عبد الله الدارمي",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا عبد الله الدارمي يقول",
-      "person_id": 864,
+      "person_id": 941,
       "canonical_name": "أبو عبد الله الدارمي",
       "has_id": NaN
     },
@@ -2122,7 +2122,7 @@
       "name": "أبا بكر العطوي",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا بكر العطوي يقول",
-      "person_id": 639,
+      "person_id": 709,
       "canonical_name": "أبو بكر العطوي",
       "has_id": NaN
     },
@@ -2130,7 +2130,7 @@
       "name": "أحمد بن جعفر بن هانئ",
       "relationship_type": "narrator",
       "full_text": "سمعت أحمد بن جعفر بن هانئ يقول",
-      "person_id": 1188,
+      "person_id": 1252,
       "canonical_name": "أحمد بن جعفر بن هانئ",
       "has_id": 444
     },
@@ -2138,7 +2138,7 @@
       "name": "عثمان بن محمد العثماني",
       "relationship_type": "narrator",
       "full_text": "سمعت عثمان بن محمد العثماني يقول",
-      "person_id": 1021,
+      "person_id": 1089,
       "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
       "has_id": NaN
     },
@@ -2146,7 +2146,7 @@
       "name": "أبا القاسم المطرز",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا القاسم المطرز يقول",
-      "person_id": 540,
+      "person_id": 603,
       "canonical_name": "أبو القاسم المطرز",
       "has_id": NaN
     },
@@ -2155,14 +2155,14 @@
       "relationship_type": "narrator",
       "full_text": "سمعت أبا الحسن المحلي يقول",
       "has_id": NaN,
-      "person_id": 5,
+      "person_id": 458,
       "canonical_name": "أبو الحسن المحلي"
     },
     {
       "name": "أبو الحسن بن مقسم",
       "relationship_type": "narrator",
       "full_text": "وحدثني عنه أبو الحسن بن مقسم قال",
-      "person_id": 414,
+      "person_id": 468,
       "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
       "has_id": NaN
     },
@@ -2170,7 +2170,7 @@
       "name": "أبا محمد المرتعش",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا محمد المرتعش يقول",
-      "person_id": 1043,
+      "person_id": 1128,
       "canonical_name": "أبو محمد عبد الله بن محمد المرتعش",
       "has_id": 251
     },
@@ -2178,7 +2178,7 @@
       "name": "العباس بن عبد الله",
       "relationship_type": "narrator",
       "full_text": "سمعت العباس بن عبد الله يقول",
-      "person_id": 178,
+      "person_id": 201,
       "canonical_name": "العباس بن عبد الله",
       "has_id": NaN
     },
@@ -2186,7 +2186,7 @@
       "name": "محمد بن سعيد",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن سعيد يقول",
-      "person_id": 2356,
+      "person_id": 2420,
       "canonical_name": "محمد بن سعيد",
       "has_id": NaN
     },
@@ -2194,7 +2194,7 @@
       "name": "أبا بكر بن سعيد",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا بكر بن سعيد وأبا بكر\nختن الجنيد يقولان",
-      "person_id": 670,
+      "person_id": 740,
       "canonical_name": "أبو بكر بن سعيد",
       "has_id": NaN
     },
@@ -2202,7 +2202,7 @@
       "name": "أبا بكر ختن الجنيد",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا بكر بن سعيد وأبا بكر\nختن الجنيد يقولان",
-      "person_id": 682,
+      "person_id": 755,
       "canonical_name": "أبو بكر ختن الجنيد",
       "has_id": NaN
     },
@@ -2210,7 +2210,7 @@
       "name": "أبا القاسم النقاشي الصوفي",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا القاسم النقاشي الصوفي يقول",
-      "person_id": 543,
+      "person_id": 606,
       "canonical_name": "أبو القاسم النقاشي",
       "has_id": NaN
     },
@@ -2218,7 +2218,7 @@
       "name": "أبا القاسم النقاشي",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا القاسم النقاشي يقول",
-      "person_id": 543,
+      "person_id": 606,
       "canonical_name": "أبو القاسم النقاشي",
       "has_id": NaN
     },
@@ -2226,7 +2226,7 @@
       "name": "علي بن الحسن القرشي",
       "relationship_type": "narrator",
       "full_text": "أنشدني علي بن الحسن القرشي قال",
-      "person_id": 1994,
+      "person_id": 2065,
       "canonical_name": "علي بن الحسن القرشي",
       "has_id": NaN
     },
@@ -2234,7 +2234,7 @@
       "name": "أبا القاسم الحفار",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا القاسم الحفار يقو ل",
-      "person_id": 533,
+      "person_id": 596,
       "canonical_name": "أبو القاسم الحفار",
       "has_id": NaN
     },
@@ -2242,7 +2242,7 @@
       "name": "أحمد بن جعفر بن مالك",
       "relationship_type": "narrator",
       "full_text": "سمعت أحمد بن جعفر بن مالك يقول",
-      "person_id": 1186,
+      "person_id": 1250,
       "canonical_name": "أحمد بن جعفر بن مالك",
       "has_id": NaN
     },
@@ -2250,7 +2250,7 @@
       "name": "جعفر بن محمد",
       "relationship_type": "narrator",
       "full_text": "أخبرنا جعفر بن محمد - فيما كتب إلي - قال",
-      "person_id": 1405,
+      "person_id": 1464,
       "canonical_name": "جعفر بن محمد الخلدي",
       "has_id": 495
     },
@@ -2258,7 +2258,7 @@
       "name": "أبا عمرو العثماني",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا عمرو العثماني يقول",
-      "person_id": 1021,
+      "person_id": 1089,
       "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
       "has_id": NaN
     },
@@ -2267,14 +2267,14 @@
       "relationship_type": "narrator",
       "full_text": "سمعت أبا الحسن يقول",
       "has_id": NaN,
-      "person_id": 6,
+      "person_id": 436,
       "canonical_name": "أبو الحسن"
     },
     {
       "name": "أبا عبد الله الفارسي",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا عبد الله الفارسي يقول",
-      "person_id": 878,
+      "person_id": 954,
       "canonical_name": "أبو عبد الله الفارسي",
       "has_id": NaN
     },
@@ -2282,7 +2282,7 @@
       "name": "أبو القاسم بردان الهاوندي",
       "relationship_type": "narrator",
       "full_text": "ثنا أبو القاسم بردان الهاوندي قال",
-      "person_id": 547,
+      "person_id": 610,
       "canonical_name": "أبو القاسم بردان الهاوندي",
       "has_id": NaN
     },
@@ -2290,7 +2290,7 @@
       "name": "جعفر الدئلي",
       "relationship_type": "narrator",
       "full_text": "ثنا جعفر الدئلي قال",
-      "person_id": 1394,
+      "person_id": 1454,
       "canonical_name": "جعفر الدئلي",
       "has_id": NaN
     },
@@ -2298,7 +2298,7 @@
       "name": "حكيم بن محمد",
       "relationship_type": "narrator",
       "full_text": "سمعت حكيم بن محمد يقول",
-      "person_id": 1468,
+      "person_id": 1530,
       "canonical_name": "حكيم بن محمد",
       "has_id": NaN
     },
@@ -2306,7 +2306,7 @@
       "name": "أبو بكر محمد بن أحمد بن محمد المفيد",
       "relationship_type": "narrator",
       "full_text": "حدثنا أبو بكر محمد بن أحمد بن محمد المفيد قال",
-      "person_id": 647,
+      "person_id": 775,
       "canonical_name": "أبو بكر محمد بن أحمد بن محمد المفيد",
       "has_id": 91
     },
@@ -2314,7 +2314,7 @@
       "name": "محمد",
       "relationship_type": "narrator",
       "full_text": "وحدثنا عنه محمد قال",
-      "person_id": 2225,
+      "person_id": 2291,
       "canonical_name": "محمد بن الحسن",
       "has_id": NaN
     },
@@ -2322,7 +2322,7 @@
       "name": "محمد بن أحمد بن هارون",
       "relationship_type": "narrator",
       "full_text": "أخبر محمد بن أحمد بن هارون قال",
-      "person_id": 2320,
+      "person_id": 2384,
       "canonical_name": "محمد بن أحمد بن هارون",
       "has_id": NaN
     },
@@ -2330,7 +2330,7 @@
       "name": "علي بن الحسين الغلاب",
       "relationship_type": "narrator",
       "full_text": "سمعت علي بن الحسين الغلاب\nيقول",
-      "person_id": 2001,
+      "person_id": 2072,
       "canonical_name": "علي بن الحسين الغلاب",
       "has_id": NaN
     },
@@ -2338,7 +2338,7 @@
       "name": "عبد الواحد بن محمد الإصطخري أبا الأزهر",
       "relationship_type": "narrator",
       "full_text": "سمعت عبد الواحد بن محمد الإصطخري أبا الأزهر يقول",
-      "person_id": 381,
+      "person_id": 429,
       "canonical_name": "أبو الأزهر عبد الواحد بن محمد الإصطخري",
       "has_id": 37
     },
@@ -2346,7 +2346,7 @@
       "name": "إبراهيم بن عثمان",
       "relationship_type": "narrator",
       "full_text": "سمعت إبراهيم بن عثمان يقول",
-      "person_id": 318,
+      "person_id": 343,
       "canonical_name": "إبراهيم بن عثمان",
       "has_id": NaN
     },
@@ -2354,7 +2354,7 @@
       "name": "عثمان بن محمد",
       "relationship_type": "narrator",
       "full_text": "وحدثني عنه عثمان قال",
-      "person_id": 1021,
+      "person_id": 1089,
       "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
       "has_id": NaN
     },
@@ -2363,7 +2363,7 @@
       "relationship_type": "questioner",
       "context": "سائل",
       "full_text": "وسأله جعفر: ما تقول أكرمك الله في الذكر الخفي ما هو الذي لا تعلمه الحفظة، ومن أين زاد عمل السر على عمل العلانية سبعين ضعفا؟",
-      "person_id": 1393,
+      "person_id": 1453,
       "canonical_name": "جعفر",
       "has_id": NaN
     },
@@ -2372,7 +2372,7 @@
       "relationship_type": "questioner",
       "context": "سائلون",
       "full_text": "سأله أصحابه فقالوا: يا أستاذ متى يكون الله ﷿ مقبلا على عبده؟",
-      "person_id": 1302,
+      "person_id": 1363,
       "canonical_name": "أصحابه",
       "has_id": NaN
     },
@@ -2381,7 +2381,7 @@
       "relationship_type": "questioner",
       "context": "سائل",
       "full_text": "سمعت أبا الحسن بن مقسم يقول سمعت أبا القاسم الحفار يقو ل سمعت الجنيد - وقد سأله رجل: كيف الطريق إلى الله تعالى؟ -",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -2390,7 +2390,7 @@
       "relationship_type": "questioner",
       "context": "سائل",
       "full_text": "سمعت أحمد بن جعفر بن مالك يقول سمعت أبا القاسم الجنيد بن محمد\nيقول - وسأله سائل: العناية قبل أم البداية؟ -",
-      "person_id": 1585,
+      "person_id": 1647,
       "canonical_name": "سائل",
       "has_id": NaN
     },
@@ -2398,7 +2398,7 @@
       "name": "أبو عبد الله المغربي",
       "relationship_type": "interlocutor",
       "full_text": "وقف أبو عبد الله المغربي على الجنيد وقد سئل عن قوله ﴿(سنقرئك فلا تنسى)﴾ ... فقال المغربي: حرجت أمة أنت بين ظهرانيها لا تفوض أمرها إليك.",
-      "person_id": 885,
+      "person_id": 960,
       "canonical_name": "أبو عبد الله المغربي",
       "has_id": 416
     },
@@ -2406,7 +2406,7 @@
       "name": "الشبلي",
       "relationship_type": "interlocutor",
       "full_text": "كنت أمشي مع الجنيد فلقيه الشبلي فقال له: يا أبا القاسم ما تقول فيمن الحق حسبه نعتا وعلما ووجودا؟",
-      "person_id": 628,
+      "person_id": 699,
       "canonical_name": "أبو بكر الشبلي",
       "has_id": 376
     },
@@ -2415,7 +2415,7 @@
       "relationship_type": "questioner",
       "context": "سائل",
       "full_text": "قال وسأله الحريري عن قول عيسى ﵇: ﴿(تعلم ما في نفسي ولا أعلم ما في نفسك)﴾",
-      "person_id": 1035,
+      "person_id": 1104,
       "canonical_name": "أبو محمد الجريري",
       "has_id": 431
     },
@@ -2424,15 +2424,15 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "كاتب إليه",
       "full_text": "كتب الجنيد إلى أبي إسحاق المارستاني",
-      "person_id": 573,
+      "person_id": 641,
       "canonical_name": "أبو إسحاق إبراهيم المارستاني",
-      "has_id": NaN
+      "has_id": 269
     },
     {
       "name": "أبو الحسن السدي",
       "relationship_type": "interlocutor",
       "full_text": "قال سمعت الجنيد يقول: جئت إلى أبي الحسن السدي يوما فدققت عليه الباب فقال: من هذا؟ فقلت: جنيد.",
-      "person_id": 293,
+      "person_id": 319,
       "canonical_name": "إبراهيم بن السري السقطي",
       "has_id": 272
     },
@@ -2440,7 +2440,7 @@
       "name": "السري السقطي",
       "relationship_type": "interlocutor",
       "full_text": "دخلت يوما على سري السقطي فرأيت عليه هما",
-      "person_id": 161,
+      "person_id": 183,
       "canonical_name": "السري السقطي",
       "has_id": 236
     },
@@ -2448,7 +2448,7 @@
       "name": "السري بن المغلس بن الحسين",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "كنت يوما عند السري بن المغلس بن الحسين وهو متزر بمئزر",
-      "person_id": 161,
+      "person_id": 183,
       "canonical_name": "السري السقطي",
       "has_id": 236
     },
@@ -2456,7 +2456,7 @@
       "name": "رويم",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "ورأى رويما وقد تولى القضاء فقال: من أراد أن ينظر إلى من خبأ في سره حب الدنيا عشرين سنة فلينظر إلى هذا.",
-      "person_id": 1553,
+      "person_id": 1615,
       "canonical_name": "رويم بن أحمد",
       "has_id": 578
     },
@@ -2464,7 +2464,7 @@
       "name": "فلان الجني",
       "relationship_type": "interlocutor",
       "full_text": "فقلت: من أنت؟ قال أنا فلان الجني، وقد جئت إليك من المغرب.",
-      "person_id": 2171,
+      "person_id": 2237,
       "canonical_name": "فلان الجني",
       "has_id": NaN
     }

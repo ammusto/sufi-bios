@@ -89,7 +89,7 @@
       "chain": [
         {
           "name": "بوالحسین هاشمی",
-          "person_id": 469,
+          "person_id": 511,
           "canonical_name": "أبو الحسين الهاشمي",
           "has_id": 323,
           "subj_added": false
@@ -103,7 +103,7 @@
       "chain": [
         {
           "name": "بوالحسین هاشمی",
-          "person_id": 469,
+          "person_id": 511,
           "canonical_name": "أبو الحسين الهاشمي",
           "has_id": 323,
           "subj_added": false
@@ -133,7 +133,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "خادم",
         "full_text": "خادم ابرهیم خواص بوده",
-        "person_id": 278,
+        "person_id": 640,
         "canonical_name": "أبو إسحاق إبراهيم الخواص",
         "has_id": 268
       },
@@ -142,7 +142,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "بزیارت",
         "full_text": "شیخ الاسلام گفت: که بوالحسین دراج از بغداد برفت به ری آمد بزیارت یوسف حسین رازی ترا.",
-        "person_id": 1140,
+        "person_id": 1205,
         "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
         "has_id": 847
       }
@@ -154,7 +154,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "با",
         "full_text": "در سنه عشرین و ثلثمائه برفته با شیخ ابو عمرو دمشقی و بوعمران مزین رازی.",
-        "person_id": 1010,
+        "person_id": 1078,
         "canonical_name": "أبو عمرو الدمشقي",
         "has_id": 425
       },
@@ -163,7 +163,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "با",
         "full_text": "در سنه عشرین و ثلثمائه برفته با شیخ ابو عمرو دمشقی و بوعمران مزین رازی.",
-        "person_id": 1002,
+        "person_id": 1070,
         "canonical_name": "أبو عمران المزين الرازي",
         "has_id": NaN
       }
@@ -174,7 +174,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -182,7 +182,7 @@
       "name": "یوسف حسین رازی",
       "relationship_type": "questioner",
       "full_text": "گفت: ارترا در راه کسی سرای آراسته وکنیزک نیکو دادی، آن ترا از زیارت من مانع بودی؟",
-      "person_id": 1140,
+      "person_id": 1205,
       "canonical_name": "أبو يعقوب يوسف بن الحسين الرازي",
       "has_id": 847
     },
@@ -190,7 +190,7 @@
       "name": "ابوالحسین سلامی",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت: کی ابوالحسین سلامی مردی بزرگ بود و صاحب تاریخست.",
-      "person_id": 445,
+      "person_id": 503,
       "canonical_name": "أبو الحسين السلامي",
       "has_id": 319
     },
@@ -198,7 +198,7 @@
       "name": "عیسی موصلی",
       "relationship_type": "narrator",
       "full_text": "وی گفت: که بر مسلمانان آیتی فرود آمد، ندانم، که از بس آن آیت اللّه را چون آزاراند؟ ما یکون من نجوی ثلثه الاهورا بعهم. الآیه.",
-      "person_id": 2145,
+      "person_id": 2211,
       "canonical_name": "عيسي موصلي",
       "has_id": NaN
     },
@@ -206,7 +206,7 @@
       "name": "بوالحسین مالکی",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت: کی بوالحسین مالکی نام وی احمد بن سعید المالکی بغدادیست",
-      "person_id": 450,
+      "person_id": 508,
       "canonical_name": "أبو الحسين المالكي",
       "has_id": 321
     },
@@ -214,7 +214,7 @@
       "name": "بوالحسین هاشمی",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت: کی بوالحسین هاشمی گویدکی از جنید پرسیدند: کی دل کی خوش بود؟",
-      "person_id": 469,
+      "person_id": 511,
       "canonical_name": "أبو الحسين الهاشمي",
       "has_id": 323
     },
@@ -223,7 +223,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "با او در وقت وفات",
       "full_text": "در سنه عشرین و ثلثمائه برفته با شیخ ابو عمرو دمشقی و بوعمران مزین رازی.",
-      "person_id": 1010,
+      "person_id": 1078,
       "canonical_name": "أبو عمرو الدمشقي",
       "has_id": 425
     },
@@ -232,7 +232,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "با او در وقت وفات",
       "full_text": "در سنه عشرین و ثلثمائه برفته با شیخ ابو عمرو دمشقی و بوعمران مزین رازی.",
-      "person_id": 1002,
+      "person_id": 1070,
       "canonical_name": "أبو عمران المزين الرازي",
       "has_id": NaN
     }

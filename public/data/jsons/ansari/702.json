@@ -52,28 +52,28 @@
       "chain": [
         {
           "name": "اسحق حافظ",
-          "person_id": 46,
+          "person_id": 65,
           "canonical_name": "اسحق حافظ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علی یوسف شیرازی",
-          "person_id": 2077,
+          "person_id": 2142,
           "canonical_name": "علي بن يوسف الشيرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "شیخ بوالحسن جهنم همدانی",
-          "person_id": 2049,
+          "person_id": 2117,
           "canonical_name": "علي بن عبد الله بن جهضم",
           "has_id": 316,
           "subj_added": false
         },
         {
           "name": "بندار ارگانی",
-          "person_id": 1364,
+          "person_id": 477,
           "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
           "has_id": 702,
           "subj_added": false
@@ -93,7 +93,7 @@
       "chain": [
         {
           "name": "بندار",
-          "person_id": 1364,
+          "person_id": 477,
           "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
           "has_id": 702,
           "subj_added": false
@@ -107,7 +107,7 @@
       "chain": [
         {
           "name": "بندار بن الحسین",
-          "person_id": 1364,
+          "person_id": 477,
           "canonical_name": "أبو الحسن بندار بن الحسين الشيرازي",
           "has_id": 702,
           "subj_added": false
@@ -125,7 +125,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد شبلی٭ بود",
-        "person_id": 628,
+        "person_id": 699,
         "canonical_name": "أبو بكر الشبلي",
         "has_id": 376
       }
@@ -136,7 +136,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "استاد",
         "full_text": "استاد بوعبداللّه خفیف بود",
-        "person_id": 22,
+        "person_id": 974,
         "canonical_name": "أبو عبد الله بن خفيف",
         "has_id": 26
       }
@@ -147,7 +147,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "معارضات",
         "full_text": "میان او و بوعبداللّه خفیف معارضات در مسایل پرگند",
-        "person_id": 22,
+        "person_id": 974,
         "canonical_name": "أبو عبد الله بن خفيف",
         "has_id": 26
       }
@@ -158,7 +158,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -166,7 +166,7 @@
       "name": "اسحق حافظ",
       "relationship_type": "narrator",
       "full_text": "اسحق حافظ گفت",
-      "person_id": 46,
+      "person_id": 65,
       "canonical_name": "اسحق حافظ",
       "has_id": NaN
     },
@@ -174,7 +174,7 @@
       "name": "علی یوسف شیرازی",
       "relationship_type": "narrator",
       "full_text": "علی یوسف شیرازی گفت حافظ:",
-      "person_id": 2077,
+      "person_id": 2142,
       "canonical_name": "علي بن يوسف الشيرازي",
       "has_id": NaN
     },
@@ -182,7 +182,7 @@
       "name": "شیخ بوالحسن جهنم همدانی",
       "relationship_type": "direct_narrator",
       "full_text": "شیخ بوالحسن جهنم همدانی گفت",
-      "person_id": 2049,
+      "person_id": 2117,
       "canonical_name": "علي بن عبد الله بن جهضم",
       "has_id": 316
     },
@@ -190,7 +190,7 @@
       "name": "شیخ بوعلی کاتب",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "با شیخ بوعلی کاتب بهم",
-      "person_id": 973,
+      "person_id": 1044,
       "canonical_name": "أبو علي بن الكاتب",
       "has_id": 23
     },
@@ -199,7 +199,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "washed_him",
       "full_text": "شیخ بوزرعهٔ طبری ویرا بشسته",
-      "person_id": 789,
+      "person_id": 865,
       "canonical_name": "أبو زرعة الطبري",
       "has_id": NaN
     },
@@ -207,7 +207,7 @@
       "name": "عیاری",
       "relationship_type": "interlocutor",
       "full_text": "عیاری فرا صوفی گفت: کی فرق میان ما ومیان شما آنست: که ماهرکه بگوئیم بکنیم، و هرکه شما بیندیشید، و بر دل گذرد بکنید",
-      "person_id": 2137,
+      "person_id": 2203,
       "canonical_name": "عياري",
       "has_id": NaN
     },
@@ -215,7 +215,7 @@
       "name": "صوفی",
       "relationship_type": "interlocutor",
       "full_text": "عیاری فرا صوفی گفت: کی فرق میان ما ومیان شما آنست: که ماهرکه بگوئیم بکنیم، و هرکه شما بیندیشید، و بر دل گذرد بکنید",
-      "person_id": 1692,
+      "person_id": 1760,
       "canonical_name": "صوفي",
       "has_id": NaN
     }

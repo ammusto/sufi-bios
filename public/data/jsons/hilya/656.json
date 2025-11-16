@@ -14,21 +14,21 @@
       "chain": [
         {
           "name": "نصر بن أبي نصر العطار الصوفي",
-          "person_id": 2582,
+          "person_id": 2642,
           "canonical_name": "نصر بن أبي نصر العطّار",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن داود الدينوري",
-          "person_id": 2347,
+          "person_id": 2411,
           "canonical_name": "محمد بن داود الدينوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن الحداد",
-          "person_id": 1783,
+          "person_id": 1858,
           "canonical_name": "عبد الله الحداد الرازي",
           "has_id": 656,
           "subj_added": false
@@ -42,21 +42,21 @@
       "chain": [
         {
           "name": "نصر بن أبي نصر العطار الصوفي",
-          "person_id": 2582,
+          "person_id": 2642,
           "canonical_name": "نصر بن أبي نصر العطّار",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن داود الدينوري",
-          "person_id": 2347,
+          "person_id": 2411,
           "canonical_name": "محمد بن داود الدينوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن الحداد",
-          "person_id": 1783,
+          "person_id": 1858,
           "canonical_name": "عبد الله الحداد الرازي",
           "has_id": 656,
           "subj_added": false
@@ -70,21 +70,21 @@
       "chain": [
         {
           "name": "نصر بن أبي نصر العطار الصوفي",
-          "person_id": 2582,
+          "person_id": 2642,
           "canonical_name": "نصر بن أبي نصر العطّار",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن داود الدينوري",
-          "person_id": 2347,
+          "person_id": 2411,
           "canonical_name": "محمد بن داود الدينوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن الحداد",
-          "person_id": 1783,
+          "person_id": 1858,
           "canonical_name": "عبد الله الحداد الرازي",
           "has_id": 656,
           "subj_added": false
@@ -105,7 +105,7 @@
       "name": "محمد بن داود الدينوري",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن داود الدينوري يقول",
-      "person_id": 2347,
+      "person_id": 2411,
       "canonical_name": "محمد بن داود الدينوري",
       "has_id": NaN
     }

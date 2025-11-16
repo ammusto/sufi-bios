@@ -19,23 +19,23 @@
       "chain": [
         {
           "name": "أبا سعيد القلانسي",
-          "person_id": 803,
+          "person_id": 880,
           "canonical_name": "أبو سعيد القلانسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الرقي",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
         },
         {
           "name": "أبا الحسن",
-          "has_id": NaN,
-          "person_id": 25,
-          "canonical_name": "ابن عاصم",
+          "has_id": 293,
+          "person_id": 469,
+          "canonical_name": "أبو الحسن بن الصائغ الدينوري",
           "subj_added": false
         }
       ],
@@ -47,23 +47,23 @@
       "chain": [
         {
           "name": "أبا سعيد القلانسي",
-          "person_id": 803,
+          "person_id": 880,
           "canonical_name": "أبو سعيد القلانسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الرقي",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
         },
         {
           "name": "أبا الحسن",
-          "has_id": NaN,
-          "person_id": 26,
-          "canonical_name": "ابن عباس",
+          "has_id": 293,
+          "person_id": 469,
+          "canonical_name": "أبو الحسن بن الصائغ الدينوري",
           "subj_added": false
         }
       ],
@@ -75,23 +75,23 @@
       "chain": [
         {
           "name": "أبا سعيد القلانسي",
-          "person_id": 803,
+          "person_id": 880,
           "canonical_name": "أبو سعيد القلانسي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الرقي",
-          "person_id": 284,
+          "person_id": 310,
           "canonical_name": "إبراهيم القصار الرقي",
           "has_id": 13,
           "subj_added": false
         },
         {
           "name": "أبا الحسن",
-          "has_id": NaN,
-          "person_id": 27,
-          "canonical_name": "ابن عفير",
+          "has_id": 293,
+          "person_id": 469,
+          "canonical_name": "أبو الحسن بن الصائغ الدينوري",
           "subj_added": false
         }
       ],
@@ -110,7 +110,7 @@
       "name": "الرقي",
       "relationship_type": "narrator",
       "full_text": "فيما حكى لنا عن الرقي إن أبا الحسن كان يقول",
-      "person_id": 284,
+      "person_id": 310,
       "canonical_name": "إبراهيم القصار الرقي",
       "has_id": 13
     }

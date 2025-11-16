@@ -14,17 +14,24 @@
       "chain": [
         {
           "name": "عبد الله بن محمد",
-          "person_id": 1855,
+          "person_id": 1924,
           "canonical_name": "عبد الله بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمرو بن عثمان المكي",
-          "person_id": 2126,
+          "person_id": 2192,
           "canonical_name": "عمرو بن عثمان المكي",
           "has_id": 716,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 217,
+          "canonical_name": "الفرار",
+          "has_id": 241,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -42,7 +49,7 @@
       "name": "عمرو بن عثمان المكي",
       "relationship_type": "narrator",
       "full_text": "سمعت عمرو بن عثمان المكي يقول",
-      "person_id": 2126,
+      "person_id": 2192,
       "canonical_name": "عمرو بن عثمان المكي",
       "has_id": 716
     }

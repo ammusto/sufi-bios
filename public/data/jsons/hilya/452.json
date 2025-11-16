@@ -14,14 +14,14 @@
       "chain": [
         {
           "name": "أحمد بن محمد بن إبراهيم",
-          "person_id": 1245,
+          "person_id": 1306,
           "canonical_name": "أحمد بن محمد بن إبراهيم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن مهدي",
-          "person_id": 1274,
+          "person_id": 1334,
           "canonical_name": "أحمد بن مهدي",
           "has_id": 452,
           "subj_added": false
@@ -35,14 +35,14 @@
       "chain": [
         {
           "name": "أبو محمد بن حيان",
-          "person_id": 1050,
+          "person_id": 1116,
           "canonical_name": "أبو محمد بن حيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1274,
+          "person_id": 1334,
           "canonical_name": "أحمد بن مهدي",
           "has_id": 452,
           "subj_added": true
@@ -56,63 +56,63 @@
       "chain": [
         {
           "name": "أحمد بن جعفر بن سعيد",
-          "person_id": 1185,
+          "person_id": 1249,
           "canonical_name": "أحمد بن جعفر بن سعيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن مهدي",
-          "person_id": 1274,
+          "person_id": 1334,
           "canonical_name": "أحمد بن مهدي",
           "has_id": 452,
           "subj_added": false
         },
         {
           "name": "عمر بن خالد المصري",
-          "person_id": 2097,
+          "person_id": 2163,
           "canonical_name": "عمر بن خالد المصري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عيسى بن يونس",
-          "person_id": 2143,
+          "person_id": 2209,
           "canonical_name": "عيسى بن يونس",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "سفيان",
-          "person_id": 1606,
+          "person_id": 1667,
           "canonical_name": "سفيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "منصور",
-          "person_id": 2541,
+          "person_id": 2600,
           "canonical_name": "منصور",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "هلال بن يساف",
-          "person_id": 2605,
+          "person_id": 2666,
           "canonical_name": "هلال بن يساف",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الأغر",
-          "person_id": 1733,
+          "person_id": 1800,
           "canonical_name": "عبد الرحمن الأغر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي هريرة",
-          "person_id": 1120,
+          "person_id": 1185,
           "canonical_name": "أبو هريرة",
           "has_id": NaN,
           "subj_added": false
@@ -126,56 +126,56 @@
       "chain": [
         {
           "name": "إبراهيم بن يوسف",
-          "person_id": 331,
+          "person_id": 357,
           "canonical_name": "إبراهيم بن يوسف",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن مهدي",
-          "person_id": 1274,
+          "person_id": 1334,
           "canonical_name": "أحمد بن مهدي",
           "has_id": 452,
           "subj_added": false
         },
         {
           "name": "سليمان بن أيوب بن سليمان بن عيسى بن موسى بن طلحة",
-          "person_id": 1627,
+          "person_id": 1688,
           "canonical_name": "سليمان بن أيوب بن سليمان بن عيسى بن موسى بن طلحة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبيد الله",
-          "person_id": 1924,
+          "person_id": 1992,
           "canonical_name": "عبيد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 925,
+          "person_id": 998,
           "canonical_name": "أبو عبيد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "جدي",
-          "person_id": 1385,
+          "person_id": 1446,
           "canonical_name": "جدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "موسى ابن طلحة",
-          "person_id": 2562,
+          "person_id": 2621,
           "canonical_name": "موسى بن طلحة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبيه",
-          "person_id": 1149,
+          "person_id": 1212,
           "canonical_name": "أبوه",
           "has_id": NaN,
           "subj_added": false
@@ -196,7 +196,7 @@
       "name": "أحمد بن محمد بن إبراهيم",
       "relationship_type": "narrator",
       "full_text": "أسمعت أعلى أحمد بن محمد بن إبراهيم يقول",
-      "person_id": 1245,
+      "person_id": 1306,
       "canonical_name": "أحمد بن محمد بن إبراهيم",
       "has_id": NaN
     },
@@ -204,7 +204,7 @@
       "name": "أبو محمد بن حيان",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا محمد بن حيان يقول",
-      "person_id": 1050,
+      "person_id": 1116,
       "canonical_name": "أبو محمد بن حيان",
       "has_id": NaN
     },
@@ -212,7 +212,7 @@
       "name": "أحمد بن جعفر بن سعيد",
       "relationship_type": "narrator",
       "full_text": "حدثنا أحمد بن جعفر بن سعيد",
-      "person_id": 1185,
+      "person_id": 1249,
       "canonical_name": "أحمد بن جعفر بن سعيد",
       "has_id": NaN
     },
@@ -220,7 +220,7 @@
       "name": "إبراهيم بن يوسف",
       "relationship_type": "narrator",
       "full_text": "حدثنا إبراهيم بن يوسف",
-      "person_id": 331,
+      "person_id": 357,
       "canonical_name": "إبراهيم بن يوسف",
       "has_id": NaN
     },
@@ -228,7 +228,7 @@
       "name": "امرأة ببغداد",
       "relationship_type": "interlocutor",
       "full_text": "جاءتني امرأة ببغداد ليلة من الليالي فذكرت أنها من بنات الناس،",
-      "person_id": 261,
+      "person_id": 287,
       "canonical_name": "امرأة",
       "has_id": NaN
     },
@@ -236,7 +236,7 @@
       "name": "إمام المحلة",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "وجاء إمام المحلة في جماعة الجيران يهنئوني بالولد الميمون النجيب،",
-      "person_id": 371,
+      "person_id": 398,
       "canonical_name": "إمام المحلة",
       "has_id": NaN
     }

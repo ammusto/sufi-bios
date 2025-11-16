@@ -56,7 +56,7 @@
       "chain": [
         {
           "name": "عثمان عماره",
-          "person_id": 1954,
+          "person_id": 2023,
           "canonical_name": "عثمان بن عمارة",
           "has_id": NaN,
           "subj_added": false
@@ -88,7 +88,7 @@
       "chain": [
         {
           "name": "بوالقسم نصر آبادی",
-          "person_id": 545,
+          "person_id": 608,
           "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
           "has_id": 360,
           "subj_added": false
@@ -102,7 +102,7 @@
       "chain": [
         {
           "name": "بوالقسم نصر آبادی",
-          "person_id": 545,
+          "person_id": 608,
           "canonical_name": "أبو القاسم إبراهيم بن محمد بن محمويه النصراباذي",
           "has_id": 360,
           "subj_added": false
@@ -116,7 +116,7 @@
       "chain": [
         {
           "name": "حلاج",
-          "person_id": 127,
+          "person_id": 146,
           "canonical_name": "الحسين بن منصور الحلاج",
           "has_id": 232,
           "subj_added": false
@@ -130,7 +130,7 @@
       "chain": [
         {
           "name": "بوتراب نخشبی",
-          "person_id": 721,
+          "person_id": 796,
           "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
           "has_id": 388,
           "subj_added": false
@@ -156,7 +156,7 @@
       "chain": [
         {
           "name": "حذیفه مرعشی",
-          "person_id": 1441,
+          "person_id": 1503,
           "canonical_name": "حذيفة المرعشي",
           "has_id": NaN,
           "subj_added": false
@@ -182,7 +182,7 @@
       "chain": [
         {
           "name": "یحیی معاذ",
-          "person_id": 2650,
+          "person_id": 2709,
           "canonical_name": "يحيى بن معاذ الرازي",
           "has_id": 844,
           "subj_added": false
@@ -196,7 +196,7 @@
       "chain": [
         {
           "name": "شیخ بوبکر زقاق مصری",
-          "person_id": 625,
+          "person_id": 696,
           "canonical_name": "أبو بكر الزقاق",
           "has_id": 375,
           "subj_added": false
@@ -210,7 +210,7 @@
       "chain": [
         {
           "name": "شافعی",
-          "person_id": 166,
+          "person_id": 188,
           "canonical_name": "الشافعي",
           "has_id": 613,
           "subj_added": false
@@ -224,7 +224,7 @@
       "chain": [
         {
           "name": "شیخ بوالحسن نوری",
-          "person_id": 452,
+          "person_id": 510,
           "canonical_name": "أبو الحسين النوري",
           "has_id": 439,
           "subj_added": false
@@ -274,21 +274,21 @@
       "chain": [
         {
           "name": "بوعبداللّه با کو",
-          "person_id": 15,
+          "person_id": 20,
           "canonical_name": "ابن باكوية الشيرازي",
           "has_id": 150,
           "subj_added": false
         },
         {
           "name": "عبدالواحد بن بکر",
-          "person_id": 1908,
+          "person_id": 1976,
           "canonical_name": "عبد الواحد بن بكر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ابراهیم اطروش",
-          "person_id": 271,
+          "person_id": 298,
           "canonical_name": "إبراهيم الأطروش",
           "has_id": 1,
           "subj_added": false
@@ -308,7 +308,7 @@
       "chain": [
         {
           "name": "الامام الابراهیم الخواص",
-          "person_id": 278,
+          "person_id": 640,
           "canonical_name": "أبو إسحاق إبراهيم الخواص",
           "has_id": 268,
           "subj_added": false
@@ -328,7 +328,7 @@
       "chain": [
         {
           "name": "ابوتراب النخشبی",
-          "person_id": 721,
+          "person_id": 796,
           "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
           "has_id": 388,
           "subj_added": false
@@ -342,7 +342,7 @@
       "chain": [
         {
           "name": "الشبلی",
-          "person_id": 628,
+          "person_id": 699,
           "canonical_name": "أبو بكر الشبلي",
           "has_id": 376,
           "subj_added": false
@@ -360,7 +360,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرد",
         "full_text": "بمکه رفت آنجا باسفین ثوری ٭ و فضیل عیاض ٭ بو یوسف غسولی صحبت کرد",
-        "person_id": 1607,
+        "person_id": 1668,
         "canonical_name": "سفيان الثوري",
         "has_id": 598
       },
@@ -369,7 +369,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرد",
         "full_text": "بمکه رفت آنجا باسفین ثوری ٭ و فضیل عیاض ٭ بو یوسف غسولی صحبت کرد",
-        "person_id": 200,
+        "person_id": 225,
         "canonical_name": "الفضيل بن عياض",
         "has_id": 243
       },
@@ -378,7 +378,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرد",
         "full_text": "بمکه رفت آنجا باسفین ثوری ٭ و فضیل عیاض ٭ بو یوسف غسولی صحبت کرد",
-        "person_id": 1147,
+        "person_id": 1211,
         "canonical_name": "أبو يوسف الغسولي",
         "has_id": NaN
       }
@@ -390,8 +390,8 @@
         "relationship_type": "peer",
         "relationship_phrase": "من اصحاب",
         "full_text": "وکان من اصحاب ابراهیم بن ادهم رضی اللهّ عنهم اجمعین.",
-        "person_id": 1148,
-        "canonical_name": "أبو يوسف لاغسولي معروف بطرسوسي",
+        "person_id": 1211,
+        "canonical_name": "أبو يوسف الغسولي",
         "has_id": NaN
       },
       {
@@ -399,7 +399,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "خواص باران یکدیگر بودند با یکدیگر بیعت کردند",
         "full_text": "شیخ الاسلام گفت: ابراهیم ادهم ٭ و علی بکار و حذیفه مرعشی وسلم خواص باران یکدیگر بودند با یکدیگر بیعت کردندکی از آن بسر نشود",
-        "person_id": 1991,
+        "person_id": 2062,
         "canonical_name": "علي بكار",
         "has_id": NaN
       },
@@ -408,7 +408,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "خواص باران یکدیگر بودند با یکدیگر بیعت کردند",
         "full_text": "شیخ الاسلام گفت: ابراهیم ادهم ٭ و علی بکار و حذیفه مرعشی وسلم خواص باران یکدیگر بودند با یکدیگر بیعت کردندکی از آن بسر نشود",
-        "person_id": 1441,
+        "person_id": 1503,
         "canonical_name": "حذيفة المرعشي",
         "has_id": NaN
       },
@@ -417,7 +417,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "خواص باران یکدیگر بودند با یکدیگر بیعت کردند",
         "full_text": "شیخ الاسلام گفت: ابراهیم ادهم ٭ و علی بکار و حذیفه مرعشی وسلم خواص باران یکدیگر بودند با یکدیگر بیعت کردندکی از آن بسر نشود",
-        "person_id": 1611,
+        "person_id": 1672,
         "canonical_name": "سلم الخواص",
         "has_id": NaN
       }
@@ -429,7 +429,7 @@
       "relationship_type": "narrator",
       "context": "",
       "full_text": "شیخ الاسلام گفت رضی اللّه عنه:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -438,7 +438,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "عثمان عماره گوید: کی بزمین حجر بودم با ابراهیم ادهم و محمد ثوبان و عباد منقری سخن میگفتم",
-      "person_id": 1954,
+      "person_id": 2023,
       "canonical_name": "عثمان بن عمارة",
       "has_id": NaN
     },
@@ -447,7 +447,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "همراه",
       "full_text": "کی مردی با ابراهیم ادهم همراه افتاد، باوی دیر درنگ شد چون می جدا خواست شدگفت: مگر از من درین صحبت رنجه گشتی؟",
-      "person_id": 1530,
+      "person_id": 1593,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -456,7 +456,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "",
       "full_text": "با ابراهیم ادهم و محمد ثوبان و عباد منقری سخن میگفتم",
-      "person_id": 2328,
+      "person_id": 2392,
       "canonical_name": "محمد بن ثوبان",
       "has_id": NaN
     },
@@ -465,7 +465,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "",
       "full_text": "با ابراهیم ادهم و محمد ثوبان و عباد منقری سخن میگفتم",
-      "person_id": 1713,
+      "person_id": 1780,
       "canonical_name": "عباد منقري",
       "has_id": NaN
     },
@@ -474,7 +474,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "مرید",
       "full_text": "جوانی بود فراتر نشسته، مرید پس با نیاز.",
-      "person_id": 1420,
+      "person_id": 1480,
       "canonical_name": "جواني",
       "has_id": NaN
     },
@@ -483,7 +483,7 @@
       "relationship_type": "narrator",
       "context": "",
       "full_text": "بوعبداللّه با کو ٭ مرا گفت",
-      "person_id": 15,
+      "person_id": 20,
       "canonical_name": "ابن باكوية الشيرازي",
       "has_id": 150
     },
@@ -492,7 +492,7 @@
       "relationship_type": "narrator",
       "context": "",
       "full_text": "عبدالواحد بن بکر ٭ گفت",
-      "person_id": 1908,
+      "person_id": 1976,
       "canonical_name": "عبد الواحد بن بكر",
       "has_id": NaN
     },
@@ -501,7 +501,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "",
       "full_text": "ابراهیم اطروش گفت:که رکوهٔ صوفی کف صوفی باید، و بالش او دست او، و خزینهٔ او باید یعنی حق.",
-      "person_id": 271,
+      "person_id": 298,
       "canonical_name": "إبراهيم الأطروش",
       "has_id": 1
     }

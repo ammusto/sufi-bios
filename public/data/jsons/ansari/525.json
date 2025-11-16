@@ -8,7 +8,7 @@
       "chain": [
         {
           "name": "شریف محمد بن علی بن زید",
-          "person_id": 1666,
+          "person_id": 1730,
           "canonical_name": "شريف محمد بن علي بن زيد",
           "has_id": NaN,
           "subj_added": false
@@ -22,7 +22,7 @@
       "chain": [
         {
           "name": "شریف",
-          "person_id": 1666,
+          "person_id": 1730,
           "canonical_name": "شريف محمد بن علي بن زيد",
           "has_id": NaN,
           "subj_added": false
@@ -36,7 +36,7 @@
       "chain": [
         {
           "name": "شریف",
-          "person_id": 1666,
+          "person_id": 1730,
           "canonical_name": "شريف محمد بن علي بن زيد",
           "has_id": NaN,
           "subj_added": false
@@ -72,7 +72,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد بوالخیر تیناتی٭",
-        "person_id": 471,
+        "person_id": 528,
         "canonical_name": "أبو الخير التيناتي",
         "has_id": NaN
       }
@@ -86,7 +86,7 @@
       "relationship_type": "narrator",
       "context": "",
       "full_text": "شریف محمد بن علی بن زیدگفت",
-      "person_id": 1666,
+      "person_id": 1730,
       "canonical_name": "شريف محمد بن علي بن زيد",
       "has_id": NaN
     },
@@ -95,7 +95,7 @@
       "relationship_type": "narrator",
       "context": "",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -104,7 +104,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "",
       "full_text": "پسر بوالمعالی زید عمری نسابه",
-      "person_id": 561,
+      "person_id": 626,
       "canonical_name": "أبو المعالي زيد عمري نسابه",
       "has_id": NaN
     },
@@ -113,8 +113,8 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "",
       "full_text": "یکی ابرهیم سعد است.",
-      "person_id": 0,
-      "canonical_name": "ابن أبي فديك",
+      "person_id": 335,
+      "canonical_name": "إبراهيم بن سعيد",
       "has_id": NaN
     },
     {
@@ -122,7 +122,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "",
       "full_text": "شاگرد بوالخیر تیناتی٭",
-      "person_id": 471,
+      "person_id": 528,
       "canonical_name": "أبو الخير التيناتي",
       "has_id": NaN
     }

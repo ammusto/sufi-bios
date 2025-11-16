@@ -8,14 +8,14 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن جعفر",
-          "person_id": 1188,
+          "person_id": 1252,
           "canonical_name": "أحمد بن جعفر بن هانئ",
           "has_id": 444,
           "subj_added": false
@@ -29,63 +29,63 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن جعفر بن هاني",
-          "person_id": 1188,
+          "person_id": 1252,
           "canonical_name": "أحمد بن جعفر بن هانئ",
           "has_id": 444,
           "subj_added": false
         },
         {
           "name": "محمد بن يوسف",
-          "person_id": 2475,
+          "person_id": 2536,
           "canonical_name": "محمد بن يوسف",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن عبد الوهاب",
-          "person_id": 1839,
+          "person_id": 1907,
           "canonical_name": "عبد الله بن عبد الوهاب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي مسهر",
-          "person_id": 1077,
+          "person_id": 1143,
           "canonical_name": "أبو مسهر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحكم بن هشام",
-          "person_id": 141,
+          "person_id": 161,
           "canonical_name": "الحكم بن هشام",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يحيى بن سعيد",
-          "person_id": 2642,
+          "person_id": 2701,
           "canonical_name": "يحيى بن سعيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو قرة",
-          "person_id": 1028,
+          "person_id": 1096,
           "canonical_name": "أبو قرة",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي خلاد",
-          "person_id": 772,
+          "person_id": 848,
           "canonical_name": "أبو خلاد",
           "has_id": NaN,
           "subj_added": false
@@ -99,42 +99,42 @@
       "chain": [
         {
           "name": "أبي",
-          "person_id": 585,
+          "person_id": 656,
           "canonical_name": "أبو أبي نعيم الأصفهاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن جعفر",
-          "person_id": 1188,
+          "person_id": 1252,
           "canonical_name": "أحمد بن جعفر بن هانئ",
           "has_id": 444,
           "subj_added": false
         },
         {
           "name": "محمد بن يوسف",
-          "person_id": 2475,
+          "person_id": 2536,
           "canonical_name": "محمد بن يوسف",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن عبد الوهاب",
-          "person_id": 1839,
+          "person_id": 1907,
           "canonical_name": "عبد الله بن عبد الوهاب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن سابق",
-          "person_id": 1826,
+          "person_id": 1894,
           "canonical_name": "عبد الله بن سابق",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "موسى بن طريف",
-          "person_id": 2561,
+          "person_id": 2620,
           "canonical_name": "موسى بن طريف",
           "has_id": NaN,
           "subj_added": false
@@ -155,7 +155,7 @@
       "name": "أبي",
       "relationship_type": "narrator",
       "full_text": "سمعت أبي يقول",
-      "person_id": 585,
+      "person_id": 656,
       "canonical_name": "أبو أبي نعيم الأصفهاني",
       "has_id": NaN
     }

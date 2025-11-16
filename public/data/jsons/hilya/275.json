@@ -29,31 +29,38 @@
       "chain": [
         {
           "name": "عبد المنعم بن عمرو بن عبد الله",
-          "person_id": 1898,
+          "person_id": 1966,
           "canonical_name": "عبد المنعم بن عمرو بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن بن يحيى بن حمويه الكرمانى",
-          "person_id": 104,
+          "person_id": 123,
           "canonical_name": "الحسن بن يحيى بن حمويه الكرمانى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو الحسن التمارى",
-          "person_id": 393,
+          "person_id": 438,
           "canonical_name": "أبو الحسن التمارى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو الحارث الأولاسي",
-          "person_id": 389,
+          "person_id": 433,
           "canonical_name": "أبو الحارث الأولاسي",
           "has_id": 290,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 334,
+          "canonical_name": "إبراهيم بن سعد العلوي",
+          "has_id": 275,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -64,21 +71,21 @@
       "chain": [
         {
           "name": "عبد المنعم بن عمرو",
-          "person_id": 1898,
+          "person_id": 1966,
           "canonical_name": "عبد المنعم بن عمرو بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الحسن بن يحيى",
-          "person_id": 104,
-          "canonical_name": "الحسن بن يحيى بن حمويه الكرمانى",
+          "person_id": 122,
+          "canonical_name": "الحسن بن يحيى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن محبوب العماني",
-          "person_id": 2436,
+          "person_id": 2498,
           "canonical_name": "محمد بن محبوب العماني",
           "has_id": NaN,
           "subj_added": false
@@ -86,9 +93,16 @@
         {
           "name": "أبا الحارث الأولاسي",
           "has_id": 290,
-          "person_id": 389,
+          "person_id": 433,
           "canonical_name": "أبو الحارث الأولاسي",
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 334,
+          "canonical_name": "إبراهيم بن سعد العلوي",
+          "has_id": 275,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -106,7 +120,7 @@
       "name": "أبو الحارث الأولاسي",
       "relationship_type": "narrator",
       "full_text": "قال أبو الحارث الأولاسي",
-      "person_id": 389,
+      "person_id": 433,
       "canonical_name": "أبو الحارث الأولاسي",
       "has_id": 290
     },
@@ -115,7 +129,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "إنسان كان بأولاس",
       "full_text": "أين أبو بشر الصياد - إنسان كان بأولاس - هذه الساعة؟",
-      "person_id": 608,
+      "person_id": 680,
       "canonical_name": "أبو بشر الصياد",
       "has_id": NaN
     },
@@ -124,7 +138,7 @@
       "relationship_type": "interlocutor",
       "context": "مولى لإبراهيم بن سعد",
       "full_text": "وكان اسمه واضحا مولى لإبراهيم بن سعد",
-      "person_id": 2613,
+      "person_id": 2674,
       "canonical_name": "واضح",
       "has_id": NaN
     }

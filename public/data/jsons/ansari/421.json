@@ -14,7 +14,7 @@
       "chain": [
         {
           "name": "ابوعلی الجوزجانی",
-          "person_id": 949,
+          "person_id": 1021,
           "canonical_name": "أبو علي الجوزجاني",
           "has_id": 421,
           "subj_added": false
@@ -32,7 +32,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده بود با",
         "full_text": "صحبت کرده بود با محمدعلی ترمذی و محمد فضل بلخی٭",
-        "person_id": 917,
+        "person_id": 990,
         "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
         "has_id": 783
       },
@@ -41,7 +41,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده بود با",
         "full_text": "صحبت کرده بود با محمدعلی ترمذی و محمد فضل بلخی٭",
-        "person_id": 2254,
+        "person_id": 2319,
         "canonical_name": "محمد بن الفضل البلخي",
         "has_id": 770
       }
@@ -53,7 +53,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "قریب سن است از ایشان",
         "full_text": "و قریب سن است از ایشان.",
-        "person_id": 917,
+        "person_id": 990,
         "canonical_name": "أبو عبد الله محمد بن علي الحكيم الترمذي",
         "has_id": 783
       },
@@ -62,7 +62,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "قریب سن است از ایشان",
         "full_text": "و قریب سن است از ایشان.",
-        "person_id": 2254,
+        "person_id": 2319,
         "canonical_name": "محمد بن الفضل البلخي",
         "has_id": 770
       }

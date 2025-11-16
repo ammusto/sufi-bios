@@ -41,7 +41,7 @@
       "chain": [
         {
           "name": "بوبکر واسطی٭",
-          "person_id": 653,
+          "person_id": 721,
           "canonical_name": "أبو بكر الواسطي",
           "has_id": 379,
           "subj_added": false
@@ -55,7 +55,7 @@
       "chain": [
         {
           "name": "ابراهیم بن المولد٭",
-          "person_id": 298,
+          "person_id": 643,
           "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
           "has_id": 273,
           "subj_added": false
@@ -79,7 +79,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "شاگرد",
         "full_text": "شاگرد بوتراب نخشبی٭",
-        "person_id": 721,
+        "person_id": 796,
         "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
         "has_id": 388
       },
@@ -88,7 +88,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "در صحبت و سفر",
         "full_text": "و با ذوالنون مصری٭ و با عبید بسری٭ بوده در صحبت و سفر",
-        "person_id": 1523,
+        "person_id": 1586,
         "canonical_name": "ذو النون المصري",
         "has_id": 570
       },
@@ -97,7 +97,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "در صحبت و سفر",
         "full_text": "و با ذوالنون مصری٭ و با عبید بسری٭ بوده در صحبت و سفر",
-        "person_id": 924,
+        "person_id": 997,
         "canonical_name": "أبو عبيد البسري",
         "has_id": 409
       }
@@ -108,7 +108,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "استاد",
         "full_text": "استاد دقی٭ ایذ",
-        "person_id": 621,
+        "person_id": 693,
         "canonical_name": "أبو بكر الدقي",
         "has_id": 382
       }
@@ -120,7 +120,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -129,7 +129,7 @@
       "relationship_type": "interlocutor",
       "context": "eyewitness",
       "full_text": "وقتی بوالخیر تیناتی و بوعبداللّه جلا را دید که در میغ میرفت در هوا، ابوالخیر آواز داد: که بشناختم. جواب داد: کی نشناختی.",
-      "person_id": 471,
+      "person_id": 528,
       "canonical_name": "أبو الخير التيناتي",
       "has_id": NaN
     },
@@ -137,7 +137,7 @@
       "name": "بوبکر واسطی٭",
       "relationship_type": "narrator",
       "full_text": "بوبکر واسطی٭ گفت با جلالت خود، که هرگز من مردی و نیم دیدهام آن مرد تمام گفته که بود: ابوامیه الماحوزی و آن نیم مرد عبداللهّ جلا.",
-      "person_id": 653,
+      "person_id": 721,
       "canonical_name": "أبو بكر الواسطي",
       "has_id": 379
     },
@@ -145,7 +145,7 @@
       "name": "ابوامیه الماحوزی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "آن مرد تمام گفته که بود: ابوامیه الماحوزی",
-      "person_id": 567,
+      "person_id": 633,
       "canonical_name": "أبو اميه الماحوزي",
       "has_id": NaN
     },
@@ -154,7 +154,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "provider",
       "full_text": "که او را عبداللهّ القطان گفتند.",
-      "person_id": 1784,
+      "person_id": 1852,
       "canonical_name": "عبد اللهّ القطان",
       "has_id": NaN
     },
@@ -163,7 +163,7 @@
       "relationship_type": "direct_narrator",
       "context": "questioner",
       "full_text": "ابراهیم بن المولد٭ گوید: پرسیدم از بوعبداللّه جلا: متی یستحق للفقیر اسم الفقیر؟ فقال: اذ لم یبق علیه من نفسه مطالبة ظاهراً و باطناً.",
-      "person_id": 298,
+      "person_id": 643,
       "canonical_name": "أبو إسحاق إبراهيم بن أحمد بن المولد",
       "has_id": 273
     },
@@ -171,7 +171,7 @@
       "name": "بوتراب نخشبی٭",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "شیخ الاسلام گفت: سیصد تن، با بوتراب نخشبی٭ در بادیه شدند بارکوها دو تن باو بماندند: «بوعبداللّه جلا و بوعبید بسری.",
-      "person_id": 721,
+      "person_id": 796,
       "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
       "has_id": 388
     },
@@ -179,7 +179,7 @@
       "name": "بوعبید بسری",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "شیخ الاسلام گفت: سیصد تن، با بوتراب نخشبی٭ در بادیه شدند بارکوها دو تن باو بماندند: «بوعبداللّه جلا و بوعبید بسری.",
-      "person_id": 927,
+      "person_id": 1000,
       "canonical_name": "أبو عبيد بسري",
       "has_id": NaN
     }

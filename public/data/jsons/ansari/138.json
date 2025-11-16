@@ -40,21 +40,21 @@
       "chain": [
         {
           "name": "یکی",
-          "person_id": 2670,
+          "person_id": 2728,
           "canonical_name": "يكي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبداللّه دینوری",
-          "person_id": 1792,
+          "person_id": 1860,
           "canonical_name": "عبد الله الدينوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 866,
+          "person_id": 943,
           "canonical_name": "أبو عبد الله الدينوري",
           "has_id": 138,
           "subj_added": true
@@ -68,7 +68,7 @@
       "chain": [
         {
           "name": "ابو عبداللهّ الدینوری",
-          "person_id": 866,
+          "person_id": 943,
           "canonical_name": "أبو عبد الله الدينوري",
           "has_id": 138,
           "subj_added": false
@@ -101,7 +101,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت قدس اللّه روحه: که",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -109,7 +109,7 @@
       "name": "یکی",
       "relationship_type": "direct_narrator",
       "full_text": "یکی گفت: که",
-      "person_id": 2670,
+      "person_id": 2728,
       "canonical_name": "يكي",
       "has_id": NaN
     },
@@ -118,7 +118,7 @@
       "relationship_type": "interlocutor",
       "context": "addressed",
       "full_text": "لبعض اصحابه",
-      "person_id": 1339,
+      "person_id": 1401,
       "canonical_name": "بعض أصحابه",
       "has_id": NaN
     }

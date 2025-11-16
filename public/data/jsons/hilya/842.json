@@ -8,31 +8,38 @@
       "chain": [
         {
           "name": "محمد بن محمد",
-          "person_id": 2437,
+          "person_id": 2499,
           "canonical_name": "محمد بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أخي أبا عبد الله محمد بن محمد",
-          "person_id": 1284,
+          "person_id": 1344,
           "canonical_name": "أخي أبو عبد الله محمد بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن عبد الله",
-          "person_id": 2376,
+          "person_id": 2439,
           "canonical_name": "محمد بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "خيرا النساج",
-          "person_id": 1510,
+          "person_id": 1572,
           "canonical_name": "خير النساج",
           "has_id": 564,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 2663,
+          "canonical_name": "هلال بن الوزير",
+          "has_id": 842,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -50,7 +57,7 @@
       "name": "خيرا النساج",
       "relationship_type": "narrator",
       "full_text": "سمعت خيرا النساج يقول",
-      "person_id": 1510,
+      "person_id": 1572,
       "canonical_name": "خير النساج",
       "has_id": 564
     }

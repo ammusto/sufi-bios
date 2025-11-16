@@ -39,14 +39,14 @@
       "chain": [
         {
           "name": "أبا عثمان سعيد بن سلام المغربي",
-          "person_id": 942,
+          "person_id": 1015,
           "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
           "has_id": 156,
           "subj_added": false
         },
         {
           "name": "أبو الحسين بن بنان",
-          "person_id": 457,
+          "person_id": 515,
           "canonical_name": "أبو الحسين بن بنان",
           "has_id": 313,
           "subj_added": false
@@ -60,14 +60,14 @@
       "chain": [
         {
           "name": "أبا عثمان سعيد بن سلام المغربي",
-          "person_id": 942,
+          "person_id": 1015,
           "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
           "has_id": 156,
           "subj_added": false
         },
         {
           "name": "أبو الحسين بن بنان",
-          "person_id": 457,
+          "person_id": 515,
           "canonical_name": "أبو الحسين بن بنان",
           "has_id": 313,
           "subj_added": false
@@ -81,35 +81,35 @@
       "chain": [
         {
           "name": "محمد بن الحسين بن موسى",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "أبا بكر محمد بن عبد الله",
-          "person_id": 705,
+          "person_id": 780,
           "canonical_name": "أبو بكر محمد بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الزقاق",
-          "person_id": 625,
+          "person_id": 696,
           "canonical_name": "أبو بكر الزقاق",
           "has_id": 375,
           "subj_added": false
         },
         {
           "name": "أبا الحسين بن بنان",
-          "has_id": NaN,
-          "person_id": 28,
-          "canonical_name": "ابن عمر",
+          "has_id": 313,
+          "person_id": 515,
+          "canonical_name": "أبو الحسين بن بنان",
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 457,
+          "person_id": 515,
           "canonical_name": "أبو الحسين بن بنان",
           "has_id": 313,
           "subj_added": true
@@ -123,35 +123,35 @@
       "chain": [
         {
           "name": "محمد بن الحسين بن موسى",
-          "person_id": 845,
+          "person_id": 922,
           "canonical_name": "أبو عبد الرحمن السلمي",
           "has_id": 133,
           "subj_added": false
         },
         {
           "name": "أبا بكر محمد بن عبد الله",
-          "person_id": 705,
+          "person_id": 780,
           "canonical_name": "أبو بكر محمد بن عبد الله",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الزقاق",
-          "person_id": 625,
+          "person_id": 696,
           "canonical_name": "أبو بكر الزقاق",
           "has_id": 375,
           "subj_added": false
         },
         {
           "name": "أبا الحسين بن بنان",
-          "has_id": NaN,
-          "person_id": 29,
-          "canonical_name": "ابن عيينة",
+          "has_id": 313,
+          "person_id": 515,
+          "canonical_name": "أبو الحسين بن بنان",
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 457,
+          "person_id": 515,
           "canonical_name": "أبو الحسين بن بنان",
           "has_id": 313,
           "subj_added": true
@@ -171,7 +171,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب أبا سعيد الخزاز.",
-        "person_id": 801,
+        "person_id": 877,
         "canonical_name": "أبو سعيد الخراز",
         "has_id": 123
       }
@@ -182,7 +182,7 @@
       "name": "أبا عثمان سعيد بن سلام المغربي",
       "relationship_type": "narrator",
       "full_text": "سمعت أبا عثمان سعيد بن سلام المغربي - بمكة ونيسابور - يقول",
-      "person_id": 942,
+      "person_id": 1015,
       "canonical_name": "أبو عثمان سعيد بن سلام المغربي",
       "has_id": 156
     },
@@ -190,7 +190,7 @@
       "name": "الزقاق",
       "relationship_type": "narrator",
       "full_text": "سمعت الزقاق يقول",
-      "person_id": 625,
+      "person_id": 696,
       "canonical_name": "أبو بكر الزقاق",
       "has_id": 375
     }

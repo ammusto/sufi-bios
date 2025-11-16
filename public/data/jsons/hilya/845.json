@@ -8,35 +8,35 @@
       "chain": [
         {
           "name": "عبد الله بن محمد بن جعفر",
-          "person_id": 1867,
+          "person_id": 1936,
           "canonical_name": "عبد الله بن محمد بن جعفر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو يعلى",
-          "person_id": 1142,
+          "person_id": 1207,
           "canonical_name": "أبو يعلى",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عثمان بن عمرو بن أبي عاصم",
-          "person_id": 1955,
+          "person_id": 2024,
           "canonical_name": "عثمان بن عمرو بن أبي عاصم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الخليل البصري",
-          "person_id": 147,
+          "person_id": 168,
           "canonical_name": "الخليل البصري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "يزيد بن يزيد",
-          "person_id": 2660,
+          "person_id": 2719,
           "canonical_name": "يزيد بن يزيد",
           "has_id": 845,
           "subj_added": false
@@ -57,7 +57,7 @@
       "name": "الخليل البصري",
       "relationship_type": "narrator",
       "full_text": "سمعت الخليل البصري يقول",
-      "person_id": 147,
+      "person_id": 168,
       "canonical_name": "الخليل البصري",
       "has_id": NaN
     }

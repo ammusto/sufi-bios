@@ -14,28 +14,28 @@
       "chain": [
         {
           "name": "عبد الواحد بن بكر",
-          "person_id": 1908,
+          "person_id": 1976,
           "canonical_name": "عبد الواحد بن بكر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن عبد العزيز",
-          "person_id": 2374,
+          "person_id": 2437,
           "canonical_name": "محمد بن عبد العزيز",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو عبد الله الحضرمي",
-          "person_id": 862,
+          "person_id": 939,
           "canonical_name": "أبو عبد الله الحضرمي",
           "has_id": 411,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 726,
+          "person_id": 801,
           "canonical_name": "أبو جعفر الحداد",
           "has_id": 389,
           "subj_added": true
@@ -49,14 +49,14 @@
       "chain": [
         {
           "name": "أحمد بن النعمان",
-          "person_id": 1170,
+          "person_id": 1234,
           "canonical_name": "أحمد بن النعمان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو جعفر الحداد",
-          "person_id": 726,
+          "person_id": 801,
           "canonical_name": "أبو جعفر الحداد",
           "has_id": 389,
           "subj_added": false
@@ -70,14 +70,14 @@
       "chain": [
         {
           "name": "أبو الحسين العلوي",
-          "person_id": 448,
+          "person_id": 506,
           "canonical_name": "أبو الحسين العلوي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو جعفر",
-          "person_id": 726,
+          "person_id": 801,
           "canonical_name": "أبو جعفر الحداد",
           "has_id": 389,
           "subj_added": false
@@ -97,7 +97,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب أبا تراب وأكابر العباد.",
-        "person_id": 721,
+        "person_id": 796,
         "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
         "has_id": 388
       }
@@ -108,7 +108,7 @@
       "name": "أبو عبد الله الحضرمي",
       "relationship_type": "narrator",
       "full_text": "قال حدثني أبو عبد الله الحضرمي",
-      "person_id": 862,
+      "person_id": 939,
       "canonical_name": "أبو عبد الله الحضرمي",
       "has_id": 411
     },
@@ -116,7 +116,7 @@
       "name": "أحمد بن النعمان",
       "relationship_type": "narrator",
       "full_text": "وحكى عنه أحمد بن النعمان",
-      "person_id": 1170,
+      "person_id": 1234,
       "canonical_name": "أحمد بن النعمان",
       "has_id": NaN
     },
@@ -124,7 +124,7 @@
       "name": "أبو الحسين العلوي",
       "relationship_type": "narrator",
       "full_text": "وحكى عنه أبو الحسين العلوي",
-      "person_id": 448,
+      "person_id": 506,
       "canonical_name": "أبو الحسين العلوي",
       "has_id": NaN
     },
@@ -133,7 +133,7 @@
       "relationship_type": "questioner",
       "context": "interlocutor",
       "full_text": "فانتهى إلي أبو تراب فقال لي: ما جلوسك هاهنا؟",
-      "person_id": 721,
+      "person_id": 796,
       "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
       "has_id": 388
     }

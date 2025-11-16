@@ -8,49 +8,49 @@
       "chain": [
         {
           "name": "محمد بن أحمد بن عمر العبدي",
-          "person_id": 2312,
+          "person_id": 2376,
           "canonical_name": "محمد بن أحمد بن عمر العبدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي",
-          "person_id": 1046,
+          "person_id": 1112,
           "canonical_name": "أبو محمد أحمد بن عمر العبدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن محمد",
-          "person_id": 1855,
+          "person_id": 1924,
           "canonical_name": "عبد الله بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "إبراهيم بن سعيد",
-          "person_id": 310,
+          "person_id": 335,
           "canonical_name": "إبراهيم بن سعيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "موسى بن أيوب",
-          "person_id": 2560,
+          "person_id": 2619,
           "canonical_name": "موسى بن أيوب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مخلد",
-          "person_id": 2486,
+          "person_id": 2547,
           "canonical_name": "مخلد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "خطاب العابد",
-          "person_id": 1503,
+          "person_id": 1564,
           "canonical_name": "خطاب العابد",
           "has_id": 532,
           "subj_added": false
@@ -71,7 +71,7 @@
       "name": "مخلد",
       "relationship_type": "narrator",
       "full_text": "ثنا مخلد عن خطاب العابد",
-      "person_id": 2486,
+      "person_id": 2547,
       "canonical_name": "مخلد",
       "has_id": NaN
     }

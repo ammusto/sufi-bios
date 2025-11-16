@@ -14,44 +14,44 @@
       "chain": [
         {
           "name": "أبو بكر محمد بن أحمد بن محمد المؤذن",
-          "person_id": 701,
+          "person_id": 776,
           "canonical_name": "أبو بكر محمد بن أحمد بن محمد المؤذن",
           "has_id": 91,
           "subj_added": false
         },
         {
           "name": "أبو الحسن بن أبان",
-          "person_id": 417,
+          "person_id": 471,
           "canonical_name": "أبو الحسن بن أبان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر بن سفيان",
-          "person_id": 671,
+          "person_id": 741,
           "canonical_name": "أبو بكر بن سفيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أحمد بن أبي الحواري",
-          "person_id": 1177,
+          "person_id": 1241,
           "canonical_name": "أحمد بن أبي الحواري",
           "has_id": 442,
           "subj_added": false
         },
         {
           "name": "عيسى بن الهذيل",
-          "person_id": 2141,
+          "person_id": 2207,
           "canonical_name": "عيسى بن الهذيل",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا كريمة",
-          "person_id": 1031,
-          "canonical_name": "أبو كريمة",
-          "has_id": NaN,
+          "person_id": 1099,
+          "canonical_name": "أبو كريمة العبدي",
+          "has_id": 428,
           "subj_added": false
         }
       ],
@@ -70,7 +70,7 @@
       "name": "عيسى بن الهذيل",
       "relationship_type": "narrator",
       "full_text": "قال سمعت أبا كريمة - وكان من عباد أهل الشام - يقول",
-      "person_id": 2141,
+      "person_id": 2207,
       "canonical_name": "عيسى بن الهذيل",
       "has_id": NaN
     }

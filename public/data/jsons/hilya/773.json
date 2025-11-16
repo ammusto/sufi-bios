@@ -24,23 +24,23 @@
       "chain": [
         {
           "name": "أحمد بن محمد بن مقسم",
-          "person_id": 414,
+          "person_id": 468,
           "canonical_name": "أبو الحسن أحمد بن محمد بن مقسم المقرئ",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر الخياط الصوفي",
-          "person_id": 619,
+          "person_id": 691,
           "canonical_name": "أبو بكر الخياط الصوفي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا حمزة",
-          "person_id": 763,
-          "canonical_name": "أبو حمزة",
-          "has_id": NaN,
+          "person_id": 844,
+          "canonical_name": "أبو حمزة محمد بن إبراهيم البغدادي",
+          "has_id": 773,
           "subj_added": false
         }
       ],
@@ -52,24 +52,31 @@
       "chain": [
         {
           "name": "جعفر بن محمد بن نصير",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "أبو بكر الكتاني",
-          "person_id": 712,
+          "person_id": 786,
           "canonical_name": "أبو بكر محمد بن علي الكتاني",
           "has_id": 378,
           "subj_added": false
         },
         {
           "name": "أبو الأزهر وجماعة من إخواننا",
-          "person_id": 386,
+          "person_id": 430,
           "canonical_name": "أبو الأزهر وجماعة من إخواننا",
           "has_id": 37,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 844,
+          "canonical_name": "أبو حمزة محمد بن إبراهيم البغدادي",
+          "has_id": 773,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -80,24 +87,31 @@
       "chain": [
         {
           "name": "عبد الواحد بن بكر",
-          "person_id": 1908,
+          "person_id": 1976,
           "canonical_name": "عبد الواحد بن بكر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن عبد العزيز",
-          "person_id": 2374,
+          "person_id": 2437,
           "canonical_name": "محمد بن عبد العزيز",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عبد الله الرملي",
-          "person_id": 868,
+          "person_id": 945,
           "canonical_name": "أبو عبد الله الرملي",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 844,
+          "canonical_name": "أبو حمزة محمد بن إبراهيم البغدادي",
+          "has_id": 773,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -108,10 +122,17 @@
       "chain": [
         {
           "name": "أبو عمرو البصرى",
-          "person_id": 1008,
+          "person_id": 1077,
           "canonical_name": "أبو عمرو البصرى",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 844,
+          "canonical_name": "أبو حمزة محمد بن إبراهيم البغدادي",
+          "has_id": 773,
+          "subj_added": true
         }
       ],
       "type": "single_informant",
@@ -122,23 +143,23 @@
       "chain": [
         {
           "name": "جعفر بن محمد بن نصير",
-          "person_id": 1405,
+          "person_id": 1464,
           "canonical_name": "جعفر بن محمد الخلدي",
           "has_id": 495,
           "subj_added": false
         },
         {
           "name": "أبو بكر الكتاني",
-          "person_id": 712,
+          "person_id": 786,
           "canonical_name": "أبو بكر محمد بن علي الكتاني",
           "has_id": 378,
           "subj_added": false
         },
         {
           "name": "أبا حمزة",
-          "person_id": 763,
-          "canonical_name": "أبو حمزة",
-          "has_id": NaN,
+          "person_id": 844,
+          "canonical_name": "أبو حمزة محمد بن إبراهيم البغدادي",
+          "has_id": 773,
           "subj_added": false
         }
       ],
@@ -150,16 +171,16 @@
       "chain": [
         {
           "name": "خير النساج",
-          "person_id": 1510,
+          "person_id": 1572,
           "canonical_name": "خير النساج",
           "has_id": 564,
           "subj_added": false
         },
         {
           "name": "أبو حمزة",
-          "person_id": 763,
-          "canonical_name": "أبو حمزة",
-          "has_id": NaN,
+          "person_id": 844,
+          "canonical_name": "أبو حمزة محمد بن إبراهيم البغدادي",
+          "has_id": 773,
           "subj_added": false
         }
       ],
@@ -177,7 +198,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "جالس",
         "full_text": "جالس الإمام أحمد بن حنبل وبشر بن الحارث",
-        "person_id": 1192,
+        "person_id": 1256,
         "canonical_name": "أحمد بن حنبل",
         "has_id": NaN
       },
@@ -186,7 +207,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "جالس",
         "full_text": "جالس الإمام أحمد بن حنبل وبشر بن الحارث",
-        "person_id": 1323,
+        "person_id": 1384,
         "canonical_name": "بشر بن الحارث الحافي",
         "has_id": 470
       }
@@ -197,7 +218,7 @@
       "name": "أبو بكر الخياط الصوفي",
       "relationship_type": "narrator",
       "full_text": "حدثني أبو بكر الخياط الصوفي قال سمعت أبا حمزة يقول",
-      "person_id": 619,
+      "person_id": 691,
       "canonical_name": "أبو بكر الخياط الصوفي",
       "has_id": NaN
     },
@@ -205,7 +226,7 @@
       "name": "أبو الأزهر وجماعة من إخواننا",
       "relationship_type": "narrator",
       "full_text": "قال قال أبو الأزهر وجماعة من إخواننا",
-      "person_id": 386,
+      "person_id": 430,
       "canonical_name": "أبو الأزهر وجماعة من إخواننا",
       "has_id": 37
     },
@@ -213,7 +234,7 @@
       "name": "أبا عبد الله الرملي",
       "relationship_type": "narrator",
       "full_text": "قال سمعت أبا عبد الله الرملي يقول",
-      "person_id": 868,
+      "person_id": 945,
       "canonical_name": "أبو عبد الله الرملي",
       "has_id": NaN
     },
@@ -221,7 +242,7 @@
       "name": "أبو عمرو البصرى",
       "relationship_type": "narrator",
       "full_text": "فذكر أبو عمرو البصرى قال",
-      "person_id": 1008,
+      "person_id": 1077,
       "canonical_name": "أبو عمرو البصرى",
       "has_id": NaN
     },
@@ -229,7 +250,7 @@
       "name": "أبو بكر الكتاني",
       "relationship_type": "narrator",
       "full_text": "عن أبي بكر الكتاني قال سمعت أبا حمزة يقول",
-      "person_id": 712,
+      "person_id": 786,
       "canonical_name": "أبو بكر محمد بن علي الكتاني",
       "has_id": 378
     },
@@ -237,7 +258,7 @@
       "name": "خير النساج",
       "relationship_type": "narrator",
       "full_text": "حكى عنه خير النساج قال قال أبو حمزة",
-      "person_id": 1510,
+      "person_id": 1572,
       "canonical_name": "خير النساج",
       "has_id": 564
     },
@@ -246,7 +267,7 @@
       "relationship_type": "interlocutor",
       "context": "addressee",
       "full_text": "وقال لبعض أصحابه",
-      "person_id": 1339,
+      "person_id": 1401,
       "canonical_name": "بعض أصحابه",
       "has_id": NaN
     }

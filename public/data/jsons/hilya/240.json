@@ -8,31 +8,38 @@
       "chain": [
         {
           "name": "عثمان بن محمد العثماني",
-          "person_id": 1021,
+          "person_id": 1089,
           "canonical_name": "أبو عمرو عثمان بن محمد العثماني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبى الحسن أحمد بن محمد ابن عيسى الرازي",
-          "person_id": 413,
+          "person_id": 466,
           "canonical_name": "أبو الحسن أحمد بن محمد بن عيسى الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر محمد بن عبد الله الرازى",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الوضاح ابن حكيم",
-          "person_id": 255,
+          "person_id": 281,
           "canonical_name": "الوضاح بن حكيم",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "name": "",
+          "person_id": 205,
+          "canonical_name": "العباس بن مساحق",
+          "has_id": 240,
+          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -51,7 +58,7 @@
       "relationship_type": "interlocutor",
       "context": "questioner",
       "full_text": "سمعت الوضاح ابن حكيم يقول: رأيت على العباس بن مساحق المخزومي عباءة شديدة البلا، فقلت: رحمك الله ما هذه العباءة التي أراها عليك؟",
-      "person_id": 255,
+      "person_id": 281,
       "canonical_name": "الوضاح بن حكيم",
       "has_id": NaN
     }

@@ -24,35 +24,35 @@
       "chain": [
         {
           "name": "إبراهيم بن محمد النيسابوري",
-          "person_id": 323,
+          "person_id": 349,
           "canonical_name": "إبراهيم بن محمد النيسابوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا عبد الله محمد بن إبراهيم بن عبدويه العبدي",
-          "person_id": 908,
+          "person_id": 980,
           "canonical_name": "أبو عبد الله محمد بن إبراهيم بن سعيد العبدي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو عمر عبد الرحمن بن أبي قرصافة العسقلاني",
-          "person_id": 993,
+          "person_id": 1064,
           "canonical_name": "أبو عمر عبد الرحمن بن أبي قرصافة العسقلاني",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبا القاسم البزاز",
-          "person_id": 530,
+          "person_id": 593,
           "canonical_name": "أبو القاسم البزاز",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علي بن الموفق",
-          "person_id": 2008,
+          "person_id": 2079,
           "canonical_name": "علي بن الموفق",
           "has_id": 694,
           "subj_added": false
@@ -66,14 +66,14 @@
       "chain": [
         {
           "name": "أبي عبد الله الخواص المصري",
-          "person_id": 863,
+          "person_id": 940,
           "canonical_name": "أبو عبد الله الخواص المصري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "علي بن الموفق",
-          "person_id": 2008,
+          "person_id": 2079,
           "canonical_name": "علي بن الموفق",
           "has_id": 694,
           "subj_added": false
@@ -87,14 +87,14 @@
       "chain": [
         {
           "name": "العباس بن يوسف الشكلي",
-          "person_id": 185,
+          "person_id": 209,
           "canonical_name": "العباس بن يوسف الشكلي",
           "has_id": 649,
           "subj_added": false
         },
         {
           "name": "علي بن الموفق",
-          "person_id": 2008,
+          "person_id": 2079,
           "canonical_name": "علي بن الموفق",
           "has_id": 694,
           "subj_added": false
@@ -115,7 +115,7 @@
       "name": "أبا القاسم البزاز",
       "relationship_type": "interlocutor",
       "full_text": "سمعت أبا القاسم البزاز يقول قال لي علي بن الموفق",
-      "person_id": 530,
+      "person_id": 593,
       "canonical_name": "أبو القاسم البزاز",
       "has_id": NaN
     },
@@ -123,7 +123,7 @@
       "name": "أبي عبد الله الخواص المصري",
       "relationship_type": "narrator",
       "full_text": "عن أبي عبد الله الخواص المصري قال سمعت علي بن الموفق يقول",
-      "person_id": 863,
+      "person_id": 940,
       "canonical_name": "أبو عبد الله الخواص المصري",
       "has_id": NaN
     },
@@ -131,7 +131,7 @@
       "name": "العباس بن يوسف الشكلي",
       "relationship_type": "narrator",
       "full_text": "يحكى عن العباس بن يوسف الشكلي قال سمعت علي بن الموفق يقول",
-      "person_id": 185,
+      "person_id": 209,
       "canonical_name": "العباس بن يوسف الشكلي",
       "has_id": 649
     }

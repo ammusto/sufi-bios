@@ -30,7 +30,7 @@
       "chain": [
         {
           "name": "سیروانی٭",
-          "person_id": 165,
+          "person_id": 187,
           "canonical_name": "السيرواني",
           "has_id": NaN,
           "subj_added": false
@@ -48,7 +48,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده بود",
         "full_text": "با باحفص صحبت کرده بود",
-        "person_id": 759,
+        "person_id": 836,
         "canonical_name": "أبو حفص الحداد النيسابوري",
         "has_id": 715
       }
@@ -61,7 +61,7 @@
       "name": "شیخ الاسلام",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت:",
-      "person_id": 1682,
+      "person_id": 650,
       "canonical_name": "أبو إسماعيل عبد الله الانصاري الهروي",
       "has_id": 36
     },
@@ -69,7 +69,7 @@
       "name": "سیروانی٭",
       "relationship_type": "narrator",
       "full_text": "سیروانی٭ گوید.",
-      "person_id": 165,
+      "person_id": 187,
       "canonical_name": "السيرواني",
       "has_id": NaN
     }

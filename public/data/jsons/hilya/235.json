@@ -14,31 +14,38 @@
       "chain": [
         {
           "name": "عبد الله بن محمد",
-          "person_id": 1855,
+          "person_id": 1924,
           "canonical_name": "عبد الله بن محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عمر بن الحسن الحلبي",
-          "person_id": 2089,
+          "person_id": 2155,
           "canonical_name": "عمر بن الحسن الحلبي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن المبارك الصوري",
-          "person_id": 2259,
+          "person_id": 2324,
           "canonical_name": "محمد بن المبارك الصوري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الوليد بن مسلم",
-          "person_id": 258,
+          "person_id": 284,
           "canonical_name": "الوليد بن مسلم",
           "has_id": NaN,
           "subj_added": false
+        },
+        {
+          "person_id": 171,
+          "canonical_name": "الديلمي",
+          "has_id": 235,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "explicit",
@@ -56,7 +63,7 @@
       "name": "الوليد بن مسلم",
       "relationship_type": "narrator",
       "full_text": "سمعت الوليد بن مسلم يقول",
-      "person_id": 258,
+      "person_id": 284,
       "canonical_name": "الوليد بن مسلم",
       "has_id": NaN
     }

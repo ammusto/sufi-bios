@@ -28,35 +28,35 @@
       "chain": [
         {
           "name": "أحمد بن جعفر بن معبد",
-          "person_id": 1187,
+          "person_id": 1251,
           "canonical_name": "أحمد بن جعفر بن معبد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو بكر محمد بن الفرج",
-          "person_id": 690,
-          "canonical_name": "أبو بكر محمد بن الفرج",
-          "has_id": NaN,
+          "person_id": 763,
+          "canonical_name": "أبو بكر محمد بن الفرج الودنكاني",
+          "has_id": 769,
           "subj_added": false
         },
         {
           "name": "محمد بن عاصم بن عمرو أبو الأزهر الصواف البصري",
-          "person_id": 2370,
+          "person_id": 2433,
           "canonical_name": "محمد بن عاصم بن عمرو أبو الأزهر الصواف البصري",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبو عاصم عمرو بن عثمان بن مقسم",
-          "person_id": 841,
+          "person_id": 919,
           "canonical_name": "أبو عاصم عمرو بن عثمان بن مقسم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "نافع",
-          "person_id": 2576,
+          "person_id": 2636,
           "canonical_name": "نافع",
           "has_id": NaN,
           "subj_added": false
@@ -64,7 +64,7 @@
         {
           "name": "ابن عمر",
           "has_id": NaN,
-          "person_id": 28,
+          "person_id": 41,
           "canonical_name": "ابن عمر",
           "subj_added": false
         }
@@ -77,63 +77,63 @@
       "chain": [
         {
           "name": "أبو بكر محمد بن عبد الله",
-          "person_id": 707,
+          "person_id": 782,
           "canonical_name": "أبو بكر محمد بن عبد الله الرازي",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "ممشاد",
-          "person_id": 2534,
+          "person_id": 2593,
           "canonical_name": "ممشاد الدينوري",
           "has_id": 815,
           "subj_added": false
         },
         {
           "name": "أبو بكر محمد بن الفرج",
-          "person_id": 690,
-          "canonical_name": "أبو بكر محمد بن الفرج",
-          "has_id": NaN,
+          "person_id": 763,
+          "canonical_name": "أبو بكر محمد بن الفرج الودنكاني",
+          "has_id": 769,
           "subj_added": false
         },
         {
           "name": "عبد الجبار",
-          "person_id": 1728,
+          "person_id": 1795,
           "canonical_name": "عبد الجبار",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "مروان",
-          "person_id": 2493,
+          "person_id": 2554,
           "canonical_name": "مروان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي يعقوب",
-          "person_id": 1130,
+          "person_id": 1193,
           "canonical_name": "أبو يعقوب",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الوليد بن العيزار",
-          "person_id": 256,
+          "person_id": 282,
           "canonical_name": "الوليد بن العيزار",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي عمرو",
-          "person_id": 1005,
+          "person_id": 1073,
           "canonical_name": "أبو عمرو",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله بن مسعود",
-          "person_id": 1880,
+          "person_id": 1949,
           "canonical_name": "عبد الله بن مسعود",
           "has_id": NaN,
           "subj_added": false
@@ -147,49 +147,49 @@
       "chain": [
         {
           "name": "أبا محمد بن حيان",
-          "person_id": 1050,
+          "person_id": 1116,
           "canonical_name": "أبو محمد بن حيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "جدي محمود بن الفرج",
-          "person_id": 1390,
-          "canonical_name": "جدي محمود بن الفرج",
-          "has_id": NaN,
+          "person_id": 763,
+          "canonical_name": "أبو بكر محمد بن الفرج الودنكاني",
+          "has_id": 769,
           "subj_added": false
         },
         {
           "name": "أبو حجر",
-          "person_id": 755,
+          "person_id": 832,
           "canonical_name": "أبو حجر",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد بن عبيد",
-          "person_id": 2397,
-          "canonical_name": "محمد بن عبيد الله",
+          "person_id": 2458,
+          "canonical_name": "محمد بن عبيد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "الأعمش",
-          "person_id": 59,
+          "person_id": 77,
           "canonical_name": "الأعمش",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "أبي سفيان",
-          "person_id": 812,
+          "person_id": 889,
           "canonical_name": "أبو سفيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "جابر",
-          "person_id": 1372,
+          "person_id": 1434,
           "canonical_name": "جابر",
           "has_id": NaN,
           "subj_added": false
@@ -203,21 +203,21 @@
       "chain": [
         {
           "name": "أبا محمد",
-          "person_id": 1050,
+          "person_id": 1116,
           "canonical_name": "أبو محمد بن حيان",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "جده محمود",
-          "person_id": 1384,
-          "canonical_name": "جده محمود",
-          "has_id": NaN,
+          "person_id": 763,
+          "canonical_name": "أبو بكر محمد بن الفرج الودنكاني",
+          "has_id": 769,
           "subj_added": false
         },
         {
           "name": "أبا عثمان سعيد بن العباس",
-          "person_id": 940,
+          "person_id": 1012,
           "canonical_name": "أبو عثمان سعيد بن العباس الرازي",
           "has_id": 595,
           "subj_added": false
@@ -237,7 +237,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب أبا عثمان الرازي",
-        "person_id": 940,
+        "person_id": 1012,
         "canonical_name": "أبو عثمان سعيد بن العباس الرازي",
         "has_id": 595
       }

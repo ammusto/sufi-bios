@@ -648,13 +648,6 @@
           "canonical_name": "أبو بكر الشبلي",
           "has_id": 376,
           "subj_added": false
-        },
-        {
-          "name": "",
-          "person_id": 699,
-          "canonical_name": "أبو بكر الشبلي",
-          "has_id": 376,
-          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -1707,7 +1700,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "سائل",
       "full_text": "وقفت يوما على حلقة أبي بكر الشبلي فوقف سائل على حلقته وجعل يقول: يا الله يا جواد.",
-      "person_id": 1647,
+      "person_id": 2937,
       "canonical_name": "سائل",
       "has_id": NaN
     }

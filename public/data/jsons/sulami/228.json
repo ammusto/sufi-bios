@@ -124,7 +124,7 @@
         },
         {
           "name": "أبي سعيد",
-          "person_id": 874,
+          "person_id": 2798,
           "canonical_name": "أبو سعيد",
           "has_id": NaN,
           "subj_added": false
@@ -621,7 +621,7 @@
         },
         {
           "name": "أبي عَليّ",
-          "person_id": 1017,
+          "person_id": 2807,
           "canonical_name": "أبو علي",
           "has_id": NaN,
           "subj_added": false
@@ -1220,7 +1220,7 @@
       "name": "أَحْمد",
       "relationship_type": "narrator",
       "full_text": "وَسمعت أَحْمد يَقُول سَمِعت الْجُنَيْد يَقُول",
-      "person_id": 1218,
+      "person_id": 2834,
       "canonical_name": "أحمد",
       "has_id": NaN
     },
@@ -1245,7 +1245,7 @@
       "relationship_type": "questioner",
       "context": "questioner",
       "full_text": "سَمِعت مَنْصُور بن عبد الله يَقُول سَمِعت أَبَا عَمْرو الْأنمَاطِي يَقُول وَقَالَ رجل للجنيد على مَاذَا يتأسف الْمُحب من أوقاته",
-      "person_id": 1593,
+      "person_id": 2883,
       "canonical_name": "رجل",
       "has_id": NaN
     }

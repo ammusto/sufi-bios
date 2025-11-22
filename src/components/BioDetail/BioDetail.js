@@ -32,9 +32,9 @@ const BioDetail = () => {
       const bioArticles = info.filter(
         item => String(item.bio_id) === String(bioId) && item.cat === 'entity'
       );
-      
+
       console.log(`Found ${bioArticles.length} articles for bio_id ${bioId}:`, bioArticles.map(a => a.id));
-      
+
       setArticles(bioArticles);
 
       // Load ALL article JSONs
@@ -43,12 +43,12 @@ const BioDetail = () => {
         return loadArticleJson(article.id);
       });
       const jsons = await Promise.all(jsonPromises);
-      
-      console.log('Loaded JSONs:', jsons.map((j, i) => ({ 
-        id: bioArticles[i].id, 
+
+      console.log('Loaded JSONs:', jsons.map((j, i) => ({
+        id: bioArticles[i].id,
         structure: j ? (j.content ? 'content[]' : j.parts ? 'parts[]' : 'unknown') : 'null'
       })));
-      
+
       setArticleData(jsons);
 
       // Extract encyclopedia excerpts from ALL sources
@@ -70,9 +70,9 @@ const BioDetail = () => {
     for (let idx = 0; idx < articles.length; idx++) {
       const article = articles[idx];
       const json = articleJsons[idx];
-      
+
       console.log(`Processing article ${idx}:`, article.id);
-      
+
       // Skip if no JSON data
       if (!json) {
         console.log(`  -> Skipped: No JSON data for ${article.id}`);
@@ -98,7 +98,7 @@ const BioDetail = () => {
             return part.content || '';
           })
           .filter(c => c.length > 0);
-        
+
         fullText = contentParts.join(' ');
         console.log(`  -> Using parts[] array with ${json.parts.length} parts`);
       }
@@ -163,7 +163,13 @@ const BioDetail = () => {
           onTabChange={handleTabChange}
         />
 
-        <GeographySection 
+        <GeographySection
+          bioId={bioId}
+          bioName={bio.name_ar || bio.name_lat}
+        />
+
+
+        <TransmissionNetworkSection
           bioId={bioId}
           bioName={bio.name_ar || bio.name_lat}
         />
@@ -174,11 +180,6 @@ const BioDetail = () => {
             <BibliographySection articleData={articleData} />
           </>
         )}
-
-        <TransmissionNetworkSection 
-          bioId={bioId}
-          bioName={bio.name_ar || bio.name_lat}
-        />
       </div>
     </Layout>
   );

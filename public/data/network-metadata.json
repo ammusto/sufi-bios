@@ -1,12 +1,12 @@
 {
-  "generated": "2025-11-15T23:57:21.087460",
+  "generated": "2025-11-16T16:24:51.275669",
   "statistics": {
-    "total_people": 2379,
-    "total_isnads": 2069,
+    "total_people": 2504,
+    "total_isnads": 2066,
     "total_biographies": 812,
     "total_occurrences": 4089,
-    "subjects_added_by_script": 943,
-    "total_chain_entries": 12217
+    "subjects_added_by_script": 919,
+    "total_chain_entries": 12120
   },
   "sources": [
     "sulami",

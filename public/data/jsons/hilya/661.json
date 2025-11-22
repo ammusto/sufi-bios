@@ -63,14 +63,14 @@
       "chain": [
         {
           "name": "الحسين",
-          "person_id": 124,
+          "person_id": 2763,
           "canonical_name": "الحسين",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد",
-          "person_id": 2280,
+          "person_id": 2962,
           "canonical_name": "محمد",
           "has_id": NaN,
           "subj_added": false
@@ -91,14 +91,14 @@
       "chain": [
         {
           "name": "الحسين",
-          "person_id": 124,
+          "person_id": 2763,
           "canonical_name": "الحسين",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد",
-          "person_id": 2280,
+          "person_id": 2962,
           "canonical_name": "محمد",
           "has_id": NaN,
           "subj_added": false
@@ -119,14 +119,14 @@
       "chain": [
         {
           "name": "الحسين",
-          "person_id": 124,
+          "person_id": 2763,
           "canonical_name": "الحسين",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد",
-          "person_id": 2280,
+          "person_id": 2962,
           "canonical_name": "محمد",
           "has_id": NaN,
           "subj_added": false
@@ -147,14 +147,14 @@
       "chain": [
         {
           "name": "الحسين",
-          "person_id": 124,
+          "person_id": 2763,
           "canonical_name": "الحسين",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد",
-          "person_id": 2280,
+          "person_id": 2962,
           "canonical_name": "محمد",
           "has_id": NaN,
           "subj_added": false
@@ -385,20 +385,13 @@
       "chain": [
         {
           "name": "محمد",
-          "person_id": 2280,
+          "person_id": 2962,
           "canonical_name": "محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "عبد الله",
-          "person_id": 1123,
-          "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
-          "has_id": 661,
-          "subj_added": false
-        },
-        {
-          "name": "عبد الله بن خبيق",
           "person_id": 1123,
           "canonical_name": "أبو محمد عبد الله بن خبيق الأنطاكي",
           "has_id": 661,
@@ -567,7 +560,7 @@
         },
         {
           "name": "أبيه",
-          "person_id": 1212,
+          "person_id": 2824,
           "canonical_name": "أبوه",
           "has_id": NaN,
           "subj_added": false
@@ -623,7 +616,7 @@
         },
         {
           "name": "الحسن",
-          "person_id": 91,
+          "person_id": 2753,
           "canonical_name": "الحسن",
           "has_id": NaN,
           "subj_added": false
@@ -679,7 +672,7 @@
         },
         {
           "name": "الحسن",
-          "person_id": 91,
+          "person_id": 2753,
           "canonical_name": "الحسن",
           "has_id": NaN,
           "subj_added": false
@@ -707,7 +700,7 @@
         },
         {
           "name": "محمد",
-          "person_id": 2280,
+          "person_id": 2962,
           "canonical_name": "محمد",
           "has_id": NaN,
           "subj_added": false
@@ -777,7 +770,7 @@
         },
         {
           "name": "محمد",
-          "person_id": 2280,
+          "person_id": 2962,
           "canonical_name": "محمد",
           "has_id": NaN,
           "subj_added": false
@@ -812,7 +805,7 @@
         },
         {
           "name": "أبيه",
-          "person_id": 1212,
+          "person_id": 2824,
           "canonical_name": "أبوه",
           "has_id": NaN,
           "subj_added": false
@@ -922,7 +915,7 @@
       "name": "محمد",
       "relationship_type": "narrator",
       "full_text": "ثنا محمد ثنا عبد الله.",
-      "person_id": 2280,
+      "person_id": 2962,
       "canonical_name": "محمد",
       "has_id": NaN
     },

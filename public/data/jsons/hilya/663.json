@@ -22,7 +22,7 @@
         },
         {
           "name": "أبا حمزة",
-          "person_id": 840,
+          "person_id": 2795,
           "canonical_name": "أبو حمزة",
           "has_id": NaN,
           "subj_added": false
@@ -57,7 +57,7 @@
       "name": "أبا حمزة",
       "relationship_type": "questioner",
       "full_text": "قلت لابن دينار الجعفي: أوصني",
-      "person_id": 840,
+      "person_id": 2795,
       "canonical_name": "أبو حمزة",
       "has_id": NaN
     }

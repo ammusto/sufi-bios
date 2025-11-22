@@ -138,7 +138,7 @@
         },
         {
           "name": "راهب",
-          "person_id": 1587,
+          "person_id": 2875,
           "canonical_name": "راهب",
           "has_id": NaN,
           "subj_added": false
@@ -200,7 +200,7 @@
       "name": "راهب",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "قال لي راهب يوما",
-      "person_id": 1587,
+      "person_id": 2875,
       "canonical_name": "راهب",
       "has_id": NaN
     }

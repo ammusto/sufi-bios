@@ -63,7 +63,7 @@
       "chain": [
         {
           "name": "الشيخ",
-          "person_id": 191,
+          "person_id": 2769,
           "canonical_name": "الشيخ",
           "has_id": NaN,
           "subj_added": false
@@ -205,7 +205,7 @@
       "name": "الشيخ",
       "relationship_type": "narrator",
       "full_text": "قال الشيخ",
-      "person_id": 191,
+      "person_id": 2769,
       "canonical_name": "الشيخ",
       "has_id": NaN
     },

@@ -384,14 +384,14 @@
         },
         {
           "name": "إبراهيم",
-          "person_id": 297,
+          "person_id": 2773,
           "canonical_name": "إبراهيم",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "رجلا",
-          "person_id": 1593,
+          "person_id": 2921,
           "canonical_name": "رجل",
           "has_id": NaN,
           "subj_added": false
@@ -716,7 +716,7 @@
       "name": "رجل",
       "relationship_type": "questioner",
       "full_text": "سمعت رجلا يقول لزهير بن نعيم: ممن أنت يا أبا عبد الرحمن؟",
-      "person_id": 1593,
+      "person_id": 2921,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -734,7 +734,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "farewell",
       "full_text": "بدأت بيحيى بن سعيد فودعته",
-      "person_id": 2701,
+      "person_id": 2996,
       "canonical_name": "يحيى بن سعيد",
       "has_id": NaN
     },

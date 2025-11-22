@@ -134,9 +134,9 @@
         "relationship_type": "student_of",
         "relationship_phrase": "صحبت کرده با",
         "full_text": "صحبت کرده بابوتراب نخشبی و بابوعبداللّه دراع بصری و بابوعبید بسری٭",
-        "person_id": 1000,
-        "canonical_name": "أبو عبيد بسري",
-        "has_id": NaN
+        "person_id": 997,
+        "canonical_name": "أبو عبيد البسري",
+        "has_id": 409
       },
       {
         "name": "عثمن حیری٭",
@@ -200,7 +200,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "beggar",
       "full_text": "درویشی برپای خاست دومن نان خواست.",
-      "person_id": 1582,
+      "person_id": 2870,
       "canonical_name": "درويش",
       "has_id": NaN
     },

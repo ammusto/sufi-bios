@@ -20,7 +20,7 @@
         {
           "name": "عیسی",
           "person_id": 2210,
-          "canonical_name": "عيسي",
+          "canonical_name": "عيسى",
           "has_id": NaN,
           "subj_added": false
         },
@@ -30,13 +30,6 @@
           "canonical_name": "خير النساج",
           "has_id": 564,
           "subj_added": true
-        },
-        {
-          "name": "",
-          "person_id": 1572,
-          "canonical_name": "خير النساج",
-          "has_id": 564,
-          "subj_added": false
         }
       ],
       "type": "single_informant",
@@ -179,7 +172,7 @@
       "relationship_type": "narrator",
       "full_text": "عیسی گوید: کی نام وی محمدبن اسماعیل است السامری.",
       "person_id": 2210,
-      "canonical_name": "عيسي",
+      "canonical_name": "عيسى",
       "has_id": NaN
     },
     {
@@ -187,7 +180,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "درکوفه",
       "full_text": "چون از حج بازگشت مردی ویرا بگرفت و درکوفه گفت: تو بندهٔ منی و نام تو خیر است",
-      "person_id": 1593,
+      "person_id": 2919,
       "canonical_name": "رجل",
       "has_id": NaN
     },

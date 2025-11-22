@@ -413,7 +413,7 @@
         },
         {
           "name": "أبي",
-          "person_id": 1216,
+          "person_id": 2833,
           "canonical_name": "أبي",
           "has_id": NaN,
           "subj_added": false
@@ -805,7 +805,7 @@
         },
         {
           "name": "محمد بن أحمد",
-          "person_id": 2356,
+          "person_id": 2971,
           "canonical_name": "محمد بن أحمد",
           "has_id": NaN,
           "subj_added": false
@@ -1603,7 +1603,7 @@
         },
         {
           "name": "أبو داود",
-          "person_id": 849,
+          "person_id": 2797,
           "canonical_name": "أبو داود",
           "has_id": NaN,
           "subj_added": false
@@ -1764,7 +1764,7 @@
         },
         {
           "name": "أبي",
-          "person_id": 658,
+          "person_id": 2790,
           "canonical_name": "أبو أحمد",
           "has_id": NaN,
           "subj_added": false
@@ -1965,7 +1965,7 @@
       "name": "محمد بن أحمد",
       "relationship_type": "narrator",
       "full_text": "سمعت محمد بن أحمد - سنة خمس وثلاثمائة - يقول سمعت يحيى بن معاذ يقول",
-      "person_id": 2356,
+      "person_id": 2971,
       "canonical_name": "محمد بن أحمد",
       "has_id": NaN
     },
@@ -2006,7 +2006,7 @@
       "relationship_type": "narrator",
       "full_text": "سمعت ابن كمال الجرجاني يقول: سئل يحيى بن معاذ عن الرقص",
       "has_id": NaN,
-      "person_id": 135,
+      "person_id": 2784,
       "canonical_name": "الحسين بن عبد الله"
     },
     {

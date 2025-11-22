@@ -40,7 +40,7 @@
       "chain": [
         {
           "name": "یکی",
-          "person_id": 2728,
+          "person_id": 2998,
           "canonical_name": "يكي",
           "has_id": NaN,
           "subj_added": false
@@ -109,7 +109,7 @@
       "name": "یکی",
       "relationship_type": "direct_narrator",
       "full_text": "یکی گفت: که",
-      "person_id": 2728,
+      "person_id": 2998,
       "canonical_name": "يكي",
       "has_id": NaN
     },
@@ -118,7 +118,7 @@
       "relationship_type": "interlocutor",
       "context": "addressed",
       "full_text": "لبعض اصحابه",
-      "person_id": 1401,
+      "person_id": 2845,
       "canonical_name": "بعض أصحابه",
       "has_id": NaN
     }

@@ -270,13 +270,6 @@
           "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
           "has_id": 29,
           "subj_added": false
-        },
-        {
-          "name": "أَبَا بكر",
-          "person_id": 759,
-          "canonical_name": "أبو بكر عبد الله بن طاهر الأبهري",
-          "has_id": 29,
-          "subj_added": false
         }
       ],
       "type": "explicit",
@@ -427,7 +420,7 @@
         },
         {
           "name": "بعض أَصْحَابنَا",
-          "person_id": 1400,
+          "person_id": 2839,
           "canonical_name": "بعض أصحابنا",
           "has_id": NaN,
           "subj_added": false
@@ -547,7 +540,7 @@
       "name": "بعض أَصْحَابنَا",
       "relationship_type": "narrator",
       "full_text": "سَمِعت بعض أَصْحَابنَا يَقُول",
-      "person_id": 1400,
+      "person_id": 2839,
       "canonical_name": "بعض أصحابنا",
       "has_id": NaN
     }

@@ -238,10 +238,10 @@
           "subj_added": false
         },
         {
-          "name": "بنان",
-          "person_id": 476,
-          "canonical_name": "أبو الحسن بنان الحمال",
-          "has_id": 476,
+          "name": "قيس",
+          "person_id": 2253,
+          "canonical_name": "قيس",
+          "has_id": NaN,
           "subj_added": false
         },
         {
@@ -252,11 +252,11 @@
           "subj_added": false
         },
         {
-          "name": "أبو بكر",
           "person_id": 785,
           "canonical_name": "أبو بكر محمد بن عبد الله بن عبد العزيز بن شاذان الرازي",
           "has_id": NaN,
-          "subj_added": false
+          "subj_added": false,
+          "name": "أبو بكر"
         }
       ],
       "type": "explicit",
@@ -402,7 +402,7 @@
       "name": "أبي عبيد الله",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "فدعا على أبي عبيد الله فحبسه ابن طولون بدل كل درة سنة",
-      "person_id": 998,
+      "person_id": 2806,
       "canonical_name": "أبو عبيد الله",
       "has_id": NaN
     },

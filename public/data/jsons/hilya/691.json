@@ -29,7 +29,7 @@
         },
         {
           "name": "أبيه",
-          "person_id": 1212,
+          "person_id": 2825,
           "canonical_name": "أبوه",
           "has_id": NaN,
           "subj_added": false
@@ -56,7 +56,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "مؤاخاة",
         "full_text": "كان بيني وبين علي السامري مؤاخاة",
-        "person_id": 1212,
+        "person_id": 2825,
         "canonical_name": "أبوه",
         "has_id": NaN
       }
@@ -68,7 +68,7 @@
       "relationship_type": "narrator",
       "context": "interlocutor",
       "full_text": "عن أبيه قال: كان بيني وبين علي السامري مؤاخاة",
-      "person_id": 1212,
+      "person_id": 2825,
       "canonical_name": "أبوه",
       "has_id": NaN
     }

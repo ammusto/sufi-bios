@@ -71,20 +71,6 @@
           "canonical_name": "أبو حفص الحداد النيسابوري",
           "has_id": 715,
           "subj_added": true
-        },
-        {
-          "name": "",
-          "person_id": 836,
-          "canonical_name": "أبو حفص الحداد النيسابوري",
-          "has_id": 715,
-          "subj_added": false
-        },
-        {
-          "name": "",
-          "person_id": 836,
-          "canonical_name": "أبو حفص الحداد النيسابوري",
-          "has_id": 715,
-          "subj_added": false
         }
       ],
       "type": "explicit",
@@ -286,20 +272,6 @@
           "canonical_name": "أبو حفص الحداد النيسابوري",
           "has_id": 715,
           "subj_added": true
-        },
-        {
-          "name": "",
-          "person_id": 836,
-          "canonical_name": "أبو حفص الحداد النيسابوري",
-          "has_id": 715,
-          "subj_added": false
-        },
-        {
-          "name": "",
-          "person_id": 836,
-          "canonical_name": "أبو حفص الحداد النيسابوري",
-          "has_id": 715,
-          "subj_added": false
         }
       ],
       "type": "explicit",
@@ -470,7 +442,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "visitor",
       "full_text": "شیخ الاسلام گفت: که وقتی مردی وی آمد",
-      "person_id": 1593,
+      "person_id": 2927,
       "canonical_name": "رجل",
       "has_id": NaN
     }

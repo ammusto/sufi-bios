@@ -1,4 +1,3 @@
-// src/components/BioDetail/TransmissionNetworkSection.js
 import React, { useState, useMemo, useEffect } from 'react';
 import ChainFlowGraph from '../Network/TransmitterView/ChainFlowGraph';
 import StatsPanel from '../Network/shared/StatsPanel';
@@ -65,15 +64,14 @@ const TransmissionNetworkSection = ({ bioId, bioName }) => {
       chain.forEach((person, i) => {
         const nodeId = `p_${person.person_id}`;
         
-        // Check if this person is the subject
         const isSubject = String(person.has_id) === String(bioId);
         if (isSubject) subjectNodeId = nodeId;
         
         if (!nodesMap.has(nodeId)) {
           nodesMap.set(nodeId, {
             id: nodeId,
-            name: person.canonical_name || person.name || `Person ${person.person_id}`,
             personId: person.person_id,
+            name: person.canonical_name || person.name || `Person ${person.person_id}`,
             hasId: person.has_id,
             isBioSubject: isSubject,
             size: isSubject ? 20 : 10,
@@ -81,7 +79,6 @@ const TransmissionNetworkSection = ({ bioId, bioName }) => {
           });
         }
 
-        // Create edge to next person in chain
         if (i < chain.length - 1) {
           const nextId = `p_${chain[i + 1].person_id}`;
           const edgeKey = `${nodeId}->${nextId}`;
@@ -103,12 +100,30 @@ const TransmissionNetworkSection = ({ bioId, bioName }) => {
 
     if (nodes.length === 0) return null;
 
+    // Build isnad details for highlighting
+    const isnadDetails = currentData.isnads
+      .filter(isnad => isnad.chain && isnad.chain.length > 0)
+      .map((isnad, idx) => {
+        const chain = isnad.chain.filter(c => c.person_id);
+        return {
+          isnad_id: `isnad_${idx}`,
+          full_isnad: chain.map(p => `p_${p.person_id}`),
+          full_isnad_names: chain.map(p => p.canonical_name || p.name || `Person ${p.person_id}`),
+          position: 0,
+          bio_id: bioId,
+          bio_name: bioName,
+          source: activeSource,
+          full_text: isnad.full_text || ''
+        };
+      });
+
     return {
       nodes,
       edges,
-      centerPersonId: subjectNodeId || nodes[0].id
+      centerPersonId: subjectNodeId || nodes[0].id,
+      isnadDetails
     };
-  }, [sourceData, activeSource, bioId]);
+  }, [sourceData, activeSource, bioId, bioName]);
 
   const handleNodeClick = (node) => {
     setSelectedNode(node);
@@ -237,7 +252,7 @@ const TransmissionNetworkSection = ({ bioId, bioName }) => {
             }}>
               <ChainFlowGraph
                 data={graphData}
-                isnadDetails={null}
+                isnadDetails={graphData.isnadDetails}
                 onNodeClick={handleNodeClick}
                 selectedNode={selectedNode}
                 showPeerConnections={false}

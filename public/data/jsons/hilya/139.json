@@ -139,7 +139,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "أستاده",
         "full_text": "سلك مسلك أستاده سهل وابنه أبي الحسن.",
-        "person_id": 436,
+        "person_id": 2786,
         "canonical_name": "أبو الحسن",
         "has_id": NaN
       }
@@ -171,7 +171,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "questioner",
       "full_text": "سأل رجل أبا عبد الله بن سالم وأنا أسمع: أنحن مستعبدون بالكسب أو بالتوكل؟",
-      "person_id": 1593,
+      "person_id": 2882,
       "canonical_name": "رجل",
       "has_id": NaN
     }

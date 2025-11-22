@@ -121,20 +121,6 @@
           "canonical_name": "أبو الحسين النوري",
           "has_id": 439,
           "subj_added": true
-        },
-        {
-          "name": "",
-          "person_id": 510,
-          "canonical_name": "أبو الحسين النوري",
-          "has_id": 439,
-          "subj_added": false
-        },
-        {
-          "name": "",
-          "person_id": 510,
-          "canonical_name": "أبو الحسين النوري",
-          "has_id": 439,
-          "subj_added": false
         }
       ],
       "type": "single_informant",
@@ -840,7 +826,7 @@
       "name": "رجل",
       "relationship_type": "questioner",
       "full_text": "فقال له رجل: هل يلحق الأسرار ما يلحق الصفات؟",
-      "person_id": 1593,
+      "person_id": 2907,
       "canonical_name": "رجل",
       "has_id": NaN
     },

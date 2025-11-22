@@ -427,7 +427,7 @@
         },
         {
           "name": "رجل",
-          "person_id": 1593,
+          "person_id": 2927,
           "canonical_name": "رجل",
           "has_id": NaN,
           "subj_added": false
@@ -1129,7 +1129,7 @@
       "name": "بَعضهم",
       "relationship_type": "questioner",
       "full_text": "قَالَ لَهُ بَعضهم دلنا على الفتوة مَا هِيَ",
-      "person_id": 1407,
+      "person_id": 2857,
       "canonical_name": "بعضهم",
       "has_id": NaN
     },
@@ -1153,7 +1153,7 @@
       "name": "رجل",
       "relationship_type": "questioner",
       "full_text": "قَالَ وَقَالَ رجل لأبي حَفْص",
-      "person_id": 1593,
+      "person_id": 2927,
       "canonical_name": "رجل",
       "has_id": NaN
     },

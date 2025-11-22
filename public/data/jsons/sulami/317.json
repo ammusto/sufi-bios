@@ -65,13 +65,6 @@
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
           "subj_added": false
-        },
-        {
-          "name": "أَبَا الْحُسَيْن بن هِنْد",
-          "person_id": 519,
-          "canonical_name": "أبو الحسين علي بن هند الفارسي",
-          "has_id": 317,
-          "subj_added": false
         }
       ],
       "type": "explicit",
@@ -86,9 +79,16 @@
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
           "subj_added": false
-        },
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
         {
-          "name": "أَبَا الْحُسَيْن بن هِنْد",
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
           "person_id": 519,
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
@@ -107,9 +107,16 @@
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
           "subj_added": false
-        },
+        }
+      ],
+      "type": "bi-isnadihi",
+      "full_text": "قَالَ وسمعته يَقُول",
+      "refers_to_previous": true
+    },
+    {
+      "chain": [
         {
-          "name": "أَبَا الْحُسَيْن بن هِنْد",
+          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
           "person_id": 519,
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
@@ -128,13 +135,6 @@
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
           "subj_added": false
-        },
-        {
-          "name": "أَبَا الْحُسَيْن بن هِنْد",
-          "person_id": 519,
-          "canonical_name": "أبو الحسين علي بن هند الفارسي",
-          "has_id": 317,
-          "subj_added": false
         }
       ],
       "type": "bi-isnadihi",
@@ -149,13 +149,6 @@
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
           "subj_added": false
-        },
-        {
-          "name": "أَبَا الْحُسَيْن بن هِنْد",
-          "person_id": 519,
-          "canonical_name": "أبو الحسين علي بن هند الفارسي",
-          "has_id": 317,
-          "subj_added": false
         }
       ],
       "type": "bi-isnadihi",
@@ -166,55 +159,6 @@
       "chain": [
         {
           "name": "أَبَا الْحُسَيْن الْفَارِسِي",
-          "person_id": 519,
-          "canonical_name": "أبو الحسين علي بن هند الفارسي",
-          "has_id": 317,
-          "subj_added": false
-        },
-        {
-          "name": "أَبَا الْحُسَيْن بن هِنْد",
-          "person_id": 519,
-          "canonical_name": "أبو الحسين علي بن هند الفارسي",
-          "has_id": 317,
-          "subj_added": false
-        }
-      ],
-      "type": "bi-isnadihi",
-      "full_text": "قَالَ وسمعته يَقُول",
-      "refers_to_previous": true
-    },
-    {
-      "chain": [
-        {
-          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
-          "person_id": 519,
-          "canonical_name": "أبو الحسين علي بن هند الفارسي",
-          "has_id": 317,
-          "subj_added": false
-        },
-        {
-          "name": "أَبَا الْحُسَيْن بن هِنْد",
-          "person_id": 519,
-          "canonical_name": "أبو الحسين علي بن هند الفارسي",
-          "has_id": 317,
-          "subj_added": false
-        }
-      ],
-      "type": "bi-isnadihi",
-      "full_text": "قَالَ وسمعته يَقُول",
-      "refers_to_previous": true
-    },
-    {
-      "chain": [
-        {
-          "name": "أَبَا الْحُسَيْن الْفَارِسِي",
-          "person_id": 519,
-          "canonical_name": "أبو الحسين علي بن هند الفارسي",
-          "has_id": 317,
-          "subj_added": false
-        },
-        {
-          "name": "أَبَا الْحُسَيْن بن هِنْد",
           "person_id": 519,
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
@@ -233,13 +177,6 @@
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
           "subj_added": false
-        },
-        {
-          "name": "أَبَا الْحُسَيْن بن هِنْد",
-          "person_id": 519,
-          "canonical_name": "أبو الحسين علي بن هند الفارسي",
-          "has_id": 317,
-          "subj_added": false
         }
       ],
       "type": "bi-isnadihi",
@@ -250,13 +187,6 @@
       "chain": [
         {
           "name": "أَبَا الْحُسَيْن الْفَارِسِي",
-          "person_id": 519,
-          "canonical_name": "أبو الحسين علي بن هند الفارسي",
-          "has_id": 317,
-          "subj_added": false
-        },
-        {
-          "name": "أَبَا الْحُسَيْن بن هِنْد",
           "person_id": 519,
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
@@ -275,13 +205,6 @@
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,
           "subj_added": false
-        },
-        {
-          "name": "أَبَا الْحُسَيْن بن هِنْد",
-          "person_id": 519,
-          "canonical_name": "أبو الحسين علي بن هند الفارسي",
-          "has_id": 317,
-          "subj_added": false
         }
       ],
       "type": "bi-isnadihi",
@@ -292,13 +215,6 @@
       "chain": [
         {
           "name": "أَبَا الْحُسَيْن الْفَارِسِي",
-          "person_id": 519,
-          "canonical_name": "أبو الحسين علي بن هند الفارسي",
-          "has_id": 317,
-          "subj_added": false
-        },
-        {
-          "name": "أَبَا الْحُسَيْن بن هِنْد",
           "person_id": 519,
           "canonical_name": "أبو الحسين علي بن هند الفارسي",
           "has_id": 317,

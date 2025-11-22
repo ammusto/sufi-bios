@@ -280,7 +280,7 @@
         },
         {
           "name": "احمد",
-          "person_id": 1218,
+          "person_id": 2835,
           "canonical_name": "أحمد",
           "has_id": NaN,
           "subj_added": false
@@ -451,8 +451,8 @@
       "name": "پیر پارسی",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "و با پدر من و پیر پارسی و بوالسن طبری و بوالقاسم حنانه و جز از ایشان همه مه میداشت",
-      "person_id": 1745,
-      "canonical_name": "شيج",
+      "person_id": 2940,
+      "canonical_name": "شیخ",
       "has_id": NaN
     },
     {
@@ -588,7 +588,7 @@
       "name": "احمد",
       "relationship_type": "direct_narrator",
       "full_text": "کی از احمد شنیدم بخجند پسر حسین منصور حلاج: کی پسین شب پدر را گفتم، کی مرا وصیتی کن!",
-      "person_id": 1218,
+      "person_id": 2835,
       "canonical_name": "أحمد",
       "has_id": NaN
     },

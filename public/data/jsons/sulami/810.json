@@ -304,7 +304,7 @@
         },
         {
           "name": "أَحْمد",
-          "person_id": 1218,
+          "person_id": 2836,
           "canonical_name": "أحمد",
           "has_id": NaN,
           "subj_added": false
@@ -360,7 +360,7 @@
         },
         {
           "name": "أَحْمد",
-          "person_id": 1218,
+          "person_id": 2836,
           "canonical_name": "أحمد",
           "has_id": NaN,
           "subj_added": false
@@ -416,7 +416,7 @@
         },
         {
           "name": "أَحْمد",
-          "person_id": 1218,
+          "person_id": 2836,
           "canonical_name": "أحمد",
           "has_id": NaN,
           "subj_added": false
@@ -968,7 +968,7 @@
       "relationship_type": "interlocutor",
       "context": "addressing_subject",
       "full_text": "وَبِه قَالَ قَالَ رجل لمعروف مَا شكرت معروفي",
-      "person_id": 1593,
+      "person_id": 2932,
       "canonical_name": "رجل",
       "has_id": NaN
     }

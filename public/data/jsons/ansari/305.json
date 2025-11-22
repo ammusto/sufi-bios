@@ -144,7 +144,7 @@
       "chain": [
         {
           "name": "عباس",
-          "person_id": 1783,
+          "person_id": 2945,
           "canonical_name": "عباس",
           "has_id": NaN,
           "subj_added": false
@@ -712,7 +712,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "میفخرکردند بدیدار وی",
         "full_text": "و شیخ عمو و عباس میفخرکردند بدیدار وی",
-        "person_id": 1783,
+        "person_id": 2945,
         "canonical_name": "عباس",
         "has_id": NaN
       }
@@ -755,7 +755,7 @@
       "name": "عباس",
       "relationship_type": "direct_narrator",
       "full_text": "و عباس گفت: که ویگفت: استوصوا بمن یحبکم، شما را وصیت میکنم بکسی کش شما دوست",
-      "person_id": 1783,
+      "person_id": 2945,
       "canonical_name": "عباس",
       "has_id": NaN
     },

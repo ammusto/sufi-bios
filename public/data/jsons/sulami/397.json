@@ -75,7 +75,7 @@
         },
         {
           "name": "رجل",
-          "person_id": 1593,
+          "person_id": 2899,
           "canonical_name": "رجل",
           "has_id": NaN,
           "subj_added": false
@@ -443,7 +443,7 @@
       "name": "رجل",
       "relationship_type": "questioner",
       "full_text": "قَالَ رجل لي سَأَلت أَبَا حَمْزَة",
-      "person_id": 1593,
+      "person_id": 2899,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -475,7 +475,7 @@
       "name": "رَاهِب",
       "relationship_type": "interlocutor",
       "full_text": "فوقفت على رَاهِب فَقلت لَهُ عنْدك من خبر من قد مضى قَالَ نعم",
-      "person_id": 1587,
+      "person_id": 2872,
       "canonical_name": "راهب",
       "has_id": NaN
     }

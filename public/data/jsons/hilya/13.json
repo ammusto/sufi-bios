@@ -21,7 +21,7 @@
         },
         {
           "name": "الحسين بن أحمد",
-          "person_id": 126,
+          "person_id": 2764,
           "canonical_name": "الحسين بن أحمد",
           "has_id": NaN,
           "subj_added": false
@@ -77,7 +77,7 @@
       "name": "الحسين بن أحمد",
       "relationship_type": "narrator",
       "full_text": "سمعت الحسين بن أحمد يقول",
-      "person_id": 126,
+      "person_id": 2764,
       "canonical_name": "الحسين بن أحمد",
       "has_id": NaN
     },
@@ -93,7 +93,7 @@
       "name": "رجل",
       "relationship_type": "questioner",
       "full_text": "سأل رجل إبراهيم القصار الرقي فقال",
-      "person_id": 1593,
+      "person_id": 2878,
       "canonical_name": "رجل",
       "has_id": NaN
     }

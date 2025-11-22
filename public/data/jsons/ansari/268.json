@@ -154,7 +154,7 @@
       "chain": [
         {
           "name": "پدر",
-          "person_id": 420,
+          "person_id": 2775,
           "canonical_name": "أببي",
           "has_id": NaN,
           "subj_added": false
@@ -303,7 +303,7 @@
       "name": "پدر",
       "relationship_type": "narrator",
       "full_text": "شیخ الاسلام گفت: کی پدر گفت",
-      "person_id": 420,
+      "person_id": 2775,
       "canonical_name": "أببي",
       "has_id": NaN
     },
@@ -327,7 +327,7 @@
       "name": "کسی",
       "relationship_type": "questioner",
       "full_text": "کسی از شبلی پرسید؟",
-      "person_id": 1593,
+      "person_id": 2889,
       "canonical_name": "رجل",
       "has_id": NaN
     },

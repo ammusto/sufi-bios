@@ -52,7 +52,7 @@
       "chain": [
         {
           "name": "پدر من",
-          "person_id": 420,
+          "person_id": 2776,
           "canonical_name": "أببي",
           "has_id": NaN,
           "subj_added": false
@@ -80,7 +80,7 @@
       "chain": [
         {
           "name": "پدر من",
-          "person_id": 420,
+          "person_id": 2776,
           "canonical_name": "أببي",
           "has_id": NaN,
           "subj_added": false
@@ -108,7 +108,7 @@
       "chain": [
         {
           "name": "پدر من",
-          "person_id": 420,
+          "person_id": 2776,
           "canonical_name": "أببي",
           "has_id": NaN,
           "subj_added": false
@@ -649,7 +649,7 @@
       "name": "پدر من",
       "relationship_type": "direct_narrator",
       "full_text": "پدر من گفت، کی بوالمظفر ترمذی گفت",
-      "person_id": 420,
+      "person_id": 2776,
       "canonical_name": "أببي",
       "has_id": NaN
     },
@@ -755,7 +755,7 @@
       "relationship_type": "questioner",
       "context": "پرسید شبلی را",
       "full_text": "مردی پرسید شبلی را",
-      "person_id": 1593,
+      "person_id": 2894,
       "canonical_name": "رجل",
       "has_id": NaN
     },

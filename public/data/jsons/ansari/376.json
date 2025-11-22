@@ -61,20 +61,6 @@
           "canonical_name": "أبو بكر الشبلي",
           "has_id": 376,
           "subj_added": true
-        },
-        {
-          "name": "",
-          "person_id": 699,
-          "canonical_name": "أبو بكر الشبلي",
-          "has_id": 376,
-          "subj_added": false
-        },
-        {
-          "name": "",
-          "person_id": 699,
-          "canonical_name": "أبو بكر الشبلي",
-          "has_id": 376,
-          "subj_added": false
         }
       ],
       "type": "single_informant",
@@ -138,13 +124,6 @@
           "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
           "has_id": 228,
           "subj_added": false
-        },
-        {
-          "name": "",
-          "person_id": 699,
-          "canonical_name": "أبو بكر الشبلي",
-          "has_id": 376,
-          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -249,7 +228,7 @@
       "chain": [
         {
           "name": "کسی",
-          "person_id": 1593,
+          "person_id": 2895,
           "canonical_name": "رجل",
           "has_id": NaN,
           "subj_added": false
@@ -260,13 +239,6 @@
           "canonical_name": "أبو بكر الشبلي",
           "has_id": 376,
           "subj_added": true
-        },
-        {
-          "name": "",
-          "person_id": 699,
-          "canonical_name": "أبو بكر الشبلي",
-          "has_id": 376,
-          "subj_added": false
         }
       ],
       "type": "single_informant",
@@ -368,7 +340,7 @@
       "relationship_type": "questioner",
       "context": "مرا دعا کن",
       "full_text": "کسی فرا شبلی گفت: کی مرا دعا کن، این بیت برخواند.",
-      "person_id": 1593,
+      "person_id": 2895,
       "canonical_name": "رجل",
       "has_id": NaN
     }

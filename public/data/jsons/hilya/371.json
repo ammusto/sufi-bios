@@ -294,7 +294,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "تخرج عليه",
         "full_text": "صحب أبا حمزة وتخرج عليه.",
-        "person_id": 840,
+        "person_id": 2793,
         "canonical_name": "أبو حمزة",
         "has_id": NaN
       },
@@ -333,7 +333,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "صحب أبا حمزة",
-        "person_id": 840,
+        "person_id": 2793,
         "canonical_name": "أبو حمزة",
         "has_id": NaN
       },
@@ -351,7 +351,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "يكرمونه ويقدمونه على غيره",
         "full_text": "وكان أبو حمزة وابن وهب وجماعة المشايخ يكرمونه ويقدمونه على غيره",
-        "person_id": 840,
+        "person_id": 2793,
         "canonical_name": "أبو حمزة",
         "has_id": NaN
       },

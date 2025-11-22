@@ -57,7 +57,7 @@
       "chain": [
         {
           "name": "بعض أَصْحَابنَا",
-          "person_id": 1400,
+          "person_id": 2843,
           "canonical_name": "بعض أصحابنا",
           "has_id": NaN,
           "subj_added": false
@@ -372,7 +372,7 @@
       "name": "بعض أَصْحَابنَا",
       "relationship_type": "narrator",
       "full_text": "وَأَخْبرنِي بعض أَصْحَابنَا",
-      "person_id": 1400,
+      "person_id": 2843,
       "canonical_name": "بعض أصحابنا",
       "has_id": NaN
     },
@@ -397,7 +397,7 @@
       "name": "رجل",
       "relationship_type": "interlocutor",
       "full_text": "فَأَخذه رجل على بَاب الْكُوفَة",
-      "person_id": 1593,
+      "person_id": 2919,
       "canonical_name": "رجل",
       "has_id": NaN
     }

@@ -60,7 +60,7 @@
         },
         {
           "name": "أبي صَالح",
-          "person_id": 903,
+          "person_id": 2803,
           "canonical_name": "أبو صالح",
           "has_id": NaN,
           "subj_added": false
@@ -704,7 +704,7 @@
       "relationship_type": "questioner",
       "context": "أوصني",
       "full_text": "قَالَ وَقَالَ لَهُ رجل أوصني فَقَالَ",
-      "person_id": 1593,
+      "person_id": 2886,
       "canonical_name": "رجل",
       "has_id": NaN
     }

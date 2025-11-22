@@ -173,16 +173,16 @@
       "chain": [
         {
           "name": "الجنيد",
-          "person_id": 595,
-          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
-          "has_id": 228,
+          "person_id": 1464,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
           "subj_added": false
         },
         {
           "name": "",
-          "person_id": 1464,
-          "canonical_name": "جعفر بن محمد الخلدي",
-          "has_id": 495,
+          "person_id": 595,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
           "subj_added": true
         }
       ],
@@ -267,7 +267,7 @@
       "name": "بعض أصحابه",
       "relationship_type": "interlocutor",
       "full_text": "وقال جعفر لبعض أصحابه",
-      "person_id": 1401,
+      "person_id": 2852,
       "canonical_name": "بعض أصحابه",
       "has_id": NaN
     }

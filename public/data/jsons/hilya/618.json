@@ -12,7 +12,7 @@
       "chain": [
         {
           "name": "الشيخ",
-          "person_id": 191,
+          "person_id": 2768,
           "canonical_name": "الشيخ",
           "has_id": NaN,
           "subj_added": false
@@ -271,7 +271,7 @@
         },
         {
           "name": "أبي صالح",
-          "person_id": 903,
+          "person_id": 2803,
           "canonical_name": "أبو صالح",
           "has_id": NaN,
           "subj_added": false
@@ -334,7 +334,7 @@
         },
         {
           "name": "أبي سعيد",
-          "person_id": 874,
+          "person_id": 2801,
           "canonical_name": "أبو سعيد",
           "has_id": NaN,
           "subj_added": false
@@ -439,14 +439,14 @@
         },
         {
           "name": "أبيه",
-          "person_id": 1212,
+          "person_id": 2823,
           "canonical_name": "أبوه",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "جده",
-          "person_id": 1444,
+          "person_id": 2858,
           "canonical_name": "جده",
           "has_id": NaN,
           "subj_added": false

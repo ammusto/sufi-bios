@@ -111,7 +111,7 @@
         },
         {
           "name": "أبي سعيد",
-          "person_id": 874,
+          "person_id": 2799,
           "canonical_name": "أبو سعيد",
           "has_id": NaN,
           "subj_added": false
@@ -1033,7 +1033,7 @@
       "name": "رجل",
       "relationship_type": "questioner",
       "full_text": "وَسمعت أَبَا سعيد الرَّازِيّ يَقُول قَالَ رجل للشبلي ادْع الله لي",
-      "person_id": 1593,
+      "person_id": 2895,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -1041,7 +1041,7 @@
       "name": "سائل",
       "relationship_type": "questioner",
       "full_text": "سَمِعت أَبَا الْقَاسِم عبد الله بن مُحَمَّد الدِّمَشْقِي يَقُول كنت وَاقِفًا على حَلقَة الشبلي فِي جَامع الْمَدِينَة فَوقف سَائل على حلقته وَجعل يَقُول يَا الله يَا جواد",
-      "person_id": 1647,
+      "person_id": 2937,
       "canonical_name": "سائل",
       "has_id": NaN
     }

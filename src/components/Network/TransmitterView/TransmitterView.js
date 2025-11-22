@@ -2,7 +2,6 @@ import React, { useMemo, useState } from 'react';
 import ChainFlowGraph from './ChainFlowGraph';
 import StatsPanel from '../shared/StatsPanel';
 import NetworkControls from '../shared/NetworkControls';
-import { Download } from 'lucide-react';
 
 const TransmitterView = ({ personId, data, onViewChange }) => {
   const [selectedNode, setSelectedNode] = useState(null);
@@ -25,7 +24,8 @@ const TransmitterView = ({ personId, data, onViewChange }) => {
       personId: centerPersonId,
       type: 'center',
       name: profile.name,
-      hasId: profile.has_id
+      hasId: profile.has_id,
+      isBioSubject: false
     });
     
     isnad_details.forEach(detail => {
@@ -41,7 +41,8 @@ const TransmitterView = ({ personId, data, onViewChange }) => {
             name: full_isnad_names[idx] || nodeProfile?.name || `Person ${pid}`,
             hasId: nodeProfile?.has_id,
             isUpstream: idx < position,
-            isDownstream: idx > position
+            isDownstream: idx > position,
+            isBioSubject: false
           });
         }
       });
@@ -91,12 +92,12 @@ const TransmitterView = ({ personId, data, onViewChange }) => {
   const handleNodeClick = (node) => setSelectedNode(node);
   
   const handleNodeAction = (action, nodeData) => {
-    if (action === 'focus-transmitter') {
-      onViewChange('transmitter', String(nodeData.personId));
+    if (action === 'focus-transmitter' && nodeData.personId) {
+      window.open(`/network?view=transmitter&focus=${nodeData.personId}`, '_blank');
     } else if (action === 'view-biography' && nodeData.hasId) {
       window.open(`/bio/${nodeData.hasId}`, '_blank');
-    } else if (action === 'view-all-isnads') {
-      onViewChange('view-all-isnads', String(nodeData.personId));
+    } else if (action === 'view-all-isnads' && nodeData.personId) {
+      console.log('View all isnads for person:', nodeData.personId);
     }
   };
   

@@ -372,7 +372,7 @@
         },
         {
           "name": "محمد",
-          "person_id": 2280,
+          "person_id": 2958,
           "canonical_name": "محمد",
           "has_id": NaN,
           "subj_added": false
@@ -435,7 +435,7 @@
       "chain": [
         {
           "name": "محمد",
-          "person_id": 2280,
+          "person_id": 2958,
           "canonical_name": "محمد",
           "has_id": NaN,
           "subj_added": false
@@ -470,7 +470,7 @@
       "chain": [
         {
           "name": "محمد",
-          "person_id": 2280,
+          "person_id": 2958,
           "canonical_name": "محمد",
           "has_id": NaN,
           "subj_added": false
@@ -505,7 +505,7 @@
       "chain": [
         {
           "name": "محمد",
-          "person_id": 2280,
+          "person_id": 2958,
           "canonical_name": "محمد",
           "has_id": NaN,
           "subj_added": false
@@ -540,7 +540,7 @@
       "chain": [
         {
           "name": "محمد",
-          "person_id": 2280,
+          "person_id": 2958,
           "canonical_name": "محمد",
           "has_id": NaN,
           "subj_added": false
@@ -708,7 +708,7 @@
         },
         {
           "name": "الحسين",
-          "person_id": 124,
+          "person_id": 2761,
           "canonical_name": "الحسين",
           "has_id": NaN,
           "subj_added": false
@@ -743,7 +743,7 @@
         },
         {
           "name": "الحسين",
-          "person_id": 124,
+          "person_id": 2761,
           "canonical_name": "الحسين",
           "has_id": NaN,
           "subj_added": false
@@ -1100,7 +1100,7 @@
         },
         {
           "name": "الحسين بن عبد الله",
-          "person_id": 135,
+          "person_id": 2765,
           "canonical_name": "الحسين بن عبد الله",
           "has_id": NaN,
           "subj_added": false
@@ -1135,8 +1135,8 @@
         },
         {
           "name": "الحسن",
-          "person_id": 104,
-          "canonical_name": "الحسن بن سفيان",
+          "person_id": 2756,
+          "canonical_name": "الحسن",
           "has_id": NaN,
           "subj_added": false
         },
@@ -1646,7 +1646,7 @@
       "chain": [
         {
           "name": "محمد",
-          "person_id": 2280,
+          "person_id": 2958,
           "canonical_name": "محمد",
           "has_id": NaN,
           "subj_added": false
@@ -2507,7 +2507,7 @@
       "chain": [
         {
           "name": "محمد بن أحمد",
-          "person_id": 2356,
+          "person_id": 2967,
           "canonical_name": "محمد بن أحمد",
           "has_id": NaN,
           "subj_added": false
@@ -2654,7 +2654,7 @@
       "chain": [
         {
           "name": "الحسن بن علي",
-          "person_id": 112,
+          "person_id": 2759,
           "canonical_name": "الحسن بن علي",
           "has_id": NaN,
           "subj_added": false
@@ -3270,7 +3270,7 @@
         },
         {
           "name": "محمد",
-          "person_id": 2280,
+          "person_id": 2958,
           "canonical_name": "محمد",
           "has_id": NaN,
           "subj_added": false
@@ -3305,14 +3305,14 @@
       "chain": [
         {
           "name": "محمد",
-          "person_id": 2280,
+          "person_id": 2958,
           "canonical_name": "محمد",
           "has_id": NaN,
           "subj_added": false
         },
         {
           "name": "محمد",
-          "person_id": 2280,
+          "person_id": 2958,
           "canonical_name": "محمد",
           "has_id": NaN,
           "subj_added": false
@@ -3494,7 +3494,7 @@
         },
         {
           "name": "محمد بن جعفر",
-          "person_id": 2394,
+          "person_id": 2972,
           "canonical_name": "محمد بن جعفر",
           "has_id": NaN,
           "subj_added": false
@@ -3515,8 +3515,8 @@
         },
         {
           "name": "الحسن",
-          "person_id": 104,
-          "canonical_name": "الحسن بن سفيان",
+          "person_id": 2755,
+          "canonical_name": "الحسن",
           "has_id": NaN,
           "subj_added": false
         }
@@ -4005,7 +4005,7 @@
       "relationship_type": "interlocutor",
       "context": "monk",
       "full_text": "قال قلت لراهب: أى شيء قوى ما تجدونه في كتبكم؟",
-      "person_id": 1587,
+      "person_id": 2874,
       "canonical_name": "راهب",
       "has_id": NaN
     },

@@ -119,7 +119,7 @@
       "chain": [
         {
           "name": "الشيخ",
-          "person_id": 191,
+          "person_id": 2770,
           "canonical_name": "الشيخ",
           "has_id": NaN,
           "subj_added": false
@@ -175,7 +175,7 @@
         },
         {
           "name": "أبيه",
-          "person_id": 1212,
+          "person_id": 2826,
           "canonical_name": "أبوه",
           "has_id": NaN,
           "subj_added": false
@@ -244,7 +244,7 @@
       "name": "الشيخ",
       "relationship_type": "narrator",
       "full_text": "قال الشيخ رضي الله تعالى عنه",
-      "person_id": 191,
+      "person_id": 2770,
       "canonical_name": "الشيخ",
       "has_id": NaN
     }

@@ -67,6 +67,13 @@
           "has_id": 237,
           "subj_added": true,
           "name": ""
+        },
+        {
+          "person_id": 194,
+          "canonical_name": "العباس المجنون",
+          "has_id": 237,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "single_informant",
@@ -75,6 +82,13 @@
     },
     {
       "chain": [
+        {
+          "person_id": 194,
+          "canonical_name": "العباس المجنون",
+          "has_id": 237,
+          "subj_added": true,
+          "name": ""
+        },
         {
           "person_id": 194,
           "canonical_name": "العباس المجنون",

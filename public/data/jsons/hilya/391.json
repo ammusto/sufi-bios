@@ -29,7 +29,7 @@
       "chain": [
         {
           "name": "والدي",
-          "person_id": 2675,
+          "person_id": 2984,
           "canonical_name": "والدي",
           "has_id": NaN,
           "subj_added": false
@@ -148,7 +148,7 @@
       "name": "والدي",
       "relationship_type": "narrator",
       "full_text": "سمعت والدي يقول",
-      "person_id": 2675,
+      "person_id": 2984,
       "canonical_name": "والدي",
       "has_id": NaN
     },

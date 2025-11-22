@@ -53,7 +53,7 @@
       "chain": [
         {
           "name": "شیخ",
-          "person_id": 1748,
+          "person_id": 2944,
           "canonical_name": "شیخ",
           "has_id": NaN,
           "subj_added": false
@@ -106,7 +106,7 @@
       "name": "محمد",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "محمد با معتز بوده از هری مرد صاحب ادب بوده و علم",
-      "person_id": 2280,
+      "person_id": 2960,
       "canonical_name": "محمد",
       "has_id": NaN
     },

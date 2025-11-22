@@ -197,7 +197,7 @@
       "chain": [
         {
           "name": "محمدا",
-          "person_id": 2280,
+          "person_id": 2961,
           "canonical_name": "محمد",
           "has_id": NaN,
           "subj_added": false
@@ -248,7 +248,7 @@
           "name": "أبا الحسن محمد بن أحمد",
           "has_id": NaN,
           "person_id": 406,
-          "canonical_name": "أبا الحسن محمد بن أحمد",
+          "canonical_name": "أبو الحسن محمد بن أحمد",
           "subj_added": false
         },
         {
@@ -430,7 +430,7 @@
       "name": "رجل بالكام",
       "relationship_type": "interlocutor",
       "full_text": "سألت رجلا بالكام",
-      "person_id": 1593,
+      "person_id": 2923,
       "canonical_name": "رجل",
       "has_id": NaN
     }

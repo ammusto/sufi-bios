@@ -332,9 +332,9 @@
         },
         {
           "name": "مُحَمَّد بن إِسْحَاق",
-          "person_id": 2340,
+          "person_id": 2964,
           "canonical_name": "محمد بن إسحاق",
-          "has_id": 774,
+          "has_id": NaN,
           "subj_added": false
         },
         {
@@ -399,7 +399,7 @@
         "relationship_type": "student_of",
         "relationship_phrase": "عَلمنِي",
         "full_text": "وَعَلمنِي اسْم الله الْأَعْظَم",
-        "person_id": 1573,
+        "person_id": 2865,
         "canonical_name": "داود",
         "has_id": NaN
       }

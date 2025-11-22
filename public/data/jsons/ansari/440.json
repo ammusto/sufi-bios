@@ -70,13 +70,6 @@
           "canonical_name": "أحمد بن خضرويه البلخي",
           "has_id": 440,
           "subj_added": true
-        },
-        {
-          "name": "",
-          "person_id": 1258,
-          "canonical_name": "أحمد بن خضرويه البلخي",
-          "has_id": 440,
-          "subj_added": false
         }
       ],
       "type": "single_informant",
@@ -153,13 +146,6 @@
           "canonical_name": "أحمد بن خضرويه البلخي",
           "has_id": 440,
           "subj_added": true
-        },
-        {
-          "name": "",
-          "person_id": 1258,
-          "canonical_name": "أحمد بن خضرويه البلخي",
-          "has_id": 440,
-          "subj_added": false
         }
       ],
       "type": "single_informant",
@@ -274,7 +260,7 @@
       "name": "کسی",
       "relationship_type": "questioner",
       "full_text": "کسی احمد را گفت: مرا وصیتی کن!",
-      "person_id": 1593,
+      "person_id": 2908,
       "canonical_name": "رجل",
       "has_id": NaN
     }

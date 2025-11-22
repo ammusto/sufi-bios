@@ -167,7 +167,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "dreamer",
       "full_text": "فرآه بعض أصحابه في المنام فقال له: ما فعل الله بك؟",
-      "person_id": 1401,
+      "person_id": 2853,
       "canonical_name": "بعض أصحابه",
       "has_id": NaN
     },
@@ -175,7 +175,7 @@
       "name": "رجل",
       "relationship_type": "interlocutor",
       "full_text": "إذا رجل نظر إلى وقال: يا خير يا آبق هربت مني؟",
-      "person_id": 1593,
+      "person_id": 2919,
       "canonical_name": "رجل",
       "has_id": NaN
     }

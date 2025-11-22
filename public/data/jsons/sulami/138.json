@@ -244,7 +244,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "companion",
       "full_text": "قَالَ أَبُو عبد الله الدينَوَرِي لبَعض أَصْحَابه",
-      "person_id": 1401,
+      "person_id": 2845,
       "canonical_name": "بعض أصحابه",
       "has_id": NaN
     },
@@ -253,7 +253,7 @@
       "relationship_type": "questioner",
       "context": "questioner",
       "full_text": "دخل رجل على أبي عبد الله الدينَوَرِي فَقَالَ لَهُ كَيفَ أمسيت",
-      "person_id": 1593,
+      "person_id": 2881,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -262,7 +262,7 @@
       "relationship_type": "interlocutor",
       "context": "interlocutor",
       "full_text": "رَأَيْت فِي بعض أسفاري رجلا يقفز بِإِحْدَى\nرجلَيْهِ فَقلت لَهُ مَا لَك وَالسّفر مَعَ فقدان الْآلَة فَقَالَ لي أمسلم أَنْت قلت نعم قَالَ اقْرَأ قَوْله تَعَالَى ﴿وحملناهم فِي الْبر وَالْبَحْر﴾ الأسراء ٧٠",
-      "person_id": 1593,
+      "person_id": 2881,
       "canonical_name": "رجل",
       "has_id": NaN
     }

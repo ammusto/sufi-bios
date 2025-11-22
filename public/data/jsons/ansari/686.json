@@ -21,7 +21,7 @@
         },
         {
           "name": "داود",
-          "person_id": 1573,
+          "person_id": 2867,
           "canonical_name": "داود",
           "has_id": NaN,
           "subj_added": false
@@ -144,7 +144,7 @@
       "name": "داود",
       "relationship_type": "narrator",
       "full_text": "داود گفت ﷷ:",
-      "person_id": 1573,
+      "person_id": 2867,
       "canonical_name": "داود",
       "has_id": NaN
     },
@@ -200,7 +200,7 @@
       "name": "ابراهیم",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "کی ابراهیم را به آتش انداختند",
-      "person_id": 297,
+      "person_id": 2785,
       "canonical_name": "إبراهيم",
       "has_id": NaN
     },

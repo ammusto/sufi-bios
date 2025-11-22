@@ -62,7 +62,7 @@
       "chain": [
         {
           "name": "جعفر",
-          "person_id": 1453,
+          "person_id": 2860,
           "canonical_name": "جعفر",
           "has_id": NaN,
           "subj_added": false
@@ -97,7 +97,7 @@
         },
         {
           "name": "محمد بن أحمد",
-          "person_id": 2356,
+          "person_id": 2968,
           "canonical_name": "محمد بن أحمد",
           "has_id": NaN,
           "subj_added": false
@@ -146,7 +146,7 @@
         },
         {
           "name": "محمد بن أحمد",
-          "person_id": 2356,
+          "person_id": 2968,
           "canonical_name": "محمد بن أحمد",
           "has_id": NaN,
           "subj_added": false
@@ -385,7 +385,7 @@
       "name": "جعفر",
       "relationship_type": "narrator",
       "full_text": "وأنشدت عن جعفر عن سمنون",
-      "person_id": 1453,
+      "person_id": 2860,
       "canonical_name": "جعفر",
       "has_id": NaN
     },

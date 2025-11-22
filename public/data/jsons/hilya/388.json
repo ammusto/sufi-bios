@@ -98,13 +98,6 @@
           "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
           "has_id": 388,
           "subj_added": true
-        },
-        {
-          "name": "",
-          "person_id": 796,
-          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
-          "has_id": 388,
-          "subj_added": false
         }
       ],
       "type": "explicit",
@@ -280,13 +273,6 @@
           "canonical_name": "أبو عبد الله بن الجلاء",
           "has_id": 410,
           "subj_added": false
-        },
-        {
-          "name": "",
-          "person_id": 796,
-          "canonical_name": "أبو تراب عسكر بن الحصين النخشبي",
-          "has_id": 388,
-          "subj_added": true
         }
       ],
       "type": "explicit",
@@ -710,7 +696,7 @@
         },
         {
           "name": "محمد بن عبد الله",
-          "person_id": 2439,
+          "person_id": 2974,
           "canonical_name": "محمد بن عبد الله",
           "has_id": NaN,
           "subj_added": false
@@ -1144,7 +1130,7 @@
       "chain": [
         {
           "name": "والدي",
-          "person_id": 2675,
+          "person_id": 2983,
           "canonical_name": "والدي",
           "has_id": NaN,
           "subj_added": false
@@ -1571,7 +1557,7 @@
         },
         {
           "name": "أبيه",
-          "person_id": 1212,
+          "person_id": 2816,
           "canonical_name": "أبوه",
           "has_id": NaN,
           "subj_added": false
@@ -1906,7 +1892,7 @@
       "name": "رجل",
       "relationship_type": "questioner",
       "full_text": "وقال له رجل: ألك حاجة؟",
-      "person_id": 1593,
+      "person_id": 2898,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -1987,7 +1973,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "questioner",
       "full_text": "قال رجل لأبي تراب يوما: ألك حاجة؟",
-      "person_id": 1593,
+      "person_id": 2898,
       "canonical_name": "رجل",
       "has_id": NaN
     }

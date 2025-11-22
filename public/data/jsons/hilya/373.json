@@ -35,16 +35,16 @@
       "chain": [
         {
           "name": "محمد بن إبراهيم",
-          "person_id": 2334,
-          "canonical_name": "محمد بن إبراهيم",
-          "has_id": NaN,
+          "person_id": 1464,
+          "canonical_name": "جعفر بن محمد الخلدي",
+          "has_id": 495,
           "subj_added": false
         },
         {
           "name": "جعفر بن محمد بن نصير",
-          "person_id": 1464,
-          "canonical_name": "جعفر بن محمد الخلدي",
-          "has_id": 495,
+          "person_id": 2334,
+          "canonical_name": "محمد بن إبراهيم",
+          "has_id": NaN,
           "subj_added": false
         },
         {
@@ -63,7 +63,7 @@
         },
         {
           "name": "بعض أصحابه",
-          "person_id": 1401,
+          "person_id": 2846,
           "canonical_name": "بعض أصحابه",
           "has_id": NaN,
           "subj_added": false
@@ -98,7 +98,7 @@
         },
         {
           "name": "أيوب",
-          "person_id": 1375,
+          "person_id": 2837,
           "canonical_name": "أيوب",
           "has_id": NaN,
           "subj_added": false
@@ -127,7 +127,7 @@
       "name": "بعض أصحابه",
       "relationship_type": "narrator",
       "full_text": "أخبرني محمد بن وهب عن بعض أصحابه",
-      "person_id": 1401,
+      "person_id": 2846,
       "canonical_name": "بعض أصحابه",
       "has_id": NaN
     },

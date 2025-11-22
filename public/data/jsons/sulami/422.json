@@ -194,7 +194,7 @@
         },
         {
           "name": "دَاوُد",
-          "person_id": 1573,
+          "person_id": 2866,
           "canonical_name": "داود",
           "has_id": NaN,
           "subj_added": false
@@ -208,7 +208,7 @@
         },
         {
           "name": "الشّعبِيّ",
-          "person_id": 189,
+          "person_id": 2766,
           "canonical_name": "الشعبي",
           "has_id": NaN,
           "subj_added": false
@@ -812,7 +812,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "صحب",
         "full_text": "وَأَبا حَمْزَة",
-        "person_id": 840,
+        "person_id": 2793,
         "canonical_name": "أبو حمزة",
         "has_id": NaN
       },

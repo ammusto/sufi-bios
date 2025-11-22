@@ -36,7 +36,7 @@
         },
         {
           "name": "رجل",
-          "person_id": 1593,
+          "person_id": 2931,
           "canonical_name": "رجل",
           "has_id": NaN,
           "subj_added": false
@@ -64,7 +64,7 @@
       "name": "رجل",
       "relationship_type": "questioner",
       "full_text": "عن رجل رأى مسعود بن الحارث أخا خالد في النوم فقال له: ما فعل بك ربك؟",
-      "person_id": 1593,
+      "person_id": 2931,
       "canonical_name": "رجل",
       "has_id": NaN
     }

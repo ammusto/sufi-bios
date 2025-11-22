@@ -57,7 +57,7 @@
         {
           "name": "أبا الحسين",
           "has_id": NaN,
-          "person_id": 497,
+          "person_id": 2787,
           "canonical_name": "أبو الحسين",
           "subj_added": false
         },
@@ -321,7 +321,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "questioner",
       "full_text": "ودخل على أبي بكر الوراق رجل فقال: إني أخاف من فلان.",
-      "person_id": 1593,
+      "person_id": 2897,
       "canonical_name": "رجل",
       "has_id": NaN
     }

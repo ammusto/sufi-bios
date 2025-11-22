@@ -9,6 +9,8 @@ import * as d3 from 'd3';
  * - x× label shows unique isnad count
  * - Improved barycenter ordering
  * - Orientation layer: rotate whole graph; rotate labels back upright
+ * - Dynamic percentile-based label visibility (top 20% by default)
+ * - Hover labels for unlabeled nodes
  */
 const ORIENT = { down: 'down', up: 'up', left: 'left', right: 'right' };
 
@@ -18,7 +20,7 @@ const ChainFlowGraph = ({
   onNodeClick,
   selectedNode,
   showPeerConnections = true,
-  orientation = ORIENT.left, // default 90° CCW
+  orientation = ORIENT.left,
 }) => {
   const svgRef = useRef(null);
   const [dimensions, setDimensions] = useState({ width: 1200, height: 800 });
@@ -32,11 +34,9 @@ const ChainFlowGraph = ({
 
     svg.selectAll('*').remove();
 
-    // Swap dimensions for rotated layouts
     const layoutWidth = (orientation === ORIENT.left || orientation === ORIENT.right) ? height : width;
     const layoutHeight = (orientation === ORIENT.left || orientation === ORIENT.right) ? width : height;
 
-    // defs outside transforms
     const defs = svg.append('defs');
     defs
       .append('marker')
@@ -51,17 +51,15 @@ const ChainFlowGraph = ({
       .attr('d', 'M0,-5L10,0L0,5')
       .attr('fill', '#999');
 
-    // Zoom layer (stores pan/zoom)
     const z = svg.append('g').attr('class', 'zoom-layer').attr('transform', transform.toString());
 
-    // Orientation layer (rotates the content)
     const orientTransform = (() => {
       switch (orientation) {
-        case ORIENT.left: // 90° CCW
+        case ORIENT.left:
           return `translate(0, ${height}) rotate(-90)`;
-        case ORIENT.right: // 90° CW
+        case ORIENT.right:
           return `translate(${width}, 0) rotate(90)`;
-        case ORIENT.up: // 180°
+        case ORIENT.up:
           return `translate(${width}, ${height}) rotate(180)`;
         case ORIENT.down:
         default:
@@ -84,7 +82,6 @@ const ChainFlowGraph = ({
 
     const o = z.append('g').attr('class', 'orient-layer').attr('transform', orientTransform);
 
-    // Background to capture whitespace clicks (inside orientation)
     o.append('rect')
       .attr('x', 0)
       .attr('y', 0)
@@ -94,11 +91,9 @@ const ChainFlowGraph = ({
       .style('pointer-events', 'all')
       .on('click', () => onNodeClick?.(null));
 
-    // Layout
     const layout = calculateLayoutWithFirstLayerColumns(data, layoutWidth, layoutHeight);
     const centerId = data.centerPersonId;
 
-    // UNIQUE isnad count per person
     const personToUniqueIsnads = new Map();
     if (isnadDetails) {
       isnadDetails.forEach((detail) => {
@@ -108,7 +103,6 @@ const ChainFlowGraph = ({
       });
     }
 
-    // Weighted degrees for sizing
     const inW = new Map(data.nodes.map((n) => [n.id, 0]));
     const outW = new Map(data.nodes.map((n) => [n.id, 0]));
     data.edges.forEach((e) => {
@@ -127,7 +121,6 @@ const ChainFlowGraph = ({
       })
     );
 
-    // Isnads membership for highlighting
     const nodeToIsnads = new Map(data.nodes.map((n) => [n.id, new Set()]));
     const isnadToNodes = new Map();
     const isnadToEdges = new Map();
@@ -143,7 +136,6 @@ const ChainFlowGraph = ({
       });
     }
 
-    // Separate hierarchical vs peer edges
     const hierarchicalEdges = [];
     const peerEdges = [];
     data.edges.forEach((edge) => {
@@ -158,7 +150,6 @@ const ChainFlowGraph = ({
       else peerEdges.push(edge);
     });
 
-    // EDGES
     const edgeLayer = o.append('g').attr('class', 'edges');
 
     const hierarchicalEdgeSel = edgeLayer
@@ -208,7 +199,6 @@ const ChainFlowGraph = ({
       .attr('stroke-dasharray', '4,2')
       .attr('marker-end', 'url(#arrow)');
 
-    // NODES
     const nodeLayer = o.append('g').attr('class', 'nodes');
     const nodeSel = nodeLayer
       .selectAll('g.node')
@@ -239,8 +229,8 @@ const ChainFlowGraph = ({
       .attr('stroke', (d) => (selectedNode?.id === d.id ? '#333' : '#fff'))
       .attr('stroke-width', (d) => (selectedNode?.id === d.id ? 3 : 2));
 
-    // LABELS (upright after rotation)
-    const pct = 0.9;
+    // Dynamic percentile-based label visibility (top 20%)
+    const pct = 0.8;
     const inP = d3.quantile([...inW.values()].sort(d3.ascending), pct) ?? 0;
     const outP = d3.quantile([...outW.values()].sort(d3.ascending), pct) ?? 0;
     const showLabel = (d) =>
@@ -250,7 +240,7 @@ const ChainFlowGraph = ({
       (outW.get(d.id) ?? 0) >= outP;
 
     const labelLayer = o.append('g').attr('class', 'labels');
-    labelLayer
+    const labelSel = labelLayer
       .selectAll('text.label')
       .data(data.nodes.filter(showLabel))
       .enter()
@@ -275,7 +265,34 @@ const ChainFlowGraph = ({
         return uniqueIsnadCount > 1 ? `${base} ×${uniqueIsnadCount}` : base;
       });
 
-    // TOOLTIP
+    // Hover labels for nodes without permanent labels
+    const hoverLabelLayer = o.append('g').attr('class', 'hover-labels');
+    const hoverLabelSel = hoverLabelLayer
+      .selectAll('text.hover-label')
+      .data(data.nodes)
+      .enter()
+      .append('text')
+      .attr('class', 'hover-label')
+      .attr('transform', (d) => {
+        const p = layout.nodePositions.get(d.id);
+        return `translate(${p.x}, ${p.y}) rotate(${uprightTextRotate})`;
+      })
+      .attr('x', 0)
+      .attr('y', -15)
+      .attr('text-anchor', 'middle')
+      .attr('font-size', '11px')
+      .attr('font-weight', 'bold')
+      .attr('fill', '#333')
+      .style('pointer-events', 'none')
+      .style('text-shadow', '0 0 3px white, 0 0 3px white, 0 0 5px white')
+      .style('opacity', 0)
+      .text((d) => {
+        const name = d.name || '';
+        const base = name.length > 25 ? name.slice(0, 25) + '…' : name;
+        const uniqueIsnadCount = personToUniqueIsnads.get(d.id)?.size || 0;
+        return uniqueIsnadCount > 1 ? `${base} ×${uniqueIsnadCount}` : base;
+      });
+
     const tooltip = d3
       .select('body')
       .append('div')
@@ -292,6 +309,14 @@ const ChainFlowGraph = ({
 
     nodeSel
       .on('mouseenter', (event, d) => {
+        // Show hover label if node doesn't have permanent label
+        if (!showLabel(d)) {
+          hoverLabelSel.filter(nd => nd.id === d.id)
+            .transition()
+            .duration(150)
+            .style('opacity', 1);
+        }
+
         const win = inW.get(d.id) ?? 0;
         const wout = outW.get(d.id) ?? 0;
         const layer = layout.layerOf.get(d.id);
@@ -313,11 +338,16 @@ const ChainFlowGraph = ({
           .style('left', event.pageX + 10 + 'px')
           .style('top', event.pageY - 28 + 'px');
       })
-      .on('mouseleave', () => {
+      .on('mouseleave', (event, d) => {
+        // Hide hover label
+        hoverLabelSel.filter(nd => nd.id === d.id)
+          .transition()
+          .duration(150)
+          .style('opacity', 0);
+
         tooltip.transition().duration(250).style('opacity', 0);
       });
 
-    // HIGHLIGHT
     const applyHighlight = () => {
       const activeId = selectedNode?.id || null;
       if (!activeId) {
@@ -344,7 +374,6 @@ const ChainFlowGraph = ({
     };
     applyHighlight();
 
-    // Zoom (applied to zoom layer only)
     const zoom = d3
       .zoom()
       .scaleExtent([0.1, 4])
@@ -358,6 +387,7 @@ const ChainFlowGraph = ({
       tooltip.remove();
     };
   }, [data, isnadDetails, dimensions, onNodeClick, selectedNode, showPeerConnections, transform, orientation]);
+
   useEffect(() => {
     const handleResize = () => {
       if (svgRef.current) {

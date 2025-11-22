@@ -98,7 +98,7 @@
         },
         {
           "name": "أَبِيه",
-          "person_id": 1212,
+          "person_id": 2831,
           "canonical_name": "أبوه",
           "has_id": NaN,
           "subj_added": false
@@ -147,7 +147,7 @@
       "chain": [
         {
           "name": "عبد الله",
-          "person_id": 1851,
+          "person_id": 2948,
           "canonical_name": "عبد الله",
           "has_id": NaN,
           "subj_added": false
@@ -902,7 +902,7 @@
       "name": "رجل",
       "relationship_type": "questioner",
       "full_text": "قَالَ وَقَالَ رجل ليوسف دلَّنِي على طَرِيق الْمعرفَة",
-      "person_id": 1593,
+      "person_id": 2934,
       "canonical_name": "رجل",
       "has_id": NaN
     }

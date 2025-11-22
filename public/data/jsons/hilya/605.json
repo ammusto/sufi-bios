@@ -316,7 +316,7 @@
         },
         {
           "name": "محمد بن أحمد",
-          "person_id": 2356,
+          "person_id": 2969,
           "canonical_name": "محمد بن أحمد",
           "has_id": NaN,
           "subj_added": false
@@ -654,7 +654,7 @@
           "name": "أبا الحسن الفارسي",
           "has_id": NaN,
           "person_id": 401,
-          "canonical_name": "أبا الحسن الفارسي",
+          "canonical_name": "أبو الحسن الفارسي",
           "subj_added": false
         },
         {
@@ -750,7 +750,7 @@
         },
         {
           "name": "أبي الحسن",
-          "person_id": 436,
+          "person_id": 2778,
           "canonical_name": "أبو الحسن",
           "has_id": NaN,
           "subj_added": false
@@ -871,7 +871,7 @@
           "name": "أبا الحسين الفارسي",
           "has_id": NaN,
           "person_id": 409,
-          "canonical_name": "أبا الحسين الفارسي",
+          "canonical_name": "أبو الحسين الفارسي",
           "subj_added": false
         },
         {
@@ -1513,7 +1513,7 @@
       "name": "رجل",
       "relationship_type": "questioner",
       "full_text": "وسأله رجل فقال: يا أبا محمد إلى من تأمرني أن أجلس؟",
-      "person_id": 1593,
+      "person_id": 2922,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -1521,7 +1521,7 @@
       "name": "بعض أصحابه",
       "relationship_type": "questioner",
       "full_text": "فقال له بعض أصحابه: لو قبلت ذلك المال وفرقته على الفقراء.",
-      "person_id": 1401,
+      "person_id": 2854,
       "canonical_name": "بعض أصحابه",
       "has_id": NaN
     },

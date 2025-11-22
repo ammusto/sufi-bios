@@ -26,7 +26,7 @@
       "chain": [
         {
           "name": "بوحمزه",
-          "person_id": 840,
+          "person_id": 2794,
           "canonical_name": "أبو حمزة",
           "has_id": NaN,
           "subj_added": false
@@ -73,7 +73,7 @@
         "relationship_type": "teacher_of",
         "relationship_phrase": "از استادان",
         "full_text": "از استادان جنید و بوحمزه٭ است",
-        "person_id": 840,
+        "person_id": 2794,
         "canonical_name": "أبو حمزة",
         "has_id": NaN
       }
@@ -93,7 +93,7 @@
         "relationship_type": "peer",
         "relationship_phrase": "از اقران",
         "full_text": "اما از اقران ایشانست",
-        "person_id": 840,
+        "person_id": 2794,
         "canonical_name": "أبو حمزة",
         "has_id": NaN
       }
@@ -112,7 +112,7 @@
       "name": "بوحمزه",
       "relationship_type": "direct_narrator",
       "full_text": "و بوحمزه گوید. استاذنا حسن المسوحی مات بعد الثلثمائه",
-      "person_id": 840,
+      "person_id": 2794,
       "canonical_name": "أبو حمزة",
       "has_id": NaN
     },

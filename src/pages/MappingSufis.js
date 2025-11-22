@@ -14,32 +14,69 @@ L.Icon.Default.mergeOptions({
     shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-shadow.png',
 });
 
-const createNumberedIcon = (count) => {
+const createNumberedIcon = (count, isRegion = false) => {
     const color = count === 1 ? '#2196F3' : count < 5 ? '#4CAF50' : count < 10 ? '#FF9800' : '#F44336';
-    return L.divIcon({
-        className: 'custom-marker',
-        html: `
-      <div style="position: relative; width: 25px; height: 41px;">
-        <svg width="25" height="41" viewBox="0 0 25 41" xmlns="http://www.w3.org/2000/svg">
-          <path d="M12.5 0C5.6 0 0 5.6 0 12.5c0 9.4 12.5 28.5 12.5 28.5S25 21.9 25 12.5C25 5.6 19.4 0 12.5 0z" 
-                fill="${color}" stroke="#fff" stroke-width="1.5"/>
-        </svg>
-        <div style="
-          position: absolute;
-          top: 6px;
-          left: 0;
-          right: 0;
-          text-align: center;
-          color: white;
-          font-size: 12px;
-          font-weight: bold;
-          pointer-events: none;
-        ">${count}</div>
-      </div>`,
-        iconSize: [25, 41],
-        iconAnchor: [12, 41],
-        popupAnchor: [1, -34],
-    });
+    
+    if (isRegion) {
+        // Hexagon for regions
+        const size = 35;
+        return L.divIcon({
+            className: 'custom-marker',
+            html: `
+          <div style="position: relative; width: ${size}px; height: ${size}px;">
+            <svg width="${size}" height="${size}" viewBox="0 0 ${size} ${size}" xmlns="http://www.w3.org/2000/svg">
+              <polygon points="${size/2},2 ${size-3},${size*0.25} ${size-3},${size*0.75} ${size/2},${size-2} 3,${size*0.75} 3,${size*0.25}" 
+                       fill="${color}" 
+                       stroke="#fff" 
+                       stroke-width="2"
+                       opacity="0.85"/>
+            </svg>
+            <div style="
+              position: absolute;
+              top: 0;
+              left: 0;
+              right: 0;
+              bottom: 0;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              color: white;
+              font-size: 13px;
+              font-weight: bold;
+              pointer-events: none;
+            ">${count}</div>
+          </div>`,
+            iconSize: [size, size],
+            iconAnchor: [size/2, size/2],
+            popupAnchor: [0, -size/2],
+        });
+    } else {
+        // Standard pin for specific places
+        return L.divIcon({
+            className: 'custom-marker',
+            html: `
+          <div style="position: relative; width: 25px; height: 41px;">
+            <svg width="25" height="41" viewBox="0 0 25 41" xmlns="http://www.w3.org/2000/svg">
+              <path d="M12.5 0C5.6 0 0 5.6 0 12.5c0 9.4 12.5 28.5 12.5 28.5S25 21.9 25 12.5C25 5.6 19.4 0 12.5 0z" 
+                    fill="${color}" stroke="#fff" stroke-width="1.5"/>
+            </svg>
+            <div style="
+              position: absolute;
+              top: 6px;
+              left: 0;
+              right: 0;
+              text-align: center;
+              color: white;
+              font-size: 12px;
+              font-weight: bold;
+              pointer-events: none;
+            ">${count}</div>
+          </div>`,
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+        });
+    }
 };
 
 const getSourceAbbrev = (source) => {
@@ -123,15 +160,29 @@ const MappingSufis = () => {
                 const locationMap = new Map();
                 let totalMentions = 0;
 
+                // Normalize function to handle variants like الشام vs شام
+                const normalizeLocationName = (name) => {
+                    if (!name) return '';
+                    return String(name).trim()
+                        .replace(/^ال/, '')  // Remove ال
+                        .replace(/^الـ/, '') // Remove الـ
+                        .toLowerCase();
+                };
+
+                // Group by bio_id + canonical_name first to count unique individuals
+                const bioLocationCombos = new Set();
+
                 geoJson.forEach(row => {
                     const canonicalName = row.canonical_name;
                     const coords = row.coords;
+                    const certain = String(row.certain || '').toLowerCase().trim();
+                    
                     if (!canonicalName || String(canonicalName).trim() === '' ||
                         String(canonicalName).toLowerCase() === 'none') {
                         return;
                     }
                     if (!coords || String(coords).trim() === '' ||
-                        String(coords).trim() === '?' || String(coords).trim() === 'nan') {
+                        String(coords).trim() === '?' || String(coords).trim().toLowerCase() === 'nan') {
                         return;
                     }
 
@@ -140,7 +191,12 @@ const MappingSufis = () => {
                     const bioName = biosMap[bioId];
                     if (!bioName) return;
 
-                    const key = canonicalName;
+                    // Track unique bio + location combinations using normalized name
+                    const normalizedName = normalizeLocationName(canonicalName);
+                    const comboKey = `${bioId}|${normalizedName}`;
+                    bioLocationCombos.add(comboKey);
+
+                    const key = normalizedName;
                     if (!locationMap.has(key)) {
                         locationMap.set(key, {
                             canonical_name: canonicalName,
@@ -148,18 +204,33 @@ const MappingSufis = () => {
                             coords: String(coords),
                             peopleData: new Map(),
                             allSources: new Set(),
+                            isRegion: certain === 'r',
                         });
+                    } else {
+                        // Keep the longer/more complete canonical_name
+                        const existing = locationMap.get(key);
+                        if (canonicalName.length > existing.canonical_name.length) {
+                            existing.canonical_name = canonicalName;
+                        }
+                        if (!existing.english_transliteration && row.english_transliteration) {
+                            existing.english_transliteration = row.english_transliteration;
+                        }
+                        // If any entry is a region, mark the whole location as region
+                        if (certain === 'r') {
+                            existing.isRegion = true;
+                        }
                     }
 
                     const entry = locationMap.get(key);
-                    if (!entry.peopleData.has(bioName)) {
-                        entry.peopleData.set(bioName, {
+                    if (!entry.peopleData.has(bioId)) {
+                        entry.peopleData.set(bioId, {
                             bioId: bioId,
+                            bioName: bioName,
                             contextsMap: new Map(),
                         });
                     }
 
-                    const personData = entry.peopleData.get(bioName);
+                    const personData = entry.peopleData.get(bioId);
                     const context = row.context || 'unknown';
                     const source = row.source;
 
@@ -180,7 +251,7 @@ const MappingSufis = () => {
                         if (isNaN(lat) || isNaN(lng)) return null;
 
                         const peopleArray = Array.from(loc.peopleData.entries())
-                            .map(([name, personData]) => {
+                            .map(([bioId, personData]) => {
                                 const contexts = Array.from(personData.contextsMap.entries())
                                     .sort(([a], [b]) => a.localeCompare(b))
                                     .map(([context, sourcesSet]) => ({
@@ -188,8 +259,8 @@ const MappingSufis = () => {
                                         sources: Array.from(sourcesSet).sort(),
                                     }));
                                 return {
-                                    name,
-                                    bioId: personData.bioId,
+                                    name: personData.bioName,
+                                    bioId: bioId,
                                     contexts,
                                 };
                             })
@@ -202,14 +273,24 @@ const MappingSufis = () => {
                             lng,
                             people: peopleArray,
                             allSources: Array.from(loc.allSources).sort(),
+                            isRegion: loc.isRegion || false,
                         };
                     })
                     .filter(Boolean);
 
+                console.log('Locations with isRegion:', locationsArray.filter(l => l.isRegion).map(l => ({ name: l.canonical_name, isRegion: l.isRegion })));
+
                 setLocationData(locationsArray);
+                
+                // Count unique individuals across all locations
+                const uniquePeopleSet = new Set();
+                locationsArray.forEach(loc => {
+                    loc.people.forEach(p => uniquePeopleSet.add(p.bioId));
+                });
+
                 setStats({
                     totalLocations: locationsArray.length,
-                    totalPeople: new Set(locationsArray.flatMap(l => l.people.map(p => p.name))).size,
+                    totalPeople: uniquePeopleSet.size,
                     totalMentions,
                 });
 
@@ -263,7 +344,7 @@ const MappingSufis = () => {
                             <strong>{stats.totalLocations}</strong> unique locations
                         </span>
                         <span className="mapping-stat-item">
-                            <strong>{stats.totalPeople}</strong> people
+                            <strong>{stats.totalPeople}</strong> unique individuals
                         </span>
                         <span>
                             <strong>{stats.totalMentions}</strong> total location mentions
@@ -298,13 +379,26 @@ const MappingSufis = () => {
                                 <Marker
                                     key={idx}
                                     position={[location.lat, location.lng]}
-                                    icon={createNumberedIcon(location.count)}
+                                    icon={createNumberedIcon(location.count, location.isRegion)}
                                     zIndexOffset={location.count * 1000}
                                 >
                                     <Popup maxWidth={400} maxHeight={400}>
                                         <div className="map-popup">
                                             <div className="map-popup-title">
                                                 {location.english_transliteration} - {location.canonical_name}
+                                                {location.isRegion && (
+                                                    <span style={{
+                                                        fontSize: '11px',
+                                                        background: '#e3f2fd',
+                                                        color: '#1976d2',
+                                                        padding: '2px 6px',
+                                                        borderRadius: '3px',
+                                                        fontWeight: '500',
+                                                        marginLeft: '8px'
+                                                    }}>
+                                                        REGION
+                                                    </span>
+                                                )}
                                             </div>
                                             <div className="map-popup-people">
                                                 <strong className="map-popup-people-header">
@@ -326,18 +420,43 @@ const MappingSufis = () => {
 
                 <div className="mapping-legend">
                     <h3>Legend</h3>
-                    <div className="mapping-legend-items">
-                        <div className="mapping-legend-item">
-                            <div className="mapping-legend-dot mapping-legend-dot-blue"></div><span>1 person</span>
+                    <div style={{ marginBottom: '20px' }}>
+                        <h4 style={{ fontSize: '14px', fontWeight: '600', marginBottom: '10px' }}>Marker Shapes</h4>
+                        <div style={{ display: 'flex', gap: '20px', marginBottom: '15px' }}>
+                            <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                                <svg width="25" height="41" viewBox="0 0 25 41" style={{ display: 'block' }}>
+                                    <path d="M12.5 0C5.6 0 0 5.6 0 12.5c0 9.4 12.5 28.5 12.5 28.5S25 21.9 25 12.5C25 5.6 19.4 0 12.5 0z" 
+                                          fill="#2196F3" stroke="#fff" strokeWidth="1.5"/>
+                                </svg>
+                                <span>Specific Place</span>
+                            </div>
+                            <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                                <svg width="35" height="35" viewBox="0 0 35 35" style={{ display: 'block' }}>
+                                    <polygon points="17.5,2 32,8.75 32,26.25 17.5,33 3,26.25 3,8.75" 
+                                             fill="#2196F3" 
+                                             stroke="#fff" 
+                                             strokeWidth="2"
+                                             opacity="0.85"/>
+                                </svg>
+                                <span>Region</span>
+                            </div>
                         </div>
-                        <div className="mapping-legend-item">
-                            <div className="mapping-legend-dot mapping-legend-dot-green"></div><span>2–4 people</span>
-                        </div>
-                        <div className="mapping-legend-item">
-                            <div className="mapping-legend-dot mapping-legend-dot-orange"></div><span>5–9 people</span>
-                        </div>
-                        <div className="mapping-legend-item">
-                            <div className="mapping-legend-dot mapping-legend-dot-red"></div><span>10+ people</span>
+                    </div>
+                    <div>
+                        <h4 style={{ fontSize: '14px', fontWeight: '600', marginBottom: '10px' }}>Number of People</h4>
+                        <div className="mapping-legend-items">
+                            <div className="mapping-legend-item">
+                                <div className="mapping-legend-dot mapping-legend-dot-blue"></div><span>1 person</span>
+                            </div>
+                            <div className="mapping-legend-item">
+                                <div className="mapping-legend-dot mapping-legend-dot-green"></div><span>2–4 people</span>
+                            </div>
+                            <div className="mapping-legend-item">
+                                <div className="mapping-legend-dot mapping-legend-dot-orange"></div><span>5–9 people</span>
+                            </div>
+                            <div className="mapping-legend-item">
+                                <div className="mapping-legend-dot mapping-legend-dot-red"></div><span>10+ people</span>
+                            </div>
                         </div>
                     </div>
                 </div>

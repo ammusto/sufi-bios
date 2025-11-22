@@ -283,7 +283,7 @@
         },
         {
           "name": "سفيان",
-          "person_id": 1667,
+          "person_id": 2938,
           "canonical_name": "سفيان",
           "has_id": NaN,
           "subj_added": false
@@ -369,7 +369,7 @@
       "relationship_type": "interlocutor",
       "context": "direct_dialogue",
       "full_text": "فقال: يا إبراهيم ترائي الله في سرك؟",
-      "person_id": 1593,
+      "person_id": 2890,
       "canonical_name": "رجل",
       "has_id": NaN
     }

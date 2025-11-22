@@ -1104,7 +1104,7 @@
       "chain": [
         {
           "name": "رجل",
-          "person_id": 1593,
+          "person_id": 2912,
           "canonical_name": "رجل",
           "has_id": NaN,
           "subj_added": false
@@ -1234,7 +1234,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "questioner",
       "full_text": "وبإسناده قَالَ رجل لحاتم مَا تشْتَهي",
-      "person_id": 1593,
+      "person_id": 2912,
       "canonical_name": "رجل",
       "has_id": NaN
     }

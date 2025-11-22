@@ -54,6 +54,13 @@
           "canonical_name": "حازم الحنفى",
           "has_id": 506,
           "subj_added": true
+        },
+        {
+          "person_id": 1485,
+          "canonical_name": "حازم الحنفى",
+          "has_id": 506,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "single_informant",
@@ -88,7 +95,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "يقرأ عليه",
       "full_text": "فأتى سليما رجل يقرأ عليه",
-      "person_id": 1593,
+      "person_id": 2913,
       "canonical_name": "رجل",
       "has_id": NaN
     }

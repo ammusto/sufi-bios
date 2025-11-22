@@ -402,20 +402,6 @@
           "canonical_name": "السري السقطي",
           "has_id": 236,
           "subj_added": true
-        },
-        {
-          "name": "",
-          "person_id": 183,
-          "canonical_name": "السري السقطي",
-          "has_id": 236,
-          "subj_added": false
-        },
-        {
-          "name": "",
-          "person_id": 183,
-          "canonical_name": "السري السقطي",
-          "has_id": 236,
-          "subj_added": false
         }
       ],
       "type": "explicit",
@@ -503,7 +489,7 @@
         },
         {
           "name": "إسماعيل",
-          "person_id": 67,
+          "person_id": 2749,
           "canonical_name": "اسماعيل",
           "has_id": NaN,
           "subj_added": false
@@ -2386,7 +2372,7 @@
         },
         {
           "name": "أبيه",
-          "person_id": 1212,
+          "person_id": 2814,
           "canonical_name": "أبوه",
           "has_id": NaN,
           "subj_added": false
@@ -2449,7 +2435,7 @@
         },
         {
           "name": "أبيه",
-          "person_id": 1212,
+          "person_id": 2814,
           "canonical_name": "أبوه",
           "has_id": NaN,
           "subj_added": false
@@ -2505,7 +2491,7 @@
       "chain": [
         {
           "name": "الحسن بن علي",
-          "person_id": 112,
+          "person_id": 2757,
           "canonical_name": "الحسن بن علي",
           "has_id": NaN,
           "subj_added": false
@@ -2547,7 +2533,7 @@
       "chain": [
         {
           "name": "الحسن بن علي",
-          "person_id": 112,
+          "person_id": 2757,
           "canonical_name": "الحسن بن علي",
           "has_id": NaN,
           "subj_added": false
@@ -2568,7 +2554,7 @@
         },
         {
           "name": "عبيد الله",
-          "person_id": 1992,
+          "person_id": 2951,
           "canonical_name": "عبيد الله",
           "has_id": NaN,
           "subj_added": false
@@ -2674,7 +2660,7 @@
       "name": "إسماعيل",
       "relationship_type": "narrator",
       "full_text": "ثنا إسماعيل قال قال السري السقطي",
-      "person_id": 67,
+      "person_id": 2749,
       "canonical_name": "اسماعيل",
       "has_id": NaN
     },
@@ -2850,7 +2836,7 @@
       "name": "الحسن بن علي",
       "relationship_type": "narrator",
       "full_text": "ثنا السري بن مغلس",
-      "person_id": 112,
+      "person_id": 2757,
       "canonical_name": "الحسن بن علي",
       "has_id": NaN
     },

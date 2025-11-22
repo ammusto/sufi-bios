@@ -413,7 +413,7 @@
         },
         {
           "name": "منصور",
-          "person_id": 2600,
+          "person_id": 2977,
           "canonical_name": "منصور",
           "has_id": NaN,
           "subj_added": false
@@ -688,7 +688,7 @@
           "name": "أبا الحسن المروزي",
           "has_id": NaN,
           "person_id": 403,
-          "canonical_name": "أبا الحسن المروزي",
+          "canonical_name": "أبو الحسن المروزي",
           "subj_added": false
         },
         {
@@ -716,7 +716,7 @@
           "name": "أبا الحسن المروزي",
           "has_id": NaN,
           "person_id": 403,
-          "canonical_name": "أبا الحسن المروزي",
+          "canonical_name": "أبو الحسن المروزي",
           "subj_added": false
         },
         {
@@ -812,7 +812,7 @@
         },
         {
           "name": "الحسن ابن علي",
-          "person_id": 112,
+          "person_id": 2758,
           "canonical_name": "الحسن بن علي",
           "has_id": NaN,
           "subj_added": false
@@ -854,7 +854,7 @@
         },
         {
           "name": "الحسن ابن علي",
-          "person_id": 112,
+          "person_id": 2758,
           "canonical_name": "الحسن بن علي",
           "has_id": NaN,
           "subj_added": false
@@ -966,7 +966,7 @@
         },
         {
           "name": "الحسن",
-          "person_id": 112,
+          "person_id": 2758,
           "canonical_name": "الحسن بن علي",
           "has_id": NaN,
           "subj_added": false
@@ -1001,7 +1001,7 @@
         },
         {
           "name": "الحسن",
-          "person_id": 112,
+          "person_id": 2758,
           "canonical_name": "الحسن بن علي",
           "has_id": NaN,
           "subj_added": false
@@ -1950,13 +1950,6 @@
           "canonical_name": "أبو موسى خادم البسطامي",
           "has_id": NaN,
           "subj_added": false
-        },
-        {
-          "name": "أبو يزيد",
-          "person_id": 1191,
-          "canonical_name": "أبو يزيد البسطامي",
-          "has_id": 435,
-          "subj_added": false
         }
       ],
       "type": "explicit",
@@ -2163,7 +2156,7 @@
         },
         {
           "name": "أبي",
-          "person_id": 1216,
+          "person_id": 2832,
           "canonical_name": "أبي",
           "has_id": NaN,
           "subj_added": false
@@ -2259,7 +2252,7 @@
       "name": "منصور",
       "relationship_type": "narrator",
       "full_text": "ثنا منصور قال جاء رجل إلى أبي يزيد فقال: أوصني",
-      "person_id": 2600,
+      "person_id": 2977,
       "canonical_name": "منصور",
       "has_id": NaN
     },
@@ -2283,7 +2276,7 @@
       "name": "الحسن ابن علي",
       "relationship_type": "narrator",
       "full_text": "سمعت الحسن ابن علي يقول قال أبو يزيد",
-      "person_id": 112,
+      "person_id": 2758,
       "canonical_name": "الحسن بن علي",
       "has_id": NaN
     },
@@ -2308,7 +2301,7 @@
       "relationship_type": "questioner",
       "context": "questioner",
       "full_text": "جاء رجل إلى أبي يزيد فقال: أوصني",
-      "person_id": 1593,
+      "person_id": 2905,
       "canonical_name": "رجل",
       "has_id": NaN
     },

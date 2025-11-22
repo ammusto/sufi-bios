@@ -47,8 +47,8 @@
         },
         {
           "name": "ثَابت الْبنانِيّ",
-          "person_id": 1429,
-          "canonical_name": "ثَابت الْبنانِيّ",
+          "person_id": 1430,
+          "canonical_name": "ثابت البناني",
           "has_id": NaN,
           "subj_added": false
         },
@@ -170,7 +170,7 @@
       "name": "بعض أَصْحَابه",
       "relationship_type": "interlocutor",
       "full_text": "وَدخل عَلَيْهِ بعض أَصْحَابه فَقَالَ أَنا إِذا مشيت فِي السُّوق يَقُول النَّاس انْظُرُوا إِلَى خشوع هَذَا الْمُنَافِق",
-      "person_id": 1401,
+      "person_id": 2847,
       "canonical_name": "بعض أصحابه",
       "has_id": NaN
     }

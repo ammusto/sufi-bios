@@ -100,7 +100,7 @@
           "name": "أبا الحسين الفارسي",
           "has_id": NaN,
           "person_id": 409,
-          "canonical_name": "أبا الحسين الفارسي",
+          "canonical_name": "أبو الحسين الفارسي",
           "subj_added": false
         },
         {
@@ -135,12 +135,12 @@
           "name": "أبا الحسين",
           "has_id": NaN,
           "person_id": 407,
-          "canonical_name": "أبا الحسين",
+          "canonical_name": "أبو الحسين",
           "subj_added": false
         },
         {
           "name": "الحسن",
-          "person_id": 91,
+          "person_id": 2754,
           "canonical_name": "الحسن",
           "has_id": NaN,
           "subj_added": false
@@ -170,12 +170,12 @@
           "name": "أبا الحسين",
           "has_id": NaN,
           "person_id": 407,
-          "canonical_name": "أبا الحسين",
+          "canonical_name": "أبو الحسين",
           "subj_added": false
         },
         {
           "name": "الحسن",
-          "person_id": 91,
+          "person_id": 2754,
           "canonical_name": "الحسن",
           "has_id": NaN,
           "subj_added": false
@@ -266,7 +266,7 @@
       "chain": [
         {
           "name": "الشيخ",
-          "person_id": 191,
+          "person_id": 2771,
           "canonical_name": "الشيخ",
           "has_id": NaN,
           "subj_added": false
@@ -679,7 +679,7 @@
         },
         {
           "name": "محمد بن إسحاق",
-          "person_id": 2340,
+          "person_id": 2965,
           "canonical_name": "محمد بن إسحاق",
           "has_id": 774,
           "subj_added": false
@@ -1037,7 +1037,7 @@
       "name": "رجل",
       "relationship_type": "questioner",
       "full_text": "فقال رجل: يا أنس أنت سمعت هذا من رسول الله ﷺ؟",
-      "person_id": 1593,
+      "person_id": 2930,
       "canonical_name": "رجل",
       "has_id": NaN
     }

@@ -640,7 +640,7 @@
         },
         {
           "name": "مُحَمَّد بن الْعَبَّاس",
-          "person_id": 2313,
+          "person_id": 2963,
           "canonical_name": "محمد بن العباس",
           "has_id": NaN,
           "subj_added": false
@@ -655,7 +655,7 @@
         {
           "name": "أَبَا بكر بن عَفَّان",
           "person_id": 746,
-          "canonical_name": "أبو بكر بن عفّان",
+          "canonical_name": "أبو بكر بن عفان",
           "has_id": NaN,
           "subj_added": false
         },
@@ -703,7 +703,7 @@
         },
         {
           "name": "رجل",
-          "person_id": 1593,
+          "person_id": 2910,
           "canonical_name": "رجل",
           "has_id": NaN,
           "subj_added": false
@@ -1027,7 +1027,7 @@
       "relationship_type": "narrator",
       "full_text": "سَمِعت أَبَا بكر بن عَفَّان قَالَ سَمِعت بشر ابْن الْحَارِث يَقُول",
       "person_id": 746,
-      "canonical_name": "أبو بكر بن عفّان",
+      "canonical_name": "أبو بكر بن عفان",
       "has_id": NaN
     },
     {
@@ -1074,7 +1074,7 @@
       "name": "رجل",
       "relationship_type": "questioner",
       "full_text": "قَالَ قَالَ رجل لبشر لَا أَدْرِي بِأَيّ شَيْء آكل خبزني",
-      "person_id": 1593,
+      "person_id": 2910,
       "canonical_name": "رجل",
       "has_id": NaN
     },

@@ -72,6 +72,13 @@
           "canonical_name": "عرفجة الكوفي",
           "has_id": 681,
           "subj_added": true
+        },
+        {
+          "person_id": 2026,
+          "canonical_name": "عرفجة الكوفي",
+          "has_id": 681,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "single_informant",
@@ -107,7 +114,7 @@
       "relationship_type": "questioner",
       "context": "في المنام",
       "full_text": "فإذا أنا برجال قد وقفوا علي فقالوا: يا أم عرفجة لم أذنت لامامنا الليلة؟.",
-      "person_id": 1592,
+      "person_id": 2877,
       "canonical_name": "رجال",
       "has_id": NaN
     },
@@ -116,7 +123,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "المستزير",
       "full_text": "فاستزاره بعض إخوانه ذات ليلة",
-      "person_id": 1396,
+      "person_id": 2838,
       "canonical_name": "بعض إخوانه",
       "has_id": NaN
     }

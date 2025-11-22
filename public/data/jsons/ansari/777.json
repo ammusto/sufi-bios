@@ -47,8 +47,8 @@
       "chain": [
         {
           "name": "پیری",
-          "person_id": 1745,
-          "canonical_name": "شيج",
+          "person_id": 2942,
+          "canonical_name": "شیخ",
           "has_id": NaN,
           "subj_added": false
         },
@@ -113,7 +113,7 @@
       "name": "مردی",
       "relationship_type": "questioner",
       "full_text": "که مردی ذوالنون مصری را گفت: که مرا دعایی کم.",
-      "person_id": 1593,
+      "person_id": 2929,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -138,8 +138,8 @@
       "name": "پیری",
       "relationship_type": "mentioned_in_anecdote",
       "full_text": "پیری گفته:",
-      "person_id": 1745,
-      "canonical_name": "شيج",
+      "person_id": 2942,
+      "canonical_name": "شیخ",
       "has_id": NaN
     },
     {

@@ -465,7 +465,7 @@
           "name": "أبا الحسين الفارسي",
           "has_id": NaN,
           "person_id": 409,
-          "canonical_name": "أبا الحسين الفارسي",
+          "canonical_name": "أبو الحسين الفارسي",
           "subj_added": false
         },
         {
@@ -500,7 +500,7 @@
           "name": "أبا الحسين الفارسي",
           "has_id": NaN,
           "person_id": 409,
-          "canonical_name": "أبا الحسين الفارسي",
+          "canonical_name": "أبو الحسين الفارسي",
           "subj_added": false
         },
         {
@@ -542,7 +542,7 @@
           "name": "أبا الحسين الوراق",
           "has_id": NaN,
           "person_id": 410,
-          "canonical_name": "أبا الحسين الوراق",
+          "canonical_name": "أبو الحسين الوراق",
           "subj_added": false
         },
         {
@@ -624,7 +624,7 @@
         },
         {
           "name": "محمد",
-          "person_id": 2280,
+          "person_id": 2957,
           "canonical_name": "محمد",
           "has_id": NaN,
           "subj_added": false
@@ -694,7 +694,7 @@
         },
         {
           "name": "محمد",
-          "person_id": 2280,
+          "person_id": 2957,
           "canonical_name": "محمد",
           "has_id": NaN,
           "subj_added": false
@@ -830,7 +830,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "ابن",
       "full_text": "مزق ابنه أبو بكر قميصا كان عليه",
-      "person_id": 682,
+      "person_id": 2791,
       "canonical_name": "أبو بكر",
       "has_id": NaN
     }

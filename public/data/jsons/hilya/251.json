@@ -66,7 +66,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "questioner",
       "full_text": "قال رجل للمرتعش: أوصني.",
-      "person_id": 1593,
+      "person_id": 2887,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -75,7 +75,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "questioner",
       "full_text": "وجاءه رجل فقال: أي الأعمال أفضل؟",
-      "person_id": 1593,
+      "person_id": 2887,
       "canonical_name": "رجل",
       "has_id": NaN
     }

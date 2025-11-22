@@ -120,7 +120,7 @@
         },
         {
           "name": "أَبِيه",
-          "person_id": 1212,
+          "person_id": 2821,
           "canonical_name": "أبوه",
           "has_id": NaN,
           "subj_added": false
@@ -664,7 +664,7 @@
       "name": "رجل",
       "relationship_type": "interlocutor",
       "full_text": "يَقُول لرجل كن شرِيف الهمة",
-      "person_id": 1593,
+      "person_id": 2911,
       "canonical_name": "رجل",
       "has_id": NaN
     },
@@ -672,7 +672,7 @@
       "name": "بعض أَصْحَابه",
       "relationship_type": "interlocutor",
       "full_text": "قَالَ قَالَ جَعْفَر لبَعض أَصْحَابه اجْتنب الدعاوي",
-      "person_id": 1401,
+      "person_id": 2852,
       "canonical_name": "بعض أصحابه",
       "has_id": NaN
     }

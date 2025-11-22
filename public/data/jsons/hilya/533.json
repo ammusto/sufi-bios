@@ -23,7 +23,7 @@
           "name": "أبا الحسن محمد بن أحمد",
           "has_id": NaN,
           "person_id": 406,
-          "canonical_name": "أبا الحسن محمد بن أحمد",
+          "canonical_name": "أبو الحسن محمد بن أحمد",
           "subj_added": false
         },
         {
@@ -65,7 +65,7 @@
       "relationship_type": "mentioned_in_anecdote",
       "context": "interlocutor",
       "full_text": "قال: سألت رجلا بالكام: ما الذي أجلسك في هذا الموضع؟",
-      "person_id": 1593,
+      "person_id": 2918,
       "canonical_name": "رجل",
       "has_id": NaN
     },

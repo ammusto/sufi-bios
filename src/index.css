@@ -560,6 +560,10 @@ body {
     font-weight: bold;
 }
 
+.leaflet-control-attribution .leaflet-attribution-flag {
+  display: none !important;
+}
+
 .add-search-button:disabled {
     background: #ccc;
     cursor: not-allowed;

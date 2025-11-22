@@ -163,9 +163,9 @@
       "chain": [
         {
           "name": "جنید",
-          "person_id": 1476,
-          "canonical_name": "جنید",
-          "has_id": NaN,
+          "person_id": 595,
+          "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+          "has_id": 228,
           "subj_added": false
         }
       ],
@@ -383,7 +383,7 @@
       "chain": [
         {
           "name": "بوالعباس",
-          "person_id": 543,
+          "person_id": 2788,
           "canonical_name": "أبو العباس",
           "has_id": NaN,
           "subj_added": false
@@ -496,18 +496,18 @@
         "relationship_type": "student_of",
         "relationship_phrase": "دیده و صحبت کرده",
         "full_text": "در بغداد جنید دیده و صحبت کرده",
-        "person_id": 1476,
-        "canonical_name": "جنید",
-        "has_id": NaN
+        "person_id": 595,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
       },
       {
         "name": "جنید٭",
         "relationship_type": "student_of",
         "relationship_phrase": "پیر ... بودهام و صحبت کردهام",
         "full_text": "با پیر شما جنید٭ بودهام و صحبت کردهام",
-        "person_id": 1476,
-        "canonical_name": "جنید",
-        "has_id": NaN
+        "person_id": 595,
+        "canonical_name": "أبو القاسم الجنيد بن محمد البغدادي",
+        "has_id": 228
       }
     ],
     "students": [],
@@ -586,7 +586,7 @@
       "name": "یکی",
       "relationship_type": "questioner",
       "full_text": "یکی از جنید پرسید: که دل کی خوش بود؟",
-      "person_id": 2728,
+      "person_id": 2997,
       "canonical_name": "يكي",
       "has_id": NaN
     },
@@ -594,7 +594,7 @@
       "name": "کسی",
       "relationship_type": "questioner",
       "full_text": "کسی ویرا گفت: که چون دیدی جنید را؟",
-      "person_id": 1593,
+      "person_id": 2879,
       "canonical_name": "رجل",
       "has_id": NaN
     },

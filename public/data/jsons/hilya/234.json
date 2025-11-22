@@ -53,6 +53,13 @@
           "canonical_name": "الخادم",
           "has_id": 234,
           "subj_added": true
+        },
+        {
+          "person_id": 165,
+          "canonical_name": "الخادم",
+          "has_id": 234,
+          "subj_added": true,
+          "name": ""
         }
       ],
       "type": "single_informant",

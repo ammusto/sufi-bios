@@ -107,12 +107,12 @@
           "name": "أبا الحسين الفارسي",
           "has_id": NaN,
           "person_id": 409,
-          "canonical_name": "أبا الحسين الفارسي",
+          "canonical_name": "أبو الحسين الفارسي",
           "subj_added": false
         },
         {
           "name": "الحسن بن علي",
-          "person_id": 112,
+          "person_id": 2760,
           "canonical_name": "الحسن بن علي",
           "has_id": NaN,
           "subj_added": false
@@ -142,12 +142,12 @@
           "name": "أبا الحسين الفارسي",
           "has_id": NaN,
           "person_id": 409,
-          "canonical_name": "أبا الحسين الفارسي",
+          "canonical_name": "أبو الحسين الفارسي",
           "subj_added": false
         },
         {
           "name": "الحسن بن علي",
-          "person_id": 112,
+          "person_id": 2760,
           "canonical_name": "الحسن بن علي",
           "has_id": NaN,
           "subj_added": false
@@ -177,12 +177,12 @@
           "name": "أبا الحسين الفارسي",
           "has_id": NaN,
           "person_id": 409,
-          "canonical_name": "أبا الحسين الفارسي",
+          "canonical_name": "أبو الحسين الفارسي",
           "subj_added": false
         },
         {
           "name": "الحسن بن علي",
-          "person_id": 112,
+          "person_id": 2760,
           "canonical_name": "الحسن بن علي",
           "has_id": NaN,
           "subj_added": false
@@ -212,12 +212,12 @@
           "name": "أبا الحسين الفارسي",
           "has_id": NaN,
           "person_id": 409,
-          "canonical_name": "أبا الحسين الفارسي",
+          "canonical_name": "أبو الحسين الفارسي",
           "subj_added": false
         },
         {
           "name": "الحسن بن علي",
-          "person_id": 112,
+          "person_id": 2760,
           "canonical_name": "الحسن بن علي",
           "has_id": NaN,
           "subj_added": false
@@ -363,7 +363,7 @@
       "relationship_type": "narrator",
       "context": "direct_narrator",
       "full_text": "سمعت الحسن بن علي يقول سمعت محمد بن علي الترمذي يقول",
-      "person_id": 112,
+      "person_id": 2760,
       "canonical_name": "الحسن بن علي",
       "has_id": NaN
     },

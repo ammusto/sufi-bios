@@ -239,31 +239,7 @@ const ChainFlowGraph = ({
       (inW.get(d.id) ?? 0) >= inP ||
       (outW.get(d.id) ?? 0) >= outP;
 
-    const labelLayer = o.append('g').attr('class', 'labels');
-    const labelSel = labelLayer
-      .selectAll('text.label')
-      .data(data.nodes.filter(showLabel))
-      .enter()
-      .append('text')
-      .attr('class', 'label')
-      .attr('transform', (d) => {
-        const p = layout.nodePositions.get(d.id);
-        return `translate(${p.x}, ${p.y}) rotate(${uprightTextRotate})`;
-      })
-      .attr('x', 0)
-      .attr('y', (d) => ((d.id === centerId || d.type === 'center') ? -28 : -15))
-      .attr('text-anchor', 'middle')
-      .attr('font-size', (d) => ((d.id === centerId || d.type === 'center') ? '14px' : '11px'))
-      .attr('font-weight', 'bold')
-      .attr('fill', '#333')
-      .style('pointer-events', 'none')
-      .style('text-shadow', '0 0 3px white, 0 0 3px white, 0 0 5px white')
-      .text((d) => {
-        const name = d.name || '';
-        const base = (d.id === centerId || d.type === 'center') ? name : (name.length > 25 ? name.slice(0, 25) + '…' : name);
-        const uniqueIsnadCount = personToUniqueIsnads.get(d.id)?.size || 0;
-        return uniqueIsnadCount > 1 ? `${base} ×${uniqueIsnadCount}` : base;
-      });
+    
 
     // Hover labels for nodes without permanent labels
     const hoverLabelLayer = o.append('g').attr('class', 'hover-labels');

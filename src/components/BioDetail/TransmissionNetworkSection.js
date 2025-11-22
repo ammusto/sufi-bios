@@ -1,4 +1,4 @@
-import React, { useState, useMemo, useEffect } from 'react';
+import React, { useState, useMemo, useEffect, useCallback } from 'react';
 import ChainFlowGraph from '../Network/TransmitterView/ChainFlowGraph';
 import StatsPanel from '../Network/shared/StatsPanel';
 import Loading from '../common/Loading';
@@ -9,17 +9,15 @@ const TransmissionNetworkSection = ({ bioId, bioName }) => {
   const [sourceData, setSourceData] = useState({});
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-  
-  useEffect(() => {
-    loadSourceData();
-  }, [bioId]);
 
-  async function loadSourceData() {
+
+  const loadSourceData = useCallback(async () => {
     setLoading(true);
     setError(null);
+
     const sources = ['sulami', 'hilya', 'ansari'];
     const data = {};
-    
+
     for (const source of sources) {
       try {
         const res = await fetch(`/data/jsons/${source}/${bioId}.json`);
@@ -32,24 +30,28 @@ const TransmissionNetworkSection = ({ bioId, bioName }) => {
         console.log(`Failed to load ${source}:`, e);
       }
     }
-    
+
     setSourceData(data);
-    
+
     const available = Object.keys(data);
     if (available.length > 0) {
       setActiveSource(available[0]);
     } else {
       setError('No network data available');
     }
-    
+
     setLoading(false);
-  }
+  }, [bioId]);
+
+  useEffect(() => {
+    loadSourceData();
+  }, [loadSourceData]);
+
 
   const graphData = useMemo(() => {
     if (!activeSource || !sourceData[activeSource]) return null;
 
     const currentData = sourceData[activeSource];
-    
     if (!currentData.isnads || currentData.isnads.length === 0) return null;
 
     const nodesMap = new Map();
@@ -60,13 +62,13 @@ const TransmissionNetworkSection = ({ bioId, bioName }) => {
       if (!isnad.chain || isnad.chain.length === 0) return;
 
       const chain = isnad.chain.filter(c => c.person_id);
-      
+
       chain.forEach((person, i) => {
         const nodeId = `p_${person.person_id}`;
-        
+
         const isSubject = String(person.has_id) === String(bioId);
         if (isSubject) subjectNodeId = nodeId;
-        
+
         if (!nodesMap.has(nodeId)) {
           nodesMap.set(nodeId, {
             id: nodeId,
@@ -82,6 +84,7 @@ const TransmissionNetworkSection = ({ bioId, bioName }) => {
         if (i < chain.length - 1) {
           const nextId = `p_${chain[i + 1].person_id}`;
           const edgeKey = `${nodeId}->${nextId}`;
+
           if (!edgesMap.has(edgeKey)) {
             edgesMap.set(edgeKey, {
               source: nodeId,
@@ -97,14 +100,12 @@ const TransmissionNetworkSection = ({ bioId, bioName }) => {
 
     const nodes = Array.from(nodesMap.values());
     const edges = Array.from(edgesMap.values());
-
     if (nodes.length === 0) return null;
 
-    // Build isnad details for highlighting
     const isnadDetails = currentData.isnads
       .filter(isnad => isnad.chain && isnad.chain.length > 0)
       .map((isnad, idx) => {
-        const chain = isnad.chain.filter(c => c.person_id);
+        const chain = isnad.chain.filter(p => p.person_id);
         return {
           isnad_id: `isnad_${idx}`,
           full_isnad: chain.map(p => `p_${p.person_id}`),
@@ -149,11 +150,13 @@ const TransmissionNetworkSection = ({ bioId, bioName }) => {
   function downloadCSV() {
     if (!graphData) return;
     const rows = [['source', 'target', 'weight']];
+
     graphData.edges.forEach(e => {
       const source = graphData.nodes.find(n => n.id === e.source)?.name || e.source;
       const target = graphData.nodes.find(n => n.id === e.target)?.name || e.target;
       rows.push([source, target, e.weight]);
     });
+
     const csv = rows.map(r => r.join(',')).join('\n');
     const blob = new Blob([csv], { type: 'text/csv' });
     const url = URL.createObjectURL(blob);
@@ -164,6 +167,9 @@ const TransmissionNetworkSection = ({ bioId, bioName }) => {
     URL.revokeObjectURL(url);
   }
 
+  // ---------------------------------------------------------------------------
+  // RENDER
+  // ---------------------------------------------------------------------------
   if (loading) return <Loading />;
   if (error) return <div style={{ padding: '20px', color: '#666' }}>{error}</div>;
   if (!activeSource) return null;
@@ -173,9 +179,9 @@ const TransmissionNetworkSection = ({ bioId, bioName }) => {
   return (
     <div style={{ marginBottom: '30px' }}>
       <h2>Transmission Network</h2>
-      
-      <div style={{ 
-        borderBottom: '2px solid #e0e0e0', 
+
+      <div style={{
+        borderBottom: '2px solid #e0e0e0',
         marginBottom: '20px',
         display: 'flex',
         gap: '10px',
@@ -185,7 +191,7 @@ const TransmissionNetworkSection = ({ bioId, bioName }) => {
         <div style={{ display: 'flex', gap: '10px' }}>
           {availableSources.map(source => {
             const count = sourceData[source]?.isnads?.length || 0;
-            
+
             return (
               <button
                 key={source}
@@ -208,7 +214,7 @@ const TransmissionNetworkSection = ({ bioId, bioName }) => {
             );
           })}
         </div>
-        
+
         <div style={{ display: 'flex', gap: '8px', marginBottom: '8px' }}>
           <button
             onClick={downloadJSON}
@@ -244,8 +250,8 @@ const TransmissionNetworkSection = ({ bioId, bioName }) => {
       <div style={{ position: 'relative' }}>
         {graphData ? (
           <>
-            <div style={{ 
-              height: '700px', 
+            <div style={{
+              height: '700px',
               border: '1px solid #e0e0e0',
               borderRadius: '4px',
               background: '#fafafa'
@@ -259,7 +265,7 @@ const TransmissionNetworkSection = ({ bioId, bioName }) => {
                 orientation="down"
               />
             </div>
-            
+
             {selectedNode && !selectedNode.isBioSubject && (
               <div style={{
                 position: 'absolute',
@@ -280,10 +286,10 @@ const TransmissionNetworkSection = ({ bioId, bioName }) => {
             )}
           </>
         ) : (
-          <div style={{ 
-            textAlign: 'center', 
-            padding: '40px', 
-            color: '#666' 
+          <div style={{
+            textAlign: 'center',
+            padding: '40px',
+            color: '#666'
           }}>
             No transmission data for {activeSource}
           </div>
